@@ -2,11 +2,13 @@ from utils import *
 
 # Constants
 slugs = ["development", "updates", "packages", "design", "marketing", "companies", "podcasts", "newsletters", "youtube", "twitch"]
-unsupported_site_urls = load_txt_lines('unsupported_site_urls.txt')
+unsupported_site_urls = load_txt_lines("unsupported_site_urls.txt")
 IS_DEBUG = True
+LIMIT_NUMBER_OF_POST_PER_SITE = 1000
+LIMIT_NUMBER_OF_POST_PER_SLUG = 1000
 
 def rebuild_sites():
-    data = load_json('./categories.json')
+    data = load_json("./categories.json")
 
     all_sites = []
     for category in data.get("categories", []):
@@ -28,13 +30,13 @@ def rebuild_sites():
         "updated": current_timestamp(),
         "sites": all_sites
     }
-    save_json(sites_json, 'sites.json')
+    save_json(sites_json, "sites.json")
 
     return all_sites
 
 def parse_feed(site):
-    site_url = site['site_url']
-    feed_url = site['feed_url']
+    site_url = site["site_url"]
+    feed_url = site["feed_url"]
 
     if site_url in unsupported_site_urls:
         raise Exception("Unsupported site_url")
@@ -60,7 +62,7 @@ def parse_feed(site):
 def generate_posts_by_sites(sites):
     for site in sites:
         try:
-            output_file_path = './posts/by_site/' + simplifized_url(site['site_url']) + '.json'
+            output_file_path = "./posts/by_site/" + simplifized_url(site["site_url"]) + ".json"
             print(f"processing {output_file_path}")
 
             if IS_DEBUG and os.path.isfile(output_file_path):
@@ -80,12 +82,33 @@ def generate_posts_by_sites(sites):
 
         except Exception as e:
             print(f"❌ Error parsing, {site['site_url']}, error: {str(e)}")
+
+def generate_posts_by_slugs(sites):
+    for slug in slugs:
+        slug_posts = []
+        for site in sites:
+            file_path = "./posts/by_site/" + simplifized_url(site["site_url"]) + ".json"
+            if not site["slug"] == slug or not os.path.isfile(file_path):
+                continue
+            site_posts = load_json(file_path)["posts"]
+            for post in site_posts:
+                slug_posts.append(post)
         
+        slug_posts.sort(reverse=True, key=lambda t: t["updated"])
+        slug_posts_result = {
+            "updated": current_timestamp(),
+            "posts": slug_posts
+        }
+
+        output_file_path = "./posts/by_slug/" + slug + ".json"
+        save_json(slug_posts_result, output_file_path)
+        print(f"+ slug {slug}: {len(slug_posts)}")
+
 # main 
 
 # 1. Download blogs json file from github repo
 blogs = load_json_from_url("https://raw.githubusercontent.com/daveverwer/iOSDevDirectory/main/blogs.json")
-save_json(blogs, 'blogs.json')
+save_json(blogs, "blogs.json")
 
 # 2. Generate `sites.json` - array of Site
 sites = rebuild_sites()
@@ -94,13 +117,14 @@ sites = rebuild_sites()
 generate_posts_by_sites(sites)
 
 # 4. Generate `posts/by_slug/{slug}.json}
+generate_posts_by_slugs(sites)
 
 # print(all_feeds)
 
 # Sort by updated and save to `feeds.json`
-# all_feeds.sort(reverse=True, key=lambda feed: feed['updated'])
+# all_feeds.sort(reverse = True, key = lambda feed: feed["updated"])
 # feeds_json = {
 #     "updated": current_timestamp(),
 #     "feeds": all_feeds
 # }
-# save_json(feeds_json, 'feeds.json')
+# save_json(feeds_json, "feeds.json")
