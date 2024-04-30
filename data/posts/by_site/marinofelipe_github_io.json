@@ -1,0 +1,40 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://marinofelipe.github.io/tips/swift/tips_final_modifier",
+            "title": "Swift tip: final keyword",
+            "link": "https://marinofelipe.github.io/tips/swift/tips_final_modifier/",
+            "updated": 1590718500,
+            "site_name": "Felipe Marino\u2019s Blog"
+        },
+        {
+            "id": "https://marinofelipe.github.io/tips/swift/tips_readable_bundle_extensions",
+            "title": "Swift tip: Well-defined Bundles",
+            "link": "https://marinofelipe.github.io/tips/swift/tips_readable_bundle_extensions/",
+            "updated": 1589943600,
+            "site_name": "Felipe Marino\u2019s Blog"
+        },
+        {
+            "id": "https://marinofelipe.github.io/xcode/xcode-coffee-shortcuts",
+            "title": "Xcode coffee shortcuts",
+            "link": "https://marinofelipe.github.io/xcode/xcode-coffee-shortcuts/",
+            "updated": 1589254200,
+            "site_name": "Felipe Marino\u2019s Blog"
+        },
+        {
+            "id": "https://marinofelipe.github.io/swift/swift-capture-list",
+            "title": "Swift capture lists: Reference vs Value properties",
+            "link": "https://marinofelipe.github.io/swift/swift-capture-list/",
+            "updated": 1586325600,
+            "site_name": "Felipe Marino\u2019s Blog"
+        },
+        {
+            "id": "https://marinofelipe.github.io/accessibility/ui/ios-dynamic-type-and-custom-fonts",
+            "title": "iOS Dynamic Type with custom fonts",
+            "link": "https://marinofelipe.github.io/accessibility/ui/ios-dynamic-type-and-custom-fonts/",
+            "updated": 1554727132,
+            "site_name": "Felipe Marino\u2019s Blog"
+        }
+    ]
+}

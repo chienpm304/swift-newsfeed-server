@@ -1,0 +1,47 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/47ed69d2a427",
+            "title": "Mastering Publisher Subscriptions in Combine: A Comprehensive Guide",
+            "link": "https://huypham85.medium.com/mastering-publisher-subscriptions-in-combine-a-comprehensive-guide-47ed69d2a427?source=rss-b87ab2bbc03b------2",
+            "updated": 1713746016,
+            "site_name": "Huy Pham's Blog"
+        },
+        {
+            "id": "https://medium.com/p/0339ff1bd69e",
+            "title": "Essential iOS App Security Cases Developers Shouldn\u2019t Overlook",
+            "link": "https://towardsdev.com/essential-ios-app-security-cases-developers-shouldnt-overlook-0339ff1bd69e?source=rss-b87ab2bbc03b------2",
+            "updated": 1712740591,
+            "site_name": "Huy Pham's Blog"
+        },
+        {
+            "id": "https://medium.com/p/fbe23d994ae4",
+            "title": "Publisher in Combine: Unveiling the Publisher Role",
+            "link": "https://towardsdev.com/publisher-in-combine-fbe23d994ae4?source=rss-b87ab2bbc03b------2",
+            "updated": 1713745970,
+            "site_name": "Huy Pham's Blog"
+        },
+        {
+            "id": "https://medium.com/p/ebda437736f7",
+            "title": "Making a completionHandler Safer in Swift",
+            "link": "https://huypham85.medium.com/making-a-completionhandler-safer-in-swift-ebda437736f7?source=rss-b87ab2bbc03b------2",
+            "updated": 1712865072,
+            "site_name": "Huy Pham's Blog"
+        },
+        {
+            "id": "https://medium.com/p/3867dd8fd3d2",
+            "title": "Stop Using\u00a0.lowercased() to Compare Strings in Swift",
+            "link": "https://huypham85.medium.com/stop-using-lowercased-to-compare-strings-in-swift-3867dd8fd3d2?source=rss-b87ab2bbc03b------2",
+            "updated": 1712864854,
+            "site_name": "Huy Pham's Blog"
+        },
+        {
+            "id": "https://medium.com/p/f1823def91b3",
+            "title": "Introduction to Combine in iOS",
+            "link": "https://towardsdev.com/introduction-to-combine-in-ios-f1823def91b3?source=rss-b87ab2bbc03b------2",
+            "updated": 1713746084,
+            "site_name": "Huy Pham's Blog"
+        }
+    ]
+}

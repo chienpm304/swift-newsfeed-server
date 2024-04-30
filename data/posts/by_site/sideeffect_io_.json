@@ -1,0 +1,145 @@
+{
+    "updated": 1714470930,
+    "posts": [
+        {
+            "id": "https://sideeffect.io/posts/2023-01-11-regulate/",
+            "title": "Debouncing with Swift concurrency",
+            "link": "https://sideeffect.io/posts/2023-01-11-regulate/",
+            "updated": 1673370000,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2022-03-13-asyncsequenceextensions/",
+            "title": "AsyncSequence extensions",
+            "link": "https://sideeffect.io/posts/2022-03-13-asyncsequenceextensions/",
+            "updated": 1647795600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2021-12-10-equatableerror/",
+            "title": "Equatable Errors in Swift",
+            "link": "https://sideeffect.io/posts/2021-12-10-equatableerror/",
+            "updated": 1639069200,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2021-02-13-statemachinedsl/",
+            "title": "A DSL for state machines in Swift",
+            "link": "https://sideeffect.io/posts/2021-02-13-statemachinedsl/",
+            "updated": 1613149200,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2020-08-19-functionsasdependencies/",
+            "title": "Functions as dependencies in Swift",
+            "link": "https://sideeffect.io/posts/2020-08-19-functionsasdependencies/",
+            "updated": 1597770000,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2020-03-26-spin/",
+            "title": "Introducing Spin",
+            "link": "https://sideeffect.io/posts/2020-03-26-spin/",
+            "updated": 1585155600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2019-07-20-swift-aop/",
+            "title": "Swift - An Aspect Oriented Programming Language ?",
+            "link": "https://sideeffect.io/posts/2019-07-20-swift-aop/",
+            "updated": 1563555600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2019-06-18-propertywrappers/",
+            "title": "Property Wrappers In Swift 5.1, The Missing Published Implementation",
+            "link": "https://sideeffect.io/posts/2019-06-18-propertywrappers/",
+            "updated": 1560790800,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-06-25-rxreduce-part2/",
+            "title": "RxReduce - Reactive State Container Architecture Part 2",
+            "link": "https://sideeffect.io/posts/2018-06-25-rxreduce-part2/",
+            "updated": 1529859600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-06-24-rxreduce-part1/",
+            "title": "RxReduce - Reactive State Container Architecture Part 1",
+            "link": "https://sideeffect.io/posts/2018-06-24-rxreduce-part1/",
+            "updated": 1529773200,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-04-28-typesafenetworklayer/",
+            "title": "Type safe network layer",
+            "link": "https://sideeffect.io/posts/2018-04-28-typesafenetworklayer/",
+            "updated": 1524848400,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-04-02-glanceatconditionalconformance/",
+            "title": "A glance at conditional conformance",
+            "link": "https://sideeffect.io/posts/2018-04-02-glanceatconditionalconformance/",
+            "updated": 1522602000,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-03-24-elegantlychaininguiviewpropertyanimators/",
+            "title": "Elegantly chaining UIViewPropertyAnimators",
+            "link": "https://sideeffect.io/posts/2018-03-24-elegantlychaininguiviewpropertyanimators/",
+            "updated": 1521824400,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2018-01-02-protocolorientedtipsmvvm/",
+            "title": "Protocol Oriented Tips For MVVM in Swift",
+            "link": "https://sideeffect.io/posts/2018-01-02-protocolorientedtipsmvvm/",
+            "updated": 1514826000,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-12-22-rxflow-part3/",
+            "title": "RxFlow Part 3 - Tips and tricks",
+            "link": "https://sideeffect.io/posts/2017-12-22-rxflow-part3/",
+            "updated": 1513875600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-12-09-rxflow-part2/",
+            "title": "RxFlow Part 2 - In Practice",
+            "link": "https://sideeffect.io/posts/2017-12-09-rxflow-part2/",
+            "updated": 1512752400,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-11-22-versatilenamespace/",
+            "title": "Versatile Namespace",
+            "link": "https://sideeffect.io/posts/2017-11-22-versatilenamespace/",
+            "updated": 1511283600,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-11-09-typeerasure/",
+            "title": "Type erasure in Swift",
+            "link": "https://sideeffect.io/posts/2017-11-09-typeerasure/",
+            "updated": 1510160400,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-11-08-rxflow-part1/",
+            "title": "RxFlow Part 1 - In Theory",
+            "link": "https://sideeffect.io/posts/2017-11-08-rxflow-part1/",
+            "updated": 1510074000,
+            "site_name": "Side Effect"
+        },
+        {
+            "id": "https://sideeffect.io/posts/2017-11-01-ezstream/",
+            "title": "EZStream",
+            "link": "https://sideeffect.io/posts/2017-11-01-ezstream/",
+            "updated": 1509469200,
+            "site_name": "Side Effect"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "updated": 1714470861,
+    "posts": [
+        {
+            "id": "65e6d83be59ad862129efeb1",
+            "title": "How to delete an app and all iCloud/CloudKit data",
+            "link": "https://sowenjub.me/writes/how-to-delete-an-app-and-all-icloud-cloudkit-data/",
+            "updated": 1709608738,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "65b281e2e59ad862129efd5f",
+            "title": "How to upload dSYMs files to Sentry with Xcode Cloud",
+            "link": "https://sowenjub.me/writes/how-to-upload-dsyms-files-to-sentry-with-xcode-cloud/",
+            "updated": 1706178284,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "639a21d7e59ad862129efb1a",
+            "title": "Searchable vs. Textfield in a sheet deployed with  presentationDetents",
+            "link": "https://sowenjub.me/writes/searchable-vs-textfield-in-a-sheet-deployed-with-presentationdetents/",
+            "updated": 1671173373,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "636ccc9d01d1f7280d998614",
+            "title": "How I made my app 73% lighter",
+            "link": "https://sowenjub.me/writes/how-i-made-my-app-73-percent-ligther/",
+            "updated": 1668657724,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "636b719e01d1f7280d9984c3",
+            "title": "Single Size Icons: Solving \"Core Data API misuse\" and \"Command CompileAssetCatalog failed with a nonzero exit code\"",
+            "link": "https://sowenjub.me/writes/single-size-icons-solving-command-compileassetcatalog-failed-with-a-nonzero-exit-code/",
+            "updated": 1667982869,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6359afd201d1f7280d9982a2",
+            "title": "I'm done with Semantic Versioning",
+            "link": "https://sowenjub.me/writes/im-done-with-semantic-versioning/",
+            "updated": 1666853723,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "63171aaba5edb93b28defbdf",
+            "title": "Localizing App Shortcuts with App Intents",
+            "link": "https://sowenjub.me/writes/localizing-app-shortcuts-with-app-intents/",
+            "updated": 1662442927,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "628355f5f333490656494888",
+            "title": "SwiftUI Canvas, Path, Shape, and View",
+            "link": "https://sowenjub.me/writes/swiftui-canvas-path-shape-and-view/",
+            "updated": 1652752209,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "62685e89f3334906564943b1",
+            "title": "How to add a Diagnostic Mode using Settings.bundle and SwiftUI",
+            "link": "https://sowenjub.me/writes/how-to-add-a-diagnostic-mode-using-settings-bundle-and-swiftui/",
+            "updated": 1651027194,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5fa3",
+            "title": "How an enum with associated values can conform to the Identifiable protocol",
+            "link": "https://sowenjub.me/writes/identifiable-enum-with-associated-values/",
+            "updated": 1623415080,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5fa2",
+            "title": "Localizing your App Store marketing content with Localazy and Fastlane",
+            "link": "https://sowenjub.me/writes/localizing-your-app-store-marketing-content-with-localazy/",
+            "updated": 1622356582,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5f9b",
+            "title": "Translating your iOS app with Localazy",
+            "link": "https://sowenjub.me/writes/translating-your-ios-app-with-localazy/",
+            "updated": 1622214027,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5fa1",
+            "title": "Capybara: 2 ways to click links in emails",
+            "link": "https://sowenjub.me/writes/capybara-2-ways-to-click-links-in-emails/",
+            "updated": 1608307200,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5fa0",
+            "title": "Replacing Selenium with Cuprite for Rails system tests",
+            "link": "https://sowenjub.me/writes/replacing-selenium-with-cuprite-for-rails-system-tests/",
+            "updated": 1608220800,
+            "site_url": "https://sowenjub.me/"
+        },
+        {
+            "id": "6257bd99ae9bf4201d9e5f9f",
+            "title": "Auto-linking URLs with Trix Editor and StimulusJS",
+            "link": "https://sowenjub.me/writes/auto-linking-urls-with-trix-editor-and-stimulusjs/",
+            "updated": 1603119600,
+            "site_url": "https://sowenjub.me/"
+        }
+    ]
+}

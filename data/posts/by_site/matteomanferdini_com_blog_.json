@@ -1,0 +1,54 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://matteomanferdini.com/?p=2385",
+            "title": "Parsing JSON in Swift: The Complete Guide [With Examples]",
+            "link": "https://matteomanferdini.com/swift-parse-json/",
+            "updated": 1713169837,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177765",
+            "title": "Decoding JSON with Dynamic Types in Swift [With Codable]",
+            "link": "https://matteomanferdini.com/swift-codable-dynamic-type/",
+            "updated": 1712223477,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177754",
+            "title": "Decode JSON with Dynamic Keys in Swift [Dictionaries and Arrays]",
+            "link": "https://matteomanferdini.com/swift-decode-json-dynamic-keys/",
+            "updated": 1712125072,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177748",
+            "title": "Decoding and Flattening Nested JSON with Codable",
+            "link": "https://matteomanferdini.com/swift-codable-nested-json/",
+            "updated": 1712055017,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177742",
+            "title": "Coding Keys in Swift with Decodable: How and When to Use Them",
+            "link": "https://matteomanferdini.com/codingkey-swift/",
+            "updated": 1712044647,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177734",
+            "title": "Parse JSON from an API URL in Swift [Codable and URLSession]",
+            "link": "https://matteomanferdini.com/swift-parse-json-from-url/",
+            "updated": 1712026242,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177725",
+            "title": "Parse JSON in Swift without Codable [Arrays and Dictionaries]",
+            "link": "https://matteomanferdini.com/swift-parse-json-without-codable/",
+            "updated": 1711974673,
+            "site_name": "Matteo Manferdini\u2019s Blog"
+        }
+    ]
+}

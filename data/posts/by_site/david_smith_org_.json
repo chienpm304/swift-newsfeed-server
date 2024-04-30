@@ -1,0 +1,145 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://david-smith.org/blog/2024/04/22/new-post",
+            "title": "Developing An Inclusive Mindset",
+            "link": "http://david-smith.org/blog/2024/04/22/new-post/",
+            "updated": 1713779640,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2024/02/26/super-resolution-panoramas",
+            "title": "Super-Resolution iPhone Panoramas for Vision Pro",
+            "link": "http://david-smith.org/blog/2024/02/26/super-resolution-panoramas/",
+            "updated": 1708940400,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2024/01/23/independent-as-in-freedom",
+            "title": "Independent as in Freedom, not Independent as in Alone",
+            "link": "http://david-smith.org/blog/2024/01/23/independent-as-in-freedom/",
+            "updated": 1706010000,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/12/04/pedometer-hiking-update",
+            "title": "Pedometer++ 5.3: The Ultimate Hiking Companion",
+            "link": "http://david-smith.org/blog/2023/12/04/pedometer-hiking-update/",
+            "updated": 1701675000,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/11/13/design-notes-47",
+            "title": "Matching the Modular Ultra watch face with SF Font Alternatives",
+            "link": "http://david-smith.org/blog/2023/11/13/design-notes-47/",
+            "updated": 1699844460,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/11/06/design-notes-46",
+            "title": "Calculating a Smooth Clock Hands Animation",
+            "link": "http://david-smith.org/blog/2023/11/06/design-notes-46/",
+            "updated": 1699250760,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/11/03/design-notes-45",
+            "title": "visionOS Friday: Tinting a Glassy Ornament",
+            "link": "http://david-smith.org/blog/2023/11/03/design-notes-45/",
+            "updated": 1698992760,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/11/01/design-notes-44",
+            "title": "Animatable Dual Axis Graph",
+            "link": "http://david-smith.org/blog/2023/11/01/design-notes-44/",
+            "updated": 1698830460,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/10/27/design-notes-43",
+            "title": "Introducing visionOS Fridays",
+            "link": "http://david-smith.org/blog/2023/10/27/design-notes-43/",
+            "updated": 1698391440,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/10/26/design-notes-42",
+            "title": "Design Evolution: Offline Map Downloader",
+            "link": "http://david-smith.org/blog/2023/10/26/design-notes-42/",
+            "updated": 1698311160,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/10/24/design-notes-41",
+            "title": "Upstream Decisions",
+            "link": "http://david-smith.org/blog/2023/10/24/design-notes-41/",
+            "updated": 1698114240,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/09/18/widgetsmith-5-interactive-widgets",
+            "title": "Widgetsmith 5: Interactive Widgets for iOS 17",
+            "link": "http://david-smith.org/blog/2023/09/18/widgetsmith-5-interactive-widgets/",
+            "updated": 1695031200,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/09/18/pedometer-watchos-10",
+            "title": "Pedometer++ 5.2: Beautiful for watchOS 10",
+            "link": "http://david-smith.org/blog/2023/09/18/pedometer-watchos-10/",
+            "updated": 1695029760,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/07/27/vision-lab-tips",
+            "title": "Tips for Vision Pro Labs",
+            "link": "http://david-smith.org/blog/2023/07/27/vision-lab-tips/",
+            "updated": 1690414440,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/07/12/design-notes-40",
+            "title": "Designing a Weather app for visionOS",
+            "link": "http://david-smith.org/blog/2023/07/12/design-notes-40/",
+            "updated": 1689155160,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/07/10/design-notes-39",
+            "title": "First Attempt at Designing for visionOS",
+            "link": "http://david-smith.org/blog/2023/07/10/design-notes-39/",
+            "updated": 1688967720,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/06/12/new-post",
+            "title": "A Developer's View of Vision Pro",
+            "link": "http://david-smith.org/blog/2023/06/12/new-post/",
+            "updated": 1686560880,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/05/11/design-notes-38",
+            "title": "Designing a Step Goal Live Activity",
+            "link": "http://david-smith.org/blog/2023/05/11/design-notes-38/",
+            "updated": 1683801240,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/05/10/design-notes-37",
+            "title": "Ghostly Corners with Overlaid Shapes",
+            "link": "http://david-smith.org/blog/2023/05/10/design-notes-37/",
+            "updated": 1683694680,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        },
+        {
+            "id": "http://david-smith.org/blog/2023/05/09/design-notes-36",
+            "title": "Changing Corners",
+            "link": "http://david-smith.org/blog/2023/05/09/design-notes-36/",
+            "updated": 1683612000,
+            "site_name": "David Smith\u2019s Blog\u2019"
+        }
+    ]
+}

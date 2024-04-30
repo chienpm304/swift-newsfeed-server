@@ -1,0 +1,40 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/",
+            "title": "Creating a tip jar with StoreKit 2, Xcode Previews, and remote assets",
+            "link": "https://blog.martinp7r.com/posts/creating-a-tip-jar-with-storekit-2/",
+            "updated": 1710800519,
+            "site_name": "Martin's Tech Journal"
+        },
+        {
+            "id": "https://blog.martinp7r.com/posts/decoupled-error-handling-in-a-multi-module-app/",
+            "title": "Modularized SwiftUI: Error Handling & Alerts",
+            "link": "https://blog.martinp7r.com/posts/decoupled-error-handling-in-a-multi-module-app/",
+            "updated": 1710052580,
+            "site_name": "Martin's Tech Journal"
+        },
+        {
+            "id": "https://blog.martinp7r.com/posts/decoupled-stacked-sheet-navigation-with-multiple-modals-in-swiftui/",
+            "title": "Modularized SwiftUI: Stacked sheet navigation with multiple modals",
+            "link": "https://blog.martinp7r.com/posts/decoupled-stacked-sheet-navigation-with-multiple-modals-in-swiftui/",
+            "updated": 1710052580,
+            "site_name": "Martin's Tech Journal"
+        },
+        {
+            "id": "https://blog.martinp7r.com/posts/newsletter-summaries-week-48-2023/",
+            "title": "Newsletter Summaries Week 48 (2023)",
+            "link": "https://blog.martinp7r.com/posts/newsletter-summaries-week-48-2023/",
+            "updated": 1701827580,
+            "site_name": "Martin's Tech Journal"
+        },
+        {
+            "id": "https://blog.martinp7r.com/posts/newsletter-summaries-week-47-2023/",
+            "title": "Newsletter Summaries Week 47 (2023)",
+            "link": "https://blog.martinp7r.com/posts/newsletter-summaries-week-47-2023/",
+            "updated": 1702257645,
+            "site_name": "Martin's Tech Journal"
+        }
+    ]
+}

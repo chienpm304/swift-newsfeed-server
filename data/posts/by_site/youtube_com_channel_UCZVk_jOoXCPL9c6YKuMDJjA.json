@@ -1,0 +1,110 @@
+{
+    "updated": 1714471148,
+    "posts": [
+        {
+            "id": "yt:video:VQC42iy2rG8",
+            "title": "SwiftUI: New Observation Framework",
+            "link": "https://www.youtube.com/watch?v=VQC42iy2rG8",
+            "updated": 1709308591,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:L4bhf6y9dIA",
+            "title": "How to solve nested Observable Objects issue",
+            "link": "https://www.youtube.com/watch?v=L4bhf6y9dIA",
+            "updated": 1714157723,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:TOmxDvCz7e4",
+            "title": "Prevent SwiftUI from re-rendering views",
+            "link": "https://www.youtube.com/watch?v=TOmxDvCz7e4",
+            "updated": 1709759123,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:I4vqy4rQZ78",
+            "title": "SwiftUI 5: What\u2019s New In ScrollView",
+            "link": "https://www.youtube.com/watch?v=I4vqy4rQZ78",
+            "updated": 1711753381,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:H6S5xKgb9k8",
+            "title": "How to get a view size in SwiftUI",
+            "link": "https://www.youtube.com/watch?v=H6S5xKgb9k8",
+            "updated": 1711170910,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:GlLyPYWgHEo",
+            "title": "Learn when SwiftUI re-renders views",
+            "link": "https://www.youtube.com/watch?v=GlLyPYWgHEo",
+            "updated": 1712647346,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:P3qYC9xP0Y8",
+            "title": "SwiftUI: Environment property. You should use it!",
+            "link": "https://www.youtube.com/watch?v=P3qYC9xP0Y8",
+            "updated": 1710304675,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:oW_zZdtD_zs",
+            "title": "A new better way of using Xcode under Rosetta",
+            "link": "https://www.youtube.com/watch?v=oW_zZdtD_zs",
+            "updated": 1709591531,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:K5lj-S3grno",
+            "title": "Create a Custom Dialog in SwiftUI",
+            "link": "https://www.youtube.com/watch?v=K5lj-S3grno",
+            "updated": 1712655742,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:onBdua5zPwI",
+            "title": "SwiftUI: Multiple alerts in a single view",
+            "link": "https://www.youtube.com/watch?v=onBdua5zPwI",
+            "updated": 1712735703,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:11xSK_qaJz0",
+            "title": "Xcode: Convert project to workspace",
+            "link": "https://www.youtube.com/watch?v=11xSK_qaJz0",
+            "updated": 1714125154,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:DPQVPtQt2q4",
+            "title": "The beginner's guide to setting up an iOS project",
+            "link": "https://www.youtube.com/watch?v=DPQVPtQt2q4",
+            "updated": 1714157334,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:mBPZ5XMPFWc",
+            "title": "New in SwiftUI: AnyLayout",
+            "link": "https://www.youtube.com/watch?v=mBPZ5XMPFWc",
+            "updated": 1709721338,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:zdwSp1zMBwU",
+            "title": "New in SwiftUI: Gauge View",
+            "link": "https://www.youtube.com/watch?v=zdwSp1zMBwU",
+            "updated": 1712766649,
+            "site_name": "Mike Mikina on YouTube"
+        },
+        {
+            "id": "yt:video:7c19zF-MUFw",
+            "title": "New in SwiftUI: Grid View",
+            "link": "https://www.youtube.com/watch?v=7c19zF-MUFw",
+            "updated": 1711727366,
+            "site_name": "Mike Mikina on YouTube"
+        }
+    ]
+}

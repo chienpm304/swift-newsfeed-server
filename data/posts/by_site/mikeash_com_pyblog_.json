@@ -1,0 +1,145 @@
+{
+    "updated": 1714470898,
+    "posts": [
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/objc_msgsends-new-prototype.html",
+            "title": "objc_msgSend's New Prototype",
+            "link": "http://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html",
+            "updated": 1570770540,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2018-06-29-debugging-with-c-reduce.html",
+            "title": "Friday Q&A 2018-06-29: Debugging with C-Reduce",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2018-06-29-debugging-with-c-reduce.html",
+            "updated": 1530254100,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2018-04-27-generating-text-with-markov-chains-in-swift.html",
+            "title": "Friday Q&A 2018-04-27: Generating Text With Markov Chains in Swift",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2018-04-27-generating-text-with-markov-chains-in-swift.html",
+            "updated": 1524853620,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-12-08-type-erasure-in-swift.html",
+            "title": "Friday Q&A 2017-12-08: Type Erasure in Swift",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-12-08-type-erasure-in-swift.html",
+            "updated": 1513321740,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-11-10-observing-the-a11s-heterogenous-cores.html",
+            "title": "Friday Q&A 2017-11-10: Observing the A11's Heterogenous Cores",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-11-10-observing-the-a11s-heterogenous-cores.html",
+            "updated": 1510292460,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-10-27-locks-thread-safety-and-swift-2017-edition.html",
+            "title": "Friday Q&A 2017-10-27: Locks, Thread Safety, and Swift: 2017 Edition",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-10-27-locks-thread-safety-and-swift-2017-edition.html",
+            "updated": 1509078480,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/the-complete-friday-qa-volumes-ii-and-iii-are-out.html",
+            "title": "The Complete Friday Q&A Volumes II and III Are Out!",
+            "link": "http://www.mikeash.com/pyblog/the-complete-friday-qa-volumes-ii-and-iii-are-out.html",
+            "updated": 1507627140,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-10-06-type-safe-user-defaults.html",
+            "title": "Friday Q&A 2017-10-06: Type-Safe User Defaults",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-10-06-type-safe-user-defaults.html",
+            "updated": 1507269300,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-09-22-swift-4-weak-references.html",
+            "title": "Friday Q&A 2017-09-22: Swift 4 Weak References",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html",
+            "updated": 1506103020,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/the-best-new-features-in-swift-4.html",
+            "title": "The Best New Features in Swift 4",
+            "link": "http://www.mikeash.com/pyblog/the-best-new-features-in-swift-4.html",
+            "updated": 1505461380,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/corporate-training-nyc-workshop-and-book-update.html",
+            "title": "Corporate Training, NYC Workshop, and Book Update",
+            "link": "http://www.mikeash.com/pyblog/corporate-training-nyc-workshop-and-book-update.html",
+            "updated": 1504872420,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-08-25-swift-error-handling-implementation.html",
+            "title": "Friday Q&A 2017-08-25: Swift Error Handling Implementation",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-08-25-swift-error-handling-implementation.html",
+            "updated": 1503641580,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-08-11-swiftunmanaged.html",
+            "title": "Friday Q&A 2017-08-11: Swift.Unmanaged",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-08-11-swiftunmanaged.html",
+            "updated": 1502432040,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-07-28-a-binary-coder-for-swift.html",
+            "title": "Friday Q&A 2017-07-28: A Binary Coder for Swift",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-07-28-a-binary-coder-for-swift.html",
+            "updated": 1501220640,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-07-14-swiftcodable.html",
+            "title": "Friday Q&A 2017-07-14: Swift.Codable",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-07-14-swiftcodable.html",
+            "updated": 1500015420,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html",
+            "title": "Friday Q&A 2017-06-30: Dissecting objc_msgSend on ARM64",
+            "link": "http://www.mikeash.com/pyblog/friday-qa-2017-06-30-dissecting-objc_msgsend-on-arm64.html",
+            "updated": 1498857780,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/more-advanced-swift-workshop-and-blog-and-book-updates.html",
+            "title": "More Advanced Swift Workshop, and Blog and Book Updates",
+            "link": "http://www.mikeash.com/pyblog/more-advanced-swift-workshop-and-blog-and-book-updates.html",
+            "updated": 1497345060,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/advanced-swift-workshop-in-new-york-city.html",
+            "title": "Advanced Swift Workshop in New York City",
+            "link": "http://www.mikeash.com/pyblog/advanced-swift-workshop-in-new-york-city.html",
+            "updated": 1490603340,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/advanced-swift-workshop-in-washington-dc.html",
+            "title": "Advanced Swift Workshop in Washington, DC",
+            "link": "http://www.mikeash.com/pyblog/advanced-swift-workshop-in-washington-dc.html",
+            "updated": 1478960820,
+            "site_name": "NSBlog"
+        },
+        {
+            "id": "http://www.mikeash.com/?page=pyblog/good-news-bad-news-and-ugly-news.html",
+            "title": "Good News, Bad News, and Ugly News",
+            "link": "http://www.mikeash.com/pyblog/good-news-bad-news-and-ugly-news.html",
+            "updated": 1464756480,
+            "site_name": "NSBlog"
+        }
+    ]
+}

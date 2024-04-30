@@ -1,0 +1,75 @@
+{
+    "updated": 1714470908,
+    "posts": [
+        {
+            "id": "https://orjpap.github.io/swift/caseiterable/protocols/2022/05/25/Case-Sequencable",
+            "title": "CaseSequencable: Put your enums in order",
+            "link": "https://orjpap.github.io/swift/caseiterable/protocols/2022/05/25/Case-Sequencable.html",
+            "updated": 1653489216,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/swift/userdefaults/ios/protocols/2021/10/10/Load-and-save-a-struct",
+            "title": "UserDefaultsPeristable: Save and Load a struct in UserDefaults",
+            "link": "https://orjpap.github.io/swift/userdefaults/ios/protocols/2021/10/10/Load-and-save-a-struct.html",
+            "updated": 1633865616,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/swift/http/ios/urlsession/2021/04/26/Multipart-Form-Requests",
+            "title": "How To Upload Data To A Server: Multipart/Form-Data HTTP Requests in Swift",
+            "link": "https://orjpap.github.io/swift/http/ios/urlsession/2021/04/26/Multipart-Form-Requests.html",
+            "updated": 1619436816,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/swift/xcode/playgrounds/frameworks/2020/12/07/Playground-Driven-Development",
+            "title": "Pragmatic Playground Driven Development (Part 1)",
+            "link": "https://orjpap.github.io/swift/xcode/playgrounds/frameworks/2020/12/07/Playground-Driven-Development.html",
+            "updated": 1607297616,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/swift/real-time/audio/avfoundation/2020/06/19/avAudioSourceNode",
+            "title": "AVAudioSourceNode, AVAudioSinkNode: Low-Level Audio In Swift",
+            "link": "https://orjpap.github.io/swift/real-time/audio/avfoundation/2020/06/19/avAudioSourceNode.html",
+            "updated": 1592526816,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/swift/real-time/audio/avfoundation/2020/05/19/processAudio",
+            "title": "AVAudioSourceNode, AVAudioSinkNode or How I Deleted a Repo in Less Than 24 hours",
+            "link": "https://orjpap.github.io/swift/real-time/audio/avfoundation/2020/05/19/processAudio.html",
+            "updated": 1589848416,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/jekyll/swift/testing/2020/05/04/iOS-doctest-jekyll",
+            "title": "Jekyll: Testing Swift Code Blocks",
+            "link": "https://orjpap.github.io/jekyll/swift/testing/2020/05/04/iOS-doctest-jekyll.html",
+            "updated": 1588592016,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/product/design/swift/ios/2020/05/02/iOS-podfast-edit",
+            "title": "Podfast: a Podcast Discovery App",
+            "link": "https://orjpap.github.io/product/design/swift/ios/2020/05/02/iOS-podfast-edit.html",
+            "updated": 1588419216,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/xcode/ios/swift/cocoapods/2020/04/20/iOS-build-schemes",
+            "title": "How to Set Up Xcode Build Configurations",
+            "link": "https://orjpap.github.io/xcode/ios/swift/cocoapods/2020/04/20/iOS-build-schemes.html",
+            "updated": 1587382416,
+            "site_name": "Orestis' Papadopoulos Blog"
+        },
+        {
+            "id": "https://orjpap.github.io/product/design/swift/ios/2019/05/02/iOS-podfast-edit",
+            "title": "Podfast: a Podcast Discovery App",
+            "link": "https://orjpap.github.io/product/design/swift/ios/2019/05/02/iOS-podfast-edit.html",
+            "updated": 1556796816,
+            "site_name": "Orestis' Papadopoulos Blog"
+        }
+    ]
+}

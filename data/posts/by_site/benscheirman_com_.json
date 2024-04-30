@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://benscheirman.com/2024/01/swiftui-alignment-guide",
+            "title": "Unfuddling the SwiftUI Alignment Guide API",
+            "link": "https://benscheirman.com/2024/01/swiftui-alignment-guide",
+            "updated": 1705728600,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2023/03/side-mirror-2-5",
+            "title": "Side Mirror 2.5",
+            "link": "https://benscheirman.com/2023/03/side-mirror-2-5",
+            "updated": 1678106340,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2021/06/async-await-and-the-future-of-combine",
+            "title": "Async/Await and the Future of Combine",
+            "link": "https://benscheirman.com/2021/06/async-await-and-the-future-of-combine",
+            "updated": 1623220290,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2021/01/combine-swift",
+            "title": "Combine for Mere Mortals",
+            "link": "https://benscheirman.com/2021/01/combine-swift",
+            "updated": 1610098352,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2020/10/managing-version-numbers-with-fastlane",
+            "title": "Managing Version Numbers with Fastlane",
+            "link": "https://benscheirman.com/2020/10/managing-version-numbers-with-fastlane",
+            "updated": 1603206690,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2020/10/exporting-a-git-history-at-a-specific-commit",
+            "title": "Exporting a Git History at a Specific Commit",
+            "link": "https://benscheirman.com/2020/10/exporting-a-git-history-at-a-specific-commit",
+            "updated": 1602831165,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2020/03/sign-in-with-apple-profile-information-and-security",
+            "title": "Sign-in with Apple Profile Information and Security",
+            "link": "https://benscheirman.com/2020/03/sign-in-with-apple-profile-information-and-security",
+            "updated": 1585633038,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2020/01/swift-for-good",
+            "title": "Swift for Good",
+            "link": "https://benscheirman.com/2020/01/swift-for-good",
+            "updated": 1579261753,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2019/10/troubleshooting-appkit-file-permissions",
+            "title": "Modern AppKit File Permissions",
+            "link": "https://benscheirman.com/2019/10/troubleshooting-appkit-file-permissions",
+            "updated": 1571848699,
+            "site_url": "https://benscheirman.com/"
+        },
+        {
+            "id": "https://benscheirman.com/2018/10/xcode-environment-specific-configuration",
+            "title": "Xcode Environment Specific Configuration",
+            "link": "https://benscheirman.com/2018/10/xcode-environment-specific-configuration",
+            "updated": 1538470215,
+            "site_url": "https://benscheirman.com/"
+        }
+    ]
+}

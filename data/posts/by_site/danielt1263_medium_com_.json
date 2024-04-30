@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/85b2be26a747",
+            "title": "Idle Thoughts on Technical Debt",
+            "link": "https://danielt1263.medium.com/idle-thoughts-on-technical-debt-85b2be26a747?source=rss-656abcc75dfd------2",
+            "updated": 1661364788,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/cd149d2322f4",
+            "title": "Dealing With Resources in RxSwift",
+            "link": "https://danielt1263.medium.com/dealing-with-resources-in-rxswift-cd149d2322f4?source=rss-656abcc75dfd------2",
+            "updated": 1654231933,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/f52afe77f8d6",
+            "title": "Convert a Swift Delegate to RxSwift Observables",
+            "link": "https://danielt1263.medium.com/convert-a-swift-delegate-to-rxswift-observables-f52afe77f8d6?source=rss-656abcc75dfd------2",
+            "updated": 1626772418,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/1ec3ae8ab9a6",
+            "title": "VIPER, RxSwift-ified",
+            "link": "https://danielt1263.medium.com/viper-rxswift-ified-1ec3ae8ab9a6?source=rss-656abcc75dfd------2",
+            "updated": 1572893863,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/321883956f12",
+            "title": "An Aside: Before Code is Written",
+            "link": "https://danielt1263.medium.com/an-aside-before-code-is-written-321883956f12?source=rss-656abcc75dfd------2",
+            "updated": 1568892483,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/a4f16de628bf",
+            "title": "Integrating RxSwift Into Your Brain and Code Base: Part 2",
+            "link": "https://danielt1263.medium.com/integrating-rxswift-into-your-brain-and-code-base-part-2-a4f16de628bf?source=rss-656abcc75dfd------2",
+            "updated": 1555310170,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/1a790c36c36d",
+            "title": "Integrating RxSwift Into Your Brain and Code Base",
+            "link": "https://danielt1263.medium.com/integrating-rxswift-into-your-brain-and-code-base-1a790c36c36d?source=rss-656abcc75dfd------2",
+            "updated": 1555315417,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/5764e6c2018c",
+            "title": "RxSwift\u2019s Many Faces of FlatMap",
+            "link": "https://danielt1263.medium.com/rxswifts-many-faces-of-flatmap-5764e6c2018c?source=rss-656abcc75dfd------2",
+            "updated": 1586373530,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/b8b89340d29",
+            "title": "Retrying a Network Request Despite Having an Invalid Token",
+            "link": "https://danielt1263.medium.com/retrying-a-network-request-despite-having-an-invalid-token-b8b89340d29?source=rss-656abcc75dfd------2",
+            "updated": 1590241435,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        },
+        {
+            "id": "https://medium.com/p/ec4f8157265f",
+            "title": "Recipes for Combining Observables in RxSwift",
+            "link": "https://danielt1263.medium.com/recipes-for-combining-observables-in-rxswift-ec4f8157265f?source=rss-656abcc75dfd------2",
+            "updated": 1607089942,
+            "site_name": "DanielT1263\u2019s Blog mostly about RxSwift"
+        }
+    ]
+}

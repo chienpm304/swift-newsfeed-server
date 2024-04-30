@@ -1,0 +1,75 @@
+{
+    "updated": 1714470856,
+    "posts": [
+        {
+            "id": "https://www.appsdissected.com/?p=458",
+            "title": "Building a Caching Custom Combine Operator #2: The .cache() Method",
+            "link": "https://www.appsdissected.com/caching-custom-combine-operator-2-cache-method-generics/",
+            "updated": 1579671967,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=441",
+            "title": "Building a Caching Custom Combine Operator: The Chain",
+            "link": "https://www.appsdissected.com/caching-custom-combine-operator-1-chain/",
+            "updated": 1578991663,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=391",
+            "title": "Save that sink! A simple solution to a common Combine problem",
+            "link": "https://www.appsdissected.com/save-sink-assign-subscriber-anycancellable/",
+            "updated": 1572445095,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=381",
+            "title": "Restoring your sanity reading JSON into Codables",
+            "link": "https://www.appsdissected.com/json-codable-decodingerror-quicktype/",
+            "updated": 1571726043,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=351",
+            "title": "I create a batch of CloudKit records, but when I try to sort them by date, they\u2019re all jumbled?",
+            "link": "https://www.appsdissected.com/ckmodifyrecordsoperation-date-sort-out-of-order/",
+            "updated": 1568788279,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=343",
+            "title": "Keep control of your modal presentation in iOS 13",
+            "link": "https://www.appsdissected.com/modal-presentation-style-ios-13/",
+            "updated": 1566991749,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/4-things-you-can-do-right-now-to-be-ready-for-swiftui-and-combine/",
+            "title": "4 things you can do *right now* to be ready for SwiftUI and Combine",
+            "link": "https://www.appsdissected.com/getting-ready-swiftui-combine/",
+            "updated": 1565014141,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/catch-swiftui-updates-from-bad-threads-before-they-crash-your-app/",
+            "title": "Catch SwiftUI model updates from bad threads before they crash your app",
+            "link": "https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/",
+            "updated": 1564556856,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=294",
+            "title": "Order your Core Data entities the right way for maximum speed",
+            "link": "https://www.appsdissected.com/order-core-data-entities-maximum-speed/",
+            "updated": 1563863348,
+            "site_name": "Apps Dissected"
+        },
+        {
+            "id": "https://www.appsdissected.com/?p=286",
+            "title": "Frustrated by missing features in SwiftUI? Using UIViewRepresentable to wrap UIKit controls",
+            "link": "https://www.appsdissected.com/missing-features-swiftui-uiviewrepresentable-wrap-uikit-controls/",
+            "updated": 1563258006,
+            "site_name": "Apps Dissected"
+        }
+    ]
+}

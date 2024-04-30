@@ -1,0 +1,145 @@
+{
+    "updated": 1714471153,
+    "posts": [
+        {
+            "id": "1616152693",
+            "title": "[iOS Dev] BartyCrouch Maintenance, pt. 5 | Swift Frajework Development",
+            "link": "https://www.twitch.tv/videos/1616152693",
+            "updated": 1665137803,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1599111621",
+            "title": "[iOS Dev] Open Focus Timer, pt. 33 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1599111621",
+            "updated": 1663928016,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1579757118",
+            "title": "[iOS Dev] Open Focus Timer, pt. 32 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1579757118",
+            "updated": 1662108102,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1573182083",
+            "title": "[iOS Dev] Open Focus Timer, pt. 31 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1573182083",
+            "updated": 1661504969,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1566533369",
+            "title": "[iOS Dev] Open Focus Timer, pt. 30 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1566533369",
+            "updated": 1660900814,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1532672067",
+            "title": "[iOS Dev] Open Focus Timer, pt. 29 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1532672067",
+            "updated": 1657881290,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1519458451",
+            "title": "[iOS Dev] Open Focus Timer, pt. 28 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1519458451",
+            "updated": 1656665390,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1512896663",
+            "title": "[iOS Dev] Open Focus Timer, pt. 27 | SwiftUI App Development",
+            "link": "https://www.twitch.tv/videos/1512896663",
+            "updated": 1656063342,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1506390800",
+            "title": "[iOS Dev] Open Focus Timer, pt. 26 | SwiftUI App Development | Break-Free Cut",
+            "link": "https://www.twitch.tv/videos/1506390800",
+            "updated": 1655459811,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500581277",
+            "title": "[iOS Dev] WWDC22 Session: Writing for interfaces \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500581277",
+            "updated": 1654902816,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500581276",
+            "title": "[iOS Dev] WWDC22 Session: Create Swift package plugins \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500581276",
+            "updated": 1654902816,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500581266",
+            "title": "[iOS Dev] WWDC22 Session: Embrace Swift generics \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500581266",
+            "updated": 1654902815,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500581267",
+            "title": "[iOS Dev] WWDC22 Session: Discover Benchmarks in App Analytics \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500581267",
+            "updated": 1654902815,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500581269",
+            "title": "[iOS Dev] WWDC22 Session: Use Xcode for server-side development \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500581269",
+            "updated": 1654902815,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550729",
+            "title": "[iOS Dev] WWDC22 Session: What's new in App Store Connect \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550729",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550731",
+            "title": "[iOS Dev] WWDC22 Session: Meet Swift Package plugins \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550731",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550726",
+            "title": "[iOS Dev] WWDC22 Session: Meet the expanded San Francisco font family \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550726",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550728",
+            "title": "[iOS Dev] WWDC22 Session: What's new in TextKit and text views \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550728",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550727",
+            "title": "[iOS Dev] WWDC22 Session: Use Xcode to develop a multiplatform app \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550727",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        },
+        {
+            "id": "1500550730",
+            "title": "[iOS Dev] WWDC22 Session: Meet distributed actors in Swift \u2013 Watch-Along with Note-Taking",
+            "link": "https://www.twitch.tv/videos/1500550730",
+            "updated": 1654898962,
+            "site_name": "Jeehut on Twitch"
+        }
+    ]
+}

@@ -1,0 +1,1132 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost",
+            "title": "My experience with the \u201cBlinkist trial\u201d: Big boost",
+            "link": "https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost",
+            "updated": 1714090954,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/202/fixing-weird-shadow-animation-glitch-in-swiftui",
+            "title": "Fixing weird shadow animation glitch in SwiftUI",
+            "link": "https://nemecek.be/blog/202/fixing-weird-shadow-animation-glitch-in-swiftui",
+            "updated": 1700054800,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/201/how-to-update-widgets-for-standby-mode",
+            "title": "How to update widgets for StandBy mode",
+            "link": "https://nemecek.be/blog/201/how-to-update-widgets-for-standby-mode",
+            "updated": 1699960339,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/195/ux-diary-onboarding-without-onboarding",
+            "title": "UX Diary: Onboarding without onboarding",
+            "link": "https://nemecek.be/blog/195/ux-diary-onboarding-without-onboarding",
+            "updated": 1690929942,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/192/hotfixing-widgets-for-ios-17-containerbackground-padding",
+            "title": "Hotfixing widgets for iOS 17: containerBackground + padding",
+            "link": "https://nemecek.be/blog/192/hotfixing-widgets-for-ios-17-containerbackground-padding",
+            "updated": 1688432472,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/189/wip-sharing-data-with-uiactivityviewcontroller-tips-tricks",
+            "title": "Sharing data with UIActivityViewController - tips & tricks",
+            "link": "https://nemecek.be/blog/189/wip-sharing-data-with-uiactivityviewcontroller-tips-tricks",
+            "updated": 1677289232,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/187/how-to-implementing-shared-with-you-apis",
+            "title": "How to: Implementing \u201cShared with You\u201d APIs",
+            "link": "https://nemecek.be/blog/187/how-to-implementing-shared-with-you-apis",
+            "updated": 1676704700,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/186/the-weirdest-bugcrash-in-widgets",
+            "title": "The weirdest bug/crash in widgets?",
+            "link": "https://nemecek.be/blog/186/the-weirdest-bugcrash-in-widgets",
+            "updated": 1676370140,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/185/implementing-double-tap-tab-bar-to-scroll-to-top",
+            "title": "Implementing \u201cdouble tap tab bar to scroll to top\u201d",
+            "link": "https://nemecek.be/blog/185/implementing-double-tap-tab-bar-to-scroll-to-top",
+            "updated": 1675492772,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/184/how-to-successfully-launch-app-on-product-hunt-balance-by-alexander-sandberg",
+            "title": "How to successfully launch app on Product Hunt: Balance by Alexander Sandberg",
+            "link": "https://nemecek.be/blog/184/how-to-successfully-launch-app-on-product-hunt-balance-by-alexander-sandberg",
+            "updated": 1673501664,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/183/swiftui-tip-always-correct-corner-radius-for-subviews",
+            "title": "SwiftUI Tip: Always correct corner radius for subviews",
+            "link": "https://nemecek.be/blog/183/swiftui-tip-always-correct-corner-radius-for-subviews",
+            "updated": 1672666472,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/182/how-to-customize-share-sheet-content-for-airdrop",
+            "title": "How to customize share sheet content for AirDrop",
+            "link": "https://nemecek.be/blog/182/how-to-customize-share-sheet-content-for-airdrop",
+            "updated": 1672396686,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/181/how-to-allow-landscape-for-single-screen-in-your-uikit-app",
+            "title": "How to allow landscape for single screen in your UIKit app",
+            "link": "https://nemecek.be/blog/181/how-to-allow-landscape-for-single-screen-in-your-uikit-app",
+            "updated": 1672289170,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/180/how-to-combine-dynamic-type-and-monospaced-font",
+            "title": "How to combine Dynamic Type and monospaced font",
+            "link": "https://nemecek.be/blog/180/how-to-combine-dynamic-type-and-monospaced-font",
+            "updated": 1671160370,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/178/the-day-my-app-got-thousands-of-downloads-and-in-app-unlocks",
+            "title": "The day my app got thousands of downloads and in-app unlocks",
+            "link": "https://nemecek.be/blog/178/the-day-my-app-got-thousands-of-downloads-and-in-app-unlocks",
+            "updated": 1670488712,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/174/adding-private-analytics-with-telemetrydeck-quick-start",
+            "title": "Adding private analytics with TelemetryDeck: Quick Start",
+            "link": "https://nemecek.be/blog/174/adding-private-analytics-with-telemetrydeck-quick-start",
+            "updated": 1666698909,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/171/dynamic-island-and-live-activities-quick-start-tutorial",
+            "title": "Dynamic Island (and Live Activities): Quick start tutorial",
+            "link": "https://nemecek.be/blog/171/dynamic-island-and-live-activities-quick-start-tutorial",
+            "updated": 1663398034,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/170/psa-ios-16-is-a-huge-opportunity-to-promote-your-app",
+            "title": "PSA: iOS 16 is a huge opportunity to promote your app",
+            "link": "https://nemecek.be/blog/170/psa-ios-16-is-a-huge-opportunity-to-promote-your-app",
+            "updated": 1661843875,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/169/how-to-get-featured-on-the-app-store",
+            "title": "How to get featured on the App Store",
+            "link": "https://nemecek.be/blog/169/how-to-get-featured-on-the-app-store",
+            "updated": 1661397205,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/168/press-releases-step-by-step-guide",
+            "title": "Press Releases: Step-by-step guide",
+            "link": "https://nemecek.be/blog/168/press-releases-step-by-step-guide",
+            "updated": 1661072912,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/166/does-your-app-need-a-press-kit",
+            "title": "Does your app need a Press Kit?",
+            "link": "https://nemecek.be/blog/166/does-your-app-need-a-press-kit",
+            "updated": 1658741235,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/164/how-to-add-swipe-actions-to-collection-view",
+            "title": "How to add swipe actions to Collection View",
+            "link": "https://nemecek.be/blog/164/how-to-add-swipe-actions-to-collection-view",
+            "updated": 1657012591,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/163/how-to-create-a-list-with-compositional-layout",
+            "title": "How to create a list with Compositional Layout",
+            "link": "https://nemecek.be/blog/163/how-to-create-a-list-with-compositional-layout",
+            "updated": 1657009382,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/162/xcode-how-to-upload-build-with-different-bundle-id-to-testflight",
+            "title": "Xcode: How to upload build with different Bundle ID to TestFlight",
+            "link": "https://nemecek.be/blog/162/xcode-how-to-upload-build-with-different-bundle-id-to-testflight",
+            "updated": 1655703668,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/161/how-to-use-uicalendarview-in-ios",
+            "title": "How to use UICalendarView in iOS",
+            "link": "https://nemecek.be/blog/161/how-to-use-uicalendarview-in-ios",
+            "updated": 1655377958,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/160/how-to-use-live-text-api-in-your-ios-app",
+            "title": "How to use Live Text API in your iOS app",
+            "link": "https://nemecek.be/blog/160/how-to-use-live-text-api-in-your-ios-app",
+            "updated": 1654835242,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/159/how-to-configure-uikit-bottom-sheet-with-custom-size",
+            "title": "How to configure UIKit bottom sheet with custom size",
+            "link": "https://nemecek.be/blog/159/how-to-configure-uikit-bottom-sheet-with-custom-size",
+            "updated": 1654690206,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/157/how-to-resize-image-in-swift",
+            "title": "How to resize image in Swift",
+            "link": "https://nemecek.be/blog/157/how-to-resize-image-in-swift",
+            "updated": 1652252118,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/155/how-to-let-user-select-file-from-files",
+            "title": "How to let user select file from Files",
+            "link": "https://nemecek.be/blog/155/how-to-let-user-select-file-from-files",
+            "updated": 1651796256,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/154/press-kit-examples-for-inspiration",
+            "title": "Press Kit examples for inspiration",
+            "link": "https://nemecek.be/blog/154/press-kit-examples-for-inspiration",
+            "updated": 1651636095,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/153/stuff-to-implement-before-you-launch-on-app-store",
+            "title": "Stuff to implement before you launch on App Store",
+            "link": "https://nemecek.be/blog/153/stuff-to-implement-before-you-launch-on-app-store",
+            "updated": 1651143063,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/152/boost-your-press-kit-with-lifestyle-photos",
+            "title": "Boost your Press Kit with lifestyle photos",
+            "link": "https://nemecek.be/blog/152/boost-your-press-kit-with-lifestyle-photos",
+            "updated": 1651061541,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/151/are-press-kits-still-relevant",
+            "title": "Are Press Kits still relevant?",
+            "link": "https://nemecek.be/blog/151/are-press-kits-still-relevant",
+            "updated": 1650765918,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/150/customizing-the-navigation-bar-in-uikit",
+            "title": "Customizing the navigation bar in UIKit",
+            "link": "https://nemecek.be/blog/150/customizing-the-navigation-bar-in-uikit",
+            "updated": 1649071784,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/149/debugging-files-in-ios",
+            "title": "Debugging files in iOS",
+            "link": "https://nemecek.be/blog/149/debugging-files-in-ios",
+            "updated": 1647784498,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/148/lessons-from-reviewing-10-press-kits",
+            "title": "Lessons from reviewing 10+ press kits",
+            "link": "https://nemecek.be/blog/148/lessons-from-reviewing-10-press-kits",
+            "updated": 1647584176,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/147/tips-for-reaching-out-to-press",
+            "title": "5 tips for reaching out to press",
+            "link": "https://nemecek.be/blog/147/tips-for-reaching-out-to-press",
+            "updated": 1646979269,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/145/open-your-apps-documents-folder-programmatically-in-files-app",
+            "title": "Open your app's Documents folder programmatically in Files app",
+            "link": "https://nemecek.be/blog/145/open-your-apps-documents-folder-programmatically-in-files-app",
+            "updated": 1644744582,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/144/gradient-borders-in-uikit",
+            "title": "Gradient borders in UIKit",
+            "link": "https://nemecek.be/blog/144/gradient-borders-in-uikit",
+            "updated": 1644673965,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/143/always-correct-gradient-text-in-uikit",
+            "title": "Always correct gradient text in UIKit",
+            "link": "https://nemecek.be/blog/143/always-correct-gradient-text-in-uikit",
+            "updated": 1644146578,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/142/creating-patterns-with-uicolor-yes-really",
+            "title": "Creating patterns with UIColor. Yes, really",
+            "link": "https://nemecek.be/blog/142/creating-patterns-with-uicolor-yes-really",
+            "updated": 1643521708,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/141/how-to-show-page-indicator-with-compositional-layout",
+            "title": "How to show page indicator with Compositional Layout",
+            "link": "https://nemecek.be/blog/141/how-to-show-page-indicator-with-compositional-layout",
+            "updated": 1643158290,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/140/8-marketing-ideas-for-your-app",
+            "title": "8 \"marketing\" ideas for your app",
+            "link": "https://nemecek.be/blog/140/8-marketing-ideas-for-your-app",
+            "updated": 1642907475,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/139/quickly-preview-app-icon-on-a-real-device",
+            "title": "Quickly preview app icon on a real device",
+            "link": "https://nemecek.be/blog/139/quickly-preview-app-icon-on-a-real-device",
+            "updated": 1642575857,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/138/fixing-wrong-animations-with-diffable-data-source",
+            "title": "Fixing wrong animations with Diffable Data Source",
+            "link": "https://nemecek.be/blog/138/fixing-wrong-animations-with-diffable-data-source",
+            "updated": 1641893475,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/137/careful-when-getting-inspiration-from-popular-apps",
+            "title": "Careful when getting inspiration from popular apps",
+            "link": "https://nemecek.be/blog/137/careful-when-getting-inspiration-from-popular-apps",
+            "updated": 1640604740,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/136/minimal-press-kit-your-app-should-have",
+            "title": "Minimal Press Kit your app should have",
+            "link": "https://nemecek.be/blog/136/minimal-press-kit-your-app-should-have",
+            "updated": 1639991233,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/135/make-rounding-specific-corners-easier-with-extension",
+            "title": "Make rounding specific corners easier with extension",
+            "link": "https://nemecek.be/blog/135/make-rounding-specific-corners-easier-with-extension",
+            "updated": 1639386958,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/134/what-is-a-press-release-should-you-care-as-a-developer",
+            "title": "What is a Press Release? Should you care as a developer?",
+            "link": "https://nemecek.be/blog/134/what-is-a-press-release-should-you-care-as-a-developer",
+            "updated": 1639308109,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/133/5-tips-for-better-app-store-screenshots",
+            "title": "5 tips for better App Store screenshots",
+            "link": "https://nemecek.be/blog/133/5-tips-for-better-app-store-screenshots",
+            "updated": 1638786095,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/132/4-reasons-why-zip-file-press-kit-isnt-an-ideal-solution",
+            "title": "4 reasons why ZIP file Press Kit isn't an ideal solution",
+            "link": "https://nemecek.be/blog/132/4-reasons-why-zip-file-press-kit-isnt-an-ideal-solution",
+            "updated": 1638444458,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/129/places-you-can-promote-your-app-for-free",
+            "title": "Where to promote your app for free?",
+            "link": "https://nemecek.be/blog/129/places-you-can-promote-your-app-for-free",
+            "updated": 1634124792,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/127/how-to-disable-automatic-transparent-tabbar-in-ios-15",
+            "title": "How to disable automatic transparent tabBar in iOS 15",
+            "link": "https://nemecek.be/blog/127/how-to-disable-automatic-transparent-tabbar-in-ios-15",
+            "updated": 1633649278,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/126/how-to-disable-automatic-transparent-navbar-in-ios-15",
+            "title": "How to disable automatic transparent navbar in iOS 15",
+            "link": "https://nemecek.be/blog/126/how-to-disable-automatic-transparent-navbar-in-ios-15",
+            "updated": 1633494955,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/123/loading-html-text-into-uitextview",
+            "title": "Loading HTML text into UITextView",
+            "link": "https://nemecek.be/blog/123/loading-html-text-into-uitextview",
+            "updated": 1632043862,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/jordi-bruin",
+            "title": "iOS Chat with Jordi Bruin",
+            "link": "https://nemecek.be/chats/jordi-bruin",
+            "updated": 1627978562,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/119/how-to-check-if-mobile-data-is-enabled-for-your-app",
+            "title": "How to check if Mobile (Cellular) Data is enabled for your app",
+            "link": "https://nemecek.be/blog/119/how-to-check-if-mobile-data-is-enabled-for-your-app",
+            "updated": 1627632102,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/donny-wals",
+            "title": "iOS Chat with Donny Wals",
+            "link": "https://nemecek.be/chats/donny-wals",
+            "updated": 1627473131,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/117/implementing-drag-drop-for-collection-view",
+            "title": "Implementing drag & drop for Collection View",
+            "link": "https://nemecek.be/blog/117/implementing-drag-drop-for-collection-view",
+            "updated": 1626163068,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/heidi-helen-pilypas",
+            "title": "iOS Chat with Heidi Helen Pilypas",
+            "link": "https://nemecek.be/chats/heidi-helen-pilypas",
+            "updated": 1626080087,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/114/implementing-alternate-icons-in-ios",
+            "title": "Implementing alternate icons in iOS",
+            "link": "https://nemecek.be/blog/114/implementing-alternate-icons-in-ios",
+            "updated": 1625724928,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/elle-sullivan",
+            "title": "iOS Chat with Elle Sullivan",
+            "link": "https://nemecek.be/chats/elle-sullivan",
+            "updated": 1623921130,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/111/wkwebview-improvements-in-ios-15",
+            "title": "WKWebView improvements in iOS 15",
+            "link": "https://nemecek.be/blog/111/wkwebview-improvements-in-ios-15",
+            "updated": 1623905665,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/110/sfsafariviewcontroller-improvements-in-ios-15",
+            "title": "SFSafariViewController improvements in iOS 15",
+            "link": "https://nemecek.be/blog/110/sfsafariviewcontroller-improvements-in-ios-15",
+            "updated": 1623487302,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location",
+            "title": "Core Location UI: New way to get one-time location",
+            "link": "https://nemecek.be/blog/109/core-location-ui-new-way-to-get-one-time-location",
+            "updated": 1623390532,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15",
+            "title": "Meet the new bottom sheet in iOS 15",
+            "link": "https://nemecek.be/blog/108/meet-the-new-bottom-sheet-in-ios-15",
+            "updated": 1623283888,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15",
+            "title": "Big improvements to UIButton in iOS 15",
+            "link": "https://nemecek.be/blog/107/big-improvements-to-uibutton-in-ios-15",
+            "updated": 1623197515,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15",
+            "title": "New approach to formatters in iOS 15",
+            "link": "https://nemecek.be/blog/106/new-approach-to-formatters-in-ios-15",
+            "updated": 1623151863,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/danijela-vrzan",
+            "title": "iOS Chat with Danijela Vrzan",
+            "link": "https://nemecek.be/chats/danijela-vrzan",
+            "updated": 1622631195,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/104/checking-if-device-is-locked-or-sleeping-in-ios",
+            "title": "Checking if device is locked (or sleeping) in iOS",
+            "link": "https://nemecek.be/blog/104/checking-if-device-is-locked-or-sleeping-in-ios",
+            "updated": 1621942072,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/neil-sardesai",
+            "title": "iOS Chat with Neil Sardesai",
+            "link": "https://nemecek.be/chats/neil-sardesai",
+            "updated": 1621938327,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/103/solving-difficult-problem-by-solving-way-easier-one",
+            "title": "Solving difficult problem by solving way easier one",
+            "link": "https://nemecek.be/blog/103/solving-difficult-problem-by-solving-way-easier-one",
+            "updated": 1621511171,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/102/connecting-to-wi-fi-programmatically-in-ios-with-swift",
+            "title": "Connecting to Wi-Fi programmatically in iOS with Swift",
+            "link": "https://nemecek.be/blog/102/connecting-to-wi-fi-programmatically-in-ios-with-swift",
+            "updated": 1621423222,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/marius-constantinescu",
+            "title": "iOS Chat with Marius Constantinescu",
+            "link": "https://nemecek.be/chats/marius-constantinescu",
+            "updated": 1621413517,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/oleh-stasula",
+            "title": "iOS Chat with Oleh Stasula",
+            "link": "https://nemecek.be/chats/oleh-stasula",
+            "updated": 1620214146,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/98/how-to-save-image-into-photos",
+            "title": "How to save image into Photos",
+            "link": "https://nemecek.be/blog/98/how-to-save-image-into-photos",
+            "updated": 1618823873,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/97/creating-basic-configurable-siri-shortcut",
+            "title": "Creating basic configurable Siri Shortcut",
+            "link": "https://nemecek.be/blog/97/creating-basic-configurable-siri-shortcut",
+            "updated": 1618210789,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/95/how-to-decode-dates-with-codable",
+            "title": "How to decode dates with Codable",
+            "link": "https://nemecek.be/blog/95/how-to-decode-dates-with-codable",
+            "updated": 1617537896,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/94/backend-for-swift-developers-workshop-info",
+            "title": "Backend for Swift developers workshop [info]",
+            "link": "https://nemecek.be/blog/94/backend-for-swift-developers-workshop-info",
+            "updated": 1617432339,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/carlton-gibson",
+            "title": "iOS Chat with Carlton Gibson",
+            "link": "https://nemecek.be/chats/carlton-gibson",
+            "updated": 1617331519,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/felizia-bernutz",
+            "title": "iOS Chat with Felizia Bernutz",
+            "link": "https://nemecek.be/chats/felizia-bernutz",
+            "updated": 1617181901,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/josh-holtz",
+            "title": "iOS Chat with Josh Holtz",
+            "link": "https://nemecek.be/chats/josh-holtz",
+            "updated": 1617016694,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/93/how-to-save-enum-to-core-data",
+            "title": "How to save enum to Core Data",
+            "link": "https://nemecek.be/blog/93/how-to-save-enum-to-core-data",
+            "updated": 1616908238,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/oleg-dreyman",
+            "title": "iOS Chat with Oleg Dreyman",
+            "link": "https://nemecek.be/chats/oleg-dreyman",
+            "updated": 1616760269,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/92/javascript-basics-for-ios-developers",
+            "title": "JavaScript basics for iOS developers",
+            "link": "https://nemecek.be/blog/92/javascript-basics-for-ios-developers",
+            "updated": 1616588456,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/marina-gornostaeva",
+            "title": "iOS Chat with Marina Gornostaeva",
+            "link": "https://nemecek.be/chats/marina-gornostaeva",
+            "updated": 1616586200,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/jeroen-leenarts-appforce1",
+            "title": "iOS Chat with Jeroen Leenarts",
+            "link": "https://nemecek.be/chats/jeroen-leenarts-appforce1",
+            "updated": 1616415166,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/mikaela-caron",
+            "title": "iOS Chat with Mikaela Caron",
+            "link": "https://nemecek.be/chats/mikaela-caron",
+            "updated": 1616156983,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/dave-jacobsen",
+            "title": "iOS Chat with Dave Jacobsen",
+            "link": "https://nemecek.be/chats/dave-jacobsen",
+            "updated": 1615980793,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/90/how-to-decode-snake-case-with-codable",
+            "title": "How to decode snake case with Codable",
+            "link": "https://nemecek.be/blog/90/how-to-decode-snake-case-with-codable",
+            "updated": 1615958559,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/marc-aupont",
+            "title": "iOS Chat with Marc Aupont",
+            "link": "https://nemecek.be/chats/marc-aupont",
+            "updated": 1615802160,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/89/randomness-in-swift-comprehensive-overview",
+            "title": "Randomness in Swift: Comprehensive overview",
+            "link": "https://nemecek.be/blog/89/randomness-in-swift-comprehensive-overview",
+            "updated": 1615722918,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/88/uimenu-comprehensive-guide",
+            "title": "UIMenu: Comprehensive guide",
+            "link": "https://nemecek.be/blog/88/uimenu-comprehensive-guide",
+            "updated": 1615118224,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/stewart-lynch",
+            "title": "iOS Chat with Stewart Lynch",
+            "link": "https://nemecek.be/chats/stewart-lynch",
+            "updated": 1615013532,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/roblack",
+            "title": "iOS Chat with Emin Grbo",
+            "link": "https://nemecek.be/chats/roblack",
+            "updated": 1614738433,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/lee-kah-seng",
+            "title": "iOS Chat with Lee Kah Seng",
+            "link": "https://nemecek.be/chats/lee-kah-seng",
+            "updated": 1614510428,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/mihaela-mj",
+            "title": "iOS Chat with Mihaela MJ",
+            "link": "https://nemecek.be/chats/mihaela-mj",
+            "updated": 1614254540,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/nicolas-spinner",
+            "title": "iOS Chat with Nicolas Spinner",
+            "link": "https://nemecek.be/chats/nicolas-spinner",
+            "updated": 1614254285,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/chats/tundsdev",
+            "title": "iOS Chat with @tundsdev",
+            "link": "https://nemecek.be/chats/tundsdev",
+            "updated": 1614254053,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/86/re-creating-apple-photos-layout-animations-with-compositional-layout",
+            "title": "Re-creating Apple Photos layout & animations with Compositional Layout",
+            "link": "https://nemecek.be/blog/86/re-creating-apple-photos-layout-animations-with-compositional-layout",
+            "updated": 1613894322,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/85/how-to-show-uimenu-from-uibutton-or-uibarbuttonitem",
+            "title": "How to show UIMenu from UIButton or UIBarButtonItem",
+            "link": "https://nemecek.be/blog/85/how-to-show-uimenu-from-uibutton-or-uibarbuttonitem",
+            "updated": 1613387548,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/84/how-to-create-responsive-compositional-layout",
+            "title": "How to create responsive Compositional Layout",
+            "link": "https://nemecek.be/blog/84/how-to-create-responsive-compositional-layout",
+            "updated": 1613101782,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/83/how-to-create-sticky-headers-with-compositional-layout",
+            "title": "How to create sticky headers with Compositional Layout",
+            "link": "https://nemecek.be/blog/83/how-to-create-sticky-headers-with-compositional-layout",
+            "updated": 1612850110,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/82/useful-extensions-for-collectionview-and-compositional-layout",
+            "title": "Useful extensions for CollectionView and Compositional Layout",
+            "link": "https://nemecek.be/blog/82/useful-extensions-for-collectionview-and-compositional-layout",
+            "updated": 1612613839,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/81/how-to-create-onboarding-with-compositional-layout",
+            "title": "How to create onboarding with Compositional Layout",
+            "link": "https://nemecek.be/blog/81/how-to-create-onboarding-with-compositional-layout",
+            "updated": 1612514565,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/78/how-to-use-nsdatadetector-to-detect-links-email-addresses-phone-numbers-and-more",
+            "title": "How to use NSDataDetector to detect links, email addresses, phone numbers and more",
+            "link": "https://nemecek.be/blog/78/how-to-use-nsdatadetector-to-detect-links-email-addresses-phone-numbers-and-more",
+            "updated": 1612088965,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/77/how-to-create-grid-with-compositional-layout",
+            "title": "How to create grid with Compositional Layout",
+            "link": "https://nemecek.be/blog/77/how-to-create-grid-with-compositional-layout",
+            "updated": 1611978647,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/76/what-is-intrinsic-content-size-and-why-care",
+            "title": "What is intrinsic content size and why care?",
+            "link": "https://nemecek.be/blog/76/what-is-intrinsic-content-size-and-why-care",
+            "updated": 1611748205,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/73/example-project-showing-compositional-layout-and-diffable",
+            "title": "Example project showing Compositional Layout and Diffable",
+            "link": "https://nemecek.be/blog/73/example-project-showing-compositional-layout-and-diffable",
+            "updated": 1611206514,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/72/building-instagram-profile-screen-with-compositional-layout",
+            "title": "Building Instagram profile screen with Compositional Layout",
+            "link": "https://nemecek.be/blog/72/building-instagram-profile-screen-with-compositional-layout",
+            "updated": 1610970691,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/71/using-background-decoration-views-with-compositional-layout",
+            "title": "Using background decoration views with Compositional Layout",
+            "link": "https://nemecek.be/blog/71/using-background-decoration-views-with-compositional-layout",
+            "updated": 1610724961,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/70/tips-and-practices-for-setting-up-diffable-data-sources",
+            "title": "Tips and practices for setting up Diffable Data Sources",
+            "link": "https://nemecek.be/blog/70/tips-and-practices-for-setting-up-diffable-data-sources",
+            "updated": 1610363167,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/69/supplementary-views-with-compositional-layout-and-diffable-data-source",
+            "title": "Supplementary views with Compositional Layout and Diffable Data Source",
+            "link": "https://nemecek.be/blog/69/supplementary-views-with-compositional-layout-and-diffable-data-source",
+            "updated": 1610253813,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/66/detailed-look-at-the-nscollectionlayoutgroup",
+            "title": "Detailed look at the NSCollectionLayoutGroup",
+            "link": "https://nemecek.be/blog/66/detailed-look-at-the-nscollectionlayoutgroup",
+            "updated": 1609639759,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/64/how-to-let-user-select-contact-from-their-contact-list",
+            "title": "How to let user select contact from their contact list",
+            "link": "https://nemecek.be/blog/64/how-to-let-user-select-contact-from-their-contact-list",
+            "updated": 1609067802,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/63/how-to-monitor-system-calendar-for-changes-with-eventkit",
+            "title": "How to monitor system calendar for changes with EventKit",
+            "link": "https://nemecek.be/blog/63/how-to-monitor-system-calendar-for-changes-with-eventkit",
+            "updated": 1608691015,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/62/how-to-refresh-headerfooter-with-diffable-data-source",
+            "title": "How to refresh header / footer with Diffable Data Source",
+            "link": "https://nemecek.be/blog/62/how-to-refresh-headerfooter-with-diffable-data-source",
+            "updated": 1608451387,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/61/ios-14-how-to-send-email-using-default-email-app",
+            "title": "iOS 14: How to send email using default email app",
+            "link": "https://nemecek.be/blog/61/ios-14-how-to-send-email-using-default-email-app",
+            "updated": 1607830283,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/60/implementing-loadingshimmer-with-diffable-data-source",
+            "title": "Implementing loading / shimmer with Diffable Data Source",
+            "link": "https://nemecek.be/blog/60/implementing-loadingshimmer-with-diffable-data-source",
+            "updated": 1607239575,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/59/demystifying-core-data-a-guide-for-newcomers",
+            "title": "Demystifying Core Data: A guide for newcomers",
+            "link": "https://nemecek.be/blog/59/demystifying-core-data-a-guide-for-newcomers",
+            "updated": 1607154519,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/57/making-files-from-your-app-available-in-the-ios-files-app",
+            "title": "Making files from your app available in the iOS Files app",
+            "link": "https://nemecek.be/blog/57/making-files-from-your-app-available-in-the-ios-files-app",
+            "updated": 1606042126,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/56/basic-anatomy-of-collection-view-compositional-layout",
+            "title": "Basic anatomy of collection view compositional layout",
+            "link": "https://nemecek.be/blog/56/basic-anatomy-of-collection-view-compositional-layout",
+            "updated": 1605940653,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience",
+            "title": "Porting iPhone app to iPad: My experience",
+            "link": "https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience",
+            "updated": 1603866795,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/52/implementing-multi-user-support-in-tvos-14",
+            "title": "Implementing multi-user support in tvOS 14",
+            "link": "https://nemecek.be/blog/52/implementing-multi-user-support-in-tvos-14",
+            "updated": 1603188706,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/51/refactoring-uialertcontroller-helper-class-and-protocol-approaches",
+            "title": "Refactoring UIAlertController: Helper class and protocol approaches",
+            "link": "https://nemecek.be/blog/51/refactoring-uialertcontroller-helper-class-and-protocol-approaches",
+            "updated": 1601897800,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/50/how-to-approach-complex-programming-problems",
+            "title": "How to approach complex programming problems",
+            "link": "https://nemecek.be/blog/50/how-to-approach-complex-programming-problems",
+            "updated": 1601100884,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/45/how-to-create-new-calendar-using-eventkit-in-swift",
+            "title": "How to create new calendar using EventKit in Swift",
+            "link": "https://nemecek.be/blog/45/how-to-create-new-calendar-using-eventkit-in-swift",
+            "updated": 1598784650,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/44/minimal-example-of-using-diffable-data-source-with-core-data",
+            "title": "Minimal example of using Diffable Data Source with Core Data",
+            "link": "https://nemecek.be/blog/44/minimal-example-of-using-diffable-data-source-with-core-data",
+            "updated": 1598766081,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/42/how-to-create-core-data-database-from-multiple-model-files",
+            "title": "How to create Core Data database from multiple model files",
+            "link": "https://nemecek.be/blog/42/how-to-create-core-data-database-from-multiple-model-files",
+            "updated": 1597831273,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/41/my-approach-to-setting-up-core-data-stack",
+            "title": "My approach to setting up Core Data stack",
+            "link": "https://nemecek.be/blog/41/my-approach-to-setting-up-core-data-stack",
+            "updated": 1596616819,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/40/how-to-use-ekeventeditviewcontroller-in-swiftui",
+            "title": "How to use EKEventEditViewController in SwiftUI",
+            "link": "https://nemecek.be/blog/40/how-to-use-ekeventeditviewcontroller-in-swiftui",
+            "updated": 1596533675,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/39/how-to-use-ekcalendarchooser-with-swiftui",
+            "title": "How to use EKCalendarChooser with SwiftUI",
+            "link": "https://nemecek.be/blog/39/how-to-use-ekcalendarchooser-with-swiftui",
+            "updated": 1596267188,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/38/how-to-implement-ocr-with-vision-framework-in-ios-13",
+            "title": "How to implement OCR in iOS without 3rd party frameworks",
+            "link": "https://nemecek.be/blog/38/how-to-implement-ocr-with-vision-framework-in-ios-13",
+            "updated": 1596018548,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/35/how-to-create-ios-reminders-in-code-with-alarms-or-recurrences",
+            "title": "How to create iOS reminders programatically with alarms or recurrences",
+            "link": "https://nemecek.be/blog/35/how-to-create-ios-reminders-in-code-with-alarms-or-recurrences",
+            "updated": 1594460901,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell",
+            "title": "iOS 14: Quick dive into the new UIColorWell",
+            "link": "https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell",
+            "updated": 1593844061,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/32/ios-14-what-is-new-for-wkwebview",
+            "title": "iOS 14: What is new for WKWebView",
+            "link": "https://nemecek.be/blog/32/ios-14-what-is-new-for-wkwebview",
+            "updated": 1593393554,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/31/how-to-setup-cloudkit-subscription-to-get-notified-for-changes",
+            "title": "How to setup CloudKit subscription to get notified for changes",
+            "link": "https://nemecek.be/blog/31/how-to-setup-cloudkit-subscription-to-get-notified-for-changes",
+            "updated": 1593231537,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/30/checking-out-the-new-phpickerviewcontroller-in-ios-14-to-select-photos-or-videos",
+            "title": "How to let user select photos from iOS Photo Library",
+            "link": "https://nemecek.be/blog/30/checking-out-the-new-phpickerviewcontroller-in-ios-14-to-select-photos-or-videos",
+            "updated": 1593061768,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14",
+            "title": "Look at the new UIColorPickerViewController in iOS 14",
+            "link": "https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14",
+            "updated": 1592884662,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/28/how-to-save-event-into-users-calendar",
+            "title": "How to save event into user's calendar",
+            "link": "https://nemecek.be/blog/28/how-to-save-event-into-users-calendar",
+            "updated": 1592643255,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/26/how-to-scan-documents-in-under-10-lines-of-code",
+            "title": "How to scan documents in under 10 lines of code",
+            "link": "https://nemecek.be/blog/26/how-to-scan-documents-in-under-10-lines-of-code",
+            "updated": 1591517927,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/24/ios-how-to-load-events-from-users-calendar",
+            "title": "How to load events from user's calendar",
+            "link": "https://nemecek.be/blog/24/ios-how-to-load-events-from-users-calendar",
+            "updated": 1591517615,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/22/how-to-get-file-size-using-filemanager-formatting",
+            "title": "How to get file size using FileManager + formatting",
+            "link": "https://nemecek.be/blog/22/how-to-get-file-size-using-filemanager-formatting",
+            "updated": 1591057597,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/21/a-few-autolayout-and-general-uikit-tips-tricks",
+            "title": "Improve your UIKit layouts with these tips & tricks",
+            "link": "https://nemecek.be/blog/21/a-few-autolayout-and-general-uikit-tips-tricks",
+            "updated": 1590491580,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/20/ios-13-launchoptions-always-nil-this-is-the-reason-solution",
+            "title": "iOS 13: launchOptions always nil? This is the reason & solution",
+            "link": "https://nemecek.be/blog/20/ios-13-launchoptions-always-nil-this-is-the-reason-solution",
+            "updated": 1590139521,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/19/using-wkwebview-in-headless-mode",
+            "title": "Using WKWebView in headless mode",
+            "link": "https://nemecek.be/blog/19/using-wkwebview-in-headless-mode",
+            "updated": 1590139441,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/18/how-to-quickly-remove-duplicates-from-array-keep-order",
+            "title": "How to quickly remove duplicates from Array & keep order",
+            "link": "https://nemecek.be/blog/18/how-to-quickly-remove-duplicates-from-array-keep-order",
+            "updated": 1590138998,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/17/how-to-add-badge-to-uibarbuttonitem",
+            "title": "How to add badge to UIBarButtonItem",
+            "link": "https://nemecek.be/blog/17/how-to-add-badge-to-uibarbuttonitem",
+            "updated": 1590138903,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/16/how-to-use-ekcalendarchooser-in-swift-to-let-user-select-calendar-in-ios",
+            "title": "How to use EKCalendarChooser in Swift to let user select calendar in iOS",
+            "link": "https://nemecek.be/blog/16/how-to-use-ekcalendarchooser-in-swift-to-let-user-select-calendar-in-ios",
+            "updated": 1590138801,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/15/how-to-let-users-send-feedback-using-email-app-of-their-choice-in-ios",
+            "title": "How to let users send feedback using email app of their choice in iOS",
+            "link": "https://nemecek.be/blog/15/how-to-let-users-send-feedback-using-email-app-of-their-choice-in-ios",
+            "updated": 1590138721,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/14/how-to-create-reusable-uiview-with-xib-file-for-easy-design",
+            "title": "How to create reusable UIView with .XIB file for easy design",
+            "link": "https://nemecek.be/blog/14/how-to-create-reusable-uiview-with-xib-file-for-easy-design",
+            "updated": 1590138595,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/13/how-to-easily-display-files-like-pdf-documents-images-and-more-in-your-app",
+            "title": "How to display files like PDFs, documents, GIFs, images and more in your app",
+            "link": "https://nemecek.be/blog/13/how-to-easily-display-files-like-pdf-documents-images-and-more-in-your-app",
+            "updated": 1590138501,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/12/how-to-generate-image-previewsthumbnails-of-various-files",
+            "title": "How to generate image previews / thumbnails of various files",
+            "link": "https://nemecek.be/blog/12/how-to-generate-image-previewsthumbnails-of-various-files",
+            "updated": 1590138373,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/11/advanced-string-comparison-and-sorting-in-swift",
+            "title": "Advanced string comparison and sorting in Swift",
+            "link": "https://nemecek.be/blog/11/advanced-string-comparison-and-sorting-in-swift",
+            "updated": 1590138313,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/10/few-book-recommendations-that-will-make-you-a-better-developer",
+            "title": "Few book recommendations that will make you a better developer",
+            "link": "https://nemecek.be/blog/10/few-book-recommendations-that-will-make-you-a-better-developer",
+            "updated": 1590138177,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/9/easy-way-to-temporarily-cover-whole-screen-of-your-application",
+            "title": "How to temporarily cover whole screen of your application",
+            "link": "https://nemecek.be/blog/9/easy-way-to-temporarily-cover-whole-screen-of-your-application",
+            "updated": 1589099183,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/6/saving-files-into-users-icloud-drive-using-filemanager",
+            "title": "Saving files into user\u2019s iCloud Drive using FileManager",
+            "link": "https://nemecek.be/blog/6/saving-files-into-users-icloud-drive-using-filemanager",
+            "updated": 1589094990,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/5/how-to-implement-swipe-to-delete-action-with-custom-icon",
+            "title": "How to implement swipe to delete action with custom icon in TableView",
+            "link": "https://nemecek.be/blog/5/how-to-implement-swipe-to-delete-action-with-custom-icon",
+            "updated": 1589094918,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/3/how-to-use-ekeventeditviewcontroller-in-swift-to-let-user-save-event-to-ios-calendar",
+            "title": "How to use EKEventEditViewController in Swift to let user save event to iOS calendar",
+            "link": "https://nemecek.be/blog/3/how-to-use-ekeventeditviewcontroller-in-swift-to-let-user-save-event-to-ios-calendar",
+            "updated": 1589094639,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/2/four-tips-to-level-up-your-swift",
+            "title": "Four tips to level up your Swift",
+            "link": "https://nemecek.be/blog/2/four-tips-to-level-up-your-swift",
+            "updated": 1589094564,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        },
+        {
+            "id": "https://nemecek.be/blog/1/how-to-open-target_blank-links-in-wkwebview-in-ios",
+            "title": "How to open target=\"_blank\" links in WKWebView in iOS",
+            "link": "https://nemecek.be/blog/1/how-to-open-target_blank-links-in-wkwebview-in-ios",
+            "updated": 1589094393,
+            "site_name": "Filip N\u011bme\u010dek\u2019s Blog"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://bootstragram.com/blog/finding-ios-simulators-identifiers",
+            "title": "Finding iOS simulators identifiers for CI",
+            "link": "https://bootstragram.com/blog/finding-ios-simulators-identifiers/",
+            "updated": 1711645200,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/developer-mission-statement",
+            "title": "My Mission Statement as a Programmer",
+            "link": "https://bootstragram.com/blog/developer-mission-statement/",
+            "updated": 1704474000,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/blocks-and-hoods",
+            "title": "From block party to \u2019hood party",
+            "link": "https://bootstragram.com/blog/blocks-and-hoods/",
+            "updated": 1703350800,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/keep-control-of-types",
+            "title": "From the start, get rid of types you don\u2019t control: a lesson (re)learned, Rolling Stones Edition",
+            "link": "https://bootstragram.com/blog/keep-control-of-types/",
+            "updated": 1699462800,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/side-projects-2022",
+            "title": "The Joy Sparked by Side Projects, 2022 Edition",
+            "link": "https://bootstragram.com/blog/side-projects-2022/",
+            "updated": 1670864400,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/frenchkit-2022",
+            "title": "Notes from FrenchKit 2022",
+            "link": "https://bootstragram.com/blog/frenchkit-2022/",
+            "updated": 1665075600,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/date-with-no-time-operations-swift",
+            "title": "Dealing With Dates With No Time in Swift",
+            "link": "https://bootstragram.com/blog/date-with-no-time-operations-swift/",
+            "updated": 1646154000,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/swift-precondition-that-throws",
+            "title": "A Swift Recoverable Precondition That Can Throw",
+            "link": "https://bootstragram.com/blog/swift-precondition-that-throws/",
+            "updated": 1639674000,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/oauth-pkce-swift-secure-code-verifiers-and-code-challenges",
+            "title": "PKCE in Swift: Generating Cryptographically Secure Code Verifiers and Code Challenges",
+            "link": "https://bootstragram.com/blog/oauth-pkce-swift-secure-code-verifiers-and-code-challenges/",
+            "updated": 1620147600,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        },
+        {
+            "id": "https://bootstragram.com/blog/swift-heroes-digital-2021",
+            "title": "Notes From Swift Heroes Digital 2021",
+            "link": "https://bootstragram.com/blog/swift-heroes-digital-2021/",
+            "updated": 1618506000,
+            "site_url": "https://bootstragram.com/tag/ios/"
+        }
+    ]
+}

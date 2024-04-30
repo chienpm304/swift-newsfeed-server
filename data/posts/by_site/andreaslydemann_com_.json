@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://andreaslydemann.com/?p=4260",
+            "title": "How to Generate API Client Code in React (Native) Apps",
+            "link": "https://andreaslydemann.com/how-to-generate-api-client-code-in-react-native-apps/",
+            "updated": 1677713343,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=4185",
+            "title": "3 EAS Pipelines for Deploying React Native Apps in Teams",
+            "link": "https://andreaslydemann.com/deploy-react-native-apps-with-eas/",
+            "updated": 1676861549,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=3093",
+            "title": "Refactoring iOS Apps \u2013\u00a0A Pragmatic Guide",
+            "link": "https://andreaslydemann.com/refactoring-ios-apps/",
+            "updated": 1594002922,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=3059",
+            "title": "Architecting a Logging Service for iOS Apps",
+            "link": "https://andreaslydemann.com/architecting-a-logging-service-for-ios-apps/",
+            "updated": 1591452816,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=3010",
+            "title": "Architecting an Analytics Service for iOS Apps",
+            "link": "https://andreaslydemann.com/architecting-an-analytics-service-for-ios-apps/",
+            "updated": 1582588848,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=2935",
+            "title": "Architecting a Feature Toggle Service for iOS Apps",
+            "link": "https://andreaslydemann.com/clean-ios-architecture-for-feature-toggling/",
+            "updated": 1580688010,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=2768",
+            "title": "The Ten Commandments of iOS Development",
+            "link": "https://andreaslydemann.com/the-ten-commandments-of-ios-development/",
+            "updated": 1579474825,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=2394",
+            "title": "Continuous Integration Using GitHub Actions for iOS Projects",
+            "link": "https://andreaslydemann.com/continuous-integration-using-github-actions-for-ios-projects/",
+            "updated": 1578268849,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=2276",
+            "title": "Manage Your iOS Resources Type-Safely with R.swift",
+            "link": "https://andreaslydemann.com/manage-your-ios-resources-type-safely-with-r-swift/",
+            "updated": 1577166978,
+            "site_url": "https://andreaslydemann.com/"
+        },
+        {
+            "id": "https://andreaslydemann.com/?p=2137",
+            "title": "Eliminate Crashes & Incidents in Mobile Development Teams",
+            "link": "https://andreaslydemann.com/eliminate-crashes-incidents-in-mobile-development-teams/",
+            "updated": 1576107801,
+            "site_url": "https://andreaslydemann.com/"
+        }
+    ]
+}

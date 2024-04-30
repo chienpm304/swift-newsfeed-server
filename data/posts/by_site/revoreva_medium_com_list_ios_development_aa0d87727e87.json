@@ -1,0 +1,75 @@
+{
+    "updated": 1714470921,
+    "posts": [
+        {
+            "id": "https://medium.com/p/b7fbdf9f1dc4",
+            "title": "Some Notes when Upgrading into Xcode 13",
+            "link": "https://revoreva.medium.com/some-notes-when-upgrading-into-xcode-13-b7fbdf9f1dc4?source=rss-a7645444f16d------2",
+            "updated": 1649805649,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/a9dca53e2511",
+            "title": "Some essential parts when making an App",
+            "link": "https://revoreva.medium.com/some-essential-parts-when-making-an-app-a9dca53e2511?source=rss-a7645444f16d------2",
+            "updated": 1626310252,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/16a536c65910",
+            "title": "Impact of iOS 14.5",
+            "link": "https://revoreva.medium.com/impact-of-ios-14-5-16a536c65910?source=rss-a7645444f16d------2",
+            "updated": 1625249306,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/1db2885282a4",
+            "title": "Some notes when upgrading into XCode 12",
+            "link": "https://revoreva.medium.com/some-notes-when-upgrading-into-xcode-12-1db2885282a4?source=rss-a7645444f16d------2",
+            "updated": 1623990256,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/f70e29a88c72",
+            "title": "SSL Pinning with Alamofire, most essential part",
+            "link": "https://revoreva.medium.com/ssl-pinning-with-alamofire-most-essential-part-f70e29a88c72?source=rss-a7645444f16d------2",
+            "updated": 1623983974,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/68be9feb8e9b",
+            "title": "Different UUID from IDFA and IDFV",
+            "link": "https://revoreva.medium.com/different-uuid-from-idfa-and-idfv-68be9feb8e9b?source=rss-a7645444f16d------2",
+            "updated": 1623983948,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/3deda4e4837a",
+            "title": "Using Plist to store secret values in iOS App, and ignore it in Version Control (Git)",
+            "link": "https://revoreva.medium.com/using-plist-to-store-secret-values-in-ios-app-and-ignore-it-in-version-control-git-3deda4e4837a?source=rss-a7645444f16d------2",
+            "updated": 1623816480,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/69e2b90b268b",
+            "title": "didRegisterForRemoteNotificationsWithDeviceToken not Called",
+            "link": "https://revoreva.medium.com/didregisterforremotenotificationswithdevicetoken-not-called-69e2b90b268b?source=rss-a7645444f16d------2",
+            "updated": 1623815325,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/f479895754b2",
+            "title": "Remove build phase script \u201c[CP] Check Pods Manifest.lock\u201d",
+            "link": "https://revoreva.medium.com/remove-build-phase-script-cp-check-pods-manifest-lock-f479895754b2?source=rss-a7645444f16d------2",
+            "updated": 1623826253,
+            "site_name": "revoreva's blog"
+        },
+        {
+            "id": "https://medium.com/p/c7546e848f1f",
+            "title": "Error \u201ctransporter\u201d when uploading into Appstore",
+            "link": "https://revoreva.medium.com/error-transporter-when-uploading-into-appstore-c7546e848f1f?source=rss-a7645444f16d------2",
+            "updated": 1626498606,
+            "site_name": "revoreva's blog"
+        }
+    ]
+}

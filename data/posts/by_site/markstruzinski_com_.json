@@ -1,0 +1,208 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://markstruzinski.com/2019/08/using-coordinator-with-scene-delegates/",
+            "title": "Using Coordinator With Scene Delegates",
+            "link": "https://markstruzinski.com/2019/08/using-coordinator-with-scene-delegates/",
+            "updated": 1566699728,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2018/08/ios-universal-links-tips/",
+            "title": "iOS Universal Links Tips",
+            "link": "https://markstruzinski.com/2018/08/ios-universal-links-tips/",
+            "updated": 1534435453,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2018/07/alfred-diffs-with-kaleidoscope/",
+            "title": "Alfred Diffs With Kaleidoscope",
+            "link": "https://markstruzinski.com/2018/07/alfred-diffs-with-kaleidoscope/",
+            "updated": 1533036078,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2018/04/expanding-on-generic-json-parsing/",
+            "title": "Expanding on Generic Json Parsing",
+            "link": "https://markstruzinski.com/2018/04/expanding-on-generic-json-parsing/",
+            "updated": 1523532078,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2018/03/generic-json-parsing/",
+            "title": "Generic JSON Parsing",
+            "link": "https://markstruzinski.com/2018/03/generic-json-parsing/",
+            "updated": 1522049503,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2014/11/cocoaconf-boston-2014/",
+            "title": "CocoaConf Boston 2014",
+            "link": "https://markstruzinski.com/2014/11/cocoaconf-boston-2014/",
+            "updated": 1416070800,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/10/unit-testing-patterns-for-asynchronous-networking-communications/",
+            "title": "Unit Testing Patterns for Asynchronous Networking Communications",
+            "link": "https://markstruzinski.com/2013/10/unit-testing-patterns-for-asynchronous-networking-communications/",
+            "updated": 1381338000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/05/a-change-in-direction/",
+            "title": "A Change in Direction",
+            "link": "https://markstruzinski.com/2013/05/a-change-in-direction/",
+            "updated": 1368464400,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/04/setting-up-ios-logic-tests-part-4/",
+            "title": "Setting up iOS Logic Tests [Part 4]",
+            "link": "https://markstruzinski.com/2013/04/setting-up-ios-logic-tests-part-4/",
+            "updated": 1365354000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/03/orientation-changes-in-ios-6/",
+            "title": "Orientation Changes in iOS 6",
+            "link": "https://markstruzinski.com/2013/03/orientation-changes-in-ios-6/",
+            "updated": 1362934800,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/02/quick-tip-textexpander/octopress-new-code-block/",
+            "title": "Quick Tip: TextExpander/Octopress New Code Block",
+            "link": "https://markstruzinski.com/2013/02/quick-tip-textexpander/octopress-new-code-block/",
+            "updated": 1361725200,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-3/",
+            "title": "Setting Up iOS Logic Tests [Part 3]",
+            "link": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-3/",
+            "updated": 1361206800,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-2/",
+            "title": "Setting Up iOS Logic Tests [Part 2]",
+            "link": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-2/",
+            "updated": 1360688400,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-1/",
+            "title": "Setting up iOS Logic Tests [Part 1]",
+            "link": "https://markstruzinski.com/2013/02/setting-up-ios-logic-tests-part-1/",
+            "updated": 1360256400,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/02/unit-testing-series/",
+            "title": "Unit Testing Series",
+            "link": "https://markstruzinski.com/2013/02/unit-testing-series/",
+            "updated": 1359651600,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/01/keyboard-maestro-macro-to-open-in-browser-from-readkit/",
+            "title": "Keyboard Maestro macro to open in browser from ReadKit",
+            "link": "https://markstruzinski.com/2013/01/keyboard-maestro-macro-to-open-in-browser-from-readkit/",
+            "updated": 1358269200,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2013/01/homescreen-january-2013/",
+            "title": "Homescreen January 2013",
+            "link": "https://markstruzinski.com/2013/01/homescreen-january-2013/",
+            "updated": 1357146000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/12/codepilot/",
+            "title": "CodePilot",
+            "link": "https://markstruzinski.com/2012/12/codepilot/",
+            "updated": 1355245200,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/10/ocunit-script-to-kill-simulator-after-tests-run/",
+            "title": "OCUnit - Script to Kill Simulator After Tests Run",
+            "link": "https://markstruzinski.com/2012/10/ocunit-script-to-kill-simulator-after-tests-run/",
+            "updated": 1349802000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/08/backblaze-mds-worker-and-spotlight/",
+            "title": "BackBlaze, MDS Worker, and Spotlight",
+            "link": "https://markstruzinski.com/2012/08/backblaze-mds-worker-and-spotlight/",
+            "updated": 1345568400,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/08/xcode-file-template-for-kiwi-tests/",
+            "title": "Xcode File Template for Kiwi Tests",
+            "link": "https://markstruzinski.com/2012/08/xcode-file-template-for-kiwi-tests/",
+            "updated": 1345222800,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/05/quick-wipe-of-ios-simulator-using-alfred/",
+            "title": "Quick Wipe of iOS Simulator Using Alfred",
+            "link": "https://markstruzinski.com/2012/05/quick-wipe-of-ios-simulator-using-alfred/",
+            "updated": 1335891600,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/02/persisting-data-using-the-plist-format-part-2/2/",
+            "title": "Persisting Data Using the Plist Format: Part 2/2",
+            "link": "https://markstruzinski.com/2012/02/persisting-data-using-the-plist-format-part-2/2/",
+            "updated": 1329930000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2012/02/persisting-simple-data-using-the-plist-format-part-1/1/",
+            "title": "Persisting Simple Data Using the Plist Format: Part 1/1",
+            "link": "https://markstruzinski.com/2012/02/persisting-simple-data-using-the-plist-format-part-1/1/",
+            "updated": 1328202000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2011/10/goodbye-steve/",
+            "title": "Goodbye, Steve",
+            "link": "https://markstruzinski.com/2011/10/goodbye-steve/",
+            "updated": 1317834000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2011/09/quick-xcode-4-tip-deleting-derived-data-to-rescue-code-completion/",
+            "title": "Quick Xcode 4 Tip: Deleting Derived Data to Rescue Code Completion",
+            "link": "https://markstruzinski.com/2011/09/quick-xcode-4-tip-deleting-derived-data-to-rescue-code-completion/",
+            "updated": 1317315600,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2011/06/on-discovering-new-apis/",
+            "title": "On Discovering New APIs",
+            "link": "https://markstruzinski.com/2011/06/on-discovering-new-apis/",
+            "updated": 1307725200,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/2010/06/using-nsxmlparser/",
+            "title": "Using NSXMLParser",
+            "link": "https://markstruzinski.com/2010/06/using-nsxmlparser/",
+            "updated": 1275877297,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        },
+        {
+            "id": "https://markstruzinski.com/about/",
+            "title": "About",
+            "link": "https://markstruzinski.com/about/",
+            "updated": 978282000,
+            "site_name": "Mark Struzinski\u2019s Blog"
+        }
+    ]
+}

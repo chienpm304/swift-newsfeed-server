@@ -1,0 +1,61 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://theswiftdeveloper.com/?p=185",
+            "title": "Customizing Codable with Property Wrappers",
+            "link": "https://theswiftdeveloper.com/2022/04/10/customizing-codable-with-property-wrappers/?utm_source=rss&utm_medium=rss&utm_campaign=customizing-codable-with-property-wrappers",
+            "updated": 1649580237,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "https://theswiftdeveloper.com/?p=174",
+            "title": "Wrapping your head around Property Wrappers",
+            "link": "https://theswiftdeveloper.com/2022/03/06/wrapping-your-head-around-property-wrappers/?utm_source=rss&utm_medium=rss&utm_campaign=wrapping-your-head-around-property-wrappers",
+            "updated": 1646513213,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=162",
+            "title": "Generics Part 2 \u2013 Type Constraints",
+            "link": "https://theswiftdeveloper.com/2020/12/08/generics-part-2-type-constraints/?utm_source=rss&utm_medium=rss&utm_campaign=generics-part-2-type-constraints",
+            "updated": 1607427730,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=151",
+            "title": "Generics Part 1 \u2013 Functions and Types",
+            "link": "https://theswiftdeveloper.com/2020/11/24/generics-part-1-functions-and-types/?utm_source=rss&utm_medium=rss&utm_campaign=generics-part-1-functions-and-types",
+            "updated": 1606175449,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=136",
+            "title": "Forging a Swift Sequence",
+            "link": "https://theswiftdeveloper.com/2020/09/18/forging-a-swift-sequence/?utm_source=rss&utm_medium=rss&utm_campaign=forging-a-swift-sequence",
+            "updated": 1600386684,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=130",
+            "title": "Understanding Codable by going behind the scenes",
+            "link": "https://theswiftdeveloper.com/2020/09/11/understanding-codable-by-going-behind-the-scenes/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-codable-by-going-behind-the-scenes",
+            "updated": 1599825931,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=42",
+            "title": "Making a case for Result",
+            "link": "https://theswiftdeveloper.com/2020/09/07/making-a-case-for-result/?utm_source=rss&utm_medium=rss&utm_campaign=making-a-case-for-result",
+            "updated": 1599421392,
+            "site_name": "Mayur Gowravaram's Blog"
+        },
+        {
+            "id": "http://theswiftdeveloper.com/?p=23",
+            "title": "Error. A localized description",
+            "link": "https://theswiftdeveloper.com/2020/08/30/error-a-localized-description/?utm_source=rss&utm_medium=rss&utm_campaign=error-a-localized-description",
+            "updated": 1598784527,
+            "site_name": "Mayur Gowravaram's Blog"
+        }
+    ]
+}

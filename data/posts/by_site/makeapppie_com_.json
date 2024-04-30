@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://makeapppie.com/?p=34434",
+            "title": "First Impressions of Swift Data",
+            "link": "https://makeapppie.com/2023/06/15/first-impressions-of-swift-data/",
+            "updated": 1686826219,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33820",
+            "title": "More if{}else{}",
+            "link": "https://makeapppie.com/2022/07/19/more-ifelse/",
+            "updated": 1658218140,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33791",
+            "title": "Make Swift Playground Apps: Using if{}else{}",
+            "link": "https://makeapppie.com/2022/07/12/make-swift-playground-apps-using-ifelse/",
+            "updated": 1657607741,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33780",
+            "title": "Make Swift Playgrounds Apps : Variables and Scope",
+            "link": "https://makeapppie.com/2022/07/05/make-swift-playgrounds-apps-variables-and-scope/",
+            "updated": 1656991003,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33775",
+            "title": "Make Swift Playgrounds Apps: Learn About Swift Types",
+            "link": "https://makeapppie.com/2022/06/23/make-swift-playgrounds-apps-learn-about-swift-types/",
+            "updated": 1655956392,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33742",
+            "title": "Make Swift Playgrounds Apps: Adding Images",
+            "link": "https://makeapppie.com/2022/06/09/make-swift-playgrounds-apps-adding-images/",
+            "updated": 1654738200,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33729",
+            "title": "Make Swift Playgrounds Apps: Create New Files and Views",
+            "link": "https://makeapppie.com/2022/06/02/make-swift-playgrounds-apps-create-new-files-and-views/",
+            "updated": 1654146000,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33707",
+            "title": "Make Swift Playgrounds Apps: HStack, VStack and Layout",
+            "link": "https://makeapppie.com/2022/05/26/make-swift-playgrounds-apps-hstack-vstack-and-layout/",
+            "updated": 1653536735,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33690",
+            "title": "Run Real Apps with Swift Playgrounds for Mac 4.1",
+            "link": "https://makeapppie.com/2022/05/24/run-real-apps-with-swift-playgrounds-for-mac-4-1/",
+            "updated": 1653416977,
+            "site_name": "Making App Pie"
+        },
+        {
+            "id": "http://makeapppie.com/?p=33668",
+            "title": "Make Swift Playgrounds Apps: Using Functions",
+            "link": "https://makeapppie.com/2022/05/19/make-swift-playgrounds-apps-using-functions/",
+            "updated": 1652931668,
+            "site_name": "Making App Pie"
+        }
+    ]
+}

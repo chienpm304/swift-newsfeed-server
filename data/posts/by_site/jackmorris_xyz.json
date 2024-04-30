@@ -1,0 +1,117 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://jackmorris.xyz/posts/2024/01/15/swift-sqlite-part-4",
+            "title": "A Swift SQLite Wrapper, Part 4: Setup & Migrations",
+            "link": "https://jackmorris.xyz/posts/2024/01/15/swift-sqlite-part-4",
+            "updated": 1705284000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2024/01/12/swift-sqlite-part-3",
+            "title": "A Swift SQLite Wrapper, Part 3: Pooling Connections",
+            "link": "https://jackmorris.xyz/posts/2024/01/12/swift-sqlite-part-3",
+            "updated": 1705024800,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2024/01/10/swift-sqlite-part-2",
+            "title": "A Swift SQLite Wrapper, Part 2: Binding & Fetching Values",
+            "link": "https://jackmorris.xyz/posts/2024/01/10/swift-sqlite-part-2",
+            "updated": 1704852000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2024/01/08/swift-sqlite-part-1",
+            "title": "A Swift SQLite Wrapper, Part 1: Opening a Connection",
+            "link": "https://jackmorris.xyz/posts/2024/01/08/swift-sqlite-part-1",
+            "updated": 1704679200,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2023/11/29/shipping-values-between-actors",
+            "title": "Shipping Values Between Actors",
+            "link": "https://jackmorris.xyz/posts/2023/11/29/shipping-values-between-actors",
+            "updated": 1701223200,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2023/11/21/controlling-actors-with-custom-executors",
+            "title": "Controlling Actors With Custom Executors",
+            "link": "https://jackmorris.xyz/posts/2023/11/21/controlling-actors-with-custom-executors",
+            "updated": 1700532000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2023/11/06/distributing-work-between-actors",
+            "title": "Distributing Work Between Actors",
+            "link": "https://jackmorris.xyz/posts/2023/11/06/distributing-work-between-actors",
+            "updated": 1699236000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2023/10/30/observation-in-the-world-of-combine-and-swift-async",
+            "title": "Observation in the World of Combine and Swift Async",
+            "link": "https://jackmorris.xyz/posts/2023/10/30/observation-in-the-world-of-combine-and-swift-async",
+            "updated": 1698656400,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/12/29/coalescing-in-swift",
+            "title": "Coalescing in Swift",
+            "link": "https://jackmorris.xyz/posts/2020/12/29/coalescing-in-swift",
+            "updated": 1609232400,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/04/29/automating-away-cfbundleversion",
+            "title": "Automating away CFBundleVersion",
+            "link": "https://jackmorris.xyz/posts/2020/04/29/automating-away-cfbundleversion",
+            "updated": 1588132800,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/03/08/effective-ranges-in-swift",
+            "title": "Effective Ranges in Swift",
+            "link": "https://jackmorris.xyz/posts/2020/03/08/effective-ranges-in-swift",
+            "updated": 1583640000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/02/23/scope-your-magic",
+            "title": "Scope Your Magic",
+            "link": "https://jackmorris.xyz/posts/2020/02/23/scope-your-magic",
+            "updated": 1582430880,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/02/09/predicates-from-key-paths-in-swift-5-2",
+            "title": "Predicates from Key Paths in Swift 5.2",
+            "link": "https://jackmorris.xyz/posts/2020/02/09/predicates-from-key-paths-in-swift-5-2",
+            "updated": 1581242400,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/01/25/atomic-property-wrapper-considered-harmful",
+            "title": "@Atomic Property Wrapper Considered Harmful",
+            "link": "https://jackmorris.xyz/posts/2020/01/25/atomic-property-wrapper-considered-harmful",
+            "updated": 1579950000,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/01/18/a-basic-reentrant-mutex",
+            "title": "A Basic Reentrant Mutex",
+            "link": "https://jackmorris.xyz/posts/2020/01/18/a-basic-reentrant-mutex",
+            "updated": 1579345200,
+            "site_name": "Jack Morris's Blog"
+        },
+        {
+            "id": "https://jackmorris.xyz/posts/2020/01/04/efficient-collections-with-copy-on-write",
+            "title": "Efficient Collections with Copy on Write",
+            "link": "https://jackmorris.xyz/posts/2020/01/04/efficient-collections-with-copy-on-write",
+            "updated": 1578135600,
+            "site_name": "Jack Morris's Blog"
+        }
+    ]
+}

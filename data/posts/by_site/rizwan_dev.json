@@ -1,0 +1,110 @@
+{
+    "updated": 1714470921,
+    "posts": [
+        {
+            "id": "https://example.com/blog/swiftui-import-export-files-part-2/",
+            "title": "SwiftUI Import/Export files - Part 2",
+            "link": "https://example.com/blog/swiftui-import-export-files-part-2/",
+            "updated": 1602003600,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/trackers-prevention-for-wkwebview/",
+            "title": "Tracker Prevention for WKWebView",
+            "link": "https://example.com/blog/trackers-prevention-for-wkwebview/",
+            "updated": 1597165200,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/swiftui-color-scheme/",
+            "title": "SwiftUI Color Scheme",
+            "link": "https://example.com/blog/swiftui-color-scheme/",
+            "updated": 1595350800,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/swiftui-import-export-files/",
+            "title": "SwiftUI Import/Export files",
+            "link": "https://example.com/blog/swiftui-import-export-files/",
+            "updated": 1595005200,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/learning-swiftui-with-netnewswire/",
+            "title": "Learning SwiftUI with NetNewsWire",
+            "link": "https://example.com/blog/learning-swiftui-with-netnewswire/",
+            "updated": 1594918800,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/blank_safari_viewcontroller/",
+            "title": "Blank SFSafariViewController",
+            "link": "https://example.com/blog/blank_safari_viewcontroller/",
+            "updated": 1591549200,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/kotlin_and_android_native/",
+            "title": "Kotlin and Android Native",
+            "link": "https://example.com/blog/kotlin_and_android_native/",
+            "updated": 1591290000,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/test-flight-review-times/",
+            "title": "TestFlight Review Times",
+            "link": "https://example.com/blog/test-flight-review-times/",
+            "updated": 1591117200,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/wwdc-2020-wish-list/",
+            "title": "WWDC 2020 Wish-list",
+            "link": "https://example.com/blog/wwdc-2020-wish-list/",
+            "updated": 1590080400,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/uses/",
+            "title": "Uses",
+            "link": "https://example.com/blog/uses/",
+            "updated": 1588784400,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/Hidden-Message-Advent-Of-Code/",
+            "title": "Hidden messages from Advent Of Code challenge",
+            "link": "https://example.com/blog/Hidden-Message-Advent-Of-Code/",
+            "updated": 1576971842,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/swift-camera-part-3/",
+            "title": "\ud83d\udcf8 Swift Camera \u2014 Part 3",
+            "link": "https://example.com/blog/swift-camera-part-3/",
+            "updated": 1499219997,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/swift-camera-part-2/",
+            "title": "\ud83d\udcf8 Swift Camera \u2014 Part 2",
+            "link": "https://example.com/blog/swift-camera-part-2/",
+            "updated": 1497934875,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/swift-camera-part-1/",
+            "title": "\ud83d\udcf8 Swift Camera \u2014 Part 1",
+            "link": "https://example.com/blog/swift-camera-part-1/",
+            "updated": 1497594539,
+            "site_name": "Rizwan's blog"
+        },
+        {
+            "id": "https://example.com/blog/network-activity-logger-for-afnetworking-3-0/",
+            "title": "Network Activity logger for AFNetworking 3.0",
+            "link": "https://example.com/blog/network-activity-logger-for-afnetworking-3-0/",
+            "updated": 1482426000,
+            "site_name": "Rizwan's blog"
+        }
+    ]
+}

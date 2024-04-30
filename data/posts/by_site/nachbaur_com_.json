@@ -1,0 +1,698 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://nachbaur.com/2022/11/07/two-year-anniversary-at-okta/",
+            "title": "\ud83c\udf89 Celebrating my two-year anniversary at Okta",
+            "link": "https://nachbaur.com/2022/11/07/two-year-anniversary-at-okta/",
+            "updated": 1667813712,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2020/05/06/stretchable-tableview-header/",
+            "title": "Building a stretchable UITableView header",
+            "link": "https://nachbaur.com/2020/05/06/stretchable-tableview-header/",
+            "updated": 1588763423,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/04/24/uimotioneffects/",
+            "title": "UIMotionEffect: Easily adding depth to your UI",
+            "link": "https://nachbaur.com/2019/04/24/uimotioneffects/",
+            "updated": 1556092816,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/04/22/styling-with-uiappearance/",
+            "title": "Styling your app using custom UIAppearance properties",
+            "link": "https://nachbaur.com/2019/04/22/styling-with-uiappearance/",
+            "updated": 1555925239,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/03/22/working-with-multiple-architectures/",
+            "title": "Working with multiple architectures & compiled binaries",
+            "link": "https://nachbaur.com/2019/03/22/working-with-multiple-architectures/",
+            "updated": 1553239821,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/03/15/in-defence-of-apples-bug-process/",
+            "title": "In defence of Apple\u2019s bug process",
+            "link": "https://nachbaur.com/2019/03/15/in-defence-of-apples-bug-process/",
+            "updated": 1552667729,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/03/11/llvm-module-maps/",
+            "title": "LLVM Module Maps to the rescue!",
+            "link": "https://nachbaur.com/2019/03/11/llvm-module-maps/",
+            "updated": 1552294847,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/03/08/cocoa-dynamic-frameworks/",
+            "title": "Cocoa Dynamic Frameworks",
+            "link": "https://nachbaur.com/2019/03/08/cocoa-dynamic-frameworks/",
+            "updated": 1552045873,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2019/02/01/rebooting-my-blog-again/",
+            "title": "Rebooting my blog, again",
+            "link": "https://nachbaur.com/2019/02/01/rebooting-my-blog-again/",
+            "updated": 1549047640,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2014/02/22/forcing-a-method-to-run-on-the-main-thread/",
+            "title": "Forcing a method to run on the main thread",
+            "link": "https://nachbaur.com/2014/02/22/forcing-a-method-to-run-on-the-main-thread/",
+            "updated": 1393099949,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2013/12/08/dont-live-to-work/",
+            "title": "Don\u2019t live to work\u2026",
+            "link": "https://nachbaur.com/2013/12/08/dont-live-to-work/",
+            "updated": 1386512453,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2013/11/17/docset-viewer-update-v1-5/",
+            "title": "Docset Viewer update v1.5",
+            "link": "https://nachbaur.com/2013/11/17/docset-viewer-update-v1-5/",
+            "updated": 1384695346,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/04/22/my-app-store-release-checklist/",
+            "title": "My App Store release checklist",
+            "link": "https://nachbaur.com/2012/04/22/my-app-store-release-checklist/",
+            "updated": 1335097803,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/04/04/logging-with-cocoalumberjack-and-testflight/",
+            "title": "Logging with CocoaLumberjack and TestFlight",
+            "link": "https://nachbaur.com/2012/04/04/logging-with-cocoalumberjack-and-testflight/",
+            "updated": 1333546770,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/03/21/how-to-customize-icloud-backups/",
+            "title": "Docset Viewer v1.2 and how to customize iCloud backups",
+            "link": "https://nachbaur.com/2012/03/21/how-to-customize-icloud-backups/",
+            "updated": 1332361402,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/03/16/resuming-large-downloads-with-nsurlconnection/",
+            "title": "Docset Viewer: Resuming large downloads with NSURLConnection",
+            "link": "https://nachbaur.com/2012/03/16/resuming-large-downloads-with-nsurlconnection/",
+            "updated": 1331904463,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/03/09/announcing-docset-viewer/",
+            "title": "Announcing Docset Viewer v1.1 for iPad and iPhone",
+            "link": "https://nachbaur.com/2012/03/09/announcing-docset-viewer/",
+            "updated": 1331329172,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2012/01/01/core-graphics-isnt-scary-honest/",
+            "title": "Core Graphics isn\u2019t scary, honest!",
+            "link": "https://nachbaur.com/2012/01/01/core-graphics-isnt-scary-honest/",
+            "updated": 1325460029,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/12/21/basics-xcode-debugging-tips/",
+            "title": "Back To Basics: Simple debugging tips in Xcode",
+            "link": "https://nachbaur.com/2011/12/21/basics-xcode-debugging-tips/",
+            "updated": 1324473192,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/09/26/building-a-static-library-with-jenkins/",
+            "title": "Building a static library with Jenkins",
+            "link": "https://nachbaur.com/2011/09/26/building-a-static-library-with-jenkins/",
+            "updated": 1317028056,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/09/01/using-gcd-and-blocks-effectively/",
+            "title": "Using GCD and Blocks Effectively",
+            "link": "https://nachbaur.com/2011/09/01/using-gcd-and-blocks-effectively/",
+            "updated": 1314898749,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/07/29/back-to-basics-using-kvo/",
+            "title": "Back to Basics: Using KVO",
+            "link": "https://nachbaur.com/2011/07/29/back-to-basics-using-kvo/",
+            "updated": 1311950323,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/04/28/back-to-basics-simple-uitableviews/",
+            "title": "Back to Basics: Simple UITableViews",
+            "link": "https://nachbaur.com/2011/04/28/back-to-basics-simple-uitableviews/",
+            "updated": 1303983015,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/04/22/basics-positioning-uiviews/",
+            "title": "Back To Basics: Positioning UIViews",
+            "link": "https://nachbaur.com/2011/04/22/basics-positioning-uiviews/",
+            "updated": 1303464652,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/04/19/smarter-core-data/",
+            "title": "Smarter and More Reusable Core Data",
+            "link": "https://nachbaur.com/2011/04/19/smarter-core-data/",
+            "updated": 1303209055,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/03/24/building-ios-apps-for-over-the-air-adhoc-distribution/",
+            "title": "Building iOS apps for Over-The-Air AdHoc distribution",
+            "link": "https://nachbaur.com/2011/03/24/building-ios-apps-for-over-the-air-adhoc-distribution/",
+            "updated": 1300993872,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/01/07/core-animation-part-4/",
+            "title": "Animating Interfaces with Core Animation: Part 4",
+            "link": "https://nachbaur.com/2011/01/07/core-animation-part-4/",
+            "updated": 1294427343,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/01/06/core-animation-part-3/",
+            "title": "Animating Interfaces with Core Animation: Part 3",
+            "link": "https://nachbaur.com/2011/01/06/core-animation-part-3/",
+            "updated": 1294338524,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/01/05/core-animation-part-2/",
+            "title": "Animating Interfaces with Core Animation: Part 2",
+            "link": "https://nachbaur.com/2011/01/05/core-animation-part-2/",
+            "updated": 1294252145,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2011/01/04/core-animation-part-1/",
+            "title": "Animating Interfaces with Core Animation: Part 1",
+            "link": "https://nachbaur.com/2011/01/04/core-animation-part-1/",
+            "updated": 1294164397,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/25/ios-development-link-roundup-part-1/",
+            "title": "iOS Development Link Roundup: Part 1",
+            "link": "https://nachbaur.com/2010/11/25/ios-development-link-roundup-part-1/",
+            "updated": 1290698471,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/16/fun-shadow-effects-using-custom-calayer-shadowpaths/",
+            "title": "Fun shadow effects using custom CALayer shadowPaths",
+            "link": "https://nachbaur.com/2010/11/16/fun-shadow-effects-using-custom-calayer-shadowpaths/",
+            "updated": 1289949661,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/14/allergies-and-why-kimpton-hotels-rock/",
+            "title": "Allergies, and why Kimpton Hotels Rock",
+            "link": "https://nachbaur.com/2010/11/14/allergies-and-why-kimpton-hotels-rock/",
+            "updated": 1289765191,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/13/rendering-views-using-calayer-part-1/",
+            "title": "Rendering views using CALayer, Part 1",
+            "link": "https://nachbaur.com/2010/11/13/rendering-views-using-calayer-part-1/",
+            "updated": 1289642413,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/13/even-geeks-forget-their-passwords/",
+            "title": "Even geeks forget their passwords",
+            "link": "https://nachbaur.com/2010/11/13/even-geeks-forget-their-passwords/",
+            "updated": 1289638814,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/12/boomle-the-underdog-of-my-ios-apps/",
+            "title": "Boomle, the underdog of my iOS apps",
+            "link": "https://nachbaur.com/2010/11/12/boomle-the-underdog-of-my-ios-apps/",
+            "updated": 1289556058,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/11/blogging-every-day-coding-every-day/",
+            "title": "Blogging every day \u2264 Coding every day",
+            "link": "https://nachbaur.com/2010/11/11/blogging-every-day-coding-every-day/",
+            "updated": 1289483739,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/10/revenue-canada-wants-me-to-buy-an-imac/",
+            "title": "Revenue Canada wants me to buy an iMac 27\u2033",
+            "link": "https://nachbaur.com/2010/11/10/revenue-canada-wants-me-to-buy-an-imac/",
+            "updated": 1289430190,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/09/recovering-from-bit-rot/",
+            "title": "Recovering from bit rot",
+            "link": "https://nachbaur.com/2010/11/09/recovering-from-bit-rot/",
+            "updated": 1289340479,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/08/localizing-ios-apps-using-icanlocalize-com/",
+            "title": "Localizing iOS apps using ICanLocalize.com",
+            "link": "https://nachbaur.com/2010/11/08/localizing-ios-apps-using-icanlocalize-com/",
+            "updated": 1289210416,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/07/most-blog-templates-suck/",
+            "title": "Most blog templates suck",
+            "link": "https://nachbaur.com/2010/11/07/most-blog-templates-suck/",
+            "updated": 1289120770,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/06/this-is-not-the-toast-you-are-looking-for/",
+            "title": "This is not the toast you are looking for\u2026",
+            "link": "https://nachbaur.com/2010/11/06/this-is-not-the-toast-you-are-looking-for/",
+            "updated": 1289037746,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/05/using-amazon-s3-as-your-ios-apps-server-side/",
+            "title": "Using Amazon S3 as your iOS app\u2019s server-side",
+            "link": "https://nachbaur.com/2010/11/05/using-amazon-s3-as-your-ios-apps-server-side/",
+            "updated": 1288986317,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/04/im-now-a-canadian-citizen/",
+            "title": "I\u2019m now a Canadian Citizen",
+            "link": "https://nachbaur.com/2010/11/04/im-now-a-canadian-citizen/",
+            "updated": 1288905732,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/03/showing-apple-my-app-via-facebook/",
+            "title": "Showing Apple my app via Facebook",
+            "link": "https://nachbaur.com/2010/11/03/showing-apple-my-app-via-facebook/",
+            "updated": 1288830160,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/02/new-application-should-i-use-three20-or-raw-uikit/",
+            "title": "New application: Should I use Three20 or raw UIKit?",
+            "link": "https://nachbaur.com/2010/11/02/new-application-should-i-use-three20-or-raw-uikit/",
+            "updated": 1288729015,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/11/01/im-trying-to-blog-every-day/",
+            "title": "I\u2019m trying to blog every day this month",
+            "link": "https://nachbaur.com/2010/11/01/im-trying-to-blog-every-day/",
+            "updated": 1288651017,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/10/28/new-job-and-new-career-path/",
+            "title": "New job, and new career path",
+            "link": "https://nachbaur.com/2010/10/28/new-job-and-new-career-path/",
+            "updated": 1288280334,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/10/19/filtering-great-ideas-to-fit-my-available-time-and-budget/",
+            "title": "Filtering great ideas to fit my available time (and budget)",
+            "link": "https://nachbaur.com/2010/10/19/filtering-great-ideas-to-fit-my-available-time-and-budget/",
+            "updated": 1287507718,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/09/19/building-a-custom-dashboard-uibutton/",
+            "title": "Building a custom Dashboard-like UIButton",
+            "link": "https://nachbaur.com/2010/09/19/building-a-custom-dashboard-uibutton/",
+            "updated": 1284899485,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/09/12/dealing-with-mkmapviews-google-logo-with-translucent-toolbars/",
+            "title": "Dealing with MKMapView\u2019s Google logo with translucent toolbars",
+            "link": "https://nachbaur.com/2010/09/12/dealing-with-mkmapviews-google-logo-with-translucent-toolbars/",
+            "updated": 1284297410,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/08/18/continuous-deployment-to-cpan/",
+            "title": "Continuous Deployment to CPAN",
+            "link": "https://nachbaur.com/2010/08/18/continuous-deployment-to-cpan/",
+            "updated": 1282172265,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/06/18/building-iphone-apps-with-hudson-part-2/",
+            "title": "Building iPhone apps with Hudson, Part 2",
+            "link": "https://nachbaur.com/2010/06/18/building-iphone-apps-with-hudson-part-2/",
+            "updated": 1276879794,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2010/05/03/silent-no-more/",
+            "title": "Silent no more\u2026",
+            "link": "https://nachbaur.com/2010/05/03/silent-no-more/",
+            "updated": 1272891634,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/11/12/last-minute-talk-on-automated-perl-builds-using-hudson-tonight/",
+            "title": "Last minute talk on automated Perl builds using Hudson tonight",
+            "link": "https://nachbaur.com/2009/11/12/last-minute-talk-on-automated-perl-builds-using-hudson-tonight/",
+            "updated": 1258028972,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/11/04/im-in-movember-this-november/",
+            "title": "I\u2019m in Movember this November",
+            "link": "https://nachbaur.com/2009/11/04/im-in-movember-this-november/",
+            "updated": 1257331190,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/26/telling-your-user-that-a-phonegap-application-is-busy/",
+            "title": "Telling your user that a PhoneGap application is busy",
+            "link": "https://nachbaur.com/2009/10/26/telling-your-user-that-a-phonegap-application-is-busy/",
+            "updated": 1256551209,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/19/how-to-use-the-native-alert-dialog-in-phonegap/",
+            "title": "How to use the native Alert dialog in PhoneGap",
+            "link": "https://nachbaur.com/2009/10/19/how-to-use-the-native-alert-dialog-in-phonegap/",
+            "updated": 1255946428,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/18/device-savescreenshot-added-to-phonegap/",
+            "title": "Device.saveScreenshot added to PhoneGap",
+            "link": "https://nachbaur.com/2009/10/18/device-savescreenshot-added-to-phonegap/",
+            "updated": 1255879600,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/16/how-to-use-the-actionsheet-in-phonegap/",
+            "title": "How to use the ActionSheet in PhoneGap",
+            "link": "https://nachbaur.com/2009/10/16/how-to-use-the-actionsheet-in-phonegap/",
+            "updated": 1255687216,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/15/in-app-purchases-allowed-for-free-apps-on-the-app-store/",
+            "title": "In-App purchases allowed for free apps on the App Store",
+            "link": "https://nachbaur.com/2009/10/15/in-app-purchases-allowed-for-free-apps-on-the-app-store/",
+            "updated": 1255616420,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/12/how-to-automate-your-iphone-app-builds-with-hudson/",
+            "title": "How to automate your iPhone app builds with Hudson",
+            "link": "https://nachbaur.com/2009/10/12/how-to-automate-your-iphone-app-builds-with-hudson/",
+            "updated": 1255341630,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/10/07/phonegap-officially-permitted-on-the-app-store/",
+            "title": "PhoneGap officially permitted on the App Store",
+            "link": "https://nachbaur.com/2009/10/07/phonegap-officially-permitted-on-the-app-store/",
+            "updated": 1254906925,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/22/updates-on-apple-phonegap/",
+            "title": "Updates on Apple / PhoneGap",
+            "link": "https://nachbaur.com/2009/06/22/updates-on-apple-phonegap/",
+            "updated": 1245663494,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/18/a-git-workflow-for-agile-teams/",
+            "title": "A Git Workflow for Agile Teams",
+            "link": "https://nachbaur.com/2009/06/18/a-git-workflow-for-agile-teams/",
+            "updated": 1245330972,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/15/ideas-on-tap-or-speed-dating-for-entrepreneurs/",
+            "title": "Ideas On Tap, or \u201cSpeed Dating for Entrepreneurs\u201d",
+            "link": "https://nachbaur.com/2009/06/15/ideas-on-tap-or-speed-dating-for-entrepreneurs/",
+            "updated": 1245076340,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/10/have-a-list-of-several-hundred-addresses-to-get-coordinates-for-perl-to-the-rescue/",
+            "title": "Have a list of several hundred addresses to get coordinates for?  Perl to the rescue!",
+            "link": "https://nachbaur.com/2009/06/10/have-a-list-of-several-hundred-addresses-to-get-coordinates-for-perl-to-the-rescue/",
+            "updated": 1244642317,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/10/i-really-need-to-broaden-my-music-horizons/",
+            "title": "I really need to broaden my music horizons",
+            "link": "https://nachbaur.com/2009/06/10/i-really-need-to-broaden-my-music-horizons/",
+            "updated": 1244636550,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/08/build-process-experiments-with-phonegap/",
+            "title": "Build process experiments with PhoneGap",
+            "link": "https://nachbaur.com/2009/06/08/build-process-experiments-with-phonegap/",
+            "updated": 1244470400,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/05/phonegap-gets-a-fancy-new-demo/",
+            "title": "PhoneGap gets a fancy new demo",
+            "link": "https://nachbaur.com/2009/06/05/phonegap-gets-a-fancy-new-demo/",
+            "updated": 1244213959,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/04/ive-moved-away-from-blogger/",
+            "title": "I\u2019ve moved away from Blogger",
+            "link": "https://nachbaur.com/2009/06/04/ive-moved-away-from-blogger/",
+            "updated": 1244131422,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/06/04/marketing-are-you-stupid-or-enlightened-stupid/",
+            "title": "Marketing, are you stupid or enlightened stupid?",
+            "link": "https://nachbaur.com/2009/06/04/marketing-are-you-stupid-or-enlightened-stupid/",
+            "updated": 1244124900,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/29/new-phonegap-feature-actionsheet-support/",
+            "title": "New PhoneGap feature: ActionSheet support",
+            "link": "https://nachbaur.com/2009/05/29/new-phonegap-feature-actionsheet-support/",
+            "updated": 1243616400,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/27/minor-phonegap-alert-updates/",
+            "title": "Minor PhoneGap Alert updates",
+            "link": "https://nachbaur.com/2009/05/27/minor-phonegap-alert-updates/",
+            "updated": 1243424700,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/26/long-weekend-at-the-spiller-estate-bb/",
+            "title": "Long weekend at the Spiller Estate B&B",
+            "link": "https://nachbaur.com/2009/05/26/long-weekend-at-the-spiller-estate-bb/",
+            "updated": 1243353060,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/22/i-3-httpengine/",
+            "title": "I \u2764 HTTP::Engine",
+            "link": "https://nachbaur.com/2009/05/22/i-3-httpengine/",
+            "updated": 1242990840,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/17/open-letter-to-apple-iphone-developer-support/",
+            "title": "Open letter to Apple iPhone Developer Support",
+            "link": "https://nachbaur.com/2009/05/17/open-letter-to-apple-iphone-developer-support/",
+            "updated": 1242587160,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/08/my-blog-and-i-are-joining-the-iron-man-competition/",
+            "title": "My blog and I are joining the Iron Man competition!",
+            "link": "https://nachbaur.com/2009/05/08/my-blog-and-i-are-joining-the-iron-man-competition/",
+            "updated": 1241776620,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/05/07/so-much-to-do-so-little-time/",
+            "title": "So much to do, so little time",
+            "link": "https://nachbaur.com/2009/05/07/so-much-to-do-so-little-time/",
+            "updated": 1241718960,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/04/24/phonegap-uicontrols-ready-to-go/",
+            "title": "PhoneGap UIControls ready to go",
+            "link": "https://nachbaur.com/2009/04/24/phonegap-uicontrols-ready-to-go/",
+            "updated": 1240566480,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/04/20/native-ui-controls-in-phonegap-coming-along-nicely/",
+            "title": "Native UI Controls in PhoneGap coming along nicely",
+            "link": "https://nachbaur.com/2009/04/20/native-ui-controls-in-phonegap-coming-along-nicely/",
+            "updated": 1240243440,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/04/14/more-changes-coming-to-the-iphone-branch-of-phonegap/",
+            "title": "More changes coming to the iPhone branch of PhoneGap",
+            "link": "https://nachbaur.com/2009/04/14/more-changes-coming-to-the-iphone-branch-of-phonegap/",
+            "updated": 1239703260,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/04/08/iphone-certificate-woes/",
+            "title": "iPhone Certificate Woes",
+            "link": "https://nachbaur.com/2009/04/08/iphone-certificate-woes/",
+            "updated": 1239184680,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/04/01/phonegap-and-javascript/",
+            "title": "PhoneGap and JavaScript",
+            "link": "https://nachbaur.com/2009/04/01/phonegap-and-javascript/",
+            "updated": 1238625960,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/03/29/where-are-the-simpsons-my-wife-might-have-the-solution/",
+            "title": "Where are the Simpsons? My wife might have the solution",
+            "link": "https://nachbaur.com/2009/03/29/where-are-the-simpsons-my-wife-might-have-the-solution/",
+            "updated": 1238357880,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/03/05/when-to-refactor-and-when-to-slash-and-burn-it/",
+            "title": "When to refactor, and when to slash and burn it",
+            "link": "https://nachbaur.com/2009/03/05/when-to-refactor-and-when-to-slash-and-burn-it/",
+            "updated": 1236259560,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/03/03/webdev-links-of-interest-issue-1/",
+            "title": "WebDev Links Of Interest, Issue 1",
+            "link": "https://nachbaur.com/2009/03/03/webdev-links-of-interest-issue-1/",
+            "updated": 1236087180,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/02/26/im-diving-in-to-phonegap-and-objc-finally/",
+            "title": "I\u2019m diving in to PhoneGap and ObjC, finally",
+            "link": "https://nachbaur.com/2009/02/26/im-diving-in-to-phonegap-and-objc-finally/",
+            "updated": 1235649240,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/02/16/anti-valentines-day-2009/",
+            "title": "Anti-Valentines day, 2009",
+            "link": "https://nachbaur.com/2009/02/16/anti-valentines-day-2009/",
+            "updated": 1234791420,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/02/14/second-impressions-with-phonegap/",
+            "title": "Second impressions with PhoneGap",
+            "link": "https://nachbaur.com/2009/02/14/second-impressions-with-phonegap/",
+            "updated": 1234616040,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/02/12/managing-sites-with-git-and-intelligent-post-update-hooks/",
+            "title": "Managing sites with Git and intelligent post-update hooks",
+            "link": "https://nachbaur.com/2009/02/12/managing-sites-with-git-and-intelligent-post-update-hooks/",
+            "updated": 1234436220,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2009/02/04/first-impressions-with-phonegap/",
+            "title": "First impressions with PhoneGap",
+            "link": "https://nachbaur.com/2009/02/04/first-impressions-with-phonegap/",
+            "updated": 1233756240,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/12/19/why-oh-why-did-i-ever-leave-california/",
+            "title": "Why, oh why did I ever leave California?",
+            "link": "https://nachbaur.com/2008/12/19/why-oh-why-did-i-ever-leave-california/",
+            "updated": 1229696220,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/11/25/harder-better-faster-stronger/",
+            "title": "Harder, Better, Faster, Stronger",
+            "link": "https://nachbaur.com/2008/11/25/harder-better-faster-stronger/",
+            "updated": 1227614280,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/11/20/mootools-fxindex-v10/",
+            "title": "Mootools Fx.Index v1.0",
+            "link": "https://nachbaur.com/2008/11/20/mootools-fxindex-v10/",
+            "updated": 1227202080,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/11/18/gm-bailout-pr-fumble/",
+            "title": "GM Bailout PR fumble",
+            "link": "https://nachbaur.com/2008/11/18/gm-bailout-pr-fumble/",
+            "updated": 1227020160,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/11/18/how-do-you-name-your-business/",
+            "title": "How do you name your business?",
+            "link": "https://nachbaur.com/2008/11/18/how-do-you-name-your-business/",
+            "updated": 1227016260,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2008/03/22/mootools-12-rocks/",
+            "title": "Mootools 1.2 rocks",
+            "link": "https://nachbaur.com/2008/03/22/mootools-12-rocks/",
+            "updated": 1206189540,
+            "site_name": "Development with Mike Nachbaur"
+        },
+        {
+            "id": "https://nachbaur.com/2007/10/02/getting-started/",
+            "title": "Getting started",
+            "link": "https://nachbaur.com/2007/10/02/getting-started/",
+            "updated": 1191341400,
+            "site_name": "Development with Mike Nachbaur"
+        }
+    ]
+}

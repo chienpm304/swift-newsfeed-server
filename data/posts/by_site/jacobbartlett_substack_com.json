@@ -1,0 +1,145 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://jacobbartlett.substack.com/p/swiftdata-outside-swiftui",
+            "title": "How to use SwiftData outside SwiftUI",
+            "link": "https://jacobbartlett.substack.com/p/swiftdata-outside-swiftui",
+            "updated": 1713172546,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/readmemd-new-readers-start-here",
+            "title": "README.md (new readers start here!)",
+            "link": "https://jacobbartlett.substack.com/p/readmemd-new-readers-start-here",
+            "updated": 1712049352,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i",
+            "title": "Oh Sh*t, My App is Successful and I Didn\u2019t Think About Accessibility",
+            "link": "https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i",
+            "updated": 1710756958,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/async-unit-testing-in-swift-the-comprehensive",
+            "title": "Async Unit Testing: The Comprehensive Guide",
+            "link": "https://jacobbartlett.substack.com/p/async-unit-testing-in-swift-the-comprehensive",
+            "updated": 1710152113,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/high-performance-swift-apps",
+            "title": "High Performance Swift Apps",
+            "link": "https://jacobbartlett.substack.com/p/high-performance-swift-apps",
+            "updated": 1709547365,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/i-wrote-a-guest-post-for-emerge-tools",
+            "title": "I Wrote a Guest Post for Emerge Tools!",
+            "link": "https://jacobbartlett.substack.com/p/i-wrote-a-guest-post-for-emerge-tools",
+            "updated": 1708942515,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns",
+            "title": "The 2FA app that tells you when you get `012345`",
+            "link": "https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns",
+            "updated": 1708337716,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/check-em-privacy-policy",
+            "title": "Jacob's Generic Privacy Policy",
+            "link": "https://jacobbartlett.substack.com/p/check-em-privacy-policy",
+            "updated": 1707836293,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/compiler-cocaine-the-swift-method",
+            "title": "The Swift Method Dispatch Deep Dive",
+            "link": "https://jacobbartlett.substack.com/p/compiler-cocaine-the-swift-method",
+            "updated": 1707128158,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so",
+            "title": "My Toddler Still Loves Planes, So I Upgraded Her Radar",
+            "link": "https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so",
+            "updated": 1705927026,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that",
+            "title": "Mobile DevOps for Enterprise that Just Works",
+            "link": "https://jacobbartlett.substack.com/p/mobile-devops-for-enterprise-that",
+            "updated": 1705313149,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/the-case-against-unowned-self",
+            "title": "The Case Against [unowned self]",
+            "link": "https://jacobbartlett.substack.com/p/the-case-against-unowned-self",
+            "updated": 1704708928,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/modular-architecture-for-apps",
+            "title": "Modular Architecture for Apps",
+            "link": "https://jacobbartlett.substack.com/p/modular-architecture-for-apps",
+            "updated": 1704120568,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/2-minute-tips-the-dark-secrets-of",
+            "title": "2 Minute Tips: The Dark Secrets of Bools",
+            "link": "https://jacobbartlett.substack.com/p/2-minute-tips-the-dark-secrets-of",
+            "updated": 1703476857,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/2-minute-tips-ios-springboard-paddling",
+            "title": "2 Minute Tips: iOS Springboard Paddling Pool",
+            "link": "https://jacobbartlett.substack.com/p/2-minute-tips-ios-springboard-paddling",
+            "updated": 1703476853,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/metal-in-swiftui-how-to-write-shaders",
+            "title": "Metal in SwiftUI: How to Write Shaders",
+            "link": "https://jacobbartlett.substack.com/p/metal-in-swiftui-how-to-write-shaders",
+            "updated": 1702894508,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/localisation-in-xcode-15",
+            "title": "Localization in Xcode 15",
+            "link": "https://jacobbartlett.substack.com/p/localisation-in-xcode-15",
+            "updated": 1702289735,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious",
+            "title": "\u201cYes\u201d Actually Means \u201cNo\u201d: The Curious Language of VCs",
+            "link": "https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious",
+            "updated": 1701684932,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built",
+            "title": "My Toddler Loves Planes, So I Built Her A Radar",
+            "link": "https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built",
+            "updated": 1701082826,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/through-the-ages-apple-animation",
+            "title": "Through the Ages: Apple Animation APIs",
+            "link": "https://jacobbartlett.substack.com/p/through-the-ages-apple-animation",
+            "updated": 1700574727,
+            "site_name": "Jacob\u2019s Tech Tavern"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://www.alwaysrightinstitute.com//managedmodels/",
+            "title": "@Model for CoreData",
+            "link": "https://www.alwaysrightinstitute.com//managedmodels/",
+            "updated": 1695834000,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//lighter/",
+            "title": "The Lighter Swift Codegen for SQLite3",
+            "link": "https://www.alwaysrightinstitute.com//lighter/",
+            "updated": 1660582800,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//flutter/",
+            "title": "Flutter for SwiftUI Developers (and \ud83d\udd04)",
+            "link": "https://www.alwaysrightinstitute.com//flutter/",
+            "updated": 1654448400,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//viewcontroller/",
+            "title": "Model View Controller for SwiftUI",
+            "link": "https://www.alwaysrightinstitute.com//viewcontroller/",
+            "updated": 1651165200,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//tows-ios/",
+            "title": "\ud83d\udc2e iOS App w/ VisualStudio Code. Or not?",
+            "link": "https://www.alwaysrightinstitute.com//tows-ios/",
+            "updated": 1640710800,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//tows-vsc/",
+            "title": "\ud83d\udc2e SwiftUI Tools w/ VisualStudio Code",
+            "link": "https://www.alwaysrightinstitute.com//tows-vsc/",
+            "updated": 1640624400,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//tows/",
+            "title": "\ud83d\udc2e SwiftUI Tools w/ just SwiftPM",
+            "link": "https://www.alwaysrightinstitute.com//tows/",
+            "updated": 1629651600,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//docz/",
+            "title": "DocC \ud83d\udcda Archived and Analyzed",
+            "link": "https://www.alwaysrightinstitute.com//docz/",
+            "updated": 1625158800,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//jsc-async-await/",
+            "title": "Async/Await for iOS 14 and before",
+            "link": "https://www.alwaysrightinstitute.com//jsc-async-await/",
+            "updated": 1623862800,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        },
+        {
+            "id": "https://www.alwaysrightinstitute.com//swifty-wasmer/",
+            "title": "Hosting WebAssembly in Swift",
+            "link": "https://www.alwaysrightinstitute.com//swifty-wasmer/",
+            "updated": 1610211600,
+            "site_url": "https://www.alwaysrightinstitute.com/"
+        }
+    ]
+}

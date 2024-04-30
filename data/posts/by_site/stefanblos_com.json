@@ -1,0 +1,138 @@
+{
+    "updated": 1714470951,
+    "posts": [
+        {
+            "id": "https://stefanblos.com/posts/nextjs-new-app",
+            "title": "Set up a new web app with Next.js",
+            "link": "https://stefanblos.com/posts/nextjs-new-app",
+            "updated": 1686970800,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/new-in-xcode-14",
+            "title": "What\u2019s new in Xcode 14",
+            "link": "https://stefanblos.com/posts/new-in-xcode-14",
+            "updated": 1654743600,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/basics-comments",
+            "title": "Swift Basics - Comments",
+            "link": "https://stefanblos.com/posts/basics-comments",
+            "updated": 1654138800,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/twitter-space-motionscape",
+            "title": "Twitter Space: MotionScape - building a free, open-source Mac app",
+            "link": "https://stefanblos.com/posts/twitter-space-motionscape",
+            "updated": 1651028400,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/basics-data-types",
+            "title": "Swift Basics: Data Types",
+            "link": "https://stefanblos.com/posts/basics-data-types",
+            "updated": 1650510000,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/animating-number-changes",
+            "title": "Animating number changes in SwiftUI",
+            "link": "https://stefanblos.com/posts/animating-number-changes",
+            "updated": 1650250800,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/basics-variables-constants",
+            "title": "Swift Basics: Variables and Constants",
+            "link": "https://stefanblos.com/posts/basics-variables-constants",
+            "updated": 1649473200,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/twitter_space_how_to_approach_learning_something_new",
+            "title": "Notes: How to approach learning new things?",
+            "link": "https://stefanblos.com/posts/twitter_space_how_to_approach_learning_something_new",
+            "updated": 1644061200,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/language-identification-on-ios",
+            "title": "Language identification on iOS",
+            "link": "https://stefanblos.com/posts/language-identification-on-ios",
+            "updated": 1618974000,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/toggle_in_swiftui",
+            "title": "Toggle in SwiftUI",
+            "link": "https://stefanblos.com/posts/toggle_in_swiftui",
+            "updated": 1618227600,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/arkit_scenekit_place_objects",
+            "title": "ARKit + SceneKit: Place content in the real world",
+            "link": "https://stefanblos.com/posts/arkit_scenekit_place_objects",
+            "updated": 1616209200,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/natural-language-on-ios",
+            "title": "Natural Language on iOS",
+            "link": "https://stefanblos.com/posts/natural-language-on-ios",
+            "updated": 1614740400,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/textfield-in-swiftui",
+            "title": "TextField in SwiftUI",
+            "link": "https://stefanblos.com/posts/textfield-in-swiftui",
+            "updated": 1613439600,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/dark-mode-using-css",
+            "title": "Dark mode using only CSS",
+            "link": "https://stefanblos.com/posts/dark-mode-using-css",
+            "updated": 1609297200,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/loading-files-in-playgrounds",
+            "title": "Loading files in Xcode Playgrounds",
+            "link": "https://stefanblos.com/posts/loading-files-in-playgrounds",
+            "updated": 1608613200,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/getting-started-with-publish",
+            "title": "Getting started with Publish",
+            "link": "https://stefanblos.com/posts/getting-started-with-publish",
+            "updated": 1597586820,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/wwdc-2020-keynote-summary",
+            "title": "WWDC 2020 - Keynote Summary",
+            "link": "https://stefanblos.com/posts/wwdc-2020-keynote-summary",
+            "updated": 1592928660,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/on-device-text-recognition-ios-swiftui",
+            "title": "On-device Text Recognition on iOS with SwiftUI",
+            "link": "https://stefanblos.com/posts/on-device-text-recognition-ios-swiftui",
+            "updated": 1590584460,
+            "site_name": "Stefan Blos's Blog"
+        },
+        {
+            "id": "https://stefanblos.com/posts/text-in-swiftui",
+            "title": "Text in SwiftUI",
+            "link": "https://stefanblos.com/posts/text-in-swiftui",
+            "updated": 1585567860,
+            "site_name": "Stefan Blos's Blog"
+        }
+    ]
+}

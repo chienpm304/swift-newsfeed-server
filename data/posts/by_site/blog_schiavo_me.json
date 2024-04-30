@@ -1,0 +1,138 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://beta.schiavo.me/posts/launching-clustercards-marketing",
+            "title": "Launching ClusterCards 2: Marketing",
+            "link": "https://beta.schiavo.me/posts/launching-clustercards-marketing",
+            "updated": 1571900400,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/launching-clustercards",
+            "title": "Launching ClusterCards 2: Week 1",
+            "link": "https://beta.schiavo.me/posts/launching-clustercards",
+            "updated": 1571119200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/managing-shortcuts",
+            "title": "Allowing users to manage their Siri Shortcuts in your app",
+            "link": "https://beta.schiavo.me/posts/managing-shortcuts",
+            "updated": 1567897200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/starting-your-own-blog",
+            "title": "Starting your own blog",
+            "link": "https://beta.schiavo.me/posts/starting-your-own-blog",
+            "updated": 1566801000,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/formatting-dates",
+            "title": "An extensive guide to formatting dates in Swift",
+            "link": "https://beta.schiavo.me/posts/formatting-dates",
+            "updated": 1563696000,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/cryptokit-operations",
+            "title": "Performing cryptographic operations with CryptoKit on iOS 13",
+            "link": "https://beta.schiavo.me/posts/cryptokit-operations",
+            "updated": 1563087600,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/sign-in-with-apple",
+            "title": "Adding support for Sign in with Apple to your app",
+            "link": "https://beta.schiavo.me/posts/sign-in-with-apple",
+            "updated": 1562518800,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/coredata-diffabledatasource",
+            "title": "Integrating Core Data with Diffable Data Sources",
+            "link": "https://beta.schiavo.me/posts/coredata-diffabledatasource",
+            "updated": 1561420800,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/attending-wwdc",
+            "title": "My experience at WWDC19 as a Scholarship winner",
+            "link": "https://beta.schiavo.me/posts/attending-wwdc",
+            "updated": 1560747600,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/scanning-documents",
+            "title": "Scanning documents with Vision and VisionKit on iOS 13",
+            "link": "https://beta.schiavo.me/posts/scanning-documents",
+            "updated": 1560556800,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/implementing-dark-mode",
+            "title": "Supporting Dark Mode on iOS 13",
+            "link": "https://beta.schiavo.me/posts/implementing-dark-mode",
+            "updated": 1559563200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/extending-codable",
+            "title": "Extending Codable: loading images and colors from JSON",
+            "link": "https://beta.schiavo.me/posts/extending-codable",
+            "updated": 1554076800,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/wwdc-predictions",
+            "title": "My hopes and predictions for WWDC19",
+            "link": "https://beta.schiavo.me/posts/wwdc-predictions",
+            "updated": 1552867200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/building-doublepong",
+            "title": "Building my WWDC18 Scholarship Submission",
+            "link": "https://beta.schiavo.me/posts/building-doublepong",
+            "updated": 1552262400,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/marzipan-tips",
+            "title": "Marzipan Tips: run your iOS app on the Mac",
+            "link": "https://beta.schiavo.me/posts/marzipan-tips",
+            "updated": 1551571200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/scanning-documents-old",
+            "title": "Adding document scanning to your app with WeScan",
+            "link": "https://beta.schiavo.me/posts/scanning-documents-old",
+            "updated": 1550966400,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/asset-catalog-images",
+            "title": "Loading images from asset catalogs",
+            "link": "https://beta.schiavo.me/posts/asset-catalog-images",
+            "updated": 1550361600,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/custom-dark-mode",
+            "title": "Implementing dark mode with observers",
+            "link": "https://beta.schiavo.me/posts/custom-dark-mode",
+            "updated": 1549753200,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        },
+        {
+            "id": "https://beta.schiavo.me/posts/pinch-to-zoom-image-view",
+            "title": "Adding pinch to zoom support to image views",
+            "link": "https://beta.schiavo.me/posts/pinch-to-zoom-image-view",
+            "updated": 1549126800,
+            "site_name": "Julian Schiavo\u2019s Blog"
+        }
+    ]
+}

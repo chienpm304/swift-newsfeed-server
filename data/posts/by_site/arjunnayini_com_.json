@@ -1,0 +1,47 @@
+{
+    "updated": 1714470861,
+    "posts": [
+        {
+            "id": "https://anayini.github.io/2019-11-01-github-ci-swift-package/",
+            "title": "Swift Package Continuous Integration Tests with Github Actions",
+            "link": "https://anayini.github.io/2019-11-01-github-ci-swift-package/",
+            "updated": 1572541200,
+            "site_url": "https://arjunnayini.com/"
+        },
+        {
+            "id": "https://anayini.github.io/2019-08-25-circular-loading-indicator-swiftui/",
+            "title": "Creating a Circular Progress Indicator in SwiftUI",
+            "link": "https://anayini.github.io/2019-08-25-circular-loading-indicator-swiftui/",
+            "updated": 1566666000,
+            "site_url": "https://arjunnayini.com/"
+        },
+        {
+            "id": "https://anayini.github.io/2018-11-04-sorting-in-swift/",
+            "title": "Sorting by multiple properties in Swift",
+            "link": "https://anayini.github.io/2018-11-04-sorting-in-swift/",
+            "updated": 1541264400,
+            "site_url": "https://arjunnayini.com/"
+        },
+        {
+            "id": "https://anayini.github.io/2017-07-20-contributing-to-swift/",
+            "title": "My First Contribution to Swift",
+            "link": "https://anayini.github.io/2017-07-20-contributing-to-swift/",
+            "updated": 1500483600,
+            "site_url": "https://arjunnayini.com/"
+        },
+        {
+            "id": "https://anayini.github.io/2017-07-11-ios-charles-proxy/",
+            "title": "iOS Network Debugging With Charles Proxy",
+            "link": "https://anayini.github.io/2017-07-11-ios-charles-proxy/",
+            "updated": 1499706000,
+            "site_url": "https://arjunnayini.com/"
+        },
+        {
+            "id": "https://anayini.github.io/2017-07-10-under-construction/",
+            "title": "Review of Phuket Dragon Muay Thai",
+            "link": "https://anayini.github.io/2017-07-10-under-construction/",
+            "updated": 1499619600,
+            "site_url": "https://arjunnayini.com/"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://jasonzurita.com/thoughtful-dependency-adoption/",
+            "title": "Thoughtful Dependency Adoption",
+            "link": "http://jasonzurita.com/thoughtful-dependency-adoption/",
+            "updated": 1659546000,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/the-hidden-cost-of-dependencies/",
+            "title": "The Hidden Costs of Your Dependencies",
+            "link": "http://jasonzurita.com/the-hidden-cost-of-dependencies/",
+            "updated": 1650214800,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/linting-and-formatting-swift-part-2/",
+            "title": "Linting vs Formatting:\u00a0A Swift Guide \u2014\u00a0Part 2",
+            "link": "http://jasonzurita.com/linting-and-formatting-swift-part-2/",
+            "updated": 1632157200,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/linting-and-formatting-swift-part-1/",
+            "title": "Linting vs Formatting:\u00a0A Swift Guide \u2014\u00a0Part 1",
+            "link": "http://jasonzurita.com/linting-and-formatting-swift-part-1/",
+            "updated": 1624554000,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/automated-testing-for-watchos-apps/",
+            "title": "Testing for watchOS Apps (Apple Watch)",
+            "link": "http://jasonzurita.com/automated-testing-for-watchos-apps/",
+            "updated": 1613062800,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/business-hat-case-against-adopting-swiftui-today/",
+            "title": "A (Business Hat) Case Against Adopting SwiftUI Today",
+            "link": "http://jasonzurita.com/business-hat-case-against-adopting-swiftui-today/",
+            "updated": 1601917200,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/remove-xcode-file-header-comments/",
+            "title": "Remove Xcode's File Header Comments",
+            "link": "http://jasonzurita.com/remove-xcode-file-header-comments/",
+            "updated": 1589216400,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/smaller-repo-size-using-git-lfs/",
+            "title": "Smaller Git Repo Size Using Git LFS<br> (\ud83e\udd14 Xcode Assets)",
+            "link": "http://jasonzurita.com/smaller-repo-size-using-git-lfs/",
+            "updated": 1578330000,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/bare-minimum-for-apple-watch-communication/",
+            "title": "Bare Minimum for Apple Watch Communication",
+            "link": "http://jasonzurita.com/bare-minimum-for-apple-watch-communication/",
+            "updated": 1573578000,
+            "site_name": "Jason Zurita\u2019s Blog"
+        },
+        {
+            "id": "http://jasonzurita.com/swiftui-if-statement/",
+            "title": "SwiftUI - The If Statement's Sharp Edges",
+            "link": "http://jasonzurita.com/swiftui-if-statement/",
+            "updated": 1566838800,
+            "site_name": "Jason Zurita\u2019s Blog"
+        }
+    ]
+}

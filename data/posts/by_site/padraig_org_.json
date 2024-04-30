@@ -1,0 +1,40 @@
+{
+    "updated": 1714470889,
+    "posts": [
+        {
+            "id": "https://padraig.org/swift-format/2023/10/17/swift-format-tips",
+            "title": "SwiftSyntax Code Generation Notes",
+            "link": "https://padraig.org/swift-format/2023/10/17/swift-format-tips.html",
+            "updated": 1697554825,
+            "site_name": "Modern AppKit"
+        },
+        {
+            "id": "https://padraig.org/godot/2023/10/17/scene-gen",
+            "title": "SceneGen for SwiftGodot",
+            "link": "https://padraig.org/godot/2023/10/17/scene-gen.html",
+            "updated": 1697547625,
+            "site_name": "Modern AppKit"
+        },
+        {
+            "id": "https://padraig.org/appkit/2021/09/05/subviews",
+            "title": "NSView Subviews",
+            "link": "https://padraig.org/appkit/2021/09/05/subviews.html",
+            "updated": 1630847365,
+            "site_name": "Modern AppKit"
+        },
+        {
+            "id": "https://padraig.org/appkit/2021/09/02/autolayoutable",
+            "title": "Autolayoutable",
+            "link": "https://padraig.org/appkit/2021/09/02/autolayoutable.html",
+            "updated": 1630584565,
+            "site_name": "Modern AppKit"
+        },
+        {
+            "id": "https://padraig.org/appkit/2020/10/25/layout-in-code",
+            "title": "View Controllers without XIBs",
+            "link": "https://padraig.org/appkit/2020/10/25/layout-in-code.html",
+            "updated": 1603639825,
+            "site_name": "Modern AppKit"
+        }
+    ]
+}

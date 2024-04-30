@@ -1,0 +1,54 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.carsonkatri.com/articles/deploying-swiftui-on-the-web",
+            "title": "Deploying SwiftUI on the Web",
+            "link": "https://www.carsonkatri.com/articles/deploying-swiftui-on-the-web",
+            "updated": 1635319800,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/functional-swift/currying",
+            "title": "Functional Swift | Currying",
+            "link": "https://www.carsonkatri.com/articles/functional-swift/currying",
+            "updated": 1571245200,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/cool-swift-code",
+            "title": "Cool Swift Code",
+            "link": "https://www.carsonkatri.com/articles/cool-swift-code",
+            "updated": 1564160400,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/function-builders",
+            "title": "Make a Function Builder",
+            "link": "https://www.carsonkatri.com/articles/function-builders",
+            "updated": 1564160400,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/sam-barlow",
+            "title": "Developing Compelling Game Narratives",
+            "link": "https://www.carsonkatri.com/articles/sam-barlow",
+            "updated": 1541178000,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/colin-lane",
+            "title": "Make a Hit Game Without Code",
+            "link": "https://www.carsonkatri.com/articles/colin-lane",
+            "updated": 1527440400,
+            "site_name": "Carson Katri's Blog"
+        },
+        {
+            "id": "https://www.carsonkatri.com/articles/ryan-mcleod",
+            "title": "The Secret Behind Blackbox",
+            "link": "https://www.carsonkatri.com/articles/ryan-mcleod",
+            "updated": 1524157200,
+            "site_name": "Carson Katri's Blog"
+        }
+    ]
+}

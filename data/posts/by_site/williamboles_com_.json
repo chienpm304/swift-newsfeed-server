@@ -1,0 +1,110 @@
+{
+    "updated": 1714471024,
+    "posts": [
+        {
+            "id": "63c1f9321d3785003d054e08",
+            "title": "Ambiguous Decoding",
+            "link": "https://williamboles.com/ambiguous-decoding/",
+            "updated": 1674487982,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5cfd59e7b015b70037135a14",
+            "title": "Finding hope in custom alerts",
+            "link": "https://williamboles.com/finding-hope-with-custom-alerts/",
+            "updated": 1590455939,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5d9b1708b8979800387ddeff",
+            "title": "Alert queuing with windows",
+            "link": "https://williamboles.com/alert-queuing-with-windows/",
+            "updated": 1573025157,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5c615dc32c37de00bf993f51",
+            "title": "Discovering what's out there",
+            "link": "https://williamboles.com/discovering-whats-out-there-with-ssdp/",
+            "updated": 1554695975,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5c3138ad5aff9800bfbe00d8",
+            "title": "Progressive Core Data Migrations",
+            "link": "https://williamboles.com/progressive-core-data-migration/",
+            "updated": 1549262900,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5c03bb095aff9800bfbe0075",
+            "title": "Keeping dates local",
+            "link": "https://williamboles.com/keeping-dates-local/",
+            "updated": 1544533721,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5ba26cd3dced3400bfc255fe",
+            "title": "Sneaky date formatters exposing more than you think",
+            "link": "https://williamboles.com/sneaky-date-formatters-exposing-more-than-you-think/",
+            "updated": 1540801706,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5b7c47f0dced3400bfc255c3",
+            "title": "Building a networking layer with operations",
+            "link": "https://williamboles.com/building-a-networking-layer-with-operations/",
+            "updated": 1538530779,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5addb8c367d53000229bde33",
+            "title": "Keeping things going when the user leaves",
+            "link": "https://williamboles.com/keeping-things-going-when-the-user-leaves-with-urlsession-and-background-transfers/",
+            "updated": 1531618172,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5aba4e29b358000022e69933",
+            "title": "Improving my Zen with GitHub",
+            "link": "https://williamboles.com/adding-multiple-git-users-to-same-machine/",
+            "updated": 1524483711,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5ac5e5a9fdabb10022de7a4e",
+            "title": "Hosting ViewControllers in Cells",
+            "link": "https://williamboles.com/hosting-viewcontrollers-in-cells/",
+            "updated": 1523452199,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5a856edddeb9b300182825f9",
+            "title": "Can Unit Testing and Core Data become BFFs?",
+            "link": "https://williamboles.com/can-unit-testing-and-core-data-become-bffs/",
+            "updated": 1522665088,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5a856edddeb9b300182825ec",
+            "title": "Don't throw anything away with pausable downloads",
+            "link": "https://williamboles.com/not-all-downloads-are-born-equal/",
+            "updated": 1520255958,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5a856ededeb9b30018282611",
+            "title": "Step-by-step Core Data Migration",
+            "link": "https://williamboles.com/step-by-step-core-data-migration/",
+            "updated": 1512021060,
+            "site_name": "William Boles\u2019s Blog"
+        },
+        {
+            "id": "5a856ededeb9b30018282607",
+            "title": "Roadblocks to repaying tech debt",
+            "link": "https://williamboles.com/common-roadblocks-when-thinking-about-repaying-tech-debt/",
+            "updated": 1504072140,
+            "site_name": "William Boles\u2019s Blog"
+        }
+    ]
+}

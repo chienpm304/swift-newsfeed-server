@@ -1,0 +1,355 @@
+{
+    "updated": 1714471071,
+    "posts": [
+        {
+            "id": "https://www.netguru.com/blog/android-vs-ios-development",
+            "title": "Android vs iOS Development: A Comprehensive Guide for Developers",
+            "link": "https://www.netguru.com/blog/android-vs-ios-development",
+            "updated": 1713236100,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/objective-c-vs-swift",
+            "title": "Objective-C vs Swift: iOS Comparison [2024 Update]",
+            "link": "https://www.netguru.com/blog/objective-c-vs-swift",
+            "updated": 1698293520,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/python-vs-c-sharp",
+            "title": "Comparing Python vs. C Sharp: A Comprehensive Guide for 2024",
+            "link": "https://www.netguru.com/blog/python-vs-c-sharp",
+            "updated": 1696118400,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/shared-preferences-user-defaults",
+            "title": "Kotlin Multiplatform Mobile: Store Key-Value Approach",
+            "link": "https://www.netguru.com/blog/shared-preferences-user-defaults",
+            "updated": 1681425811,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/writing-snapshottests-on-ios-in-kmm-project",
+            "title": "Writing SnapshotTests on iOS in KMM Project",
+            "link": "https://www.netguru.com/blog/writing-snapshottests-on-ios-in-kmm-project",
+            "updated": 1679883084,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/technology-stack-mobile-app-development",
+            "title": "How to Choose the Right Technology Stack for Mobile App Development",
+            "link": "https://www.netguru.com/blog/technology-stack-mobile-app-development",
+            "updated": 1678244219,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/cost-multiplatform-vs-native-app-development",
+            "title": "Multiplatform Vs Native App Mobile Development: What Impacts The Cost?",
+            "link": "https://www.netguru.com/blog/cost-multiplatform-vs-native-app-development",
+            "updated": 1677643425,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/mvc-vs-mvvm-on-ios-differences-with-examples",
+            "title": "MVC Swift vs MVVM on iOS: Key Differences With Examples",
+            "link": "https://www.netguru.com/blog/mvc-vs-mvvm-on-ios-differences-with-examples",
+            "updated": 1677472667,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/augmented-reality-mobile-app-development",
+            "title": "How to Develop Augmented Reality in Mobile App",
+            "link": "https://www.netguru.com/blog/augmented-reality-mobile-app-development",
+            "updated": 1676425209,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/change-friendly-ios-application",
+            "title": "How To Build \u201cChange-Friendly\u201d iOS Application",
+            "link": "https://www.netguru.com/blog/change-friendly-ios-application",
+            "updated": 1676350620,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/developing-ecommerce-app-kotlin-multiplatform",
+            "title": "Developing an Ecommerce App in Kotlin Multiplatform: A Use Case",
+            "link": "https://www.netguru.com/blog/developing-ecommerce-app-kotlin-multiplatform",
+            "updated": 1674693693,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/kotlin-multiplatform-introduction",
+            "title": "What Is Kotlin Multiplatform",
+            "link": "https://www.netguru.com/blog/kotlin-multiplatform-introduction",
+            "updated": 1674018894,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/auto-completion-feature-improvements-in-xcode-14",
+            "title": "Auto-Completion Feature Improvements in Xcode 14",
+            "link": "https://www.netguru.com/blog/auto-completion-feature-improvements-in-xcode-14",
+            "updated": 1670917736,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/iphone-vs-android-users-differences",
+            "title": "iPhone vs Android Users: Key Differences in 2024",
+            "link": "https://www.netguru.com/blog/iphone-vs-android-users-differences",
+            "updated": 1670915643,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/what-is-xcode-and-how-to-use-it",
+            "title": "What Is Xcode and How to Use It?",
+            "link": "https://www.netguru.com/blog/what-is-xcode-and-how-to-use-it",
+            "updated": 1669351588,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/what-are-ios-memory-leaks-and-how-to-detect-them",
+            "title": "What Are iOS Memory Leaks and How to Detect Them?",
+            "link": "https://www.netguru.com/blog/what-are-ios-memory-leaks-and-how-to-detect-them",
+            "updated": 1663807416,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/cross-platform-vs-native-app-development",
+            "title": "Cross-Platform vs Native App Development: What\u2019s the Difference?",
+            "link": "https://www.netguru.com/blog/cross-platform-vs-native-app-development",
+            "updated": 1652244382,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/clean-swift-with-swiftui-ios",
+            "title": "Clean Swift iOS Architectural Design with SwiftUI",
+            "link": "https://www.netguru.com/blog/clean-swift-with-swiftui-ios",
+            "updated": 1648099972,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/future-proof-tests-ios-dsl",
+            "title": "Writing Future Proof Tests in iOS by Adding DSL",
+            "link": "https://www.netguru.com/blog/future-proof-tests-ios-dsl",
+            "updated": 1646965585,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/mobile-security-group",
+            "title": "Get to Know Netguru Mobile Areas: the Mobile Security Group",
+            "link": "https://www.netguru.com/blog/mobile-security-group",
+            "updated": 1645167168,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/guide-to-native-mobile-app-development",
+            "title": "A Guide to Native Mobile App Development",
+            "link": "https://www.netguru.com/blog/guide-to-native-mobile-app-development",
+            "updated": 1645161369,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/top-trends-in-mobile-app-development",
+            "title": "Top Trends in Mobile App Development in 2022",
+            "link": "https://www.netguru.com/blog/top-trends-in-mobile-app-development",
+            "updated": 1642572578,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/how-to-test-animated-views-ios",
+            "title": "How to Test Animated Views in iOS",
+            "link": "https://www.netguru.com/blog/how-to-test-animated-views-ios",
+            "updated": 1639012676,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/hardcoded-keys-storage-mobile-app",
+            "title": "Hard-coded Tokens, Keys and Credentials in Mobile Apps",
+            "link": "https://www.netguru.com/blog/hardcoded-keys-storage-mobile-app",
+            "updated": 1631765770,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/react-native-camera-libraries-comparison",
+            "title": "React Native Camera \u2013 Libraries Comparison",
+            "link": "https://www.netguru.com/blog/react-native-camera-libraries-comparison",
+            "updated": 1631608248,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/testing-swift-ios-navigation",
+            "title": "Testing Swift iOS Navigation",
+            "link": "https://www.netguru.com/blog/testing-swift-ios-navigation",
+            "updated": 1627872022,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/building-ios-app-with-swift",
+            "title": "The Pros and Cons of Building an iOS App with Swift",
+            "link": "https://www.netguru.com/blog/building-ios-app-with-swift",
+            "updated": 1617261461,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/ios-unit-tests-basics",
+            "title": "iOS Unit Tests Basics",
+            "link": "https://www.netguru.com/blog/ios-unit-tests-basics",
+            "updated": 1614847046,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/clean-swift-ios-architecture-pattern",
+            "title": "Clean Swift (VIP) iOS Architecture Pattern",
+            "link": "https://www.netguru.com/blog/clean-swift-ios-architecture-pattern",
+            "updated": 1614590103,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/stacks-grids-and-outlines-in-swiftui.-what-and-when-to-use",
+            "title": "Stacks, Grids, and Outlines in SwiftUI. What and When to Use?",
+            "link": "https://www.netguru.com/blog/stacks-grids-and-outlines-in-swiftui.-what-and-when-to-use",
+            "updated": 1606810605,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/bridging-native-ui-components-in-the-react-native",
+            "title": "Bridging Native UI Components in the\u00a0React Native",
+            "link": "https://www.netguru.com/blog/bridging-native-ui-components-in-the-react-native",
+            "updated": 1603797270,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/on-device-training-with-core-ml-make-your-pancakes-healthy-again",
+            "title": "On-Device Training with Core ML - Make Your Pancakes Healthy Again!",
+            "link": "https://www.netguru.com/blog/on-device-training-with-core-ml-make-your-pancakes-healthy-again",
+            "updated": 1589251126,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/introduction-to-missing-keyboard-layout-guide",
+            "title": "Introduction to the Missing Keyboard Layout Guide",
+            "link": "https://www.netguru.com/blog/introduction-to-missing-keyboard-layout-guide",
+            "updated": 1588830210,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/the-missing-collection-view-in-swiftui",
+            "title": "The Missing Collection View in SwiftUI",
+            "link": "https://www.netguru.com/blog/the-missing-collection-view-in-swiftui",
+            "updated": 1588136649,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/sign-in-with-apple",
+            "title": "Sign in With Apple \u2013 How to Keep Your Product in the App Store",
+            "link": "https://www.netguru.com/blog/sign-in-with-apple",
+            "updated": 1585025085,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/ios-security-analysis-with-mobsf",
+            "title": "iOS Security Analysis with MobSF",
+            "link": "https://www.netguru.com/blog/ios-security-analysis-with-mobsf",
+            "updated": 1584347831,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/how-to-become-a-software-developer-from-scratch",
+            "title": "How to Become a Successful Software Developer: Patryk's Success Story (2022 Updated)",
+            "link": "https://www.netguru.com/blog/how-to-become-a-software-developer-from-scratch",
+            "updated": 1583469953,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/react-native-splash-screen",
+            "title": "How to Add a Splash Screen to a React Native Application",
+            "link": "https://www.netguru.com/blog/react-native-splash-screen",
+            "updated": 1582865399,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/certificate-pinning-in-ios",
+            "title": "Certificate Pinning in iOS",
+            "link": "https://www.netguru.com/blog/certificate-pinning-in-ios",
+            "updated": 1579238970,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/building-wasm-applications-with-c",
+            "title": "Building WASM Applications With C#",
+            "link": "https://www.netguru.com/blog/building-wasm-applications-with-c",
+            "updated": 1576208653,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/prevent-screenshots-react-native",
+            "title": "How to Prevent Users From Taking Screenshots in React-Native Apps",
+            "link": "https://www.netguru.com/blog/prevent-screenshots-react-native",
+            "updated": 1575536572,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/accelerate-simd-in-image-processing-introduction",
+            "title": "Accelerate, SIMD in Image Processing \u2013 Introduction",
+            "link": "https://www.netguru.com/blog/accelerate-simd-in-image-processing-introduction",
+            "updated": 1574652093,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/mobilization-ix-summmary",
+            "title": "Mobilization IX Summary",
+            "link": "https://www.netguru.com/blog/mobilization-ix-summmary",
+            "updated": 1573607794,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/ios-13-modals-changes-1",
+            "title": "iOS 13 Modals Changes",
+            "link": "https://www.netguru.com/blog/ios-13-modals-changes-1",
+            "updated": 1571897198,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/mobile-application-projects",
+            "title": "Top Mobile Application Development Projects by Netguru",
+            "link": "https://www.netguru.com/blog/mobile-application-projects",
+            "updated": 1558399127,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/ios-logging-practices",
+            "title": "iOS Logging practices",
+            "link": "https://www.netguru.com/blog/ios-logging-practices",
+            "updated": 1557802791,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/android-or-ios",
+            "title": "Android or iOS: Which One to Target First for Your Next Mobile App Development?",
+            "link": "https://www.netguru.com/blog/android-or-ios",
+            "updated": 1551251685,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/rome-carthage-build-your-dependencies-faster",
+            "title": "Rome + Carthage = Build Your Dependencies Faster",
+            "link": "https://www.netguru.com/blog/rome-carthage-build-your-dependencies-faster",
+            "updated": 1551245081,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/how-to-develop-a-successful-ios-project",
+            "title": "iOS App Ideas: Turn Them Into a Killer App",
+            "link": "https://www.netguru.com/blog/how-to-develop-a-successful-ios-project",
+            "updated": 1551076020,
+            "site_name": "Netguru iOS Codestories"
+        },
+        {
+            "id": "https://www.netguru.com/blog/creating-a-pixel-perfect-ios-app-with-flutter",
+            "title": "Creating a Pixel-Perfect iOS App with Flutter",
+            "link": "https://www.netguru.com/blog/creating-a-pixel-perfect-ios-app-with-flutter",
+            "updated": 1549945846,
+            "site_name": "Netguru iOS Codestories"
+        }
+    ]
+}

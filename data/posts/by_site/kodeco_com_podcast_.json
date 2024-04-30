@@ -1,0 +1,705 @@
+{
+    "updated": 1714471109,
+    "posts": [
+        {
+            "id": "https://www.kodeco.com/?p=322901",
+            "title": "Kodeco Podcast V2, S2, E7: Favorite Apps for Mobile Development",
+            "link": "https://www.kodeco.com/322901/favourite-apps-v2-s2-e7",
+            "updated": 1712833231,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=322746",
+            "title": "Kodeco Podcast: XML vs Jetpack Compose (V2, S2, E6)",
+            "link": "https://www.kodeco.com/322746/xml-jetpack-compose-v2-s2-e6",
+            "updated": 1711625443,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=322238",
+            "title": "Kodeco Podcast: Getting Your App in the App Store (V2, S2, E5)",
+            "link": "https://www.kodeco.com/322238/app-in-app-store-v2-s2-e5",
+            "updated": 1708000210,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=322187",
+            "title": "Kodeco Podcast: Leveling Up as a Developer (V2, S2 E4)",
+            "link": "https://www.kodeco.com/322187/leveling-up-v2-s2-e4",
+            "updated": 1706801515,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=322069",
+            "title": "Kodeco Podcast: Putting AI to Use in Software Development (V2, S2 E3)",
+            "link": "https://www.kodeco.com/322069/look-into-ai-v2-s2-e3",
+            "updated": 1705579218,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=321799",
+            "title": "Kodeco Podcast: Moving to Godot \u2013 Podcast V2, S2 E2",
+            "link": "https://www.kodeco.com/321799/moving-to-godot-v2-s2-e2",
+            "updated": 1702382413,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=321686",
+            "title": "Kodeco Podcast: Let\u2019s Talk Vision Pro \u2013 Podcast V2, S2 E1",
+            "link": "https://www.kodeco.com/321686/lets-talk-vision-v2-s2-e1",
+            "updated": 1701176427,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=321680",
+            "title": "Kodeco Podcast: Meet the Show \u2013 Podcast V2, S2 E0",
+            "link": "https://www.kodeco.com/321680/meet-the-show-v2-s2-e0",
+            "updated": 1700744414,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=320321",
+            "title": "Kodeco Podcast: Mark Powell and Josh Steele- Swift Data and Widgets \u2013 Podcast Vol2, S1 E13",
+            "link": "https://www.kodeco.com/320321/swift-data-widgets-v2-s1-e13",
+            "updated": 1689246773,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=318294",
+            "title": "Kodeco Podcast: Adam Rush and Josh Holtz- The Return of the In-Person Conference \u2013 Podcast Vol2, S1 E12",
+            "link": "https://www.kodeco.com/318294/in-person-conference-v2-s1-e12",
+            "updated": 1682593259,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=317972",
+            "title": "Kodeco Podcast: Marin Ben\u010devi\u0107 and the Interesting World of GPT and AI \u2013 Podcast Vol2, S1 E11",
+            "link": "https://www.kodeco.com/317972/gpt-and-ai-v2-s1-e11",
+            "updated": 1681383610,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=317212",
+            "title": "Kodeco Podcast: Jenn Bailey, Tim Condon and the New Book, \u2018Hack Your Job Search\u2019 \u2013 Podcast Vol2, S1 E10",
+            "link": "https://www.kodeco.com/317212/hack-your-job-search-v2-s1-e10",
+            "updated": 1678964437,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316991",
+            "title": "Kodeco Podcast: Adrian Eves, Chris Wu Talks About the Struggles and Joys of Hosting Online Happy Hours- Podcast Vol2, S1 E9",
+            "link": "https://www.kodeco.com/316991/ios-dev-happy-hour-v2-s1-e9",
+            "updated": 1677758413,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316811",
+            "title": "Kodeco Podcast: Life After Bootcamp with Bob DeLaurentis and Eric Jenkinson \u2013 Is It Worth It?- Podcast Vol2, S1 E8",
+            "link": "https://www.kodeco.com/316811/life-after-bootcamp-v2-s1-e8",
+            "updated": 1676548807,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316754",
+            "title": "Kodeco Podcast: Ryan Brodsky Talks About Bootcamps \u2013 Pros, Cons, Is It For You? \u2013 Podcast Vol2, S1 E7",
+            "link": "https://www.kodeco.com/316754/ryan-brodsky-v2-s1-e7",
+            "updated": 1675339207,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316590",
+            "title": "Kodeco Podcast: Via Fairchild, Jeff Rames & An Attempt to Explore the True Work/Life Balance!- Podcast Vol2, S1 E6",
+            "link": "https://www.kodeco.com/316590/via-fairchild-jeff-rames-v2-s1-e6",
+            "updated": 1674129626,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316441",
+            "title": "Kodeco Podcast: Kave Bulambo and Her Views on Diversity, Equity, Inclusion, and Belonging \u2013 Podcast Vol2, S1 E5",
+            "link": "https://www.kodeco.com/316441/kave-bulambo-v2-s1-e5",
+            "updated": 1672920029,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316372",
+            "title": "Kodeco Podcast: Kevin Moore and a Comparative Journey of Flutter, Kotlin, and iOS- Podcast Vol2, S1 E4",
+            "link": "https://www.kodeco.com/316372/kevin-moore-v2-s1-e4",
+            "updated": 1671105638,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=316207",
+            "title": "Kodeco Podcast: Mark Dalrymple Talks About Spinning Classes and Interesting Apps  \u2013 Podcast Vol2, S1 E3",
+            "link": "https://www.kodeco.com/316207/mark-dalrymple-v2-s1-e3",
+            "updated": 1669896046,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=315891",
+            "title": "Kodeco Podcast: Chris Explains the Rest \u2013 Podcast Vol2, S1 E2",
+            "link": "https://www.kodeco.com/315891/chris-explains-the-rest-v2-s1-e2",
+            "updated": 1668686425,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.kodeco.com/?p=315623",
+            "title": "Kodeco Podcast: Ray and Matt Explain it All \u2013 Podcast Vol2, S1 E1",
+            "link": "https://www.kodeco.com/315623/ray-and-matt-explain-it-all-v2-s1-e1",
+            "updated": 1667473216,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=315485",
+            "title": "Kodeco Podcast: Meet the Show \u2013 Podcast Vol2, S1 E0",
+            "link": "https://www.kodeco.com/315485/meet-the-show-v2-s1-e0",
+            "updated": 1667196026,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=308068",
+            "title": "Full Speed Indy Development with Dru Freeman \u2013 Podcast S12 E12",
+            "link": "https://www.kodeco.com/308068/indy-development-dru-freeman-s12-e12",
+            "updated": 1650452459,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=307072",
+            "title": "A Look Inside RW.com with Susannah Skyer Gupta \u2013 Podcast S12 E11",
+            "link": "https://www.kodeco.com/307072/inside-rw-dot-com-s12-e11",
+            "updated": 1649242816,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=306024",
+            "title": "Real World iOS Coding with Renan Benatti Dias \u2013 Podcast S12 E10",
+            "link": "https://www.kodeco.com/306024/real-world-ios-s12-e10",
+            "updated": 1648033232,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=305249",
+            "title": "Another Look at Flutter with Brian Kayfitz \u2013 Podcast S12 E09",
+            "link": "https://www.kodeco.com/305249/another-look-at-flutter-s12-e09",
+            "updated": 1646827231,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=304538",
+            "title": "Finding the Next iOS Job \u2013 Podcast S12 E08",
+            "link": "https://www.kodeco.com/304538/ios-job-search-s12-e08",
+            "updated": 1645767009,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=303723",
+            "title": "Beyond the Code with Paul Hudson \u2013 Podcast S12 E07",
+            "link": "https://www.kodeco.com/303723/paul-hudson-s12-e07",
+            "updated": 1644408037,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=303255",
+            "title": "Android Animations with Alex Sullivan \u2013 Podcast S12 E06",
+            "link": "https://www.kodeco.com/303255/alex-sullivan-s12-e06",
+            "updated": 1643198408,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=302880",
+            "title": "From Mentoring to Publishing Apps- Subhrajyoti Sen, Google Development Expert, Talks About It All! \u2013 Podcast S12 E05",
+            "link": "https://www.kodeco.com/302880/subhrajyoti-sen-s12-e05",
+            "updated": 1642068077,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=302352",
+            "title": "What\u2019s Up with Scott and Pablo PLUS Their New Book, \u201cWatchOS with SwiftUI by Tutorials\u201d-Podcast S12 E04",
+            "link": "https://www.kodeco.com/302352/watchos-s12-e04",
+            "updated": 1640779202,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=301583",
+            "title": "Jay Strawn Talks About Boot Camps, Apple Watches, and Life After Podcasting-Podcast S12 E03",
+            "link": "https://www.kodeco.com/301583/jay-strawn-s12-e03",
+            "updated": 1639569647,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=300769",
+            "title": "Jenn Bailey, Professor, Google Developer Groups Mentor and Past Season Co-Host, Comes Back as a Guest on The Show \u2013 Podcast S12 E02",
+            "link": "https://www.kodeco.com/300769/jenn-bailey-s12-e02",
+            "updated": 1638360058,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=299853",
+            "title": "Marin Todorov, Shai Mishali and The New Book \u201cModern Concurrency in Swift! \u2013 Podcast S12, E01",
+            "link": "https://www.kodeco.com/299853/modern-concuuency-s12-e01",
+            "updated": 1637150411,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=298940",
+            "title": "Season 12 Kickoff \u2013 Podcast S12 E00",
+            "link": "https://www.kodeco.com/298940/season-12-kickoff-s12-e00",
+            "updated": 1635937241,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=288968",
+            "title": "WWDC 2021 \u2013 Livecast Promo S11",
+            "link": "https://www.kodeco.com/288968/wwdc2021-livecast-promo-s11",
+            "updated": 1622464385,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=286898",
+            "title": "GDG, Open Source, Pottery and Bookbinding, Nishant Srivastava Talks About These Cool Things \u2013 Podcast S11 E12",
+            "link": "https://www.kodeco.com/286898/nishant-srivistava-s11-e12",
+            "updated": 1620817213,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=284602",
+            "title": "Dru Freeman Explains Aristotle on Stage, Barefoot \u2013 Podcast S11 E11",
+            "link": "https://www.kodeco.com/284602/dru-freeman-s11-e11",
+            "updated": 1619607637,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=282842",
+            "title": "Cate Huston Takes Us a Bit Further into Her Interview In \u2018Living by The Code\u2019 \u2013 Podcast S11 E10",
+            "link": "https://www.kodeco.com/282842/cate-huston-s11-e10",
+            "updated": 1618398009,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=281367",
+            "title": "Annyce Davis and a Closer Look at Her Interview in the LBTC Book \u2013 Podcast S11 E09",
+            "link": "https://www.kodeco.com/281367/annyce-davis-s11-e09",
+            "updated": 1617188404,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=279733",
+            "title": "Join Us and Fernando Cejas as We Deep Dive into His Interview in The LBTC Book- Podcast S11 E08",
+            "link": "https://www.kodeco.com/279733/fernando-cejas-s11-e08",
+            "updated": 1615978809,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=278844",
+            "title": "Living By the Code, Creativity and Tech Merge with Corey Leigh Latislaw \u2013 Podcast S11 E07",
+            "link": "https://www.kodeco.com/278844/corey-latislaw-s11-e07",
+            "updated": 1614772856,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=277673",
+            "title": "Dev Managers Vs. Tech Managers: Ty Smith Talks About the Difference and His Interview In \u2018Living By The Code\u2019 \u2013 Podcast S11 E06",
+            "link": "https://www.kodeco.com/277673/ty-smith-s11-e06",
+            "updated": 1613563222,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=276957",
+            "title": "Joe Birch On Transparent and Asynchronous Work and His Interview In \u2018Living by The Code.\u2019 \u2013 Podcast S11 E05",
+            "link": "https://www.kodeco.com/276957/joe-birch-s11-e05",
+            "updated": 1612353611,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=276026",
+            "title": "Moyinoluwa Adeyemi Shares Insights About Being a Google Developer and Her Interview In \u2018Living by The Code.\u2019 \u2013 Podcast S11 E04",
+            "link": "https://www.kodeco.com/276026/moyinoluwa-adeyemi-s11-e04",
+            "updated": 1611144056,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=274172",
+            "title": "Open-Source Development and More of Marcin Krzyzanowski\u2019s Interview In \u2018Living by The Code.\u2019 \u2013 Podcast S11 E03",
+            "link": "https://www.kodeco.com/274172/marcin-krzyzanowski-s11-e03",
+            "updated": 1609934404,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=272990",
+            "title": "Cross Stitch, Podcasting and More of Lara Mart\u00edn\u2019s Interview In \u2018Living by The Code\u2019. \u2013 Podcast S11 E02",
+            "link": "https://www.kodeco.com/272990/lara-martin-s11-e02",
+            "updated": 1608724828,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=272127",
+            "title": "Digital Board Games and A Deeper Look at Paco Est\u00e9vez Garc\u00eda\u2019s Interview In \u2018Living by The Code.\u2019 \u2013 Podcast S11 E01",
+            "link": "https://www.kodeco.com/272127/paco-estevez-garcia-s11-e01",
+            "updated": 1607515222,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=271096",
+            "title": "Season 11 Kickoff \u2013 Podcast S11 E00",
+            "link": "https://www.kodeco.com/271096/season-11-kickoff-s11-e00",
+            "updated": 1606305623,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=263005",
+            "title": "Jetpack Compose with Denis Buketa \u2013 Podcast S10 E13",
+            "link": "https://www.kodeco.com/263005/jetpack-compose-denis-buketa-s10-e13",
+            "updated": 1597230004,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=261844",
+            "title": "CryptoNetwork and Blockchain with Ben DiFrancesco \u2013 Podcast S10 E12",
+            "link": "https://www.kodeco.com/261844/cryptonetworks-blockchain-ben-difrancesco-s10-e12",
+            "updated": 1596020403,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=260765",
+            "title": "Mastering Git with Chris Belanger \u2013 Podcast S10 E11",
+            "link": "https://www.kodeco.com/260765/mastering-git-chris-belanger-s10-e11",
+            "updated": 1594810827,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=259475",
+            "title": "Android App Architecture with Vijay Sharma \u2013 Podcast S10 E10",
+            "link": "https://www.kodeco.com/259475/android-app-architecture-vijay-sharma-s10-e10",
+            "updated": 1593601256,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=258242",
+            "title": "Fastlane with Brian Schick \u2013 Podcast S10 E9",
+            "link": "https://www.kodeco.com/258242/fastlane-brian-schick-s10-e09",
+            "updated": 1592391616,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=256592",
+            "title": "Flutter Talk with Brian Kayfitz \u2013 Podcast S10 E08",
+            "link": "https://www.kodeco.com/256592/flutter-brian-kayfitz-s10-e08",
+            "updated": 1591182031,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=255285",
+            "title": "Mac Catalyst and more with Andy Pereira \u2013 Podcast S10 E7",
+            "link": "https://www.kodeco.com/255285/catalyst-andy-pereira-s10-e07",
+            "updated": 1589972503,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=253931",
+            "title": "TDD for Android with Victoria Gonda \u2013 Podcast S10 E06",
+            "link": "https://www.kodeco.com/253931/tdd-android-victoria-gonda-s10-e06",
+            "updated": 1588762807,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=252924",
+            "title": "Swift UI In Production with Lea Marolt Sonnenschein \u2013 Podcast S10 E5",
+            "link": "https://www.kodeco.com/252924/swiftui-in-production-lea-maroldsonnenschein-s10-e05",
+            "updated": 1587553250,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=252185",
+            "title": "Coroutines in Kotlin with Filip Babi\u0107 \u2013 Podcast S10 E04",
+            "link": "https://www.kodeco.com/252185/coroutines-kotlin-filip-babic-s10-e04",
+            "updated": 1586343617,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=250722",
+            "title": "Combine on iOS with Shai Mishali \u2013 Podcast S10 E03",
+            "link": "https://www.kodeco.com/250722/combine-ios-shai-mishali-s10-e03",
+            "updated": 1585134027,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=249481",
+            "title": "Saving Data on Android with Jennifer Bailey \u2013 Podcast S10 E02",
+            "link": "https://www.kodeco.com/249481/saving-data-android-jenn-bailey-s10-e02",
+            "updated": 1583924429,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=248341",
+            "title": "\u2018Disciple Of Code\u2019, Laurie Gray, Gives Us the Lowdown on Swiftui. \u2013 Podcast S10 E01",
+            "link": "https://www.kodeco.com/248341/swiftui-laurie-gray-s10-e01",
+            "updated": 1582718402,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=246069",
+            "title": "Season 10 Kickoff \u2013 Podcast S10 E00",
+            "link": "https://www.kodeco.com/246069/season-10-kickoff-s10-e00",
+            "updated": 1581508828,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=234898",
+            "title": "Antonio Leiva \u2013 Clean Architecture/Assistant Actions \u2013 Podcast S09 E13",
+            "link": "https://www.kodeco.com/234898/antonio-leiva-s09-e13",
+            "updated": 1570015819,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=234259",
+            "title": "Gabriel Peal Talks More About the Mvrx (Mavericks) Framework. \u2013 Podcast S09 E12",
+            "link": "https://www.kodeco.com/234259/gabriel-peal-s09-e12",
+            "updated": 1568804424,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=233229",
+            "title": "Teaching, Writing, Freelancing, And All Fun Things About Android with Erik Hellman \u2013 Podcast S09 E11",
+            "link": "https://www.kodeco.com/233229/erik-hellman-s09-e11",
+            "updated": 1567588979,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=232092",
+            "title": "Combine and a Few Things in Between with Mark Dalrymple \u2013 Podcast S09 E10",
+            "link": "https://www.kodeco.com/232092/mark-dalrymple-s09-e10",
+            "updated": 1566387951,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=231224",
+            "title": "Google\u2019s Android Toolkit Lead Developer Romain Guy about Q and UX \u2013 Podcast S09 E09",
+            "link": "https://www.kodeco.com/231224/romain-guy-s09-e09",
+            "updated": 1565178306,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=229729",
+            "title": "Developer Advocate Hadi Hariri Talks about Kotlin and More- Podcast S09 E08",
+            "link": "https://www.kodeco.com/229729/hadi-hariri-s09-e08",
+            "updated": 1563969601,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=228820",
+            "title": "Google I/O Livecast Replay \u2013 Podcast S09 E07",
+            "link": "https://www.kodeco.com/228820/google-io-19-s09-e07",
+            "updated": 1562759135,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=227756",
+            "title": "All About Testing with Chiu-Ki Chan \u2013 Podcast S09 E06",
+            "link": "https://www.kodeco.com/227756/chiu-ki-chan-s09-e06",
+            "updated": 1561548604,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=226597",
+            "title": "\u201cAmateur Chef\u201d John Sundell Talks about Swift, Life, and Food! \u2013 Podcast S09 E05",
+            "link": "https://www.kodeco.com/226597/john-sundell-s09-e05",
+            "updated": 1560339949,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=225176",
+            "title": "Enriching Your Dev Career with Sean Allen \u2013 Podcast S09 E04",
+            "link": "https://www.kodeco.com/225176/sean-allen-s09-e04",
+            "updated": 1559131228,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=224172",
+            "title": "Peter Steinberger, Coding, a Peek At PSPDFKit and More \u2013 Podcast S09 E03",
+            "link": "https://www.kodeco.com/224172/peter-steinberger-s09-e03",
+            "updated": 1557921324,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=223238",
+            "title": "Early Days of Jailbreaking and Swift Coding Style Talks with Erica Sadun \u2013 Podcast S09 E02",
+            "link": "https://www.kodeco.com/223238/erica-sadun-s09-e02",
+            "updated": 1556711738,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=222110",
+            "title": "James Dempsey Talks about Coding Around the \u201cOne Happy Path\u201d \u2013 Podcast S09 E01",
+            "link": "https://www.kodeco.com/222110/james-dempsey-s09-e01",
+            "updated": 1555502136,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=221381",
+            "title": "Season 9 Kickoff \u2013 Podcast S09 E00",
+            "link": "https://www.kodeco.com/221381/season-9-kickoff-s09-e00",
+            "updated": 1554270908,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=217855",
+            "title": "\u201cServer Side Swift with Kitura\u201d, Chris Bailey & David Okun, And the Growing Technology That Is Kitura \u2013 Podcast S08 E12",
+            "link": "https://www.kodeco.com/217855/kitura-podcast-s08-e12",
+            "updated": 1551077837,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=214158",
+            "title": "Ren\u00e9 Cacheaux and Josh Berlin Talk about Advanced App Architecture and Redux \u2013 Podcast S08 E11",
+            "link": "https://www.kodeco.com/214158/app-architecture-s08-e11",
+            "updated": 1548136814,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=210262",
+            "title": "Machine Learning talks with Chris LaPollo and Matthijs Hollemans \u2013 Podcast S08 E10",
+            "link": "https://www.kodeco.com/210262/machine-learning-s08-e10",
+            "updated": 1546250429,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=210192",
+            "title": "All things \u2018Metal\u2019 with Caroline Begbie, Marius Horga and Jessy Caterwaul \u2013 Podcast S08 E09",
+            "link": "https://www.kodeco.com/210192/metal-s08-e09",
+            "updated": 1544446448,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=208219",
+            "title": "Darryl Bayliss Takes Us More into the \u2018Android Apprentice\u2019 \u2013 Podcast S08 E08",
+            "link": "https://www.kodeco.com/208219/android-apprentice-podcast-s08-e08",
+            "updated": 1542639319,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=207943",
+            "title": "Jimmy Alamparambil, Matt Larson, Jonathan Ogle-Barrington and a look into AR and VR \u2013 Podcast S08 E07",
+            "link": "https://www.kodeco.com/207943/ar-vr-podcast-s08-e07",
+            "updated": 1542027635,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=206756",
+            "title": "Data Structures and Algorithms \u2013 Podcast S08 E06",
+            "link": "https://www.kodeco.com/206756/data-structures-algorithms-podcast-s08-e06",
+            "updated": 1540216835,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=205302",
+            "title": "Server-Side Swift with Vapor \u2013 Podcast S08 E05",
+            "link": "https://www.kodeco.com/205302/server-side-swift-vapor-podcast-s08-e05",
+            "updated": 1538398811,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=201722",
+            "title": "Realm and Accessibility \u2013 Podcast S08 E04",
+            "link": "https://www.kodeco.com/201722/realm-accessibility-podcast-s08-e04",
+            "updated": 1534169509,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=200518",
+            "title": "Design Patterns \u2013 Podcast S08 E03",
+            "link": "https://www.kodeco.com/200518/design-patterns-podcast-s08-e03",
+            "updated": 1532956953,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=198361",
+            "title": "ARKit/Facial Recognition \u2013 Podcast S08 E02",
+            "link": "https://www.kodeco.com/198361/arkit-facial-recognition-podcast-s08-e02",
+            "updated": 1530536443,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=197204",
+            "title": "Kotlin Vs. Swift: Ellen Shapiro and Joe Howard Talk More About the Differences and More \u2013 Podcast S08 E01",
+            "link": "https://www.kodeco.com/197204/kotlin-podcast-s08-e01",
+            "updated": 1529326854,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=194198",
+            "title": "Season 8 Kickoff \u2013 Podcast S08 E00",
+            "link": "https://www.kodeco.com/194198/season-8-kickoff-s08-e00",
+            "updated": 1526900447,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=192262",
+            "title": "RWDevCon 2018 Live \u2013 Podcast S07.5",
+            "link": "https://www.kodeco.com/192262/rwdevcon-2018-live-podcast-s07-5",
+            "updated": 1524477625,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=190002",
+            "title": "Large Mobile Dev Teams and The Android Avalanche \u2013 Podcast S07 E13",
+            "link": "https://www.kodeco.com/190002/bigdev-android-avalanche-podcast-s07-e13",
+            "updated": 1522073216,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=188486",
+            "title": "MVVM and CoreML with Arthur Mayes \u2013 Podcast S07 E12",
+            "link": "https://www.kodeco.com/188486/mvvm-coreml-podcast-s07-e12",
+            "updated": 1520856030,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=187427",
+            "title": "GameplayKit and Localisation with Tammy Coron \u2013 Podcast S07 E11",
+            "link": "https://www.kodeco.com/187427/gameplaykit-localisation-podcast-s07-e11",
+            "updated": 1519653904,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=186411",
+            "title": "Playgrounds 2 and Animation Overview with Keith Moon \u2013 Podcast S07 E10",
+            "link": "https://www.kodeco.com/186411/playgrounds2-animation-overview-podcast-s07-e10",
+            "updated": 1518444013,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=185035",
+            "title": "Debugging and Historical Nerd Off with Mark Dalrymple \u2013 Podcast S07 E09",
+            "link": "https://www.kodeco.com/185035/debugging-historical-nerd-off-podcast-s07-e09",
+            "updated": 1517234459,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=183556",
+            "title": "Unity and ShaderKit with Tammy Coron \u2013 Podcast S07 E08",
+            "link": "https://www.kodeco.com/183556/unity-shaderkit-podcast-s07-e08",
+            "updated": 1516017625,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=182008",
+            "title": "Open Source Swift, Raspberry Pi, and Firebase \u2013 Podcast S07 E07",
+            "link": "https://www.kodeco.com/182008/open-source-swift-raspberry-pi-and-firebase-podcast-s07-e07",
+            "updated": 1515070831,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=180134",
+            "title": "The Swift Concurrency Manifesto Part 2, and Drag and Drop \u2013 Podcast S07 E06",
+            "link": "https://www.kodeco.com/180134/swift-concurrency-manifesto-drag-and-drop-podcast-s07-e06",
+            "updated": 1512997210,
+            "site_name": "Kodeco Podcast"
+        },
+        {
+            "id": "https://www.raywenderlich.com/?p=178009",
+            "title": "Special Thanksgiving Episode \u2013 Podcast S07 E05",
+            "link": "https://www.kodeco.com/178009/special-thanksgiving-episode-podcast-s07-e05",
+            "updated": 1511334047,
+            "site_name": "Kodeco Podcast"
+        }
+    ]
+}

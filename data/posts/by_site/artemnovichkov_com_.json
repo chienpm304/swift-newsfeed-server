@@ -1,0 +1,89 @@
+{
+    "updated": 1714470867,
+    "posts": [
+        {
+            "id": "https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui",
+            "title": "Remove background from image in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/remove-background-from-image-in-swiftui",
+            "updated": 1705338000,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/spoiler-view",
+            "title": "Implementing spoilers in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/spoiler-view",
+            "updated": 1678294800,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/async-await-offline",
+            "title": "Async/await for existing iOS apps",
+            "link": "https://artemnovichkov.com/blog/async-await-offline",
+            "updated": 1637859600,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/keyboard-layout-guide",
+            "title": "Guide for UIKeyboardLayoutGuide",
+            "link": "https://artemnovichkov.com/blog/keyboard-layout-guide",
+            "updated": 1623171600,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/async-image",
+            "title": "AsyncImage. Loading images in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/async-image",
+            "updated": 1623085200,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/bluetooth-and-swiftui",
+            "title": "Bluetooth and SwiftUI. Developing app for RGB stripe control",
+            "link": "https://artemnovichkov.com/blog/bluetooth-and-swiftui",
+            "updated": 1622394000,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/custom-popups-in-swiftui",
+            "title": "Implementing custom popups in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/custom-popups-in-swiftui",
+            "updated": 1621443600,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/result-builders",
+            "title": "Using result builders for action sheets in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/result-builders",
+            "updated": 1619802000,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/swiftui-offline",
+            "title": "Working with web content offline in SwiftUI apps",
+            "link": "https://artemnovichkov.com/blog/swiftui-offline",
+            "updated": 1619283600,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/sheet-happens",
+            "title": "Sheet happens. Working with modal views in SwiftUI",
+            "link": "https://artemnovichkov.com/blog/sheet-happens",
+            "updated": 1618333200,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/developing-xcode-extensions-tips-and-tricks",
+            "title": "Developing Xcode Extensions. Tips and tricks",
+            "link": "https://artemnovichkov.com/blog/developing-xcode-extensions-tips-and-tricks",
+            "updated": 1613840400,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        },
+        {
+            "id": "https://artemnovichkov.com/blog/custom-environment-value-for-share-actions",
+            "title": "Custom @Environment value for share actions",
+            "link": "https://artemnovichkov.com/blog/custom-environment-value-for-share-actions",
+            "updated": 1613149200,
+            "site_name": "Artem Novichkov\u2019s Blog"
+        }
+    ]
+}

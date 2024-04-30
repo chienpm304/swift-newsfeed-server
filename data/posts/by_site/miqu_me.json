@@ -1,0 +1,145 @@
+{
+    "updated": 1714470889,
+    "posts": [
+        {
+            "id": "http://miqu.me/blog/2018/01/28/top-5-must-have-technical-books",
+            "title": "My top 5 must-have technical books",
+            "link": "http://miqu.me/blog/2018/01/28/top-5-must-have-technical-books/",
+            "updated": 1517141169,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2017/06/16/fixing-autocompletion-on-mixed-objective-c-and-swift-projects",
+            "title": "Fixing autocompletion on mixed Objective-C and Swift projects",
+            "link": "http://miqu.me/blog/2017/06/16/fixing-autocompletion-on-mixed-objective-c-and-swift-projects/",
+            "updated": 1497628527,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery",
+            "title": "Automatic bridging from Swift to Objective-C using Sourcery",
+            "link": "http://miqu.me/blog/2017/05/21/automatic-bridging-from-swift-to-objective-c-using-sourcery/",
+            "updated": 1495377000,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2017/01/29/temporary-build-settings",
+            "title": "Build settings depending on Xcode version",
+            "link": "http://miqu.me/blog/2017/01/29/temporary-build-settings/",
+            "updated": 1485707214,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode",
+            "title": "Reducing the pain of git bisect with Xcode",
+            "link": "http://miqu.me/blog/2017/01/22/reducing-the-pain-of-git-bisect-with-xcode/",
+            "updated": 1485060541,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/11/28/app-extensions-xcode-and-cocoapods-omg",
+            "title": "App extensions, Xcode and Cocoapods, OMG!",
+            "link": "http://miqu.me/blog/2016/11/28/app-extensions-xcode-and-cocoapods-omg/",
+            "updated": 1480301094,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/11/19/easy-localizations-management-with-spreadsheets",
+            "title": "Easy localization management with Google spreadsheets",
+            "link": "http://miqu.me/blog/2016/11/19/easy-localizations-management-with-spreadsheets/",
+            "updated": 1479549018,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/10/26/controlling-time-in-the-app",
+            "title": "Controlling time in the app",
+            "link": "http://miqu.me/blog/2016/10/26/controlling-time-in-the-app/",
+            "updated": 1477481917,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/08/16/knowing-when-to-delete-code",
+            "title": "Knowing when to delete code",
+            "link": "http://miqu.me/blog/2016/08/16/knowing-when-to-delete-code/",
+            "updated": 1471352644,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements",
+            "title": "Xcode 8: New build settings and analyzer improvements",
+            "link": "http://miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/",
+            "updated": 1469973016,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/04/22/dear-sdk-developer",
+            "title": "Dear SDK developer",
+            "link": "http://miqu.me/blog/2016/04/22/dear-sdk-developer/",
+            "updated": 1461300632,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2016/01/21/xcode-7-dot-3-analyzer-improvements",
+            "title": "Xcode 7.3 analyzer improvements",
+            "link": "http://miqu.me/blog/2016/01/21/xcode-7-dot-3-analyzer-improvements/",
+            "updated": 1453383593,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/12/14/transitioning-ios-versions",
+            "title": "Transitioning iOS versions",
+            "link": "http://miqu.me/blog/2015/12/14/transitioning-ios-versions/",
+            "updated": 1450098025,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/12/05/building-swift-on-osx",
+            "title": "Building Swift on OSX",
+            "link": "http://miqu.me/blog/2015/12/05/building-swift-on-osx/",
+            "updated": 1449250715,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/11/19/three-months-with-xvim",
+            "title": "Three months with XVim",
+            "link": "http://miqu.me/blog/2015/11/19/three-months-with-xvim/",
+            "updated": 1447946364,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/11/15/jumping-into-existing-codebases",
+            "title": "Jumping into existing codebases",
+            "link": "http://miqu.me/blog/2015/11/15/jumping-into-existing-codebases/",
+            "updated": 1447588518,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/09/09/functional-programming-in-the-small-with-swift",
+            "title": "Functional programming in the small, with Swift",
+            "link": "http://miqu.me/blog/2015/09/09/functional-programming-in-the-small-with-swift/",
+            "updated": 1441785623,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/08/31/poor-mans-functional-programming",
+            "title": "Poor man's functional programming",
+            "link": "http://miqu.me/blog/2015/08/31/poor-mans-functional-programming/",
+            "updated": 1441026000,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/08/20/freehand-drawing",
+            "title": "Freehand Drawing",
+            "link": "http://miqu.me/blog/2015/08/20/freehand-drawing/",
+            "updated": 1440076180,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        },
+        {
+            "id": "http://miqu.me/blog/2015/08/07/one-commit-a-day",
+            "title": "One commit a day",
+            "link": "http://miqu.me/blog/2015/08/07/one-commit-a-day/",
+            "updated": 1438953742,
+            "site_name": "Miguel Quinones\u2019 Blog"
+        }
+    ]
+}

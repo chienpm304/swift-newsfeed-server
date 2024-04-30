@@ -1,0 +1,47 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://medium.com/p/e01895b8909e",
+            "title": "Control your GPU fan speeds while connecting to your machine via SSH",
+            "link": "https://medium.com/@s1ddok/control-your-gpu-fan-speeds-while-connecting-to-your-machine-via-ssh-e01895b8909e?source=rss-215d6c63b088------2",
+            "updated": 1665743410,
+            "site_name": "Andrey Volodin on Medium"
+        },
+        {
+            "id": "https://medium.com/p/4de02d881ec1",
+            "title": "One weird trick for Development Pod type of experience using Swift Package Manager and Xcode 12",
+            "link": "https://medium.com/@s1ddok/one-weird-trick-for-development-pod-type-of-experience-using-swift-package-manager-and-xcode-12-4de02d881ec1?source=rss-215d6c63b088------2",
+            "updated": 1596890479,
+            "site_name": "Andrey Volodin on Medium"
+        },
+        {
+            "id": "https://medium.com/p/8526dd4535c7",
+            "title": "Automated CocoaPod releases with GitHub Actions",
+            "link": "https://medium.com/swlh/automated-cocoapod-releases-with-github-actions-8526dd4535c7?source=rss-215d6c63b088------2",
+            "updated": 1568158944,
+            "site_name": "Andrey Volodin on Medium"
+        },
+        {
+            "id": "https://medium.com/p/eabb4c1be615",
+            "title": "Combine the power of CoreGraphics and Metal by sharing resource memory",
+            "link": "https://medium.com/@s1ddok/combine-the-power-of-coregraphics-and-metal-by-sharing-resource-memory-eabb4c1be615?source=rss-215d6c63b088------2",
+            "updated": 1551768449,
+            "site_name": "Andrey Volodin on Medium"
+        },
+        {
+            "id": "https://medium.com/p/d3a7e646df53",
+            "title": "Using first-class type objects to create UITableViews with multiple cell types",
+            "link": "https://medium.com/@s1ddok/using-first-class-type-objects-to-create-uitableviews-with-multiple-cell-types-d3a7e646df53?source=rss-215d6c63b088------2",
+            "updated": 1527572361,
+            "site_name": "Andrey Volodin on Medium"
+        },
+        {
+            "id": "https://medium.com/p/e45df264cf66",
+            "title": "Holistically-Nested Edge Detection on iOS with CoreML and Swift",
+            "link": "https://medium.com/@s1ddok/holistically-nested-edge-detection-on-ios-with-coreml-and-swift-e45df264cf66?source=rss-215d6c63b088------2",
+            "updated": 1499066888,
+            "site_name": "Andrey Volodin on Medium"
+        }
+    ]
+}

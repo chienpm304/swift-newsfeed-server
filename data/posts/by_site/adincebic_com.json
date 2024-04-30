@@ -1,0 +1,54 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "http://adincebic.micro.blog/2023/12/24/a-case-for.html",
+            "title": "A case for exact versioning and ignoring Package.resolved file",
+            "link": "https://adincebic.com/2023/12/24/a-case-for.html",
+            "updated": 1703387203,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2023/09/23/integrating-conan-with.html",
+            "title": "Integrating Conan with Xcode to manage C/C++ libraries",
+            "link": "https://adincebic.com/2023/09/23/integrating-conan-with.html",
+            "updated": 1695431519,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2023/09/03/linking-c-static.html",
+            "title": "Linking C++ static library in iOS project",
+            "link": "https://adincebic.com/2023/09/03/linking-c-static.html",
+            "updated": 1693725425,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2023/07/30/automatically-mark-all.html",
+            "title": "Introducing the existentialannotator: A Swift Command Line Tool that automatically marks all existential types with",
+            "link": "https://adincebic.com/2023/07/30/automatically-mark-all.html",
+            "updated": 1690715663,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2022/08/08/using-swift-withcheckedthrowingcontinuation.html",
+            "title": "Using Swift withCheckedThrowingContinuation in methods without return value",
+            "link": "https://adincebic.com/2022/08/08/using-swift-withcheckedthrowingcontinuation.html",
+            "updated": 1659953100,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2022/03/28/how-to-check.html",
+            "title": "How to check if Xcode is building for previews",
+            "link": "https://adincebic.com/2022/03/28/how-to-check.html",
+            "updated": 1648440688,
+            "site_url": "https://adincebic.com"
+        },
+        {
+            "id": "http://adincebic.micro.blog/2022/03/22/i-have-spent.html",
+            "title": "",
+            "link": "https://adincebic.com/2022/03/22/i-have-spent.html",
+            "updated": 1647905018,
+            "site_url": "https://adincebic.com"
+        }
+    ]
+}

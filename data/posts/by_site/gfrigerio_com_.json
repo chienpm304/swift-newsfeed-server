@@ -1,0 +1,460 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://www.gfrigerio.com/?p=1500",
+            "title": "Transfer apps between iOS simulators",
+            "link": "https://www.gfrigerio.com/transfer-apps-between-ios-simulators/",
+            "updated": 1662100929,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1480",
+            "title": "Introducing NavigationPath in SwiftUI",
+            "link": "https://www.gfrigerio.com/introducing-navigationpath-in-swiftui/",
+            "updated": 1654581131,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1473",
+            "title": "Introducing the any keyword",
+            "link": "https://www.gfrigerio.com/introducing-the-any-keyword/",
+            "updated": 1648712558,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1415",
+            "title": "Take screenshots of SwiftUI Views",
+            "link": "https://www.gfrigerio.com/take-screenshots-of-swiftui-views/",
+            "updated": 1643100433,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1388",
+            "title": "Custom URL schemes in a WKWebView",
+            "link": "https://www.gfrigerio.com/custom-url-schemes-in-a-wkwebview/",
+            "updated": 1640683622,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1373",
+            "title": "Test asynchronous code",
+            "link": "https://www.gfrigerio.com/test-asynchronous-code/",
+            "updated": 1637998286,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1358",
+            "title": "Create your own AsyncSequence",
+            "link": "https://www.gfrigerio.com/create-your-own-asyncsequence/",
+            "updated": 1637491741,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1338",
+            "title": "Introduction to async await",
+            "link": "https://www.gfrigerio.com/introduction-to-async-await/",
+            "updated": 1636772584,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1324",
+            "title": "Refresh SwiftUI views",
+            "link": "https://www.gfrigerio.com/refresh-swiftui-views/",
+            "updated": 1627614029,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1305",
+            "title": "Draw a clock with SwiftUI Canvas",
+            "link": "https://www.gfrigerio.com/draw-a-clock-with-swiftui-canvas/",
+            "updated": 1627020903,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1283",
+            "title": "Introduction to Canvas in SwiftUI",
+            "link": "https://www.gfrigerio.com/introduction-to-canvas-in-swiftui/",
+            "updated": 1626401270,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1272",
+            "title": "Introduction to TimelineView",
+            "link": "https://www.gfrigerio.com/introduction-to-timelineview/",
+            "updated": 1625648680,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1249",
+            "title": "Keychain and biometric authentication",
+            "link": "https://www.gfrigerio.com/keychain-and-biometric-authentication/",
+            "updated": 1622947112,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1229",
+            "title": "ARKit in a SwiftUI app",
+            "link": "https://www.gfrigerio.com/arkit-in-a-swiftui-app/",
+            "updated": 1622095060,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1225",
+            "title": "Pull down to refresh in SwiftUI",
+            "link": "https://www.gfrigerio.com/pull-down-to-refresh-in-swiftui/",
+            "updated": 1620969350,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1205",
+            "title": "Object recognition with Vision and CoreML",
+            "link": "https://www.gfrigerio.com/object-recognition-with-vision-and-coreml/",
+            "updated": 1620266104,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1161",
+            "title": "Text classification with CoreML",
+            "link": "https://www.gfrigerio.com/text-classification-with-coreml/",
+            "updated": 1618034704,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1138",
+            "title": "Dynamic navigation in SwiftUI",
+            "link": "https://www.gfrigerio.com/dynamic-navigation-in-swiftui/",
+            "updated": 1615197866,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1120",
+            "title": "Getting started with face detection",
+            "link": "https://www.gfrigerio.com/getting-started-with-face-detection/",
+            "updated": 1613803742,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1099",
+            "title": "Build a macOS app with SwiftUI",
+            "link": "https://www.gfrigerio.com/build-a-macos-app-with-swiftui/",
+            "updated": 1613378372,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1082",
+            "title": "Creating an XCFramework",
+            "link": "https://www.gfrigerio.com/creating-an-xcframework/",
+            "updated": 1609302087,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1061",
+            "title": "Build a command line tool",
+            "link": "https://www.gfrigerio.com/build-a-command-line-tool/",
+            "updated": 1607745299,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1049",
+            "title": "Text recognition with Vision",
+            "link": "https://www.gfrigerio.com/text-recognition-with-vision/",
+            "updated": 1606531882,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1032",
+            "title": "Read EXIF data of pictures",
+            "link": "https://www.gfrigerio.com/read-exif-data-of-pictures/",
+            "updated": 1604750116,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1022",
+            "title": "Check connectivity status",
+            "link": "https://www.gfrigerio.com/check-connectivity-status/",
+            "updated": 1604146957,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1015",
+            "title": "Build your first widget",
+            "link": "https://www.gfrigerio.com/build-your-frist-widget/",
+            "updated": 1600744603,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=1001",
+            "title": "Grid layout in SwiftUI",
+            "link": "https://www.gfrigerio.com/grid-layout-in-swiftui/",
+            "updated": 1600157893,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=995",
+            "title": "Lazy loading in SwiftUI",
+            "link": "https://www.gfrigerio.com/lazy-loading-in-swiftui/",
+            "updated": 1598585300,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=977",
+            "title": "Write a SwiftUI only app",
+            "link": "https://www.gfrigerio.com/write-a-swiftui-only-app/",
+            "updated": 1596615933,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=967",
+            "title": "Enhancements in Function Builders",
+            "link": "https://www.gfrigerio.com/enhancements-in-function-builders/",
+            "updated": 1596443876,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=955",
+            "title": "Download files in a WKWebView",
+            "link": "https://www.gfrigerio.com/download-files-in-a-wkwebview/",
+            "updated": 1594000223,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=940",
+            "title": "Dynamic fonts in WKWebView",
+            "link": "https://www.gfrigerio.com/dynamic-fonts-in-wkwebview/",
+            "updated": 1588903636,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=932",
+            "title": "Infinite scrolling in SwiftUI",
+            "link": "https://www.gfrigerio.com/infinite-scrolling-in-swiftui/",
+            "updated": 1587196931,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=916",
+            "title": "Create a DSL with Function Builders",
+            "link": "https://www.gfrigerio.com/create-a-dsl-with-function-builders/",
+            "updated": 1585987486,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=881",
+            "title": "Introduction to Function builders",
+            "link": "https://www.gfrigerio.com/introduction-to-function-builders/",
+            "updated": 1582856850,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=856",
+            "title": "Adopting Swift Packages",
+            "link": "https://www.gfrigerio.com/adopting-swift-packages/",
+            "updated": 1582621313,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=838",
+            "title": "Preview UIKit views in Xcode",
+            "link": "https://www.gfrigerio.com/preview-uikit-views-in-xcode/",
+            "updated": 1581246147,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=835",
+            "title": "Support older versions of iOS",
+            "link": "https://www.gfrigerio.com/support-older-versions-of-ios/",
+            "updated": 1576487760,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=814",
+            "title": "Swift and JavaScript interaction",
+            "link": "https://www.gfrigerio.com/swift-and-javascript-interaction/",
+            "updated": 1574244563,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=788",
+            "title": "WKWebView and JavaScript interaction",
+            "link": "https://www.gfrigerio.com/wkwebview-and-javascript-interaction/",
+            "updated": 1573355462,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=781",
+            "title": "Navigation in SwiftUI",
+            "link": "https://www.gfrigerio.com/navigation-in-swiftui/",
+            "updated": 1572576029,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=769",
+            "title": "Remote images in SwiftUI",
+            "link": "https://www.gfrigerio.com/remote-images-in-swiftui/",
+            "updated": 1568970812,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=761",
+            "title": "Diffable Data Sources",
+            "link": "https://www.gfrigerio.com/diffable-data-sources/",
+            "updated": 1567823497,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=749",
+            "title": "Supporting Dark Mode",
+            "link": "https://www.gfrigerio.com/supporting-dark-mode/",
+            "updated": 1567586270,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=736",
+            "title": "CoreData in SwiftUI",
+            "link": "https://www.gfrigerio.com/coredata-in-swiftui/",
+            "updated": 1566623139,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=728",
+            "title": "NSAttributedString in SwiftUI",
+            "link": "https://www.gfrigerio.com/nsattributedstring-in-swiftui/",
+            "updated": 1566367530,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=716",
+            "title": "Progress bar in SwiftUI",
+            "link": "https://www.gfrigerio.com/progress-bar-in-swiftui/",
+            "updated": 1564466307,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=711",
+            "title": "Navigation in SwiftUI deprecated",
+            "link": "https://www.gfrigerio.com/navigation-in-swiftui-deprecated/",
+            "updated": 1564046320,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=691",
+            "title": "SwiftUI on Apple Watch",
+            "link": "https://www.gfrigerio.com/swiftui-on-apple-watch/",
+            "updated": 1563862343,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=661",
+            "title": "Property Wrappers",
+            "link": "https://www.gfrigerio.com/property-wrappers/",
+            "updated": 1562119081,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=640",
+            "title": "Networking example with Combine",
+            "link": "https://www.gfrigerio.com/networking-example-with-combine/",
+            "updated": 1561961000,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=590",
+            "title": "Combine first example",
+            "link": "https://www.gfrigerio.com/combine-first-example/",
+            "updated": 1561540564,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=566",
+            "title": "Moya and Alamofire",
+            "link": "https://www.gfrigerio.com/moya-and-alamofire/",
+            "updated": 1557814073,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=522",
+            "title": "Getting started with RxSwift",
+            "link": "https://www.gfrigerio.com/getting-started-with-rxswift/",
+            "updated": 1557371624,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=487",
+            "title": "Callbacks vs Promises",
+            "link": "https://www.gfrigerio.com/callbacks-vs-promises/",
+            "updated": 1555487455,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=456",
+            "title": "Show a PDF",
+            "link": "https://www.gfrigerio.com/show-a-pdf/",
+            "updated": 1554957368,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=425",
+            "title": "Barcode scanner",
+            "link": "https://www.gfrigerio.com/barcode-scanner/",
+            "updated": 1551431050,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=406",
+            "title": "Testing in Xcode",
+            "link": "https://www.gfrigerio.com/testing-in-xcode/",
+            "updated": 1551088288,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=391",
+            "title": "Resize an image in Javascript",
+            "link": "https://www.gfrigerio.com/resize-an-image-in-javascript/",
+            "updated": 1550476853,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=325",
+            "title": "Building a fitness app",
+            "link": "https://www.gfrigerio.com/building-a-fitness-app/",
+            "updated": 1549604459,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=282",
+            "title": "Building an image gallery app",
+            "link": "https://www.gfrigerio.com/building-an-image-gallery-app/",
+            "updated": 1549261151,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=156",
+            "title": "Adding maps to your app",
+            "link": "https://www.gfrigerio.com/adding-maps-to-your-app/",
+            "updated": 1548657043,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=110",
+            "title": "Ad Hoc distribution",
+            "link": "https://www.gfrigerio.com/ad-hoc-distribution/",
+            "updated": 1548384474,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=91",
+            "title": "BeatsX vs AirPods",
+            "link": "https://www.gfrigerio.com/beatsx-vs-airpods/",
+            "updated": 1548128774,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        },
+        {
+            "id": "http://www.gfrigerio.com/?p=53",
+            "title": "Apple Push Notifications",
+            "link": "https://www.gfrigerio.com/apple-push-notifications/",
+            "updated": 1548059602,
+            "site_name": "Gualtiero Frigerio\u2019s Blog"
+        }
+    ]
+}

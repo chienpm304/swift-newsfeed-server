@@ -1,0 +1,285 @@
+{
+    "updated": 1714470915,
+    "posts": [
+        {
+            "id": "https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously",
+            "title": "Take those Let\u2019s Encrypt \u201cExpiry Bot\u201d notifications seriously",
+            "link": "https://pietrorea.com/2024/04/25/take-those-lets-encrypt-expiry-bot-notifications-seriously?utm_source=rss&utm_medium=rss",
+            "updated": 1713978000,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures",
+            "title": "The build/operate trade-off in engineering cultures",
+            "link": "https://pietrorea.com/2024/01/19/the-build-operate-trade-off-in-engineering-cultures?utm_source=rss&utm_medium=rss",
+            "updated": 1705597200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2024/01/14/llm-explorations-1-running-llama-2-locally-using-llama-cpp",
+            "title": "LLM explorations #1: Running LLaMA 2 locally using llama.cpp",
+            "link": "https://pietrorea.com/2024/01/14/llm-explorations-1-running-llama-2-locally-using-llama-cpp?utm_source=rss&utm_medium=rss",
+            "updated": 1705165200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2024/01/07/2023-in-review",
+            "title": "2023 in review",
+            "link": "https://pietrorea.com/2024/01/07/2023-in-review?utm_source=rss&utm_medium=rss",
+            "updated": 1704560400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/12/30/books-i-read-in-2023",
+            "title": "Books I read in 2023",
+            "link": "https://pietrorea.com/2023/12/30/books-i-read-in-2023?utm_source=rss&utm_medium=rss",
+            "updated": 1703869200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/12/28/milhouse-icon-deprecated",
+            "title": "Milhouse icon deprecated",
+            "link": "https://pietrorea.com/2023/12/28/milhouse-icon-deprecated?utm_source=rss&utm_medium=rss",
+            "updated": 1703696400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/12/04/my-apple-watch-life",
+            "title": "My Apple Watch life",
+            "link": "https://pietrorea.com/2023/12/04/my-apple-watch-life?utm_source=rss&utm_medium=rss",
+            "updated": 1701622800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/09/09/the-sso-tax",
+            "title": "The SSO tax",
+            "link": "https://pietrorea.com/2023/09/09/the-sso-tax?utm_source=rss&utm_medium=rss",
+            "updated": 1694192400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/09/06/traveling-from-nova-to-nyc",
+            "title": "Traveling from NOVA to NYC",
+            "link": "https://pietrorea.com/2023/09/06/traveling-from-nova-to-nyc?utm_source=rss&utm_medium=rss",
+            "updated": 1693933200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/08/25/regus-coworking",
+            "title": "Regus Coworking",
+            "link": "https://pietrorea.com/2023/08/25/regus-coworking?utm_source=rss&utm_medium=rss",
+            "updated": 1692896400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/07/21/will-swiftdata-fix-core-datas-marketing-problem",
+            "title": "Will SwiftData fix Core Data\u2019s marketing problem?",
+            "link": "https://pietrorea.com/2023/07/21/will-swiftdata-fix-core-datas-marketing-problem?utm_source=rss&utm_medium=rss",
+            "updated": 1689872400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/05/19/notes-on-the-managers-path-by-camille-fournier",
+            "title": "Notes on \u201cThe Manager\u2019s Path\u201d by Camille Fournier",
+            "link": "https://pietrorea.com/2023/05/19/notes-on-the-managers-path-by-camille-fournier?utm_source=rss&utm_medium=rss",
+            "updated": 1684429200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/04/22/open-source-your-old-projects",
+            "title": "Open source your old projects",
+            "link": "https://pietrorea.com/2023/04/22/open-source-your-old-projects?utm_source=rss&utm_medium=rss",
+            "updated": 1682096400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/03/18/github-copilot-for-business",
+            "title": "GitHub Copilot for Business",
+            "link": "https://pietrorea.com/2023/03/18/github-copilot-for-business?utm_source=rss&utm_medium=rss",
+            "updated": 1679072400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/02/16/new-writing-setup-gatsby-js-and-wordpress-as-a-headless-cms",
+            "title": "New writing setup: Gatsby.js and WordPress as a headless CMS",
+            "link": "https://pietrorea.com/2023/02/16/new-writing-setup-gatsby-js-and-wordpress-as-a-headless-cms?utm_source=rss&utm_medium=rss",
+            "updated": 1676480400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/02/03/meadow-raises-a-3-5m-seed-round",
+            "title": "Meadow raises a $3.5M seed round",
+            "link": "https://pietrorea.com/2023/02/03/meadow-raises-a-3-5m-seed-round?utm_source=rss&utm_medium=rss",
+            "updated": 1675357200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2023/01/07/4-years-of-blogging-on-gatsby-js",
+            "title": "4 years of blogging on Gatsby.js, a retro",
+            "link": "https://pietrorea.com/2023/01/07/4-years-of-blogging-on-gatsby-js?utm_source=rss&utm_medium=rss",
+            "updated": 1673024400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2022/09/08/taking-notes-with-bbedit-14-and-a-private-git-server",
+            "title": "Taking notes with BBEdit 14, Working Copy and a self-hosted git repo",
+            "link": "https://pietrorea.com/2022/09/08/taking-notes-with-bbedit-14-and-a-private-git-server?utm_source=rss&utm_medium=rss",
+            "updated": 1662570000,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration",
+            "title": "Reclaiming the lost art of Linux server administration",
+            "link": "https://pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration?utm_source=rss&utm_medium=rss",
+            "updated": 1643302800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2021/10/22/filter-emails-by-the-list-unsubscribe-header",
+            "title": "Filtering emails by the List-Unsubscribe header in Fastmail",
+            "link": "https://pietrorea.com/2021/10/22/filter-emails-by-the-list-unsubscribe-header?utm_source=rss&utm_medium=rss",
+            "updated": 1634835600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2021/04/21/announcing-ios-app-distribution-and-best-practices-first-edition",
+            "title": "Announcing \u201ciOS App Distribution & Best Practices\u201d, First Edition",
+            "link": "https://pietrorea.com/2021/04/21/announcing-ios-app-distribution-and-best-practices-first-edition?utm_source=rss&utm_medium=rss",
+            "updated": 1618938000,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2021/04/04/no-more-magic",
+            "title": "No more magic",
+            "link": "https://pietrorea.com/2021/04/04/no-more-magic?utm_source=rss&utm_medium=rss",
+            "updated": 1617469200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/12/13/debugging-how-you-think-about-code-signing",
+            "title": "Debugging how you think about code signing",
+            "link": "https://pietrorea.com/2020/12/13/debugging-how-you-think-about-code-signing?utm_source=rss&utm_medium=rss",
+            "updated": 1607792400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/11/24/core-data-by-tutorials-8th-edition",
+            "title": "Core Data by Tutorials 8th Edition",
+            "link": "https://pietrorea.com/2020/11/24/core-data-by-tutorials-8th-edition?utm_source=rss&utm_medium=rss",
+            "updated": 1606150800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/08/18/coming-soon-publishing-to-the-app-store-book",
+            "title": "Coming Soon: \u201ciOS App Distribution & Best Practices\u201d Book",
+            "link": "https://pietrorea.com/2020/08/18/coming-soon-publishing-to-the-app-store-book?utm_source=rss&utm_medium=rss",
+            "updated": 1597683600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/07/31/deleting-derived-data-with-automator",
+            "title": "Deleting Derived Data with Automator",
+            "link": "https://pietrorea.com/2020/07/31/deleting-derived-data-with-automator?utm_source=rss&utm_medium=rss",
+            "updated": 1596128400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/07/12/saying-goodbye-to-upside",
+            "title": "Saying Goodbye to Upside",
+            "link": "https://pietrorea.com/2020/07/12/saying-goodbye-to-upside?utm_source=rss&utm_medium=rss",
+            "updated": 1594486800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/03/30/vs-code-insiders-settings-sync",
+            "title": "VS Code Insiders & Settings Sync",
+            "link": "https://pietrorea.com/2020/03/30/vs-code-insiders-settings-sync?utm_source=rss&utm_medium=rss",
+            "updated": 1585501200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2020/03/24/try-out-net-newswire-5",
+            "title": "Try out NetNewsWire 5",
+            "link": "https://pietrorea.com/2020/03/24/try-out-net-newswire-5?utm_source=rss&utm_medium=rss",
+            "updated": 1584982800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2018/12/10/my-favorite-bug-of-2018",
+            "title": "My favorite bug of 2018",
+            "link": "https://pietrorea.com/2018/12/10/my-favorite-bug-of-2018?utm_source=rss&utm_medium=rss",
+            "updated": 1544374800,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2018/05/31/new-blogging-platform-gatsby-js",
+            "title": "New Blogging Platform: Gatsby.js",
+            "link": "https://pietrorea.com/2018/05/31/new-blogging-platform-gatsby-js?utm_source=rss&utm_medium=rss",
+            "updated": 1527699600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2017/11/28/99-reddits-for-ios-v283-is-out",
+            "title": "99 [r]eddits v2.8.3 is now available",
+            "link": "https://pietrorea.com/2017/11/28/99-reddits-for-ios-v283-is-out?utm_source=rss&utm_medium=rss",
+            "updated": 1511802000,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2017/11/18/radar-uitoolbar-pinned-to-bottom-of-the-safe-area-broken-on-iphone-x",
+            "title": "Radar: UIToolBar pinned to bottom of the safe area broken on iPhone X",
+            "link": "https://pietrorea.com/2017/11/18/radar-uitoolbar-pinned-to-bottom-of-the-safe-area-broken-on-iphone-x?utm_source=rss&utm_medium=rss",
+            "updated": 1510938000,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2017/10/12/core-data-by-tutorials-fourth-edition-updated-for-swift-4-ios-11-and-xcode-9",
+            "title": "Core Data by Tutorials (Fourth Edition) Now Available",
+            "link": "https://pietrorea.com/2017/10/12/core-data-by-tutorials-fourth-edition-updated-for-swift-4-ios-11-and-xcode-9?utm_source=rss&utm_medium=rss",
+            "updated": 1507741200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2016/08/19/no-man-is-an-island",
+            "title": "\u201cNo Man Is an Island\u201d or \u201cBuilding Complex Systems at Sweetpea\u201d",
+            "link": "https://pietrorea.com/2016/08/19/no-man-is-an-island?utm_source=rss&utm_medium=rss",
+            "updated": 1471539600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2016/07/25/starting-a-new-journey",
+            "title": "Starting a New Journey",
+            "link": "https://pietrorea.com/2016/07/25/starting-a-new-journey?utm_source=rss&utm_medium=rss",
+            "updated": 1469379600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2015/11/08/tools-of-the-trade-for-ios-development",
+            "title": "Tools of the Trade for iOS Development",
+            "link": "https://pietrorea.com/2015/11/08/tools-of-the-trade-for-ios-development?utm_source=rss&utm_medium=rss",
+            "updated": 1446915600,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2014/10/31/core-data-by-tutorials-updated-for-xcode-61",
+            "title": "Core Data by Tutorials updated for Xcode 6.1",
+            "link": "https://pietrorea.com/2014/10/31/core-data-by-tutorials-updated-for-xcode-61?utm_source=rss&utm_medium=rss",
+            "updated": 1414688400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2014/10/16/core-data-by-tutorials-now-available",
+            "title": "Core Data by Tutorials Now Available",
+            "link": "https://pietrorea.com/2014/10/16/core-data-by-tutorials-now-available?utm_source=rss&utm_medium=rss",
+            "updated": 1413392400,
+            "site_name": "Pietro Rea\u2019s Blog"
+        },
+        {
+            "id": "https://pietrorea.com/2014/07/25/a-strategy-of-great-work",
+            "title": "WWDC 2014: A Strategy of Great Work",
+            "link": "https://pietrorea.com/2014/07/25/a-strategy-of-great-work?utm_source=rss&utm_medium=rss",
+            "updated": 1406221200,
+            "site_name": "Pietro Rea\u2019s Blog"
+        }
+    ]
+}

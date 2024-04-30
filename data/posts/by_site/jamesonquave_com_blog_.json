@@ -1,0 +1,61 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://jamesonquave.com/blog/?p=2730",
+            "title": "Goodbye Twitter, Hello RSS",
+            "link": "https://jamesonquave.com/blog/goodbye-twitter-hello-rss/",
+            "updated": 1671562309,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "https://jamesonquave.com/blog/?p=2599",
+            "title": "Tutorial: Night Mode Support in iOS 13 and Swift 5",
+            "link": "https://jamesonquave.com/blog/tutorial-night-mode-support-in-ios-13-and-swift-5/",
+            "updated": 1585206427,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2292",
+            "title": "ARKit Tutorial in Swift 4 for Xcode 9 using SceneKit",
+            "link": "https://jamesonquave.com/blog/arkit-tutorial-in-swift-4-for-xcode-9-using-scenekit/",
+            "updated": 1498838111,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2270",
+            "title": "Core NFC Tutorial for NFC on iOS Devices",
+            "link": "https://jamesonquave.com/blog/core-nfc-tutorial-for-nfc-on-ios-devices/",
+            "updated": 1496736368,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2265",
+            "title": "ARKit on iOS 11",
+            "link": "https://jamesonquave.com/blog/arkit-on-ios-11/",
+            "updated": 1496664946,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2261",
+            "title": "Core ML for iOS Apps in iOS 11",
+            "link": "https://jamesonquave.com/blog/core-ml-for-ios-apps-in-ios-11/",
+            "updated": 1496664452,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2247",
+            "title": "Caffe2 on iOS \u2013 Deep Learning Tutorial",
+            "link": "https://jamesonquave.com/blog/caffe2-on-ios-deep-learning-tutorial/",
+            "updated": 1492868730,
+            "site_name": "Jameson Quave\u2019s Blog"
+        },
+        {
+            "id": "http://jamesonquave.com/blog/?p=2138",
+            "title": "Swift 3 Tutorial \u2013 Fundamentals",
+            "link": "https://jamesonquave.com/blog/swift-3-tutorial-fundamentals/",
+            "updated": 1479758280,
+            "site_name": "Jameson Quave\u2019s Blog"
+        }
+    ]
+}

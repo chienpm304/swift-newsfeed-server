@@ -1,0 +1,131 @@
+{
+    "updated": 1714470898,
+    "posts": [
+        {
+            "id": "https://nonstrict.eu/blog/2024/request-and-check-for-local-network-permission",
+            "title": "Request and check local network permission on iOS and visionOS",
+            "link": "https://nonstrict.eu/blog/2024/request-and-check-for-local-network-permission",
+            "updated": 1711688400,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2024/launching-bezel-for-vision",
+            "title": "Launching Bezel for Apple Vision Pro",
+            "link": "https://nonstrict.eu/blog/2024/launching-bezel-for-vision",
+            "updated": 1706850000,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/darwin-notifications-app-extensions",
+            "title": "Using Darwin Notifications to communicate with App Extensions",
+            "link": "https://nonstrict.eu/blog/2023/darwin-notifications-app-extensions",
+            "updated": 1702270800,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/transferable-drag-drop-fails-with-only-FileRepresentation",
+            "title": "Transferable drag & drop with only a FileRepresentation not working on macOS",
+            "link": "https://nonstrict.eu/blog/2023/transferable-drag-drop-fails-with-only-FileRepresentation",
+            "updated": 1702011600,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/incorrect-output-when-writing-a-single-AVTimedMetadataGroup",
+            "title": "Incorrect output when writing a single AVTimedMetadataGroup",
+            "link": "https://nonstrict.eu/blog/2023/incorrect-output-when-writing-a-single-AVTimedMetadataGroup",
+            "updated": 1701666000,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/working-with-custom-metadata-in-mp4-files",
+            "title": "Working with custom metadata in mp4 files",
+            "link": "https://nonstrict.eu/blog/2023/working-with-custom-metadata-in-mp4-files",
+            "updated": 1701147600,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/stretching-an-audio-file-using-swift",
+            "title": "Stretching an audio file using Swift",
+            "link": "https://nonstrict.eu/blog/2023/stretching-an-audio-file-using-swift",
+            "updated": 1700715600,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/launching-bezel",
+            "title": "Launching Bezel",
+            "link": "https://nonstrict.eu/blog/2023/launching-bezel",
+            "updated": 1695704400,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/a-mac-tastic-indie-adventure",
+            "title": "A Mac-tastic indie adventure",
+            "link": "https://nonstrict.eu/blog/2023/a-mac-tastic-indie-adventure",
+            "updated": 1695618000,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/display-reconfigurations-on-macos",
+            "title": "Display reconfigurations on macOS",
+            "link": "https://nonstrict.eu/blog/2023/display-reconfigurations-on-macos",
+            "updated": 1688965200,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/working-with-c-callback-functions-in-swift",
+            "title": "Working with C callback functions in Swift using parameter packs",
+            "link": "https://nonstrict.eu/blog/2023/working-with-c-callback-functions-in-swift",
+            "updated": 1687842000,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/avassetwriter-leaks-segment-data",
+            "title": "AVAssetWriter leaking memory when segment data is used in Swift",
+            "link": "https://nonstrict.eu/blog/2023/avassetwriter-leaks-segment-data",
+            "updated": 1687323600,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/a-look-at-screencapturekit-on-macos-sonoma",
+            "title": "A look at ScreenCaptureKit on macOS Sonoma",
+            "link": "https://nonstrict.eu/blog/2023/a-look-at-screencapturekit-on-macos-sonoma",
+            "updated": 1686718800,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/avassetwriter-crash-when-using-CMAF",
+            "title": "AVAssetWriter crash creating CMAF compliant segments",
+            "link": "https://nonstrict.eu/blog/2023/avassetwriter-crash-when-using-CMAF",
+            "updated": 1685077200,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/mentioning-scstreamerror-crashes-on-older-macos-versions",
+            "title": "Mentioning SCStreamError crashes on older macOS versions",
+            "link": "https://nonstrict.eu/blog/2023/mentioning-scstreamerror-crashes-on-older-macos-versions",
+            "updated": 1678683600,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/recording-to-disk-with-screencapturekit",
+            "title": "Recording to disk using ScreenCaptureKit",
+            "link": "https://nonstrict.eu/blog/2023/recording-to-disk-with-screencapturekit",
+            "updated": 1675141200,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/using-async-await-in-a-commandline-tool-on-older-macos-versions",
+            "title": "Using async/await in a commandline tool on older macOS versions",
+            "link": "https://nonstrict.eu/blog/2023/using-async-await-in-a-commandline-tool-on-older-macos-versions",
+            "updated": 1675054800,
+            "site_name": "Nonstrict Engineering Blog"
+        },
+        {
+            "id": "https://nonstrict.eu/blog/2023/recording-to-disk-with-avcapturescreeninput",
+            "title": "Recording to disk using AVCaptureScreenInput",
+            "link": "https://nonstrict.eu/blog/2023/recording-to-disk-with-avcapturescreeninput",
+            "updated": 1674968400,
+            "site_name": "Nonstrict Engineering Blog"
+        }
+    ]
+}

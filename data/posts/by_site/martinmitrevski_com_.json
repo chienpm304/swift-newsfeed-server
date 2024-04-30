@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://martinmitrevski.com/?p=2988",
+            "title": "AnyView\u2019s impact on SwiftUI performance",
+            "link": "https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/",
+            "updated": 1704187076,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2942",
+            "title": "SwiftUI performance tips",
+            "link": "https://martinmitrevski.com/2022/04/14/swiftui-performance-tips/",
+            "updated": 1649924164,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2870",
+            "title": "ML recommendation app with Create ML on iOS 15",
+            "link": "https://martinmitrevski.com/2021/07/11/ml-recommendation-app-with-create-ml-on-ios-15/",
+            "updated": 1625992707,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2840",
+            "title": "iOS vs Android development in 2020",
+            "link": "https://martinmitrevski.com/2020/09/06/ios-vs-android-development-in-2020/",
+            "updated": 1599403107,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2763",
+            "title": "SwiftUI in production",
+            "link": "https://martinmitrevski.com/2020/07/18/swiftui-in-production/",
+            "updated": 1595033850,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2625",
+            "title": "Collapsing top bar animation with SwiftUI",
+            "link": "https://martinmitrevski.com/2020/04/17/collapsing-top-bar-animation-with-swiftui/",
+            "updated": 1587121050,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2492",
+            "title": "Building smart Q&A app with CoreML, SwiftUI and Combine",
+            "link": "https://martinmitrevski.com/2019/12/20/building-smart-qa-app-with-coreml-swiftui-and-combine/",
+            "updated": 1576846338,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2458",
+            "title": "Sound classification with Create ML on iOS 13",
+            "link": "https://martinmitrevski.com/2019/12/09/sound-classification-with-create-ml-on-ios-13/",
+            "updated": 1575890849,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2416",
+            "title": "iOS design by prototyping and iterating",
+            "link": "https://martinmitrevski.com/2019/11/24/ios-design-by-prototyping-and-iterating/",
+            "updated": 1574609369,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        },
+        {
+            "id": "http://martinmitrevski.com/?p=2396",
+            "title": "Getting started with PencilKit on iOS 13",
+            "link": "https://martinmitrevski.com/2019/11/10/getting-started-with-pencilkit-on-ios-13/",
+            "updated": 1573386948,
+            "site_name": "Martin Mitrevski\u2019s Blog"
+        }
+    ]
+}

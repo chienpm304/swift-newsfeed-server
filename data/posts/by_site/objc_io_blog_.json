@@ -1,0 +1,40 @@
+{
+    "updated": 1714471071,
+    "posts": [
+        {
+            "id": "https://www.objc.io/blog/2023/09/26/thinking-in-swiftui",
+            "title": "Book Update: Thinking in SwiftUI",
+            "link": "https://www.objc.io/blog/2023/09/26/thinking-in-swiftui",
+            "updated": 1695661200,
+            "site_name": "objc.io"
+        },
+        {
+            "id": "https://www.objc.io/blog/2023/06/16/thinking-in-swiftui-update",
+            "title": "Book Update: Thinking in SwiftUI",
+            "link": "https://www.objc.io/blog/2023/06/16/thinking-in-swiftui-update",
+            "updated": 1686848400,
+            "site_name": "objc.io"
+        },
+        {
+            "id": "https://www.objc.io/blog/2023/06/12/thinking-in-swiftui-update",
+            "title": "Thinking in SwiftUI: Live Q&A",
+            "link": "https://www.objc.io/blog/2023/06/12/thinking-in-swiftui-update",
+            "updated": 1686502800,
+            "site_name": "objc.io"
+        },
+        {
+            "id": "https://www.objc.io/blog/2022/04/14/transitions",
+            "title": "Transitions in SwiftUI",
+            "link": "https://www.objc.io/blog/2022/04/14/transitions",
+            "updated": 1649869200,
+            "site_name": "objc.io"
+        },
+        {
+            "id": "https://www.objc.io/blog/2022/03/29/aspectratio",
+            "title": "Aspect Ratios in SwiftUI",
+            "link": "https://www.objc.io/blog/2022/03/29/aspectratio",
+            "updated": 1648486800,
+            "site_name": "objc.io"
+        }
+    ]
+}

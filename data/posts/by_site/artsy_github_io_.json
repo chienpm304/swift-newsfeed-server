@@ -1,0 +1,75 @@
+{
+    "updated": 1714471044,
+    "posts": [
+        {
+            "id": "https://artsy.github.io/blog/2024/03/07/nextjs-at-artsy-retrospective/",
+            "title": "Two years of Next.js at Artsy: A Retrospective",
+            "link": "https://artsy.github.io/blog/2024/03/07/nextjs-at-artsy-retrospective/",
+            "updated": 1709744400,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2023/09/13/deploying-a-scary-change/",
+            "title": "The Checklist for Deploying a Scary Change",
+            "link": "https://artsy.github.io/blog/2023/09/13/deploying-a-scary-change/",
+            "updated": 1694538000,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2023/03/01/typescript-magic/",
+            "title": "TypeScript magic",
+            "link": "https://artsy.github.io/blog/2023/03/01/typescript-magic/",
+            "updated": 1677603600,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2023/02/10/mongo-geospatial-queries/",
+            "title": "Are you using the right Mongo geospatial query?",
+            "link": "https://artsy.github.io/blog/2023/02/10/mongo-geospatial-queries/",
+            "updated": 1675962000,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/09/07/quick-tips-to-speed-up-ci/",
+            "title": "Parallelizing Jest and Cypress.io Tests on CircleCI",
+            "link": "https://artsy.github.io/blog/2022/09/07/quick-tips-to-speed-up-ci/",
+            "updated": 1662483600,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/08/23/getting-around-7-day-cookie/",
+            "title": "Hacking Around Safari's 7-day Cookie Limit",
+            "link": "https://artsy.github.io/blog/2022/08/23/getting-around-7-day-cookie/",
+            "updated": 1661187600,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/05/09/deprecating-kaws/",
+            "title": "Third Time's the Charm: Deprecating KAWS",
+            "link": "https://artsy.github.io/blog/2022/05/09/deprecating-kaws/",
+            "updated": 1652029200,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/",
+            "title": "Stepping Out Of The Knowledge Zone",
+            "link": "https://artsy.github.io/blog/2022/04/13/stepping-out-of-the-knowledge-zone/",
+            "updated": 1649782800,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/",
+            "title": "Using Context to Simplify a VERY Large React Form",
+            "link": "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/",
+            "updated": 1643648400,
+            "site_name": "Artsy Engineering Blog"
+        },
+        {
+            "id": "https://artsy.github.io/blog/2022/01/06/a-year-in-review-2021/",
+            "title": "A Year in Review: 2021",
+            "link": "https://artsy.github.io/blog/2022/01/06/a-year-in-review-2021/",
+            "updated": 1641402000,
+            "site_name": "Artsy Engineering Blog"
+        }
+    ]
+}

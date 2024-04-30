@@ -1,0 +1,26 @@
+{
+    "updated": 1714470956,
+    "posts": [
+        {
+            "id": "https://swiftandpizza.com/?p=1007",
+            "title": "Apple conference at the time of Covid-19",
+            "link": "https://swiftandpizza.com/apple-conference-at-the-time-of-covid-19/",
+            "updated": 1587964344,
+            "site_name": "Swift and Pizza"
+        },
+        {
+            "id": "https://swiftandpizza.com/?p=879",
+            "title": "Flux with SwiftUI and Combine",
+            "link": "https://swiftandpizza.com/flux-with-swiftui-and-combine/",
+            "updated": 1578567272,
+            "site_name": "Swift and Pizza"
+        },
+        {
+            "id": "http://swiftandpizza.com/?p=133",
+            "title": "Flux pattern in Swift",
+            "link": "https://swiftandpizza.com/flux-in-swift/",
+            "updated": 1569148214,
+            "site_name": "Swift and Pizza"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://nalexn.github.io/uikit-switfui/",
+            "title": "UIKit or SwiftUI: what to use in production?",
+            "link": "https://nalexn.github.io/uikit-switfui/?utm_source=rss",
+            "updated": 1601398200,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/save-your-next-app/",
+            "title": "Save your next app from rebuilding from scratch",
+            "link": "https://nalexn.github.io/save-your-next-app/?utm_source=rss",
+            "updated": 1582806600,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/stranger-things-swiftui-state/",
+            "title": "Stranger things around SwiftUI's state",
+            "link": "https://nalexn.github.io/stranger-things-swiftui-state/?utm_source=rss",
+            "updated": 1582169400,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://github.com/nalexn/EnvironmentOverrides",
+            "title": "SwiftUI Environment Overrides",
+            "link": "https://github.com/nalexn/EnvironmentOverrides",
+            "updated": 1581593400,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/separation-of-concerns/",
+            "title": "Separation of Concerns in Software Design",
+            "link": "https://nalexn.github.io/separation-of-concerns/?utm_source=rss",
+            "updated": 1579138200,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/swiftui-observableobject/",
+            "title": "Why I quit using the ObservableObject in SwiftUI",
+            "link": "https://nalexn.github.io/swiftui-observableobject/?utm_source=rss",
+            "updated": 1576805400,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/anyview-vs-group/",
+            "title": "Performance Battle: AnyView vs Group",
+            "link": "https://nalexn.github.io/anyview-vs-group/?utm_source=rss",
+            "updated": 1575509400,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/swiftui-unit-testing/",
+            "title": "Who said we cannot unit test SwiftUI views?",
+            "link": "https://nalexn.github.io/swiftui-unit-testing/?utm_source=rss",
+            "updated": 1574299800,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/swiftui-deep-linking/",
+            "title": "Programmatic navigation in SwiftUI project",
+            "link": "https://nalexn.github.io/swiftui-deep-linking/?utm_source=rss",
+            "updated": 1573176600,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/clean-architecture-swiftui/",
+            "title": "Clean Architecture for SwiftUI",
+            "link": "https://nalexn.github.io/clean-architecture-swiftui/?utm_source=rss",
+            "updated": 1572831000,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/cancelbag-for-combine/",
+            "title": "Variadic DisposeBag for Combine subscriptions",
+            "link": "https://nalexn.github.io/cancelbag-for-combine/?utm_source=rss",
+            "updated": 1570152600,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/mvvm-state-redundancy/",
+            "title": "Fighting state redundancy in Model-View-ViewModel",
+            "link": "https://nalexn.github.io/mvvm-state-redundancy/?utm_source=rss",
+            "updated": 1569720600,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/state-management-guide-ios/",
+            "title": "The Complete Guide to the State Management in iOS",
+            "link": "https://nalexn.github.io/state-management-guide-ios/?utm_source=rss",
+            "updated": 1566523800,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/callbacks-part-3-promise-event-stream/",
+            "title": "Callbacks, Part 3: Promise, Event, and Stream (Functional Reactive Programming)",
+            "link": "https://nalexn.github.io/callbacks-part-3-promise-event-stream/?utm_source=rss",
+            "updated": 1523496600,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/callbacks-part-2-closure-target-action/",
+            "title": "Callbacks, Part 2: Closure, Target-Action, and Responder chain",
+            "link": "https://nalexn.github.io/callbacks-part-2-closure-target-action-responder-chain/?utm_source=rss",
+            "updated": 1518053400,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/callbacks-part-1-delegation-notificationcenter-kvo/",
+            "title": "Callbacks, Part 1: Delegate, NotificationCenter, and KVO",
+            "link": "https://nalexn.github.io/callbacks-part-1-delegation-notificationcenter-kvo/?utm_source=rss",
+            "updated": 1517103000,
+            "site_url": "https://nalexn.github.io"
+        },
+        {
+            "id": "https://nalexn.github.io/to_log_or_not_to_log/",
+            "title": "To log, or not to log?",
+            "link": "https://nalexn.github.io/to_log_or_not_to_log/?utm_source=rss",
+            "updated": 1515893400,
+            "site_url": "https://nalexn.github.io"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/",
+            "title": "Platform-Specific Release Notes with Xcode Cloud",
+            "link": "https://finnvoorhees.com/words/platform-specific-release-notes-with-xcode-cloud/",
+            "updated": 1704733200,
+            "site_name": "Finn Voorhees' Blog"
+        },
+        {
+            "id": "https://finnvoorhees.com/words/reading-and-writing-spatial-photos-with-image-io/",
+            "title": "Reading and Writing Spatial Photos with Image I/O",
+            "link": "https://finnvoorhees.com/words/reading-and-writing-spatial-photos-with-image-io/",
+            "updated": 1705770000,
+            "site_name": "Finn Voorhees' Blog"
+        },
+        {
+            "id": "https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/",
+            "title": "Reading and Writing Spatial Video with AVFoundation",
+            "link": "https://finnvoorhees.com/words/reading-and-writing-spatial-video-with-avfoundation/",
+            "updated": 1704042000,
+            "site_name": "Finn Voorhees' Blog"
+        },
+        {
+            "id": "https://finnvoorhees.com/words/subscribing-to-swiftdata-changes-outside-swiftui/",
+            "title": "Subscribing to SwiftData changes outside SwiftUI",
+            "link": "https://finnvoorhees.com/words/subscribing-to-swiftdata-changes-outside-swiftui/",
+            "updated": 1714237200,
+            "site_name": "Finn Voorhees' Blog"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470903,
+    "posts": [
+        {
+            "id": "https://medium.com/p/1fecfeba4f29",
+            "title": "Simplifying Swift Timers: solving memory leaks & complexity once and for all",
+            "link": "https://olegdreyman.medium.com/simplifying-swift-timers-solving-memory-leaks-complexity-once-and-for-all-1fecfeba4f29?source=rss-7872af0bbed1------2",
+            "updated": 1689743126,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/b385ba5fafe2",
+            "title": "Building a reusable system for complex URL requests with Swift",
+            "link": "https://medium.com/parable-engineering/building-a-reusable-system-for-complex-url-requests-with-swift-b385ba5fafe2?source=rss-7872af0bbed1------2",
+            "updated": 1658316698,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/2d10713ca3a",
+            "title": "Animator: easy trick to make UIKit animations reusable",
+            "link": "https://olegdreyman.medium.com/animator-easy-trick-to-make-uikit-animations-reusable-2d10713ca3a?source=rss-7872af0bbed1------2",
+            "updated": 1676088698,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/cd185ddab6dd",
+            "title": "The ultimate solution to the \u201chow on Earth do I host and show this Privacy Policy\u201d problem",
+            "link": "https://olegdreyman.medium.com/the-ultimate-solution-to-the-how-on-earth-do-i-host-and-show-this-privacy-policy-problem-cd185ddab6dd?source=rss-7872af0bbed1------2",
+            "updated": 1658245269,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/c2b2aaf6167",
+            "title": "An easier way to create dates in Swift",
+            "link": "https://olegdreyman.medium.com/an-easier-way-to-create-dates-in-swift-c2b2aaf6167?source=rss-7872af0bbed1------2",
+            "updated": 1658244867,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/67c8b73813e3",
+            "title": "Introducing ScheduledNotificationsViewController",
+            "link": "https://olegdreyman.medium.com/introducing-schedulednotificationsviewcontroller-67c8b73813e3?source=rss-7872af0bbed1------2",
+            "updated": 1655168226,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/81263766b2d9",
+            "title": "Making a beautiful, responsive UIButton in Swift",
+            "link": "https://olegdreyman.medium.com/making-a-beautiful-responsive-uibutton-in-swift-81263766b2d9?source=rss-7872af0bbed1------2",
+            "updated": 1655167910,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/bbd2fbcd9a40",
+            "title": "Keep private information out of your logs with Swift",
+            "link": "https://olegdreyman.medium.com/keep-private-information-out-of-your-logs-with-swift-bbd2fbcd9a40?source=rss-7872af0bbed1------2",
+            "updated": 1608614312,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/f2a2745cd73",
+            "title": "No more [weak self], or the weird new future of delegation",
+            "link": "https://olegdreyman.medium.com/no-more-weak-self-or-the-weird-new-future-of-delegation-f2a2745cd73?source=rss-7872af0bbed1------2",
+            "updated": 1676076179,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        },
+        {
+            "id": "https://medium.com/p/bfcda80f2b81",
+            "title": "Why so many iOS developers feel so frustrated right now",
+            "link": "https://medium.com/anysuggestion/why-so-many-ios-developers-feel-so-frustrated-right-now-bfcda80f2b81?source=rss-7872af0bbed1------2",
+            "updated": 1580401175,
+            "site_name": "Oleg Dreyman\u2019s Blog"
+        }
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://kristaps.me/blog/erc-721-escrow",
+            "title": "Understanding Escrow in ERC-721 NFT Smart Contracts",
+            "link": "https://kristaps.me/blog/erc-721-escrow",
+            "updated": 1711558800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/nested-mappings-solidity",
+            "title": "Exploring Nested Mappings in Solidity",
+            "link": "https://kristaps.me/blog/nested-mappings-solidity",
+            "updated": 1709053200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/txorigin-vs-msgsender",
+            "title": "Understanding tx.origin and msg.sender in Solidity",
+            "link": "https://kristaps.me/blog/txorigin-vs-msgsender",
+            "updated": 1704474000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-account-abstraction",
+            "title": "Understanding ERC-4337 and the Future of Ethereum User Experience: Account Abstraction",
+            "link": "https://kristaps.me/blog/solidity-account-abstraction",
+            "updated": 1698685200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-structs",
+            "title": "Structs in Solidity: Mastering Data Organization in Ethereum Smart Contracts",
+            "link": "https://kristaps.me/blog/solidity-structs",
+            "updated": 1695229200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-custom-error",
+            "title": "Beyond Default Messages: Mastering Custom Errors in Solidity",
+            "link": "https://kristaps.me/blog/solidity-custom-error",
+            "updated": 1691686800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-set",
+            "title": "Leveraging the Set Structure in Solidity",
+            "link": "https://kristaps.me/blog/solidity-set",
+            "updated": 1690218000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-map-markers",
+            "title": "Creating Interactive Maps with Custom Markers Using SwiftUI in iOS 17",
+            "link": "https://kristaps.me/blog/swiftui-map-markers",
+            "updated": 1687626000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-erc-721-a-azuki",
+            "title": "Exploring the Features and Benefits of Azuki's ERC-721A NFT Standard",
+            "link": "https://kristaps.me/blog/solidity-erc-721-a-azuki",
+            "updated": 1684083600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-verify-smart-contract-automatically",
+            "title": "Programmatically Verifying Solidity Smart Contract Code with Hardhat",
+            "link": "https://kristaps.me/blog/solidity-verify-smart-contract-automatically",
+            "updated": 1683738000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-verify-smart-contract",
+            "title": "How Hardhat Simplifies Smart Contract Verification on Ethereum",
+            "link": "https://kristaps.me/blog/solidity-verify-smart-contract",
+            "updated": 1682269200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-royalties-eip-2981",
+            "title": "Implementing the ERC-2981 NFT royalty standard with Solidity - a game-changer for creators to receive income from every sale",
+            "link": "https://kristaps.me/blog/solidity-royalties-eip-2981",
+            "updated": 1679936400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-eip-712-sign-ethers-js",
+            "title": "Understanding the Signing Process of Solidity Transactions with Ethers.js",
+            "link": "https://kristaps.me/blog/solidity-eip-712-sign-ethers-js",
+            "updated": 1677430800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-eip-712-sign-metamask",
+            "title": "What are meta transactions, the EIP-712 standard, and how to sign a message with Metamask?",
+            "link": "https://kristaps.me/blog/solidity-eip-712-sign-metamask",
+            "updated": 1674838800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-erc-721",
+            "title": "What are an NFT and the ERC-721 standard?",
+            "link": "https://kristaps.me/blog/solidity-erc-721",
+            "updated": 1672333200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-bytes",
+            "title": "How do Bytes live in Solidity and coexist with Strings?",
+            "link": "https://kristaps.me/blog/solidity-bytes",
+            "updated": 1669050000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-erc-20",
+            "title": "Exploring ERC20 fungible token standard in Solidity",
+            "link": "https://kristaps.me/blog/solidity-erc-20",
+            "updated": 1662310800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-absence-of-null",
+            "title": "Absence of null in Solidity",
+            "link": "https://kristaps.me/blog/solidity-absence-of-null",
+            "updated": 1661878800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-delegatecall-proxy-pattern",
+            "title": "Mistery revealed about delegatecall in Solidity",
+            "link": "https://kristaps.me/blog/solidity-delegatecall-proxy-pattern",
+            "updated": 1659027600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-storage-vs-memory",
+            "title": "Storage and memory secrets in Solidity",
+            "link": "https://kristaps.me/blog/solidity-storage-vs-memory",
+            "updated": 1655658000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-events",
+            "title": "How events in Solidity work, and why are they needed",
+            "link": "https://kristaps.me/blog/solidity-events",
+            "updated": 1652720400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-mapping",
+            "title": "The Story behind Mapping in Solidity",
+            "link": "https://kristaps.me/blog/solidity-mapping",
+            "updated": 1649264400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/solidity-array",
+            "title": "Mastering Arrays in Solidity",
+            "link": "https://kristaps.me/blog/solidity-array",
+            "updated": 1646067600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/visibility-and-accessibility-in-solidity",
+            "title": "Accessibility and visibility in Solidity",
+            "link": "https://kristaps.me/blog/visibility-and-accessibility-in-solidity",
+            "updated": 1643389200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swift-solidity-structure-functions",
+            "title": "Solidity for Swift developers: File Structure and Functions",
+            "link": "https://kristaps.me/blog/swift-solidity-structure-functions",
+            "updated": 1639587600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-sidebar-tabview",
+            "title": "Improve iPad sidebar navigation on the iPhone with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-sidebar-tabview",
+            "updated": 1637427600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-sidebar",
+            "title": "How Sidebar works on iPad with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-sidebar",
+            "updated": 1634662800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-three-ways-button",
+            "title": "Three brilliant ways to style button with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-three-ways-button",
+            "updated": 1632416400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-map-annotations",
+            "title": "Exploring SwiftUI map custom annotations",
+            "link": "https://kristaps.me/blog/swiftui-map-annotations",
+            "updated": 1629824400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-localization",
+            "title": "How to translate SwiftUI applications",
+            "link": "https://kristaps.me/blog/swiftui-localization",
+            "updated": 1625850000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-gridview",
+            "title": "How to master grid layout in iOS with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-gridview",
+            "updated": 1624986000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-navigationview",
+            "title": "Cracking the Navigation Bar Secrets with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-navigationview",
+            "updated": 1621875600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-tabview",
+            "title": "The hidden secrets of TabView in iOS with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-tabview",
+            "updated": 1619024400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-disclosure-group",
+            "title": "How to show and hide content with DisclosureGroup using SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-disclosure-group",
+            "updated": 1616173200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-alert",
+            "title": "How to use Alert with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-alert",
+            "updated": 1613235600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-text-in-circle",
+            "title": "How to show text inside a circle with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-text-in-circle",
+            "updated": 1611421200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-select-image-with-phpickerviewcontroller",
+            "title": "How to select images using PHPickerViewController with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-select-image-with-phpickerviewcontroller",
+            "updated": 1610125200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/background-swiftui",
+            "title": "Background Color with SwiftUI",
+            "link": "https://kristaps.me/blog/background-swiftui",
+            "updated": 1609002000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-modal-view",
+            "title": "How to deal with modal views (a.k.a. sheets) with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-modal-view",
+            "updated": 1605978000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-launch-screen",
+            "title": "Launch Screen with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-launch-screen",
+            "updated": 1604077200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/custom-font-dynamic-type",
+            "title": "Use Custom Font with Dynamic Type in iOS apps",
+            "link": "https://kristaps.me/blog/custom-font-dynamic-type",
+            "updated": 1601053200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/swiftui-mapview",
+            "title": "Mapview with SwiftUI",
+            "link": "https://kristaps.me/blog/swiftui-mapview",
+            "updated": 1595782800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/embracing-dynamic-type",
+            "title": "Embracing the Dynamic Type",
+            "link": "https://kristaps.me/blog/embracing-dynamic-type",
+            "updated": 1590080400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/different-flavors-of-websockets-vapor",
+            "title": "Different flavors of WebSockets on Vapor with Swift",
+            "link": "https://kristaps.me/blog/different-flavors-of-websockets-vapor",
+            "updated": 1587574800,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/nstimer-vs-cadisplaylink",
+            "title": "NSTimer vs CADisplayLink",
+            "link": "https://kristaps.me/blog/nstimer-vs-cadisplaylink",
+            "updated": 1585242000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/clearing-subscriptions",
+            "title": "Clearing up after subscribing to Swift WebSockets",
+            "link": "https://kristaps.me/blog/clearing-subscriptions",
+            "updated": 1582563600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/ignorance-of-cache",
+            "title": "Ignorance of the URLRequest cache",
+            "link": "https://kristaps.me/blog/ignorance-of-cache",
+            "updated": 1579280400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/graphql-advances-with-swift",
+            "title": "GraphQL Advances when fetching data in iOS with Swift and Apollo SDK",
+            "link": "https://kristaps.me/blog/graphql-advances-with-swift",
+            "updated": 1577379600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/graphql-subscriptions",
+            "title": "How to use subscriptions with GraphQL using Apollo iOS SDK and Swift",
+            "link": "https://kristaps.me/blog/graphql-subscriptions",
+            "updated": 1574701200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/apple-passkit",
+            "title": "What is PassKit and how to use it?",
+            "link": "https://kristaps.me/blog/apple-passkit",
+            "updated": 1571504400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/dark-side-appstore",
+            "title": "Dark Side of the App Store",
+            "link": "https://kristaps.me/blog/dark-side-appstore",
+            "updated": 1569344400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/graphql-ios-swift",
+            "title": "Using GraphQL in iOS with Swift",
+            "link": "https://kristaps.me/blog/graphql-ios-swift",
+            "updated": 1566925200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/websockets-ios-13-swift",
+            "title": "Websockets in iOS 13 using Swift and Xcode 11",
+            "link": "https://kristaps.me/blog/websockets-ios-13-swift",
+            "updated": 1563901200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/wwdc-2019",
+            "title": "WWDC 2019",
+            "link": "https://kristaps.me/blog/wwdc-2019",
+            "updated": 1561482000,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/uiview-vs-calayer",
+            "title": "UIView vs CALayer",
+            "link": "https://kristaps.me/blog/uiview-vs-calayer",
+            "updated": 1556816400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/what-is-animation-core-animation",
+            "title": "What is (Core) Animation",
+            "link": "https://kristaps.me/blog/what-is-animation-core-animation",
+            "updated": 1553619600,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/animating-shapes-in-ios",
+            "title": "Animating shapes in iOS",
+            "link": "https://kristaps.me/blog/animating-shapes-in-ios",
+            "updated": 1549904400,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        },
+        {
+            "id": "https://kristaps.me/blog/websockets-swift",
+            "title": "Websockets in iOS using Swift",
+            "link": "https://kristaps.me/blog/websockets-swift",
+            "updated": 1546621200,
+            "site_name": "Kristaps Grinbergs\u2019s Blog"
+        }
+    ]
+}

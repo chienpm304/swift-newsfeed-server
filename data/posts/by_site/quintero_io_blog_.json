@@ -1,0 +1,26 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://quintero.io/blog/Graphaello",
+            "title": "SwiftUI + GraphQL = \ud83d\ude0d\ud83d\ude80\ud83d\ude4c",
+            "link": "https://quintero.io/blog/Graphaello",
+            "updated": 1609866000,
+            "site_name": "Mathias Quintero's Blog"
+        },
+        {
+            "id": "https://quintero.io/blog/Kintsugi",
+            "title": "Kintsugi: The Art of the Anti-Pattern",
+            "link": "https://quintero.io/blog/Kintsugi",
+            "updated": 1548867600,
+            "site_name": "Mathias Quintero's Blog"
+        },
+        {
+            "id": "https://quintero.io/blog/FizzBuzz",
+            "title": "FizzBuzz: How To Overengineer the Coding Interview",
+            "link": "https://quintero.io/blog/FizzBuzz",
+            "updated": 1501779600,
+            "site_name": "Mathias Quintero's Blog"
+        }
+    ]
+}

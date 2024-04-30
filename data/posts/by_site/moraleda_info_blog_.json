@@ -1,0 +1,54 @@
+{
+    "updated": 1714470889,
+    "posts": [
+        {
+            "id": "http://moraleda.info/2021/08/03/masking-out-text-in-swiftui",
+            "title": "Masking out text in SwiftUI",
+            "link": "http://moraleda.info/2021/08/03/masking-out-text-in-swiftui/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2021/07/27/github-actions",
+            "title": "Build and deploy a Jekyll site using GitHub Actions",
+            "link": "http://moraleda.info/2021/07/27/github-actions/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2021/02/19/localization",
+            "title": "iOS - Localizing strings in a project",
+            "link": "http://moraleda.info/2021/02/19/localization/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2020/11/17/baby-watch",
+            "title": "SwiftUI in the Apple Watch - Baby Colors",
+            "link": "http://moraleda.info/2020/11/17/baby-watch/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2020/10/08/how-to-be-a-good-developer",
+            "title": "How to be a good developer",
+            "link": "http://moraleda.info/2020/10/08/how-to-be-a-good-developer/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2020/09/30/branching-model",
+            "title": "\ud83c\udf33 Branching Model for iOS development. Continuous Integration with\u00a0Bitrise",
+            "link": "http://moraleda.info/2020/09/30/branching-model/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        },
+        {
+            "id": "http://moraleda.info/2020/09/25/xcode-dynamic-icons",
+            "title": "Dynamic App icon generation with Xcode",
+            "link": "http://moraleda.info/2020/09/25/xcode-dynamic-icons/",
+            "updated": 1655531495,
+            "site_name": "moraleda.info"
+        }
+    ]
+}

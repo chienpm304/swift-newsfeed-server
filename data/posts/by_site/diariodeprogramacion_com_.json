@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://diariodeprogramacion.com/2021/10/20/about-phantom-types.html",
+            "title": "About Phantom Types",
+            "link": "http://diariodeprogramacion.com/2021/10/20/about-phantom-types.html",
+            "updated": 1634662800,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2021/02/27/about-arithmetic-expressions.html",
+            "title": "About Arithmetic Expressions",
+            "link": "http://diariodeprogramacion.com/2021/02/27/about-arithmetic-expressions.html",
+            "updated": 1614358800,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/06/13/highly-composable-validators.html",
+            "title": "Highly Composable Validators",
+            "link": "http://diariodeprogramacion.com/2020/06/13/highly-composable-validators.html",
+            "updated": 1591981200,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/05/08/copying-objects-in-swift.html",
+            "title": "Copying objects in Swift",
+            "link": "http://diariodeprogramacion.com/2020/05/08/copying-objects-in-swift.html",
+            "updated": 1588870800,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/26/ios-at-scale-step11-conclusions.html",
+            "title": "Xcode at scale - Final conclusions",
+            "link": "http://diariodeprogramacion.com/2020/04/26/ios-at-scale-step11-conclusions.html",
+            "updated": 1587834000,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/25/ios-at-scale-step10-refactor-promises.html",
+            "title": "Xcode at scale - Introducing to promises 2 - Refactor to use them",
+            "link": "http://diariodeprogramacion.com/2020/04/25/ios-at-scale-step10-refactor-promises.html",
+            "updated": 1587747600,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/24/ios-at-scale-step9-introduce-promises.html",
+            "title": "Xcode at scale - Introducing to Promises - Creating our own framework",
+            "link": "http://diariodeprogramacion.com/2020/04/24/ios-at-scale-step9-introduce-promises.html",
+            "updated": 1587661200,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/23/ios-at-scale-step8-cache-made-easy.html",
+            "title": "Xcode at scale - Cache made easy",
+            "link": "http://diariodeprogramacion.com/2020/04/23/ios-at-scale-step8-cache-made-easy.html",
+            "updated": 1587574800,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/22/ios-at-scale-step7-dependency-injection.html",
+            "title": "Xcode at scale - Dependency Injection - flexible and composable",
+            "link": "http://diariodeprogramacion.com/2020/04/22/ios-at-scale-step7-dependency-injection.html",
+            "updated": 1587488400,
+            "site_name": "Julian Alonso's Blog"
+        },
+        {
+            "id": "http://diariodeprogramacion.com/2020/04/21/ios-at-scale-step6-app-core-module.html",
+            "title": "Xcode at scale - Refactor AppCore - we really need it?",
+            "link": "http://diariodeprogramacion.com/2020/04/21/ios-at-scale-step6-app-core-module.html",
+            "updated": 1587402000,
+            "site_name": "Julian Alonso's Blog"
+        }
+    ]
+}

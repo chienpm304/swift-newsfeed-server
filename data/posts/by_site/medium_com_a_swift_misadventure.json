@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://medium.com/p/98e200902fe9",
+            "title": "Mastering the iOS Interview",
+            "link": "https://medium.com/a-swift-misadventure/mastering-the-ios-interview-98e200902fe9?source=rss----7270030b88d6---4",
+            "updated": 1610612724,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/a2836387e57f",
+            "title": "How to Install Multiple Versions of Xcode on the Same macOS Machine",
+            "link": "https://medium.com/a-swift-misadventure/how-to-install-multiple-versions-of-xcode-on-the-same-macos-machine-a2836387e57f?source=rss----7270030b88d6---4",
+            "updated": 1605106942,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/752497f06073",
+            "title": "Expose Init Parameters and Dependencies in Swift and iOS Please",
+            "link": "https://medium.com/a-swift-misadventure/expose-init-parameters-and-dependencies-in-swift-and-ios-please-752497f06073?source=rss----7270030b88d6---4",
+            "updated": 1602149266,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/904142fdbd6b",
+            "title": "Introducing Swift Action Delegate pattern Part 2",
+            "link": "https://medium.com/a-swift-misadventure/introducing-swift-action-delegate-pattern-part-2-904142fdbd6b?source=rss----7270030b88d6---4",
+            "updated": 1493186819,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/9482c6809583",
+            "title": "Why Swift protocol conforming values are treated as Value types by default?",
+            "link": "https://medium.com/a-swift-misadventure/why-swift-protocol-conforming-values-are-treated-as-value-types-by-default-9482c6809583?source=rss----7270030b88d6---4",
+            "updated": 1490578620,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/c2e6a7d4880",
+            "title": "Introducing Swift Action Delegate pattern Part 1",
+            "link": "https://medium.com/a-swift-misadventure/introducing-swift-action-delegate-pattern-c2e6a7d4880?source=rss----7270030b88d6---4",
+            "updated": 1493186726,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/201ed8ca0124",
+            "title": "How to use Xcode to write Swift code on a remote Linux machine",
+            "link": "https://medium.com/a-swift-misadventure/how-to-use-xcode-to-write-swift-code-on-a-remote-linux-machine-201ed8ca0124?source=rss----7270030b88d6---4",
+            "updated": 1470885783,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/9e3eaad32c01",
+            "title": "How to setup your Raspberry Pi 2/3 with Ubuntu 16.04, without cables (headlessly)",
+            "link": "https://medium.com/a-swift-misadventure/how-to-setup-your-raspberry-pi-2-3-with-ubuntu-16-04-without-cables-headlessly-9e3eaad32c01?source=rss----7270030b88d6---4",
+            "updated": 1493088177,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/f31e33c3cb9a",
+            "title": "Using Swift to control the Raspberry Pi GPIO pins and turn an LED on",
+            "link": "https://medium.com/a-swift-misadventure/using-swift-to-control-the-raspberry-pi-gpio-pins-and-turn-an-led-on-f31e33c3cb9a?source=rss----7270030b88d6---4",
+            "updated": 1470205082,
+            "site_name": "A Swift Misadventure"
+        },
+        {
+            "id": "https://medium.com/p/3e857fa995d9",
+            "title": "Installing Swift 3.0 preview on a Raspberry Pi 2/3 with Raspbian",
+            "link": "https://medium.com/a-swift-misadventure/installing-swift-3-0-preview-on-a-raspberry-pi-2-3-with-raspbian-3e857fa995d9?source=rss----7270030b88d6---4",
+            "updated": 1491487437,
+            "site_name": "A Swift Misadventure"
+        }
+    ]
+}

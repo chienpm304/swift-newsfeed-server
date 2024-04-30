@@ -1,0 +1,75 @@
+{
+    "updated": 1714470948,
+    "posts": [
+        {
+            "id": "https://blog.skagedal.tech/2023/11/13/miniflux.html",
+            "title": "Miniflux",
+            "link": "https://blog.skagedal.tech/2023/11/13/miniflux.html",
+            "updated": 1699808400,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/28/end-of-daily-blogging.html",
+            "title": "End of daily blogging",
+            "link": "https://blog.skagedal.tech/2023/02/28/end-of-daily-blogging.html",
+            "updated": 1677517200,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/27/generating-client.html",
+            "title": "Failing at configuring CORS",
+            "link": "https://blog.skagedal.tech/2023/02/27/generating-client.html",
+            "updated": 1677430800,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/26/adding-openapi.html",
+            "title": "Adding an OpenAPI spec",
+            "link": "https://blog.skagedal.tech/2023/02/26/adding-openapi.html",
+            "updated": 1677344400,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/25/changing-names.html",
+            "title": "Achieving is now tracking",
+            "link": "https://blog.skagedal.tech/2023/02/25/changing-names.html",
+            "updated": 1677258000,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/24/finishing-apis.html",
+            "title": "Finalize API:s to track habits",
+            "link": "https://blog.skagedal.tech/2023/02/24/finishing-apis.html",
+            "updated": 1677171600,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/23/finish-up-the-api.html",
+            "title": "Adding tests for the API:s to track habits",
+            "link": "https://blog.skagedal.tech/2023/02/23/finish-up-the-api.html",
+            "updated": 1677085200,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/22/continue-adding-apis.html",
+            "title": "HTTP clients for testing! Which one?",
+            "link": "https://blog.skagedal.tech/2023/02/22/continue-adding-apis.html",
+            "updated": 1676998800,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/21/adding-apis.html",
+            "title": "Let's start looking at API:s",
+            "link": "https://blog.skagedal.tech/2023/02/21/adding-apis.html",
+            "updated": 1676912400,
+            "site_name": "skagedal\u2019s oboy"
+        },
+        {
+            "id": "https://blog.skagedal.tech/2023/02/20/more-html-unit.html",
+            "title": "More HTML unit",
+            "link": "https://blog.skagedal.tech/2023/02/20/more-html-unit.html",
+            "updated": 1676826000,
+            "site_name": "skagedal\u2019s oboy"
+        }
+    ]
+}

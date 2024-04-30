@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui",
+            "title": "Content margins in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui/",
+            "updated": 1713805200,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui",
+            "title": "Deep linking for local notifications in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui/",
+            "updated": 1712595600,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui",
+            "title": "Trigger value pattern in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/",
+            "updated": 1711990800,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/03/26/building-async-button-in-swiftui",
+            "title": "Building async button in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/03/26/building-async-button-in-swiftui/",
+            "updated": 1711386000,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function",
+            "title": "Where Swift Concurrency will run your function?",
+            "link": "https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function/",
+            "updated": 1710867600,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/03/12/global-actors-in-swift",
+            "title": "Global actors in Swift",
+            "link": "https://swiftwithmajid.com/2024/03/12/global-actors-in-swift/",
+            "updated": 1710176400,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/02/26/discovering-swift-async-algorithms-package",
+            "title": "Discovering Swift Async Algorithms package",
+            "link": "https://swiftwithmajid.com/2024/02/26/discovering-swift-async-algorithms-package/",
+            "updated": 1708880400,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/02/19/discovering-swift-collections-package",
+            "title": "Discovering Swift Collections package",
+            "link": "https://swiftwithmajid.com/2024/02/19/discovering-swift-collections-package/",
+            "updated": 1708275600,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package",
+            "title": "Discovering Swift Algorithms package",
+            "link": "https://swiftwithmajid.com/2024/02/13/discovering-swift-algorithms-package/",
+            "updated": 1707757200,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/01/30/visionos-ornaments-in-swiftui",
+            "title": "visionOS ornaments in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/01/30/visionos-ornaments-in-swiftui/",
+            "updated": 1706547600,
+            "site_name": "Majid\u2019s Blog about Swift development"
+        }
+    ]
+}

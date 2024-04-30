@@ -1,0 +1,180 @@
+{
+    "updated": 1714471064,
+    "posts": [
+        {
+            "id": "https://blog.hobbyistsoftware.com/?p=1348",
+            "title": "How to access related files in the Mac Sandbox",
+            "link": "https://blog.hobbyistsoftware.com/2023/03/how-to-access-related-files-in-the-mac-sandbox/",
+            "updated": 1679053852,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "https://blog.hobbyistsoftware.com/?p=1261",
+            "title": "Five ways to break Swift Concurrency",
+            "link": "https://blog.hobbyistsoftware.com/2022/11/five-ways-to-break-swift-concurrency/",
+            "updated": 1668051769,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "https://blog.hobbyistsoftware.com/?p=1210",
+            "title": "Fool me once\u2026 Reporting bugs to Apple",
+            "link": "https://blog.hobbyistsoftware.com/2021/08/fool-me-once-reporting-bugs-to-apple/",
+            "updated": 1629351394,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1198",
+            "title": "Dynamic Wallpaper Wierdness (again)",
+            "link": "https://blog.hobbyistsoftware.com/2020/12/dynamic-wallpaper-wierdness-again/",
+            "updated": 1606908092,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1173",
+            "title": "Apple Reviewers can Punish You",
+            "link": "https://blog.hobbyistsoftware.com/2020/09/apple-reviewers-can-punish-you/",
+            "updated": 1600009938,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1170",
+            "title": "Google/Apple. Requiring the Account Holder to do techie things is BAD SECURITY!",
+            "link": "https://blog.hobbyistsoftware.com/2020/09/google-apple-requiring-the-account-holder-to-do-techie-things-is-bad-security/",
+            "updated": 1599282619,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1159",
+            "title": "SwiftUI font sizes",
+            "link": "https://blog.hobbyistsoftware.com/2020/06/swiftui-font-sizes/",
+            "updated": 1592374054,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1153",
+            "title": "SwiftUI Button Styles",
+            "link": "https://blog.hobbyistsoftware.com/2020/06/swiftui-button-styles/",
+            "updated": 1592366447,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1037",
+            "title": "Dolby Codecs, Legal Threats: Coda",
+            "link": "https://blog.hobbyistsoftware.com/2020/04/dolby-codecs-legal-threats-coda/",
+            "updated": 1587026003,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1030",
+            "title": "UI Element Colour Chart",
+            "link": "https://blog.hobbyistsoftware.com/2020/02/ui-element-colour-chart/",
+            "updated": 1581307587,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1023",
+            "title": "Adding Codeable to @Published",
+            "link": "https://blog.hobbyistsoftware.com/2020/01/adding-codeable-to-published/",
+            "updated": 1579838586,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1014",
+            "title": "Apple: You recompiled. Let\u2019s make that crash now.",
+            "link": "https://blog.hobbyistsoftware.com/2019/11/apple-you-recompiled-lets-make-that-crash-now/",
+            "updated": 1574398821,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=1006",
+            "title": "32 bit app \u2018Works on this iMac\u2019",
+            "link": "https://blog.hobbyistsoftware.com/2019/10/32-bit-app-works-on-this-imac/",
+            "updated": 1572327258,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=998",
+            "title": "Overreaction vs Sanity. Google Play vs Apple Store.",
+            "link": "https://blog.hobbyistsoftware.com/2019/09/overreaction-vs-sanity-google-play-vs-apple-store/",
+            "updated": 1568256240,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=989",
+            "title": "What does a red dot mean Apple?",
+            "link": "https://blog.hobbyistsoftware.com/2019/07/what-does-a-red-dot-mean-apple/",
+            "updated": 1564023157,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=983",
+            "title": "Easier iTunes Connect Sandbox Users with GSuite Routing",
+            "link": "https://blog.hobbyistsoftware.com/2019/07/easier-sandbox-users-with-gsuite-routing/",
+            "updated": 1563863792,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=976",
+            "title": "Your icon can\u2019t look like an iMac",
+            "link": "https://blog.hobbyistsoftware.com/2019/04/your-icon-cant-look-like-an-imac/",
+            "updated": 1556263786,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=965",
+            "title": "ITunes: You\u2019re doing it wrong. I could help \u2013 but I won\u2019t.",
+            "link": "https://blog.hobbyistsoftware.com/2019/04/itunes-youre-doing-it-wrong-i-could-help-but-i-wont/",
+            "updated": 1555991400,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=959",
+            "title": "Apple auto-updates Xcode, but you can\u2019t submit with it",
+            "link": "https://blog.hobbyistsoftware.com/2019/03/apple-auto-updates-xcode-but-you-cant-submit-with-it/",
+            "updated": 1553589189,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=956",
+            "title": "Is It Working will stay free for some time\u2026",
+            "link": "https://blog.hobbyistsoftware.com/2019/03/is-it-working-will-stay-free-for-some-time/",
+            "updated": 1553571609,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=945",
+            "title": "HSNotifications \u2013 Easier Better Notifications in Swift",
+            "link": "https://blog.hobbyistsoftware.com/2019/03/hsnotifications-easier-better-notifications-in-swift/",
+            "updated": 1553227714,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=942",
+            "title": "Secret Mac App Store Rule \u2013 Minimum Trial Length",
+            "link": "https://blog.hobbyistsoftware.com/2019/03/secret-mac-app-store-rule-minimum-trial-length/",
+            "updated": 1552973326,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=916",
+            "title": "Boofing Supreme \u2013 Rejected!",
+            "link": "https://blog.hobbyistsoftware.com/2018/10/boofing-supreme/",
+            "updated": 1538818104,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=806",
+            "title": "Mac OS Developers \u2013 Easily add Right-Click actions.",
+            "link": "https://blog.hobbyistsoftware.com/2015/09/mac-os-developers-easily-add-right-click-actions/",
+            "updated": 1442834051,
+            "site_name": "Hobbyist Software"
+        },
+        {
+            "id": "http://blog.hobbyistsoftware.com/?p=716",
+            "title": "Dolby codecs, software patents, legal threats",
+            "link": "https://blog.hobbyistsoftware.com/2014/11/dolby-codecs-software-patents-legal-threats/",
+            "updated": 1416197440,
+            "site_name": "Hobbyist Software"
+        }
+    ]
+}

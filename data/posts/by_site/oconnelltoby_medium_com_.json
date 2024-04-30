@@ -1,0 +1,75 @@
+{
+    "updated": 1714470978,
+    "posts": [
+        {
+            "id": "https://medium.com/p/625a0830f57a",
+            "title": "Swift enums and the danger of the default case",
+            "link": "https://oconnelltoby.medium.com/swift-enums-and-the-danger-of-the-default-case-625a0830f57a?source=rss-96f3bc4104e7------2",
+            "updated": 1708004494,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/55f1ec3ef777",
+            "title": "Why structs are better than protocols for dependency inversion",
+            "link": "https://medium.com/codex/why-structs-are-better-than-protocols-for-dependency-inversion-55f1ec3ef777?source=rss-96f3bc4104e7------2",
+            "updated": 1709204353,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/c9686ccf4f1",
+            "title": "The importance of logical data modelling",
+            "link": "https://medium.com/codex/the-importance-of-logical-data-modelling-c9686ccf4f1?source=rss-96f3bc4104e7------2",
+            "updated": 1650305757,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/f88ef0be7b21",
+            "title": "Fun with Natural Language Processing",
+            "link": "https://medium.com/codex/fun-with-natural-language-processing-f88ef0be7b21?source=rss-96f3bc4104e7------2",
+            "updated": 1649584156,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/6d57da6c8ee6",
+            "title": "Swift + C: Callback Interoperability",
+            "link": "https://medium.com/codex/swift-c-callback-interoperability-6d57da6c8ee6?source=rss-96f3bc4104e7------2",
+            "updated": 1643339048,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/7ebe8bed3dad",
+            "title": "Tuple splatting in Swift",
+            "link": "https://oconnelltoby.medium.com/tuple-splatting-in-swift-7ebe8bed3dad?source=rss-96f3bc4104e7------2",
+            "updated": 1630113204,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/f622c284f881",
+            "title": "Enums Cases as Protocol Witnesses and the Open-Closed Principle",
+            "link": "https://medium.com/codex/enums-cases-as-protocol-witnesses-and-the-open-closed-principle-f622c284f881?source=rss-96f3bc4104e7------2",
+            "updated": 1627186392,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/4032dd861d9f",
+            "title": "Encoding awkward types with minimal boilerplate using `withUnsafeBytes`",
+            "link": "https://medium.com/codex/encoding-awkward-types-with-minimal-boilerplate-using-withunsafebytes-4032dd861d9f?source=rss-96f3bc4104e7------2",
+            "updated": 1630115972,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/5587842a9784",
+            "title": "Using tuples for Comparable and Equatable conformance",
+            "link": "https://medium.com/codex/using-tuples-for-comparable-and-equatable-conformance-5587842a9784?source=rss-96f3bc4104e7------2",
+            "updated": 1630115965,
+            "site_name": "Toby O'Connell on Medium"
+        },
+        {
+            "id": "https://medium.com/p/cbea04a4df2f",
+            "title": "UIGestureRecognizer with closures",
+            "link": "https://medium.com/codex/uigesturerecognizer-with-closures-cbea04a4df2f?source=rss-96f3bc4104e7------2",
+            "updated": 1630115959,
+            "site_name": "Toby O'Connell on Medium"
+        }
+    ]
+}

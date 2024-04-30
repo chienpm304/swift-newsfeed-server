@@ -1,0 +1,96 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://blog.adambell.ca/posts/20230127-Blog-Upgrade-Time",
+            "title": "Blog Upgrade Time (aka Blogging in Swift Part 4)",
+            "link": "https://blog.adambell.ca/posts/20230127-Blog-Upgrade-Time",
+            "updated": 1674792000,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20200402-Blogging-in-Swift-(Part-3)-(aka-Vapor-time)",
+            "title": "Blogging in Swift (Part 3) (aka Vapor time)",
+            "link": "https://blog.adambell.ca/posts/20200402-Blogging-in-Swift-(Part-3)-(aka-Vapor-time)",
+            "updated": 1585760400,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20190724-Visualizing-Xcode's-View-Debugger",
+            "title": "Visualizing Xcode's View Debugger",
+            "link": "https://blog.adambell.ca/posts/20190724-Visualizing-Xcode's-View-Debugger",
+            "updated": 1563901200,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20190529-Blogging-in-Swift-(Part-2)",
+            "title": "Blogging in Swift (Part 2)",
+            "link": "https://blog.adambell.ca/posts/20190529-Blogging-in-Swift-(Part-2)",
+            "updated": 1559062800,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20190417-Blogging-in-Swift",
+            "title": "Blogging in Swift",
+            "link": "https://blog.adambell.ca/posts/20190417-Blogging-in-Swift",
+            "updated": 1555434000,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20150913-Making-Truly-Native-Native-Apps-on-Apple-Watch",
+            "title": "Making Truly Native Native Apps on Apple Watch",
+            "link": "https://blog.adambell.ca/posts/20150913-Making-Truly-Native-Native-Apps-on-Apple-Watch",
+            "updated": 1442081340,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20140506-Making-Passbook-an-Address-Book",
+            "title": "Making Passbook an Address Book",
+            "link": "https://blog.adambell.ca/posts/20140506-Making-Passbook-an-Address-Book",
+            "updated": 1399331520,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20140124-Here-Fishy-Fishy",
+            "title": "Here Fishy, Fishy...",
+            "link": "https://blog.adambell.ca/posts/20140124-Here-Fishy-Fishy",
+            "updated": 1390518840,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20140114-Dynamic-iOS-Multitasking",
+            "title": "Dynamic iOS Multitasking",
+            "link": "https://blog.adambell.ca/posts/20140114-Dynamic-iOS-Multitasking",
+            "updated": 1389710520,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20140114-Breaking-Chat-Heads-Out-of-the-iOS-Sandbox",
+            "title": "Breaking Chat Heads out of the iOS Sandbox",
+            "link": "https://blog.adambell.ca/posts/20140114-Breaking-Chat-Heads-Out-of-the-iOS-Sandbox",
+            "updated": 1389709680,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20110505-QNX-Native-Binaries-and-the-Blackberry-Playbook",
+            "title": "QNX, Native Binaries, and the BlackBerry PlayBook...",
+            "link": "https://blog.adambell.ca/posts/20110505-QNX-Native-Binaries-and-the-Blackberry-Playbook",
+            "updated": 1304567400,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20100527-afc2-and-Finder",
+            "title": "afc2 and Finder",
+            "link": "https://blog.adambell.ca/posts/20100527-afc2-and-Finder",
+            "updated": 1274941800,
+            "site_url": "https://blog.adambell.ca/"
+        },
+        {
+            "id": "https://blog.adambell.ca/posts/20100520-Hello-World",
+            "title": "NSLog(@\"hello world\");",
+            "link": "https://blog.adambell.ca/posts/20100520-Hello-World",
+            "updated": 1274341380,
+            "site_url": "https://blog.adambell.ca/"
+        }
+    ]
+}

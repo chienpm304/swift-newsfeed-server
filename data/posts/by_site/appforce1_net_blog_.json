@@ -1,0 +1,124 @@
+{
+    "updated": 1714470856,
+    "posts": [
+        {
+            "id": "https://appforce1.net/blog/configuration-as-code",
+            "title": "Configuration as Code, Using PKL",
+            "link": "https://appforce1.net/blog/configuration-as-code",
+            "updated": 1709338500,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/swiftui-action-composer",
+            "title": "Build an iOS 17-Style Action Composer in SwiftUI",
+            "link": "https://appforce1.net/blog/swiftui-action-composer",
+            "updated": 1706573700,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/integrate-xcode-with-vale",
+            "title": "Integrate Vale with Xcode",
+            "link": "https://appforce1.net/blog/integrate-xcode-with-vale",
+            "updated": 1681142100,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/do-ios-2022-videos",
+            "title": "Videos of Do iOS 2022",
+            "link": "https://appforce1.net/blog/do-ios-2022-videos",
+            "updated": 1673685930,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/obsidian-for-pkm",
+            "title": "Using Obsidian for personal knowledge management",
+            "link": "https://appforce1.net/blog/obsidian-for-pkm",
+            "updated": 1672993050,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/2022-in-review",
+            "title": "2022 in review",
+            "link": "https://appforce1.net/blog/2022-in-review",
+            "updated": 1672821930,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/docs-docusaurus-multipass-vm",
+            "title": "How to Run Stream\u2019s Docs on a Multipass VM",
+            "link": "https://appforce1.net/blog/docs-docusaurus-multipass-vm",
+            "updated": 1671165900,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/organizing-do-ios-2022",
+            "title": "Do iOS 2022 in review",
+            "link": "https://appforce1.net/blog/organizing-do-ios-2022",
+            "updated": 1669279530,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/keyboardio-model-100-initial-review",
+            "title": "KeyboardIO Model-100 initial review",
+            "link": "https://appforce1.net/blog/keyboardio-model-100-initial-review",
+            "updated": 1669132500,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/benq-screenbar-initial-review",
+            "title": "BenQ Screenbar review",
+            "link": "https://appforce1.net/blog/benq-screenbar-initial-review",
+            "updated": 1663553400,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/about-coding-outside-of-work",
+            "title": "About coding outside of work",
+            "link": "https://appforce1.net/blog/about-coding-outside-of-work",
+            "updated": 1658909100,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/keyboardio-atreus-longterm-review",
+            "title": "KeyboardIO Atreus longterm review",
+            "link": "https://appforce1.net/blog/keyboardio-atreus-longterm-review",
+            "updated": 1655652540,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/uikit-vs-swiftui",
+            "title": "UIKit vs. SwiftUI: How to Choose the Right Framework for Your App",
+            "link": "https://appforce1.net/blog/uikit-vs-swiftui",
+            "updated": 1643126100,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/keyboardio-atreus-initial-review",
+            "title": "KeyboardIO Atreus review",
+            "link": "https://appforce1.net/blog/keyboardio-atreus-initial-review",
+            "updated": 1631375700,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/frequently-used-keyboard-shortcuts",
+            "title": "Frequently used keyboard shortcuts I use in/with Xcode",
+            "link": "https://appforce1.net/blog/frequently-used-keyboard-shortcuts",
+            "updated": 1618539540,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/client-certificate-with-urlsession-in-swift",
+            "title": "Client certificate with URLSession in Swift",
+            "link": "https://appforce1.net/blog/client-certificate-with-urlsession-in-swift",
+            "updated": 1618538340,
+            "site_url": "https://appforce1.net/blog/"
+        },
+        {
+            "id": "https://appforce1.net/blog/github-actions-for-ios-projects",
+            "title": "GitHub Actions for iOS projects",
+            "link": "https://appforce1.net/blog/github-actions-for-ios-projects",
+            "updated": 1618538160,
+            "site_url": "https://appforce1.net/blog/"
+        }
+    ]
+}

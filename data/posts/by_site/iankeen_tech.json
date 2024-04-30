@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://iankeen.tech/2020/08/03/the-missing-combine-input-type/index.html",
+            "title": "The missing Combine input type",
+            "link": "https://iankeen.tech/2020/08/03/the-missing-combine-input-type/index.html",
+            "updated": 1596362400,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2020/07/03/cross-view-animations-with-matchedgeometryeffect/index.html",
+            "title": "Cross View Animations with matchedGeometryEffect",
+            "link": "https://iankeen.tech/2020/07/03/cross-view-animations-with-matchedgeometryeffect/index.html",
+            "updated": 1593684000,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2020/05/11/container-coordinators/index.html",
+            "title": "Container Coordinators",
+            "link": "https://iankeen.tech/2020/05/11/container-coordinators/index.html",
+            "updated": 1589104800,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2019/03/20/surviving-rxswift/index.html",
+            "title": "Surviving RxSwift",
+            "link": "https://iankeen.tech/2019/03/20/surviving-rxswift/index.html",
+            "updated": 1552989600,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2019/03/01/better-codable-models-through-composition/index.html",
+            "title": "Better Codable models through composition",
+            "link": "https://iankeen.tech/2019/03/01/better-codable-models-through-composition/index.html",
+            "updated": 1551344400,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2018/06/29/omitting-codable-properties/index.html",
+            "title": "Omitting Codable properties",
+            "link": "https://iankeen.tech/2018/06/29/omitting-codable-properties/index.html",
+            "updated": 1530180000,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2018/06/05/type-safe-temporary-models/index.html",
+            "title": "Type safe temporary models",
+            "link": "https://iankeen.tech/2018/06/05/type-safe-temporary-models/index.html",
+            "updated": 1528106400,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2017/12/08/improving-codable-for-enums-with-associated-values/index.html",
+            "title": "Improving Codable for enums with associated values",
+            "link": "https://iankeen.tech/2017/12/08/improving-codable-for-enums-with-associated-values/index.html",
+            "updated": 1512637200,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2017/12/04/your-viewcontroller-isnt-a-view/index.html",
+            "title": "Your ViewController isn\u2019t a View",
+            "link": "https://iankeen.tech/2017/12/04/your-viewcontroller-isnt-a-view/index.html",
+            "updated": 1512291600,
+            "site_name": "Ian Keen's Blog"
+        },
+        {
+            "id": "https://iankeen.tech/2017/10/08/a-fresh-start/index.html",
+            "title": "A fresh start",
+            "link": "https://iankeen.tech/2017/10/08/a-fresh-start/index.html",
+            "updated": 1507370400,
+            "site_name": "Ian Keen's Blog"
+        }
+    ]
+}

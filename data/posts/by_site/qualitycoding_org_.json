@@ -1,0 +1,75 @@
+{
+    "updated": 1714470915,
+    "posts": [
+        {
+            "id": "https://qualitycoding.org/?p=22668",
+            "title": "How to Set up GitHub Actions for CI with Xcode",
+            "link": "https://qualitycoding.org/github-actions-ci-xcode/",
+            "updated": 1711428300,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=22643",
+            "title": "Where Will Jon Be in 2024?",
+            "link": "https://qualitycoding.org/conferences-2024/",
+            "updated": 1709578264,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=22474",
+            "title": "How to Bypass SwiftUI App Launch During Unit Testing",
+            "link": "https://qualitycoding.org/bypass-swiftui-app-launch-unit-testing/",
+            "updated": 1704779100,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=22432",
+            "title": "How to Optimize Your Xcode Project for Fast Test Feedback",
+            "link": "https://qualitycoding.org/optimize-xcode-for-fast-tests/",
+            "updated": 1702359900,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=22004",
+            "title": "How to Generate a Useful Xcode Gitignore to Avoid Noise in Git",
+            "link": "https://qualitycoding.org/generate-xcode-gitignore/",
+            "updated": 1700545516,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=21765",
+            "title": "TDD in a SwiftUI World: Let\u2019s Begin!",
+            "link": "https://qualitycoding.org/tdd-for-swiftui-lets-begin/",
+            "updated": 1699940738,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=21713",
+            "title": "See the Magic of Iterative Refactoring: A Swift Case Study",
+            "link": "https://qualitycoding.org/iterative-refactoring/",
+            "updated": 1695098742,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=21360",
+            "title": "How to Automate Memory Leak Detection in Your Swift Code with XCTest",
+            "link": "https://qualitycoding.org/swift-memory-leak-detection-xctest/",
+            "updated": 1692074706,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=3684",
+            "title": "Simplify Your iOS Test Writing: Introducing a Streamlined File Template",
+            "link": "https://qualitycoding.org/swift-unit-testing-template/",
+            "updated": 1686996000,
+            "site_name": "Quality Coding"
+        },
+        {
+            "id": "https://qualitycoding.org/?p=21087",
+            "title": "iOS Unit Testing Champion: What Are My Roots, My Focus, My Passion?",
+            "link": "https://qualitycoding.org/podcast-ios-unit-testing-champion/",
+            "updated": 1679978747,
+            "site_name": "Quality Coding"
+        }
+    ]
+}

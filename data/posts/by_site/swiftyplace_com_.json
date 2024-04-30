@@ -1,0 +1,75 @@
+{
+    "updated": 1714470971,
+    "posts": [
+        {
+            "id": "https://www.swiftyplace.com/?p=4983",
+            "title": "SwiftUI LazyVGrid & LazyHGrid: Implementing Grid Collection Views",
+            "link": "https://www.swiftyplace.com/blog/swiftui-lazyvgrid-and-lazyhgrid?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-lazyvgrid-and-lazyhgrid",
+            "updated": 1705628314,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=4946",
+            "title": "SwiftUI Grid Tutorial: Neat Rows & Custom Column Alignments",
+            "link": "https://www.swiftyplace.com/blog/swiftui-grid-tutorial-column-alignments?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-grid-tutorial-column-alignments",
+            "updated": 1705554757,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=4919",
+            "title": "What is \u201cNo exact matches in call to initializer\u201d error Swift/Swiftui",
+            "link": "https://www.swiftyplace.com/blog/no-exact-matches-in-call-to-initializer?utm_source=rss&utm_medium=rss&utm_campaign=no-exact-matches-in-call-to-initializer",
+            "updated": 1705199648,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3459",
+            "title": "How to Add a SwiftUI Form to Your iOS and macOS apps",
+            "link": "https://www.swiftyplace.com/blog/swiftui-form-add-settings-view-ios?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-form-add-settings-view-ios",
+            "updated": 1696762341,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3457",
+            "title": "Swift Identifiable: How SwiftUI Identify Data in its List Views?",
+            "link": "https://www.swiftyplace.com/blog/swift-identifiable-data-in-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=swift-identifiable-data-in-swiftui",
+            "updated": 1696739283,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3397",
+            "title": "How to Use and Customize SwiftUI Label",
+            "link": "https://www.swiftyplace.com/blog/swiftui-label-style-swift?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-label-style-swift",
+            "updated": 1696637158,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3292",
+            "title": "SF Symbols List: How to find all available SwiftUI System Images",
+            "link": "https://www.swiftyplace.com/blog/sf-symbols-swiftui-system-icons?utm_source=rss&utm_medium=rss&utm_campaign=sf-symbols-swiftui-system-icons",
+            "updated": 1696467620,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3260",
+            "title": "Load and Display Images from URL in SwiftUI with AsyncImage",
+            "link": "https://www.swiftyplace.com/blog/asyncimage-load-image-url-swiftui?utm_source=rss&utm_medium=rss&utm_campaign=asyncimage-load-image-url-swiftui",
+            "updated": 1696396846,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=3106",
+            "title": "How to Integrate Xcode With GitHub Access Token",
+            "link": "https://www.swiftyplace.com/blog/xcode-github-access-token?utm_source=rss&utm_medium=rss&utm_campaign=xcode-github-access-token",
+            "updated": 1695947237,
+            "site_name": "SwiftyPlace"
+        },
+        {
+            "id": "https://www.swiftyplace.com/?p=2970",
+            "title": "How to Create your First Package with Swift Package Manager",
+            "link": "https://www.swiftyplace.com/blog/modular-code-with-swift-package-manager?utm_source=rss&utm_medium=rss&utm_campaign=modular-code-with-swift-package-manager",
+            "updated": 1695796001,
+            "site_name": "SwiftyPlace"
+        }
+    ]
+}

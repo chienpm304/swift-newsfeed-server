@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://ampersandsoftworks.com/posts/you-can-stop-writing-yyyy-mmm-dd-as-of-ios-15/you-can-stop-writing-yyyy-mmm-dd-as-of-ios-15",
+            "title": "You can stop writing date format strings like \u201cyyyy-MMM-dd\u201d",
+            "link": "https://ampersandsoftworks.com/posts/you-can-stop-writing-yyyy-mmm-dd-as-of-ios-15/index.html",
+            "updated": 1668810060,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/measurements-and-their-formatting/measurements-and-their-formatting",
+            "title": "Over 3,000 Words On What The Measurement Type Is And Why You Should Be Using It",
+            "link": "https://ampersandsoftworks.com/posts/measurements-and-their-formatting/index.html",
+            "updated": 1664493660,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/the-xcode-14-update/the-xcode-14-update",
+            "title": "The Xcode 14 Format Style Updates",
+            "link": "https://ampersandsoftworks.com/posts/the-xcode-14-update/index.html",
+            "updated": 1659286800,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/help-my-xcode-extensions-disappeared/help-my-xcode-extensions-disappeared",
+            "title": "Help! My Xcode Extensions Disappeared",
+            "link": "https://ampersandsoftworks.com/posts/help-my-xcode-extensions-disappeared/index.html",
+            "updated": 1657040400,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/formatstyle-parseableformatstyle-and-your-custom-types/formatstyle-parseableformatstyle-and-your-custom-types",
+            "title": "Formatting your own types",
+            "link": "https://ampersandsoftworks.com/posts/formatstyle-parseableformatstyle-and-your-custom-types/index.html",
+            "updated": 1656522000,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/from-strings-to-data-using-parseableformatstyle/from-strings-to-data-using-parseableformatstyle",
+            "title": "From Strings to Data using ParsableFormatStyle",
+            "link": "https://ampersandsoftworks.com/posts/from-strings-to-data-using-parseableformatstyle/index.html",
+            "updated": 1655139600,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/iOS-16-formatstyle/iOS-16-formatstyle",
+            "title": "What\u2019s new with FormatStyles in iOS 16",
+            "link": "https://ampersandsoftworks.com/posts/iOS-16-formatstyle/index.html",
+            "updated": 1654707600,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/format-style-deep-dive/format-style-deep-dive",
+            "title": "FormatSyle Deep Dive",
+            "link": "https://ampersandsoftworks.com/posts/format-style-deep-dive/index.html",
+            "updated": 1647053081,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/UIFont-fun/UIFont-fun",
+            "title": "UIFont Fun",
+            "link": "https://ampersandsoftworks.com/posts/UIFont-fun/index.html",
+            "updated": 1637723932,
+            "site_url": "https://ampersandsoftworks.com/"
+        },
+        {
+            "id": "https://ampersandsoftworks.com/posts/bearer-authentication-nsurlsession/bearer-authentication-nsurlsession",
+            "title": "Sending Bearer Auth Tokens in iOS",
+            "link": "https://ampersandsoftworks.com/posts/bearer-authentication-nsurlsession/index.html",
+            "updated": 1594807510,
+            "site_url": "https://ampersandsoftworks.com/"
+        }
+    ]
+}

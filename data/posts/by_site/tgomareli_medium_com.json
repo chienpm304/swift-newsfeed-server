@@ -1,0 +1,75 @@
+{
+    "updated": 1714470969,
+    "posts": [
+        {
+            "id": "https://medium.com/p/635b40c214fa",
+            "title": "The foundational elements of scalability in mobile engineering teams",
+            "link": "https://tgomareli.medium.com/the-foundational-elements-of-scalability-in-mobile-engineering-teams-635b40c214fa?source=rss-e061295e669a------2",
+            "updated": 1714108359,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/b899bceaf1d4",
+            "title": "Transforming Doubt into Drive: The Engineer\u2019s Journey Through Imposter Syndrome",
+            "link": "https://tgomareli.medium.com/transforming-doubt-into-drive-the-engineers-journey-through-imposter-syndrome-b899bceaf1d4?source=rss-e061295e669a------2",
+            "updated": 1701580918,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/1217b83a3fcc",
+            "title": "Creating Custom, High-Performance Collection Types with Swift",
+            "link": "https://tgomareli.medium.com/creating-custom-high-performance-collection-types-with-swift-1217b83a3fcc?source=rss-e061295e669a------2",
+            "updated": 1681083389,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/3e268f3d4948",
+            "title": "Introduction to Actors in Swift: Origins and Background",
+            "link": "https://tgomareli.medium.com/introduction-to-actors-in-swift-origins-and-background-3e268f3d4948?source=rss-e061295e669a------2",
+            "updated": 1679648624,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/c18e5dafca00",
+            "title": "Swift \u200a\u2014\u200a Race condition \u10d4\u10d1\u10d8, Lock \u10d4\u10d1\u10d8 \u10d3\u10d0 Thread safety",
+            "link": "https://medium.com/ka-ge/swift-race-condition-%E1%83%94%E1%83%91%E1%83%98-lock-%E1%83%94%E1%83%91%E1%83%98-%E1%83%93%E1%83%90-thread-safety-c18e5dafca00?source=rss-e061295e669a------2",
+            "updated": 1660003221,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/f7d06e190e25",
+            "title": "Swift - \u10e0\u10d0 \u10d0\u10e0\u10d8\u10e1 Method dispatch \u10d8? \u10e0\u10d0 \u10e2\u10d8\u10de\u10d8\u10e1 dispatch \u10d4\u10d1\u10d8 \u10d2\u10d5\u10d0\u10e5\u10d5\u10e1 \u10d3\u10d0 \u10e0\u10dd\u10d2\u10dd\u10e0 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10d4\u10dc \u10d8\u10e1\u10d8\u10dc\u10d8.",
+            "link": "https://medium.com/ka-ge/swift-%E1%83%A0%E1%83%90-%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-method-dispatch-%E1%83%98-%E1%83%A0%E1%83%90-%E1%83%A2%E1%83%98%E1%83%9E%E1%83%98%E1%83%A1-dispatch-%E1%83%94%E1%83%91%E1%83%98-%E1%83%92%E1%83%95%E1%83%90%E1%83%A5%E1%83%95%E1%83%A1-%E1%83%93%E1%83%90-%E1%83%A0%E1%83%9D%E1%83%92%E1%83%9D%E1%83%A0-%E1%83%9B%E1%83%A3%E1%83%A8%E1%83%90%E1%83%9D%E1%83%91%E1%83%94%E1%83%9C-%E1%83%98%E1%83%A1%E1%83%98%E1%83%9C%E1%83%98-f7d06e190e25?source=rss-e061295e669a------2",
+            "updated": 1659305610,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/98278010d897",
+            "title": "Swift \u2014\u10e0\u10d0 \u10d0\u10e0\u10d8\u10e1 \u10d3\u10d0 \u10e0\u10dd\u10d2\u10dd\u10e0 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 Closure-\u10d8 \u10e4\u10d0\u10e0\u10d3\u10d8\u10e1 \u10e3\u10d9\u10d0\u10dc.",
+            "link": "https://medium.com/ka-ge/swift-%E1%83%A0%E1%83%90-%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%93%E1%83%90-%E1%83%A0%E1%83%9D%E1%83%92%E1%83%9D%E1%83%A0-%E1%83%9B%E1%83%A3%E1%83%A8%E1%83%90%E1%83%9D%E1%83%91%E1%83%A1-closure-%E1%83%98-%E1%83%A4%E1%83%90%E1%83%A0%E1%83%93%E1%83%98%E1%83%A1-%E1%83%A3%E1%83%99%E1%83%90%E1%83%9C-98278010d897?source=rss-e061295e669a------2",
+            "updated": 1658649428,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/892c5ac8978d",
+            "title": "Get back to the basics\u200a\u2014\u200aProcess \u10d4\u10d1\u10d8, CPU Virtualization, IPC \u10d3\u10d0 Thread \u10d4\u10d1\u10d8 A.K.A \u10dc\u10d0\u10d9\u10d0\u10d3\u10d4\u10d1\u10d8",
+            "link": "https://medium.com/ka-ge/get-back-to-the-basics-process-%E1%83%94%E1%83%91%E1%83%98-cpu-virtualization-ipc-%E1%83%93%E1%83%90-thread-%E1%83%94%E1%83%91%E1%83%98-a-k-a-%E1%83%9C%E1%83%90%E1%83%99%E1%83%90%E1%83%93%E1%83%94%E1%83%91%E1%83%98-892c5ac8978d?source=rss-e061295e669a------2",
+            "updated": 1658406458,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/faee7e707d90",
+            "title": "Imposter Syndrome - \u10d0\u10dc\u10e3 \u10e0\u10d0\u10e2\u10dd\u10db \u10d2\u10d5\u10d2\u10dd\u10dc\u10d8\u10d0 \u10d7\u10d0\u10d5\u10d8 \u10d7\u10d5\u10d8\u10d7\u10db\u10d0\u10e0\u10e5\u10d5\u10d8\u10d4\u10d1\u10d8",
+            "link": "https://medium.com/ka-ge/imposter-syndrome-%E1%83%90%E1%83%9C%E1%83%A3-%E1%83%A0%E1%83%90%E1%83%A2%E1%83%9D%E1%83%9B-%E1%83%92%E1%83%95%E1%83%92%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90-%E1%83%97%E1%83%90%E1%83%95%E1%83%98-%E1%83%97%E1%83%95%E1%83%98%E1%83%97%E1%83%9B%E1%83%90%E1%83%A0%E1%83%A5%E1%83%95%E1%83%98%E1%83%94%E1%83%91%E1%83%98-faee7e707d90?source=rss-e061295e669a------2",
+            "updated": 1597249248,
+            "site_name": "SwiftDigest"
+        },
+        {
+            "id": "https://medium.com/p/21ef7f46a565",
+            "title": "\u10e0\u10dd\u10d2\u10dd\u10e0 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1\u00a0.NET \u10d8\u10e1 Garbage Collector\u200a\u2014\u200a\u10d8 (\u10dc\u10d0\u10ec\u10d8\u10da\u10d8 1\u200a\u2014\u200aBasic concepts)",
+            "link": "https://medium.com/ka-ge/%E1%83%A0%E1%83%9D%E1%83%92%E1%83%9D%E1%83%A0-%E1%83%9B%E1%83%A3%E1%83%A8%E1%83%90%E1%83%9D%E1%83%91%E1%83%A1-net-%E1%83%98%E1%83%A1-garbage-collector-%E1%83%98-%E1%83%9C%E1%83%90%E1%83%AC%E1%83%98%E1%83%9A%E1%83%98-1-basic-concepts-21ef7f46a565?source=rss-e061295e669a------2",
+            "updated": 1609144195,
+            "site_name": "SwiftDigest"
+        }
+    ]
+}

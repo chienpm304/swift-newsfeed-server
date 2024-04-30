@@ -1,0 +1,68 @@
+{
+    "updated": 1714470978,
+    "posts": [
+        {
+            "id": "https://www.timc.dev/posts/server-side-swift-videos",
+            "title": "An update about the ServerSide.swift videos",
+            "link": "https://www.timc.dev/posts/server-side-swift-videos",
+            "updated": 1692162000,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/editing-pacakges-vscode",
+            "title": "Editing Swift Packages in Visual Studio Code",
+            "link": "https://www.timc.dev/posts/editing-pacakges-vscode",
+            "updated": 1652781600,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/replicating-dynamodb-to-es",
+            "title": "How to replicate your DynamoDB database to Elasticsearch using Swift and Soto",
+            "link": "https://www.timc.dev/posts/replicating-dynamodb-to-es",
+            "updated": 1618130040,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/understanding-swift-packages",
+            "title": "Understanding Swift Packages and Dependency Declarations",
+            "link": "https://www.timc.dev/posts/understanding-swift-packages",
+            "updated": 1599537600,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/vapor-csrf",
+            "title": "Vapor CSRF",
+            "link": "https://www.timc.dev/posts/vapor-csrf",
+            "updated": 1599129060,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/editing-swift-packages",
+            "title": "Working with Swift Packages",
+            "link": "https://www.timc.dev/posts/editing-swift-packages",
+            "updated": 1589968800,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/future-of-server-side-swift",
+            "title": "The Future of Swift on the Server",
+            "link": "https://www.timc.dev/posts/future-of-server-side-swift",
+            "updated": 1589529600,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/custom-working-directory",
+            "title": "How to set a custom working directory in Xcode",
+            "link": "https://www.timc.dev/posts/custom-working-directory",
+            "updated": 1586860260,
+            "site_name": "Tim Condon's Blog"
+        },
+        {
+            "id": "https://www.timc.dev/posts/hello-world",
+            "title": "A new home",
+            "link": "https://www.timc.dev/posts/hello-world",
+            "updated": 1586760420,
+            "site_name": "Tim Condon's Blog"
+        }
+    ]
+}

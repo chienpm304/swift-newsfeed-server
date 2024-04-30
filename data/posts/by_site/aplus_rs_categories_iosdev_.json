@@ -1,0 +1,145 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://aplus.rs/2024/hackintosh-almost-dead/",
+            "title": "Hackintosh is (almost) dead",
+            "link": "https://aplus.rs/2024/hackintosh-almost-dead/",
+            "updated": 1710555010,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2024/high-performance-core-data-import/",
+            "title": "High-performance Core Data import",
+            "link": "https://aplus.rs/2024/high-performance-core-data-import/",
+            "updated": 1706592000,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2023/core-data-fetched-results-controller-sections-bug/",
+            "title": "NSFRC\u2019s sections considered harmful",
+            "link": "https://aplus.rs/2023/core-data-fetched-results-controller-sections-bug/",
+            "updated": 1703304840,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2023/saving-struct-into-core-data-transformable/",
+            "title": "Saving native Swift struct into Core Data's transformable attribute",
+            "link": "https://aplus.rs/2023/saving-struct-into-core-data-transformable/",
+            "updated": 1695894000,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2023/uilabel-data-detectors/",
+            "title": "Implement data detectors inside UILabel",
+            "link": "https://aplus.rs/2023/uilabel-data-detectors/",
+            "updated": 1695021780,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2022/diffable-data-source-core-data-frc/",
+            "title": "Using NSFetchedResultsController\u2019s diffable snapshot with UICollectionView\u2019s diffable data source",
+            "link": "https://aplus.rs/2022/diffable-data-source-core-data-frc/",
+            "updated": 1657683000,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2022/bitmask-attributes-in-core-data/",
+            "title": "Bitmask (bitwise) values in Core Data",
+            "link": "https://aplus.rs/2022/bitmask-attributes-in-core-data/",
+            "updated": 1656815400,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2022/coordinator-with-tabbarcontroller/",
+            "title": "Coordinator pattern with UITabBarController",
+            "link": "https://aplus.rs/2022/coordinator-with-tabbarcontroller/",
+            "updated": 1653791700,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2022/mac-studio-for-developers/",
+            "title": "Mac Studio is perfect Mac for app developers",
+            "link": "https://aplus.rs/2022/mac-studio-for-developers/",
+            "updated": 1646996400,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2021/async-operation-coredata-save/",
+            "title": "Async Operation for Core Data imports",
+            "link": "https://aplus.rs/2021/async-operation-coredata-save/",
+            "updated": 1635564040,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2021/hackintosh-sleep-wake/",
+            "title": "Go the F to sleep",
+            "link": "https://aplus.rs/2021/hackintosh-sleep-wake/",
+            "updated": 1634969380,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2021/nope-you-gtfo/",
+            "title": "Nope, you GTFO.",
+            "link": "https://aplus.rs/2021/nope-you-gtfo/",
+            "updated": 1634610000,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/fresh-macos-setup/",
+            "title": "Fresh macOS setup",
+            "link": "https://aplus.rs/2020/fresh-macos-setup/",
+            "updated": 1608339600,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/hmac-2020/",
+            "title": "hMac 2020",
+            "link": "https://aplus.rs/2020/hmac-2020/",
+            "updated": 1601722140,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/improving-fairness-viability-app-store/",
+            "title": "Improving fairness and viability of the App Store for developers",
+            "link": "https://aplus.rs/2020/improving-fairness-viability-app-store/",
+            "updated": 1596070180,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/recommended-apple-2020-notebooks/",
+            "title": "Recommended Apple 2020 notebook configurations",
+            "link": "https://aplus.rs/2020/recommended-apple-2020-notebooks/",
+            "updated": 1589090460,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/how-when-use-kvo-in-swift-uikit/",
+            "title": "How and when to use KVO in Swift and UIKit",
+            "link": "https://aplus.rs/2020/how-when-use-kvo-in-swift-uikit/",
+            "updated": 1588568400,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/mac-hardware-options-for-indie-devs-spring-2020/",
+            "title": "Mac hardware options for indie devs, Spring 2020",
+            "link": "https://aplus.rs/2020/mac-hardware-options-for-indie-devs-spring-2020/",
+            "updated": 1587793484,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/coordinator-pattern-for-ios13/",
+            "title": "Coordinator pattern in iOS 13 world",
+            "link": "https://aplus.rs/2020/coordinator-pattern-for-ios13/",
+            "updated": 1586838000,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        },
+        {
+            "id": "https://aplus.rs/2020/no-headache-auto-layout-tips/",
+            "title": "No headache: auto layout tips in Interface Builder",
+            "link": "https://aplus.rs/2020/no-headache-auto-layout-tips/",
+            "updated": 1585371660,
+            "site_url": "http://aplus.rs/categories/iosdev/"
+        }
+    ]
+}

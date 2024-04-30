@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "tag:fuller.li,2016-12-01:/posts/using-swift-package-manager-with-carthage/",
+            "title": "Using Swift Package Manager with Carthage",
+            "link": "https://fuller.li/posts/using-swift-package-manager-with-carthage/",
+            "updated": 1480525200,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2015-09-25:/posts/automated-cocoapods-releases-with-ci/",
+            "title": "Automated CocoaPod releases with CI",
+            "link": "https://fuller.li/posts/automated-cocoapods-releases-with-ci/",
+            "updated": 1443114000,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2014-04-09:/posts/migrating-from-ocunit-to-xctest/",
+            "title": "Migrating from OCUnit to XCTest",
+            "link": "https://fuller.li/posts/migrating-from-ocunit-to-xctest/",
+            "updated": 1396976400,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2013-10-24:/posts/memory-management-arc/",
+            "title": "Memory Management with ARC",
+            "link": "https://fuller.li/posts/memory-management-arc/",
+            "updated": 1382547600,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2013-08-18:/posts/versioning-with-xcode-and-git/",
+            "title": "Versioning with Xcode and git",
+            "link": "https://fuller.li/posts/versioning-with-xcode-and-git/",
+            "updated": 1376758800,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2012-05-07:/posts/how-does-browserid-work/",
+            "title": "How does BrowserID work?",
+            "link": "https://fuller.li/posts/how-does-browserid-work/",
+            "updated": 1336406464,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2012-03-28:/posts/organising-dotfiles-in-a-git-repository/",
+            "title": "Organising dotfiles in a git repository",
+            "link": "https://fuller.li/posts/organising-dotfiles-in-a-git-repository/",
+            "updated": 1332917287,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2011-08-13:/posts/monitoring-inspircd-mrtg/",
+            "title": "Monitoring InspIRCd with MRTG",
+            "link": "https://fuller.li/posts/monitoring-inspircd-mrtg/",
+            "updated": 1313168400,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2009-07-01:/posts/pre-populating-data-admin-panel/",
+            "title": "Pre-populating data in the admin panel",
+            "link": "https://fuller.li/posts/pre-populating-data-admin-panel/",
+            "updated": 1246381200,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        },
+        {
+            "id": "tag:fuller.li,2009-02-24:/posts/how-install-irssi-dreamhost/",
+            "title": "How to install irssi on Dreamhost",
+            "link": "https://fuller.li/posts/how-install-irssi-dreamhost/",
+            "updated": 1235408400,
+            "site_name": "Kyle Fuller\u2019s Blog"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1917606",
+            "title": "Now on Mastodon - Verification attempt",
+            "link": "https://blog.human-friendly.com/now-on-mastodon-verification-attempt",
+            "updated": 1671329292,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1743419",
+            "title": "UK Covid Local Data App",
+            "link": "https://blog.human-friendly.com/uk-covid-local-data-app",
+            "updated": 1639801345,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1713570",
+            "title": "AsyncSequence <-> Combine - equivalence (Part 2a)",
+            "link": "https://blog.human-friendly.com/asyncsequence-combine-equivalence-part-2a",
+            "updated": 1629103842,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1705085",
+            "title": "AsyncSequence -> Combine - equivalence (Part 1)",
+            "link": "https://blog.human-friendly.com/asyncsequence--combine-equivalence-part-1",
+            "updated": 1626178694,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1704254",
+            "title": "Swift AsyncSequence Performance Experimentation",
+            "link": "https://blog.human-friendly.com/swift-asyncsequence-performance-experimentation",
+            "updated": 1629104589,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1703571",
+            "title": "Am I holding it wrong? - AsyncSequence file reading experiments with iOS 15 beta 1",
+            "link": "https://blog.human-friendly.com/am-i-holding-it-wrong-asyncsequence-file-reading-experiments-with-ios-15-beta-1",
+            "updated": 1623863061,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1655044",
+            "title": "MicroInjection - Tiny Dependency Injection Package",
+            "link": "https://blog.human-friendly.com/microinjection-tiny-dependency-injection-package",
+            "updated": 1613814936,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1653665",
+            "title": "How does the SwiftUI Environment work and can it be used outside SwiftUI for Dependency Injection?",
+            "link": "https://blog.human-friendly.com/how-does-the-swiftui-environment-work-and-can-it-be-used-outside-swiftui-for-dependency-injection",
+            "updated": 1615248562,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/1418887",
+            "title": "SwiftUI, Core Data and Combine - Early Days",
+            "link": "https://blog.human-friendly.com/swiftui-core-data-and-combine-early-days",
+            "updated": 1564443509,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/935900",
+            "title": "Generating Core Data Swift",
+            "link": "https://blog.human-friendly.com/generating-core-data-swift",
+            "updated": 1447875515,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/905183",
+            "title": "Swift 2 (Xcode 7 GM at least) Generic support for @objc protocols",
+            "link": "https://blog.human-friendly.com/swift-2-xcode-7-gm-at-least-generic-support-for-at-objc-protocols",
+            "updated": 1460488098,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/903161",
+            "title": "Swift Performance - iOSDevUK",
+            "link": "https://blog.human-friendly.com/swift-performance-iosdevuk",
+            "updated": 1516008254,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/881253",
+            "title": "Unexpected Assertion Behaviour - Radar 21826180",
+            "link": "https://blog.human-friendly.com/unexpected-assertion-behaviour-radar-21826180",
+            "updated": 1437023981,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/828549",
+            "title": "How Swift is Swift?",
+            "link": "https://blog.human-friendly.com/how-swift-is-swift",
+            "updated": 1516005182,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/817093",
+            "title": "Simple Library Free JSON Parsing in Swift",
+            "link": "https://blog.human-friendly.com/simple-library-free-json-parsing-in-swift",
+            "updated": 1427691750,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/814635",
+            "title": "Swift 1.2 Update (Xcode 6.3 beta 2) - Performance",
+            "link": "https://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance",
+            "updated": 1427927074,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/812783",
+            "title": "Swift 1.2 Presentation and Notes (Swift London 17th Feb)",
+            "link": "https://blog.human-friendly.com/swift-1-dot-2-presentation-and-notes-swift-london-17th-feb",
+            "updated": 1516004363,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/805490",
+            "title": "Overcoming Swift Resistance Explored",
+            "link": "https://blog.human-friendly.com/overcoming-swift-resistance-explored",
+            "updated": 1440183207,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/805294",
+            "title": "The Importance of Being `final`",
+            "link": "https://blog.human-friendly.com/the-importance-of-being-final",
+            "updated": 1487501336,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/801559",
+            "title": "Beyond if let",
+            "link": "https://blog.human-friendly.com/beyond-if-let",
+            "updated": 1516003686,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/790486",
+            "title": "You Really Don't Need Protected Members",
+            "link": "https://blog.human-friendly.com/you-really-dont-need-protected-members",
+            "updated": 1420280140,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/785983",
+            "title": "How I Handle Optionals In Swift",
+            "link": "https://blog.human-friendly.com/how-i-handle-optionals-in-swift",
+            "updated": 1422273889,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/778479",
+            "title": "theAnswer = maybeAnswer !! \"Or a good alternative\"",
+            "link": "https://blog.human-friendly.com/theanswer-equals-maybeanswer-or-a-good-alternative",
+            "updated": 1507105235,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/759396",
+            "title": "Swift Arrays are not Threadsafe",
+            "link": "https://blog.human-friendly.com/swift-arrays-are-not-threadsafe",
+            "updated": 1414596859,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/756612",
+            "title": "Swift Optimisation Again - Slides from Swift London 21st October 2014",
+            "link": "https://blog.human-friendly.com/swift-optimisation-again-slides-from-swift-london-21st-october-2014",
+            "updated": 1516001920,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/756391",
+            "title": "Core Location - Significant Location Updates Requires Background Permissions",
+            "link": "https://blog.human-friendly.com/core-location-significant-location-updates-requires-background-permissions",
+            "updated": 1516001881,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/748846",
+            "title": "Bluetooth Low Energy in the Background - iOS8 Followup",
+            "link": "https://blog.human-friendly.com/bluetooth-low-energy-in-the-background-ios8-followup",
+            "updated": 1412058115,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/744997",
+            "title": "eHow advise to use Base64 to \"encrypt\" credit card data",
+            "link": "https://blog.human-friendly.com/ehow-advise-to-use-base64-to-encrypt-credit-card-data",
+            "updated": 1412907538,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/742135",
+            "title": "London Swift Presentation - Swifter Swift",
+            "link": "https://blog.human-friendly.com/london-swift-presentation-swifter-swift",
+            "updated": 1516001388,
+            "site_name": "Human Friendly Blog"
+        },
+        {
+            "id": "tag:blog.human-friendly.com,2013:Post/735491",
+            "title": "Swift Optimisation - (#iOSDevUK Swift 300)",
+            "link": "https://blog.human-friendly.com/swift-optimisation-number-iosdevuk-swift-300",
+            "updated": 1409668301,
+            "site_name": "Human Friendly Blog"
+        }
+    ]
+}

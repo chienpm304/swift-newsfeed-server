@@ -1,0 +1,138 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.lordcodes.com/articles/swift-tools-enforced-versions/",
+            "title": "Installing and running Swift tools with enforced versions",
+            "link": "https://www.lordcodes.com/articles/swift-tools-enforced-versions/",
+            "updated": 1703091600,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/manage-automation-tasks-using-spm/",
+            "title": "Manage automation tasks using Swift Package Manager",
+            "link": "https://www.lordcodes.com/articles/manage-automation-tasks-using-spm/",
+            "updated": 1583600400,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/file-extensions-and-utis/",
+            "title": "Dealing with file extensions and Uniform Type Identifiers",
+            "link": "https://www.lordcodes.com/articles/file-extensions-and-utis/",
+            "updated": 1547744400,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/swift-logging-with-oslog/",
+            "title": "Clear and searchable logging in Swift with OSLog",
+            "link": "https://www.lordcodes.com/articles/swift-logging-with-oslog/",
+            "updated": 1547398800,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/simpler-categories-when-using-oslog/",
+            "title": "Simpler categories when using OSLog",
+            "link": "https://www.lordcodes.com/articles/simpler-categories-when-using-oslog/",
+            "updated": 1547053200,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/share-xcode-file-templates/",
+            "title": "Create Xcode file templates and share them with your team",
+            "link": "https://www.lordcodes.com/articles/share-xcode-file-templates/",
+            "updated": 1544720400,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/map-dictionary-keys-to-different-type/",
+            "title": "Map the keys of a dictionary to a different type",
+            "link": "https://www.lordcodes.com/articles/map-dictionary-keys-to-different-type/",
+            "updated": 1544634000,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/using-anchors-parent-constraints/",
+            "title": "Using anchors to match a parent view's constraints",
+            "link": "https://www.lordcodes.com/articles/using-anchors-parent-constraints/",
+            "updated": 1544115600,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/animating-view-colour-changes/",
+            "title": "Animating view colour changes",
+            "link": "https://www.lordcodes.com/articles/animating-view-colour-changes/",
+            "updated": 1544029200,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/time-intervals-explicit-units/",
+            "title": "Create time intervals with explicit units",
+            "link": "https://www.lordcodes.com/articles/time-intervals-explicit-units/",
+            "updated": 1543856400,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/a-modular-analytics-layer-in-swift/",
+            "title": "A modular analytics layer in Swift",
+            "link": "https://www.lordcodes.com/articles/a-modular-analytics-layer-in-swift/",
+            "updated": 1543251600,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/protocol-functions-default-parameters/",
+            "title": "Protocol functions with default parameter values",
+            "link": "https://www.lordcodes.com/articles/protocol-functions-default-parameters/",
+            "updated": 1543165200,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/access-call-site-swift-literals/",
+            "title": "Access the call site of a function using special Swift literals",
+            "link": "https://www.lordcodes.com/articles/access-call-site-swift-literals/",
+            "updated": 1543165200,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/safely-index-items-within-a-collection/",
+            "title": "Safely index items within a collection",
+            "link": "https://www.lordcodes.com/articles/safely-index-items-within-a-collection/",
+            "updated": 1543078800,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/managing-secrets-within-an-ios-app/",
+            "title": "Managing secrets within an iOS app",
+            "link": "https://www.lordcodes.com/articles/managing-secrets-within-an-ios-app/",
+            "updated": 1542646800,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/sharing-accessibility-ids-app-and-tests/",
+            "title": "Sharing accessibility identifiers between app and tests",
+            "link": "https://www.lordcodes.com/articles/sharing-accessibility-ids-app-and-tests/",
+            "updated": 1542301200,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/protocol-function-return-self-type/",
+            "title": "Protocol function that returns the Self type",
+            "link": "https://www.lordcodes.com/articles/protocol-function-return-self-type/",
+            "updated": 1541955600,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/metatype-self-to-return-current-type/",
+            "title": "Using metatype Self to return current type",
+            "link": "https://www.lordcodes.com/articles/metatype-self-to-return-current-type/",
+            "updated": 1541696400,
+            "site_name": "Lord Codes"
+        },
+        {
+            "id": "https://www.lordcodes.com/articles/child-view-controller-subview-constraints/",
+            "title": "Constraints for a child view controller within a subview",
+            "link": "https://www.lordcodes.com/articles/child-view-controller-subview-constraints/",
+            "updated": 1540227600,
+            "site_name": "Lord Codes"
+        }
+    ]
+}

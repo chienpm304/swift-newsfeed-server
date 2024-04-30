@@ -1,0 +1,82 @@
+{
+    "updated": 1714471148,
+    "posts": [
+        {
+            "id": "yt:video:d2NAzbk5cBQ",
+            "title": "I talked to ChatGPT for 1.5hrs and all I got was a lousy todo list app",
+            "link": "https://www.youtube.com/watch?v=d2NAzbk5cBQ",
+            "updated": 1713326401,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:RuFCNEf4P7E",
+            "title": "SwiftUI: Packaging Views",
+            "link": "https://www.youtube.com/watch?v=RuFCNEf4P7E",
+            "updated": 1714139478,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:kl7LgoBuphM",
+            "title": "SwiftUI: Custom Validation Handling",
+            "link": "https://www.youtube.com/watch?v=kl7LgoBuphM",
+            "updated": 1711184020,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:eYrirXFLuZ8",
+            "title": "SwiftUI: Exposing a View's State",
+            "link": "https://www.youtube.com/watch?v=eYrirXFLuZ8",
+            "updated": 1711054740,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:KdHd4rwK_oc",
+            "title": "Swift Concurrency Essentials: Task Cancellation",
+            "link": "https://www.youtube.com/watch?v=KdHd4rwK_oc",
+            "updated": 1711047865,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:pvtWLmSRimk",
+            "title": "Swift Concurrency Essentials: Getting Started",
+            "link": "https://www.youtube.com/watch?v=pvtWLmSRimk",
+            "updated": 1710378111,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:KKxCWs-BorE",
+            "title": "SwiftUI: Use the Magic of SwiftUI's Environment to Make Your SwiftUI Views Configurable",
+            "link": "https://www.youtube.com/watch?v=KKxCWs-BorE",
+            "updated": 1714073817,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:Sg0rfYL3utI",
+            "title": "SwiftUI: Text Input Field With a Floating Label",
+            "link": "https://www.youtube.com/watch?v=Sg0rfYL3utI",
+            "updated": 1714089432,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:UhDdtdeW63k",
+            "title": "SwiftUI: Building Reusable Components",
+            "link": "https://www.youtube.com/watch?v=UhDdtdeW63k",
+            "updated": 1714173617,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:sEKw2BMcQtQ",
+            "title": "Using async/await with Firebase",
+            "link": "https://www.youtube.com/watch?v=sEKw2BMcQtQ",
+            "updated": 1714030242,
+            "site_name": "Peter Friese on YouTube"
+        },
+        {
+            "id": "yt:video:K6UzzJOXYsA",
+            "title": "Using async/await in SwiftUI",
+            "link": "https://www.youtube.com/watch?v=K6UzzJOXYsA",
+            "updated": 1712655794,
+            "site_name": "Peter Friese on YouTube"
+        }
+    ]
+}

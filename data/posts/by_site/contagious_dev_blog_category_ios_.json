@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://contagious.dev/?p=1654",
+            "title": "The Caramel Recipe Document Spec",
+            "link": "https://contagious.dev/blog/the-caramel-recipe-document-spec/",
+            "updated": 1575118585,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1380",
+            "title": "Base & Elevated System (and Grouped!) Background Colors",
+            "link": "https://contagious.dev/blog/ins-and-outs-of-ios-system-grouped-background-colors/",
+            "updated": 1572488076,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1536",
+            "title": "CloudKit Sharing: Five Tips and Tricks",
+            "link": "https://contagious.dev/blog/cloudkit-sharing-five-tips-and-tricks/",
+            "updated": 1571482719,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1447",
+            "title": "Faster UIActivityViewController Share Sheets with UIActivityItemProvider",
+            "link": "https://contagious.dev/blog/faster-uiactivityviewcontroller-share-sheets-with-uiactivityitemprovider/",
+            "updated": 1569928830,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1408",
+            "title": "Wider haptics control with iOS 13\u2019s UIImpactFeedbackGenerator",
+            "link": "https://contagious.dev/blog/ios-13-wider-haptics-control-with-uiimpactfeedbackgenerator/",
+            "updated": 1567763831,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1397",
+            "title": "Scrollable Node in SpriteKit",
+            "link": "https://contagious.dev/blog/scrollable-node-in-spritekit/",
+            "updated": 1565275671,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1377",
+            "title": "Apple Maps Iconography",
+            "link": "https://contagious.dev/blog/apple-maps-iconography/",
+            "updated": 1563351166,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1324",
+            "title": "Why is ScrollIntoView() jumping in (Mobile) Safari?!?!",
+            "link": "https://contagious.dev/blog/why-is-scrollintoview-jumping-in-mobile-safari/",
+            "updated": 1562748358,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1312",
+            "title": "Swift Extension Resources",
+            "link": "https://contagious.dev/blog/swift-extension-resources/",
+            "updated": 1562312326,
+            "site_name": "Contageous Dev"
+        },
+        {
+            "id": "https://contagious.dev/?p=1306",
+            "title": "Modal UINavigationController, iOS 13 dismiss detection, & UIAdaptivePresentationControllerDelegate",
+            "link": "https://contagious.dev/blog/modal-uinavigationcontroller-ios-13-dismiss-detection-uiadaptivepresentationcontrollerdelegate/",
+            "updated": 1561410888,
+            "site_name": "Contageous Dev"
+        }
+    ]
+}

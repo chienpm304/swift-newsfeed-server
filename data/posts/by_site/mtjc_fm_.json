@@ -1,0 +1,2665 @@
+{
+    "updated": 1714471109,
+    "posts": [
+        {
+            "id": "662e9c51437bd70012e66b99",
+            "title": "Charlie Chapman - A day in the life of Developer Advocate",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/662e9c51437bd70012e66b99",
+            "updated": 1714305505,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "66117d09dc3c310016bc8be9",
+            "title": "VWDC 2024 - WWDC San Jose/Cupertino Travel Advice, Best of MTJC",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/66117d09dc3c310016bc8be9",
+            "updated": 1712396952,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "65e3fe1a96c151001834cf99",
+            "title": "Vision Pro - On Your Face, Not In Your Face",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65e3fe1a96c151001834cf99",
+            "updated": 1709415338,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "65c71821f377ea0017aa3d18",
+            "title": "The Vision Pro Moment",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65c71821f377ea0017aa3d18",
+            "updated": 1707521457,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "658d9ce762b0bd0016a5aae1",
+            "title": "Let's Do Something Stupid Next with Steve Lipton",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/658d9ce762b0bd0016a5aae1",
+            "updated": 1703754359,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6581085d6a3a5800169628b2",
+            "title": "Martin Woodward",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6581085d6a3a5800169628b2",
+            "updated": 1702929901,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "65625bcdff691c0012e906de",
+            "title": "Dave Verwer - Don't Forget Your Towel",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65625bcdff691c0012e906de",
+            "updated": 1700919645,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "65467ceea809bc0012c1687b",
+            "title": "This Could Have Been An Email",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65467ceea809bc0012c1687b",
+            "updated": 1699093117,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "65064c667bb4e100120b0ae5",
+            "title": "It\u2019s Shiny and has an Apple Logo",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65064c667bb4e100120b0ae5",
+            "updated": 1694886389,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "64cc80b02c5bd60012e041a4",
+            "title": "Sommer Panage On Accessibility, Swift TO Speaker Series",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64cc80b02c5bd60012e041a4",
+            "updated": 1691098687,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "64ab6f1a05090f00115780a1",
+            "title": "Terry Latanville, Swift TO Speaker Series",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64ab6f1a05090f00115780a1",
+            "updated": 1688931498,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6497bdfff9376600113c2cac",
+            "title": "Danijela Vrzan, SwiftTO 2023 Speaker Series",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6497bdfff9376600113c2cac",
+            "updated": 1688059386,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6497be60f9376600113c377a",
+            "title": "WWDC and the Curious Case of xrOS",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6497be60f9376600113c377a",
+            "updated": 1687645704,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "64852b6da029e9001189b037",
+            "title": "WWDC 2023 Highlights",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64852b6da029e9001189b037",
+            "updated": 1686424176,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "647ab1ad7b38dd001187f4bc",
+            "title": "WWDC 2023 Pre-Show",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/647ab1ad7b38dd001187f4bc",
+            "updated": 1685737276,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6478cdf450150f001157b005",
+            "title": "Replay: Paul Hudson on Roundabout Creative Chaos episode 92 - Aug 23, 2017",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6478cdf450150f001157b005",
+            "updated": 1685613444,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6476d5e68d53500011daa67f",
+            "title": "Hacking With Paul Hudson",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6476d5e68d53500011daa67f",
+            "updated": 1685484802,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "646d98f0fe46e9001114b57d",
+            "title": "Matt Massicotte, SwiftTO 2023 Speaker Series",
+            "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/646d98f0fe46e9001114b57d",
+            "updated": 1684878976,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4553856a-a1cc-4f4a-8084-92c3db86bae0",
+            "title": "Stewart Lynch, The Swift Professor*",
+            "link": "https://mtjc.fireside.fm/362",
+            "updated": 1683234000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7295b2c9-8a5e-4104-ad29-499a5258c6f7",
+            "title": "WWDC San Jose Travel Advice, Best of MTJC",
+            "link": "https://mtjc.fireside.fm/361",
+            "updated": 1682247600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2255d349-d138-4ac8-8c72-c5ca1e0878a0",
+            "title": "The Curious Case of Daniel Steinberg",
+            "link": "https://mtjc.fireside.fm/360",
+            "updated": 1681498800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1cc39096-7267-44b2-972c-ef70ff52df81",
+            "title": "Episode 359: WWDC 2023 Lottery",
+            "link": "https://mtjc.fireside.fm/359",
+            "updated": 1680886800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8cf6e721-198b-4322-b459-61feae71f003",
+            "title": "Episode 358: Mark Moeykens - Core Data Mastery in SwiftUI",
+            "link": "https://mtjc.fireside.fm/358",
+            "updated": 1678561200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c90fb9b3-81dc-4cf9-b69b-c0514dc03c0f",
+            "title": "Episode 357: Malin Sundberg & Kai Dombrowski",
+            "link": "https://mtjc.fireside.fm/357",
+            "updated": 1676617200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "473f4c4a-0ebb-4cc0-ba35-1e1d4a519ff5",
+            "title": "Episode 356: Leo Dion",
+            "link": "https://mtjc.fireside.fm/356",
+            "updated": 1675191600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9f0a1265-89b0-45ab-9ea5-f1ba5570be5a",
+            "title": "Episode 355: MTJC Max Pro Ultra",
+            "link": "https://mtjc.fireside.fm/355",
+            "updated": 1674291600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "79c8226a-384b-427b-bf7c-e1488e457f35",
+            "title": "Episode 354: What Did You Think Was Going To Happen !? - George Stroumboulopoulos",
+            "link": "https://mtjc.fireside.fm/354",
+            "updated": 1670626800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "cd101279-4c8e-473a-b16f-d0ee716ee7ca",
+            "title": "Episode 353: Moving to Mastodon",
+            "link": "https://mtjc.fireside.fm/353",
+            "updated": 1669831200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "542cbbf8-9b08-419f-a798-0609c868659f",
+            "title": "Episode 352: A Little Less Janeway",
+            "link": "https://mtjc.fireside.fm/352",
+            "updated": 1668967200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "457f611c-a5e0-4257-af47-02e6d916393b",
+            "title": "Episode 351: This Is Nothing...",
+            "link": "https://mtjc.fireside.fm/351",
+            "updated": 1666418400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "80728515-2696-49d7-a0fb-ae530b8750dc",
+            "title": "Episode 350: Far Out Man!",
+            "link": "https://mtjc.fireside.fm/350",
+            "updated": 1662811200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7b7686f2-cd13-4376-8963-109823bdb4b6",
+            "title": "Episode 349: WWDC22 - Regex for the Rest of Us",
+            "link": "https://mtjc.fireside.fm/349",
+            "updated": 1654970400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c23a9870-227e-4ad2-816f-bc671adc7b17",
+            "title": "Episode 348: Pre-WWDC 2022",
+            "link": "https://mtjc.fireside.fm/348",
+            "updated": 1653727500,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f45bb69e-11c0-4bc8-b6b8-bcb05548e534",
+            "title": "Episode 347: if let mtjc",
+            "link": "https://mtjc.fireside.fm/347",
+            "updated": 1650733200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e75d6683-ee42-4655-af3b-bcc2b0bf627a",
+            "title": "Episode 346: M1 Ultra",
+            "link": "https://mtjc.fireside.fm/346",
+            "updated": 1647126000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "caf3ce6e-61d6-4430-b003-ddf984b34c25",
+            "title": "Episode 345: Don't Hand Them Rocks",
+            "link": "https://mtjc.fireside.fm/345",
+            "updated": 1645902000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f2f60d65-1871-4ad4-a783-e9e6200f0c60",
+            "title": "Episode 344: Catching a Falling Knife",
+            "link": "https://mtjc.fireside.fm/344",
+            "updated": 1644076800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7b35a51a-cf46-416a-9ffc-fc8eba8d0a4f",
+            "title": "Episode 343: iPhone... It's A Good Thing",
+            "link": "https://mtjc.fireside.fm/343",
+            "updated": 1642201200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "87a9d372-8dcd-4ff4-bec9-42dea90a6601",
+            "title": "Episode 342: What the iPhone Means to Me - Best of MTJC",
+            "link": "https://mtjc.fireside.fm/342",
+            "updated": 1641758400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6eea1ea0-7bf6-407c-aaf6-a181d775058c",
+            "title": "Episode 340: Roustem Karimov",
+            "link": "https://mtjc.fireside.fm/340",
+            "updated": 1639310400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0d1e210f-1f4e-4fba-b432-40804b8c0bde",
+            "title": "Episode 339: Marin Todorov",
+            "link": "https://mtjc.fireside.fm/339",
+            "updated": 1635595200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "62531d4c-9710-4d89-a9a4-78af222f29fe",
+            "title": "Episode 338: It's Insanely Good",
+            "link": "https://mtjc.fireside.fm/338",
+            "updated": 1634940000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "101e5213-63ce-41e0-a7d5-88fec2820084",
+            "title": "Episode 337: Joe Cieplinski",
+            "link": "https://mtjc.fireside.fm/337",
+            "updated": 1632596400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "fef32383-3240-4e34-a955-3224ad6353bc",
+            "title": "Episode 336: A Lot of Nits to Pick",
+            "link": "https://mtjc.fireside.fm/336",
+            "updated": 1631998800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7dd4bc21-0227-4307-9055-77c0271a33a8",
+            "title": "Episode 335: Ryan McLeod",
+            "link": "https://mtjc.fireside.fm/335",
+            "updated": 1630789200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "693854fb-a867-4963-82af-b171f2db4315",
+            "title": "Episode 334: James Thomson",
+            "link": "https://mtjc.fireside.fm/334",
+            "updated": 1629578700,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9b067240-d6b7-4522-8aac-0ffa95c4511e",
+            "title": "Episode 333: John Wilker",
+            "link": "https://mtjc.fireside.fm/333",
+            "updated": 1629054000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1dc43611-4eef-4894-b855-e2adf09659f4",
+            "title": "Episode 332: Melissa & Ryan Cash",
+            "link": "https://mtjc.fireside.fm/332",
+            "updated": 1628013600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f4e5d046-4896-45b8-b977-3f2f467710ac",
+            "title": "Episode 331: On To Bigger Problems",
+            "link": "https://mtjc.fireside.fm/331",
+            "updated": 1625259600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6df48261-6744-4dc9-ab0d-64bf29685cd2",
+            "title": "Episode 330: WWDC 2021 - It's like ARC for Threading",
+            "link": "https://mtjc.fireside.fm/330",
+            "updated": 1623434400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "75474351-c5a1-4b81-86d5-712d0e423c02",
+            "title": "Episode 329: Best of MTJC: WWDC 2020 Goes to Eleven!",
+            "link": "https://mtjc.fireside.fm/329",
+            "updated": 1622750400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4b0ba178-8b49-4b7d-9692-231821747d7a",
+            "title": "Episode 328: Best of MTJC: WWDC 2019 LIVE from the Podcast Studio",
+            "link": "https://mtjc.fireside.fm/328",
+            "updated": 1622394000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "74468823-fb3c-42e6-9cda-c741e636933f",
+            "title": "Episode 327: Best of MTJC: WWDC 2018 Reflections",
+            "link": "https://mtjc.fireside.fm/327",
+            "updated": 1622138400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "84e4579d-be8c-404c-bbd2-3859d9ba4117",
+            "title": "Episode 326: The Medium Popcorn Problem",
+            "link": "https://mtjc.fireside.fm/326",
+            "updated": 1619258400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "01b6d75c-a90d-4d06-8a89-31409a9043da",
+            "title": "Episode 325: Live With the Pain",
+            "link": "https://mtjc.fireside.fm/325",
+            "updated": 1617397200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3e54d0d7-06da-4607-9eb5-8bf79de16363",
+            "title": "Episode 324: Core Data with CloudKit in SwiftUI",
+            "link": "https://mtjc.fireside.fm/324",
+            "updated": 1613167200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6d4c00b6-a312-49d9-b281-a3d75b4f1528",
+            "title": "Episode 323: Await Silicon MagSafe",
+            "link": "https://mtjc.fireside.fm/323",
+            "updated": 1611352800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "daf15281-dbb3-4f12-aa66-7ec534ccea8f",
+            "title": "Episode 322: 2020 Hindsight",
+            "link": "https://mtjc.fireside.fm/322",
+            "updated": 1609606800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ad4e62fd-c414-4d14-b84a-b2c2d188a307",
+            "title": "Episode 321: Generate Memberwise Initializer",
+            "link": "https://mtjc.fireside.fm/321",
+            "updated": 1607796000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c23babb4-3d4f-46e7-9df4-7a9ef5224621",
+            "title": "Episode 320: A Lead Pipe to the Kneecaps",
+            "link": "https://mtjc.fireside.fm/320",
+            "updated": 1606514400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "75a9563e-e815-4798-8e78-58353f7d4d6e",
+            "title": "Episode 319: M1 - Now How Much Would You Pay?",
+            "link": "https://mtjc.fireside.fm/319",
+            "updated": 1605348000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9666fbe2-36c6-4ed0-9c58-c1e8e5927bf3",
+            "title": "Episode 318: Best of MTJC: Valyrian Steel & Dragon Glass on the Back",
+            "link": "https://mtjc.fireside.fm/318",
+            "updated": 1603825200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "34ea68d0-3efc-4ca8-991f-7ab7c7f38d0c",
+            "title": "Episode 317: Best of MTJC: Test Backed Development",
+            "link": "https://mtjc.fireside.fm/317",
+            "updated": 1601211600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "fc5ce6d8-7cdf-4d42-88e2-76b4fa685be3",
+            "title": "Episode 316: One Bundle To Rule Them All",
+            "link": "https://mtjc.fireside.fm/316",
+            "updated": 1600549200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "390d41a4-8659-4b4d-af98-3bc0b3750a27",
+            "title": "Episode 315: For the Good of the User",
+            "link": "https://mtjc.fireside.fm/315",
+            "updated": 1599861600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "080522e5-190c-46ce-8f45-39c05a19c6fe",
+            "title": "Episode 314: More Bang",
+            "link": "https://mtjc.fireside.fm/314",
+            "updated": 1599379200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "af90f577-613e-4075-a58d-5a26671cd123",
+            "title": "Episode 313: The Art of Compromise",
+            "link": "https://mtjc.fireside.fm/313",
+            "updated": 1598688000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b0f5b218-3f4d-4cf0-8f75-6c4dd92ca50b",
+            "title": "Episode 312: Epic Blast Radius",
+            "link": "https://mtjc.fireside.fm/312",
+            "updated": 1598094000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7bf9f492-e2b9-4ccd-86f6-52ae16e03ce2",
+            "title": "Episode 311: A Big Long Wire",
+            "link": "https://mtjc.fireside.fm/311",
+            "updated": 1597564800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b2a223ac-9987-44d9-9d5a-945d0ecef413",
+            "title": "Episode 310: So It Must Be True",
+            "link": "https://mtjc.fireside.fm/310",
+            "updated": 1596960000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "303385d6-6aec-4fcc-a7f3-095e8ae6d0af",
+            "title": "Episode 309: Man Bites Dog",
+            "link": "https://mtjc.fireside.fm/309",
+            "updated": 1596272400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d803993e-532c-4bc8-b987-1645357f0b23",
+            "title": "Episode 308: Big Sur: The Answer Is Yes",
+            "link": "https://mtjc.fireside.fm/308",
+            "updated": 1595671200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c2e99b81-6735-4e7f-8e8e-879283b58cfc",
+            "title": "Episode 307: The Most MTJC Bug Ever",
+            "link": "https://mtjc.fireside.fm/307",
+            "updated": 1595106000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f7831a01-5a3b-4793-852e-21c2c19c04f2",
+            "title": "Episode 306: Transition Accomplished?",
+            "link": "https://mtjc.fireside.fm/306",
+            "updated": 1594461600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d3336e3c-a083-428f-a5c7-ad53eb75cec7",
+            "title": "Episode 305: WWDC 2020: The Missing Manual",
+            "link": "https://mtjc.fireside.fm/305",
+            "updated": 1593867600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "217ec151-9af7-424a-8871-f7a55ed6cf15",
+            "title": "Episode 304: WWDC 2020 Goes to Eleven!",
+            "link": "https://mtjc.fireside.fm/304",
+            "updated": 1593248400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "70a2c752-abe0-4129-a5c7-97a5c1ddad55",
+            "title": "Episode 303: Introducing macOS Corona",
+            "link": "https://mtjc.fireside.fm/303",
+            "updated": 1592679600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0ff3ef4b-f390-4b49-9814-cb38f2146d6b",
+            "title": "Episode 302: Geofence Warrants",
+            "link": "https://mtjc.fireside.fm/302",
+            "updated": 1592031600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7597a251-82ed-463a-b44a-c85790051328",
+            "title": "Episode 301: Fortran 2020",
+            "link": "https://mtjc.fireside.fm/301",
+            "updated": 1591444800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3ea7a0d0-2128-424d-8349-a97b9b749fd1",
+            "title": "Episode 300: I'm That Guy",
+            "link": "https://mtjc.fireside.fm/300",
+            "updated": 1590829200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "33c56c5b-5859-41ee-84f2-b3a367c729b7",
+            "title": "Episode 299: WWDC 2020 Wishlist",
+            "link": "https://mtjc.fireside.fm/299",
+            "updated": 1590228000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3e5449f4-18f0-4a69-9357-b594486525db",
+            "title": "Episode 298: Double Waffle Double Patty Bacon Jam Cognac Maple Syrup",
+            "link": "https://mtjc.fireside.fm/298",
+            "updated": 1589637600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0f09c0e5-4cdd-4475-8c05-78ec8fe241e8",
+            "title": "Episode 297: Butterflies In My Stomach - MacBook Pro 13",
+            "link": "https://mtjc.fireside.fm/297",
+            "updated": 1589011200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e93c37f4-2794-4d8b-9190-0481fe1ceb88",
+            "title": "Episode 296: A Stab in the Dark",
+            "link": "https://mtjc.fireside.fm/296",
+            "updated": 1588420800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a9c77e78-37e5-4125-9941-1a11a9ef2459",
+            "title": "Episode 295: Deep Purple Rain",
+            "link": "https://mtjc.fireside.fm/295",
+            "updated": 1587798000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8bd5fe8b-91f9-4907-a31c-f2ca6fba81c5",
+            "title": "Episode 294: Contact Tracing & iPhone SE",
+            "link": "https://mtjc.fireside.fm/294",
+            "updated": 1587196800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "38689662-6cdd-43ee-9c83-c9ff182f3620",
+            "title": "Episode 293: Personal Protection Edition",
+            "link": "https://mtjc.fireside.fm/293",
+            "updated": 1586588400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "eb64db95-51e9-4f67-b2e2-eb13bb314f36",
+            "title": "Episode 292: Lopez 2024",
+            "link": "https://mtjc.fireside.fm/292",
+            "updated": 1585998000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "cb1a436f-d8c0-456f-8e85-25bf8ddc75da",
+            "title": "Episode 291: Social Distance Edition",
+            "link": "https://mtjc.fireside.fm/291",
+            "updated": 1585396800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d02bf288-8b3d-4876-92dd-ba5e76ce4d31",
+            "title": "Episode 290: Hurry Up Apple!",
+            "link": "https://mtjc.fireside.fm/290",
+            "updated": 1584792000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c09e1bb2-2c6a-4d7e-9d71-a2301b2729f6",
+            "title": "Episode 289: Flattening the Curve",
+            "link": "https://mtjc.fireside.fm/289",
+            "updated": 1584194400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c5574f96-7f71-4b29-a3dd-089fe334e38b",
+            "title": "Episode 288: The Apocalypse Will Not Be Televised",
+            "link": "https://mtjc.fireside.fm/288",
+            "updated": 1583609400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d2128945-e705-4709-b732-2bd07e32b825",
+            "title": "Episode 287: What's New in Neumorphism",
+            "link": "https://mtjc.fireside.fm/287",
+            "updated": 1582970400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "91fffa31-0628-463c-a97d-c28ce966a83c",
+            "title": "Episode 286: iOS Performance Tips",
+            "link": "https://mtjc.fireside.fm/286",
+            "updated": 1582419600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6490c5ee-5c72-4518-9df4-ac8daf70c6d6",
+            "title": "Episode 285: Convenience vs Security",
+            "link": "https://mtjc.fireside.fm/285",
+            "updated": 1581777000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6d4a5ad7-9f33-4289-bedb-525495c26136",
+            "title": "Episode 284: The Accidental Security Podcast",
+            "link": "https://mtjc.fireside.fm/284",
+            "updated": 1581199200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "983bd7dc-ca4b-4308-a476-f775c28d9112",
+            "title": "Episode 283: Limited Edition",
+            "link": "https://mtjc.fireside.fm/283",
+            "updated": 1580594400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c829916a-3f87-4ec1-b3f4-ac1ebdd936e4",
+            "title": "Episode 282: Rack 'Em Up",
+            "link": "https://mtjc.fireside.fm/282",
+            "updated": 1579989600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0dea967d-e7d4-4f57-bfce-79b5c77bfd32",
+            "title": "Episode 281: The Best of SwiftUI so far...",
+            "link": "https://mtjc.fireside.fm/281",
+            "updated": 1579564800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7568fa34-77d9-4526-b172-949fbeee5427",
+            "title": "Episode 280: This Is Not Your Mother's Star Wars",
+            "link": "https://mtjc.fireside.fm/280",
+            "updated": 1578762000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c98ea819-9e25-4b26-9b72-e1356376f6a9",
+            "title": "Episode 279: The Trough of Disillusionment",
+            "link": "https://mtjc.fireside.fm/279",
+            "updated": 1576947600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "75c49ed4-9d27-4fd0-96bf-4ef41fee7325",
+            "title": "Episode 278: Introducing the Mac Pro Max",
+            "link": "https://mtjc.fireside.fm/278",
+            "updated": 1576330200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e008d6d3-7f07-4a0f-992b-d18f917dd9a9",
+            "title": "Episode 277: Math Porn",
+            "link": "https://mtjc.fireside.fm/277",
+            "updated": 1575748800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d5bb80fb-6dad-4f1b-8750-cf474411e4c2",
+            "title": "Episode 276: Ok Boomer",
+            "link": "https://mtjc.fireside.fm/276",
+            "updated": 1575118800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "db979994-7252-4c88-aab2-48cb38bc3852",
+            "title": "Episode 275: Another Bit of Entropy",
+            "link": "https://mtjc.fireside.fm/275",
+            "updated": 1574515800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3fb4145b-9cc6-47f9-baac-fb720df96e45",
+            "title": "Episode 274: SwiftUI Canvas Attributes Inspector",
+            "link": "https://mtjc.fireside.fm/274",
+            "updated": 1573927200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bb2ac40e-f0af-4d30-97d5-454fa37beb72",
+            "title": "Episode 273: The Future Is Scary",
+            "link": "https://mtjc.fireside.fm/273",
+            "updated": 1573322400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "32f2a3ff-547a-469f-9bbb-543c6094ed6c",
+            "title": "Episode 272: Apple's Back",
+            "link": "https://mtjc.fireside.fm/272",
+            "updated": 1572696000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0efa5866-f847-4d3c-8697-f0a1b6b996d8",
+            "title": "Episode 271: Cheetos Finger Hot Dog Stylus",
+            "link": "https://mtjc.fireside.fm/271",
+            "updated": 1572116400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "cc961e2f-cf8e-4f54-a778-a95756822ca1",
+            "title": "Episode 270: Who Moved My Dang Cheese?",
+            "link": "https://mtjc.fireside.fm/270",
+            "updated": 1571479200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bb0bd295-1a00-45ec-a0bf-8fe6c0beb388",
+            "title": "Episode 269: Best of MTJC: Devs On the Street \u2014 LIVE from WWDC 2019",
+            "link": "https://mtjc.fireside.fm/269",
+            "updated": 1570860000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f0e780f1-21b5-4718-95b3-57b02d47c30d",
+            "title": "Episode 268: Xcode Memory View",
+            "link": "https://mtjc.fireside.fm/268",
+            "updated": 1570222800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "315adab1-c4a1-4b33-81ef-dd112e765732",
+            "title": "Episode 267: Great Developers Paste",
+            "link": "https://mtjc.fireside.fm/267",
+            "updated": 1569618000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "caa90e3b-09ae-4af8-a9f4-9d0534ffcab8",
+            "title": "Episode 266: What Color Is Your Apple Card?",
+            "link": "https://mtjc.fireside.fm/266",
+            "updated": 1569067200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "45f47849-0c30-4287-a1b0-0a49696b1f30",
+            "title": "Episode 265: AppleTV+ and Chill",
+            "link": "https://mtjc.fireside.fm/265",
+            "updated": 1568480400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2c68af84-d505-45f2-a942-744ee9b1acfb",
+            "title": "Episode 264: Morgan Just Go!",
+            "link": "https://mtjc.fireside.fm/264",
+            "updated": 1567810800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e5745de0-215a-4918-868d-5984f62f6a82",
+            "title": "Episode 263: What Is A Pro iPhone User?",
+            "link": "https://mtjc.fireside.fm/263",
+            "updated": 1567270800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1b056ccb-0e67-4c3e-9e9b-34a9340cb164",
+            "title": "Episode 262: The Evil Geniuses Podcast",
+            "link": "https://mtjc.fireside.fm/262",
+            "updated": 1566691200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a9714693-7ee3-4ec9-b16b-0754ae95218c",
+            "title": "Episode 261: Even Cowdogs Get the Blues",
+            "link": "https://mtjc.fireside.fm/261",
+            "updated": 1566054000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "201b94eb-a025-44b2-9e2a-935921041dfa",
+            "title": "Episode 260: Can't Fit a Pizza Through a Tube!",
+            "link": "https://mtjc.fireside.fm/260",
+            "updated": 1565424000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "39cf122f-4cff-41a6-b572-873a4c8a8b4b",
+            "title": "Episode 259: Crossing the Rubicon",
+            "link": "https://mtjc.fireside.fm/259",
+            "updated": 1564783200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "59d71d4c-51d9-4bf1-a151-7743977d66ff",
+            "title": "Episode 258: No One's Going To Buy the Cow",
+            "link": "https://mtjc.fireside.fm/258",
+            "updated": 1564228800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ded520fe-1b2c-49e7-b11c-71b37bc70b67",
+            "title": "Episode 257: Best of MTJC: LIVE from the WWDC 2019 Podcast Studio",
+            "link": "https://mtjc.fireside.fm/257",
+            "updated": 1563570000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "96fdafde-fc6f-43df-b04d-ecc8af15c8b5",
+            "title": "Episode 256: Exploits, Recalls, Silent Updates, nil",
+            "link": "https://mtjc.fireside.fm/256",
+            "updated": 1563004800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bdea7fcc-b92a-4b3e-9203-a24c3e313be2",
+            "title": "Episode 255: We The Podcast",
+            "link": "https://mtjc.fireside.fm/255",
+            "updated": 1562396400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3496a17a-8c0d-4e42-b5be-ff76f3099a0e",
+            "title": "Episode 254: Fraking SwiftUI",
+            "link": "https://mtjc.fireside.fm/254",
+            "updated": 1561759200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1bb84013-8d59-4df0-873f-a4c2be7a672d",
+            "title": "Episode 253: A Link In the Show Notes",
+            "link": "https://mtjc.fireside.fm/253",
+            "updated": 1561154400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e2511601-7cfc-4898-8151-cc6dd01e9354",
+            "title": "Episode 252: The Most Expensive Dongle",
+            "link": "https://mtjc.fireside.fm/252",
+            "updated": 1560538800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d7cf1e7d-7822-4520-9fa8-ccce01fa054b",
+            "title": "Episode 251: Devs On the Street \u2014 LIVE from WWDC 2019",
+            "link": "https://mtjc.fireside.fm/251",
+            "updated": 1560017700,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5f2309e8-17fa-4cfd-a2d3-58b07aef0d91",
+            "title": "Episode 250: LIVE from the WWDC 2019 Podcast Studio",
+            "link": "https://mtjc.fireside.fm/250",
+            "updated": 1559991600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "613ac287-e6a4-4207-b27a-e817352a3495",
+            "title": "Episode 249: The WWDC Over Under",
+            "link": "https://mtjc.fireside.fm/249",
+            "updated": 1559340000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "58fcde50-0be7-476f-ba5f-571dd244d045",
+            "title": "Episode 248: Opaque Boycott Nutshell",
+            "link": "https://mtjc.fireside.fm/248",
+            "updated": 1558735200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "eb00d9fb-19c7-488b-8989-38ba4d7a61bb",
+            "title": "Episode 247: The Rental Economy",
+            "link": "https://mtjc.fireside.fm/247",
+            "updated": 1558112400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8962414b-4591-431c-854d-2d3bd3196071",
+            "title": "WWDC San Jose Travel Advice, Best of MTJC",
+            "link": "https://mtjc.fireside.fm/246b",
+            "updated": 1558044000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7d22e6ab-eaa9-48f5-bc87-dacbd7f69d87",
+            "title": "Episode 246: Google I/O Highlights and WWDC Preview",
+            "link": "https://mtjc.fireside.fm/246",
+            "updated": 1557561600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "43e0be2e-f405-4edc-ae7a-a09a21725a0b",
+            "title": "Episode 245: Back Bacon and Pineapple",
+            "link": "https://mtjc.fireside.fm/245",
+            "updated": 1556917200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8eb66788-297b-4d5b-9bb4-3351528a325d",
+            "title": "Episode 244: Game of Drones",
+            "link": "https://mtjc.fireside.fm/244",
+            "updated": 1556258400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2b33814d-e9d2-488b-a2ef-0f17e86bd0b0",
+            "title": "Episode 243: The Dark Side of the Luna",
+            "link": "https://mtjc.fireside.fm/243",
+            "updated": 1555707600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7485ed7f-52ce-4ea7-a87a-118d92bceb14",
+            "title": "Episode 242: The Rise of Marzipan",
+            "link": "https://mtjc.fireside.fm/242",
+            "updated": 1555189200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ccb04bea-118c-459a-a389-e42ce5be7f68",
+            "title": "Episode 241: Artisanal Enums",
+            "link": "https://mtjc.fireside.fm/241",
+            "updated": 1554584400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e7b18e03-dd02-4627-8e2f-52417998e789",
+            "title": "Episode 240: Titanium Services",
+            "link": "https://mtjc.fireside.fm/240",
+            "updated": 1553929200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "953328cb-073d-4330-b1d3-4220325f6fdb",
+            "title": "Episode 239: Usurious Charges",
+            "link": "https://mtjc.fireside.fm/239",
+            "updated": 1553338800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "717551c6-5774-42d3-85a2-752e418e8bae",
+            "title": "Episode 238: You Can Check Out Anytime You Like...",
+            "link": "https://mtjc.fireside.fm/238",
+            "updated": 1552734000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bc6606f0-ab7a-4b76-b9b3-ef01e6572068",
+            "title": "Episode 237: Arbitrary Lines in the Sand",
+            "link": "https://mtjc.fireside.fm/237",
+            "updated": 1552147200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "950fae33-1858-4224-b6ef-2d85486e7387",
+            "title": "Episode 236: In a Plexiglass Box",
+            "link": "https://mtjc.fireside.fm/236",
+            "updated": 1551513600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "feaf7e51-08db-420b-81f6-625e57477731",
+            "title": "Episode 235: Twice as Big as It Needs To Be",
+            "link": "https://mtjc.fireside.fm/235",
+            "updated": 1550912400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "76002c4a-e35e-4b15-801a-3f7c5a66ae27",
+            "title": "Episode 234: It's Mostly Obfuscated",
+            "link": "https://mtjc.fireside.fm/234",
+            "updated": 1550343600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "05eac6b2-386c-499f-94d5-62b7d98de08e",
+            "title": "Episode 233: A Trusted Advisor",
+            "link": "https://mtjc.fireside.fm/233",
+            "updated": 1549699200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "323cd220-7555-4578-9fae-5ccd9cccdea0",
+            "title": "Episode 232: Losing Face",
+            "link": "https://mtjc.fireside.fm/232",
+            "updated": 1549098000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0c3f3901-8c89-4ca8-bf06-6fad04e04ca1",
+            "title": "Episode 231: Even Villains Gotta Listen",
+            "link": "https://mtjc.fireside.fm/231",
+            "updated": 1548435600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5c0499c7-727b-494b-8cad-86e4d628f575",
+            "title": "Episode 230: We All Lose",
+            "link": "https://mtjc.fireside.fm/230",
+            "updated": 1547888400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b0cf948b-9a65-42d4-87bb-e5fc69c43c78",
+            "title": "Episode 229: Feeling The Pinch",
+            "link": "https://mtjc.fireside.fm/229",
+            "updated": 1547280000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4b2de5cc-8f80-4431-b1cb-38bd7790ebff",
+            "title": "Episode 228: Beavers & Bellwethers",
+            "link": "https://mtjc.fireside.fm/228",
+            "updated": 1546675200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3ed9e591-6295-4e15-a5a6-8b7afc596eb5",
+            "title": "Episode 227: They're Everywhere! They're Everywhere!",
+            "link": "https://mtjc.fireside.fm/227",
+            "updated": 1546070400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a7f2cdf0-78cf-413c-90eb-009e52af47f0",
+            "title": "Episode 226: Bendgate Pro",
+            "link": "https://mtjc.fireside.fm/226",
+            "updated": 1545465600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "89ae9e2f-3721-4912-9f2e-891b3986f46e",
+            "title": "Episode 225: A BIt Of A Fumble",
+            "link": "https://mtjc.fireside.fm/225",
+            "updated": 1544860800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0062444d-8550-45f3-abe1-39087d045ac8",
+            "title": "Episode 224: Siri, Open The Pod Bay Doors",
+            "link": "https://mtjc.fireside.fm/224",
+            "updated": 1544256000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b4bd8148-91ae-4141-9291-8b2b6b90ffc1",
+            "title": "Episode 223: With Scary Air Quotes",
+            "link": "https://mtjc.fireside.fm/223",
+            "updated": 1543650300,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "82878f73-fe24-4500-a80b-45a2e86a379e",
+            "title": "Episode 222: Everyone's A Publisher",
+            "link": "https://mtjc.fireside.fm/222",
+            "updated": 1543055400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "97b86f60-e0cc-42ee-a372-76126db04824",
+            "title": "Episode 221: Not Expected Behavior",
+            "link": "https://mtjc.fireside.fm/221",
+            "updated": 1542445200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ca0b96ed-b951-4669-825f-e3cc29163af8",
+            "title": "Episode 220: It\u2019s Better Than AR",
+            "link": "https://mtjc.fireside.fm/220",
+            "updated": 1541851200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "80a68048-402a-4172-acfd-ee7817a1f6aa",
+            "title": "Episode 219: Acquisitions and Murders",
+            "link": "https://mtjc.fireside.fm/219",
+            "updated": 1541242800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3ced10a1-c2e7-4ea3-9713-3fd17ea4ce2a",
+            "title": "Episode 218: Golfing With the Blue Jays",
+            "link": "https://mtjc.fireside.fm/218",
+            "updated": 1540638000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "47d7b81f-ddaa-4d47-b65f-2fab2dce262e",
+            "title": "Episode 217: On the Up and Up",
+            "link": "https://mtjc.fireside.fm/217",
+            "updated": 1540026000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "80ddea93-3862-4044-a962-60e045bad573",
+            "title": "Episode 216: Bananas & Lies",
+            "link": "https://mtjc.fireside.fm/216",
+            "updated": 1539417600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b9b27def-352d-4764-b6ee-f18635b5b055",
+            "title": "Episode 215: The Left Handed Bird Flip",
+            "link": "https://mtjc.fireside.fm/215",
+            "updated": 1538812800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a7311aeb-980a-4ffd-a81c-426fbc259c8f",
+            "title": "Episode 214: Don't Panic Jaime!",
+            "link": "https://mtjc.fireside.fm/214",
+            "updated": 1538204400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "00ebe366-945e-40f6-8efa-337ac3052167",
+            "title": "Episode 213: The Three Tenners",
+            "link": "https://mtjc.fireside.fm/213",
+            "updated": 1537556400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ef99c5f6-d97b-4ad3-b71d-ab0380dfbc0f",
+            "title": "Episode 212: The Boiling Point",
+            "link": "https://mtjc.fireside.fm/212",
+            "updated": 1536962400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "806e0565-b308-4f39-9e39-81bf82e3f259",
+            "title": "Episode 211: Remortgage Your House",
+            "link": "https://mtjc.fireside.fm/211",
+            "updated": 1536357600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d424541e-7a32-4206-b0c7-520d8b12602c",
+            "title": "Episode 210: Best of Choice Cuts",
+            "link": "https://mtjc.fireside.fm/210",
+            "updated": 1535878800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a8f9e296-ff51-41fc-be66-096ecc20f0f1",
+            "title": "Episode 209: When It Worked, It Just Worked",
+            "link": "https://mtjc.fireside.fm/209",
+            "updated": 1535155200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c01d209a-3669-44c5-99ce-c34b832ab1b7",
+            "title": "Episode 208: The Bio Sensor",
+            "link": "https://mtjc.fireside.fm/208",
+            "updated": 1534536000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8e7f4e45-1a45-485e-a89a-2d7c43b9528c",
+            "title": "Episode 207: Back To School Special",
+            "link": "https://mtjc.fireside.fm/207",
+            "updated": 1533942000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b31d21b7-829b-4ae1-8b18-bbe2ca9f5f9a",
+            "title": "Episode 206: Bend The Knee",
+            "link": "https://mtjc.fireside.fm/206",
+            "updated": 1533384000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c4edf287-8001-43da-bc3e-d76c373cbc0d",
+            "title": "Episode 205: The Norwegian Moose",
+            "link": "https://mtjc.fireside.fm/205",
+            "updated": 1532761200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1bba0d96-e3bb-411d-8854-dbba5fba01b0",
+            "title": "Episode 204: More Than Just Meat",
+            "link": "https://mtjc.fireside.fm/204",
+            "updated": 1532160000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "027d4335-6137-416a-9b58-7748968be37e",
+            "title": "Episode 203: One and Done!",
+            "link": "https://mtjc.fireside.fm/203",
+            "updated": 1531562400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "24be6c5c-e9a3-489f-bab5-65fb56d0a607",
+            "title": "Episode 202: Zombies Know No Borders",
+            "link": "https://mtjc.fireside.fm/202",
+            "updated": 1530910800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c7688341-8056-4266-9ab2-a9d9c478f980",
+            "title": "Episode 201: Who Are you People!?",
+            "link": "https://mtjc.fireside.fm/201",
+            "updated": 1530345600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ec3856b1-15b9-4679-bfe3-e57615d2d491",
+            "title": "Episode 200: Auto Bicentennial Selfies",
+            "link": "https://mtjc.fireside.fm/200",
+            "updated": 1529755200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bd0ee2ff-4e36-46a3-a8f0-58d1fd6da1b9",
+            "title": "Episode 199: Your WWDC 2018 E-Ticket",
+            "link": "https://mtjc.fireside.fm/199",
+            "updated": 1529100000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "58ab99e1-d63d-4163-86ae-c8e4a83ac3c5",
+            "title": "Episode 198: WWDC 2018 Reflections",
+            "link": "https://mtjc.fireside.fm/198",
+            "updated": 1528502400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bc46d8ac-a301-4dbc-9d1d-bfaa033a010a",
+            "title": "Episode 197: Dub Dub San Jose: WWDC Crystal Ball",
+            "link": "https://mtjc.fireside.fm/197",
+            "updated": 1527894000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "83432797-fc1b-4680-a932-0869cc810f1c",
+            "title": "Preview: WWDC Travel advice",
+            "link": "https://mtjc.fireside.fm/197p",
+            "updated": 1527825600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "631501d1-89d6-42e6-bcc8-268cb22d5750",
+            "title": "Episode 196: Test Backed Development",
+            "link": "https://mtjc.fireside.fm/196",
+            "updated": 1527285600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c83662ac-8caf-47a0-a5b0-236d2d4b4280",
+            "title": "Episode 195: There's Still Good In You",
+            "link": "https://mtjc.fireside.fm/195",
+            "updated": 1526734800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "12e2177b-2afe-4e0e-b024-c118d0eabb28",
+            "title": "Episode 194: There Is No Step Three",
+            "link": "https://mtjc.fireside.fm/194",
+            "updated": 1526198400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "eb86c657-7432-4831-81b9-0780741932f7",
+            "title": "Episode 193: Mind Altering Software Development",
+            "link": "https://mtjc.fireside.fm/193",
+            "updated": 1525507200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "fb1226ca-c66c-4e56-ae31-5d82f3ce37ad",
+            "title": "Episode 192: The Quadruple One",
+            "link": "https://mtjc.fireside.fm/192",
+            "updated": 1524909600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "366de23f-a503-4645-b0ce-4ec9f7c8724a",
+            "title": "Episode 191: Functional Brain Hacking",
+            "link": "https://mtjc.fireside.fm/191",
+            "updated": 1524258900,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0f0e4919-e878-409b-97df-67de9ec57c2a",
+            "title": "Episode 190: Test Is Green. Code Is Clean.",
+            "link": "https://mtjc.fireside.fm/190",
+            "updated": 1523692800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "28aa5cd7-0b7f-44cd-91dd-27be233397a3",
+            "title": "Episode 189: Peanut Butter & Jelly Driven Development (PBJDD)",
+            "link": "https://mtjc.fireside.fm/189",
+            "updated": 1523073600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2e242904-e3fb-48ea-a8e2-4a78d6d9feec",
+            "title": "Episode 188: Throwing Data Collection Under the Bus",
+            "link": "https://mtjc.fireside.fm/188",
+            "updated": 1522440000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "07a25671-fef8-4cf8-bf0d-c92c033bf16a",
+            "title": "Episode 187: WWDC Sorting Hat",
+            "link": "https://mtjc.fireside.fm/187",
+            "updated": 1521871200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "665b3627-ff30-410b-bfbc-12d97f0e120b",
+            "title": "Episode 186: iPhone X: /a\u026a/ /f\u0259\u028an/ /ten/",
+            "link": "https://mtjc.fireside.fm/186",
+            "updated": 1521237600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "46cec856-4442-4d0a-9621-4e764cf3f993",
+            "title": "Episode 185: iPhone OS SDK - Down Memory Lane",
+            "link": "https://mtjc.fireside.fm/185",
+            "updated": 1520665200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2ee0db44-cccd-4996-a6ea-a5d23f4668ac",
+            "title": "Episode 184: Piercing the Veil",
+            "link": "https://mtjc.fireside.fm/184",
+            "updated": 1519423200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "47075f91-adca-4e6d-a971-6b3bfc4a8517",
+            "title": "Episode 183: I Can't Hear It From Here",
+            "link": "https://mtjc.fireside.fm/183",
+            "updated": 1518858000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5a79f9de-ed2f-4e84-b30f-b5ef43e540d3",
+            "title": "Episode 182: Bob Hamilton's Ride",
+            "link": "https://mtjc.fireside.fm/182",
+            "updated": 1518242400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c381051d-7d4e-46ca-8bc0-d86e0da9b827",
+            "title": "Episode 181: Where Power Resides",
+            "link": "https://mtjc.fireside.fm/181",
+            "updated": 1517641200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ffbcbd6d-06d9-479d-b995-1d0e453f0b77",
+            "title": "Episode 180: Home, James, and don't spare the horses.",
+            "link": "https://mtjc.fireside.fm/180",
+            "updated": 1516993200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "53010f28-55e6-4d9e-8366-24a2fdfa272d",
+            "title": "Episode 179: Ceci n'est pas un podcast",
+            "link": "https://mtjc.fireside.fm/179",
+            "updated": 1516446000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "87c4cca7-b2d5-436c-af93-1af73104c83f",
+            "title": "Episode 178: Plug and Pray",
+            "link": "https://mtjc.fireside.fm/178",
+            "updated": 1515859200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "df76e379-0cfc-4f05-85db-fb1af1fa2c7c",
+            "title": "Episode 177: It Was Black Magic",
+            "link": "https://mtjc.fireside.fm/177",
+            "updated": 1515222000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "11bcc6ae-cf1b-4297-9c77-4f3961057db5",
+            "title": "Episode 176: Best of MTJC: WWDC Detox - 2017 Edition",
+            "link": "https://mtjc.fireside.fm/176",
+            "updated": 1514628000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4ba61135-be8a-4ac7-8577-db0f6d01b179",
+            "title": "Episode 175: Get Off My Lawn!",
+            "link": "https://mtjc.fireside.fm/175",
+            "updated": 1513897200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "d5f1f61b-bb08-4828-82be-568e4e3806f4",
+            "title": "Episode 174: I Didn't Even Know He Was Gone",
+            "link": "https://mtjc.fireside.fm/174",
+            "updated": 1513429200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9f7a27cf-1b22-4ff1-8211-7df5e460ca19",
+            "title": "Episode 173: Show Me The Money",
+            "link": "https://mtjc.fireside.fm/173",
+            "updated": 1512810000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "b1939653-1990-4fc8-9a94-9bba42498871",
+            "title": "Episode 172: Peggy Bundy Style",
+            "link": "https://mtjc.fireside.fm/172",
+            "updated": 1512204300,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "850ac105-6ff1-4cbc-a5f7-efa49927ed42",
+            "title": "Episode 171: A Fiduciary Duty",
+            "link": "https://mtjc.fireside.fm/171",
+            "updated": 1511607600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "96a97b1e-3c43-400b-b7b2-d961566f65c0",
+            "title": "Episode 170: Not Fully Formed",
+            "link": "https://mtjc.fireside.fm/170",
+            "updated": 1510988400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "49ca6b9d-30e5-4287-9db3-6057f3868a88",
+            "title": "Episode 169: The Inverted J",
+            "link": "https://mtjc.fireside.fm/169",
+            "updated": 1510387200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0be38035-7373-4b50-8d14-ef54a189f62f",
+            "title": "Episode 168: Preaching To The Choir",
+            "link": "https://mtjc.fireside.fm/168",
+            "updated": 1509786000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "39d212bb-e5bb-41cd-8171-3052b3879766",
+            "title": "Episode 167: Death By Design",
+            "link": "https://mtjc.fireside.fm/167",
+            "updated": 1509177600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "13f798ae-bac5-4dbb-b56b-78dfa46d195e",
+            "title": "Episode 166: Geez. I Don't Know",
+            "link": "https://mtjc.fireside.fm/166",
+            "updated": 1508619600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "a3ae9e8b-a4c4-4528-b1fa-dc268b60ef16",
+            "title": "Episode 165: Elevated Privileges",
+            "link": "https://mtjc.fireside.fm/165",
+            "updated": 1507957200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5a2e55da-4ba1-46b6-837c-2a317eacab76",
+            "title": "Episode 164: Running Down a Dream",
+            "link": "https://mtjc.fireside.fm/164",
+            "updated": 1507363200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "ff1ec004-e0fb-4787-afe7-33a6d1f0e3ad",
+            "title": "Episode 163: The Coefficient of Friction Is \u00b5",
+            "link": "https://mtjc.fireside.fm/163",
+            "updated": 1506765600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6dcb4f62-79fd-403c-89ee-5e6dfb077e3b",
+            "title": "Episode 162: The Results Are In",
+            "link": "https://mtjc.fireside.fm/162",
+            "updated": 1506153600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "db2a9f72-9c35-42ae-8f2a-be3e1f84cdf1",
+            "title": "Episode 161: Valyrian Steel & Dragon Glass on the Back",
+            "link": "https://mtjc.fireside.fm/161",
+            "updated": 1505570400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4c8df15a-cfd7-4b9f-b4a0-27f4289b7284",
+            "title": "Episode 160: Not Dongle",
+            "link": "https://mtjc.fireside.fm/160",
+            "updated": 1504904400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5260202c-5188-403a-84f3-0fdb2163591a",
+            "title": "Episode 159: Walking Into Traffic",
+            "link": "https://mtjc.fireside.fm/159",
+            "updated": 1504292400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "314a7094-4cbc-41ef-b533-81b3a7844823",
+            "title": "Episode 158: Visual Inertial Odometry",
+            "link": "https://mtjc.fireside.fm/158",
+            "updated": 1503730800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e2142dd5-bc6b-492a-a5f4-c7854117f6f1",
+            "title": "Episode 157: A New Way To Procrastinate - Bootleg - LIVE @360iDev 2017",
+            "link": "https://mtjc.fireside.fm/157",
+            "updated": 1503090000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "da928e2e-1614-4601-b918-0470a6b1dcef",
+            "title": "Episode 156: Greedo Didn't Shoot First",
+            "link": "https://mtjc.fireside.fm/156",
+            "updated": 1502524800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "31c162e9-2d4e-4039-b8b5-3482cdc5750a",
+            "title": "Episode 155: A Near Miss",
+            "link": "https://mtjc.fireside.fm/155",
+            "updated": 1501912800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f3586b24-a4cd-4827-9a85-d9cf5263ed0b",
+            "title": "Episode 154: Baked In Store",
+            "link": "https://mtjc.fireside.fm/154",
+            "updated": 1501308000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0a8a7e51-8960-41e7-9843-72565fdf48e6",
+            "title": "Episode 153: Who's Next",
+            "link": "https://mtjc.fireside.fm/153",
+            "updated": 1500714000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9f98d96d-d780-4124-8f23-783f061fdfe7",
+            "title": "Episode 152: Word Jail",
+            "link": "https://mtjc.fireside.fm/152",
+            "updated": 1500107400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "956f899e-59df-4377-8d01-ef96ea1cb289",
+            "title": "Episode 151: A Sticky Wicket",
+            "link": "https://mtjc.fireside.fm/151",
+            "updated": 1499540400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "86f99078-6bd3-4cfc-8160-027ff99bfd46",
+            "title": "Episode 150: MTJC Sesquicentennial",
+            "link": "https://mtjc.fireside.fm/150",
+            "updated": 1498845600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "19f5d7f3-7fd7-47d2-8b7e-61388106c35b",
+            "title": "Episode 149: The First Rule of Purple",
+            "link": "https://mtjc.fireside.fm/149",
+            "updated": 1498294800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "553e763e-198a-4fdf-879f-2f2968199db6",
+            "title": "Episode 148: WWDC Detox - 2017 Edition",
+            "link": "https://mtjc.fireside.fm/148",
+            "updated": 1497679200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "335c6f9a-abbe-4699-8db8-0fa31e62cd4f",
+            "title": "Episode 147: WWDC 17 Impressions - Pirate Edition",
+            "link": "https://mtjc.fireside.fm/147",
+            "updated": 1497078000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "398a248a-587e-42b9-8c25-763670abb447",
+            "title": "Episode 146: Moobr - pick of the week",
+            "link": "https://mtjc.fireside.fm/146",
+            "updated": 1496491200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "984087f6-b32f-4eac-8b4e-26fb73e8a4c1",
+            "title": "Episode 145: Today At MTJC",
+            "link": "https://mtjc.fireside.fm/145",
+            "updated": 1495904400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e917da6c-2312-41f5-8f52-4af8faa0d4bc",
+            "title": "Episode 144: Greg Regrets the Error",
+            "link": "https://mtjc.fireside.fm/144",
+            "updated": 1495263600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f8d64865-2d4d-4e60-b14e-950eef4c67c8",
+            "title": "Episode 143: A Factorial Set of Permutations",
+            "link": "https://mtjc.fireside.fm/143",
+            "updated": 1494662400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e4888df6-7835-4949-9966-d18d3d997aac",
+            "title": "Episode 142: Leading From Behind",
+            "link": "https://mtjc.fireside.fm/142",
+            "updated": 1494072000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3328e269-a4d8-4cc9-a73e-922b2d04c828",
+            "title": "Episode 141: No Longer Spinning Rust, Best of the MTJC podcast",
+            "link": "https://mtjc.fireside.fm/141",
+            "updated": 1493409600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1e61db7d-ab05-4ace-9ce8-8710bc89bbc1",
+            "title": "Episode 140: Carrying the Shield",
+            "link": "https://mtjc.fireside.fm/140",
+            "updated": 1492840800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "f486cc9a-243c-4dc2-b473-0a56db0bbd82",
+            "title": "Episode 139: It's All Magic To Me, Man.",
+            "link": "https://mtjc.fireside.fm/139",
+            "updated": 1492200000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c60c7061-c6bb-4b8d-b115-c27fb2a03815",
+            "title": "Episode 138: Reports of My Death Have Been Greatly Exaggerated",
+            "link": "https://mtjc.fireside.fm/138",
+            "updated": 1491642000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "706c16c3-7b2f-4da9-9daf-a3b2c140aa42",
+            "title": "Episode 137: A Dongle Itself",
+            "link": "https://mtjc.fireside.fm/137",
+            "updated": 1491109200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "70cb623b-a836-4fa5-a41d-7cb4d104793c",
+            "title": "Episode 136: A Drive By",
+            "link": "https://mtjc.fireside.fm/136",
+            "updated": 1490425200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3d872652-84d1-4c67-917a-0e03150cfc76",
+            "title": "Episode 135: Etymology and You, by Gregory Archibald Heo Esq.",
+            "link": "https://mtjc.fireside.fm/135",
+            "updated": 1489820400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1f9f7f85-1344-4cad-a146-e83c0e96f8c7",
+            "title": "Episode 134: Industrial Grade Tin Foil Hats",
+            "link": "https://mtjc.fireside.fm/134",
+            "updated": 1489230000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7eeec562-02e1-46fa-82ab-f795c92913de",
+            "title": "Episode 133: All Green Across the Board",
+            "link": "https://mtjc.fireside.fm/133",
+            "updated": 1488639600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "e98c4795-1d72-4629-bdbd-2c6c238604d4",
+            "title": "Episode 132: Technically a Renovation",
+            "link": "https://mtjc.fireside.fm/132",
+            "updated": 1488013200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "dbdd6ac4-2f9d-4cfb-8196-6cd11bb29e11",
+            "title": "Episode 131: Driving In Cars At Home - Recorded LIVE Feb 15, 2017",
+            "link": "https://mtjc.fireside.fm/131",
+            "updated": 1487455200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "85e8a9f0-44fe-42e2-9336-c081d8761890",
+            "title": "Episode 130: Like a Russian Nesting Doll",
+            "link": "https://mtjc.fireside.fm/130",
+            "updated": 1486796400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6a4c162c-d4c5-49cb-828f-fc0797328c5e",
+            "title": "Episode 129: Dangling Participles",
+            "link": "https://mtjc.fireside.fm/129",
+            "updated": 1486202400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "c8876441-b1c8-45ac-8106-044317f9da2c",
+            "title": "Episode 128: I'm So Wasted",
+            "link": "https://mtjc.fireside.fm/128",
+            "updated": 1485550800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2e602dba-b21d-4ba7-bc95-e68783c83f48",
+            "title": "Episode 127: Empty Jay Sea and the Holy Grail",
+            "link": "https://mtjc.fireside.fm/127",
+            "updated": 1484978400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "362f7549-9201-4381-b700-ac1b28bfd5ae",
+            "title": "Episode 126: What the iPhone Means to Me",
+            "link": "https://mtjc.fireside.fm/126",
+            "updated": 1484216100,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "bdd55149-332d-4035-bdd4-46c2b87fcfa4",
+            "title": "Episode 125: Instant Gratification",
+            "link": "https://mtjc.fireside.fm/125",
+            "updated": 1483786800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7b9d0d22-62d6-4f2b-9f69-65f8d66ef160",
+            "title": "Episode 124: AllowsArbitraryLoads",
+            "link": "https://mtjc.fireside.fm/124",
+            "updated": 1482555600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "877593B0-38A8-4402-86FC-B132C59C39D5",
+            "title": "Episode 123: Tea. Earl Grey, Hot!",
+            "link": "https://mtjc.fireside.fm/123",
+            "updated": 1481986800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1AAFA5D3-E394-40E1-B171-3CDB5315943F",
+            "title": "Episode 122: What is Internet?",
+            "link": "https://mtjc.fireside.fm/122",
+            "updated": 1481374800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C1423B14-A0AD-4489-877B-76ED69A3BD7D",
+            "title": "Episode 121: For Entertainment Purposes Only",
+            "link": "https://mtjc.fireside.fm/121",
+            "updated": 1480788000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9AFD859C-3DEF-424A-A282-3FA0C1186789",
+            "title": "Episode 120: Where Do You Draw the Line?",
+            "link": "https://mtjc.fireside.fm/120",
+            "updated": 1480176000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9DCB5B64-CE0B-4D7A-8340-4E7EF20EDB26",
+            "title": "Episode 119: Touch\u00e9 Monsieur Pussycat",
+            "link": "https://mtjc.fireside.fm/119",
+            "updated": 1479632400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "39DABD96-743E-485D-A4B2-0FCCE8ED6C07",
+            "title": "Episode 118: The Fun-Key Edition",
+            "link": "https://mtjc.fireside.fm/118",
+            "updated": 1478944800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "659D21A2-2A47-4CD7-9230-6E20D1C7A560",
+            "title": "Episode 117: All That and a Bag of Dongles",
+            "link": "https://mtjc.fireside.fm/117",
+            "updated": 1478419200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7DFE378E-EF92-4BAC-B046-A6D2DBCF3D98",
+            "title": "Episode 116: Back to the Future of Desktop",
+            "link": "https://mtjc.fireside.fm/116",
+            "updated": 1477746000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5161E60C-972F-4B5D-8E4D-06C7D414F093",
+            "title": "Episode 115: Podcast Time Machine",
+            "link": "https://mtjc.fireside.fm/115",
+            "updated": 1477148400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "035BE2F9-C753-4354-B726-2AAA53AA2992",
+            "title": "Episode 114: I Can Eat More Salt Than You",
+            "link": "https://mtjc.fireside.fm/114",
+            "updated": 1476539100,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "574434DE-AD1F-43FD-8C23-4B6A07A7D94A",
+            "title": "Episode 113: Less Likely to Catch Fire",
+            "link": "https://mtjc.fireside.fm/113",
+            "updated": 1475953200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9FA12308-DC30-4255-B24E-C23FF3392DAE",
+            "title": "Episode 112: Maple Syrup Reserves",
+            "link": "https://mtjc.fireside.fm/112",
+            "updated": 1475326800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "E9B93890-D7F4-4160-A862-18542DDACC39",
+            "title": "Episode 111: Storm & Stress",
+            "link": "https://mtjc.fireside.fm/111",
+            "updated": 1474754400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "AB97FC2F-E764-47C2-ACEC-E11D9573511E",
+            "title": "Episode 109: Airpods and the Future",
+            "link": "https://mtjc.fireside.fm/109",
+            "updated": 1474311600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "847B2D7E-F221-436C-8AFD-6525C09AFA6A",
+            "title": "Episode 110: Live from Indie Devstock with Tammy Coron, Greg Heo & Joe Cieplinski",
+            "link": "https://mtjc.fireside.fm/110",
+            "updated": 1474182000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "B5A12F1A-F05C-4E26-B593-5C832522E059",
+            "title": "Episode 108: The Magnificent Seven?",
+            "link": "https://mtjc.fireside.fm/108",
+            "updated": 1473490800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3A7D8D39-8CFA-460E-B751-CE776B0CB358",
+            "title": "Episode 107: The Worst of Both Worlds",
+            "link": "https://mtjc.fireside.fm/107",
+            "updated": 1472904000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "63504C18-4420-41BC-A41B-8DACE7FB442F",
+            "title": "Episode 106: Failing Gracefully",
+            "link": "https://mtjc.fireside.fm/106",
+            "updated": 1472310000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2CD601C0-1DFA-4567-ABC3-4499B3D94200",
+            "title": "Episode 105: Shutting the Door",
+            "link": "https://mtjc.fireside.fm/105",
+            "updated": 1471770000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "E21BA6D8-F552-4176-8865-6E61505BEEA4",
+            "title": "Episode 104: Mix Another Metaphor",
+            "link": "https://mtjc.fireside.fm/104",
+            "updated": 1471093200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "D39D6958-131F-4215-9435-70F84DCDE166",
+            "title": "Episode 103: This Particular Form of Magic",
+            "link": "https://mtjc.fireside.fm/103",
+            "updated": 1470502800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "BF7D0FBE-3BB8-4F11-804D-5930E59452FA",
+            "title": "Episode 102: A Tree Branch With a Chip Attached",
+            "link": "https://mtjc.fireside.fm/102",
+            "updated": 1469905200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7A30DE1B-F1E8-49C6-B978-DDA0B42D74A8",
+            "title": "Episode 101: Has a Shiny Apple Logo On It",
+            "link": "https://mtjc.fireside.fm/101",
+            "updated": 1469354400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A6485907-15F8-489D-9145-E145DE2E0238",
+            "title": "Episode 100: Rocket to the Moon",
+            "link": "https://mtjc.fireside.fm/100",
+            "updated": 1468688400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2B150A72-9FC7-43D3-9342-D8E1D88C80E8",
+            "title": "Episode 99: Tenth Anniversary iPhone",
+            "link": "https://mtjc.fireside.fm/99",
+            "updated": 1468047600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "539D2784-5A6F-49D3-8C6D-70A770D581E7",
+            "title": "Episode 98: No Longer Spinning Rust",
+            "link": "https://mtjc.fireside.fm/98",
+            "updated": 1467403200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "DFE618D4-3ED0-40B4-8E7B-F681B0880676",
+            "title": "Episode 97: More Than Just WWDC 2016 Videos",
+            "link": "https://mtjc.fireside.fm/97",
+            "updated": 1466845200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "BFDF2C71-D759-4A56-B746-1E062C9CB689",
+            "title": "Episode 96: extension WWDC2016: MTJCPodcast",
+            "link": "https://mtjc.fireside.fm/96",
+            "updated": 1466200800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5279A869-032E-4A89-8001-7B8D42702234",
+            "title": "Episode 95: Batman and Rubin",
+            "link": "https://mtjc.fireside.fm/95",
+            "updated": 1465596000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C9F6678C-2CF4-4388-91ED-1D2AE560D49C",
+            "title": "Episode 94: Objective-C For Swift Developers",
+            "link": "https://mtjc.fireside.fm/94",
+            "updated": 1465113600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "40B29BBA-5D98-48AA-B17F-70573D298606",
+            "title": "Episode 93: Hey Siri! Can We Talk?",
+            "link": "https://mtjc.fireside.fm/93",
+            "updated": 1464523200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "FBD41D37-574A-4BDD-89E0-81998AF39193",
+            "title": "Episode 92: The MTJC Book Club",
+            "link": "https://mtjc.fireside.fm/92",
+            "updated": 1463868000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3B278C62-10EA-4F45-9291-B328921B6ED7",
+            "title": "Episode 91: Choosing Your Favorite Children",
+            "link": "https://mtjc.fireside.fm/91",
+            "updated": 1463220000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5B7D1F0D-DC5F-4FB5-AD86-BDBB4A4B55BC",
+            "title": "Episode 90: Beaver Tails & Poutine. Puppies Optional",
+            "link": "https://mtjc.fireside.fm/90",
+            "updated": 1462647600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A535BB04-6F2F-4F9E-B9EA-F4354754A4D3",
+            "title": "Episode 89: \"WWDC is cancelled\"",
+            "link": "https://mtjc.fireside.fm/89",
+            "updated": 1462089600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "20B83D42-6C88-4A91-82D4-E3D6A193AF18",
+            "title": "Episode 88: What's the Diff?",
+            "link": "https://mtjc.fireside.fm/88",
+            "updated": 1461409200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A51C4395-8052-4CBC-81FB-16853303A117",
+            "title": "Episode 87: Exclusive: The MTJC Car",
+            "link": "https://mtjc.fireside.fm/87",
+            "updated": 1460836800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9D16661A-7217-4F75-A69E-16BD70F82348",
+            "title": "Episode 86: Incredible & Impossible Deals",
+            "link": "https://mtjc.fireside.fm/86",
+            "updated": 1460203200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1CB20F6F-5754-4E25-BE3C-73A54FDCE3EA",
+            "title": "Episode 85: Roses Are Grey. Violets are Grey. I Am a Dog.",
+            "link": "https://mtjc.fireside.fm/85",
+            "updated": 1459634400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3832D94A-7DF4-4AB4-AEE2-B70A23847FED",
+            "title": "Episode 84: MTJC SE",
+            "link": "https://mtjc.fireside.fm/84",
+            "updated": 1458921600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "811D8B42-BA38-44AE-985E-E59229FFB775",
+            "title": "Episode 83: Whispering Sweet Nothings",
+            "link": "https://mtjc.fireside.fm/83",
+            "updated": 1458417600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "BF19A301-6374-40AF-914D-C99D12555CA5",
+            "title": "Episode 82: Pair Programming For the Introvert",
+            "link": "https://mtjc.fireside.fm/82",
+            "updated": 1457884800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "DA54F74D-A817-4869-ACAE-1A3BD2F953F6",
+            "title": "Episode 81: extension MTJCPodcast: GregHeoDelegate, TammyCoronDelegate",
+            "link": "https://mtjc.fireside.fm/81",
+            "updated": 1457200800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "80F1BCD7-1C7D-4980-9C0C-3D994106874A",
+            "title": "Episode 80: The Two Finger Long Press",
+            "link": "https://mtjc.fireside.fm/80",
+            "updated": 1456581600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A1DA4812-1161-4C7B-A654-EB62C2174C87",
+            "title": "Episode 79: Your Back Door Man",
+            "link": "https://mtjc.fireside.fm/79",
+            "updated": 1455973200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F1FE7F55-C261-40BC-9927-D0E8B40000E1",
+            "title": "Episode 78: Greg Heo Cracks the Whip",
+            "link": "https://mtjc.fireside.fm/78",
+            "updated": 1455364800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A46D91A7-120D-496E-8BC8-77125F4319E8",
+            "title": "Episode 77: A Reading by Aaron Vegh",
+            "link": "https://mtjc.fireside.fm/77",
+            "updated": 1454742000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "106C7E15-3380-4A78-AD0F-4EAB2FEF3EBE",
+            "title": "Episode 75: UIStack and Barrel",
+            "link": "https://mtjc.fireside.fm/75",
+            "updated": 1453557600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "E4A8B081-0B70-41F3-BDBB-17A7B391905B",
+            "title": "Episode 74: Windows Happy Fun Time",
+            "link": "https://mtjc.fireside.fm/74",
+            "updated": 1452952800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0A073557-1355-4D7D-9EAC-D1B02D6005E7",
+            "title": "Episode 73: #73 - Making the Case for iPad",
+            "link": "https://mtjc.fireside.fm/73",
+            "updated": 1452334029,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0E591AF8-2219-452B-9D1F-09E548296EA2",
+            "title": "Episode 72: #72 - Just Another Spin Around the Sun",
+            "link": "https://mtjc.fireside.fm/72",
+            "updated": 1451587595,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F8B657BB-48D0-42B8-9DB9-3F3716CBCF25",
+            "title": "Episode 71: #71 - A Little Skin in the Game",
+            "link": "https://mtjc.fireside.fm/71",
+            "updated": 1451089687,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "158AFFEA-D802-4936-9FEB-A57DD8304DCD",
+            "title": "Episode 70: #70 - The Source Awakens",
+            "link": "https://mtjc.fireside.fm/70",
+            "updated": 1450524558,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8EB7B1FB-1022-401A-9F41-F496CCA7E8C8",
+            "title": "Episode 69: #69 - Swift Takes Flight",
+            "link": "https://mtjc.fireside.fm/69",
+            "updated": 1449962897,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "47C70D61-E9B4-47C2-8A93-B3E080469445",
+            "title": "Episode 68: #68 - The Future of Swift Idioms",
+            "link": "https://mtjc.fireside.fm/68",
+            "updated": 1449338555,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4B4DDA92-496C-41A6-967F-AE4C1285EA6F",
+            "title": "Episode 67: #67 - Perfect, Timing and the iPad Pro",
+            "link": "https://mtjc.fireside.fm/67",
+            "updated": 1448717778,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "D8333D23-459A-43E9-A8E4-1A25384B0CAB",
+            "title": "Episode 66: #66 - Dump Trucks Full of Money",
+            "link": "https://mtjc.fireside.fm/66",
+            "updated": 1448116733,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "DAF10C99-C50D-4CAD-B87F-C28B6CC5A844",
+            "title": "Episode 65: #65 - Empty Vessels of Opportunity",
+            "link": "https://mtjc.fireside.fm/65",
+            "updated": 1447489018,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F89AE552-B3D5-4924-BA8C-46A986EE28FD",
+            "title": "Episode 64: #64 - iOS In My Head",
+            "link": "https://mtjc.fireside.fm/64",
+            "updated": 1446855088,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "DE4C5C12-D85E-4244-9298-0743BC59BCC5",
+            "title": "Episode 63: #63 - Calculated Apple TV Launch",
+            "link": "https://mtjc.fireside.fm/63",
+            "updated": 1446302164,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "45F0467F-20CA-47AD-9021-3475A7350034",
+            "title": "Episode 62: #62 - One Xcode to Rule Them All (for now)",
+            "link": "https://mtjc.fireside.fm/62",
+            "updated": 1445613339,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C3ED92D6-6ED1-4355-8BDA-E341DE9F5BC7",
+            "title": "Episode 61: #61 - Let Them Eat Cake",
+            "link": "https://mtjc.fireside.fm/61",
+            "updated": 1445386067,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "27738D80-0301-4AB0-AFED-26C5F57F9E15",
+            "title": "Episode 60: #60 - We Do Math",
+            "link": "https://mtjc.fireside.fm/60",
+            "updated": 1444518258,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "109FDE1B-2161-4DAD-B92F-BAD23FFE9E93",
+            "title": "Episode 59: #59 - We Can't Help Ourselves",
+            "link": "https://mtjc.fireside.fm/59",
+            "updated": 1443866593,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "6698D52D-B6C8-4192-85A2-64FA01CAFCDA",
+            "title": "Episode 58: #58 - Speak Now or Keep Your Peace",
+            "link": "https://mtjc.fireside.fm/58",
+            "updated": 1443228437,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "29E6FD43-9918-4FD7-9671-267BF6397451",
+            "title": "Episode 57: #57 - Saying Nein From Now On",
+            "link": "https://mtjc.fireside.fm/57",
+            "updated": 1442685273,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "7A3151B4-1C5E-4D68-B998-FB93EB45AA6A",
+            "title": "Episode 56 Pt 2 - On To The iPhone 6S",
+            "link": "https://mtjc.fireside.fm/56b",
+            "updated": 1441994400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8064CD8C-113C-4C9F-BEEA-02DA62EE5D41",
+            "title": "Episode 56 Pt 1 - Siri Gave Us a Hint",
+            "link": "https://mtjc.fireside.fm/56a",
+            "updated": 1441969200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9F34CCDA-FE6B-4DDA-9AA3-926C924EF403",
+            "title": "Episode 55: C'Mon In. The Water's Fine",
+            "link": "https://mtjc.fireside.fm/55",
+            "updated": 1441432800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "B388B5AF-289D-4405-A01B-109EE3813747",
+            "title": "Episode 54: The Fellowship of Swift",
+            "link": "https://mtjc.fireside.fm/54",
+            "updated": 1440748800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "18C1602C-EF18-4218-84D9-8BC8434AC86C",
+            "title": "Episode 53: Deciding Where the Exclamation Marks Go",
+            "link": "https://mtjc.fireside.fm/53",
+            "updated": 1440259200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "AA750E14-5DF8-463B-B658-AD4BC8123EDD",
+            "title": "Episode 52: The Aaron App Store",
+            "link": "https://mtjc.fireside.fm/52",
+            "updated": 1439636400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "19244BCF-4B40-4A9E-B34D-90F084E0A88F",
+            "title": "Episode 51: Twitter, You're Holding It Wrong",
+            "link": "https://mtjc.fireside.fm/51",
+            "updated": 1439031600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F3444482-3657-41F2-B9CB-0D16A1C3F964",
+            "title": "Episode 50: Do You Have O(air conditioning)?",
+            "link": "https://mtjc.fireside.fm/50",
+            "updated": 1438412400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0FF6F4F4-2226-4754-9467-A78A7F06F6F4",
+            "title": "Episode 49: We Say Ship it!",
+            "link": "https://mtjc.fireside.fm/49",
+            "updated": 1437814800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4B2BEE7A-E747-4ED1-AD60-D0CAA5728B38",
+            "title": "Episode 48: Preparing for Disaster & Other Vestigial Tales",
+            "link": "https://mtjc.fireside.fm/48",
+            "updated": 1437235200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "597A76ED-3EA3-4CDF-8188-1A30E34B49BA",
+            "title": "Episode 47: Psst! Wanna Buy an App?",
+            "link": "https://mtjc.fireside.fm/47",
+            "updated": 1436648400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "05D873F3-944E-4F12-A68F-618DF3D616DA",
+            "title": "Episode 46: Oh Canada Edition",
+            "link": "https://mtjc.fireside.fm/46",
+            "updated": 1435957200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "62006763-E4D0-48C9-9FB3-9D2D2EDC27D3",
+            "title": "Episode 44: #44 - Best of WWDC15",
+            "link": "https://mtjc.fireside.fm/44",
+            "updated": 1434813957,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8A85054E-41F8-4566-A2D9-5AED2783D100",
+            "title": "Episode 43: #43 - Delicious WWDC Sessions Overview",
+            "link": "https://mtjc.fireside.fm/43",
+            "updated": 1434129332,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "80054358-88D4-4D76-8D74-9491754266D3",
+            "title": "Episode 42: Trust: Would I lie to you?",
+            "link": "https://mtjc.fireside.fm/42",
+            "updated": 1433624400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "3498390C-CC13-43D2-9F60-D4BD463B34F2",
+            "title": "Episode 41: #41 - Looking Beneath the Surface",
+            "link": "https://mtjc.fireside.fm/41",
+            "updated": 1432984780,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "53C08DD9-3C87-4048-A18F-67C5B0A77496",
+            "title": "Episode 40: #40 - Adding Voice to the Situation",
+            "link": "https://mtjc.fireside.fm/40",
+            "updated": 1432404921,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "2D204A8C-4A96-4CB6-93A6-E86A9A8FF3A4",
+            "title": "Episode 39: #39 - Hey Siri! Are We There Yet?",
+            "link": "https://mtjc.fireside.fm/39",
+            "updated": 1431711158,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "518F1CE2-D46C-48E5-AAF0-B5A237520E5D",
+            "title": "Episode 38: #38 - Performing Triage on Your Wrist",
+            "link": "https://mtjc.fireside.fm/38",
+            "updated": 1431029160,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "054C4A82-D3E7-4062-B4FD-AB1E46C38350",
+            "title": "Episode 37: #37 - Aaron's Apple Watch Strikes Out",
+            "link": "https://mtjc.fireside.fm/37",
+            "updated": 1430517600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C1C709FF-D71E-4D59-A73D-C4347E281674",
+            "title": "Episode 36: #36 - Special Opportunities",
+            "link": "https://mtjc.fireside.fm/36",
+            "updated": 1430082379,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "219ECB95-982B-424C-8A9D-A5E1F4278F6E",
+            "title": "Episode 35: #35 - Dear Developer Letters",
+            "link": "https://mtjc.fireside.fm/35",
+            "updated": 1429394591,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "39B1D0FA-082F-47FE-BC59-8274D9774E5E",
+            "title": "Episode 34: #34 - Waiting With the Rest of Us",
+            "link": "https://mtjc.fireside.fm/34",
+            "updated": 1428782497,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "4531698E-CE12-4652-9182-F622C2E277DD",
+            "title": "Episode 33: #33 - What's on your Apple Watch?",
+            "link": "https://mtjc.fireside.fm/33",
+            "updated": 1428081347,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5E7A9568-E2C9-48C7-9492-8DE29E911B8C",
+            "title": "Episode 32: #32 - WTF: Why the Facebook?",
+            "link": "https://mtjc.fireside.fm/32",
+            "updated": 1427539682,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9E86E1BF-36E3-4391-AC95-F545D8339655",
+            "title": "Episode 31: #31-Palo Alto's Lucky Day",
+            "link": "https://mtjc.fireside.fm/31",
+            "updated": 1426752000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "FC5104BD-0239-4CD7-94AE-05018101E45D",
+            "title": "Episode 30: #30 - Apple Watch, MacBook and Bears",
+            "link": "https://mtjc.fireside.fm/30",
+            "updated": 1426320000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A8C1B99E-F3E1-40B2-9526-53E7F4178863",
+            "title": "Episode 29: #29 - Professional Watch Speculation with Greg Heo",
+            "link": "https://mtjc.fireside.fm/29",
+            "updated": 1425592800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "1417B006-D254-46FE-B5DE-2CDE041CDA07",
+            "title": "Episode 28: #28 - Sour Cream Glazed Arduino Kits",
+            "link": "https://mtjc.fireside.fm/28",
+            "updated": 1424991600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F427EB78-3FA4-47FE-A4C4-07A9B7D543C2",
+            "title": "Episode 27: #27 - Great, Billowing Clouds of Smoke",
+            "link": "https://mtjc.fireside.fm/27",
+            "updated": 1424444400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "FB176D49-287B-409C-8376-035C3A3224E8",
+            "title": "Episode 26: #26 - Moving Swift-ly wearing banana hats - Ding!",
+            "link": "https://mtjc.fireside.fm/26",
+            "updated": 1423742400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "5AE207A9-3517-4F0A-A800-BD5BA1B4148C",
+            "title": "Episode 25: #25 Swift and the Final word on Zombies.",
+            "link": "https://mtjc.fireside.fm/25",
+            "updated": 1423346400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "552C10E5-D971-4EE1-B520-1AF6B388D5AF",
+            "title": "Episode 24: #24 - Just Add Water",
+            "link": "https://mtjc.fireside.fm/24",
+            "updated": 1422664200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "F4958D1F-77E1-4340-81B9-13D4192D2F81",
+            "title": "Episode 23: #23 - Microsoft and the Holographic Blankets and Cats",
+            "link": "https://mtjc.fireside.fm/23",
+            "updated": 1421946000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C63DE979-304D-47D7-8CB8-6F09D0320EC2",
+            "title": "Episode 22: #22 - Indie Dev by the Numbers",
+            "link": "https://mtjc.fireside.fm/22",
+            "updated": 1421586000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "500B206F-8235-4411-8738-8F8DF919896B",
+            "title": "Episode 21: #21 - Swift, Ready or Not Here It Comes",
+            "link": "https://mtjc.fireside.fm/21",
+            "updated": 1420671600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "B54A882D-4F7F-4E10-B0E3-C07081C72BC0",
+            "title": "Episode 20: #20 Apple's Check Engine Light Is On Again",
+            "link": "https://mtjc.fireside.fm/20",
+            "updated": 1418935500,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "09960460-F291-4987-ACB4-9CDBC1661CE6",
+            "title": "Episode 19: #19 Inside Moneyball and steak dinners",
+            "link": "https://mtjc.fireside.fm/19",
+            "updated": 1418320800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "92170C90-8C3F-4460-9B33-BD895A11EBE2",
+            "title": "Episode 18: #18 Crossover Episode with developer Tammy Coron",
+            "link": "https://mtjc.fireside.fm/18",
+            "updated": 1417788000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "FEE3194E-E50C-4566-B9D9-6979BADCE081",
+            "title": "Episode 17: #17 Why Did the Chicken Crossy the Road?",
+            "link": "https://mtjc.fireside.fm/17",
+            "updated": 1417050000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C01730EE-43B6-4C9E-96CD-1BC73D85B755",
+            "title": "Episode 16: #16 That Time When Art & Technology Met",
+            "link": "https://mtjc.fireside.fm/16",
+            "updated": 1416445200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "74DF43DD-296C-4FFA-A110-B53634ADB0A2",
+            "title": "Episode 15: #15 Guy Kawasaki's choice shocks MTJC",
+            "link": "https://mtjc.fireside.fm/15",
+            "updated": 1415818800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9BE5C632-CBE8-4D94-8DD1-80DA0491CBBC",
+            "title": "Episode 14: #14 Cracking the iOS Job Interview",
+            "link": "https://mtjc.fireside.fm/14",
+            "updated": 1415286000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "A3D2AC54-5EBC-4F38-AAE0-C84C972ACB15",
+            "title": "Episode 13: #13 The Apple Pay Menace",
+            "link": "https://mtjc.fireside.fm/13",
+            "updated": 1414620000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "9A3C8FAC-D0DC-4F9E-A4C0-096DD228E0D7",
+            "title": "Episode 12: #12 MAS Exodus in the Air 2",
+            "link": "https://mtjc.fireside.fm/12",
+            "updated": 1414044000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "C6EB047F-897F-4C0D-A2E8-87F02C6F46EF",
+            "title": "Episode 11: #11 - Apple trise to rise to the top while we race to the bottom",
+            "link": "https://mtjc.fireside.fm/11",
+            "updated": 1413536400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "25C3D22C-7AB1-4295-AB68-5C63B7D6DB94",
+            "title": "Episode 10: #10 - I am the one who knocks. I am Yosemite!",
+            "link": "https://mtjc.fireside.fm/10",
+            "updated": 1412812800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "30664A36-44A6-4884-9333-14F8285A7362",
+            "title": "Episode 9: #9 - Vision is the art of seeing what is invisible... - J Swift",
+            "link": "https://mtjc.fireside.fm/9",
+            "updated": 1412191800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "66F398B2-E3D7-4FF1-9A07-1C1D0D0A7844",
+            "title": "Episode 8: #8 - Psychic iPhone 6 Plus Bending",
+            "link": "https://mtjc.fireside.fm/8",
+            "updated": 1411588800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "8459F942-9FB0-4CE5-9BA6-962436CF77D4",
+            "title": "Episode 7: #7 - Wait! What? How Much?",
+            "link": "https://mtjc.fireside.fm/7",
+            "updated": 1410980400,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "0D466D59-DDF0-4FB6-A50F-62409EB38848",
+            "title": "Episode 6: #6 - Apple iPhone 6, Apple Pay & Apple Watch",
+            "link": "https://mtjc.fireside.fm/6",
+            "updated": 1410375600,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "http://www.it-guy.com/podcasts/media/MTJC-Podcast-Epsiode-5-20140903.mp3",
+            "title": "Episode 5: #5 - Overexposure and Attack of the Clones",
+            "link": "https://mtjc.fireside.fm/5",
+            "updated": 1409760000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "http://www.it-guy.com/podcasts/media/MTJC-Podcast-Epsiode-4-20140826.mp3",
+            "title": "Episode 4: #4 - Highlights From 360iDev 2014",
+            "link": "https://mtjc.fireside.fm/4",
+            "updated": 1409068800,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "http://www.it-guy.com/podcasts/media/MTJC-Podcast-Epsiode-3-20140819.mp3",
+            "title": "Episode 3: #3 - The Other App Store",
+            "link": "https://mtjc.fireside.fm/3",
+            "updated": 1408464000,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "http://www.it-guy.com/podcasts/media/Podcast-2-140812rev.mp3",
+            "title": "Episode 2: #2 - First World Problems",
+            "link": "https://mtjc.fireside.fm/2",
+            "updated": 1407859200,
+            "site_name": "More Than Just Code"
+        },
+        {
+            "id": "http://www.it-guy.com/podcasts/media/Podcast-1-140807.mp3",
+            "title": "Episode 1: #1 - Pilot - the MTJC podcast",
+            "link": "https://mtjc.fireside.fm/1",
+            "updated": 1407315600,
+            "site_name": "More Than Just Code"
+        }
+    ]
+}

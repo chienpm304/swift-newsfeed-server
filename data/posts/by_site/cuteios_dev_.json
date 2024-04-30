@@ -1,0 +1,47 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://cuteios.dev/2024/03/09/shared-music",
+            "title": "The music we share with friends.",
+            "link": "https://cuteios.dev/2024/03/09/shared-music.html",
+            "updated": 1709917200,
+            "site_url": "https://cuteios.dev/"
+        },
+        {
+            "id": "https://cuteios.dev/2024/01/10/viewbuilder",
+            "title": "A Girl and her @ViewBuilder",
+            "link": "https://cuteios.dev/2024/01/10/viewbuilder.html",
+            "updated": 1704819600,
+            "site_url": "https://cuteios.dev/"
+        },
+        {
+            "id": "https://cuteios.dev/2024/01/05/formatters",
+            "title": "Formatters and Measurements",
+            "link": "https://cuteios.dev/2024/01/05/formatters.html",
+            "updated": 1704387600,
+            "site_url": "https://cuteios.dev/"
+        },
+        {
+            "id": "https://cuteios.dev/2023/04/11/wwdc-wishlist",
+            "title": "WWDC 23 Wishlist",
+            "link": "https://cuteios.dev/2023/04/11/wwdc-wishlist.html",
+            "updated": 1681146000,
+            "site_url": "https://cuteios.dev/"
+        },
+        {
+            "id": "https://cuteios.dev/2023/04/08/heart-rate",
+            "title": "Showing heart rate in live activities",
+            "link": "https://cuteios.dev/2023/04/08/heart-rate.html",
+            "updated": 1680886800,
+            "site_url": "https://cuteios.dev/"
+        },
+        {
+            "id": "https://cuteios.dev/2023/03/13/hello-world",
+            "title": "Hello World",
+            "link": "https://cuteios.dev/2023/03/13/hello-world.html",
+            "updated": 1678640400,
+            "site_url": "https://cuteios.dev/"
+        }
+    ]
+}

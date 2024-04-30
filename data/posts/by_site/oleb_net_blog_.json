@@ -1,0 +1,145 @@
+{
+    "updated": 1714470903,
+    "posts": [
+        {
+            "id": "https://oleb.net/2024/swift-toolchains/",
+            "title": "Building with nightly Swift toolchains on macOS",
+            "link": "https://oleb.net/2024/swift-toolchains/",
+            "updated": 1709639684,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2024/dispatchqueue-mainactor/",
+            "title": "How the Swift compiler knows that DispatchQueue.main implies @MainActor",
+            "link": "https://oleb.net/2024/dispatchqueue-mainactor/",
+            "updated": 1712653659,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/swiftui-relative-size-in-stacks/",
+            "title": "How the relative size modifier interacts with stack views",
+            "link": "https://oleb.net/2023/swiftui-relative-size-in-stacks/",
+            "updated": 1679721531,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/swiftui-relative-size/",
+            "title": "Working with percentages in SwiftUI layout",
+            "link": "https://oleb.net/2023/swiftui-relative-size/",
+            "updated": 1679663689,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/photos-keyboard-shortcuts/",
+            "title": "Keyboard shortcuts for Export Unmodified Original in Photos for Mac",
+            "link": "https://oleb.net/2023/photos-keyboard-shortcuts/",
+            "updated": 1679410540,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/alfred-swift-evolution/",
+            "title": "Swift Evolution proposals in Alfred",
+            "link": "https://oleb.net/2023/alfred-swift-evolution/",
+            "updated": 1678375994,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/catch-error-code/",
+            "title": "Pattern matching on error codes",
+            "link": "https://oleb.net/2023/catch-error-code/",
+            "updated": 1677501142,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2023/double-fine-adventure/",
+            "title": "You should watch Double Fine Adventure",
+            "link": "https://oleb.net/2023/double-fine-adventure/",
+            "updated": 1675165167,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/swiftui-view-lifecycle/",
+            "title": "Understanding SwiftUI view lifecycles",
+            "link": "https://oleb.net/2022/swiftui-view-lifecycle/",
+            "updated": 1671159165,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/clipped-hit-testing/",
+            "title": "clipped() doesn\u2019t affect hit testing",
+            "link": "https://oleb.net/2022/clipped-hit-testing/",
+            "updated": 1669348090,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/animation-modifier-position/",
+            "title": "When .animation animates more (or less) than it\u2019s supposed to",
+            "link": "https://oleb.net/2022/animation-modifier-position/",
+            "updated": 1668575664,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/xcode-14-mac-concurrency-bugs/",
+            "title": "Xcode 14.0 generates wrong concurrency code for macOS targets",
+            "link": "https://oleb.net/2022/xcode-14-mac-concurrency-bugs/",
+            "updated": 1665576737,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/swiftui-task-mainactor/",
+            "title": "Where View.task gets its main-actor isolation from",
+            "link": "https://oleb.net/2022/swiftui-task-mainactor/",
+            "updated": 1665539191,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/live-activity/",
+            "title": "Experimenting with Live Activities",
+            "link": "https://oleb.net/2022/live-activity/",
+            "updated": 1663856230,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/how-mainactor-works/",
+            "title": "How @MainActor works",
+            "link": "https://oleb.net/2022/how-mainactor-works/",
+            "updated": 1651834077,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/attributedstring-codable/",
+            "title": "AttributedString\u2019s Codable format and what it has to do with Unicode",
+            "link": "https://oleb.net/2022/attributedstring-codable/",
+            "updated": 1712809741,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/heterogeneous-dictionary/",
+            "title": "A heterogeneous dictionary with strong types in Swift",
+            "link": "https://oleb.net/2022/heterogeneous-dictionary/",
+            "updated": 1650452046,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/advanced-swift-5/",
+            "title": "Advanced Swift, fifth edition",
+            "link": "https://oleb.net/2022/advanced-swift-5/",
+            "updated": 1648451010,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/sync-functions-cancellation/",
+            "title": "Synchronous functions can support cancellation too",
+            "link": "https://oleb.net/2022/sync-functions-cancellation/",
+            "updated": 1643781841,
+            "site_name": "Ole Begemann\u2019s Blog"
+        },
+        {
+            "id": "https://oleb.net/2022/cancellation-forms/",
+            "title": "Cancellation can come in many forms",
+            "link": "https://oleb.net/2022/cancellation-forms/",
+            "updated": 1643628007,
+            "site_name": "Ole Begemann\u2019s Blog"
+        }
+    ]
+}

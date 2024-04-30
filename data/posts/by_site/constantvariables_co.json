@@ -1,0 +1,705 @@
+{
+    "updated": 1714471096,
+    "posts": [
+        {
+            "id": "22d40ef3-84f3-477a-a68a-2ee61c827973",
+            "title": "133: Why email reputation matters",
+            "link": "https://constantvariables.co/episodes/133",
+            "updated": 1713949620,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "fb10ebe9-bc33-4db6-8533-c6a6b348b456",
+            "title": "132: Why Stripe is a Developer Favorite",
+            "link": "https://constantvariables.co/episodes/132",
+            "updated": 1711010520,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "cf69d954-b073-4b7c-9b2a-b1e28d82992a",
+            "title": "131: How to use dynamic links (and what to do if you have Firebase)",
+            "link": "https://constantvariables.co/episodes/131",
+            "updated": 1711010340,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "c5d9859d-0602-458a-b4db-e845e180ddda",
+            "title": "130: What can alt tags do for my website?",
+            "link": "https://constantvariables.co/episodes/130",
+            "updated": 1711007100,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "554bce31-d2f3-45c9-8f48-134cd8350265",
+            "title": "129: Taking the Waiting Around Out of Inpatient Rounds with Mike Pitt of Q-rounds",
+            "link": "https://constantvariables.co/episodes/129",
+            "updated": 1684824660,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "dabbacbd-c455-4a2a-9c20-cac41215ccca",
+            "title": "128: Building Accessible Technology with Liz Tupper of CivicActions",
+            "link": "https://constantvariables.co/episodes/128",
+            "updated": 1673341740,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "1c2821cc-1146-403f-860e-8857fb1e19fb",
+            "title": "127: Offshore vs Onshore: A Tale of Two Development Approaches with Mike Franz of inSuppli",
+            "link": "https://constantvariables.co/episodes/127",
+            "updated": 1671526800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "49cf2b74-8bf1-4beb-8f92-2449bc67ca2a",
+            "title": "126: Bringing Balance Back to Vertigo Sufferers with Kristy Carabello of Vertige.app",
+            "link": "https://constantvariables.co/episodes/126",
+            "updated": 1670491800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "bb2f4938-8248-407a-91ee-7c91ab607bcb",
+            "title": "125: Building Tools for Everyday Investors with Ramsey Shaffer of Babbl",
+            "link": "https://constantvariables.co/episodes/125",
+            "updated": 1669109700,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f32f6664-b681-404f-b88f-1dddf6c32032",
+            "title": "124: Finding Capital, Customers, and Talent with Frank Jaskulke of Medical Alley",
+            "link": "https://constantvariables.co/episodes/124",
+            "updated": 1667900520,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "5b2309b1-35ae-4c39-9848-1ee79e53c636",
+            "title": "123: Peace of Mind in the Palm of Your Hand with Joe Meyers of The Vitals App",
+            "link": "https://constantvariables.co/episodes/123",
+            "updated": 1666696740,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "ab2e2a1a-c7e4-409b-8365-3e3105207316",
+            "title": "122: Fair Chances for People, Planet, and Technology with Sam Drong of Repowered",
+            "link": "https://constantvariables.co/episodes/122",
+            "updated": 1665487620,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f2b967ef-d8c4-4202-9716-d6687d935f24",
+            "title": "121: What App Owners Need to Know about iOS 16 and Android 13 with Rob Bentley of The Jed Mahonis Group",
+            "link": "https://constantvariables.co/episodes/121",
+            "updated": 1664270568,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "205b97fb-39e0-4476-adb3-2917d70bcd75",
+            "title": "120: Getting the Right People in the Room with Tim Schuster of Popup Think Tank",
+            "link": "https://constantvariables.co/episodes/120",
+            "updated": 1663065839,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "a82d6643-3d5a-446c-96af-0cb7db9e2ad9",
+            "title": "119: Constant Variables Host Handoff",
+            "link": "https://constantvariables.co/episodes/119",
+            "updated": 1662452920,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "986903f6-9862-4b12-990d-8e7669d43745",
+            "title": "118: Serverless: Oofda! with Bryson Tyrrell of Jamf and AJ Stuyvenberg of Datadog",
+            "link": "https://constantvariables.co/episodes/118",
+            "updated": 1654593185,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "1be34409-9cbd-4c82-b19e-2770fe3394af",
+            "title": "117: APIs: Oofda! with Eric Caron of Caribou Coffee",
+            "link": "https://constantvariables.co/episodes/117",
+            "updated": 1653388603,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "87e456bf-08a3-455c-8f1e-4701d33d1be1",
+            "title": "116: Agile: Oofda! with Sarah Peete of MentorMate",
+            "link": "https://constantvariables.co/episodes/116",
+            "updated": 1652770444,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "b0248152-ed52-42b0-bfcd-5dd188cdad4d",
+            "title": "115: AI, ML and DL: Oofda! with Slater Victoroff of Indico Data",
+            "link": "https://constantvariables.co/episodes/115",
+            "updated": 1652165326,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "93bb76e6-7d23-49e6-b1aa-1c42948986cb",
+            "title": "114: Quantum Computing: Oofda! with Alexander Braun of Duesseldorf University of Applied Sciences",
+            "link": "https://constantvariables.co/episodes/114",
+            "updated": 1650959142,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "836040fd-3ade-4259-85b6-4b638a168ea5",
+            "title": "113: Technical Recruitment Trends and Tips with Hannah Staal of Open Systems Technologies",
+            "link": "https://constantvariables.co/episodes/113",
+            "updated": 1650350411,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "91428f4b-379e-4e50-8bc0-eaa94a3c08ef",
+            "title": "112: Landing Your First Job as a Developer with William Bushee of MarketBeat",
+            "link": "https://constantvariables.co/episodes/112",
+            "updated": 1649732439,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "040777b1-15f4-4760-8868-7cf5fdcb06ef",
+            "title": "111: Account Deletion in Apps: What You Need to Know About Apple\u2019s Latest Requirement",
+            "link": "https://constantvariables.co/episodes/111",
+            "updated": 1649127650,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "6d897d9f-007d-4a61-81c0-20877f25ee4b",
+            "title": "110: Slowing Down to Move Fast with Kelvin Johnson of Brevity Pitch AI",
+            "link": "https://constantvariables.co/episodes/110",
+            "updated": 1648522811,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "88cf42cb-1d99-4627-862c-e34a52832479",
+            "title": "109: Building a \u201cSimple\u201d App with Megan Hanson of Little Free Library",
+            "link": "https://constantvariables.co/episodes/109",
+            "updated": 1647918057,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "425b109e-ab99-4226-8ed6-2da246192e7a",
+            "title": "108: Web 3.0: Oofda! with Chase Thompson of Arena",
+            "link": "https://constantvariables.co/episodes/108",
+            "updated": 1647331293,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "afd4accc-48f3-4b41-a335-f7e09e05610c",
+            "title": "107: Software Dependencies: Oofda! with Jason Walker of American Airlines",
+            "link": "https://constantvariables.co/episodes/107",
+            "updated": 1646712011,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "c2d38f36-a2dc-4bc0-a45d-f5932c524730",
+            "title": "106: NDA, IP, & Patent: Oofda! with Susan Markey of Maslon Law",
+            "link": "https://constantvariables.co/episodes/106",
+            "updated": 1646119174,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "0bdc6232-b7a3-48db-a733-6e6ce04d25b0",
+            "title": "105: Robotics: Oofda! with Aaron Oesterreich and Katie Youtsos of Useabot",
+            "link": "https://constantvariables.co/episodes/105",
+            "updated": 1645502447,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "989f47a5-dd7e-403f-92f1-cdbe502fb7f7",
+            "title": "104: Blockchain & Crypto: Oofda! with Chase Thompson of Arena",
+            "link": "https://constantvariables.co/episodes/104",
+            "updated": 1644292602,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d226cd59-8a0d-4b83-b738-74308a0f8ae5",
+            "title": "103: Walk and Talk with Mick White of the 100 Year Manifesto",
+            "link": "https://constantvariables.co/episodes/103",
+            "updated": 1643688008,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f1b52dab-cea9-4919-8ad4-b795ba749c53",
+            "title": "102: All-In-One Web Apps with Tom Spaniol of ZenLord Pro",
+            "link": "https://constantvariables.co/episodes/102",
+            "updated": 1643083219,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "0fd1a959-a4c2-4879-b4d8-b2c5879292e0",
+            "title": "101: Educator-First Technology with Paul Johansen of Edmentum",
+            "link": "https://constantvariables.co/episodes/101",
+            "updated": 1642478438,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "439d2998-30c3-45eb-890b-2e553ffadf53",
+            "title": "100: The Team Behind Constant Variables",
+            "link": "https://constantvariables.co/episodes/100",
+            "updated": 1641268839,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "17e42083-516e-420e-83df-02de5fb8a16d",
+            "title": "99: Mixing Business with Podcasts with Ryan Estes of Kitcaster",
+            "link": "https://constantvariables.co/episodes/99",
+            "updated": 1640069765,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "e6e6f1ae-f6e4-453c-aeec-bc31e1bc395c",
+            "title": "98: Uncovering Bias in Algorithms with Eri O\u2019Diah of SIID Technologies",
+            "link": "https://constantvariables.co/episodes/98",
+            "updated": 1638849615,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "55facf98-b021-4003-be7a-8bb661ca1b1e",
+            "title": "97: Empowering Underestimated Innovators with Nick Tietz of ILT Academy",
+            "link": "https://constantvariables.co/episodes/97",
+            "updated": 1637640003,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "1c7873a6-36aa-466a-a418-670e6637f853",
+            "title": "96: Advocating for Junior Developers with Joe Karlsson of SingleStore",
+            "link": "https://constantvariables.co/episodes/96",
+            "updated": 1637035211,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "eb9d6ce5-ddcc-466a-8080-a25c7cf9854e",
+            "title": "95: Easier Software Integrations with Michael Zuercher of Prismatic",
+            "link": "https://constantvariables.co/episodes/95",
+            "updated": 1636430420,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "a3a635f6-e7d1-4cd3-95ac-17c532d56886",
+            "title": "94: Startup Mentality, API Management, and Corporate Apps with Eric Caron of Caribou Coffee",
+            "link": "https://constantvariables.co/episodes/94",
+            "updated": 1635227895,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "33788e6a-ccf6-41cb-83f2-4927992cce65",
+            "title": "93: Bridging the Bank-Fintech Partnership Gap with Trent Sorbe of Central Payments",
+            "link": "https://constantvariables.co/episodes/93",
+            "updated": 1634007645,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "a434eec8-72f0-400c-b70f-39db196137b6",
+            "title": "92: The Role of Tech in Smart Cities with Mike Grisby of the City of Sioux Falls",
+            "link": "https://constantvariables.co/episodes/92",
+            "updated": 1632798047,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "224db162-c1a8-490a-bb8c-aefd7774da3a",
+            "title": "91: Native App, Hybrid App, & PWA Battle Royale with Austin Betzer of Strides Development",
+            "link": "https://constantvariables.co/episodes/91",
+            "updated": 1631588418,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "5ee3ae74-c8df-410d-9c0a-ad891abcb222",
+            "title": "90: Moderating Digital Toxic Waste with Chris Wexler of Krunam",
+            "link": "https://constantvariables.co/episodes/90",
+            "updated": 1630378804,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d57cad45-f27d-4cea-8335-216acd7d77a1",
+            "title": "89: The Art and Science of Data with Solomon Anderson, Infrastructure Engineer",
+            "link": "https://constantvariables.co/episodes/89",
+            "updated": 1629181293,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "e5c8c09d-8f23-4cad-bc87-64b7457ca9f0",
+            "title": "88: Mobile App Project Management with Renae Livingston of Profile by Sanford",
+            "link": "https://constantvariables.libsyn.com/88-mobile-app-project-management-with-renae-livingston-of-profile-by-sanford",
+            "updated": 1627959600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "6632cd3f-4b95-4f84-805f-c4c0dfa8b130",
+            "title": "87: Empowering the People Who Make Software with Yash Khandor of Mark43",
+            "link": "https://constantvariables.libsyn.com/87-empowering-the-people-who-make-software-with-yash-khandor-of-mark43",
+            "updated": 1626746400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "a7968f9d-668e-4554-a88e-560cf86de42d",
+            "title": "86: Marketing B2B Tech Companies with J.C. Granger of Infinity Marketing Group",
+            "link": "https://constantvariables.libsyn.com/86-marketing-b2b-tech-companies-with-jc-granger-of-infinity-marketing-group",
+            "updated": 1626145200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "1eb5f67b-73e8-42f3-b249-c29981eff667",
+            "title": "85: Bundling vs Ondemand with Sam Lerdahl of Pikup",
+            "link": "https://constantvariables.libsyn.com/85-bundling-vs-ondemand-with-sam-lerdahl-of-pikup",
+            "updated": 1625550990,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "8431f6dd-766c-4cc7-adf7-951e7a4a2a3e",
+            "title": "84: Forming the Tele-Legal Avengers with Jazz Hampton of TurnSignl",
+            "link": "https://constantvariables.libsyn.com/84-forming-the-tele-legal-avengers-with-jazz-hampton-of-turnsignl",
+            "updated": 1624935600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "6f805889-3b71-45b4-a99a-2fe19e81e409",
+            "title": "83: AIoT and the Future of Business with Justin Grammens of Lab651",
+            "link": "https://constantvariables.libsyn.com/83-aiot-and-the-future-of-business-with-justin-grammens-of-lab651",
+            "updated": 1624330800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "dee066c6-2be8-4500-9e3e-41d6cd769443",
+            "title": "82: Building for a Tech-Enabled World with Howard Tiersky of FROM.Digital",
+            "link": "https://constantvariables.libsyn.com/82-building-for-a-tech-enabled-world-with-howard-tiersky-of-fromdigital",
+            "updated": 1623726000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "81708e79-8259-413c-8e57-b82910ef466e",
+            "title": "81: Anytime, Anywhere Access with Casey Gordon of the College of Saint Benedict and Saint John\u2019s University",
+            "link": "https://constantvariables.libsyn.com/81-anytime-anywhere-access-with-casey-gordon-of-the-college-of-saint-benedict-and-saint-johns-university",
+            "updated": 1623134105,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "dc93e753-6a72-4a53-99ed-f46dac3451f5",
+            "title": "80: Ethical, Responsible, and Sustainable Tech with Tim Frick of Mightybytes",
+            "link": "https://constantvariables.libsyn.com/80-ethical-responsible-and-sustainable-tech-with-tim-frick-of-mightybytes",
+            "updated": 1622549573,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d37c16c4-d473-45e5-9b77-38cda48cf385",
+            "title": "79: Balancing Managerial and Technical Responsibilities with Anand Safi of Mark43",
+            "link": "https://constantvariables.libsyn.com/79-balancing-managerial-and-technical-responsibilities-with-anand-safi-of-mark43",
+            "updated": 1621911600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "98620f7a-8495-4ff3-b881-5fbf9444a38f",
+            "title": "78: Developing the Next Generation of Entrepreneurs with Diane Rucker of University Enterprise Laboratories",
+            "link": "https://constantvariables.libsyn.com/78-developing-the-next-generation-of-entrepreneurs-with-diane-rucker-of-university-enterprise-laboratories",
+            "updated": 1621306800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "ad4c574d-c084-4e5a-ade2-475ce198db05",
+            "title": "77: Wantrepreneurs vs Entrepreneurs with Mickeli Bedore of Closers Media",
+            "link": "https://constantvariables.libsyn.com/77-wantrepreneurs-vs-entrepreneurs-with-mickeli-bedore-of-closers-media",
+            "updated": 1620702000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f29702ff-afe6-43cf-b306-307c2afc2d60",
+            "title": "76: How New Technologies Transform Healthcare with Scott Brown of Revealix",
+            "link": "https://constantvariables.libsyn.com/76-how-new-technologies-transform-healthcare-with-scott-brown-of-revealix",
+            "updated": 1620097200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "8e522d64-26ef-4093-a94e-88b2076bee38",
+            "title": "75: Managing Teams and Projects Like a CTO with Nelly Yusupova of TechSpeak for Entrepreneurs",
+            "link": "https://constantvariables.libsyn.com/75-managing-teams-and-projects-like-a-cto-with-nelly-yusupova-of-techspeak-for-entrepreneurs",
+            "updated": 1619492400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "0f978b04-88b8-4685-9c2c-e85a240f0b87",
+            "title": "74: Creating Sustainable Digital Products with Tom Greenwood of Wholegrain Digital",
+            "link": "https://constantvariables.libsyn.com/74-creating-sustainable-digital-products-with-tom-greenwood-of-wholegrain-digital",
+            "updated": 1618887600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "6f1a41b3-7739-465b-8ec5-dd55c8205dc5",
+            "title": "73: The Effects of Technology on the Environment",
+            "link": "https://constantvariables.libsyn.com/73-the-effects-of-technology-on-the-environment",
+            "updated": 1618282800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "92c74be2-145c-4cf4-a451-6505a123449d",
+            "title": "72: Moving from Legacy Software to a New Tech Platform with Ann Pifer and Ryan Jordan of Adopt A Classroom",
+            "link": "https://constantvariables.libsyn.com/72-moving-from-legacy-software-to-a-new-tech-platform-with-ann-pifer-and-ryan-jordan-of-adopt-a-classroom",
+            "updated": 1617678000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "4bca70ac-9b31-4f3b-829c-f100659bc391",
+            "title": "71: Leading with a Developer-First Mindset with Kate Wardin of Target",
+            "link": "https://constantvariables.libsyn.com/71-leading-with-a-developer-first-mindset-with-kate-wardin-of-target",
+            "updated": 1617073200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "85ae1020-4fbc-4daa-b6df-baa329bf9770",
+            "title": "70: Designing for the User Experience with Chris Cornejo of Design Center",
+            "link": "https://constantvariables.libsyn.com/70-designing-for-the-user-experience-with-chris-cornejo-of-design-center",
+            "updated": 1616468400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "385358bc-53a8-47dd-8dca-cb5da318968c",
+            "title": "69: Growing from a Startup to a \u201cReal\u201d Business with Jordan Ambra of Serenity Software",
+            "link": "https://constantvariables.libsyn.com/69-growing-from-a-startup-to-a-real-business",
+            "updated": 1615863600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d6e34288-1b95-4ce7-8589-66c53112d5aa",
+            "title": "68: Failing Forward with Josh Fedie of SalesReach",
+            "link": "https://constantvariables.libsyn.com/68-failing-forward-with-josh-fedie-of-salesreach",
+            "updated": 1615262400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "e7464961-c5f2-4fa4-a54b-02ab1033a4cc",
+            "title": "67: Making User Experiences Meaningful, Memorable, and Motivational with Dr. Michael Allen of Allen Interactions",
+            "link": "https://constantvariables.libsyn.com/67-making-user-experiences-meaningful-memorable-and-motivational-with-dr-michael-allen-of-allen-interactions",
+            "updated": 1614657600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "17d086f7-9183-4c27-afca-2f0b8844f6c1",
+            "title": "66: How to Make Subscriptions Work for Your App with Dan Burcaw of Nami ML",
+            "link": "https://constantvariables.libsyn.com/66-how-to-make-subscriptions-work-for-your-app-with-dan-burcaw-of-nami-ml",
+            "updated": 1614052800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "8a6d962b-dbb6-44e6-ace4-f59400fde815",
+            "title": "65: Unpacking the Myth of the Tech Genius with Shawn Livermore, Author of Average Joe: Be the Silicon Valley Tech Genius",
+            "link": "https://constantvariables.libsyn.com/65-unpacking-the-myth-of-the-tech-genius-with-shawn-livermore-author-of-average-joe-be-the-silicon-valley-tech-genius",
+            "updated": 1613448000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "ee8483a5-81a2-4848-86ea-96503d1f4d03",
+            "title": "64: Boosting Product Adoption with Video with Erica Hanna of Puke Rainbows Creative",
+            "link": "https://constantvariables.libsyn.com/64-boosting-product-adoption-with-video-with-erica-hanna-of-puke-rainbows-creative",
+            "updated": 1612843200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f085628a-8671-4b7e-bce4-16bc626a658d",
+            "title": "63: Building the eBay for Knowledge with Clifton Manneh of Konduct Coach Learning",
+            "link": "https://constantvariables.libsyn.com/63-building-the-ebay-for-knowledge-with-clifton-manneh-of-konduct-coach-learning",
+            "updated": 1612238400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "cd65ac3b-39af-4699-a5b7-33fee52cec05",
+            "title": "62: Development Milestones, Tangibles and Timelines",
+            "link": "https://constantvariables.libsyn.com/62-development-milestones-tangibles-and-timelines",
+            "updated": 1611633600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "02dcd4e6-ef97-4536-a301-522fceabdb8a",
+            "title": "61: Building Apps with Low Code/No Code Development Tools",
+            "link": "https://constantvariables.libsyn.com/61-building-apps-with-low-codeno-code-development-tools",
+            "updated": 1611028800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "12ae94d6-024a-4546-920a-cae7114f4b65",
+            "title": "60: Seizing Opportunity in Podcasting with Twila Dang of Matriarch Digital Media",
+            "link": "https://constantvariables.libsyn.com/60-seizing-opportunity-in-podcasting-with-twila-dang-of-matriarch-digital-media",
+            "updated": 1610424000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "4a6139b8-d787-495b-9b3f-e7a195fb157c",
+            "title": "59: Making Email Private and Better for Everyone with Bron Gondwana of Fastmail",
+            "link": "https://constantvariables.libsyn.com/59-making-email-private-and-better-for-everyone-with-bron-gondwana-of-fastmail",
+            "updated": 1609819200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "607d43c4-8ad8-4283-a83e-1e78edcecb73",
+            "title": "58: 2021 Tech Predictions",
+            "link": "https://constantvariables.libsyn.com/58-2021-tech-predictions",
+            "updated": 1609214400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "f1e5e805-676e-4ff7-b590-d143ceb2968a",
+            "title": "57: Building a Business & Community with Intention with Mike Jackson of Black Tech Talent",
+            "link": "https://constantvariables.libsyn.com/57-building-a-business-community-with-intention-with-mike-jackson-of-black-tech-talent",
+            "updated": 1608609600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "52de057d-5044-45f7-bfec-01ffec4b7284",
+            "title": "56: Mitigating Risks in App Development",
+            "link": "https://constantvariables.libsyn.com/56-mitigating-risks-in-app-development",
+            "updated": 1608004800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "12efbbdc-fd0b-4f99-bcee-3cab7aaab421",
+            "title": "55: Practicing Tenacity with Eric Martell",
+            "link": "https://constantvariables.libsyn.com/55-practicing-tenacity-with-eric-martell",
+            "updated": 1607400000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "1079616c-9052-41a8-a183-2fc898f469f1",
+            "title": "54: Hybrid vs. Native Apps",
+            "link": "https://constantvariables.libsyn.com/54-hybrid-vs-native-apps",
+            "updated": 1606795200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "e497f6b0-0d15-4483-9226-df5f331ab94e",
+            "title": "53: Vetting a Tech Partner\u2019s Posture with George Brooks of Crema",
+            "link": "https://constantvariables.libsyn.com/53-vetting-a-tech-partners-posture-with-george-brooks-of-crema",
+            "updated": 1606190400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "cffb599c-efe4-4528-b474-0b032ab3ff6f",
+            "title": "52: How Apps Use Data",
+            "link": "https://constantvariables.libsyn.com/52-how-apps-use-data",
+            "updated": 1605585600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d4f8bdde-9ade-400d-ae54-a5d2ab63902a",
+            "title": "51: How Ideas Turn into Apps with the Team Behind the MFIP Connect App",
+            "link": "https://constantvariables.libsyn.com/51-how-ideas-turn-into-apps-with-the-team-behind-the-mfip-connect-app",
+            "updated": 1604980800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "a9d74944-5691-4ba5-8216-135d12344ddf",
+            "title": "50: Implementing \u201cEasy\u201d Features",
+            "link": "https://constantvariables.libsyn.com/50-implementing-easy-features",
+            "updated": 1604376000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "198c46bd-25a2-49fb-83a4-5e98f5b1031d",
+            "title": "49: Delivering a Fluid User Experience in a Restaurant\u2019s Online Ordering App",
+            "link": "https://constantvariables.libsyn.com/49-delivering-a-fluid-user-experience-in-a-restaurants-online-ordering-app",
+            "updated": 1603767600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "0ea75053-0191-4020-af0a-fca9d898c0a0",
+            "title": "48: Embracing an Innovative Culture with Stephanie Hammes-Betti of US Bank",
+            "link": "https://constantvariables.libsyn.com/48-embracing-an-innovative-culture-with-stephanie-hammes-betti-of-us-bank",
+            "updated": 1603162800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "47d9a878-9373-4c18-8bf8-28ec60ed4838",
+            "title": "47: Apple vs. Developers",
+            "link": "https://constantvariables.libsyn.com/47-apple-vs-developers",
+            "updated": 1602558000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "78d82350-602e-41ee-a134-3024ee64e100",
+            "title": "46: Building an App-Based Startup the \u201cRight\u201d Way with Tim Steele of Parrot.MD",
+            "link": "https://constantvariables.libsyn.com/46-building-an-app-based-startup-the-right-way-with-tim-steele-of-parrotmd",
+            "updated": 1601348400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "b4e82b3e-8966-4721-b26a-680a6d31f388",
+            "title": "45: Driving Digital Transformation with People and Processes with Digital Consultant Jen Swanson",
+            "link": "https://constantvariables.libsyn.com/45-driving-digital-transformation-with-people-and-processes-with-digital-consultant-jen-swanson",
+            "updated": 1600138800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "b882bf4f-06d0-481c-a846-ca0b26b05704",
+            "title": "44: Tips for Building Android Apps",
+            "link": "https://constantvariables.libsyn.com/44-tips-for-building-android-apps",
+            "updated": 1598929200,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "4fdf6c5c-0208-433a-b442-c239f33a6356",
+            "title": "43: Tips for Building iOS Apps",
+            "link": "https://constantvariables.libsyn.com/43-tips-for-building-ios-apps",
+            "updated": 1597741558,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "25823e9c-09b1-4322-bd95-e1622ed8c7ba",
+            "title": "42: Hand-Curating Your User Interface with Jeremy Sinon and William White of PodMN",
+            "link": "https://constantvariables.libsyn.com/42-hand-curating-your-user-interface-with-jeremy-sinon-and-william-white-of-podmn",
+            "updated": 1596510000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "d5d2795a-b6f6-4149-bff4-77d1e0598c79",
+            "title": "41: Fundamental Marketing Strategies for Increasing Downloads with Sean Casto of PreApps",
+            "link": "https://constantvariables.libsyn.com/41-fundamental-marketing-strategies-for-increasing-downloads-with-sean-casto-of-preapps",
+            "updated": 1595300400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "0a1b071c-ad6a-44e0-a8ce-027589962916",
+            "title": "40: Human Centered Design for Simple Products with Amber Christian of Wonderly Software Solutions",
+            "link": "https://constantvariables.libsyn.com/40-human-centered-design-for-simple-products-with-amber-christian-of-wonderly-software-solutions",
+            "updated": 1594090800,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "2a35feff-1807-4925-a694-570a966b52a3",
+            "title": "39: From Legos to Dopamine Rewards-Based Learning Games with Adam Gordon of Andamio Games",
+            "link": "https://constantvariables.libsyn.com/39-from-legos-to-dopamine-rewards-based-learning-games-with-adam-gordon-of-andamio-games",
+            "updated": 1592883000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "8f36387c-b5b0-4032-86c7-ad476d65e778",
+            "title": "38: The DRY Approach to Workflow Processes with Susan Boles of ScaleSpark",
+            "link": "https://constantvariables.libsyn.com/38-the-dry-approach-to-workflow-processes-with-susan-boles-of-scalespark",
+            "updated": 1591671600,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "cbc19804-3bd2-4b5d-8210-c7af355ce7f1",
+            "title": "37: Merging Art and Science in App Development with Brad Ash of Fruitful",
+            "link": "https://constantvariables.libsyn.com/37-merging-art-and-science-in-app-development-with-brad-ash-of-fruitful",
+            "updated": 1590476109,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "3af84224-1bb0-4b10-b78f-82d6aeba8b16",
+            "title": "36: Is an Accelerator Program Right for Your Business with Kate Evinger of gener8tor Minnesota",
+            "link": "https://constantvariables.libsyn.com/36-is-an-accelerator-program-right-for-your-business-with-kate-evinger-of-gener8tor-minnesota",
+            "updated": 1589256000,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "9a9fb6bb-c614-453b-a32c-31136c0752a6",
+            "title": "35: Disrupting Your Business for Growth with Stephanie Scheller of Grow Disrupt",
+            "link": "https://constantvariables.libsyn.com/35-disrupting-your-business-for-growth-with-stephanie-scheller-of-grow-disrupt",
+            "updated": 1588046400,
+            "site_name": "Constant Variables"
+        },
+        {
+            "id": "74bee8f3-35d2-4a56-8a40-cbf473a1185f",
+            "title": "34: How to Protect Yourself (and Your Business) Against Social Engineering",
+            "link": "https://constantvariables.libsyn.com/34-how-to-protect-yourself-and-your-business-against-social-engineering",
+            "updated": 1586853449,
+            "site_name": "Constant Variables"
+        }
+    ]
+}

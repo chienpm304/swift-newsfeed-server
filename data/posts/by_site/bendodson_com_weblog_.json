@@ -1,0 +1,180 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/",
+            "title": "Using your Personal Voice (along with system and novelty voices) in an iOS app",
+            "link": "https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/",
+            "updated": 1712126040,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2023/07/26/tipkit-tutorial/",
+            "title": "Adding teachable moments to your apps with TipKit",
+            "link": "https://bendodson.com/weblog/2023/07/26/tipkit-tutorial/",
+            "updated": 1690335000,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2023/05/10/connecting-a-tvos-app-to-ios-ipados-and-watchos-with-devicediscoveryui/",
+            "title": "Attempting to connect a tvOS app to an iOS app with DeviceDiscoveryUI",
+            "link": "https://bendodson.com/weblog/2023/05/10/connecting-a-tvos-app-to-ios-ipados-and-watchos-with-devicediscoveryui/",
+            "updated": 1683702000,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2023/03/14/postmortem-of-a-top-10-paid-ios-app/",
+            "title": "Postmortem of the launch of a Top 10 Paid iOS App",
+            "link": "https://bendodson.com/weblog/2023/03/14/postmortem-of-a-top-10-paid-ios-app/",
+            "updated": 1678780800,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2023/01/17/back-seat-shuffle/",
+            "title": "Side Project: Back Seat Shuffle",
+            "link": "https://bendodson.com/weblog/2023/01/17/back-seat-shuffle/",
+            "updated": 1673948700,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/12/15/return-to-dark-tower-assistant/",
+            "title": "Return to Dark Tower Assistant",
+            "link": "https://bendodson.com/weblog/2022/12/15/return-to-dark-tower-assistant/",
+            "updated": 1671091200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/12/08/stream-deck-ios-development/",
+            "title": "Using a Stream Deck for iOS development",
+            "link": "https://bendodson.com/weblog/2022/12/08/stream-deck-ios-development/",
+            "updated": 1670464800,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/11/21/the-dodo-developer/",
+            "title": "The Dodo Developer",
+            "link": "https://bendodson.com/weblog/2022/11/21/the-dodo-developer/",
+            "updated": 1669045200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/07/12/chaise-longue-to-5k/",
+            "title": "'Chaise Longue to 5K' and porting a tvOS app built with UIKit to iOS, iPadOS, and macOS",
+            "link": "https://bendodson.com/weblog/2022/07/12/chaise-longue-to-5k/",
+            "updated": 1657598100,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/06/27/spatial-audio-finder/",
+            "title": "Introducing the Spatial Audio Finder",
+            "link": "https://bendodson.com/weblog/2022/06/27/spatial-audio-finder/",
+            "updated": 1656324000,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/05/17/unlisted-app-distribution-on-the-app-store/",
+            "title": "Unlisted App Distribution on the App Store",
+            "link": "https://bendodson.com/weblog/2022/05/17/unlisted-app-distribution-on-the-app-store/",
+            "updated": 1652801400,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/04/13/web-inspector-on-ios-devices-simulators/",
+            "title": "Web Inspector on iOS devices and Simulators",
+            "link": "https://bendodson.com/weblog/2022/04/13/web-inspector-on-ios-devices-simulators/",
+            "updated": 1649815200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2022/03/11/browser-note/",
+            "title": "Browser Note and the process of building an iOS 15 Safari Extension",
+            "link": "https://bendodson.com/weblog/2022/03/11/browser-note/",
+            "updated": 1646960400,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2021/03/10/stoutness/",
+            "title": "Side Project: Stoutness",
+            "link": "https://bendodson.com/weblog/2021/03/10/stoutness/",
+            "updated": 1615338000,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2020/08/13/exorbitantcy-epic-vs-apple/",
+            "title": "Exorbitantcy and the fight against the App Store",
+            "link": "https://bendodson.com/weblog/2020/08/13/exorbitantcy-epic-vs-apple/",
+            "updated": 1597330800,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2020/02/28/seymour/",
+            "title": "Side Project: (Feed Me) Seymour",
+            "link": "https://bendodson.com/weblog/2020/02/28/seymour/",
+            "updated": 1582891200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2020/02/01/sealed/",
+            "title": "Side Project: Sealed",
+            "link": "https://bendodson.com/weblog/2020/02/01/sealed/",
+            "updated": 1580529600,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/10/25/revival/",
+            "title": "Revival",
+            "link": "https://bendodson.com/weblog/2019/10/25/revival/",
+            "updated": 1571979600,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/09/15/gyfted/",
+            "title": "Gyfted",
+            "link": "https://bendodson.com/weblog/2019/09/15/gyfted/",
+            "updated": 1568523600,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/08/19/introducing-apple-tv-movies-artwork-finder/",
+            "title": "Introducing the Apple TV Shows & Movies Artwork Finder",
+            "link": "https://bendodson.com/weblog/2019/08/19/introducing-apple-tv-movies-artwork-finder/",
+            "updated": 1566189000,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/06/12/website-dark-mode-ios-13-macos-mojave/",
+            "title": "Customising a website for iOS 13 / macOS Mojave Dark Mode",
+            "link": "https://bendodson.com/weblog/2019/06/12/website-dark-mode-ios-13-macos-mojave/",
+            "updated": 1560306600,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/06/11/detecting-text-with-vnrecognizetextrequest-in-ios-13/",
+            "title": "Detecting text with VNRecognizeTextRequest in iOS 13",
+            "link": "https://bendodson.com/weblog/2019/06/11/detecting-text-with-vnrecognizetextrequest-in-ios-13/",
+            "updated": 1560220200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/06/06/uktvplay-for-tvos/",
+            "title": "UKTV Play for Apple TV",
+            "link": "https://bendodson.com/weblog/2019/06/06/uktvplay-for-tvos/",
+            "updated": 1559815200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/05/12/reaction-cam-1-4/",
+            "title": "Reaction Cam v1.4",
+            "link": "https://bendodson.com/weblog/2019/05/12/reaction-cam-1-4/",
+            "updated": 1557655200,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2019/04/08/foodim/",
+            "title": "Foodim",
+            "link": "https://bendodson.com/weblog/2019/04/08/foodim/",
+            "updated": 1554717600,
+            "site_url": "https://bendodson.com/weblog/"
+        }
+    ]
+}

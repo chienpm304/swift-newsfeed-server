@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "http://eisel.me/lld",
+            "title": "Faster Apple Builds with the lld Linker",
+            "link": "http://eisel.me/lld",
+            "updated": 1671475546,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/devtool-allocators",
+            "title": "Faster Mac Dev Tools with Custom Allocators",
+            "link": "http://eisel.me/devtool-allocators",
+            "updated": 1635273946,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/localization",
+            "title": "How to Cut the Size of .strings Files in Half",
+            "link": "http://eisel.me/localization",
+            "updated": 1616697946,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/signing",
+            "title": "Faster Builds with Code Signing Hacks",
+            "link": "http://eisel.me/signing",
+            "updated": 1596739546,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/snappy",
+            "title": "Quick Trick to Make Your App Snappier",
+            "link": "http://eisel.me/snappy",
+            "updated": 1549997146,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/order",
+            "title": "Improving App Performance with Order Files",
+            "link": "http://eisel.me/order",
+            "updated": 1547577946,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/linters",
+            "title": "Runtime Linters",
+            "link": "http://eisel.me/linters",
+            "updated": 1544640346,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/startup",
+            "title": "Measuring your iOS app\u2019s true startup time in production",
+            "link": "http://eisel.me/startup",
+            "updated": 1542653146,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/allocator",
+            "title": "Replacing the system allocator on iOS for fun and profit",
+            "link": "http://eisel.me/allocator",
+            "updated": 1540838746,
+            "site_name": "Michael Eisel\u2019s Blog"
+        },
+        {
+            "id": "http://eisel.me/app-size",
+            "title": "One Quick Way to Drastically Reduce your iOS App\u2019s Download Size",
+            "link": "http://eisel.me/app-size",
+            "updated": 1539801946,
+            "site_name": "Michael Eisel\u2019s Blog"
+        }
+    ]
+}

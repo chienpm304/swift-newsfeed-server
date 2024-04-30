@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://masilotti.com/turbo-native-pull-to-refresh",
+            "title": "Turbo Native and pull-to-refresh",
+            "link": "https://masilotti.com/turbo-native-pull-to-refresh/",
+            "updated": 1713373200,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/turbo-native-apps-in-15-minutes",
+            "title": "Turbo Native iOS and Android apps in 15 minutes",
+            "link": "https://masilotti.com/turbo-native-apps-in-15-minutes/",
+            "updated": 1711558800,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/rails-link_to-nested-data-attributes",
+            "title": "Rails link_to and nested data attributes",
+            "link": "https://masilotti.com/rails-link_to-nested-data-attributes/",
+            "updated": 1709139600,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/launch-your-rails-business-in-the-app-store",
+            "title": "The secret tool to launch your Rails business in the app stores",
+            "link": "https://masilotti.com/launch-your-rails-business-in-the-app-store/",
+            "updated": 1706720400,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/turbo-native-app-roadmap",
+            "title": "A roadmap for building Turbo Native apps",
+            "link": "https://masilotti.com/turbo-native-app-roadmap/",
+            "updated": 1706115600,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/safer-rails-partials-with-strict-locals",
+            "title": "Safer Rails partials with strict locals",
+            "link": "https://masilotti.com/safer-rails-partials-with-strict-locals/",
+            "updated": 1704906000,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/idea-to-app-store-in-7-days",
+            "title": "Idea to App Store in 7 days",
+            "link": "https://masilotti.com/idea-to-app-store-in-7-days/",
+            "updated": 1702486800,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/strada-and-turbo-navigator",
+            "title": "How to use Strada with Turbo Navigator",
+            "link": "https://masilotti.com/strada-and-turbo-navigator/",
+            "updated": 1698858000,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/rails-world-2023",
+            "title": "Rails World 2023: Just enough Turbo Native to be dangerous",
+            "link": "https://masilotti.com/rails-world-2023/",
+            "updated": 1697648400,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        },
+        {
+            "id": "https://masilotti.com/turbo-navigator-upstream",
+            "title": "Turbo Navigator: Gearing up for the merge into turbo-ios",
+            "link": "https://masilotti.com/turbo-navigator-upstream/",
+            "updated": 1697043600,
+            "site_name": "Joe Masilotti\u2019s Blog"
+        }
+    ]
+}

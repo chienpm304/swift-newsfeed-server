@@ -1,0 +1,145 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "637e863328f3ca200d893c71",
+            "title": "Swiftybones - GPIO library for the Beaglebone",
+            "link": "https://www.mastering-swift.com/post/swiftybones-gpio-library-for-the-beaglebone",
+            "updated": 1669211204,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "635ec722796502ce95ef3c3a",
+            "title": "Comparable Protocol: Protocol Oriented Design within Swift",
+            "link": "https://www.mastering-swift.com/post/comparable-protocol-protocol-oriented-design-within-swift",
+            "updated": 1667130663,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "634b148bc088d86d9eb38bac",
+            "title": "Equatable Protocol: Protocol Oriented Design within Swift",
+            "link": "https://www.mastering-swift.com/post/equatable-protocol-protocol-oriented-design-within-swift",
+            "updated": 1665839776,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "634747e8c0e773a0a546d167",
+            "title": "Controlling GPIO pins with Swift and libgpiod",
+            "link": "https://www.mastering-swift.com/post/controlling-gpio-pins-with-swift-and-libgpiod",
+            "updated": 1665590987,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "6342b952e7ad24f4c351333e",
+            "title": "print(\u201cHello BeagleBone AI-64\u201d)",
+            "link": "https://www.mastering-swift.com/post/print-hello-beaglebone-ai-64",
+            "updated": 1665292556,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "6339c56df8ac30498f077db0",
+            "title": "Parallelism and Concurrency in Swift",
+            "link": "https://www.mastering-swift.com/post/parallelism-and-concurrency-in-swift",
+            "updated": 1664705497,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "63305b88b9027c13e243793a",
+            "title": "Protocol Oriented Design and Protocol Oriented Design Patterns",
+            "link": "https://www.mastering-swift.com/post/protocol-oriented-design-and-protocol-oriented-design-patterns",
+            "updated": 1664088796,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "632721d63d6860f149b000c6",
+            "title": "Iterator Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/iterator-pattern-protocol-oriented-design-pattern",
+            "updated": 1663483891,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "631e065b4813fb6235210fce",
+            "title": "Observer Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/observer-pattern-protocol-oriented-design-pattern",
+            "updated": 1662887150,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "6314f174f22926865b5d6175",
+            "title": "Protocol-Oriented Programming with Protocol-Oriented Design",
+            "link": "https://www.mastering-swift.com/post/protocol-oriented-programming-with-protocol-oriented-design",
+            "updated": 1662292425,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "630b790d1f5d5cba7b24d676",
+            "title": "Abstract Factory Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/abstract-factory-pattern-protocol-oriented-design-pattern",
+            "updated": 1661671430,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "63026e599f9d88828b884774",
+            "title": "Factory Method Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/factory-method-pattern-protocol-oriented-design-pattern",
+            "updated": 1661078670,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62f77aa55079ccd1e2efe3ba",
+            "title": "Value and Reference Types in Swift",
+            "link": "https://www.mastering-swift.com/post/value-and-reference-types-in-swift",
+            "updated": 1660360999,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62efc1d7ec55eeddc2c80750",
+            "title": "Adapter Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/adapter-pattern-protocol-oriented-design-pattern",
+            "updated": 1659854777,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62efc052d693eed495e379f1",
+            "title": "Decorator Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/decorator-pattern-protocol-oriented-design-pattern",
+            "updated": 1659854432,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62ec42a249c6f0e0ceea67fb",
+            "title": "Singleton Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/singleton-pattern-protocol-oriented-design-pattern",
+            "updated": 1659625595,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62eaed37f9775409ed6eb151",
+            "title": "Strategy Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/strategy-pattern-protocol-oriented-design-pattern",
+            "updated": 1659538237,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62e6c0fb7031d84c32149cf9",
+            "title": "Command Pattern:  Protocol Oriented Design Pattern",
+            "link": "https://www.mastering-swift.com/post/command-pattern-protocol-oriented-design-pattern",
+            "updated": 1659264831,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62e6bb7ddf8a5df11be83064",
+            "title": "Swift Protocols Part 4:  Associated Types with Protocols",
+            "link": "https://www.mastering-swift.com/post/swift-protocols-part-4-associated-types-with-protocols",
+            "updated": 1659263441,
+            "site_name": "Mastering Swift"
+        },
+        {
+            "id": "62e1b13d07ca31fca4839089",
+            "title": "Swift Protocols Part 3:  Protocol Extensions",
+            "link": "https://www.mastering-swift.com/post/swift-protocols-part-3-protocol-extensions",
+            "updated": 1658933202,
+            "site_name": "Mastering Swift"
+        }
+    ]
+}

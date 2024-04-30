@@ -1,0 +1,26 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/260c358a7515",
+            "title": "Mastering Thread Safety in Swift With One Runtime Trick",
+            "link": "https://betterprogramming.pub/mastering-thread-safety-in-swift-with-one-runtime-trick-260c358a7515?source=rss-5488c0669d72------2",
+            "updated": 1692022918,
+            "site_name": "Geor Kasapidi on Medium"
+        },
+        {
+            "id": "https://medium.com/p/c5edec2b0495",
+            "title": "Crafting a Swift Package Plugin for App Data Protection",
+            "link": "https://betterprogramming.pub/from-encryption-to-runtime-crafting-a-swift-package-plugin-for-app-data-protection-c5edec2b0495?source=rss-5488c0669d72------2",
+            "updated": 1690765461,
+            "site_name": "Geor Kasapidi on Medium"
+        },
+        {
+            "id": "https://medium.com/p/998bd148ad56",
+            "title": "How to Use Swift Package Manager to Save Gigabytes of Network Traffic and Disk Space",
+            "link": "https://betterprogramming.pub/how-to-use-swift-package-manager-saving-gigabytes-of-network-traffic-and-disk-space-998bd148ad56?source=rss-5488c0669d72------2",
+            "updated": 1689518408,
+            "site_name": "Geor Kasapidi on Medium"
+        }
+    ]
+}

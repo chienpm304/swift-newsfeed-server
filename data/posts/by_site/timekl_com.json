@@ -1,0 +1,75 @@
+{
+    "updated": 1714470978,
+    "posts": [
+        {
+            "id": "https://timekl.com/blog/2021/04/26/swift-generics-2-existentials-boogaloo",
+            "title": "Swift Generics 2: Existentials Boogaloo",
+            "link": "https://timekl.com/blog/2021/04/26/swift-generics-2-existentials-boogaloo/",
+            "updated": 1619405880,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2020/07/17/home-office-audio-amplified",
+            "title": "Home Office Audio Amplified",
+            "link": "https://timekl.com/blog/2020/07/17/home-office-audio-amplified/",
+            "updated": 1595003220,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2020/07/06/hacking-home-office-audio",
+            "title": "Hacking Home Office Audio",
+            "link": "https://timekl.com/blog/2020/07/06/hacking-home-office-audio/",
+            "updated": 1594032360,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2020/05/30/is-isidletimerdisabled-disabled",
+            "title": "Is isIdleTimerDisabled disabled?",
+            "link": "https://timekl.com/blog/2020/05/30/is-isidletimerdisabled-disabled/",
+            "updated": 1590771600,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2019/04/14/swift-generics-evolution",
+            "title": "Swift Generics Evolution",
+            "link": "https://timekl.com/blog/2019/04/14/swift-generics-evolution/",
+            "updated": 1555174800,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2018/04/05/mac-pro-x86-or-arm",
+            "title": "Mac Pro: x86\u2026 or ARM?",
+            "link": "https://timekl.com/blog/2018/04/05/mac-pro-x86-or-arm/",
+            "updated": 1522918532,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2018/02/22/debugging-nsnotificationcenter",
+            "title": "Debugging NSNotificationCenter",
+            "link": "https://timekl.com/blog/2018/02/22/debugging-nsnotificationcenter/",
+            "updated": 1519301963,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2017/11/13/xcoders-talk-objective-c-bridging",
+            "title": "Xcoders talk: Objective-C Bridging",
+            "link": "https://timekl.com/blog/2017/11/13/xcoders-talk-objective-c-bridging/",
+            "updated": 1510506000,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2017/08/31/swift-tricks-emoji-flags",
+            "title": "Swift Tricks: Emoji Flags",
+            "link": "https://timekl.com/blog/2017/08/31/swift-tricks-emoji-flags/",
+            "updated": 1504112400,
+            "site_name": "Tim Ekl\u2019s Blog"
+        },
+        {
+            "id": "https://timekl.com/blog/2017/05/14/swift-tricks-searching-for-objects-by-type",
+            "title": "Swift Tricks: Searching for Objects by Type",
+            "link": "https://timekl.com/blog/2017/05/14/swift-tricks-searching-for-objects-by-type/",
+            "updated": 1494694800,
+            "site_name": "Tim Ekl\u2019s Blog"
+        }
+    ]
+}

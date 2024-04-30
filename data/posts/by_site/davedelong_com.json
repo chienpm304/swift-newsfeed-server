@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://davedelong.com/blog/2023/03/04/handy-git-customizations",
+            "title": "Handy git customizations",
+            "link": "https://davedelong.com/blog/2023/03/04/handy-git-customizations/",
+            "updated": 1677862800,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code",
+            "title": "Adventures in Advent of Code",
+            "link": "https://davedelong.com/blog/2022/12/03/adventures-in-advent-of-code/",
+            "updated": 1670000400,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2022/08/31/my-first-app",
+            "title": "My First App",
+            "link": "https://davedelong.com/blog/2022/08/31/my-first-app/",
+            "updated": 1661878800,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2022/05/15/conditional-compilation-part-4-deployment-targets",
+            "title": "Conditional Compilation, Part 4: Deployment Targets",
+            "link": "https://davedelong.com/blog/2022/05/15/conditional-compilation-part-4-deployment-targets/",
+            "updated": 1652547600,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2021/10/09/simplifying-backwards-compatibility-in-swift",
+            "title": "Simplifying Backwards Compatibility in Swift",
+            "link": "https://davedelong.com/blog/2021/10/09/simplifying-backwards-compatibility-in-swift/",
+            "updated": 1633712400,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2021/04/03/core-data-and-swiftui",
+            "title": "Core Data and SwiftUI",
+            "link": "https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/",
+            "updated": 1617382800,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2021/04/02/custom-property-wrappers-for-swiftui",
+            "title": "Custom Property Wrappers for SwiftUI",
+            "link": "https://davedelong.com/blog/2021/04/02/custom-property-wrappers-for-swiftui/",
+            "updated": 1617296400,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit",
+            "title": "Exploiting String Interpolation For Fun And For Profit",
+            "link": "https://davedelong.com/blog/2021/03/04/exploiting-string-interpolation-for-fun-and-for-profit/",
+            "updated": 1614790800,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2020/10/03/http-in-swift-part-17-brain-dump",
+            "title": "HTTP in Swift, Part 17: Brain Dump",
+            "link": "https://davedelong.com/blog/2020/10/03/http-in-swift-part-17-brain-dump/",
+            "updated": 1601658000,
+            "site_name": "Dave DeLong\u2019s Blog"
+        },
+        {
+            "id": "https://davedelong.com/blog/2020/10/03/http-in-swift-part-18-wrapping-up",
+            "title": "HTTP in Swift, Part 18: Wrapping Up",
+            "link": "https://davedelong.com/blog/2020/10/03/http-in-swift-part-18-wrapping-up/",
+            "updated": 1601658000,
+            "site_name": "Dave DeLong\u2019s Blog"
+        }
+    ]
+}

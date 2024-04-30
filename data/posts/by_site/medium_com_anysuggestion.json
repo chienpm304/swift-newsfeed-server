@@ -1,0 +1,75 @@
+{
+    "updated": 1714470843,
+    "posts": [
+        {
+            "id": "https://medium.com/p/bfcda80f2b81",
+            "title": "Why so many iOS developers feel so frustrated right now",
+            "link": "https://medium.com/anysuggestion/why-so-many-ios-developers-feel-so-frustrated-right-now-bfcda80f2b81?source=rss----2535f529da4e---4",
+            "updated": 1580401175,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/49b845df4dc6",
+            "title": "Do you often forget [weak self]? Here\u2019s a solution",
+            "link": "https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6?source=rss----2535f529da4e---4",
+            "updated": 1611911173,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/3e1ffbfd61c3",
+            "title": "Don\u2019t underestimate how slow the disk really is",
+            "link": "https://medium.com/anysuggestion/dont-underestimate-how-slow-the-disk-really-is-3e1ffbfd61c3?source=rss----2535f529da4e---4",
+            "updated": 1529310647,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/704b007bd83b",
+            "title": "Introducing AppFolder",
+            "link": "https://medium.com/anysuggestion/introducing-appfolder-704b007bd83b?source=rss----2535f529da4e---4",
+            "updated": 1526814752,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/4e49a8a612f3",
+            "title": "Turning Swift compile-time safety into safety for your users",
+            "link": "https://medium.com/anysuggestion/turning-swift-compile-time-safety-into-safety-for-your-users-4e49a8a612f3?source=rss----2535f529da4e---4",
+            "updated": 1526814602,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/d43523426fd5",
+            "title": "Introducing Time",
+            "link": "https://medium.com/anysuggestion/introducing-time-d43523426fd5?source=rss----2535f529da4e---4",
+            "updated": 1516330001,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/c200677026d2",
+            "title": "Lightweight persistence in iOS shouldn\u2019t be this hard",
+            "link": "https://medium.com/anysuggestion/lightweight-persistence-in-ios-shouldnt-be-that-hard-c200677026d2?source=rss----2535f529da4e---4",
+            "updated": 1568154791,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/9bdbee02a8f1",
+            "title": "How to use custom type as a key for NSCache",
+            "link": "https://medium.com/anysuggestion/how-to-use-custom-type-as-a-key-for-nscache-9bdbee02a8f1?source=rss----2535f529da4e---4",
+            "updated": 1492518015,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/1cc6927b097d",
+            "title": "Introducing Placeholders",
+            "link": "https://medium.com/anysuggestion/introducing-placeholders-1cc6927b097d?source=rss----2535f529da4e---4",
+            "updated": 1516330028,
+            "site_name": "AnySuggestion"
+        },
+        {
+            "id": "https://medium.com/p/cf82c1e33f7a",
+            "title": "Postponing internationalization without feeling guilty",
+            "link": "https://medium.com/anysuggestion/swift-snippet-how-to-postpone-internationalization-without-feeling-guilty-cf82c1e33f7a?source=rss----2535f529da4e---4",
+            "updated": 1516330187,
+            "site_name": "AnySuggestion"
+        }
+    ]
+}

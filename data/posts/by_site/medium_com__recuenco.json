@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/f2366350c527",
+            "title": "Aspect-Oriented Programming in Swift",
+            "link": "https://medium.com/the-swift-cooperative/aspect-oriented-programming-in-swift-f2366350c527?source=rss-c3e9dcf69985------2",
+            "updated": 1709730346,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/8911a992892b",
+            "title": "SwiftUI View Models: A Polymorphic Approach",
+            "link": "https://medium.com/the-swift-cooperative/swiftui-view-models-a-polymorphic-approach-8911a992892b?source=rss-c3e9dcf69985------2",
+            "updated": 1705679767,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/56133d8a8751",
+            "title": "SwiftUI Observation Framework: State Containers",
+            "link": "https://medium.com/the-swift-cooperative/swiftui-observation-framework-state-containers-56133d8a8751?source=rss-c3e9dcf69985------2",
+            "updated": 1704478505,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/8dd967e84e31",
+            "title": "SwiftUI View Models: Lifecycle Quirks",
+            "link": "https://medium.com/the-swift-cooperative/swiftui-view-models-lifecycle-quirks-8dd967e84e31?source=rss-c3e9dcf69985------2",
+            "updated": 1703065871,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/aeb832107fe7",
+            "title": "SwiftUI Testing: a Pragmatic Approach",
+            "link": "https://betterprogramming.pub/swiftui-testing-a-pragmatic-approach-aeb832107fe7?source=rss-c3e9dcf69985------2",
+            "updated": 1705631295,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/781a01380ef6",
+            "title": "The Many Flavors of Unidirectional Architectures in Swift",
+            "link": "https://betterprogramming.pub/different-flavors-of-unidirectional-architectures-in-swift-781a01380ef6?source=rss-c3e9dcf69985------2",
+            "updated": 1680330289,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/5edca55eb57a",
+            "title": "Parsing in Swift: a DTO-based Approach",
+            "link": "https://betterprogramming.pub/parsing-in-swift-a-dto-based-approach-5edca55eb57a?source=rss-c3e9dcf69985------2",
+            "updated": 1675419231,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/c5bf2b3f8340",
+            "title": "Value integrity in Swift",
+            "link": "https://jobandtalent.engineering/value-integrity-in-swift-c5bf2b3f8340?source=rss-c3e9dcf69985------2",
+            "updated": 1631675916,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/bd193a9e8cf2",
+            "title": "Statically-typed JSON payload in Swift",
+            "link": "https://jobandtalent.engineering/statically-typed-json-payload-in-swift-bd193a9e8cf2?source=rss-c3e9dcf69985------2",
+            "updated": 1614814974,
+            "site_name": "Luis Recuenco on Medium"
+        },
+        {
+            "id": "https://medium.com/p/f9013254c503",
+            "title": "The power of mixins in Swift",
+            "link": "https://jobandtalent.engineering/the-power-of-mixins-in-swift-f9013254c503?source=rss-c3e9dcf69985------2",
+            "updated": 1569374091,
+            "site_name": "Luis Recuenco on Medium"
+        }
+    ]
+}

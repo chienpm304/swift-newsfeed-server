@@ -1,0 +1,201 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://holtwick.de/en/blog/2018-08-24-photos",
+            "title": "PhotoFolder",
+            "link": "https://holtwick.de/en/blog/2018-08-24-photos",
+            "updated": 1535065200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-08-31-receipts-blog",
+            "title": "Receipts Blog",
+            "link": "https://holtwick.de/en/blog/2018-08-31-receipts-blog",
+            "updated": 1535670000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-09-17-nsdocstate",
+            "title": "UI States in Cocoa",
+            "link": "https://holtwick.de/en/blog/2018-09-17-nsdocstate",
+            "updated": 1537138800,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-09-25-mojave-css",
+            "title": "CSS from Mojave Colors",
+            "link": "https://holtwick.de/en/blog/2018-09-25-mojave-css",
+            "updated": 1537830000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-10-11-frameworks",
+            "title": "Lovely Frameworks",
+            "link": "https://holtwick.de/en/blog/2018-10-11-frameworks",
+            "updated": 1539212400,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-10-25-website-performance",
+            "title": "Website Performance",
+            "link": "https://holtwick.de/en/blog/2018-10-25-website-performance",
+            "updated": 1540422000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2018-12-20-web-technologies",
+            "title": "The most obvious Electron alternative on macOS/iOS",
+            "link": "https://holtwick.de/en/blog/2018-12-20-web-technologies",
+            "updated": 1545264000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2019-01-07-crash-reporting",
+            "title": "Crash reporting: Sentry as HockeyApp alternative",
+            "link": "https://holtwick.de/en/blog/2019-01-07-crash-reporting",
+            "updated": 1546819200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2019-02-21-uuid",
+            "title": "Tiny UUID",
+            "link": "https://holtwick.de/en/blog/2019-02-21-uuid",
+            "updated": 1546819200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2019-03-14-hybrid-apps",
+            "title": "Hybrid Apps - No Marzipan",
+            "link": "https://holtwick.de/en/blog/2019-03-14-hybrid-apps",
+            "updated": 1552521600,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/2020-03-15-css-single-page-app-stack-layout",
+            "title": "CSS - Single Page App Stack Layout",
+            "link": "https://holtwick.de/en/blog/2020-03-15-css-single-page-app-stack-layout",
+            "updated": 1584230400,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/briefing",
+            "title": "Video Chat Briefing - More features",
+            "link": "https://holtwick.de/en/blog/briefing",
+            "updated": 1618527600,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/languagetool",
+            "title": "LanguageTool",
+            "link": "https://holtwick.de/en/blog/languagetool",
+            "updated": 1618441200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/fake-news",
+            "title": "Preventing fake news",
+            "link": "https://holtwick.de/en/blog/fake-news",
+            "updated": 1707264000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/apple-webcrypto",
+            "title": "Implementing Crypto",
+            "link": "https://holtwick.de/en/blog/apple-webcrypto",
+            "updated": 1518480000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/birth-of-hostic",
+            "title": "Why I developed a static Website Builder \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+            "link": "https://holtwick.de/en/blog/birth-of-hostic",
+            "updated": 1599001200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/esbuild",
+            "title": "How to transpile at the speed of light \ud83d\udcab",
+            "link": "https://holtwick.de/en/blog/esbuild",
+            "updated": 1597878000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/it-strategy-for-europe",
+            "title": "An IT strategy for Europe \ud83c\uddea\ud83c\uddfa",
+            "link": "https://holtwick.de/en/blog/it-strategy-for-europe",
+            "updated": 1598396400,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/jsx-without-react",
+            "title": "Using JSX in Typescript without React",
+            "link": "https://holtwick.de/en/blog/jsx-without-react",
+            "updated": 1470870000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/keypath-refatoring",
+            "title": "KeyPath Trick",
+            "link": "https://holtwick.de/en/blog/keypath-refatoring",
+            "updated": 1529449200,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/logging",
+            "title": "Code Quality - Logging",
+            "link": "https://holtwick.de/en/blog/logging",
+            "updated": 1516838400,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/replies",
+            "title": "Support, but efficiently",
+            "link": "https://holtwick.de/en/blog/replies",
+            "updated": 1516060800,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/seaobject",
+            "title": "Cosy NSObject",
+            "link": "https://holtwick.de/en/blog/seaobject",
+            "updated": 1525734000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/serialization",
+            "title": "Serialization on macOS and iOS - Speed and Size",
+            "link": "https://holtwick.de/en/blog/serialization",
+            "updated": 1517616000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/smart-table-reordering",
+            "title": "Smart Reordering for UITableView",
+            "link": "https://holtwick.de/en/blog/smart-table-reordering",
+            "updated": 1519689600,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/static-jquery",
+            "title": "Static websites the jQuery way",
+            "link": "https://holtwick.de/en/blog/static-jquery",
+            "updated": 1514592000,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/typora",
+            "title": "Typora, perfect Markdown",
+            "link": "https://holtwick.de/en/blog/typora",
+            "updated": 1521590400,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        },
+        {
+            "id": "https://holtwick.de/en/blog/website-ssg",
+            "title": "Website SSG",
+            "link": "https://holtwick.de/en/blog/website-ssg",
+            "updated": 1701820800,
+            "site_name": "Dirk Holtwick\u2019s Blog"
+        }
+    ]
+}

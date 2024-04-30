@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://khawerkhaliq.com/?p=3102",
+            "title": "Pattern Matching With Optionals in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-pattern-matching-optionals/",
+            "updated": 1697543123,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=3062",
+            "title": "Test-Driven Development (TDD) in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-test-driven-development/",
+            "updated": 1693217377,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2994",
+            "title": "Unwrapping Optionals With Optional Binding in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-optional-binding/",
+            "updated": 1652055282,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2805",
+            "title": "Unit Testing and UI Testing in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-unit-testing-ui-testing/",
+            "updated": 1649743766,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2767",
+            "title": "When and How to Use the Equatable and Identifiable Protocols in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-equatable-identifiable/",
+            "updated": 1639353012,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2720",
+            "title": "The Power of Optional Chaining in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-optional-chaining/",
+            "updated": 1627298878,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2678",
+            "title": "Rethinking Design Patterns in Swift \u2013 Command Pattern",
+            "link": "https://khawerkhaliq.com/blog/swift-command-pattern/",
+            "updated": 1622608321,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2631",
+            "title": "What Are Swift Optionals and How They Are Used",
+            "link": "https://khawerkhaliq.com/blog/swift-optionals/",
+            "updated": 1606828978,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2615",
+            "title": "A Protocol-Oriented Approach to Associated Types and Self Requirements in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-associated-types-self-requirements/",
+            "updated": 1600240269,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        },
+        {
+            "id": "https://khawerkhaliq.com/?p=2559",
+            "title": "Retroactive Modeling With Protocols in Swift",
+            "link": "https://khawerkhaliq.com/blog/swift-protocols-retroactive-modeling/",
+            "updated": 1583310420,
+            "site_name": "Khawer Khaliq\u2019s Blog"
+        }
+    ]
+}

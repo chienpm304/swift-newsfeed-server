@@ -1,0 +1,75 @@
+{
+    "updated": 1714470982,
+    "posts": [
+        {
+            "id": "tag:vmanot.com,2014:Post/my-swiftui-wishlist-for-wwdc-2020",
+            "title": "My SwiftUI wishlist for WWDC 2020",
+            "link": "https://vmanot.com/my-swiftui-wishlist-for-wwdc-2020",
+            "updated": 1591951014,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/inlining-environment-access-in-swiftui",
+            "title": "Inlining @Environment access in SwiftUI",
+            "link": "https://vmanot.com/inlining-environment-access-in-swiftui",
+            "updated": 1590540648,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/fixing-nsmanagedobject-s-observableobject-conformance",
+            "title": "Fixing NSManagedObject's ObservableObject conformance",
+            "link": "https://vmanot.com/fixing-nsmanagedobject-s-observableobject-conformance",
+            "updated": 1589089336,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/how-to-fix-segmentation-fault-11-with-propertywrapper",
+            "title": "How to fix Segmentation fault: 11 with @propertyWrapper",
+            "link": "https://vmanot.com/how-to-fix-segmentation-fault-11-with-propertywrapper",
+            "updated": 1577835612,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/removing-list-s-cell-separators-in-swiftui",
+            "title": "Removing List's cell separators in SwiftUI",
+            "link": "https://vmanot.com/removing-list-s-cell-separators-in-swiftui",
+            "updated": 1571012308,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/data-flow-through-swiftui",
+            "title": "Data Flow Through SwiftUI",
+            "link": "https://vmanot.com/data-flow-through-swiftui",
+            "updated": 1566185302,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/for-antara",
+            "title": "For Antara",
+            "link": "https://vmanot.com/for-antara",
+            "updated": 1565731581,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/reimplementing-swiftui-s-deprecated-relative-view-sizing-functions",
+            "title": "Reimplementing SwiftUI's deprecated relative view sizing functions.",
+            "link": "https://vmanot.com/reimplementing-swiftui-s-deprecated-relative-view-sizing-functions",
+            "updated": 1563515013,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/3d-touch",
+            "title": "3D Touch",
+            "link": "https://vmanot.com/3d-touch",
+            "updated": 1558888545,
+            "site_name": "Vatsal Manot's Blog"
+        },
+        {
+            "id": "tag:vmanot.com,2014:Post/context-capturing-c-function-pointers-in-swift",
+            "title": "Context capturing C function pointers in Swift.",
+            "link": "https://vmanot.com/context-capturing-c-function-pointers-in-swift",
+            "updated": 1550030196,
+            "site_name": "Vatsal Manot's Blog"
+        }
+    ]
+}

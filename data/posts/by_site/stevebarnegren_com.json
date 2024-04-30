@@ -1,0 +1,75 @@
+{
+    "updated": 1714470951,
+    "posts": [
+        {
+            "id": "https://www.steveonstuff.com/2022/02/09/nitpicky-code-reviews-are-are-drag",
+            "title": "Nitpicky Code Reviews Are a Drag",
+            "link": "https://www.steveonstuff.com/2022/02/09/nitpicky-code-reviews-are-are-drag",
+            "updated": 1644339600,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code",
+            "title": "There\u2019s No Such Thing as Clean Code",
+            "link": "https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code",
+            "updated": 1643216400,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2022/01/13/migrating-from-objc-to-swift",
+            "title": "An Approach for Migrating From Objective-C to Swift",
+            "link": "https://www.steveonstuff.com/2022/01/13/migrating-from-objc-to-swift",
+            "updated": 1642006800,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2019/09/12/own-your-abstractions",
+            "title": "Own Your Abstractions",
+            "link": "https://www.steveonstuff.com/2019/09/12/own-your-abstractions",
+            "updated": 1568221200,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2019/03/14/exhaustive-collections-of-sructs",
+            "title": "Exhaustive Collections Of Structs",
+            "link": "https://www.steveonstuff.com/2019/03/14/exhaustive-collections-of-sructs",
+            "updated": 1552496400,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2018/12/05/the-humble-table-view",
+            "title": "The Humble TableView",
+            "link": "https://www.steveonstuff.com/2018/12/05/the-humble-table-view",
+            "updated": 1543942800,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2018/09/13/intentional-optionality",
+            "title": "Intentional Optionality",
+            "link": "https://www.steveonstuff.com/2018/09/13/intentional-optionality",
+            "updated": 1536771600,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2018/08/16/delegates-vs-closure-callbacks",
+            "title": "Delegates vs Closure Callbacks",
+            "link": "https://www.steveonstuff.com/2018/08/16/delegates-vs-closure-callbacks",
+            "updated": 1534352400,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2018/06/28/fixing-xcodes-comment-wrapping-problem",
+            "title": "Fixing Xcode\u2019s Comment Wrapping Problem",
+            "link": "https://www.steveonstuff.com/2018/06/28/fixing-xcodes-comment-wrapping-problem",
+            "updated": 1530118800,
+            "site_name": "Steve On Stuff"
+        },
+        {
+            "id": "https://www.steveonstuff.com/2018/05/24/better-xcode-build-numbers",
+            "title": "Better Xcode Build Numbers",
+            "link": "https://www.steveonstuff.com/2018/05/24/better-xcode-build-numbers",
+            "updated": 1527094800,
+            "site_name": "Steve On Stuff"
+        }
+    ]
+}

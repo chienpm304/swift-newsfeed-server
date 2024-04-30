@@ -1,0 +1,145 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:63da3f33e65ee734a9632b47",
+            "title": "Podcast appearance: Empower Apps, Episode 141",
+            "link": "https://finestructure.co/blog/2023/2/1/podcast-appearance-empower-apps-episode-141",
+            "updated": 1675222335,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:600ab132019393013fe9765c",
+            "title": "Podcast appearance: Swift by Sundell, Episode 75",
+            "link": "https://finestructure.co/blog/2021/1/22/podcast-appearance-swift-by-sundell-episode-75",
+            "updated": 1675222128,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:62a17c8de62f9f5f5e9bbb91",
+            "title": "Trying new Swift features on Linux via VS Code dev containers",
+            "link": "https://finestructure.co/blog/2022/6/9/trying-new-swift-features-on-linux-via-vs-code-dev-containers",
+            "updated": 1654725802,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:600aad6d60b63500f56c7683",
+            "title": "Podcast appearance: Empower Apps, Episode 77",
+            "link": "https://finestructure.co/blog/2021/1/22/podcast-appearance-empower-apps-episode-77",
+            "updated": 1611287723,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5ffb0f0debaf65085b07aa35",
+            "title": "Running Docker on Apple Silicon M1 (persisted volume)",
+            "link": "https://finestructure.co/blog/2021/1/10/running-docker-on-apple-silicon-persistence",
+            "updated": 1610410703,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5fc0f2d33f75b16643f61aae",
+            "title": "Running Docker on Apple Silicon M1 (follow-up)",
+            "link": "https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1-follow-up",
+            "updated": 1606455993,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5fc0a2a39d79364840a923e2",
+            "title": "Running Docker on Apple Silicon M1",
+            "link": "https://finestructure.co/blog/2020/11/27/running-docker-on-apple-silicon-m1",
+            "updated": 1606438081,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5fa81bfe64a757513aee749f",
+            "title": "Arena 1.2 released",
+            "link": "https://finestructure.co/blog/2020/11/8/arena-120",
+            "updated": 1604908374,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5f9b0e371c33d56e005b60e9",
+            "title": "Arena 1.0 released",
+            "link": "https://finestructure.co/blog/2020/10/29/arena-100",
+            "updated": 1603974013,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5e8216545dad3f3c15628afc",
+            "title": "State of the App: State Surfing",
+            "link": "https://finestructure.co/blog/2020/3/30/state-of-the-app-state-surfing",
+            "updated": 1585558602,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5e5df90e3b6a650c2698f137",
+            "title": "Arena: Explore SPM packages with ease",
+            "link": "https://finestructure.co/blog/2020/3/3/arena-explore-spm-packages-with-ease",
+            "updated": 1583193775,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5e30626f7204aa2d261ddc53",
+            "title": "Enhance your SwiftUI previews with  Gala",
+            "link": "https://finestructure.co/blog/2020/1/28/enhance-your-swiftui-previews-with-gala",
+            "updated": 1580204079,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5e2563896fef6f177e67efd6",
+            "title": "SwiftUI: Equal widths view constraints",
+            "link": "https://finestructure.co/blog/2020/1/20/swiftui-equal-widths-view-constraints",
+            "updated": 1579501326,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5e0db6323ee7795ac7058aa6",
+            "title": "SPMPlayground 0.5.0 imports multiple & local packages",
+            "link": "https://finestructure.co/blog/2020/1/2/spmplayground-050-imports-multiple-amp-local-packages",
+            "updated": 1577932986,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5dfb3a16ba3b441134a7d1ad",
+            "title": "Using Swift Package Manager libraries in Playgrounds",
+            "link": "https://finestructure.co/blog/2019/12/19/using-swift-package-manager-libraries-in-playgrounds",
+            "updated": 1576720629,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5d43e609b35bf00001963911",
+            "title": "Website testing - creating a Restfile from sitemap.xml",
+            "link": "https://finestructure.co/blog/2019/8/2/website-testing-creating-a-restfile-from-sitemapxml",
+            "updated": 1564706805,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5d1882400489990001da6d6a",
+            "title": "Adding code coverage to a Swift Package Manager project",
+            "link": "https://finestructure.co/blog/2019/6/30/adding-code-coverage-to-a-swift-package-manager-project",
+            "updated": 1561863598,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5cf3a064430076000177b930",
+            "title": "Managers and engineers",
+            "link": "https://finestructure.co/blog/2019/6/2/np0qt22y5rwnv8r91io584dj3u8w4e",
+            "updated": 1559453002,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5c9e289e4e17b6384d7467db",
+            "title": "Rester \u2013 an API scripting tool",
+            "link": "https://finestructure.co/blog/rester",
+            "updated": 1554009657,
+            "site_name": "finestructure"
+        },
+        {
+            "id": "54c75522e4b025e1ccf5b88f:54c757cbe4b035ae57d8d570:5c6969ab085229f2876d0b96",
+            "title": "Hummingbird \u2013 Move and resize windows anywhere within window bounds on macOS",
+            "link": "https://finestructure.co/blog/2019/2/24/hummingbird-move-and-resize-windows-anywhere-within-window-bounds-on-macos",
+            "updated": 1551060093,
+            "site_name": "finestructure"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://marcelvoss.com/2023/introducing-phonebattery-3/",
+            "title": "Introducing PhoneBattery 3",
+            "link": "https://marcelvoss.com/2023/introducing-phonebattery-3/",
+            "updated": 1686502800,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2023/tips-and-tricks-for-phonebattery/",
+            "title": "Tips and Tricks for PhoneBattery",
+            "link": "https://marcelvoss.com/2023/tips-and-tricks-for-phonebattery/",
+            "updated": 1685984400,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2023/quick-tip-safely-using-uiimage/",
+            "title": "Quick Tip: Safely using UIImage",
+            "link": "https://marcelvoss.com/2023/quick-tip-safely-using-uiimage/",
+            "updated": 1685638800,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2023/enabling-upcoming-swift-language-features/",
+            "title": "Enabling Upcoming Swift Language Features",
+            "link": "https://marcelvoss.com/2023/enabling-upcoming-swift-language-features/",
+            "updated": 1679418000,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2023/ding-dong/",
+            "title": "Ding dong",
+            "link": "https://marcelvoss.com/2023/ding-dong/",
+            "updated": 1679040000,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2020/quick-tip-kotlin-scope-functions-in-swift/",
+            "title": "Quick Tip: Kotlin Scope Functions in Swift",
+            "link": "https://marcelvoss.com/2020/quick-tip-kotlin-scope-functions-in-swift/",
+            "updated": 1591361105,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2019/higher-order-functions-in-objective-c/",
+            "title": "Higher Order Functions in Objective C",
+            "link": "https://marcelvoss.com/2019/higher-order-functions-in-objective-c/",
+            "updated": 1577374551,
+            "site_name": "Marcel Voss' Blog"
+        },
+        {
+            "id": "https://marcelvoss.com/2019/hello-world/",
+            "title": "Hello World",
+            "link": "https://marcelvoss.com/2019/hello-world/",
+            "updated": 1555482934,
+            "site_name": "Marcel Voss' Blog"
+        }
+    ]
+}

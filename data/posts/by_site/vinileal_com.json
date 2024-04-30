@@ -1,0 +1,75 @@
+{
+    "updated": 1714471044,
+    "posts": [
+        {
+            "id": "https://vinileal.com/agile/tech-debt",
+            "title": "Tech Debt",
+            "link": "https://vinileal.com/agile/tech-debt/",
+            "updated": 1661101200,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/design%20patterns/design-patterns-swift-decorator",
+            "title": "Design Patterns in Swift - Decorator",
+            "link": "https://vinileal.com/design%20patterns/design-patterns-swift-decorator/",
+            "updated": 1604768400,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/tutorial/unit%20test/unit-test-apple-pay",
+            "title": "Improving the Testability of Apple Pay With Dependency Injection",
+            "link": "https://vinileal.com/tutorial/unit%20test/unit-test-apple-pay/",
+            "updated": 1602867600,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/open%20source/open-source-how-to-contribute",
+            "title": "What is Open Sorce and How to Start Contributing",
+            "link": "https://vinileal.com/open%20source/open-source-how-to-contribute/",
+            "updated": 1601398800,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/git/common-git-workflows",
+            "title": "Common Git Workflows",
+            "link": "https://vinileal.com/git/common-git-workflows/",
+            "updated": 1591894800,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/design%20patterns/design-patterns-swift-template-method",
+            "title": "Design Patterns in Swift - Template Method",
+            "link": "https://vinileal.com/design%20patterns/design-patterns-swift-template-method/",
+            "updated": 1590166800,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/agile/continuous-integration-intro",
+            "title": "Continuous Integration (CI) - An Introduction",
+            "link": "https://vinileal.com/agile/continuous-integration-intro/",
+            "updated": 1587315600,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/tutorial/swiftui/microinteraction/animation/menu-button-swiftui",
+            "title": "Microinteractions in SwiftUI - Menu Button Animation",
+            "link": "https://vinileal.com/tutorial/swiftui/microinteraction/animation/menu-button-swiftui/",
+            "updated": 1586624400,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/tutorial/tdd/tdd-uipageviewcontroller",
+            "title": "Test Driving UIPageViewController implementation",
+            "link": "https://vinileal.com/tutorial/tdd/tdd-uipageviewcontroller/",
+            "updated": 1585933200,
+            "site_name": "Vini Leal's Blog"
+        },
+        {
+            "id": "https://vinileal.com/productivity/basics/code-reviews",
+            "title": "Code Reviews",
+            "link": "https://vinileal.com/productivity/basics/code-reviews/",
+            "updated": 1585242000,
+            "site_name": "Vini Leal's Blog"
+        }
+    ]
+}

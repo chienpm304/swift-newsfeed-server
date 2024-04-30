@@ -1,0 +1,208 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://briancoyner.github.io/articles/2022-02-01-sqlite-fts5-aux-functions",
+            "title": "SQLite FTS5 Custom Auxiliary Functions",
+            "link": "https://briancoyner.github.io/articles/2022-02-01-sqlite-fts5-aux-functions",
+            "updated": 1643648400,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2021-10-12-reorderable-collection-view",
+            "title": "Building A Reorderable UICollectionView",
+            "link": "https://briancoyner.github.io/articles/2021-10-12-reorderable-collection-view",
+            "updated": 1633971600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2021-09-02-capturing-core-data-sqlite-database-failed-test",
+            "title": "Attaching A Core Data SQLite Database To A Failed Test",
+            "link": "https://briancoyner.github.io/articles/2021-09-02-capturing-core-data-sqlite-database-failed-test",
+            "updated": 1630515600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2021-08-28-testing-core-data",
+            "title": "Simplifying Core Data Unit Testing",
+            "link": "https://briancoyner.github.io/articles/2021-08-28-testing-core-data",
+            "updated": 1630083600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2021-08-24-technique-for-creating-nspersistentcontainer",
+            "title": "A Technique For Creating a NSPersistentContainer",
+            "link": "https://briancoyner.github.io/articles/2021-08-24-technique-for-creating-nspersistentcontainer",
+            "updated": 1629738000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2021-08-14-xctest-attachments",
+            "title": "Using `XCTAttachment` To Debug Failing Tests",
+            "link": "https://briancoyner.github.io/articles/2021-08-14-xctest-attachments",
+            "updated": 1628874000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2020-02-25-cocoaheads_publish_notes",
+            "title": "8 Tips To Help You Get Started With Publish",
+            "link": "https://briancoyner.github.io/articles/2020-02-25-cocoaheads_publish_notes",
+            "updated": 1582563600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2020-02-07-publish-static-generator",
+            "title": "Publish: A Swift static site generator",
+            "link": "https://briancoyner.github.io/articles/2020-02-07-publish-static-generator",
+            "updated": 1581008400,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2018-08-18-async-workflows",
+            "title": "Async Workflows",
+            "link": "https://briancoyner.github.io/articles/2018-08-18-async-workflows",
+            "updated": 1534525200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2018-02-10-ns-refined-for-swift",
+            "title": "Using NS_REFINED_FOR_SWIFT",
+            "link": "https://briancoyner.github.io/articles/2018-02-10-ns-refined-for-swift",
+            "updated": 1518195600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2017-05-15-uivisualeffectview-with-drop-shadow",
+            "title": "Add Drop Shadow To UIVisualEffectView",
+            "link": "https://briancoyner.github.io/articles/2017-05-15-uivisualeffectview-with-drop-shadow",
+            "updated": 1494781200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2017-05-14-xcode-attach-debugger-to-apple-apps",
+            "title": "Visualize iOS 10 Maps App View Hierarchy In Xcode",
+            "link": "https://briancoyner.github.io/articles/2017-05-14-xcode-attach-debugger-to-apple-apps",
+            "updated": 1494694800,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2016-08-07-wrapping-primitives",
+            "title": "Wrapping Primitives",
+            "link": "https://briancoyner.github.io/articles/2016-08-07-wrapping-primitives",
+            "updated": 1470502800,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-11-28-swift-parameterized-xctestcase",
+            "title": "Swift Parameterized XCTest Test Case",
+            "link": "https://briancoyner.github.io/articles/2015-11-28-swift-parameterized-xctestcase",
+            "updated": 1448643600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-11-19-swift-integer-overflow",
+            "title": "Swift Integer Overflow",
+            "link": "https://briancoyner.github.io/articles/2015-11-19-swift-integer-overflow",
+            "updated": 1447866000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-11-14-swift-protocol-that-returns-protocol",
+            "title": "Swift Protocol That Returns An Object Conforming To A Protocol",
+            "link": "https://briancoyner.github.io/articles/2015-11-14-swift-protocol-that-returns-protocol",
+            "updated": 1447434000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-11-09-xcode7-reset-simulator",
+            "title": "Resetting Xcode Simulators",
+            "link": "https://briancoyner.github.io/articles/2015-11-09-xcode7-reset-simulator",
+            "updated": 1447002000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-08-05-coredata-localization-swift",
+            "title": "Core Data Localization",
+            "link": "https://briancoyner.github.io/articles/2015-08-05-coredata-localization-swift",
+            "updated": 1438707600,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2015-08-01-coredata-swift",
+            "title": "Creating Core Data Objects In Swift",
+            "link": "https://briancoyner.github.io/articles/2015-08-01-coredata-swift",
+            "updated": 1438362000,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2013-08-19-fail-fast",
+            "title": "Failing Fast",
+            "link": "https://briancoyner.github.io/articles/2013-08-19-fail-fast",
+            "updated": 1376845200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2013-06-20-generating-xcode-errors",
+            "title": "Xcode Run Scripts",
+            "link": "https://briancoyner.github.io/articles/2013-06-20-generating-xcode-errors",
+            "updated": 1371661200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2013-06-09-character-count",
+            "title": "Counting Characters",
+            "link": "https://briancoyner.github.io/articles/2013-06-09-character-count",
+            "updated": 1370710800,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2013-06-05-git-sparse-checkout",
+            "title": "Using Git Sparse Checkout",
+            "link": "https://briancoyner.github.io/articles/2013-06-05-git-sparse-checkout",
+            "updated": 1370365200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2012-04-25-OCUnit-Single-File",
+            "title": "OCUnit Tip: You Only Need a .m File",
+            "link": "https://briancoyner.github.io/articles/2012-04-25-OCUnit-Single-File",
+            "updated": 1335286800,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2011-11-21-multi-thread-unit-test",
+            "title": "Unit Testing with 'Latches'",
+            "link": "https://briancoyner.github.io/articles/2011-11-21-multi-thread-unit-test",
+            "updated": 1321808400,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2011-11-01-lissajous",
+            "title": "Lissajous Curve",
+            "link": "https://briancoyner.github.io/articles/2011-11-01-lissajous",
+            "updated": 1320080400,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2011-10-28-core-animation-fun-house",
+            "title": "Core Animation Fun House",
+            "link": "https://briancoyner.github.io/articles/2011-10-28-core-animation-fun-house",
+            "updated": 1319734800,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2011-09-24-book-review",
+            "title": "My Top 6 Programming Book Recommendations",
+            "link": "https://briancoyner.github.io/articles/2011-09-24-book-review",
+            "updated": 1316797200,
+            "site_url": "https://briancoyner.github.io/"
+        },
+        {
+            "id": "https://briancoyner.github.io/articles/2011-08-30-ocunit-parameterized-test-case",
+            "title": "OCUnit Parameterized Test Case",
+            "link": "https://briancoyner.github.io/articles/2011-08-30-ocunit-parameterized-test-case",
+            "updated": 1314637200,
+            "site_url": "https://briancoyner.github.io/"
+        }
+    ]
+}

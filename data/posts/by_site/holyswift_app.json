@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://holyswift.app/?p=4342",
+            "title": "How to Mirror Any View in SwiftUI?",
+            "link": "https://holyswift.app/how-to-invert-any-view-in-swiftui/",
+            "updated": 1714006696,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4334",
+            "title": "Common Mistakes to Avoid When Using Enums in Swift",
+            "link": "https://holyswift.app/common-mistakes-to-avoid-when-using-enums-in-swift/",
+            "updated": 1713323947,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4320",
+            "title": "Number Text Animation in SwiftUI with contentTransition",
+            "link": "https://holyswift.app/how-to-animate-text-in-swiftui-using-contenttransition/",
+            "updated": 1712541155,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4310",
+            "title": "Using the New Observation Framework to Network Monitoring in SwiftUI",
+            "link": "https://holyswift.app/how-to-monitor-network-in-swiftui/",
+            "updated": 1708555474,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4291",
+            "title": "Understanding Once and For All SwiftUI Alignment Guides",
+            "link": "https://holyswift.app/the-basics-of-swiftui-alignment-guides/",
+            "updated": 1707953479,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4278",
+            "title": "What is @testable Annotation in Swift?",
+            "link": "https://holyswift.app/what-is-testable-annotation-in-swift/",
+            "updated": 1707364595,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4248",
+            "title": "Automating SwiftUI Accessibility Audits in Xcode 15",
+            "link": "https://holyswift.app/xcode-15-new-feature-streamlined-accessibility-audits/",
+            "updated": 1706697013,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4238",
+            "title": "How to use the rethrows keyword in Swift?",
+            "link": "https://holyswift.app/when-to-use-the-rethrows-keyword-in-swift/",
+            "updated": 1706091781,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4219",
+            "title": "The Flexible Swift Error Handling",
+            "link": "https://holyswift.app/the-flexible-swift-error-handling/",
+            "updated": 1705544484,
+            "site_name": "Holy Swift"
+        },
+        {
+            "id": "https://holyswift.app/?p=4206",
+            "title": "How to use Published Properties inside a Protocol in SwiftUI?",
+            "link": "https://holyswift.app/how-to-use-published-properties-inside-a-protocol-in-swiftui/",
+            "updated": 1704885356,
+            "site_name": "Holy Swift"
+        }
+    ]
+}

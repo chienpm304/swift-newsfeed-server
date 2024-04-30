@@ -1,0 +1,75 @@
+{
+    "updated": 1714470867,
+    "posts": [
+        {
+            "id": "https://medium.com/p/3fa35f4bce4e",
+            "title": "Simultaneously Supporting Bundle Resources in Swift Package Manager and CocoaPods",
+            "link": "https://blog.sabintsev.com/simultaneously-supporting-bundle-resources-in-swift-package-manager-and-cocoapods-3fa35f4bce4e?source=rss-d59564ad49f6------2",
+            "updated": 1608755388,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/b92bcbdf3591",
+            "title": "Future of my OSS Projects in 2019",
+            "link": "https://blog.sabintsev.com/future-of-my-oss-projects-in-2019-b92bcbdf3591?source=rss-d59564ad49f6------2",
+            "updated": 1545892122,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/d7a81d6e04ff",
+            "title": "This Independence Day, I present you with Freedom",
+            "link": "https://blog.sabintsev.com/this-independence-day-i-present-you-with-freedom-d7a81d6e04ff?source=rss-d59564ad49f6------2",
+            "updated": 1499145521,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/2773d33cfab7",
+            "title": "Lots of OSS Updates",
+            "link": "https://blog.sabintsev.com/lots-of-oss-updates-2773d33cfab7?source=rss-d59564ad49f6------2",
+            "updated": 1492270975,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/7ab08d2e844a",
+            "title": "Guitar: A Cross Platform String Library for Swift",
+            "link": "https://blog.sabintsev.com/guitar-a-cross-platform-string-library-for-swift-7ab08d2e844a?source=rss-d59564ad49f6------2",
+            "updated": 1488474090,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/dca53715cadd",
+            "title": "1 Month of Floppy Candidate",
+            "link": "https://blog.sabintsev.com/1-month-of-floppy-candidate-dca53715cadd?source=rss-d59564ad49f6------2",
+            "updated": 1452783191,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/c8f7028405be",
+            "title": "My First Swift-Evolution Proposal!",
+            "link": "https://blog.sabintsev.com/my-first-swift-evolution-proposal-c8f7028405be?source=rss-d59564ad49f6------2",
+            "updated": 1449876574,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/1bdc8991e41c",
+            "title": "Zephyr: Effortlessly sync NSUserDefaults over iCloud",
+            "link": "https://blog.sabintsev.com/zephyr-effortlessly-sync-nsuserdefaults-over-icloud-1bdc8991e41c?source=rss-d59564ad49f6------2",
+            "updated": 1446714831,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/e51c869ba0f9",
+            "title": "Narwhal v1.5 Released to the App Store!",
+            "link": "https://blog.sabintsev.com/narwhal-v1-5-released-to-the-app-store-e51c869ba0f9?source=rss-d59564ad49f6------2",
+            "updated": 1438965361,
+            "site_name": "Arthur Sabintsev's Blog"
+        },
+        {
+            "id": "https://medium.com/p/6094aa0a082c",
+            "title": "Hello, Washington Post!",
+            "link": "https://blog.sabintsev.com/hello-washington-post-6094aa0a082c?source=rss-d59564ad49f6------2",
+            "updated": 1436354860,
+            "site_name": "Arthur Sabintsev's Blog"
+        }
+    ]
+}

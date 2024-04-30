@@ -1,0 +1,1573 @@
+{
+    "updated": 1714471071,
+    "posts": [
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/02/06/Setup-Sonarqube-with-Docker",
+            "title": "Setup Sonarqube with Docker",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/02/06/Setup-Sonarqube-with-Docker",
+            "updated": 1707184800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/24/Introduction-to-HTMX",
+            "title": "An Introduction to HTMX",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/24/Introduction-to-HTMX",
+            "updated": 1706061600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/19/Interview-Nikita-Sirovskiy",
+            "title": "Behind the screens: Interview with Nikita Sirovskiy, Lead Mobile Engineer at Monstarlab",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/19/Interview-Nikita-Sirovskiy",
+            "updated": 1705629600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/18/Enhancing-ETL-Python-Project-to-expertise-with-AI-companion-tools",
+            "title": "Enhancing ETL Expertise: A Backend Engineer's Insight into Leveraging AI Tools for Python Development",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/18/Enhancing-ETL-Python-Project-to-expertise-with-AI-companion-tools",
+            "updated": 1705543200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/11/Interview-Nairah-Thaha",
+            "title": "Behind the screens: Interview with Nairah Thaha, Immersive Technologies Engineer at Monstarlab",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/11/Interview-Nairah-Thaha",
+            "updated": 1704938400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/03/Interview-Adam-Mack",
+            "title": "Behind the screens: Interview with Adam Mack, Lead Product Manager at Monstarlab",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/03/Interview-Adam-Mack",
+            "updated": 1704247200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2024/01/02/SPM-C-Wrapper",
+            "title": "How to use C in Swift Packages",
+            "link": "https://engineering.monstar-lab.com/en/post/2024/01/02/SPM-C-Wrapper",
+            "updated": 1704160800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/12/14/How-to-setup-CI-CD-pipeline-for-WordPress-with-GitHub-Actions-and-AWS-part-2",
+            "title": "How to setup CI/CD pipeline for WordPress with GitHub Actions and AWS (Part 2)",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/12/14/How-to-setup-CI-CD-pipeline-for-WordPress-with-GitHub-Actions-and-AWS-part-2",
+            "updated": 1702519200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/12/06/Mastering-Modern-JavaScript-from-Core-Concepts-to-Advanced-Techniques",
+            "title": "Mastering Modern JavaScript: From Core Concepts to Advanced Techniques",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/12/06/Mastering-Modern-JavaScript-from-Core-Concepts-to-Advanced-Techniques",
+            "updated": 1701828000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/11/09/First-Look-at-AndroidX-Bluetooth",
+            "title": "First look at AndroidX Bluetooth",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/11/09/First-Look-at-AndroidX-Bluetooth",
+            "updated": 1699495200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/31/Utilising-the-iOS-Secure-Enclave-with-your-data",
+            "title": "Utilising the iOS Secure Enclave with your data",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/31/Utilising-the-iOS-Secure-Enclave-with-your-data",
+            "updated": 1698717600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/27/Streamlining-Infrastructure-as-Code-Testing-Harnessing-Terratest-Terraform-and-AWS-Go-SDKs-for-Automation",
+            "title": "Streamlining Infrastructure as Code Testing: Harnessing Terratest, Terraform, and AWS Go SDKs for Automation",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/27/Streamlining-Infrastructure-as-Code-Testing-Harnessing-Terratest-Terraform-and-AWS-Go-SDKs-for-Automation",
+            "updated": 1698372000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/26/Responsive-web-design",
+            "title": "Responsive Web Design: Techniques and Best Practices",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/26/Responsive-web-design",
+            "updated": 1698285600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/26/The-Composable-architecture-and-TDD",
+            "title": "The Composable architecture and TDD. Can you make it work?",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/26/The-Composable-architecture-and-TDD",
+            "updated": 1698285600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/23/Getting-started-with-Swift-Charts-part-2",
+            "title": "Getting started with Swift Charts - part 2",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/23/Getting-started-with-Swift-Charts-part-2",
+            "updated": 1698026400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/10/23/Getting-started-with-Swift-Charts",
+            "title": "Getting started with Swift Charts - part 1",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/10/23/Getting-started-with-Swift-Charts",
+            "updated": 1698026400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/09/08/Strengthening-our-AI-knowledge-on-mobile-apps",
+            "title": "Strengthening our AI knowledge on mobile apps",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/09/08/Strengthening-our-AI-knowledge-on-mobile-apps",
+            "updated": 1694138400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/09/06/How-to-create-an-Interactive-Experience-using-the-Spatial-Creator-Toolkit",
+            "title": "How to create an Interactive Experience using the Spatial Creator Toolkit",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/09/06/How-to-create-an-Interactive-Experience-using-the-Spatial-Creator-Toolkit",
+            "updated": 1693965600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/09/01/Test-Build-Profile-for-Maven-with-Surfire-and-Failsafe",
+            "title": "Surefire and Failsafe: Benefits of parallel execution",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/09/01/Test-Build-Profile-for-Maven-with-Surfire-and-Failsafe",
+            "updated": 1693533600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/08/30/Building-a-conversational-phone-callbot-Twilio-ChatGPT-AmiVoice",
+            "title": "Building a conversational phone callbot powered by Twilio, ChatGPT & AmiVoice",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/08/30/Building-a-conversational-phone-callbot-Twilio-ChatGPT-AmiVoice",
+            "updated": 1693360800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/08/25/Optimal-development-environment-for-Connect-go",
+            "title": "Setting Up the Optimal gRPC Development Environment Using Connect-go and VSCode Dev Container",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/08/25/Optimal-development-environment-for-Connect-go",
+            "updated": 1692928800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/08/03/SwiftUI-in-UIKit",
+            "title": "How to use SwiftUI in a UIKit app",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/08/03/SwiftUI-in-UIKit",
+            "updated": 1691028000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/08/01/Empowering-Mobile-Applications-through-Blockchain-Our-Journey-Part-2",
+            "title": "Empowering Mobile Applications through Blockchain: Our Journey, Part 2",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/08/01/Empowering-Mobile-Applications-through-Blockchain-Our-Journey-Part-2",
+            "updated": 1690855200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/08/01/Test-Isolation-with-TestContainers-and-SpringBoot",
+            "title": "Isolated Testing with Test Containers and Spring Boot in Kotlin",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/08/01/Test-Isolation-with-TestContainers-and-SpringBoot",
+            "updated": 1690855200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/07/14/Accelerate-Your-Android-App-Testing-with-Appium-and-Java-(Part 2)-Hybrid-App-Automation",
+            "title": "Accelerate Your Android App Testing with Appium and Java (Part 2)- Hybrid App Automation",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/07/14/Accelerate-Your-Android-App-Testing-with-Appium-and-Java-(Part 2)-Hybrid-App-Automation",
+            "updated": 1689300000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/07/14/Exploring-the-Power-of-AWS-Amplify-Simplifying-Web-and-Mobile-App-Development",
+            "title": "Exploring the Power of AWS Amplify - Simplifying Web and Mobile App Development",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/07/14/Exploring-the-Power-of-AWS-Amplify-Simplifying-Web-and-Mobile-App-Development",
+            "updated": 1689300000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/07/14/Jetpack-Compose-UI-Architecture",
+            "title": "Jetpack Compose UI Architecture",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/07/14/Jetpack-Compose-UI-Architecture",
+            "updated": 1689300000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/07/12/Empowering-Mobile-Applications-through-Blockchain-Our-Journey-Part-1",
+            "title": "Empowering Mobile Applications through Blockchain: Our Journey, Part 1",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/07/12/Empowering-Mobile-Applications-through-Blockchain-Our-Journey-Part-1",
+            "updated": 1689127200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/07/05/Desktop-App-in-Flutter",
+            "title": "Building desktop app with flutter : Tutorial",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/07/05/Desktop-App-in-Flutter",
+            "updated": 1688522400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/06/15/Embracing-Future-Data-Analytics-Microsoft-Fabric",
+            "title": "Embracing the Future of Data Analytics with Microsoft Fabric",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/06/15/Embracing-Future-Data-Analytics-Microsoft-Fabric",
+            "updated": 1686794400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/29/Streamlining-App-Development-with-FlutterFlow",
+            "title": "Streamlining App Development with FlutterFlow: An Introduction",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/29/Streamlining-App-Development-with-FlutterFlow",
+            "updated": 1685325600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/26/Exploring-Traefik-A-simpler-and-faster-web-server",
+            "title": "Exploring Traefik: A simpler and faster web server",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/26/Exploring-Traefik-A-simpler-and-faster-web-server",
+            "updated": 1685066400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/25/Build-your-first-smart-contract-with-Ethereum-and-Solidity",
+            "title": "Build your first smart contract with Ethereum and Solidity",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/25/Build-your-first-smart-contract-with-Ethereum-and-Solidity",
+            "updated": 1684980000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/25/The-problem-and-the-solution-Safe-Home",
+            "title": "The Safe Home Initiative for Children",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/25/The-problem-and-the-solution-Safe-Home",
+            "updated": 1684980000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/23/Establishing-connections-for-children-living-on-the-streets-the-journey-of-The-CzechMate-Coders-in-MonstarHacks-2023",
+            "title": "Establishing connections for children living on the streets, the journey of The CzechMate Coders in MonstarHacks 2023",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/23/Establishing-connections-for-children-living-on-the-streets-the-journey-of-The-CzechMate-Coders-in-MonstarHacks-2023",
+            "updated": 1684807200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/23/Introduction-To-Event-Driven-Architecture",
+            "title": "An Introduction to Event-Driven Architecture",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/23/Introduction-To-Event-Driven-Architecture",
+            "updated": 1684807200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/22/Improving-the-admissions-process-for-seriously-ill-children-and-their-families",
+            "title": "Improving the admissions process for seriously ill children and their families",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/22/Improving-the-admissions-process-for-seriously-ill-children-and-their-families",
+            "updated": 1684720800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/17/Team-Rakshaks-experience-taking-part-in-MonstarHacks-2023",
+            "title": "Team Rakshak's experience taking part in MonstarHacks 2023",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/17/Team-Rakshaks-experience-taking-part-in-MonstarHacks-2023",
+            "updated": 1684288800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/16/An-overview-of-PASETO-Token-Based-Authentication",
+            "title": "An overview of PASETO Token-Based Authentication",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/16/An-overview-of-PASETO-Token-Based-Authentication",
+            "updated": 1684202400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/15/Monstarhacks-solution-to-decrease-pet-relinquishment-in-a-colombian-NGO-shelter",
+            "title": "MonstarHacks solution to decrease pet relinquishment in a Colombian NGO shelter",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/15/Monstarhacks-solution-to-decrease-pet-relinquishment-in-a-colombian-NGO-shelter",
+            "updated": 1684116000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/13/An-interactive-and-resource-efficient-gamified-learning-platform",
+            "title": "An interactive and resource efficient gamified learning platform",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/13/An-interactive-and-resource-efficient-gamified-learning-platform",
+            "updated": 1683943200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/13/An-overview-of-the-little-lifelines-application",
+            "title": "An overview of the Little Lifelines application",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/13/An-overview-of-the-little-lifelines-application",
+            "updated": 1683943200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/13/ChatGPT-meets-Flutter-A-step-by-step-integration-guide",
+            "title": "ChatGPT meets Flutter: A step by step integration guide",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/13/ChatGPT-meets-Flutter-A-step-by-step-integration-guide",
+            "updated": 1683943200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/12/An-amazing-remote-hackathon-experience",
+            "title": "Monstarhacks 2023 - An amazing remote hackathon experience",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/12/An-amazing-remote-hackathon-experience",
+            "updated": 1683856800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/08/From-frontend-to-fullstack",
+            "title": "Full stack training for frontend engineers with Serverless Framework",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/08/From-frontend-to-fullstack",
+            "updated": 1683511200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/02/Decentraland-Building-your-first-Decentraland-project",
+            "title": "How to build your first Decentraland project",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/02/Decentraland-Building-your-first-Decentraland-project",
+            "updated": 1682992800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/05/01/iOS-WeatherKit",
+            "title": "An Introduction to WeatherKit and Alternative Weather Service APIs for iOS Developers",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/05/01/iOS-WeatherKit",
+            "updated": 1682906400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/04/26/Accelerate-Your-Android-App-Testing-with-Appium-and-Java-A-Beginner\u2019s-Guide-(Part-1)",
+            "title": "Accelerate Your Android App Testing with Appium and Java- A Beginner\u2019s Guide (Part 1)",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/04/26/Accelerate-Your-Android-App-Testing-with-Appium-and-Java-A-Beginner\u2019s-Guide-(Part-1)",
+            "updated": 1682474400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/04/18/Creating-a-simple-app-with-Flutter-on-the-Web",
+            "title": "How to create a simple app with Flutter on the Web",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/04/18/Creating-a-simple-app-with-Flutter-on-the-Web",
+            "updated": 1681783200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/04/06/SQL-wildcard-operators-and-how-to-escape-them",
+            "title": "SQL wildcard operators and how to escape them",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/04/06/SQL-wildcard-operators-and-how-to-escape-them",
+            "updated": 1680746400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/03/29/Migrating-objc-module-to-spm",
+            "title": "Migrating Obj-C/C++ module to SPM",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/03/29/Migrating-objc-module-to-spm",
+            "updated": 1680055200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/03/01/How-to-set-up-Firebase-dSYM-files-upload-for-a-multiple-environment-project",
+            "title": "How to set up Firebase dSYM upload for an iOS project with multiple environments (Xcode 14)",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/03/01/How-to-set-up-Firebase-dSYM-files-upload-for-a-multiple-environment-project",
+            "updated": 1677636000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/01/06/Introduction-to-Kotlin-Coroutines-for-Android",
+            "title": "Introduction to Kotlin Coroutines for Android",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/01/06/Introduction-to-Kotlin-Coroutines-for-Android",
+            "updated": 1672970400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/01/02/How-to-setup-CI-CD-pipeline-for-WordPress-with-GitHub-Actions-and-AWS",
+            "title": "How to setup CI/CD pipeline for WordPress with GitHub Actions and AWS (Part 1)",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/01/02/How-to-setup-CI-CD-pipeline-for-WordPress-with-GitHub-Actions-and-AWS",
+            "updated": 1672624800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/01/02/Open-Source-The-Future-of-Software-Development",
+            "title": "Open Source The Future of Software Development",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/01/02/Open-Source-The-Future-of-Software-Development",
+            "updated": 1672624800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2023/01/02/Postman-API-environments",
+            "title": "How to modify your environment using Postman API",
+            "link": "https://engineering.monstar-lab.com/en/post/2023/01/02/Postman-API-environments",
+            "updated": 1672624800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/11/16/SPM-Plugins",
+            "title": "Automating tasks with SPM plugins",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/11/16/SPM-Plugins",
+            "updated": 1668564000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/10/10/Blockchain-is-here",
+            "title": "Blockchain is here",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/10/10/Blockchain-is-here",
+            "updated": 1665367200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/10/05/Handling-bounced-emails-by-SES-with-Rails",
+            "title": "Handling bounced emails by SES with Rails (ActiveMailer)",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/10/05/Handling-bounced-emails-by-SES-with-Rails",
+            "updated": 1664935200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/09/30/Coding-Test",
+            "title": "A cheat sheet for acing your coding test when applying for a job at the Monstarlab Tokyo office",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/09/30/Coding-Test",
+            "updated": 1664503200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/09/30/Introduction-to-Kotlin-flows",
+            "title": "Introduction to Kotlin Flows",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/09/30/Introduction-to-Kotlin-flows",
+            "updated": 1664503200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/09/30/Live-Activities",
+            "title": "How to implement realtime updates with Live Activities",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/09/30/Live-Activities",
+            "updated": 1664503200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/09/01/Accessibility-support-with-SwiftUI",
+            "title": "iOS Accessibility Support Within SwiftUI",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/09/01/Accessibility-support-with-SwiftUI",
+            "updated": 1661997600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/08/18/Accessing-RDS-remotely-with-no-exposed-ports",
+            "title": "Accessing AWS RDS databases remotely with no exposed ports",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/08/18/Accessing-RDS-remotely-with-no-exposed-ports",
+            "updated": 1660788000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/08/04/Compose-custom-layouts-part2",
+            "title": "Creating custom layouts with Compose -part 2-",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/08/04/Compose-custom-layouts-part2",
+            "updated": 1659578400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/07/22/Code-Coverage-with-SonarQube-and-Bitrise-for-Swift",
+            "title": "Code Coverage with SonarQube and Bitrise for Swift",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/07/22/Code-Coverage-with-SonarQube-and-Bitrise-for-Swift",
+            "updated": 1658455200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/07/15/A-Guideline-to-GitHub-Actions-with-CI-Pipeline",
+            "title": "A Guideline to GitHub Actions with CI Pipeline",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/07/15/A-Guideline-to-GitHub-Actions-with-CI-Pipeline",
+            "updated": 1657850400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/07/13/Navigation-parameters-with-Jetpack-Compose",
+            "title": "Navigation parameters, and dynamic startDestination with Jetpack Compose",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/07/13/Navigation-parameters-with-Jetpack-Compose",
+            "updated": 1657677600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/06/30/Custom-layouts-with-jetpack-compose",
+            "title": "Creating custom layouts with Jetpack Compose",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/06/30/Custom-layouts-with-jetpack-compose",
+            "updated": 1656554400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/06/21/streamlit_app_for_transfer_learning",
+            "title": "A Streamlit app to browse drug sensitivity predictions based on Transfer Learning",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/06/21/streamlit_app_for_transfer_learning",
+            "updated": 1655776800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/06/07/WWDC22-A-first-look-at-Apples-new-Augmented-Reality-features",
+            "title": "WWDC22 - A first look at Apple's new Augmented Reality features",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/06/07/WWDC22-A-first-look-at-Apples-new-Augmented-Reality-features",
+            "updated": 1654567200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/06/06/How-to-create-a-chat-bot-using-Googles-Dialogflow",
+            "title": "How to create a chat bot using Google's Dialogflow",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/06/06/How-to-create-a-chat-bot-using-Googles-Dialogflow",
+            "updated": 1654480800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/05/26/Is-Virtual-DOM-Outdated",
+            "title": "Is Virtual DOM Outdated?",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/05/26/Is-Virtual-DOM-Outdated",
+            "updated": 1653530400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/28/Solution-Design-For-Freerange-Developers",
+            "title": "Solution Design for Free Range Developers",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/28/Solution-Design-For-Freerange-Developers",
+            "updated": 1651111200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/15/Connecting-specialized-doctors-to-refugee-camps-with-the-help-of-artificial-intelligence",
+            "title": "Connecting specialized doctors to refugee camps with the help of artificial intelligence",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/15/Connecting-specialized-doctors-to-refugee-camps-with-the-help-of-artificial-intelligence",
+            "updated": 1649988000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/14/Information-System-for-Storing-and-Analysing-Qualitative-Studies-of-Refugees",
+            "title": "Information System for Storing and Analysing Qualitative Studies of Refugees",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/14/Information-System-for-Storing-and-Analysing-Qualitative-Studies-of-Refugees",
+            "updated": 1649901600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/07/ARAnchors-Bringing-Virtual-Objects-into-the-real-world",
+            "title": "ARAnchors - Bringing virtual objects into the real world",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/07/ARAnchors-Bringing-Virtual-Objects-into-the-real-world",
+            "updated": 1649296800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/07/Assuring-equitable-health-care-for-everybody",
+            "title": "Assuring Equitable Healthcare for Everybody",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/07/Assuring-equitable-health-care-for-everybody",
+            "updated": 1649296800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/06/Best-practices-for-doing-code-reviews",
+            "title": "Best practices for doing code reviews",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/06/Best-practices-for-doing-code-reviews",
+            "updated": 1649210400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/04/06/Building-Next-Generation-Applications-Using-Voice",
+            "title": "Building next generation applications using voice",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/04/06/Building-Next-Generation-Applications-Using-Voice",
+            "updated": 1649210400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/03/18/Work-at-ML",
+            "title": "Working as a Tech Lead at Monstarlab",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/03/18/Work-at-ML",
+            "updated": 1647568800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/03/03/Automating-The-Upload-Of-iOS-Firebase-DSYM-files",
+            "title": "iOS: Automating the upload of DSYM files to Firebase using Fastlane & Bitrise",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/03/03/Automating-The-Upload-Of-iOS-Firebase-DSYM-files",
+            "updated": 1646272800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL",
+            "title": "Introduction to GPUs with OpenGL",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL",
+            "updated": 1646100000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/02/10/What-is-Quality-Assurance-in-an-Agile-Process",
+            "title": "What is Quality Assurance in an Agile Process?",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/02/10/What-is-Quality-Assurance-in-an-Agile-Process",
+            "updated": 1644458400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/02/03/Solving-Gender-Inequality-with-data-driven-platform",
+            "title": "Solving gender inequality and saving lives with data driven approach",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/02/03/Solving-Gender-Inequality-with-data-driven-platform",
+            "updated": 1643853600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/02/03/rdb-to-firestore",
+            "title": "What you need to know when using Firestore",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/02/03/rdb-to-firestore",
+            "updated": 1643853600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/01/31/Gender-Equality-Detection-in-Written-Text",
+            "title": "Gender Equality Detection in Written Text",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/01/31/Gender-Equality-Detection-in-Written-Text",
+            "updated": 1643594400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/01/31/Predicting-Maternal-Morbidity-using-Machine-Learning-Techniques",
+            "title": "Predicting Maternal Morbidity using Machine Learning Techniques",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/01/31/Predicting-Maternal-Morbidity-using-Machine-Learning-Techniques",
+            "updated": 1643594400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/01/14/TableView-DataSource-Prefetching",
+            "title": "UITableView DataSource Prefetching",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/01/14/TableView-DataSource-Prefetching",
+            "updated": 1642125600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/01/04/Cross-Platform-AR-Development",
+            "title": "Intro to AR Foundation - Cross-Platform AR Application Development",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/01/04/Cross-Platform-AR-Development",
+            "updated": 1641261600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2022/01/03/AI-in-automated-UI-testing",
+            "title": "AI in automated UI testing",
+            "link": "https://engineering.monstar-lab.com/en/post/2022/01/03/AI-in-automated-UI-testing",
+            "updated": 1641175200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/12/22/an-exercise-in-web3-daos",
+            "title": "An exercise in Web3 & DAOs",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/12/22/an-exercise-in-web3-daos",
+            "updated": 1640138400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/12/21/Ideation-through-Miro",
+            "title": "Hackathon ideation through Miro",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/12/21/Ideation-through-Miro",
+            "updated": 1640052000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/12/21/Swift-Type-Erasure",
+            "title": "Swift: From Protocol to AssociatedType then Type Erasure",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/12/21/Swift-Type-Erasure",
+            "updated": 1640052000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/12/20/Receipt-recognition-using-computer-vision-and-deep-learning",
+            "title": "Receipt recognition using computer vision and deep learning",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/12/20/Receipt-recognition-using-computer-vision-and-deep-learning",
+            "updated": 1639965600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/12/17/Pen-Testing-The-What-Why-When",
+            "title": "Pen Testing The What, Why & When",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/12/17/Pen-Testing-The-What-Why-When",
+            "updated": 1639706400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/11/29/Firebase-Dynamic-Links-+-Flutter",
+            "title": "Firebase Dynamic Links + Flutter",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/11/29/Firebase-Dynamic-Links-+-Flutter",
+            "updated": 1638151200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/10/28/Developers-Tester-Love-Forever",
+            "title": "TESTERS + DEVELOPERS = LOVE FOREVER",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/10/28/Developers-Tester-Love-Forever",
+            "updated": 1635386400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/09/15/How-to-setup-CICD-for-iOS-App-Development-with-Fastlane-CircleCI-and-Firebase-App-Distribution",
+            "title": "How to setup CI/CD for iOS App Development with Fastlane, CircleCI and Firebase App Distribution",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/09/15/How-to-setup-CICD-for-iOS-App-Development-with-Fastlane-CircleCI-and-Firebase-App-Distribution",
+            "updated": 1631671200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/09/15/Ravishing-Ruby-Looking-back-at-Rubykaigi-Takeout-2021",
+            "title": "Ravishing Ruby: Looking back at RubyKaigi Takeout 2021",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/09/15/Ravishing-Ruby-Looking-back-at-Rubykaigi-Takeout-2021",
+            "updated": 1631671200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/09/11/RubyKaigi-Takekout-2021",
+            "title": "RubyKaigi Takeout 2021: A Look Back",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/09/11/RubyKaigi-Takekout-2021",
+            "updated": 1631325600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/08/30/Safe-Navigation-With-Jetpack-Compose",
+            "title": "Safe Navigation With Jetpack Compose",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/08/30/Safe-Navigation-With-Jetpack-Compose",
+            "updated": 1630288800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features",
+            "title": "WWDC21 - A first look at Apple's new Augmented Reality features",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/06/08/WWDC21-A-first-look-at-Apples-new-Augmented-Reality-features",
+            "updated": 1623117600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/05/27/Static-type-checking-in-PicoRuby",
+            "title": "Static type checking in PicoRuby",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/05/27/Static-type-checking-in-PicoRuby",
+            "updated": 1622080800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/04/30/NestJS-Starter-Kit-Monstar-Lab-Edition",
+            "title": "NestJS Starter Kit, Monstarlab edition",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/04/30/NestJS-Starter-Kit-Monstar-Lab-Edition",
+            "updated": 1619748000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/04/13/PicoRuby",
+            "title": "PicoRuby",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/04/13/PicoRuby",
+            "updated": 1618279200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/04/06/Policy-As-Code-In-REST-APIs",
+            "title": "Using Policy As Code to manage permissions in REST APIs",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/04/06/Policy-As-Code-In-REST-APIs",
+            "updated": 1617674400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/03/30/Azure-DevOps-Pipelines-vs-GitHub-Actions",
+            "title": "Azure DevOps Pipelines vs GitHub Actions",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/03/30/Azure-DevOps-Pipelines-vs-GitHub-Actions",
+            "updated": 1617069600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/02/09/Game-server-Synchronization",
+            "title": "Game server synchronization of large amounts of data in a battle",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/02/09/Game-server-Synchronization",
+            "updated": 1612836000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/02/09/How-to-test-a-fire-extinguisher",
+            "title": "How to test a fire extinguisher?",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/02/09/How-to-test-a-fire-extinguisher",
+            "updated": 1612836000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/02/09/Use-Firebase-Cloudfunctions-To-Send-Push-Notifications",
+            "title": "How to use Firebase Cloud functions to send push notifications",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/02/09/Use-Firebase-Cloudfunctions-To-Send-Push-Notifications",
+            "updated": 1612836000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2021/01/08/laravel-jwt",
+            "title": "Using JWT in Laravel",
+            "link": "https://engineering.monstar-lab.com/en/post/2021/01/08/laravel-jwt",
+            "updated": 1610071200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/12/08/Four-tools-to-improve-the-efficiency-of-Flutter-development",
+            "title": "Four tools to improve the efficiency of Flutter development",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/12/08/Four-tools-to-improve-the-efficiency-of-Flutter-development",
+            "updated": 1607392800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/11/30/springboot-integrated-rabbitmq",
+            "title": "Spring Boot integrated RabbitMQ",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/11/30/springboot-integrated-rabbitmq",
+            "updated": 1606701600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/11/16/WidgetKit",
+            "title": "WidgetKit",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/11/16/WidgetKit",
+            "updated": 1605492000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/10/08/Engineering-Awesome-Conference-2020",
+            "title": "Engineering Awesome Conference 2020",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/10/08/Engineering-Awesome-Conference-2020",
+            "updated": 1602122400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/10/07/Api-first",
+            "title": "API First",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/10/07/Api-first",
+            "updated": 1602036000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/09/16/Make-apps-for-everyone",
+            "title": "Make apps for everyone",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/09/16/Make-apps-for-everyone",
+            "updated": 1600221600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/09/10/Locust-sketch",
+            "title": "Locust sketch",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/09/10/Locust-sketch",
+            "updated": 1599703200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/09/07/Easy-web-augmented-reality-with-ar-quick-look",
+            "title": "Easy web augmented reality with AR Quick Look",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/09/07/Easy-web-augmented-reality-with-ar-quick-look",
+            "updated": 1599444000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/09/04/RubyKaigi-Takeout-2020-Day-first",
+            "title": "RubyKaigi Takeout 2020: Day One",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/09/04/RubyKaigi-Takeout-2020-Day-first",
+            "updated": 1599184800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/09/02/Reverse-Proxy-Basics-and-Practice",
+            "title": "Reverse Proxy Basics and Practice",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/09/02/Reverse-Proxy-Basics-and-Practice",
+            "updated": 1599012000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/08/27/Laravel-8",
+            "title": "Laravel 8 - A rundown of new features",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/08/27/Laravel-8",
+            "updated": 1598493600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/08/12/Let-it-Flow",
+            "title": "Let it flow",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/08/12/Let-it-Flow",
+            "updated": 1597197600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/07/28/Exploratory-Testing",
+            "title": "Exploratory Testing",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/07/28/Exploratory-Testing",
+            "updated": 1595901600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/07/28/Seata",
+            "title": "Alibaba Seata",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/07/28/Seata",
+            "updated": 1595901600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/07/24/using-mockwebserver-on-android",
+            "title": "Using MockWebServer On Android",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/07/24/using-mockwebserver-on-android",
+            "updated": 1595556000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/07/15/android-unit-testing-is-easy",
+            "title": "Android Unit Testing is Easy",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/07/15/android-unit-testing-is-easy",
+            "updated": 1594778400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/29/Privacy-for-Photos-Access",
+            "title": "Privacy for Photos Access",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/29/Privacy-for-Photos-Access",
+            "updated": 1593396000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/29/Whats-new-in-Swift",
+            "title": "What's new in Swift",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/29/Whats-new-in-Swift",
+            "updated": 1593396000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/26/Introducing-App-Clips",
+            "title": "Introducing App Clips",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/26/Introducing-App-Clips",
+            "updated": 1593136800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/26/WWDC20-summary",
+            "title": "WWDC20",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/26/WWDC20-summary",
+            "updated": 1593136800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/23/3D-model-presentation-in-the-game(props)",
+            "title": "3D model presentation in games (props)",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/23/3D-model-presentation-in-the-game(props)",
+            "updated": 1592877600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features",
+            "title": "A first look at Apple's new Augmented Reality features",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features",
+            "updated": 1592877600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/23/MBT(Model-based-Testing)",
+            "title": "MBT (Model-based testing)",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/23/MBT(Model-based-Testing)",
+            "updated": 1592877600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/06/19/Women-who-code",
+            "title": "Women who code connect digital - 2020",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/06/19/Women-who-code",
+            "updated": 1592532000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/27/Flutter-size-limit-container-summary",
+            "title": "Flutter size limit container summary",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/27/Flutter-size-limit-container-summary",
+            "updated": 1590544800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/27/LLDB-summary",
+            "title": "LLDB summary",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/27/LLDB-summary",
+            "updated": 1590544800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/25/Using-deep-learning-to-label-feedback-messages",
+            "title": "Tagging feedback messages using Deep Learning",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/25/Using-deep-learning-to-label-feedback-messages",
+            "updated": 1590372000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/08/iOS-Conferences-in-time-of-Coronavirus",
+            "title": "iOS Conferences in time of Coronavirus",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/08/iOS-Conferences-in-time-of-Coronavirus",
+            "updated": 1588903200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/06/Differences-Between-Mini-Program-Development-and-Web-Development",
+            "title": "Differences Between Mini Program Development and Web Development",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/06/Differences-Between-Mini-Program-Development-and-Web-Development",
+            "updated": 1588730400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/06/Mini-Programs-Introduction",
+            "title": "Mini Programs Introduction",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/06/Mini-Programs-Introduction",
+            "updated": 1588730400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/05/04/Intro-to-Domain-Driven-Design",
+            "title": "Introduction to Domain-Driven Design",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/05/04/Intro-to-Domain-Driven-Design",
+            "updated": 1588557600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/04/26/how-to-convert-3d-models-to-usdz-files-using-apples-reality-converter",
+            "title": "How to convert 3D models to USDZ files using Apple's Reality Converter",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/04/26/how-to-convert-3d-models-to-usdz-files-using-apples-reality-converter",
+            "updated": 1587866400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/04/21/Things-iOS-developer-should-know-before-starting-flutter",
+            "title": "Things iOS Developers should know before starting Flutter",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/04/21/Things-iOS-developer-should-know-before-starting-flutter",
+            "updated": 1587434400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/04/03/Covid-19-Tracing-App-iOS",
+            "title": "Building a COVID-19 Tracing app in a week",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/04/03/Covid-19-Tracing-App-iOS",
+            "updated": 1585879200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/03/30/android-image-framework-comparison",
+            "title": "Android Image Framework Comparison",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/03/30/android-image-framework-comparison",
+            "updated": 1585533600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/03/16/Combine-networking-with-a-hint-of-swiftUI",
+            "title": "Combine networking with a hint of SwiftUI",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/03/16/Combine-networking-with-a-hint-of-swiftUI",
+            "updated": 1584324000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/03/06/avoiding-tampering-on-android",
+            "title": "Avoiding tampering on Android",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/03/06/avoiding-tampering-on-android",
+            "updated": 1583460000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/02/27/View-Controller-Transitions",
+            "title": "Animated Transitions in ViewController - Part 1",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/02/27/View-Controller-Transitions",
+            "updated": 1582768800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/01/20/tool-to-generate-ARM-templates",
+            "title": "Tool to generate ARM templates",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/01/20/tool-to-generate-ARM-templates",
+            "updated": 1579485600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part1",
+            "title": "Compositional Layout Basics",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part1",
+            "updated": 1578621600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part2",
+            "title": "Supplementary Items and Decorations",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part2",
+            "updated": 1578621600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part3",
+            "title": "Building the App Store using Compositional Layout",
+            "link": "https://engineering.monstar-lab.com/en/post/2020/01/10/Compositional-Layout-Part3",
+            "updated": 1578621600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/31/How-to-make-an-Augmented-Reality-decorating-experience-app-with-AR-Quick-Look",
+            "title": "How to make an augmented reality decorating experience app with AR Quick Look",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/31/How-to-make-an-Augmented-Reality-decorating-experience-app-with-AR-Quick-Look",
+            "updated": 1577757600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/30/Android-Dark-Theme",
+            "title": "Android Dark Theme",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/30/Android-Dark-Theme",
+            "updated": 1577671200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/16/ios-2019-retrospective",
+            "title": "iOS 2019 Retrospective",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/16/ios-2019-retrospective",
+            "updated": 1576461600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/04/watchOS-complications",
+            "title": "An overview of watchOS complications",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/04/watchOS-complications",
+            "updated": 1575424800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/03/NordicJS-2019",
+            "title": "Nordic.js 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/03/NordicJS-2019",
+            "updated": 1575338400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/12/02/european-women-in-tech-2019",
+            "title": "European Women In Technology 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/12/02/european-women-in-tech-2019",
+            "updated": 1575252000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/12/Php_Conference_Barcelona",
+            "title": "Php Conference - Barcelona 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/12/Php_Conference_Barcelona",
+            "updated": 1573524000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/11/Nodes-Hacktoberfest-2019",
+            "title": "Nodes x Hacktober Fest 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/11/Nodes-Hacktoberfest-2019",
+            "updated": 1573437600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/11/SwiftGen",
+            "title": "SwiftGen",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/11/SwiftGen",
+            "updated": 1573437600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/07/NSSpain-2019",
+            "title": "NSSpain 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/07/NSSpain-2019",
+            "updated": 1573092000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/06/Droidcon-London",
+            "title": "Droidcon London 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/06/Droidcon-London",
+            "updated": 1573005600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/06/ServerSide-swift",
+            "title": "ServerSide.swift 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/06/ServerSide-swift",
+            "updated": 1573005600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/11/04/NestJS-Your-Angular-Window-to-Server-side-Programming",
+            "title": "NestJS, Your Angular Window to Server-side Programming",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/11/04/NestJS-Your-Angular-Window-to-Server-side-Programming",
+            "updated": 1572832800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/10/08/Droidcon-Berlin",
+            "title": "Droidcon Berlin 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/10/08/Droidcon-Berlin",
+            "updated": 1570500000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/10/07/Using-USDZ-for-a-better-AR-experience",
+            "title": "Using USDZ for a better AR experience",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/10/07/Using-USDZ-for-a-better-AR-experience",
+            "updated": 1570413600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/10/02/simplifying-dependency-injection-and-ioc-concepts-with-typescript",
+            "title": "Simplifying Dependency Injection And IoC Concepts Using TypeScript",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/10/02/simplifying-dependency-injection-and-ioc-concepts-with-typescript",
+            "updated": 1569981600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/09/17/Github-And-Jira-Integration",
+            "title": "Github And Jira Integration",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/09/17/Github-And-Jira-Integration",
+            "updated": 1568685600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/09/09/Go-Docker",
+            "title": "Go Docker",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/09/09/Go-Docker",
+            "updated": 1567994400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/08/22/Sharing-code-between-iOS-and-Vapor",
+            "title": "Sharing code between iOS and Vapor",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/08/22/Sharing-code-between-iOS-and-Vapor",
+            "updated": 1566439200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/08/21/flutter-google-docs",
+            "title": "Google Docs viewer with Flutter",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/08/21/flutter-google-docs",
+            "updated": 1566352800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/08/16/Universal-App-Platform",
+            "title": "Universal App Platform - State of Progressive Web Apps in 2019",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/08/16/Universal-App-Platform",
+            "updated": 1565920800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/08/15/Fetching-files-easily-in-Vapor-when-you-are-writing-tests",
+            "title": "Fetching files easily in Vapor when you are writing tests",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/08/15/Fetching-files-easily-in-Vapor-when-you-are-writing-tests",
+            "updated": 1565834400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/08/15/android-navigation-tools",
+            "title": "Android navigation with MVVM and State made easy",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/08/15/android-navigation-tools",
+            "updated": 1565834400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/07/31/Deploying-Node-js-apps-in-Amazon-Linux-with-pm2",
+            "title": "Deploying Node.js apps in Amazon Linux with pm2",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/07/31/Deploying-Node-js-apps-in-Amazon-Linux-with-pm2",
+            "updated": 1564538400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/07/03/Dark-Mode",
+            "title": "Join the dark side and implement Dark Mode in iOS",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/07/03/Dark-Mode",
+            "updated": 1562119200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/07/03/Higher-Order-Functions-In-Swift",
+            "title": "Higher order functions in Swift",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/07/03/Higher-Order-Functions-In-Swift",
+            "updated": 1562119200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/06/26/ARKit-3-brings-more-power-to-Apples-Augmented-Reality",
+            "title": "ARKit 3 brings more power to Apple's Augmented Reality",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/06/26/ARKit-3-brings-more-power-to-Apples-Augmented-Reality",
+            "updated": 1561514400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/06/21/Add-A-Swift-Package-to-Your-iOS-Application",
+            "title": "Add a Swift Package to Your iOS Application",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/06/21/Add-A-Swift-Package-to-Your-iOS-Application",
+            "updated": 1561082400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/06/21/Create-Your-Own-Swift-Package",
+            "title": "Create Your Own Swift Package",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/06/21/Create-Your-Own-Swift-Package",
+            "updated": 1561082400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/05/27/serverless-serverside-swift-using-google-cloud-run",
+            "title": "Serverless Server-side Swift using Google Cloud Run",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/05/27/serverless-serverside-swift-using-google-cloud-run",
+            "updated": 1558922400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/04/29/automate-debugging-and-testing-workflows-using-adb",
+            "title": "Automate Debugging and Testing Workflows using ADB",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/04/29/automate-debugging-and-testing-workflows-using-adb",
+            "updated": 1556503200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/04/16/is-flutter-ready-for-production",
+            "title": "Is Flutter ready for production?",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/04/16/is-flutter-ready-for-production",
+            "updated": 1555380000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/04/01/ApplicationMemoryPressure",
+            "title": "Does your application waste memory?",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/04/01/ApplicationMemoryPressure",
+            "updated": 1554084000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/03/19/ObserverPatterniOS",
+            "title": "A dive into the Observer Pattern in iOS applications",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/03/19/ObserverPatterniOS",
+            "updated": 1552960800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/01/31/Bugsnag",
+            "title": "Bugsnag for Vapor 3",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/01/31/Bugsnag",
+            "updated": 1548900000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2019/01/31/Google-Home",
+            "title": "A Guide to Google Home Integrations",
+            "link": "https://engineering.monstar-lab.com/en/post/2019/01/31/Google-Home",
+            "updated": 1548900000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/12/05/swift-alps-2018",
+            "title": "Swift Alps",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/12/05/swift-alps-2018",
+            "updated": 1543975200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/11/23/ar-web-summit",
+            "title": "Augmented reality is here to disrupt the industry - Insights from Web Summit 2018",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/11/23/ar-web-summit",
+            "updated": 1542938400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/11/22/JWT-auth-in-Go",
+            "title": "JWT auth in Go",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/11/22/JWT-auth-in-Go",
+            "updated": 1542852000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/10/29/Going-to-ServerSide-swift-2018",
+            "title": "Going to ServerSide.swift 2018",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/10/29/Going-to-ServerSide-swift-2018",
+            "updated": 1540778400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/08/06/Android-WorkManager",
+            "title": "Android WorkManager",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/08/06/Android-WorkManager",
+            "updated": 1533520800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/07/23/Composition-over-Inheritance",
+            "title": "Composition over Inheritance",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/07/23/Composition-over-Inheritance",
+            "updated": 1532311200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/07/16/SiriShortcuts",
+            "title": "Book a test drive with Siri Shortcuts (a Siri Shortcuts intro)",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/07/16/SiriShortcuts",
+            "updated": 1531706400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/05/09/Getting-started-with-Vapor-3",
+            "title": "Getting started with Vapor 3",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/05/09/Getting-started-with-Vapor-3",
+            "updated": 1525831200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/03/20/GoogleCast",
+            "title": "Google Cast",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/03/20/GoogleCast",
+            "updated": 1521511200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/03/05/URLComponents",
+            "title": "URLComponents",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/03/05/URLComponents",
+            "updated": 1520215200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/01/05/Making-a-presentation-app-with-Google-Nearby-Messages-and-Firebase",
+            "title": "Making a Presentation Application with Google Nearby Messages & Firebase",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/01/05/Making-a-presentation-app-with-Google-Nearby-Messages-and-Firebase",
+            "updated": 1515117600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2018/01/04/App-Accelerators",
+            "title": "App accelerators",
+            "link": "https://engineering.monstar-lab.com/en/post/2018/01/04/App-Accelerators",
+            "updated": 1515031200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/12/20/Custom-Gesture-Recognizers",
+            "title": "Custom Gesture Recognizers",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/12/20/Custom-Gesture-Recognizers",
+            "updated": 1513735200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/12/20/UIGestures",
+            "title": "UIGestures",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/12/20/UIGestures",
+            "updated": 1513735200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/12/20/vapor-code-generation-with-sourcery",
+            "title": "Vapor code generation with Sourcery",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/12/20/vapor-code-generation-with-sourcery",
+            "updated": 1513735200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/12/18/How-we-debug-with-Charles",
+            "title": "How we debug with Charles",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/12/18/How-we-debug-with-Charles",
+            "updated": 1513562400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/11/27/Adding-Peek-and-Pop-to-your-View-Controllers",
+            "title": "Adding Peek and Pop to your View Controllers",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/11/27/Adding-Peek-and-Pop-to-your-View-Controllers",
+            "updated": 1511748000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/11/22/Challenges-when-making-Today-Widgets",
+            "title": "Challenges when making Today Widgets",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/11/22/Challenges-when-making-Today-Widgets",
+            "updated": 1511316000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/10/20/searchable-items",
+            "title": "Searchable Items",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/10/20/searchable-items",
+            "updated": 1508464800,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/09/19/preparing-for-iphonex",
+            "title": "Preparing for iPhone X",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/09/19/preparing-for-iphonex",
+            "updated": 1505786400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/09/14/Droidcon-Berlin-and-GDD-Krakow",
+            "title": "Droidcon Berlin and GDD Krakow",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/09/14/Droidcon-Berlin-and-GDD-Krakow",
+            "updated": 1505354400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/08/24/Getting-Stack-Traces-in-Swift-on-Linux",
+            "title": "Getting stack traces in Swift on Linux",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/08/24/Getting-Stack-Traces-in-Swift-on-Linux",
+            "updated": 1503540000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/06/21/What-this-WWDC-means-for-us",
+            "title": "What this WWDC means for us",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/06/21/What-this-WWDC-means-for-us",
+            "updated": 1498010400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/06/01/Nodes-Wars-My-experience-as-a-Vapor-intern-at-Nodes-in-Copenhagen",
+            "title": "Nodes Wars - My experience as a Vapor intern at Nodes in Copenhagen",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/06/01/Nodes-Wars-My-experience-as-a-Vapor-intern-at-Nodes-in-Copenhagen",
+            "updated": 1496282400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/05/10/iOSCon2017",
+            "title": "Our experience at iOSCon 2017",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/05/10/iOSCon2017",
+            "updated": 1494381600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/04/21/Haptic-feedback-makes-you-vibrate",
+            "title": "Haptic Feedback makes you vibrate!",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/04/21/Haptic-feedback-makes-you-vibrate",
+            "updated": 1492740000,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2017/03/01/Serpent-more-than-just-another-JSON-mapping-framework",
+            "title": "Serpent - more than just another JSON mapping framework",
+            "link": "https://engineering.monstar-lab.com/en/post/2017/03/01/Serpent-more-than-just-another-JSON-mapping-framework",
+            "updated": 1488333600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/11/15/Android-bottom-navigation",
+            "title": "Android Bottom Navigation",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/11/15/Android-bottom-navigation",
+            "updated": 1479175200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/11/15/DroidCon-London-2016",
+            "title": "Droidcon London 2016",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/11/15/DroidCon-London-2016",
+            "updated": 1479175200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/11/08/6-simple-steps-to-setup-vapor",
+            "title": "6 simple steps to get your first Vapor JSON response",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/11/08/6-simple-steps-to-setup-vapor",
+            "updated": 1478570400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/11/08/Adding-MySQL-to-your-Vapor-project",
+            "title": "Adding MySQL to your Vapor project",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/11/08/Adding-MySQL-to-your-Vapor-project",
+            "updated": 1478570400,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/10/27/Understanding-code-signing-for-iOS-apps",
+            "title": "Understanding code signing for iOS apps",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/10/27/Understanding-code-signing-for-iOS-apps",
+            "updated": 1477533600,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/10/01/Insights-from-NSSpain",
+            "title": "Insights from NSSpain",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/10/01/Insights-from-NSSpain",
+            "updated": 1475287200,
+            "site_name": "Monstarlab Engineering Blog"
+        },
+        {
+            "id": "https://engineering.monstar-lab.com/en/post/2016/08/26/Continuous-Integration-on-iOS-with-HockeyApp-and-Testflight-Deployment",
+            "title": "Continuous Integration With Deployment to TestFlight and HockeyApp",
+            "link": "https://engineering.monstar-lab.com/en/post/2016/08/26/Continuous-Integration-on-iOS-with-HockeyApp-and-Testflight-Deployment",
+            "updated": 1472176800,
+            "site_name": "Monstarlab Engineering Blog"
+        }
+    ]
+}

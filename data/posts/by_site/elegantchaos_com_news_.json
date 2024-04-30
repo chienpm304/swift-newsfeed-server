@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://elegantchaos.com/2021/07/05/copilot.html",
+            "title": "Copilot Thoughts",
+            "link": "https://elegantchaos.com/2021/07/05/copilot.html",
+            "updated": 1625473375,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2021/04/30/matchable.html",
+            "title": "The Matchable Protocol",
+            "link": "https://elegantchaos.com/2021/04/30/matchable.html",
+            "updated": 1619759700,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/05/01/vapor-4-and-session-authentication.html",
+            "title": "Vapor 4 and Session Authentication",
+            "link": "https://elegantchaos.com/2020/05/01/vapor-4-and-session-authentication.html",
+            "updated": 1588324080,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/03/06/random-acts-of-pragmatism.html",
+            "title": "Random Acts of Pragmatism",
+            "link": "https://elegantchaos.com/2020/03/06/random-acts-of-pragmatism.html",
+            "updated": 1583463840,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/03/05/github-actions-and-swift.html",
+            "title": "Github Actions and Swift",
+            "link": "https://elegantchaos.com/2020/03/05/github-actions-and-swift.html",
+            "updated": 1583393340,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/02/28/catalyst-swiftui-sparkle.html",
+            "title": "Catalyst+SwiftUI+Sparkle=?",
+            "link": "https://elegantchaos.com/2020/02/28/catalyst-swiftui-sparkle.html",
+            "updated": 1582884540,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/01/31/fighting-with-uisplitviewcontroller.html",
+            "title": "Fighting With UISplitViewController",
+            "link": "https://elegantchaos.com/2020/01/31/fighting-with-uisplitviewcontroller.html",
+            "updated": 1580452020,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/01/23/xpkg-a-package-manager-for-machine-configuration.html",
+            "title": "XPkg - A Package Manager For Machine Configuration",
+            "link": "https://elegantchaos.com/2020/01/23/xpkg-a-package-manager-for-machine-configuration.html",
+            "updated": 1579768740,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2020/01/16/datastore-views-swift-packages-ui-in-code.html",
+            "title": "Datastore Views, Swift Packages, UI In Code",
+            "link": "https://elegantchaos.com/2020/01/16/datastore-views-swift-packages-ui-in-code.html",
+            "updated": 1579155780,
+            "site_name": "Elegant Chaos"
+        },
+        {
+            "id": "https://elegantchaos.com/2019/12/17/further-evolution.html",
+            "title": "Further Evolution",
+            "link": "https://elegantchaos.com/2019/12/17/further-evolution.html",
+            "updated": 1576563840,
+            "site_name": "Elegant Chaos"
+        }
+    ]
+}

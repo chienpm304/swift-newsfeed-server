@@ -1,0 +1,61 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.cocoawithlove.com/blog/separated-services-layer.html",
+            "title": "App architecture basics in SwiftUI Part 4: Services",
+            "link": "https://www.cocoawithlove.com/blog/separated-services-layer.html",
+            "updated": 1616463426,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/app-submodules.html",
+            "title": "App architecture basics in SwiftUI Part 3: Module-separated layers",
+            "link": "https://www.cocoawithlove.com/blog/app-submodules.html",
+            "updated": 1613093826,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/swiftui-natural-pattern.html",
+            "title": "App architecture basics in SwiftUI, Part 2: SwiftUI's natural pattern",
+            "link": "https://www.cocoawithlove.com/blog/swiftui-natural-pattern.html",
+            "updated": 1611027131,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/coding-through-iteration-and-integration.html",
+            "title": "App architecture basics in SwiftUI, Part 1: Coding through iteration and integration",
+            "link": "https://www.cocoawithlove.com/blog/coding-through-iteration-and-integration.html",
+            "updated": 1609428593,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-3.html",
+            "title": "22 short tests of combine \u2013 Part 3: Asynchrony",
+            "link": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-3.html",
+            "updated": 1566098161,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-2.html",
+            "title": "22 short tests of combine \u2013 Part 2: Sharing",
+            "link": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-2.html",
+            "updated": 1566011761,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-1.html",
+            "title": "22 short tests of Combine \u2013 Part 1: Protocols",
+            "link": "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-1.html",
+            "updated": 1565925361,
+            "site_name": "Cocoa with Love"
+        },
+        {
+            "id": "https://www.cocoawithlove.com/blog/swiftui.html",
+            "title": "First impressions of SwiftUI",
+            "link": "https://www.cocoawithlove.com/blog/swiftui.html",
+            "updated": 1559968779,
+            "site_name": "Cocoa with Love"
+        }
+    ]
+}

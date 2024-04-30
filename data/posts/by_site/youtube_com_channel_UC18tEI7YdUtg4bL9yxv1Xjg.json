@@ -1,0 +1,110 @@
+{
+    "updated": 1714471148,
+    "posts": [
+        {
+            "id": "yt:video:Jb-Ct8wxn1E",
+            "title": "What We Talk About When We Talk About Composition",
+            "link": "https://www.youtube.com/watch?v=Jb-Ct8wxn1E",
+            "updated": 1714164590,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:rPZRVFLpCGM",
+            "title": "Building a Realtime Video Processor with Swift and Metal",
+            "link": "https://www.youtube.com/watch?v=rPZRVFLpCGM",
+            "updated": 1711191572,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:dZ0gvRjmlFM",
+            "title": "Using and creating Property Wrappers",
+            "link": "https://www.youtube.com/watch?v=dZ0gvRjmlFM",
+            "updated": 1714169677,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:Fj-08kQmcY4",
+            "title": "Context Menus: from basics to polish",
+            "link": "https://www.youtube.com/watch?v=Fj-08kQmcY4",
+            "updated": 1714073466,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:KCxXPhu3S7o",
+            "title": "A class-dump in 2019",
+            "link": "https://www.youtube.com/watch?v=KCxXPhu3S7o",
+            "updated": 1714127231,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:sY5Zlv_-hbU",
+            "title": "Combining Sounds in Swift",
+            "link": "https://www.youtube.com/watch?v=sY5Zlv_-hbU",
+            "updated": 1714074949,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:0rHG_Pa86oA",
+            "title": "Exploiting The Swift ABI",
+            "link": "https://www.youtube.com/watch?v=0rHG_Pa86oA",
+            "updated": 1714108070,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:nIGlxcUES_Q",
+            "title": "Privacy Aware Logging with Swift",
+            "link": "https://www.youtube.com/watch?v=nIGlxcUES_Q",
+            "updated": 1711149007,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:S6YN2Bsde_Q",
+            "title": "Building a view debugger using SceneKit",
+            "link": "https://www.youtube.com/watch?v=S6YN2Bsde_Q",
+            "updated": 1709762819,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:NVQuBow1B10",
+            "title": "How (not) to A/B Test",
+            "link": "https://www.youtube.com/watch?v=NVQuBow1B10",
+            "updated": 1714136659,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:S5aucjB74lc",
+            "title": "CoreImage for Fun and Profit",
+            "link": "https://www.youtube.com/watch?v=S5aucjB74lc",
+            "updated": 1710347555,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:dA9rGQRwHGs",
+            "title": "Opinionated Dependency Injection in Swift",
+            "link": "https://www.youtube.com/watch?v=dA9rGQRwHGs",
+            "updated": 1711122501,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:h3CMMbgozG0",
+            "title": "Maintaining a Swift project's dependency graph with Weaver",
+            "link": "https://www.youtube.com/watch?v=h3CMMbgozG0",
+            "updated": 1710499988,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:9Io2_W1iDLQ",
+            "title": "Advanced Debugging and Swift",
+            "link": "https://www.youtube.com/watch?v=9Io2_W1iDLQ",
+            "updated": 1714111036,
+            "site_name": "Swift Language User Group"
+        },
+        {
+            "id": "yt:video:KDuhh5epXLo",
+            "title": "Putting your app on a diet",
+            "link": "https://www.youtube.com/watch?v=KDuhh5epXLo",
+            "updated": 1710283795,
+            "site_name": "Swift Language User Group"
+        }
+    ]
+}

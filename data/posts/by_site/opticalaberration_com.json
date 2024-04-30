@@ -1,0 +1,75 @@
+{
+    "updated": 1714470908,
+    "posts": [
+        {
+            "id": "https://opticalaberration.com/2023/01/soto-v5-internals.html",
+            "title": "Soto 5.0 Internals",
+            "link": "https://opticalaberration.com/2023/01/soto-v5-internals.html",
+            "updated": 1675060607,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2023/01/deploying-to-ecs-with-cdk.html",
+            "title": "Deploy to AWS ECS using the CDK",
+            "link": "https://opticalaberration.com/2023/01/deploying-to-ecs-with-cdk.html",
+            "updated": 1675060607,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2022/11/vscode-features.html",
+            "title": "VS Code Swift extension lesser known features",
+            "link": "https://opticalaberration.com/2022/11/vscode-features.html",
+            "updated": 1668052800,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/12/proxy-server.html",
+            "title": "Building a HTTP Proxy with Swift",
+            "link": "https://opticalaberration.com/2021/12/proxy-server.html",
+            "updated": 1638507600,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/12/hummingbird-template.html",
+            "title": "A template for building Hummingbird applications",
+            "link": "https://opticalaberration.com/2021/12/hummingbird-template.html",
+            "updated": 1638331200,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/09/hummingbird-swift-concurrency.html",
+            "title": "Hummingbird and Swift concurrency",
+            "link": "https://opticalaberration.com/2021/09/hummingbird-swift-concurrency.html",
+            "updated": 1632211200,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/06/jmespath.html",
+            "title": "JMESPath",
+            "link": "https://opticalaberration.com/2021/06/jmespath.html",
+            "updated": 1622696400,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/04/hummingbird-update.html",
+            "title": "Hummingbird Update",
+            "link": "https://opticalaberration.com/2021/04/hummingbird-update.html",
+            "updated": 1617940800,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/02/going-serverless-with-hummingbird.html",
+            "title": "Going Serverless with Hummingbird",
+            "link": "https://opticalaberration.com/2021/02/going-serverless-with-hummingbird.html",
+            "updated": 1614499200,
+            "site_name": "Optical Aberration"
+        },
+        {
+            "id": "https://opticalaberration.com/2021/02/hummingbird.html",
+            "title": "Hummingbird: A Swift HTTP server framework",
+            "link": "https://opticalaberration.com/2021/02/hummingbird.html",
+            "updated": 1613635200,
+            "site_name": "Optical Aberration"
+        }
+    ]
+}

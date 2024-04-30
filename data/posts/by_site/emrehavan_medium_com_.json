@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/54012e34318a",
+            "title": "Building a Scalable Apple Health Authorization Management View for iOS",
+            "link": "https://medium.com/fit-records/building-a-scalable-apple-health-authorization-management-view-for-ios-54012e34318a?source=rss-f1991f635894------2",
+            "updated": 1704763236,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/6d718afa2ae3",
+            "title": "What you didn\u2019t know about URLSessionConfiguration\u2019s waitsForConnectivity",
+            "link": "https://levelup.gitconnected.com/what-you-didnt-know-about-urlsessionconfiguration-s-waitsforconnectivity-6d718afa2ae3?source=rss-f1991f635894------2",
+            "updated": 1700335941,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/6e529fe955ed",
+            "title": "Use PassthroughSubject the Right Way in Your APIs With Combine",
+            "link": "https://betterprogramming.pub/use-passthroughsubject-the-right-way-in-your-apis-with-combine-6e529fe955ed?source=rss-f1991f635894------2",
+            "updated": 1698302541,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/bb1cdbf12725",
+            "title": "Writing a modern iOS Networking Library with Swift Concurrency",
+            "link": "https://medium.com/getir/writing-a-modern-ios-networking-library-with-swift-concurrency-bb1cdbf12725?source=rss-f1991f635894------2",
+            "updated": 1678068574,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/e51f6933e556",
+            "title": "Use Convenience Init To Avoid Making Entities Public in Your Package in Swift",
+            "link": "https://betterprogramming.pub/use-convenience-init-to-avoid-making-entities-public-in-your-package-in-swift-e51f6933e556?source=rss-f1991f635894------2",
+            "updated": 1673364300,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/1e3d24002e07",
+            "title": "Implementing a Tracking System for iOS with CoreData",
+            "link": "https://emrehavan.medium.com/implementing-a-tracking-system-for-ios-with-coredata-1e3d24002e07?source=rss-f1991f635894------2",
+            "updated": 1603774910,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/301ffa81179e",
+            "title": "Use Enums and Associated Values to Parse JSON in Swift",
+            "link": "https://betterprogramming.pub/parse-items-with-different-key-value-pairs-in-a-json-array-with-the-help-of-enums-and-associated-301ffa81179e?source=rss-f1991f635894------2",
+            "updated": 1618818729,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/c1c0e5a0e8ff",
+            "title": "How to deploy a Review Classifier in ANY application",
+            "link": "https://towardsdatascience.com/how-to-deploy-a-review-classifier-in-any-application-c1c0e5a0e8ff?source=rss-f1991f635894------2",
+            "updated": 1629702169,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/f6dbcd768e83",
+            "title": "Recommender System Application Development",
+            "link": "https://towardsdatascience.com/recommender-system-application-development-part-1-of-4-cosine-similarity-f6dbcd768e83?source=rss-f1991f635894------2",
+            "updated": 1629702260,
+            "site_name": "Emre Havan on Medium"
+        },
+        {
+            "id": "https://medium.com/p/1323e3b5b6ae",
+            "title": "Recommender System (\u00d6neri Sistemi) Uygulamas\u0131 Geli\u015ftirme B\u00f6l\u00fcm 1/4: Cosine Similarity",
+            "link": "https://emrehavan.medium.com/recommender-system-%C3%B6neri-sistemi-uygulamas%C4%B1-geli%C5%9Ftirme-b%C3%B6l%C3%BCm-1-4-cosine-similarity-1323e3b5b6ae?source=rss-f1991f635894------2",
+            "updated": 1575906618,
+            "site_name": "Emre Havan on Medium"
+        }
+    ]
+}

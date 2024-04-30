@@ -1,0 +1,145 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-1-released/",
+            "title": "Saga 1.0.0 has been released",
+            "link": "https://www.loopwerk.io/articles/2021/saga-1-released/",
+            "updated": 1639242000,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/vapor4-vs-drf/",
+            "title": "Vapor 4 vs. Django REST Framework",
+            "link": "https://www.loopwerk.io/articles/2021/vapor4-vs-drf/",
+            "updated": 1629910800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/one-big-complaint-vapor4/",
+            "title": "My one big complaint working with Vapor 4",
+            "link": "https://www.loopwerk.io/articles/2021/one-big-complaint-vapor4/",
+            "updated": 1626454800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/interview-proglib/",
+            "title": "Interview with proglib.io",
+            "link": "https://www.loopwerk.io/articles/2021/interview-proglib/",
+            "updated": 1625936400,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/wwdc21-review/",
+            "title": "WWDC21 keynote review",
+            "link": "https://www.loopwerk.io/articles/2021/wwdc21-review/",
+            "updated": 1622998800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/faq-coordinators/",
+            "title": "Mentee Question 5: What's the deal with coordinators?",
+            "link": "https://www.loopwerk.io/articles/2021/faq-coordinators/",
+            "updated": 1615309200,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/faq-passthroughsubject-currentvaluesubject/",
+            "title": "Mentee Question 4: When to use PassthroughSubject and CurrentValueSubject?",
+            "link": "https://www.loopwerk.io/articles/2021/faq-passthroughsubject-currentvaluesubject/",
+            "updated": 1614186000,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/faq-promise-all-combine/",
+            "title": "Mentee Question 3: How to know when multiple publishers completed?",
+            "link": "https://www.loopwerk.io/articles/2021/faq-promise-all-combine/",
+            "updated": 1613926800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/review-markdown-parsers/",
+            "title": "A review of Markdown parsers for Swift",
+            "link": "https://www.loopwerk.io/articles/2021/review-markdown-parsers/",
+            "updated": 1613494800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-7-updates/",
+            "title": "Building my own static site generator, part 7: updates & the road to 1.0.0",
+            "link": "https://www.loopwerk.io/articles/2021/saga-7-updates/",
+            "updated": 1613149200,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-6-replacing-swiftmarkdown/",
+            "title": "Building my own static site generator, part 6: replacing SwiftMarkdown",
+            "link": "https://www.loopwerk.io/articles/2021/saga-6-replacing-swiftmarkdown/",
+            "updated": 1612803600,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-5-replacing-ink/",
+            "title": "Building my own static site generator, part 5: replacing Ink and Splash",
+            "link": "https://www.loopwerk.io/articles/2021/saga-5-replacing-ink/",
+            "updated": 1612717200,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-4-complete-redesign/",
+            "title": "Building my own static site generator, part 4: a complete redesign",
+            "link": "https://www.loopwerk.io/articles/2021/saga-4-complete-redesign/",
+            "updated": 1612285200,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-3-thoughts-so-far/",
+            "title": "Building my own static site generator, part 3: thoughts so far",
+            "link": "https://www.loopwerk.io/articles/2021/saga-3-thoughts-so-far/",
+            "updated": 1612198800,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-2-api-design/",
+            "title": "Building my own static site generator, part 2: API design",
+            "link": "https://www.loopwerk.io/articles/2021/saga-2-api-design/",
+            "updated": 1612026000,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/saga-1-inspiration/",
+            "title": "Building my own static site generator, part 1: inspiration & goals",
+            "link": "https://www.loopwerk.io/articles/2021/saga-1-inspiration/",
+            "updated": 1611939600,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/swift-generics/",
+            "title": "Swift generics and arrays",
+            "link": "https://www.loopwerk.io/articles/2021/swift-generics/",
+            "updated": 1611680400,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/static-site-publish/",
+            "title": "Looking at the static site generator Publish",
+            "link": "https://www.loopwerk.io/articles/2021/static-site-publish/",
+            "updated": 1611248400,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/faq-getting-started/",
+            "title": "Mentee Question 2: How to get started",
+            "link": "https://www.loopwerk.io/articles/2021/faq-getting-started/",
+            "updated": 1611162000,
+            "site_name": "Loopwerk.io"
+        },
+        {
+            "id": "https://www.loopwerk.io/articles/2021/faq-uikit-vs-swiftui/",
+            "title": "Mentee Question 1: UIKit or SwiftUI",
+            "link": "https://www.loopwerk.io/articles/2021/faq-uikit-vs-swiftui/",
+            "updated": 1611075600,
+            "site_name": "Loopwerk.io"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "updated": 1714470903,
+    "posts": [
+        {
+            "id": "https://ohmyswift.com/blog/2023/12/01/from-viewwillappear-to-viewisappearing-perfecting-your-ios-view-transitions",
+            "title": "From viewWillAppear to viewIsAppearing - Perfecting Your iOS View Transitions",
+            "link": "https://ohmyswift.com/blog/2023/12/01/from-viewwillappear-to-viewisappearing-perfecting-your-ios-view-transitions/",
+            "updated": 1701379800,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2023/06/19/exploring-the-new-push-notifications-console-from-apple",
+            "title": "Exploring the New Push Notifications Console from Apple",
+            "link": "https://ohmyswift.com/blog/2023/06/19/exploring-the-new-push-notifications-console-from-apple/",
+            "updated": 1687127340,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2023/05/28/testing-remote-push-notifications-in-ios-simulator-with-xcode-14",
+            "title": "How to send Remote Push Notifications to an iOS Simulator with Xcode 14",
+            "link": "https://ohmyswift.com/blog/2023/05/28/testing-remote-push-notifications-in-ios-simulator-with-xcode-14/",
+            "updated": 1685268540,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2023/05/26/how-to-instantly-track-a-variable-s-value-changes-with-xcode-watchpoints",
+            "title": "How to Instantly Track a Variable\u2019s Value Changes with Xcode Watchpoints",
+            "link": "https://ohmyswift.com/blog/2023/05/26/how-to-instantly-track-a-variable-s-value-changes-with-xcode-watchpoints/",
+            "updated": 1685088240,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2022/08/28/how-to-add-a-loader-to-an-uibutton",
+            "title": "How to add a loader to an UIButton",
+            "link": "https://ohmyswift.com/blog/2022/08/28/how-to-add-a-loader-to-an-uibutton/",
+            "updated": 1661677080,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2022/06/26/how-to-filter-screenshots-cinematic-videos-and-depth-effect-photos-in-phpickerviewcontroller",
+            "title": "How to filter screenshots, cinematic videos, and depth-effect photos in PHPickerViewController",
+            "link": "https://ohmyswift.com/blog/2022/06/26/how-to-filter-screenshots-cinematic-videos-and-depth-effect-photos-in-phpickerviewcontroller/",
+            "updated": 1656234000,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2022/06/12/implementing-a-custom-native-calendar-using-uicalendarview-in-ios16-and-swift",
+            "title": "Implementing a custom native calendar using UICalendarView in iOS16 and Swift",
+            "link": "https://ohmyswift.com/blog/2022/06/12/implementing-a-custom-native-calendar-using-uicalendarview-in-ios16-and-swift/",
+            "updated": 1655012280,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2022/04/24/different-methods-to-remove-the-last-item-from-an-array-in-swift",
+            "title": "Different methods to remove the last item from an array in Swift",
+            "link": "https://ohmyswift.com/blog/2022/04/24/different-methods-to-remove-the-last-item-from-an-array-in-swift/",
+            "updated": 1650799620,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2021/08/23/customizing-uibutton-in-ios-15",
+            "title": "Customizing UIButton in iOS 15",
+            "link": "https://ohmyswift.com/blog/2021/08/23/customizing-uibutton-in-ios-15/",
+            "updated": 1629707580,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2021/04/14/exploring-deque-in-swift-collections",
+            "title": "Exploring Deque in Swift Collections",
+            "link": "https://ohmyswift.com/blog/2021/04/14/exploring-deque-in-swift-collections/",
+            "updated": 1618396200,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2021/03/24/swap-keys-and-values-of-a-dictionary",
+            "title": "Swap keys and values of a Dictionary",
+            "link": "https://ohmyswift.com/blog/2021/03/24/swap-keys-and-values-of-a-dictionary/",
+            "updated": 1616551560,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/12/25/experimenting-with-swift-async-and-await-pattern-using-xcode",
+            "title": "Experimenting with Swift async and await pattern using Xcode",
+            "link": "https://ohmyswift.com/blog/2020/12/25/experimenting-with-swift-async-and-await-pattern-using-xcode/",
+            "updated": 1608885120,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/12/19/common-problems-and-workarounds-while-building-apps-using-apple-silicon",
+            "title": "Common problems and workarounds while building apps using Apple Silicon",
+            "link": "https://ohmyswift.com/blog/2020/12/19/common-problems-and-workarounds-while-building-apps-using-apple-silicon/",
+            "updated": 1608326820,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/11/01/closure-based-actions-in-uibutton",
+            "title": "Closure based actions in UIButton",
+            "link": "https://ohmyswift.com/blog/2020/11/01/closure-based-actions-in-uibutton/",
+            "updated": 1604233440,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/08/29/replacing-uiimagepickercontroller-with-phpickerviewcontroller",
+            "title": "Replacing UIImagePickerController with PHPickerViewController",
+            "link": "https://ohmyswift.com/blog/2020/08/29/replacing-uiimagepickercontroller-with-phpickerviewcontroller/",
+            "updated": 1598654340,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/06/14/embracing-localization-in-image-assets",
+            "title": "Embracing Localization in Image Assets",
+            "link": "https://ohmyswift.com/blog/2020/06/14/embracing-localization-in-image-assets/",
+            "updated": 1592115060,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/05/19/an-effective-way-to-clear-entire-userdefaults-in-swift",
+            "title": "An effective way to clear entire Userdefaults in Swift",
+            "link": "https://ohmyswift.com/blog/2020/05/19/an-effective-way-to-clear-entire-userdefaults-in-swift/",
+            "updated": 1589872740,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/03/18/using-uicollectionviewcompositionallayout-in-ios-12-and-earlier",
+            "title": "Using UICollectionViewCompositionalLayout in iOS 12 and earlier",
+            "link": "https://ohmyswift.com/blog/2020/03/18/using-uicollectionviewcompositionallayout-in-ios-12-and-earlier/",
+            "updated": 1584515520,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/02/13/simulating-remote-push-notifications-in-a-simulator",
+            "title": "Simulating remote push notifications in a simulator",
+            "link": "https://ohmyswift.com/blog/2020/02/13/simulating-remote-push-notifications-in-a-simulator/",
+            "updated": 1581587520,
+            "site_name": "Oh my Swift"
+        },
+        {
+            "id": "https://ohmyswift.com/blog/2020/01/10/why-should-we-avoid-using-closures-in-swift-structs",
+            "title": "Why should we avoid using closures in Swift structs?",
+            "link": "https://ohmyswift.com/blog/2020/01/10/why-should-we-avoid-using-closures-in-swift-structs/",
+            "updated": 1578605760,
+            "site_name": "Oh my Swift"
+        }
+    ]
+}

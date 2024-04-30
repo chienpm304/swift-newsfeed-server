@@ -1,0 +1,68 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://build.ms/2022/09/06/reflections-on-an-open-source-project/",
+            "title": "Reflections On An Open Source Project",
+            "link": "https://build.ms/2022/09/06/reflections-on-an-open-source-project/",
+            "updated": 1662397200,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2022/06/22/model-view-controller-store/",
+            "title": "Model View Controller Store: Reinventing MVC for SwiftUI with Boutique",
+            "link": "https://build.ms/2022/06/22/model-view-controller-store/",
+            "updated": 1655830800,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2022/06/15/maximum-design-for-minimal-effort/",
+            "title": "Maximum Design For Minimal Effort",
+            "link": "https://build.ms/2022/06/15/maximum-design-for-minimal-effort/",
+            "updated": 1655226000,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2022/05/21/coding-as-creative-expression/",
+            "title": "Coding As Creative Expression",
+            "link": "https://build.ms/2022/05/21/coding-as-creative-expression/",
+            "updated": 1653066000,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2021/08/24/creating-slick-color-palette-apis/",
+            "title": "Creating Slick Color Palette APIs",
+            "link": "https://build.ms/2021/08/24/creating-slick-color-palette-apis/",
+            "updated": 1629738000,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2021/03/12/putting-the-u-in-graphql/",
+            "title": "Putting the U in GraphQL",
+            "link": "https://build.ms/2021/03/12/putting-the-u-in-graphql/",
+            "updated": 1615482000,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2020/09/21/Context-Bound-Types/",
+            "title": "Context-Bound Types",
+            "link": "https://build.ms/2020/09/21/Context-Bound-Types/",
+            "updated": 1600621200,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2019/12/26/building-better-views-part-i/",
+            "title": "Building Better Views (Part I)",
+            "link": "https://build.ms/2019/12/26/building-better-views-part-i/",
+            "updated": 1577293200,
+            "site_url": "https://build.ms"
+        },
+        {
+            "id": "https://build.ms/2019/12/26/building-better-views-part-ii/",
+            "title": "Building Better Views (Part II), Next Steps",
+            "link": "https://build.ms/2019/12/26/building-better-views-part-ii/",
+            "updated": 1577293200,
+            "site_url": "https://build.ms"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://josephduffy.co.uk/posts/the-bug-that-bit-me-twice",
+            "title": "The Bug That Bit Me Twice",
+            "link": "https://josephduffy.co.uk/posts/the-bug-that-bit-me-twice",
+            "updated": 1669898737,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/partial-in-swift",
+            "title": "Partial in Swift",
+            "link": "https://josephduffy.co.uk/posts/partial-in-swift",
+            "updated": 1657376719,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/dont-use-scope-modifiers-with-extensions",
+            "title": "Don't Use Scope Modifiers with Extensions",
+            "link": "https://josephduffy.co.uk/posts/dont-use-scope-modifiers-with-extensions",
+            "updated": 1647872014,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/overamped-1-1-0-year-of-small",
+            "title": "Overamped 1.1.0 and the Year of Small",
+            "link": "https://josephduffy.co.uk/posts/overamped-1-1-0-year-of-small",
+            "updated": 1643418496,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/pastelghouls-available-again",
+            "title": "pastelghouls Available Again",
+            "link": "https://josephduffy.co.uk/posts/pastelghouls-available-again",
+            "updated": 1642339574,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/year-of-small",
+            "title": "The Year of Small",
+            "link": "https://josephduffy.co.uk/posts/year-of-small",
+            "updated": 1642337652,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/swift-package-collection-signing-using-the-terminal",
+            "title": "Swift Package Collection Signing Using the Terminal",
+            "link": "https://josephduffy.co.uk/posts/swift-package-collection-signing-using-the-terminal",
+            "updated": 1641854954,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/hosting-docc-archives",
+            "title": "Hosting DocC Archives",
+            "link": "https://josephduffy.co.uk/posts/hosting-docc-archives",
+            "updated": 1623509353,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/handling-ical-files-in-ios",
+            "title": "Handling iCal Files in iOS",
+            "link": "https://josephduffy.co.uk/posts/handling-ical-files-in-ios",
+            "updated": 1622983847,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/the-ipod-touch-is-my-favourite-device-for-ios-development",
+            "title": "The iPod touch Is My Favourite Device for iOS Development",
+            "link": "https://josephduffy.co.uk/posts/the-ipod-touch-is-my-favourite-device-for-ios-development",
+            "updated": 1620837454,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/wwdc-2021-wishlist",
+            "title": "My WWDC 2021 Wishlist",
+            "link": "https://josephduffy.co.uk/posts/wwdc-2021-wishlist",
+            "updated": 1616140402,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/mapping-optional-binding-to-bool",
+            "title": "Mapping Optional Binding to Bool",
+            "link": "https://josephduffy.co.uk/posts/mapping-optional-binding-to-bool",
+            "updated": 1609049022,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/supporting-multiple-swift-package-versions-without-breaking-compatibility",
+            "title": "Supporting Multiple Swift Package Versions Without Breaking Compatibility",
+            "link": "https://josephduffy.co.uk/posts/supporting-multiple-swift-package-versions-without-breaking-compatibility",
+            "updated": 1603619622,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/running-ui-tests-on-mac-catalyst",
+            "title": "Running UI Tests on Mac Catalyst",
+            "link": "https://josephduffy.co.uk/posts/running-ui-tests-on-mac-catalyst",
+            "updated": 1594464660,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/my-swiftpm-release-workflow",
+            "title": "My Swift Package Manager Release Workflow",
+            "link": "https://josephduffy.co.uk/posts/my-swiftpm-release-workflow",
+            "updated": 1592491983,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/capturing-more-than-self",
+            "title": "Capturing More Than `self`",
+            "link": "https://josephduffy.co.uk/posts/capturing-more-than-self",
+            "updated": 1589453893,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/HashableByKeyPath-framework-release-1-0-0",
+            "title": "HashableByKeyPath framework release 1.0.0",
+            "link": "https://josephduffy.co.uk/posts/HashableByKeyPath-framework-release-1-0-0",
+            "updated": 1588242167,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/partial-framework-release-1-0-0",
+            "title": "Partial framework release 1.0.0",
+            "link": "https://josephduffy.co.uk/posts/partial-framework-release-1-0-0",
+            "updated": 1562770721,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/gathered-1-3-release-notes",
+            "title": "Gathered 1.3 Release Notes",
+            "link": "https://josephduffy.co.uk/posts/gathered-1-3-release-notes",
+            "updated": 1520773047,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/ios-share-sheets-the-proper-way-locations",
+            "title": "iOS Share Sheets the Proper Way - Locations",
+            "link": "https://josephduffy.co.uk/posts/ios-share-sheets-the-proper-way-locations",
+            "updated": 1457343586,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/exploiting-university-security-for-my-own-convenience",
+            "title": "Exploiting University Security for My Own Convenience",
+            "link": "https://josephduffy.co.uk/posts/exploiting-university-security-for-my-own-convenience",
+            "updated": 1450620593,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/gathered-1-0-1",
+            "title": "Gathered 1.0.1 and the Disable Device Sleep Setting",
+            "link": "https://josephduffy.co.uk/posts/gathered-1-0-1",
+            "updated": 1449402514,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/its-a-duffy-thing",
+            "title": "It's a Duffy Thing",
+            "link": "https://josephduffy.co.uk/posts/its-a-duffy-thing",
+            "updated": 1449132117,
+            "site_name": "Joseph Duffy's Blog"
+        },
+        {
+            "id": "https://josephduffy.co.uk/posts/touch-id-on-the-lock-screen",
+            "title": "Touch ID on the Lock Screen",
+            "link": "https://josephduffy.co.uk/posts/touch-id-on-the-lock-screen",
+            "updated": 1443846864,
+            "site_name": "Joseph Duffy's Blog"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://matthewcodes.uk/articles/radar-live-activities-in-watchos-smart-stack",
+            "title": "Radar: show Live Activities in the watchOS Smart Stack",
+            "link": "https://matthewcodes.uk/articles/radar-live-activities-in-watchos-smart-stack",
+            "updated": 1709967120,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts",
+            "title": "Radar: show prominent Live Activity alerts on iOS",
+            "link": "https://matthewcodes.uk/articles/radar-prominent-live-activity-alerts",
+            "updated": 1709966100,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/fediverse-status-publish-plugin",
+            "title": "Fediverse status Publish Plugin",
+            "link": "https://matthewcodes.uk/articles/fediverse-status-publish-plugin",
+            "updated": 1671692160,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swiftui-size-to-fit-bottom-sheet",
+            "title": "Sized-to-fit SwiftUI bottom sheet",
+            "link": "https://matthewcodes.uk/articles/swiftui-size-to-fit-bottom-sheet",
+            "updated": 1669551660,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/minimal-swift-reachability",
+            "title": "A minimal reachability check for Swift",
+            "link": "https://matthewcodes.uk/articles/minimal-swift-reachability",
+            "updated": 1668918240,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/synology-nas-usb-copy-multiple-shared-folders",
+            "title": "Using Synology NAS \"USB Copy\" to backup multiple shared folders",
+            "link": "https://matthewcodes.uk/articles/synology-nas-usb-copy-multiple-shared-folders",
+            "updated": 1666273380,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swiftui-coordinatespace",
+            "title": "Using CoordinateSpace to draw over a SwiftUI List",
+            "link": "https://matthewcodes.uk/articles/swiftui-coordinatespace",
+            "updated": 1661571420,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/solar-and-powerwall-one-year-retrospective",
+            "title": "Solar panels and Powerwall - one year retrospective",
+            "link": "https://matthewcodes.uk/articles/solar-and-powerwall-one-year-retrospective",
+            "updated": 1650164940,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/on-veganism",
+            "title": "Rambling on about veganism",
+            "link": "https://matthewcodes.uk/articles/on-veganism",
+            "updated": 1650006060,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/custom-fonts-with-swiftui",
+            "title": "Using custom fonts with SwiftUI",
+            "link": "https://matthewcodes.uk/articles/custom-fonts-with-swiftui",
+            "updated": 1645265160,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/indeterminate-linear-progress-view",
+            "title": "An indeterminate linear ProgressView that works on iOS",
+            "link": "https://matthewcodes.uk/articles/indeterminate-linear-progress-view",
+            "updated": 1641474360,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/stateobject-lifecycle",
+            "title": "Investigation of @StateObject lifecycle",
+            "link": "https://matthewcodes.uk/articles/stateobject-lifecycle",
+            "updated": 1641202800,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/app-details-publish-plugin",
+            "title": "Adding details of AppStore Apps into a Publish website",
+            "link": "https://matthewcodes.uk/articles/app-details-publish-plugin",
+            "updated": 1640400120,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/gitlab-snippets-publish-plugin",
+            "title": "Injecting GitLab Snippets into Publish output",
+            "link": "https://matthewcodes.uk/articles/gitlab-snippets-publish-plugin",
+            "updated": 1640276520,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/html2markdown-swift-package",
+            "title": "HTML2Markdown Swift Package",
+            "link": "https://matthewcodes.uk/articles/html2markdown-swift-package",
+            "updated": 1640059740,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swiftui-playground-template",
+            "title": "An Xcode template for SwiftUI playgrounds",
+            "link": "https://matthewcodes.uk/articles/swiftui-playground-template",
+            "updated": 1639839300,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swiftui-custom-back-buttons",
+            "title": "Custom Back buttons in SwiftUI",
+            "link": "https://matthewcodes.uk/articles/swiftui-custom-back-buttons",
+            "updated": 1635860280,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/different-swift-enum-behaviours",
+            "title": "Exploring Different Behaviours in Swift Enums",
+            "link": "https://matthewcodes.uk/articles/different-swift-enum-behaviours",
+            "updated": 1564230900,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/data-driven-screen-dispatching-for-ios",
+            "title": "Data-driven Screen Dispatching for iOS",
+            "link": "https://matthewcodes.uk/articles/data-driven-screen-dispatching-for-ios",
+            "updated": 1548473220,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swiftmock-a-mocking-solution-for-swift-4-dot-2",
+            "title": "SwiftMock - A Mocking Solution for Swift",
+            "link": "https://matthewcodes.uk/articles/swiftmock-a-mocking-solution-for-swift-4-dot-2",
+            "updated": 1545364860,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/accessing-swift-arrays-without-counting-on-fingers",
+            "title": "Accessing Swift Arrays Without Counting on Fingers",
+            "link": "https://matthewcodes.uk/articles/accessing-swift-arrays-without-counting-on-fingers",
+            "updated": 1543766340,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/swift-extensions-for-protocol-conformance-considered-harmful",
+            "title": "Swift Extensions for Protocol Conformance Considered Harmful",
+            "link": "https://matthewcodes.uk/articles/swift-extensions-for-protocol-conformance-considered-harmful",
+            "updated": 1542949860,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/handling-widgetperformupdate-in-an-ios-today-extension",
+            "title": "Handling widgetPerformUpdate in an iOS Today extension",
+            "link": "https://matthewcodes.uk/articles/handling-widgetperformupdate-in-an-ios-today-extension",
+            "updated": 1541829540,
+            "site_name": "Matthew\u2019s Dev Blog"
+        },
+        {
+            "id": "https://matthewcodes.uk/articles/enums-are-meant-for-switching",
+            "title": "Enums are meant for switching",
+            "link": "https://matthewcodes.uk/articles/enums-are-meant-for-switching",
+            "updated": 1541210400,
+            "site_name": "Matthew\u2019s Dev Blog"
+        }
+    ]
+}

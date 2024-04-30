@@ -1,0 +1,40 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "tag:belkadan.com,2007:dealloc/2024/04/XZ-Gon-Give-It-To-Ya/",
+            "title": "XZ Gon' Give It To Ya",
+            "link": "https://belkadan.com/blog/2024/04/XZ-Gon-Give-It-To-Ya/",
+            "updated": 1712422800,
+            "site_name": "dealloc"
+        },
+        {
+            "id": "tag:belkadan.com,2007:dealloc/2024/04/Run-time-Polymorphism-in-Swift/",
+            "title": "Run-time Polymorphism in Swift",
+            "link": "https://belkadan.com/blog/2024/04/Run-time-Polymorphism-in-Swift/",
+            "updated": 1712336400,
+            "site_name": "dealloc"
+        },
+        {
+            "id": "tag:belkadan.com,2007:dealloc/2024/01/Online-Communication/",
+            "title": "Online Communication",
+            "link": "https://belkadan.com/blog/2024/01/Online-Communication/",
+            "updated": 1705683600,
+            "site_name": "dealloc"
+        },
+        {
+            "id": "tag:belkadan.com,2007:dealloc/2024/01/The-Biggest-Smallest-PNG/",
+            "title": "The Biggest Smallest PNG",
+            "link": "https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/",
+            "updated": 1704560400,
+            "site_name": "dealloc"
+        },
+        {
+            "id": "tag:belkadan.com,2007:dealloc/2023/12/CellLVM/",
+            "title": "CellLVM",
+            "link": "https://belkadan.com/blog/2023/12/CellLVM/",
+            "updated": 1703696400,
+            "site_name": "dealloc"
+        }
+    ]
+}

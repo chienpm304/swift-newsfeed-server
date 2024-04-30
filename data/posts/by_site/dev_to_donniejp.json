@@ -1,0 +1,33 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://dev.to/donniejp/how-we-build-and-deliver-quality-mobile-sdks-at-scale-269k",
+            "title": "How we build and deliver quality mobile SDKs at scale",
+            "link": "https://dev.to/donniejp/how-we-build-and-deliver-quality-mobile-sdks-at-scale-269k",
+            "updated": 1610334664,
+            "site_name": "donnie-jp's Blog"
+        },
+        {
+            "id": "https://dev.to/donniejp/secure-xc-config-for-ios-apps-115b",
+            "title": "Secure (xc)config for iOS apps",
+            "link": "https://dev.to/donniejp/secure-xc-config-for-ios-apps-115b",
+            "updated": 1595710332,
+            "site_name": "donnie-jp's Blog"
+        },
+        {
+            "id": "https://dev.to/donniejp/dynamic-ssl-pinning-on-ios-with-approov-2npj",
+            "title": "Dynamic SSL Pinning on iOS with Approov",
+            "link": "https://dev.to/donniejp/dynamic-ssl-pinning-on-ios-with-approov-2npj",
+            "updated": 1592201243,
+            "site_name": "donnie-jp's Blog"
+        },
+        {
+            "id": "https://dev.to/donniejp/why-do-we-open-source-our-mobile-sdks-5b7",
+            "title": "Why do we open source our mobile SDKs?",
+            "link": "https://dev.to/donniejp/why-do-we-open-source-our-mobile-sdks-5b7",
+            "updated": 1583910692,
+            "site_name": "donnie-jp's Blog"
+        }
+    ]
+}

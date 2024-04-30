@@ -1,0 +1,47 @@
+{
+    "updated": 1714470889,
+    "posts": [
+        {
+            "id": "https://mtldoc.com/metal/2023/08/18/optimizing-metal-stitching",
+            "title": "Optimizing Metal: Stitch several Metal functions into a single shader using MTLFunctionStitchingGraph",
+            "link": "https://mtldoc.com/metal/2023/08/18/optimizing-metal-stitching",
+            "updated": 1692324000,
+            "site_name": "MTLDoc"
+        },
+        {
+            "id": "https://mtldoc.com/swift/2022/12/23/xcframework-code-signing",
+            "title": "Code Signing Hell with XCFramework",
+            "link": "https://mtldoc.com/swift/2022/12/23/xcframework-code-signing",
+            "updated": 1671760800,
+            "site_name": "MTLDoc"
+        },
+        {
+            "id": "https://mtldoc.com/metal/2022/11/20/shaders-explained-dithering",
+            "title": "Shaders Explained: Dithering",
+            "link": "https://mtldoc.com/metal/2022/11/20/shaders-explained-dithering",
+            "updated": 1668909600,
+            "site_name": "MTLDoc"
+        },
+        {
+            "id": "https://mtldoc.com/swift/2022/08/19/swiftui-gradient-builder",
+            "title": "SwiftUI Gradient Builder",
+            "link": "https://mtldoc.com/swift/2022/08/19/swiftui-gradient-builder",
+            "updated": 1660874400,
+            "site_name": "MTLDoc"
+        },
+        {
+            "id": "https://mtldoc.com/metal/2022/08/04/shaders-explained-gradients",
+            "title": "Shaders Explained: Gradients",
+            "link": "https://mtldoc.com/metal/2022/08/04/shaders-explained-gradients",
+            "updated": 1659578400,
+            "site_name": "MTLDoc"
+        },
+        {
+            "id": "https://mtldoc.com/metal/2022/06/18/build-swift-executable-with-metal-library",
+            "title": "Build Swift Executable with Metal Library",
+            "link": "https://mtldoc.com/metal/2022/06/18/build-swift-executable-with-metal-library",
+            "updated": 1655517600,
+            "site_name": "MTLDoc"
+        }
+    ]
+}

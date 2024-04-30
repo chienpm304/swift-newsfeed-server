@@ -1,0 +1,54 @@
+{
+    "updated": 1714470918,
+    "posts": [
+        {
+            "id": "https://rayfix.org/2021/07/27/extensible-api-swift",
+            "title": "Extensible API in Swift",
+            "link": "https://rayfix.org/2021/07/27/extensible-api-swift.html",
+            "updated": 1627318800,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/07/10/r-style-boolean-sequences-swift",
+            "title": "R-Style Boolean Sequences in Swift",
+            "link": "https://rayfix.org/2021/07/10/r-style-boolean-sequences-swift.html",
+            "updated": 1625850000,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/05/30/concurency-notes",
+            "title": "Swift Concurrency Notes",
+            "link": "https://rayfix.org/2021/05/30/concurency-notes.html",
+            "updated": 1622307600,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/05/18/fluent-swiftui",
+            "title": "Fluent with SwiftUI",
+            "link": "https://rayfix.org/2021/05/18/fluent-swiftui.html",
+            "updated": 1621270800,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/04/26/property-wrappers",
+            "title": "Property Wrappers",
+            "link": "https://rayfix.org/2021/04/26/property-wrappers.html",
+            "updated": 1619370000,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/04/24/swiftui-argument-parser",
+            "title": "SwiftUI with Argument Parsing",
+            "link": "https://rayfix.org/2021/04/24/swiftui-argument-parser.html",
+            "updated": 1619197200,
+            "site_name": "Ray Fix's Blog"
+        },
+        {
+            "id": "https://rayfix.org/2021/04/21/argument_parsing",
+            "title": "Command Line Tools in Swift",
+            "link": "https://rayfix.org/2021/04/21/argument_parsing.html",
+            "updated": 1618938000,
+            "site_name": "Ray Fix's Blog"
+        }
+    ]
+}

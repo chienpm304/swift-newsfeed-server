@@ -1,0 +1,40 @@
+{
+    "updated": 1714470908,
+    "posts": [
+        {
+            "id": "https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can",
+            "title": "Remove a Git tag. Mission impossible",
+            "link": "https://pastey.github.io/2024/02/11/remove-git-tag-if-you-can.html",
+            "updated": 1707584400,
+            "site_name": "Pastey\u2019s blog"
+        },
+        {
+            "id": "https://pastey.github.io/2023/09/08/PATH",
+            "title": "Journey HOME",
+            "link": "https://pastey.github.io/2023/09/08/PATH.html",
+            "updated": 1694106000,
+            "site_name": "Pastey\u2019s blog"
+        },
+        {
+            "id": "https://pastey.github.io/2023/06/18/unexpected-hmi-issue",
+            "title": "An unexpected human-machine interaction peculiarity in an iOS app",
+            "link": "https://pastey.github.io/2023/06/18/unexpected-hmi-issue.html",
+            "updated": 1687021200,
+            "site_name": "Pastey\u2019s blog"
+        },
+        {
+            "id": "https://pastey.github.io/2023/06/11/band-selection-vs-collection-view-cell-backgroud",
+            "title": "UIBandSelectionInteraction vs. UICollectionViewCell background color",
+            "link": "https://pastey.github.io/2023/06/11/band-selection-vs-collection-view-cell-backgroud.html",
+            "updated": 1686416400,
+            "site_name": "Pastey\u2019s blog"
+        },
+        {
+            "id": "https://pastey.github.io/2023/02/27/Equatable",
+            "title": "A sad story about Swift Equatable",
+            "link": "https://pastey.github.io/2023/02/27/Equatable.html",
+            "updated": 1677430800,
+            "site_name": "Pastey\u2019s blog"
+        }
+    ]
+}

@@ -1,0 +1,2252 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/4.html",
+            "title": "Show passwords as they're typed in Terminal",
+            "link": "https://lapcatsoftware.com/articles/2024/4/4.html",
+            "updated": 1713346800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/3.html",
+            "title": "Funny story of how I recovered the password of an encrypted Mac disk image",
+            "link": "https://lapcatsoftware.com/articles/2024/4/3.html",
+            "updated": 1712658300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/2.html",
+            "title": "Stop The Mac App Store improved for Sonoma and Ventura",
+            "link": "https://lapcatsoftware.com/articles/2024/4/2.html",
+            "updated": 1712128800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/1.html",
+            "title": "Safari Search Settings spacing",
+            "link": "https://lapcatsoftware.com/articles/2024/4/1.html",
+            "updated": 1712060100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/2/3.html",
+            "title": "Mac app launches slowed by malware scan",
+            "link": "https://lapcatsoftware.com/articles/2024/2/3.html",
+            "updated": 1707909900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/2/2.html",
+            "title": "How to stop Upgrade to macOS Sonoma notifications",
+            "link": "https://lapcatsoftware.com/articles/2024/2/2.html",
+            "updated": 1707330900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/2/1.html",
+            "title": "The HTML dialog element API is a mess",
+            "link": "https://lapcatsoftware.com/articles/2024/2/1.html",
+            "updated": 1706774400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/1/3.html",
+            "title": "Abandonware featured in iOS App Store",
+            "link": "https://lapcatsoftware.com/articles/2024/1/3.html",
+            "updated": 1706174400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/1/2.html",
+            "title": "Beware of App Store app bundles",
+            "link": "https://lapcatsoftware.com/articles/2024/1/2.html",
+            "updated": 1705653900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/1/1.html",
+            "title": "How Safari can improve extensions",
+            "link": "https://lapcatsoftware.com/articles/2024/1/1.html",
+            "updated": 1704812100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/12/4.html",
+            "title": "StopTheMadness Pro postmortem: crApp Store still crappy",
+            "link": "https://lapcatsoftware.com/articles/2023/12/4.html",
+            "updated": 1703664300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/12/3.html",
+            "title": "iOS 17 App Store screenshots caveat",
+            "link": "https://lapcatsoftware.com/articles/2023/12/3.html",
+            "updated": 1703239800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/12/2.html",
+            "title": "iOS 17.2 shows the wrong Safari extension icons",
+            "link": "https://lapcatsoftware.com/articles/2023/12/2.html",
+            "updated": 1702325400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/12/1.html",
+            "title": "macOS Sonoma increases NSControl font size",
+            "link": "https://lapcatsoftware.com/articles/2023/12/1.html",
+            "updated": 1702021800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/7.html",
+            "title": "Disabled Safari extensions are not fully disabled, and other problems",
+            "link": "https://lapcatsoftware.com/articles/2023/11/7.html",
+            "updated": 1701330900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/6.html",
+            "title": "NSFileManager error messages lie",
+            "link": "https://lapcatsoftware.com/articles/2023/11/6.html",
+            "updated": 1701246300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/5.html",
+            "title": "The myth and reality of Mac OS X Snow Leopard",
+            "link": "https://lapcatsoftware.com/articles/2023/11/5.html",
+            "updated": 1699860300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/4.html",
+            "title": "Mac App Store receipt validation revisited",
+            "link": "https://lapcatsoftware.com/articles/2023/11/4.html",
+            "updated": 1699434600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/3.html",
+            "title": "Feedback Assistant boycott web page and participants list",
+            "link": "https://lapcatsoftware.com/articles/2023/11/3.html",
+            "updated": 1699347600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/2.html",
+            "title": "Apple developer boycott of Feedback Assistant",
+            "link": "https://lapcatsoftware.com/articles/2023/11/2.html",
+            "updated": 1699259700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/11/1.html",
+            "title": "This Feedback will no longer be monitored, and incoming messages will not be reviewed",
+            "link": "https://lapcatsoftware.com/articles/2023/11/1.html",
+            "updated": 1699013700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/8.html",
+            "title": "Safari share menu now violates privacy",
+            "link": "https://lapcatsoftware.com/articles/2023/10/8.html",
+            "updated": 1698325200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/7.html",
+            "title": "Why I disabled advanced tracking and fingerprinting protection in Safari",
+            "link": "https://lapcatsoftware.com/articles/2023/10/7.html",
+            "updated": 1698060600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/6.html",
+            "title": "Safari 17 hidden feature: Always allow this website to open an app",
+            "link": "https://lapcatsoftware.com/articles/2023/10/6.html",
+            "updated": 1697821500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/5.html",
+            "title": "How to fix the disastrous new Xcode 15 console",
+            "link": "https://lapcatsoftware.com/articles/2023/10/5.html",
+            "updated": 1697711400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/4.html",
+            "title": "LaunchServices and Spotlight",
+            "link": "https://lapcatsoftware.com/articles/2023/10/4.html",
+            "updated": 1697280600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/3.html",
+            "title": "Xcode 15 logs nil as an empty string, not (null)",
+            "link": "https://lapcatsoftware.com/articles/2023/10/3.html",
+            "updated": 1697188200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/2.html",
+            "title": "Your Mastodon archive omits DMs sent to you",
+            "link": "https://lapcatsoftware.com/articles/2023/10/2.html",
+            "updated": 1696338600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/10/1.html",
+            "title": "Mastodon instance admin deleted all of our DMs after 15 days",
+            "link": "https://lapcatsoftware.com/articles/2023/10/1.html",
+            "updated": 1696239600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/9/4.html",
+            "title": "How did Apple get all of my email addresses?",
+            "link": "https://lapcatsoftware.com/articles/2023/9/4.html",
+            "updated": 1695831900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/9/3.html",
+            "title": "Mysterious disappearing Apple ID 2FA codes",
+            "link": "https://lapcatsoftware.com/articles/2023/9/3.html",
+            "updated": 1695052800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/9/2.html",
+            "title": "The most wonderful new hidden feature in iOS 17 and macOS 14",
+            "link": "https://lapcatsoftware.com/articles/2023/9/2.html",
+            "updated": 1694546100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/9/1.html",
+            "title": "Another Google Search bug in iOS Safari",
+            "link": "https://lapcatsoftware.com/articles/2023/9/1.html",
+            "updated": 1694441700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/8/5.html",
+            "title": "Safari Un-Intelligent Tracking Prevention: Data loss by design",
+            "link": "https://lapcatsoftware.com/articles/2023/8/5.html",
+            "updated": 1693411500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/8/4.html",
+            "title": "Threads.net can go to hell",
+            "link": "https://lapcatsoftware.com/articles/2023/8/4.html",
+            "updated": 1692884100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/8/3.html",
+            "title": "macOS App Management vulnerability illustrated",
+            "link": "https://lapcatsoftware.com/articles/2023/8/3.html",
+            "updated": 1692545400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/8/2.html",
+            "title": "macOS 0day: App Management",
+            "link": "https://lapcatsoftware.com/articles/2023/8/2.html",
+            "updated": 1692432000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/8/1.html",
+            "title": "How do I report a Google Search bug?",
+            "link": "https://lapcatsoftware.com/articles/2023/8/1.html",
+            "updated": 1692001500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/7/3.html",
+            "title": "Follow-up to Firefox 115 can silently remotely disable my extension on any site",
+            "link": "https://lapcatsoftware.com/articles/2023/7/3.html",
+            "updated": 1689063300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/7/2.html",
+            "title": "Reflections on my 7th Twitter anniversary",
+            "link": "https://lapcatsoftware.com/articles/2023/7/2.html",
+            "updated": 1688904000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/7/1.html",
+            "title": "Firefox 115 can silently remotely disable my extension on any site",
+            "link": "https://lapcatsoftware.com/articles/2023/7/1.html",
+            "updated": 1688729400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/6/4.html",
+            "title": "My thoughts on Apple Vision Pro",
+            "link": "https://lapcatsoftware.com/articles/2023/6/4.html",
+            "updated": 1686728100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/6/3.html",
+            "title": "Little Snitch \"denied\" connections leak your IP address: Developer response",
+            "link": "https://lapcatsoftware.com/articles/2023/6/3.html",
+            "updated": 1686562200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/6/2.html",
+            "title": "Safari 17 Link Tracking Protection Details",
+            "link": "https://lapcatsoftware.com/articles/2023/6/2.html",
+            "updated": 1686340200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/6/1.html",
+            "title": "macOS Sonoma sandbox security",
+            "link": "https://lapcatsoftware.com/articles/2023/6/1.html",
+            "updated": 1686136800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/5/2.html",
+            "title": "macOS: Attribute Not Found?",
+            "link": "https://lapcatsoftware.com/articles/2023/5/2.html",
+            "updated": 1684430100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/5/1.html",
+            "title": "Passkeys: A loss of user control?",
+            "link": "https://lapcatsoftware.com/articles/2023/5/1.html",
+            "updated": 1683482400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/3/5.html",
+            "title": "Follow-up to Little Snitch \"denied\" connections leak your IP address",
+            "link": "https://lapcatsoftware.com/articles/2023/3/5.html",
+            "updated": 1680251400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/3/4.html",
+            "title": "Little Snitch \"denied\" connections leak your IP address",
+            "link": "https://lapcatsoftware.com/articles/2023/3/4.html",
+            "updated": 1680251340,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/3/3.html",
+            "title": "What Apple doesn't get about Feedback",
+            "link": "https://lapcatsoftware.com/articles/2023/3/3.html",
+            "updated": 1679919300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/3/2.html",
+            "title": "Mac Messages: Can't I show my email address?",
+            "link": "https://lapcatsoftware.com/articles/2023/3/2.html",
+            "updated": 1678270500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/3/1.html",
+            "title": "Race to the bottom: App Store peer benchmarks",
+            "link": "https://lapcatsoftware.com/articles/2023/3/1.html",
+            "updated": 1677677100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/2/2.html",
+            "title": "I do want to go back to social media",
+            "link": "https://lapcatsoftware.com/articles/2023/2/2.html",
+            "updated": 1677571500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2023/2/1.html",
+            "title": "Ventura or Vista? Cancel or Allow in Mac Preview app",
+            "link": "https://lapcatsoftware.com/articles/2023/2/1.html",
+            "updated": 1677437400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/review-folly2.html",
+            "title": "App Store Review continues to delay updates for no reason",
+            "link": "https://lapcatsoftware.com/articles/review-folly2.html",
+            "updated": 1676364300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mastodon2.html",
+            "title": "Mastodon postmortem",
+            "link": "https://lapcatsoftware.com/articles/mastodon2.html",
+            "updated": 1675708200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mastodon.html",
+            "title": "Mastodon instance mstdn.plus with over 4K users suddenly broke",
+            "link": "https://lapcatsoftware.com/articles/mastodon.html",
+            "updated": 1675708140,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSURLSession.html",
+            "title": "NSURLSession connection leak",
+            "link": "https://lapcatsoftware.com/articles/NSURLSession.html",
+            "updated": 1674471000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/universal-links2.html",
+            "title": "Universal Links Revisited",
+            "link": "https://lapcatsoftware.com/articles/universal-links2.html",
+            "updated": 1673853600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bing2.html",
+            "title": "Bing and DuckDuckGo removed my business web site AGAIN",
+            "link": "https://lapcatsoftware.com/articles/bing2.html",
+            "updated": 1673887800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/crappstore.html",
+            "title": "The App Store does not protect consumers",
+            "link": "https://lapcatsoftware.com/articles/crappstore.html",
+            "updated": 1672824900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/crappstoreconnect4.html",
+            "title": "App Store Connect is the worst web site ever made, Part 4: Works as currently designed",
+            "link": "https://lapcatsoftware.com/articles/crappstoreconnect4.html",
+            "updated": 1672216500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-extension-issues.html",
+            "title": "I posted my Safari extension issues on GitHub. Post yours too!",
+            "link": "https://lapcatsoftware.com/articles/Safari-extension-issues.html",
+            "updated": 1672127700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Preferences2.html",
+            "title": "How to restore the Preferences menu item to macOS Ventura, Part 2",
+            "link": "https://lapcatsoftware.com/articles/Preferences2.html",
+            "updated": 1671280500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Rosetta.html",
+            "title": "macOS removes and reinstalls Rosetta after every update",
+            "link": "https://lapcatsoftware.com/articles/Rosetta.html",
+            "updated": 1671008100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Node.html",
+            "title": "Mac OS X analogue for Node.js?",
+            "link": "https://lapcatsoftware.com/articles/Node.html",
+            "updated": 1670912400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/MontereyCVE.html",
+            "title": "macOS Monterey still vulnerable to CVE-2022-40303",
+            "link": "https://lapcatsoftware.com/articles/MontereyCVE.html",
+            "updated": 1670935200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/badge.html",
+            "title": "Hide System Preferences Dock badge",
+            "link": "https://lapcatsoftware.com/articles/badge.html",
+            "updated": 1669633800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/socialmedia.html",
+            "title": "I don't want to go back to social media",
+            "link": "https://lapcatsoftware.com/articles/socialmedia.html",
+            "updated": 1668887400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/crappstoreconnect3.html",
+            "title": "App Store Connect is the worst web site ever made, Part 3",
+            "link": "https://lapcatsoftware.com/articles/crappstoreconnect3.html",
+            "updated": 1668240900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/crappstoreconnect2.html",
+            "title": "App Store Connect just got worse. But I made it better.",
+            "link": "https://lapcatsoftware.com/articles/crappstoreconnect2.html",
+            "updated": 1668095100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Blog-Slack.html",
+            "title": "I'm starting a company blog and Slack",
+            "link": "https://lapcatsoftware.com/articles/Blog-Slack.html",
+            "updated": 1667457000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/blogging.html",
+            "title": "Blogging without a blogging engine",
+            "link": "https://lapcatsoftware.com/articles/blogging.html",
+            "updated": 1667373000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/RSS.html",
+            "title": "A list of Apple-related RSS feeds",
+            "link": "https://lapcatsoftware.com/articles/RSS.html",
+            "updated": 1667304600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/provisioning.html",
+            "title": "How to regenerate Xcode managed provisioning profiles",
+            "link": "https://lapcatsoftware.com/articles/provisioning.html",
+            "updated": 1666863900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/AppManagement.html",
+            "title": "How macOS Ventura App Management works and doesn't work",
+            "link": "https://lapcatsoftware.com/articles/AppManagement.html",
+            "updated": 1666614300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/alliance.html",
+            "title": "Mac indie dev alliance",
+            "link": "https://lapcatsoftware.com/articles/alliance.html",
+            "updated": 1666347900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/works.html",
+            "title": "Works as currently designed",
+            "link": "https://lapcatsoftware.com/articles/works.html",
+            "updated": 1665231300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/AppID.html",
+            "title": "Check your App IDs for unused capabilities",
+            "link": "https://lapcatsoftware.com/articles/AppID.html",
+            "updated": 1664366100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/FullDiskAccess.html",
+            "title": "Every unsandboxed app has Full Disk Access if Terminal does",
+            "link": "https://lapcatsoftware.com/articles/FullDiskAccess.html",
+            "updated": 1663836000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textview5.html",
+            "title": "iOS 16 text view breakage",
+            "link": "https://lapcatsoftware.com/articles/textview5.html",
+            "updated": 1663082400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Preferences.html",
+            "title": "How to restore the Preferences menu item to macOS Ventura",
+            "link": "https://lapcatsoftware.com/articles/Preferences.html",
+            "updated": 1662372000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/clipboard.html",
+            "title": "Web pages can overwrite your system clipboard without your knowledge",
+            "link": "https://lapcatsoftware.com/articles/clipboard.html",
+            "updated": 1661701680,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/experimental.html",
+            "title": "Safari updates reset your Experimental Features preferences",
+            "link": "https://lapcatsoftware.com/articles/experimental.html",
+            "updated": 1661328900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/ExtensionsMacSafari.html",
+            "title": "Extensions API broken in Mac Safari",
+            "link": "https://lapcatsoftware.com/articles/ExtensionsMacSafari.html",
+            "updated": 1661234400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/dictation.html",
+            "title": "iOS dictation is dickish",
+            "link": "https://lapcatsoftware.com/articles/dictation.html",
+            "updated": 1661160600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/VenturaShare.html",
+            "title": "Why macOS Ventura Share menu is bad",
+            "link": "https://lapcatsoftware.com/articles/VenturaShare.html",
+            "updated": 1660034400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bots.html",
+            "title": "Twitter crypto spam bots copy real tweets to appear real",
+            "link": "https://lapcatsoftware.com/articles/bots.html",
+            "updated": 1659869400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bluetooth.html",
+            "title": "Apple re-enables Bluetooth on every OS update on purpose",
+            "link": "https://lapcatsoftware.com/articles/bluetooth.html",
+            "updated": 1658331300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSURL2.html",
+            "title": "NSURL is relatively bad",
+            "link": "https://lapcatsoftware.com/articles/NSURL2.html",
+            "updated": 1658224500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/disappearing-safari2.html",
+            "title": "More disappearing Safari extensions",
+            "link": "https://lapcatsoftware.com/articles/disappearing-safari2.html",
+            "updated": 1657089000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/swift.html",
+            "title": "Thoughts on Swift and Objective-C",
+            "link": "https://lapcatsoftware.com/articles/swift.html",
+            "updated": 1656948900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/dock.html",
+            "title": "macOS Monterey Dock watches /Users/Shared/",
+            "link": "https://lapcatsoftware.com/articles/dock.html",
+            "updated": 1656581400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/monterey-security.html",
+            "title": "macOS Monterey unannounced security misfeature",
+            "link": "https://lapcatsoftware.com/articles/monterey-security.html",
+            "updated": 1655990100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/LinkUnshortener.html",
+            "title": "Link Unshortener enhancements",
+            "link": "https://lapcatsoftware.com/articles/LinkUnshortener.html",
+            "updated": 1655900100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-Twitter.html",
+            "title": "Stop Safari from switching your Twitter timeline",
+            "link": "https://lapcatsoftware.com/articles/Safari-Twitter.html",
+            "updated": 1655701200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bing.html",
+            "title": "Bing and DuckDuckGo removed my business web site",
+            "link": "https://lapcatsoftware.com/articles/bing.html",
+            "updated": 1655366700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/ocsp-privacy.html",
+            "title": "Apple reneged on OCSP privacy",
+            "link": "https://lapcatsoftware.com/articles/ocsp-privacy.html",
+            "updated": 1655118000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/SystemSettings2.html",
+            "title": "Why Ventura System Settings is bad, Part 2",
+            "link": "https://lapcatsoftware.com/articles/SystemSettings2.html",
+            "updated": 1654713900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/SystemSettings.html",
+            "title": "Why Ventura System Settings is bad",
+            "link": "https://lapcatsoftware.com/articles/SystemSettings.html",
+            "updated": 1654605300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/InReview2.html",
+            "title": "Apple's director of App Review emailed me",
+            "link": "https://lapcatsoftware.com/articles/InReview2.html",
+            "updated": 1654329300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/InReview.html",
+            "title": "My bug fix update is stuck in App Store review",
+            "link": "https://lapcatsoftware.com/articles/InReview.html",
+            "updated": 1653634200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/pricing.html",
+            "title": "On App Store pricing inflexibility",
+            "link": "https://lapcatsoftware.com/articles/pricing.html",
+            "updated": 1652289600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/img1.html",
+            "title": "Safari <img> solving the wrong problem",
+            "link": "https://lapcatsoftware.com/articles/img1.html",
+            "updated": 1651676700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/AppStoreImprovements.html",
+            "title": "The App Store Improvements process makes no sense",
+            "link": "https://lapcatsoftware.com/articles/AppStoreImprovements.html",
+            "updated": 1651431600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Chrome101Fill.html",
+            "title": "Google Chrome 101 removed Fill passwords on account selection",
+            "link": "https://lapcatsoftware.com/articles/Chrome101Fill.html",
+            "updated": 1650992400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/backup.html",
+            "title": "How do I backup my new MacBook Pro?",
+            "link": "https://lapcatsoftware.com/articles/backup.html",
+            "updated": 1650964500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/impressions-mbp.html",
+            "title": "Impressions of the new MacBook Pro",
+            "link": "https://lapcatsoftware.com/articles/impressions-mbp.html",
+            "updated": 1650360600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/AppleInternal.html",
+            "title": "Why is /AppleInternal factory installed on new Macs?",
+            "link": "https://lapcatsoftware.com/articles/AppleInternal.html",
+            "updated": 1650261300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/macpro.html",
+            "title": "Mac Pro historical perspective",
+            "link": "https://lapcatsoftware.com/articles/macpro.html",
+            "updated": 1649148000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/crappstoreconnect.html",
+            "title": "App Store Connect is the worst web site ever made",
+            "link": "https://lapcatsoftware.com/articles/crappstoreconnect.html",
+            "updated": 1648715400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/sideloading.html",
+            "title": "Do you want me to leave the Apple ecosystem?",
+            "link": "https://lapcatsoftware.com/articles/sideloading.html",
+            "updated": 1648290000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/stephenfry.html",
+            "title": "Misinformation from\u2026 Stephen Fry?",
+            "link": "https://lapcatsoftware.com/articles/stephenfry.html",
+            "updated": 1645520100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/pwa.html",
+            "title": "How to make a home page bookmark to Twitter in Mobile Safari",
+            "link": "https://lapcatsoftware.com/articles/pwa.html",
+            "updated": 1643892300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/siri.html",
+            "title": "Siri may phone home with Ask Siri disabled",
+            "link": "https://lapcatsoftware.com/articles/siri.html",
+            "updated": 1641135000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/storage.html",
+            "title": "iOS 15.2 broke Safari extension preferences storage",
+            "link": "https://lapcatsoftware.com/articles/storage.html",
+            "updated": 1639468500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/pip.html",
+            "title": "You always had the power to PiP on YouTube and everywhere",
+            "link": "https://lapcatsoftware.com/articles/pip.html",
+            "updated": 1638350400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/background.html",
+            "title": "Safari bug: background tabs reactivate",
+            "link": "https://lapcatsoftware.com/articles/background.html",
+            "updated": 1638168300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/history.html",
+            "title": "Safari forgets your history",
+            "link": "https://lapcatsoftware.com/articles/history.html",
+            "updated": 1637509500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/portmapping.html",
+            "title": "DNSServiceNATPortMappingCreate was quietly killed in macOS Monterey",
+            "link": "https://lapcatsoftware.com/articles/portmapping.html",
+            "updated": 1635838800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/blues3.html",
+            "title": "Mass confusion and dislike over Safari extension icon tinting",
+            "link": "https://lapcatsoftware.com/articles/blues3.html",
+            "updated": 1634286900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/blues2.html",
+            "title": "Apple vandalized my icon in the latest betas",
+            "link": "https://lapcatsoftware.com/articles/blues2.html",
+            "updated": 1634195700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/amp.html",
+            "title": "Did iOS 15 kill Google AMP?",
+            "link": "https://lapcatsoftware.com/articles/amp.html",
+            "updated": 1633504200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheScript.html",
+            "title": "StopTheScript",
+            "link": "https://lapcatsoftware.com/articles/StopTheScript.html",
+            "updated": 1633455600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/blues.html",
+            "title": "The Safari extension blues",
+            "link": "https://lapcatsoftware.com/articles/blues.html",
+            "updated": 1632984300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/iOSextensions.html",
+            "title": "Where are the Safari extensions in the iOS App Store?",
+            "link": "https://lapcatsoftware.com/articles/iOSextensions.html",
+            "updated": 1632214800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/chrome-cookie.html",
+            "title": "Google Chrome to remove detailed cookie and site data controls",
+            "link": "https://lapcatsoftware.com/articles/chrome-cookie.html",
+            "updated": 1630651200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/xcrun.html",
+            "title": "Why Xcode tools are slow after reboot",
+            "link": "https://lapcatsoftware.com/articles/xcrun.html",
+            "updated": 1630152000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/purple.html",
+            "title": "The color purple",
+            "link": "https://lapcatsoftware.com/articles/purple.html",
+            "updated": 1629819600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/dark.html",
+            "title": "Dark menu bar and Dock on Big Sur",
+            "link": "https://lapcatsoftware.com/articles/dark.html",
+            "updated": 1629552900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/disappearing-safari.html",
+            "title": "Disappearing Safari extensions",
+            "link": "https://lapcatsoftware.com/articles/disappearing-safari.html",
+            "updated": 1629274800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/macBS.html",
+            "title": "Mac OS update failed for the first time in 19 years",
+            "link": "https://lapcatsoftware.com/articles/macBS.html",
+            "updated": 1629123300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/twitter4.html",
+            "title": "Twitter locked my account (again) for an obvious joke",
+            "link": "https://lapcatsoftware.com/articles/twitter4.html",
+            "updated": 1626943800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/medium.html",
+            "title": "Stop the Medium",
+            "link": "https://lapcatsoftware.com/articles/medium.html",
+            "updated": 1626161400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2021-7-7.html",
+            "title": "Safari extension development: icons",
+            "link": "https://lapcatsoftware.com/articles/2021-7-7.html",
+            "updated": 1625663400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2021-6-11.html",
+            "title": "iOS Safari extensions bug",
+            "link": "https://lapcatsoftware.com/articles/2021-6-11.html",
+            "updated": 1623404700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheMadness-iOS.html",
+            "title": "StopTheMadness for iOS",
+            "link": "https://lapcatsoftware.com/articles/StopTheMadness-iOS.html",
+            "updated": 1623146100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/preload-top-hit.html",
+            "title": "Disable Safari Preload Top Hit",
+            "link": "https://lapcatsoftware.com/articles/preload-top-hit.html",
+            "updated": 1621408500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/trustd.html",
+            "title": "Mac trustd high CPU",
+            "link": "https://lapcatsoftware.com/articles/trustd.html",
+            "updated": 1620712800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/chrome-extension.html",
+            "title": "Porting your Chrome extension to Safari",
+            "link": "https://lapcatsoftware.com/articles/chrome-extension.html",
+            "updated": 1619679900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/hovering.html",
+            "title": "StopTheMadness: Hovering near greatness",
+            "link": "https://lapcatsoftware.com/articles/hovering.html",
+            "updated": 1618996200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/review-folly.html",
+            "title": "Mac App Store review folly",
+            "link": "https://lapcatsoftware.com/articles/review-folly.html",
+            "updated": 1618813800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSURL.html",
+            "title": "NSURL is a bad host",
+            "link": "https://lapcatsoftware.com/articles/NSURL.html",
+            "updated": 1618037400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textedit-gatekeeper.html",
+            "title": "Distributing unnotarized Mac apps in a text file",
+            "link": "https://lapcatsoftware.com/articles/textedit-gatekeeper.html",
+            "updated": 1617390900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mas-notifications.html",
+            "title": "How to stop Mac App Store notifications",
+            "link": "https://lapcatsoftware.com/articles/mas-notifications.html",
+            "updated": 1617013800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/closing.html",
+            "title": "Closing web browser windows doesn't close connections",
+            "link": "https://lapcatsoftware.com/articles/closing.html",
+            "updated": 1615963200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/TRYTHENEWSAFARI.html",
+            "title": "TRY THE NEW SAFARI",
+            "link": "https://lapcatsoftware.com/articles/TRYTHENEWSAFARI.html",
+            "updated": 1615197000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/without-notarization.html",
+            "title": "Distributing Mac apps without notarization",
+            "link": "https://lapcatsoftware.com/articles/without-notarization.html",
+            "updated": 1615102200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/default-browser-bs2.html",
+            "title": "New app: Default web browser",
+            "link": "https://lapcatsoftware.com/articles/default-browser-bs2.html",
+            "updated": 1614957600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/search-engines.html",
+            "title": "How to use multiple search engines in Safari",
+            "link": "https://lapcatsoftware.com/articles/search-engines.html",
+            "updated": 1614711000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mas-updates2.html",
+            "title": "Mac App Store updates failing on Mojave, Part 2",
+            "link": "https://lapcatsoftware.com/articles/mas-updates2.html",
+            "updated": 1614331800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/codesigning.html",
+            "title": "Xcode code signing madness",
+            "link": "https://lapcatsoftware.com/articles/codesigning.html",
+            "updated": 1614070800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/DerivedData.html",
+            "title": "Deleting DerivedData the right way",
+            "link": "https://lapcatsoftware.com/articles/DerivedData.html",
+            "updated": 1612206900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/stop-the-mac-app-store.html",
+            "title": "New app: Stop The Mac App Store",
+            "link": "https://lapcatsoftware.com/articles/stop-the-mac-app-store.html",
+            "updated": 1612206840,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/default-browser-bs.html",
+            "title": "How to change your default web browser on Big Sur",
+            "link": "https://lapcatsoftware.com/articles/default-browser-bs.html",
+            "updated": 1612206780,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mas-updates.html",
+            "title": "Mac App Store updates failing on Mojave",
+            "link": "https://lapcatsoftware.com/articles/mas-updates.html",
+            "updated": 1609244100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/shadow.html",
+            "title": "Undocumented NSShadow change on Catalina",
+            "link": "https://lapcatsoftware.com/articles/shadow.html",
+            "updated": 1608288600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/disclosure3.html",
+            "title": "Disclosure: Yet another macOS privacy protections bypass",
+            "link": "https://lapcatsoftware.com/articles/disclosure3.html",
+            "updated": 1606808100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/BSAppKit.html",
+            "title": "Some BS AppKit notes",
+            "link": "https://lapcatsoftware.com/articles/BSAppKit.html",
+            "updated": 1606497300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-bugs.html",
+            "title": "Safari bugs me",
+            "link": "https://lapcatsoftware.com/articles/Safari-bugs.html",
+            "updated": 1605695100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/ocsp.html",
+            "title": "Apple Developer ID OCSP",
+            "link": "https://lapcatsoftware.com/articles/ocsp.html",
+            "updated": 1605297300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/revocation.html",
+            "title": "Developer ID certificate revocation",
+            "link": "https://lapcatsoftware.com/articles/revocation.html",
+            "updated": 1603959900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/chrome-google.html",
+            "title": "Chrome exempts Google sites from user site data settings",
+            "link": "https://lapcatsoftware.com/articles/chrome-google.html",
+            "updated": 1602057000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/gif.html",
+            "title": "Stop animated GIFs in Safari",
+            "link": "https://lapcatsoftware.com/articles/gif.html",
+            "updated": 1601543400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/right-click.html",
+            "title": "Can't you just right click? Yes, with a workflow.",
+            "link": "https://lapcatsoftware.com/articles/right-click.html",
+            "updated": 1601205300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/containers.html",
+            "title": "macOS Containers and defaults",
+            "link": "https://lapcatsoftware.com/articles/containers.html",
+            "updated": 1600760700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/web-extension-bug.html",
+            "title": "Safari web extension bug",
+            "link": "https://lapcatsoftware.com/articles/web-extension-bug.html",
+            "updated": 1600356900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/facebook.html",
+            "title": "Stop Facebook click tracking",
+            "link": "https://lapcatsoftware.com/articles/facebook.html",
+            "updated": 1599817200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/your-honor.html",
+            "title": "Your Honor, what about the Mac?",
+            "link": "https://lapcatsoftware.com/articles/your-honor.html",
+            "updated": 1598518800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/unsigned.html",
+            "title": "Can't you just right click?",
+            "link": "https://lapcatsoftware.com/articles/unsigned.html",
+            "updated": 1597732200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/jukebox.html",
+            "title": "App Store is neither console nor retail but jukebox",
+            "link": "https://lapcatsoftware.com/articles/jukebox.html",
+            "updated": 1597494300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/news.html",
+            "title": "News+ privacy on Big Sur",
+            "link": "https://lapcatsoftware.com/articles/news.html",
+            "updated": 1597133400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/PSA.html",
+            "title": "PSA if you ever ran my SafariPrivacyTest sample app",
+            "link": "https://lapcatsoftware.com/articles/PSA.html",
+            "updated": 1596203400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheSwift2.html",
+            "title": "Stop the Swift 2.0",
+            "link": "https://lapcatsoftware.com/articles/StopTheSwift2.html",
+            "updated": 1596010500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/AppStoreConnect.html",
+            "title": "App Store Connect and StopTheMadness",
+            "link": "https://lapcatsoftware.com/articles/AppStoreConnect.html",
+            "updated": 1595492700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheSwift.html",
+            "title": "Stop the Swift",
+            "link": "https://lapcatsoftware.com/articles/StopTheSwift.html",
+            "updated": 1594747500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/recovery.html",
+            "title": "macOS Recovery: Bug or Feature?",
+            "link": "https://lapcatsoftware.com/articles/recovery.html",
+            "updated": 1594304400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/FindTheMadness.html",
+            "title": "Introducing the free Safari extension FindTheMadness",
+            "link": "https://lapcatsoftware.com/articles/FindTheMadness.html",
+            "updated": 1594042500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/disclosure2.html",
+            "title": "Disclosure: Another macOS privacy protections bypass",
+            "link": "https://lapcatsoftware.com/articles/disclosure2.html",
+            "updated": 1593493200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bigsur3.html",
+            "title": "Better disassembly on macOS Big Sur",
+            "link": "https://lapcatsoftware.com/articles/bigsur3.html",
+            "updated": 1593252900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bigsur2.html",
+            "title": "Objective-C disassembly on macOS Big Sur",
+            "link": "https://lapcatsoftware.com/articles/bigsur2.html",
+            "updated": 1593075000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bigsur.html",
+            "title": "Extract the system libraries on macOS Big Sur",
+            "link": "https://lapcatsoftware.com/articles/bigsur.html",
+            "updated": 1593021300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/duckduckgo.html",
+            "title": "Stop DuckDuckGo clickjacking",
+            "link": "https://lapcatsoftware.com/articles/duckduckgo.html",
+            "updated": 1592212500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mouse-tracking.html",
+            "title": "StopTheMadness can now stop mouse tracking",
+            "link": "https://lapcatsoftware.com/articles/mouse-tracking.html",
+            "updated": 1590993300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/logging-https.html",
+            "title": "Logging https requests and responses of Apple system processes",
+            "link": "https://lapcatsoftware.com/articles/logging-https.html",
+            "updated": 1590899400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/software-update.html",
+            "title": "Software Update changes in the latest macOS releases",
+            "link": "https://lapcatsoftware.com/articles/software-update.html",
+            "updated": 1590513600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mystery-phantom-app-updates2.html",
+            "title": "The Mystery of the Phantom App Updates, Part 2",
+            "link": "https://lapcatsoftware.com/articles/mystery-phantom-app-updates2.html",
+            "updated": 1590418200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/catalina-executables.html",
+            "title": "Catalina is checking notarization of unsigned executables",
+            "link": "https://lapcatsoftware.com/articles/catalina-executables.html",
+            "updated": 1590177900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/link-unshortener-ios.html",
+            "title": "Link Unshortener for iOS",
+            "link": "https://lapcatsoftware.com/articles/link-unshortener-ios.html",
+            "updated": 1589888700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/kindof.html",
+            "title": "__kindof useful?",
+            "link": "https://lapcatsoftware.com/articles/kindof.html",
+            "updated": 1589700900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/daring-fireball.html",
+            "title": "Stop the Daring Fireball?",
+            "link": "https://lapcatsoftware.com/articles/daring-fireball.html",
+            "updated": 1589195400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/universal-links.html",
+            "title": "Stop 'Open in the Twitter app' in Safari Catalina",
+            "link": "https://lapcatsoftware.com/articles/universal-links.html",
+            "updated": 1588955100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/gmail.html",
+            "title": "Stop Gmail click tracking",
+            "link": "https://lapcatsoftware.com/articles/gmail.html",
+            "updated": 1588761000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/sandbox-escape2.html",
+            "title": "Reflections on the Mac sandbox escape",
+            "link": "https://lapcatsoftware.com/articles/sandbox-escape2.html",
+            "updated": 1588230000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/sandbox-escape.html",
+            "title": "Mac sandbox escape",
+            "link": "https://lapcatsoftware.com/articles/sandbox-escape.html",
+            "updated": 1587991500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSFormatter.html",
+            "title": "NSFormatter allows invalid values",
+            "link": "https://lapcatsoftware.com/articles/NSFormatter.html",
+            "updated": 1587802200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/working-without-a-nib-part-12.html",
+            "title": "Working without a nib, Part 12: NSWindow memory management",
+            "link": "https://lapcatsoftware.com/articles/working-without-a-nib-part-12.html",
+            "updated": 1587459000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/contextmenu.html",
+            "title": "Bad Safari extensions bug with context menus",
+            "link": "https://lapcatsoftware.com/articles/contextmenu.html",
+            "updated": 1587376200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/link-unshortener.html",
+            "title": "Introducing Link Unshortener",
+            "link": "https://lapcatsoftware.com/articles/link-unshortener.html",
+            "updated": 1586880900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/xcode-indexing-tip.html",
+            "title": "Xcode indexing tip",
+            "link": "https://lapcatsoftware.com/articles/xcode-indexing-tip.html",
+            "updated": 1586695500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/learning.html",
+            "title": "Resources for learning Objective-C and AppKit",
+            "link": "https://lapcatsoftware.com/articles/learning.html",
+            "updated": 1585726800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/underpass.html",
+            "title": "Underpass is back (though it never left)",
+            "link": "https://lapcatsoftware.com/articles/underpass.html",
+            "updated": 1585572300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/enable-extensions.html",
+            "title": "Safari bug: can't enable extensions on Catalina",
+            "link": "https://lapcatsoftware.com/articles/enable-extensions.html",
+            "updated": 1585131600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-runs-disabled-extensions2.html",
+            "title": "Safari no longer runs disabled extensions",
+            "link": "https://lapcatsoftware.com/articles/Safari-runs-disabled-extensions2.html",
+            "updated": 1585066800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/nutshell.html",
+            "title": "Mac App Store in a nutshell",
+            "link": "https://lapcatsoftware.com/articles/nutshell.html",
+            "updated": 1584945900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/paypalme.html",
+            "title": "PayPal Me",
+            "link": "https://lapcatsoftware.com/articles/paypalme.html",
+            "updated": 1584543300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/rip-relative.html",
+            "title": "Resolve rip-relative addresses from otool",
+            "link": "https://lapcatsoftware.com/articles/rip-relative.html",
+            "updated": 1583651400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/decimation.html",
+            "title": "The decimation of Safari extensions",
+            "link": "https://lapcatsoftware.com/articles/decimation.html",
+            "updated": 1583157600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheMadness11.html",
+            "title": "StopTheMadness for Mac adds Chrome, Edge, and Brave!",
+            "link": "https://lapcatsoftware.com/articles/StopTheMadness11.html",
+            "updated": 1581585600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-runs-disabled-extensions.html",
+            "title": "Safari runs disabled extensions",
+            "link": "https://lapcatsoftware.com/articles/Safari-runs-disabled-extensions.html",
+            "updated": 1580031600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/fatalError.html",
+            "title": "Swift fatalError is a fatal error",
+            "link": "https://lapcatsoftware.com/articles/fatalError.html",
+            "updated": 1579081800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/apple-security-bounty.html",
+            "title": "Questions about the Apple Security Bounty",
+            "link": "https://lapcatsoftware.com/articles/apple-security-bounty.html",
+            "updated": 1578924000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/security-safari-extensions.html",
+            "title": "The security of Safari extensions",
+            "link": "https://lapcatsoftware.com/articles/security-safari-extensions.html",
+            "updated": 1578480300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-caching.html",
+            "title": "How to stop Safari for Mac disk caching",
+            "link": "https://lapcatsoftware.com/articles/Safari-caching.html",
+            "updated": 1578321000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/notarization2.html",
+            "title": "Revisited: The true and false security benefits of Mac app notarization",
+            "link": "https://lapcatsoftware.com/articles/notarization2.html",
+            "updated": 1576935600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/macl.html",
+            "title": "Undocumented Catalina file access change",
+            "link": "https://lapcatsoftware.com/articles/macl.html",
+            "updated": 1576658700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/hardened-runtime-xpc.html",
+            "title": "Hardened Runtime and XPC Services",
+            "link": "https://lapcatsoftware.com/articles/hardened-runtime-xpc.html",
+            "updated": 1573304100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSAssert.html",
+            "title": "NSAssert considered harmless",
+            "link": "https://lapcatsoftware.com/articles/NSAssert.html",
+            "updated": 1573217400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/hardened-runtime-sandboxing2.html",
+            "title": "Hardened Runtime and Sandboxing Revisited",
+            "link": "https://lapcatsoftware.com/articles/hardened-runtime-sandboxing2.html",
+            "updated": 1573128600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/disclosure.html",
+            "title": "Disclosure: macOS privacy protections bypass",
+            "link": "https://lapcatsoftware.com/articles/disclosure.html",
+            "updated": 1570601400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bug-bounty.html",
+            "title": "What happened to the Mac bug bounty program?",
+            "link": "https://lapcatsoftware.com/articles/bug-bounty.html",
+            "updated": 1570518600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-extensions-gallery2.html",
+            "title": "The Safari Extensions Gallery is no longer available",
+            "link": "https://lapcatsoftware.com/articles/Safari-extensions-gallery2.html",
+            "updated": 1567585800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-extensions-gallery.html",
+            "title": "Important Information Regarding the Safari Extensions Gallery",
+            "link": "https://lapcatsoftware.com/articles/Safari-extensions-gallery.html",
+            "updated": 1566920100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/zoom.html",
+            "title": "A problem worse than Zoom",
+            "link": "https://lapcatsoftware.com/articles/zoom.html",
+            "updated": 1562831400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-autosubmit.html",
+            "title": "Stop Safari from autosubmitting login forms",
+            "link": "https://lapcatsoftware.com/articles/Safari-autosubmit.html",
+            "updated": 1562048400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/private-browsing.html",
+            "title": "Private browsing in Safari with StopTheMadness",
+            "link": "https://lapcatsoftware.com/articles/private-browsing.html",
+            "updated": 1560152100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/catalina.html",
+            "title": "Catalina app compatibility",
+            "link": "https://lapcatsoftware.com/articles/catalina.html",
+            "updated": 1559899200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/twitter3.html",
+            "title": "My Twitter account has been locked for a third time",
+            "link": "https://lapcatsoftware.com/articles/twitter3.html",
+            "updated": 1559807700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/appstore.html",
+            "title": "We believe that what\u2019s in our store says a lot about who we are",
+            "link": "https://lapcatsoftware.com/articles/appstore.html",
+            "updated": 1559202300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheNews.html",
+            "title": "Introducing StopTheNews",
+            "link": "https://lapcatsoftware.com/articles/StopTheNews.html",
+            "updated": 1556966700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/anniversary.html",
+            "title": "StopTheMadness First Anniversary",
+            "link": "https://lapcatsoftware.com/articles/anniversary.html",
+            "updated": 1556608500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/chrome-hyperlink-auditing.html",
+            "title": "Google Chrome can no longer disable hyperlink auditing",
+            "link": "https://lapcatsoftware.com/articles/chrome-hyperlink-auditing.html",
+            "updated": 1556035200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/notarization.html",
+            "title": "The true and false security benefits of Mac app notarization",
+            "link": "https://lapcatsoftware.com/articles/notarization.html",
+            "updated": 1555842900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-link-tracking4.html",
+            "title": "More madness stopped: beacons",
+            "link": "https://lapcatsoftware.com/articles/Safari-link-tracking4.html",
+            "updated": 1555525200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-link-tracking3.html",
+            "title": "The madness stopped: anchor ping",
+            "link": "https://lapcatsoftware.com/articles/Safari-link-tracking3.html",
+            "updated": 1555137900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/affiliate.html",
+            "title": "Postmortem: iTunes Affiliate for apps",
+            "link": "https://lapcatsoftware.com/articles/affiliate.html",
+            "updated": 1554883200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-link-tracking2.html",
+            "title": "Some thoughts on anchor ping",
+            "link": "https://lapcatsoftware.com/articles/Safari-link-tracking2.html",
+            "updated": 1554708600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/Safari-link-tracking.html",
+            "title": "Safari link tracking can no longer be disabled",
+            "link": "https://lapcatsoftware.com/articles/Safari-link-tracking.html",
+            "updated": 1554309000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/netservice-nuthouse.html",
+            "title": "NetService NutHouse",
+            "link": "https://lapcatsoftware.com/articles/netservice-nuthouse.html",
+            "updated": 1552547700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/twitter-locked-again.html",
+            "title": "My Twitter account has been locked again",
+            "link": "https://lapcatsoftware.com/articles/twitter-locked-again.html",
+            "updated": 1551031200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/finally-credit.html",
+            "title": "Finally credit from Apple Product Security",
+            "link": "https://lapcatsoftware.com/articles/finally-credit.html",
+            "updated": 1550479500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mojave-privacy3.html",
+            "title": "Spying on Safari in Mojave",
+            "link": "https://lapcatsoftware.com/articles/mojave-privacy3.html",
+            "updated": 1549701000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/still-no-credit.html",
+            "title": "Still no credit from Apple Product Security",
+            "link": "https://lapcatsoftware.com/articles/still-no-credit.html",
+            "updated": 1549613400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/google-search.html",
+            "title": "Stop Google Search Results Tracking",
+            "link": "https://lapcatsoftware.com/articles/google-search.html",
+            "updated": 1547726700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheMadness-Firefox.html",
+            "title": "StopTheMadness for Firefox",
+            "link": "https://lapcatsoftware.com/articles/StopTheMadness-Firefox.html",
+            "updated": 1547653200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mas-safari-extensions.html",
+            "title": "The Mac App Store Safari Extensions Experience",
+            "link": "https://lapcatsoftware.com/articles/mas-safari-extensions.html",
+            "updated": 1545388500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textview4.html",
+            "title": "Text view adventures, Part 4",
+            "link": "https://lapcatsoftware.com/articles/textview4.html",
+            "updated": 1544783400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textview3.html",
+            "title": "Text view adventures, Part 3",
+            "link": "https://lapcatsoftware.com/articles/textview3.html",
+            "updated": 1544603700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/notarization-privacy.html",
+            "title": "Mac app notarization and customer privacy",
+            "link": "https://lapcatsoftware.com/articles/notarization-privacy.html",
+            "updated": 1544082900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textview2.html",
+            "title": "Text view adventures, Part 2",
+            "link": "https://lapcatsoftware.com/articles/textview2.html",
+            "updated": 1543998600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/textview1.html",
+            "title": "Text view adventures, Part 1",
+            "link": "https://lapcatsoftware.com/articles/textview1.html",
+            "updated": 1543672800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/hardened-runtime-sandboxing.html",
+            "title": "Hardened Runtime and Sandboxing",
+            "link": "https://lapcatsoftware.com/articles/hardened-runtime-sandboxing.html",
+            "updated": 1542354300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mojave-privacy2.html",
+            "title": "macOS 10.14.1 Privacy: What's fixed and what's not",
+            "link": "https://lapcatsoftware.com/articles/mojave-privacy2.html",
+            "updated": 1541185200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/bundles.html",
+            "title": "Mac App Store Bundles",
+            "link": "https://lapcatsoftware.com/articles/bundles.html",
+            "updated": 1541055600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/rickroll.html",
+            "title": "Rickroll Resurrected",
+            "link": "https://lapcatsoftware.com/articles/rickroll.html",
+            "updated": 1540539900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mail2step.html",
+            "title": "Mac Mail with Google 2-step and Yubico",
+            "link": "https://lapcatsoftware.com/articles/mail2step.html",
+            "updated": 1539695100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/mojave-privacy.html",
+            "title": "Another hole in Mojave privacy protection",
+            "link": "https://lapcatsoftware.com/articles/mojave-privacy.html",
+            "updated": 1537968000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/nocookie.html",
+            "title": "No cookie for you!",
+            "link": "https://lapcatsoftware.com/articles/nocookie.html",
+            "updated": 1537452600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/prevent-app-nap.html",
+            "title": "Prevent App Nap Programmatically",
+            "link": "https://lapcatsoftware.com/articles/prevent-app-nap.html",
+            "updated": 1534931700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/race-to-under-the-bottom.html",
+            "title": "Race to Under the Bottom",
+            "link": "https://lapcatsoftware.com/articles/race-to-under-the-bottom.html",
+            "updated": 1533637800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/stop-the-mad-icon.html",
+            "title": "Stop The Mad Icon",
+            "link": "https://lapcatsoftware.com/articles/stop-the-mad-icon.html",
+            "updated": 1532598000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/macbookpro.html",
+            "title": "Ode to a MacBook Pro",
+            "link": "https://lapcatsoftware.com/articles/macbookpro.html",
+            "updated": 1531393200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/NSOnState.html",
+            "title": "NSOnState is deprecated",
+            "link": "https://lapcatsoftware.com/articles/NSOnState.html",
+            "updated": 1530515100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/debugging-mojave.html",
+            "title": "Debugging on Mojave",
+            "link": "https://lapcatsoftware.com/articles/debugging-mojave.html",
+            "updated": 1528700100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/translocation-safari.html",
+            "title": "App Translocation and Safari App Extensions",
+            "link": "https://lapcatsoftware.com/articles/translocation-safari.html",
+            "updated": 1526892900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/twitter-locked.html",
+            "title": "My Twitter account has been locked",
+            "link": "https://lapcatsoftware.com/articles/twitter-locked.html",
+            "updated": 1526446200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/StopTheMadness.html",
+            "title": "Stop The Madness",
+            "link": "https://lapcatsoftware.com/articles/StopTheMadness.html",
+            "updated": 1525077780,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/13weeks.html",
+            "title": "A Record 13 Weeks",
+            "link": "http://lapcatsoftware.com/articles/13weeks.html",
+            "updated": 1517500500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/holiday-gift.html",
+            "title": "A holiday gift",
+            "link": "http://lapcatsoftware.com/articles/holiday-gift.html",
+            "updated": 1514367000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/key-difference.html",
+            "title": "Key difference between Dictionary and NSDictionary",
+            "link": "http://lapcatsoftware.com/articles/key-difference.html",
+            "updated": 1512379800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/mystery-phantom-app-updates.html",
+            "title": "The Mystery of the Phantom App Updates",
+            "link": "http://lapcatsoftware.com/articles/mystery-phantom-app-updates.html",
+            "updated": 1511515800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/working-without-a-nib-part-11.html",
+            "title": "Working without a nib, Part 11: Why?",
+            "link": "http://lapcatsoftware.com/articles/working-without-a-nib-part-11.html",
+            "updated": 1508480100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/local-variables-are-still-free.html",
+            "title": "Local variables are still free, in Swift",
+            "link": "http://lapcatsoftware.com/articles/local-variables-are-still-free.html",
+            "updated": 1507970700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/free-as-in-app.html",
+            "title": "Free as in app",
+            "link": "http://lapcatsoftware.com/articles/free-as-in-app.html",
+            "updated": 1507541100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/nsstringencoding.html",
+            "title": "NSStringEncoding Considered Harmful",
+            "link": "http://lapcatsoftware.com/articles/nsstringencoding.html",
+            "updated": 1504262700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/xcconfig.html",
+            "title": "Go all in with xcconfig",
+            "link": "http://lapcatsoftware.com/articles/xcconfig.html",
+            "updated": 1503487800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/nsnotificationcenter-is-threadsafe.html",
+            "title": "NSNotificationCenter is thread-safe NOT NOT",
+            "link": "http://lapcatsoftware.com/articles/nsnotificationcenter-is-threadsafe.html",
+            "updated": 1500886800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/working-without-a-nib-part-10.html",
+            "title": "Working without a nib, Part 10: Mac Main Menu",
+            "link": "http://lapcatsoftware.com/articles/working-without-a-nib-part-10.html",
+            "updated": 1498723200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/podcast.html",
+            "title": "I was on a podcast",
+            "link": "http://lapcatsoftware.com/articles/podcast.html",
+            "updated": 1498557600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/porting.html",
+            "title": "Porting Objective-C to Swift",
+            "link": "http://lapcatsoftware.com/articles/porting.html",
+            "updated": 1497859800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/annotations.html",
+            "title": "Problems with Objective-C annotations",
+            "link": "http://lapcatsoftware.com/articles/annotations.html",
+            "updated": 1492247400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/not-just-mac-pro.html",
+            "title": "Not just the Mac Pro",
+            "link": "http://lapcatsoftware.com/articles/not-just-mac-pro.html",
+            "updated": 1491300000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/twitter-mute.html",
+            "title": "Twitter only mutes 100 keywords",
+            "link": "http://lapcatsoftware.com/articles/twitter-mute.html",
+            "updated": 1491127200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/autoresizing-uitextview.html",
+            "title": "Autoresizing UITextView",
+            "link": "http://lapcatsoftware.com/articles/autoresizing-uitextview.html",
+            "updated": 1488274200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/whither-swift.html",
+            "title": "Whither Swift?",
+            "link": "http://lapcatsoftware.com/articles/whither-swift.html",
+            "updated": 1485948000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/14weeks-followup.html",
+            "title": "Follow-up on a Record 14 Weeks",
+            "link": "http://lapcatsoftware.com/articles/14weeks-followup.html",
+            "updated": 1486198800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/slow-week.html",
+            "title": "Slow Week?",
+            "link": "http://lapcatsoftware.com/articles/slow-week.html",
+            "updated": 1486060200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/14weeks.html",
+            "title": "A Record 14 Weeks",
+            "link": "http://lapcatsoftware.com/articles/14weeks.html",
+            "updated": 1485933600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/70cents.html",
+            "title": "70 Cents Put Me on the Mac App Store Charts",
+            "link": "http://lapcatsoftware.com/articles/70cents.html",
+            "updated": 1485854400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/working-without-a-nib-part-9-shipping.html",
+            "title": "Working without a nib, Part 9: Shipping without a nib",
+            "link": "http://lapcatsoftware.com/articles/working-without-a-nib-part-9-shipping.html",
+            "updated": 1485343200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/inaugurating-underpass.html",
+            "title": "Inaugurating Underpass",
+            "link": "http://lapcatsoftware.com/articles/inaugurating-underpass.html",
+            "updated": 1484727300,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/preannouncement.html",
+            "title": "Preannouncement",
+            "link": "http://lapcatsoftware.com/articles/preannouncement.html",
+            "updated": 1481533200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/textured-tabbed-windows.html",
+            "title": "Textured Tabbed Windows",
+            "link": "http://lapcatsoftware.com/articles/textured-tabbed-windows.html",
+            "updated": 1480922700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/we-dont-need-no-stinking-badges.html",
+            "title": "We don't need no stinking badges",
+            "link": "http://lapcatsoftware.com/articles/we-dont-need-no-stinking-badges.html",
+            "updated": 1477897200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/working-without-a-nib-part-8-the-nib-awakens.html",
+            "title": "Working without a nib, Part 8: The nib awakens",
+            "link": "http://lapcatsoftware.com/articles/working-without-a-nib-part-8-the-nib-awakens.html",
+            "updated": 1476702000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/translocate-relocated.html",
+            "title": "Translocate Relocated",
+            "link": "http://lapcatsoftware.com/articles/translocate-relocated.html",
+            "updated": 1475823900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/distributing-outside-the-mac-app-store.html",
+            "title": "Distributing Outside the Mac App Store",
+            "link": "http://lapcatsoftware.com/articles/distributing-outside-the-mac-app-store.html",
+            "updated": 1475777100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/caveat-formatter.html",
+            "title": "Caveat Formatter",
+            "link": "http://lapcatsoftware.com/articles/caveat-formatter.html",
+            "updated": 1474892700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/symmetric-encryption.html",
+            "title": "Symmetric Encryption",
+            "link": "http://lapcatsoftware.com/articles/symmetric-encryption.html",
+            "updated": 1474745400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/keychain-sync.html",
+            "title": "Keychain Sync",
+            "link": "http://lapcatsoftware.com/articles/keychain-sync.html",
+            "updated": 1474142700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/mia-sectranslocate.html",
+            "title": "MIA: SecTranslocate",
+            "link": "http://lapcatsoftware.com/articles/mia-sectranslocate.html",
+            "updated": 1471375800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/detect-app-translocation.html",
+            "title": "Detect App Translocation Without the 10.12 SDK",
+            "link": "http://lapcatsoftware.com/articles/detect-app-translocation.html",
+            "updated": 1469514600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/trust.html",
+            "title": "Trust",
+            "link": "http://lapcatsoftware.com/articles/trust.html",
+            "updated": 1467272100,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/in-memoriam.html",
+            "title": "In Memoriam",
+            "link": "http://lapcatsoftware.com/articles/in-memoriam.html",
+            "updated": 1466187900,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/undo.html",
+            "title": "Undo",
+            "link": "http://lapcatsoftware.com/articles/undo.html",
+            "updated": 1466066700,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/zero-day.html",
+            "title": "Zero Day?",
+            "link": "http://lapcatsoftware.com/articles/zero-day.html",
+            "updated": 1466014500,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/app-translocation.html",
+            "title": "App Translocation",
+            "link": "http://lapcatsoftware.com/articles/app-translocation.html",
+            "updated": 1465919400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/twitter.html",
+            "title": "What's Wrong With Twitter",
+            "link": "http://lapcatsoftware.com/articles/twitter.html",
+            "updated": 1460961600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/sectransformexecuteasync-considered-confusing.html",
+            "title": "SecTransformExecuteAsync Considered Confusing",
+            "link": "http://lapcatsoftware.com/articles/sectransformexecuteasync-considered-confusing.html",
+            "updated": 1451383200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/openssl-blues.html",
+            "title": "The OpenSSL Blues",
+            "link": "http://lapcatsoftware.com/articles/openssl-blues.html",
+            "updated": 1443862200,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/checking-for-el-capitan.html",
+            "title": "Checking for El Capitan",
+            "link": "http://lapcatsoftware.com/articles/checking-for-el-capitan.html",
+            "updated": 1438509600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/validate-project-settings-never.html",
+            "title": "Validate Project Settings: Never!",
+            "link": "http://lapcatsoftware.com/articles/validate-project-settings-never.html",
+            "updated": 1428057600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/lack-of-communication.html",
+            "title": "Lack of Communication",
+            "link": "http://lapcatsoftware.com/articles/lack-of-communication.html",
+            "updated": 1411452000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/breaking-the-resource-rules.html",
+            "title": "Breaking the resource rules",
+            "link": "http://lapcatsoftware.com/articles/breaking-the-resource-rules.html",
+            "updated": 1407223800,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/nsnotificationcenter-is-threadsafe-not.html",
+            "title": "NSNotificationCenter is thread-safe NOT",
+            "link": "http://lapcatsoftware.com/articles/nsnotificationcenter-is-threadsafe-not.html",
+            "updated": 1398074400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/cancel-wwdc.html",
+            "title": "Cancel WWDC",
+            "link": "http://lapcatsoftware.com/articles/cancel-wwdc.html",
+            "updated": 1397381400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/dispatch-queues-and-run-loop-modes.html",
+            "title": "Dispatch Queues and Run Loop Modes",
+            "link": "http://lapcatsoftware.com/articles/dispatch-queues-and-run-loop-modes.html",
+            "updated": 1396859400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/mark-not-all-as-read.html",
+            "title": "Mark Not All as Read",
+            "link": "http://lapcatsoftware.com/articles/mark-not-all-as-read.html",
+            "updated": 1396769400,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/winter-is-coming.html",
+            "title": "Winter is Coming",
+            "link": "http://lapcatsoftware.com/articles/winter-is-coming.html",
+            "updated": 1396695600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/xcode3onmountainlion.html",
+            "title": "The Definitive Guide to Installing Xcode 3 on Mountain Lion (Without Kernel Panics)",
+            "link": "http://lapcatsoftware.com/articles/xcode3onmountainlion.html",
+            "updated": 1367751600,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        },
+        {
+            "id": "http://lapcatsoftware.com/articles/sdkvsdeploymenttarget.html",
+            "title": "SDK vs. Deployment Target",
+            "link": "http://lapcatsoftware.com/articles/sdkvsdeploymenttarget.html",
+            "updated": 1367730000,
+            "site_name": "Jeff Johnson\u2019s Blog"
+        }
+    ]
+}

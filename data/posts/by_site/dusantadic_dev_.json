@@ -1,0 +1,19 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.dusantadic.dev/post/how-not-to-use-enums/",
+            "title": "How not to use enums in Swift",
+            "link": "https://www.dusantadic.dev/post/how-not-to-use-enums/",
+            "updated": 1558166539,
+            "site_name": "Du\u0161an Tadi\u0107\u2019s Blog"
+        },
+        {
+            "id": "https://www.dusantadic.dev/post/make-uicontrol-more-swifty/",
+            "title": "Make UIControl More Swifty",
+            "link": "https://www.dusantadic.dev/post/make-uicontrol-more-swifty/",
+            "updated": 1552144303,
+            "site_name": "Du\u0161an Tadi\u0107\u2019s Blog"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714471071,
+    "posts": [
+        {
+            "id": "https://medium.com/p/d92b386f9a33",
+            "title": "The power of open-source. Making Maestro work better with Flutter",
+            "link": "https://blog.mobile.dev/the-power-of-open-source-making-maestro-work-better-with-flutter-d92b386f9a33?source=rss----d95a079d5277---4",
+            "updated": 1711777406,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/dc38403ff7b6",
+            "title": "Music App UI Testing Series: End-to-End Flutter Testing with Maestro\u200a\u2014\u200aPart 2",
+            "link": "https://blog.mobile.dev/music-app-ui-testing-series-end-to-end-flutter-testing-with-maestro-part-2-dc38403ff7b6?source=rss----d95a079d5277---4",
+            "updated": 1697556448,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/01c6f71f0eb4",
+            "title": "Music App UI Testing Series: Getting Started with Maestro in Flutter\u200a\u2014\u200aPart 1",
+            "link": "https://blog.mobile.dev/music-app-ui-testing-series-getting-started-with-maestro-in-flutter-part-1-01c6f71f0eb4?source=rss----d95a079d5277---4",
+            "updated": 1696452460,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/7ea6258646e0",
+            "title": "What\u2019s New in Maestro: 1.33.0",
+            "link": "https://blog.mobile.dev/whats-new-in-maestro-1-33-0-7ea6258646e0?source=rss----d95a079d5277---4",
+            "updated": 1695737847,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/ff6257ddd173",
+            "title": "Pokedex UI Testing Series: Taking Maestro to the Cloud with Expo EAS & GitHub Actions\u200a\u2014\u200aPart 3",
+            "link": "https://blog.mobile.dev/pokedex-ui-testing-series-taking-maestro-to-the-cloud-with-expo-eas-github-actions-part-3-ff6257ddd173?source=rss----d95a079d5277---4",
+            "updated": 1695313942,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/c032a546ad78",
+            "title": "What\u2019s New in Maestro: 1.32.0",
+            "link": "https://blog.mobile.dev/whats-new-in-maestro-1-32-0-c032a546ad78?source=rss----d95a079d5277---4",
+            "updated": 1694025502,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/fe3c4d67c994",
+            "title": "Pokedex UI Testing Series: A Guide to End-to-End React Native Testing with Maestro\u200a\u2014\u200aPart 2",
+            "link": "https://blog.mobile.dev/pokedex-ui-testing-series-a-guide-to-end-to-end-react-native-testing-with-maestro-part-2-fe3c4d67c994?source=rss----d95a079d5277---4",
+            "updated": 1693678273,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/4839abc74aee",
+            "title": "Fixing Android\u2019s 3-minute screen recording limitation",
+            "link": "https://blog.mobile.dev/fixing-androids-3-minute-screen-recording-limitation-4839abc74aee?source=rss----d95a079d5277---4",
+            "updated": 1692867542,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/73c6dfaa072",
+            "title": "Pokedex UI Testing Series: Getting Started with Maestro in Expo & React Native\u200a\u2014\u200aPart 1",
+            "link": "https://blog.mobile.dev/pokedex-ui-testing-series-getting-started-with-maestro-in-expo-react-native-part-1-73c6dfaa072?source=rss----d95a079d5277---4",
+            "updated": 1695231630,
+            "site_name": "mobile.dev Blog"
+        },
+        {
+            "id": "https://medium.com/p/6715d2f5397e",
+            "title": "What\u2019s New in Maestro: 1.31.0",
+            "link": "https://blog.mobile.dev/whats-new-in-maestro-1-31-0-6715d2f5397e?source=rss----d95a079d5277---4",
+            "updated": 1691682967,
+            "site_name": "mobile.dev Blog"
+        }
+    ]
+}

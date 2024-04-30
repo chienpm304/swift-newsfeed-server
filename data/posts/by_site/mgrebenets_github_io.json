@@ -1,0 +1,355 @@
+{
+    "updated": 1714470898,
+    "posts": [
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2019/06/24/kotlin-teamcity-rest-client",
+            "title": "TeamCity Kotlin REST Client",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2019/06/24/kotlin-teamcity-rest-client",
+            "updated": 1561309200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/xcode/2019/05/12/xcode-build-settings-in-depth",
+            "title": "Xcode Build Settings in Depth",
+            "link": "https://mgrebenets.github.io/xcode/2019/05/12/xcode-build-settings-in-depth",
+            "updated": 1557594000,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/fastlane/2019/04/07/fastlane-for-enterprise",
+            "title": "Fastlane for Enterprise",
+            "link": "https://mgrebenets.github.io/fastlane/2019/04/07/fastlane-for-enterprise",
+            "updated": 1554570000,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/xcode/2019/04/04/xcode-build-phases-and-environment",
+            "title": "Xcode Build Phases and Environment",
+            "link": "https://mgrebenets.github.io/xcode/2019/04/04/xcode-build-phases-and-environment",
+            "updated": 1554310800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/06/swift-refactoring---summary",
+            "title": "Swift Refactoring - Summary",
+            "link": "https://mgrebenets.github.io/swift/2019/02/06/swift-refactoring-summary",
+            "updated": 1549386000,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/05/swift-refactoring---debugging",
+            "title": "Swift Refactoring - Debugging",
+            "link": "https://mgrebenets.github.io/swift/2019/02/05/swift-refactoring-debugging",
+            "updated": 1549299600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/04/swift-refactoring---implementation-p2",
+            "title": "Swift Refactoring - Implementation - Part 2",
+            "link": "https://mgrebenets.github.io/swift/2019/02/04/swift-refactoring-implementation-p2",
+            "updated": 1549213200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/04/swift-refactoring---implementation-p1",
+            "title": "Swift Refactoring - Implementation - Part 1",
+            "link": "https://mgrebenets.github.io/swift/2019/02/04/swift-refactoring-implementation-p1",
+            "updated": 1549213200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/03/swift-refactoring---tests",
+            "title": "Swift Refactoring - Tests",
+            "link": "https://mgrebenets.github.io/swift/2019/02/03/swift-refactoring-tests",
+            "updated": 1549126800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/02/swift-refactoring---setup",
+            "title": "Swift Refactoring - Setup",
+            "link": "https://mgrebenets.github.io/swift/2019/02/02/swift-refactoring-setup",
+            "updated": 1549040400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2019/02/01/swift-refactoring---intro",
+            "title": "Swift Refactoring - Intro",
+            "link": "https://mgrebenets.github.io/swift/2019/02/01/swift-refactoring-intro",
+            "updated": 1548954000,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/10/08/async-swift-scripting",
+            "title": "Async Swift Scripting",
+            "link": "https://mgrebenets.github.io/swift/2015/10/08/async-swift-scripting",
+            "updated": 1444237200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/09/21/code-coverage-for-ios-xcode-7",
+            "title": "Code Coverage for iOS (Xcode 7)",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/09/21/code-coverage-for-ios-xcode-7",
+            "updated": 1442768400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/06/21/equatable-nsobject-with-swift-2",
+            "title": "Equatable NSObject With Swift 2",
+            "link": "https://mgrebenets.github.io/swift/2015/06/21/equatable-nsobject-with-swift-2",
+            "updated": 1434819600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages",
+            "title": "JIRA ID in Git Commit Messages",
+            "link": "https://mgrebenets.github.io/tools/2015/06/04/jira-id-in-git-commit-messages",
+            "updated": 1433350800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/06/01/appstore-version-territory",
+            "title": "App Store Version Territory",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/06/01/appstore-version-territory",
+            "updated": 1433091600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/05/30/jenkins-job-dsl---configure-block",
+            "title": "Jenkins Job DSL - Configure Block",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/05/30/jenkins-job-dsl-configure-block",
+            "updated": 1432918800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/objective-c/2015/05/29/fix-objective-c-imports",
+            "title": "Fix Objective-C Imports",
+            "link": "https://mgrebenets.github.io/objective-c/2015/05/29/fix-objective-c-imports",
+            "updated": 1432832400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/objective-c/2015/05/29/fix-objective-c-file-header",
+            "title": "Fix Objective-C File Header Comment",
+            "link": "https://mgrebenets.github.io/objective-c/2015/05/29/fix-objective-c-file-header",
+            "updated": 1432832400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/05/17/jenkins-job-dsl---properties",
+            "title": "Jenkins Job DSL - Properties",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/05/17/jenkins-job-dsl-properties",
+            "updated": 1431795600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/05/15/provisioning-profiles-sigh",
+            "title": "Provisioning Profiles, Sigh...",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/05/15/provisioning-profiles-sigh",
+            "updated": 1431622800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/hackerrank/2015/03/17/hackerrank-in-swift---reuse-io",
+            "title": "Hacker Rank in Swift - Reuse Code",
+            "link": "https://mgrebenets.github.io/hackerrank/2015/03/17/hackerrank-in-swift-reuse-io",
+            "updated": 1426525200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/hackerrank/2015/03/16/hackerrank-in-swift---makefiles",
+            "title": "HackerRank in Swift - Makefiles",
+            "link": "https://mgrebenets.github.io/hackerrank/2015/03/16/hackerrank-in-swift-makefiles",
+            "updated": 1426438800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/hackerrank/2015/03/15/hackerrank-in-swift---io",
+            "title": "HackerRank in Swift - StdIn",
+            "link": "https://mgrebenets.github.io/hackerrank/2015/03/15/hackerrank-in-swift-io",
+            "updated": 1426352400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/02/23/password-generator-in-swift",
+            "title": "Password Generator in Swift",
+            "link": "https://mgrebenets.github.io/swift/2015/02/23/password-generator-in-swift",
+            "updated": 1424624400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/xcode/2015/02/18/whats-your-destination",
+            "title": "What's your destination?",
+            "link": "https://mgrebenets.github.io/xcode/2015/02/18/whats-your-destination",
+            "updated": 1424192400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/15/install-java-on-mac-os-x",
+            "title": "Install Java on Mac OS X",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/15/install-java-on-mac-os-x",
+            "updated": 1423933200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/15/cocoapods-for-enterprise",
+            "title": "CocoaPods for Enterprise",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/15/cocoapods-for-enterprise",
+            "updated": 1423933200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/oclint",
+            "title": "OCLint",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/oclint",
+            "updated": 1423328400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/mobile-ci---makefiles",
+            "title": "Makefiles for Mobile CI",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/mobile-ci-makefiles",
+            "updated": 1423328400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/code-coverage-for-ios",
+            "title": "Code Coverage for iOS (gcov)",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/code-coverage-for-ios",
+            "updated": 1423328400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/clang-static-analyzer",
+            "title": "Clang Static Analyzer",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/clang-static-analyzer",
+            "updated": 1423328400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/bitbucket-branches--job-dsl",
+            "title": "Bitbucket Branches and Jenkins Job DSL",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/08/bitbucket-branches-job-dsl",
+            "updated": 1423328400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/xcode-derived-data",
+            "title": "Xcode Derived Data",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/xcode-derived-data",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/mobile-ci-daemon-vs-agent",
+            "title": "Daemon vs Agent",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/mobile-ci-daemon-vs-agent",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node",
+            "title": "Jenkins Remote Node on Mac OS X",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-remote-node",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-ci-server-on-osx",
+            "title": "Jenkins CI Server on Mac OS X",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/jenkins-ci-server-on-osx",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-remote-agent",
+            "title": "Bamboo Remote Agent on Mac OS X",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-remote-agent",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-group-agent",
+            "title": "Bamboo Group Agent",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-group-agent",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-ci-server-on-osx",
+            "title": "Bamboo CI Server on Mac OS X",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/02/01/bamboo-ci-server-on-osx",
+            "updated": 1422723600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/mobile%20ci/2015/01/29/bamboo-vs-jenkins",
+            "title": "Bamboo vs Jenkins",
+            "link": "https://mgrebenets.github.io/mobile%20ci/2015/01/29/bamboo-vs-jenkins",
+            "updated": 1422464400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/01/27/swift-dictionary-literal-convertible",
+            "title": "Swift Dictionary Literal Convertible",
+            "link": "https://mgrebenets.github.io/swift/2015/01/27/swift-dictionary-literal-convertible",
+            "updated": 1422291600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/01/22/swift--objective-c-interoperability",
+            "title": "Swift and Objective-C Interoperability",
+            "link": "https://mgrebenets.github.io/swift/2015/01/22/swift-objective-c-interoperability",
+            "updated": 1421859600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/swift/2015/01/12/flappy-swift",
+            "title": "Flappy Swift",
+            "link": "https://mgrebenets.github.io/swift/2015/01/12/flappy-swift",
+            "updated": 1420995600,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/references/2014/06/05/shark-2-for-ios",
+            "title": "Shark 2 for iOS/OS X",
+            "link": "https://mgrebenets.github.io/references/2014/06/05/shark-2-for-ios",
+            "updated": 1401901200,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/atlassian/2014/05/30/atlassian-cli-rpm",
+            "title": "Install Atlassian CLI with RPM",
+            "link": "https://mgrebenets.github.io/atlassian/2014/05/30/atlassian-cli-rpm",
+            "updated": 1401382800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/atlassian/2014/05/30/atlassian-cli-homebrew",
+            "title": "Install Atlassian CLI with Homebrew",
+            "link": "https://mgrebenets.github.io/atlassian/2014/05/30/atlassian-cli-homebrew",
+            "updated": 1401382800,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/xcode/2014/05/29/share-xcode-schemes",
+            "title": "Share Xcode Schemes",
+            "link": "https://mgrebenets.github.io/xcode/2014/05/29/share-xcode-schemes",
+            "updated": 1401296400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/android/2014/05/29/build-android-in-the-cloud",
+            "title": "Build Android in the Cloud",
+            "link": "https://mgrebenets.github.io/android/2014/05/29/build-android-in-the-cloud",
+            "updated": 1401296400,
+            "site_name": "NSBogan"
+        },
+        {
+            "id": "https://mgrebenets.github.io/atlassian/2014/05/29/atlassian-cli",
+            "title": "Atlassian CLI Client",
+            "link": "https://mgrebenets.github.io/atlassian/2014/05/29/atlassian-cli",
+            "updated": 1401296400,
+            "site_name": "NSBogan"
+        }
+    ]
+}

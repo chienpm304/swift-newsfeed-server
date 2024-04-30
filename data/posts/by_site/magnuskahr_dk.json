@@ -1,0 +1,152 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://magnuskahr.dk/posts/2023/05/swiftui-trailing-label-textfield",
+            "title": "SwiftUI: Trailing label TextField",
+            "link": "https://magnuskahr.dk/posts/2023/05/swiftui-trailing-label-textfield",
+            "updated": 1685505600,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2023/03/blendmode-trick-swiftui-reverse-mask",
+            "title": "Blendmode trick: SwiftUI reverse mask",
+            "link": "https://magnuskahr.dk/posts/2023/03/blendmode-trick-swiftui-reverse-mask",
+            "updated": 1681467000,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2023/01/overview-raw-strings",
+            "title": "Overview: Raw Strings",
+            "link": "https://magnuskahr.dk/posts/2023/01/overview-raw-strings",
+            "updated": 1672840200,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2022/12/introducing-the-environmentBacked-property-wrapper",
+            "title": "Introducing the EnvironmentBacked property wrapper",
+            "link": "https://magnuskahr.dk/posts/2022/12/introducing-the-environmentBacked-property-wrapper",
+            "updated": 1670200380,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2022/11/nested-reusability-in-swiftui",
+            "title": "Nested reusability in SwiftUI",
+            "link": "https://magnuskahr.dk/posts/2022/11/nested-reusability-in-swiftui",
+            "updated": 1668919440,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2022/10/better-placements-of-bottom-buttons-in-swiftui",
+            "title": "Better placements of bottom buttons in SwiftUI",
+            "link": "https://magnuskahr.dk/posts/2022/10/better-placements-of-bottom-buttons-in-swiftui",
+            "updated": 1666413840,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2022/10/blendmode-trick-swiftui-source-overlay",
+            "title": "Blendmode trick: SwiftUI source overlay",
+            "link": "https://magnuskahr.dk/posts/2022/10/blendmode-trick-swiftui-source-overlay",
+            "updated": 1665673800,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2022/01/unwrapping-button-ensuring-data-in-swiftui",
+            "title": "UnwrappingButton: Ensuring data in SwiftUI",
+            "link": "https://magnuskahr.dk/posts/2022/01/unwrapping-button-ensuring-data-in-swiftui",
+            "updated": 1641811200,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2021/12/cascading-environment-actions-in-swiftui",
+            "title": "Cascading Environment actions in SwiftUI",
+            "link": "https://magnuskahr.dk/posts/2021/12/cascading-environment-actions-in-swiftui",
+            "updated": 1640774400,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2021/10/passing-actions-through-the-environment-in-swiftui",
+            "title": "Passing actions through the Environment in SwiftUI",
+            "link": "https://magnuskahr.dk/posts/2021/10/passing-actions-through-the-environment-in-swiftui",
+            "updated": 1635072000,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2021/01/swiftui-a-picker-for-enums",
+            "title": "SwiftUI: A picker for enums",
+            "link": "https://magnuskahr.dk/posts/2021/01/swiftui-a-picker-for-enums",
+            "updated": 1610121600,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2020/06/swiftui-list-row-background",
+            "title": "SwiftUI: List row background",
+            "link": "https://magnuskahr.dk/posts/2020/06/swiftui-list-row-background",
+            "updated": 1593507600,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/10/bitboards-in-swift",
+            "title": "Bitboards in Swift",
+            "link": "https://magnuskahr.dk/posts/2019/10/bitboards-in-swift",
+            "updated": 1565082000,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/06/syntactic-sugar-exclude",
+            "title": "Syntactic-sugar: exclude",
+            "link": "https://magnuskahr.dk/posts/2019/06/syntactic-sugar-exclude",
+            "updated": 1560070800,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/05/decode-array-where-items-can-fail",
+            "title": "Decode arrays where items can fail",
+            "link": "https://magnuskahr.dk/posts/2019/05/decode-array-where-items-can-fail",
+            "updated": 1559034000,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/05/creating-a-custom-input-in-swift",
+            "title": "Creating a custom input in swift",
+            "link": "https://magnuskahr.dk/posts/2019/05/creating-a-custom-input-in-swift",
+            "updated": 1557046800,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/02/replicating-keys-from-uikit",
+            "title": "Replicating keys from UIKit",
+            "link": "https://magnuskahr.dk/posts/2019/02/replicating-keys-from-uikit",
+            "updated": 1550480400,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/02/the-ultimate-playground-coderunner-3",
+            "title": "The Ultimate Playground - Coderunner 3",
+            "link": "https://magnuskahr.dk/posts/2019/02/the-ultimate-playground-coderunner-3",
+            "updated": 1549011600,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2019/01/creating-custom-views-the-swift-way",
+            "title": "Creating custom views the Swift way",
+            "link": "https://magnuskahr.dk/posts/2019/01/creating-custom-views-the-swift-way",
+            "updated": 1547802000,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2018/12/iterating-over-two-sequences-in-swift",
+            "title": "Iterating over two sequences in Swift",
+            "link": "https://magnuskahr.dk/posts/2018/12/iterating-over-two-sequences-in-swift",
+            "updated": 1540198800,
+            "site_name": "magnuskahr writing code"
+        },
+        {
+            "id": "https://magnuskahr.dk/posts/2018/10/one-uitableview-multiple-datasources",
+            "title": "One UITableView, multiple DataSources",
+            "link": "https://magnuskahr.dk/posts/2018/10/one-uitableview-multiple-datasources",
+            "updated": 1540026000,
+            "site_name": "magnuskahr writing code"
+        }
+    ]
+}

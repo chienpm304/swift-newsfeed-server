@@ -1,0 +1,33 @@
+{
+    "updated": 1714470976,
+    "posts": [
+        {
+            "id": "https://thegoodalright.dev/posts/exploring-default-arguments/",
+            "title": "Exploring Default Argument Values",
+            "link": "https://thegoodalright.dev/posts/exploring-default-arguments/",
+            "updated": 1675357200,
+            "site_name": "thegoodalright.dev"
+        },
+        {
+            "id": "https://thegoodalright.dev/posts/combine-rate-limiting/",
+            "title": "Combine Rate Limiting",
+            "link": "https://thegoodalright.dev/posts/combine-rate-limiting/",
+            "updated": 1623862800,
+            "site_name": "thegoodalright.dev"
+        },
+        {
+            "id": "https://thegoodalright.dev/posts/string-interpolation-showcase/",
+            "title": "Swift String Showcase: Privacy Logs",
+            "link": "https://thegoodalright.dev/posts/string-interpolation-showcase/",
+            "updated": 1621530000,
+            "site_name": "thegoodalright.dev"
+        },
+        {
+            "id": "https://thegoodalright.dev/posts/cocoapods-ft-apple-silicon/",
+            "title": "CocoaPods Setup ft. Apple Silicon",
+            "link": "https://thegoodalright.dev/posts/cocoapods-ft-apple-silicon/",
+            "updated": 1618333200,
+            "site_name": "thegoodalright.dev"
+        }
+    ]
+}

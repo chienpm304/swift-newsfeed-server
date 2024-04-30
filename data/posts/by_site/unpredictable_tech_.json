@@ -1,0 +1,61 @@
+{
+    "updated": 1714470982,
+    "posts": [
+        {
+            "id": "https://unpredictable.tech/2020/09/08/private-apis-objective-c-runtime-and-swift/",
+            "title": "Private APIs, Objective-C runtime, and Swift",
+            "link": "https://unpredictable.tech/2020/09/08/private-apis-objective-c-runtime-and-swift/",
+            "updated": 1599498000,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://www.grammarly.com/blog/engineering/swiftui-uikit/",
+            "title": "Bringing the Best of SwiftUI to Our Team\u2019s UIKit Code",
+            "link": "https://www.grammarly.com/blog/engineering/swiftui-uikit/",
+            "updated": 1590426000,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://www.grammarly.com/blog/engineering/string-index-type-safety-in-swift/",
+            "title": "String Index Type Safety in Swift",
+            "link": "https://www.grammarly.com/blog/engineering/string-index-type-safety-in-swift/",
+            "updated": 1576688400,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://unpredictable.tech/2017/08/21/dry-string-localization-with-interface-builder/",
+            "title": "DRY String Localization with Interface Builder",
+            "link": "https://unpredictable.tech/2017/08/21/dry-string-localization-with-interface-builder/",
+            "updated": 1503248400,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://unpredictable.tech/2017/08/13/generic-optional-handling-in-swift/",
+            "title": "Generic Optional Handling in Swift",
+            "link": "https://unpredictable.tech/2017/08/13/generic-optional-handling-in-swift/",
+            "updated": 1502557200,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://unpredictable.tech/2017/08/10/using-self-in-swift-class-extensions/",
+            "title": "Using Self in Swift Class Extensions",
+            "link": "https://unpredictable.tech/2017/08/10/using-self-in-swift-class-extensions/",
+            "updated": 1502298000,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://unpredictable.tech/2017/08/08/managing-temporary-files-in-swift/",
+            "title": "Managing Temporary Files in Swift",
+            "link": "https://unpredictable.tech/2017/08/08/managing-temporary-files-in-swift/",
+            "updated": 1502125200,
+            "site_name": "unpredictable.tech"
+        },
+        {
+            "id": "https://unpredictable.tech/2017/08/06/storyboard-tricks/",
+            "title": "Storyboard Tricks",
+            "link": "https://unpredictable.tech/2017/08/06/storyboard-tricks/",
+            "updated": 1501952400,
+            "site_name": "unpredictable.tech"
+        }
+    ]
+}

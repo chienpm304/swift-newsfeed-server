@@ -1,0 +1,96 @@
+{
+    "updated": 1714471148,
+    "posts": [
+        {
+            "id": "yt:video:bM544yKIE8U",
+            "title": "10 Things You Didn't Know You Could Do With Integers in Swift - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=bM544yKIE8U",
+            "updated": 1714166154,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:ir_nRYLg9y8",
+            "title": "Making a Simple Combine Call in SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=ir_nRYLg9y8",
+            "updated": 1714165702,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:c7gONSwLYKM",
+            "title": "How to Create Unit Tests in Swift  - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=c7gONSwLYKM",
+            "updated": 1710435740,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:HbAljoBCe4Q",
+            "title": "String Subscripting in Swift (How to use Strings as Arrays) - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=HbAljoBCe4Q",
+            "updated": 1714082130,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:grna09uBLbk",
+            "title": "Error Handling in SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=grna09uBLbk",
+            "updated": 1712084126,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:jWTmD-dUbUY",
+            "title": "MVVM in SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=jWTmD-dUbUY",
+            "updated": 1711154992,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:hdHOl0S16Xk",
+            "title": "SF Symbols in SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=hdHOl0S16Xk",
+            "updated": 1710471297,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:YEL6wzg8oOc",
+            "title": "Native API Call with SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=YEL6wzg8oOc",
+            "updated": 1708357550,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:0Hxg4L99cIM",
+            "title": "Kingfisher Image in SwiftUI with Auth - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=0Hxg4L99cIM",
+            "updated": 1714005961,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:GiY5lUe8oTw",
+            "title": "Array Joining by Language - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=GiY5lUe8oTw",
+            "updated": 1714079933,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:KjhKIT7I22w",
+            "title": "SwiftUI Skeleton Loading View - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=KjhKIT7I22w",
+            "updated": 1714093877,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:qODbPJFKEXc",
+            "title": "Custom SwiftUI Debugging View Frames - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=qODbPJFKEXc",
+            "updated": 1710323414,
+            "site_name": "matthias_code on Youtube"
+        },
+        {
+            "id": "yt:video:w2XoYr1NQb0",
+            "title": "Custom Array Sorting in Swift - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=w2XoYr1NQb0",
+            "updated": 1712404967,
+            "site_name": "matthias_code on Youtube"
+        }
+    ]
+}

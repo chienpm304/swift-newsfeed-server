@@ -1,0 +1,75 @@
+{
+    "updated": 1714470898,
+    "posts": [
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-2374691466338954157",
+            "title": "UIColor - why hast though forsaken me!?",
+            "link": "http://www.nsprogrammer.com/2013/11/uicolor-why-hast-though-forsaken-me.html",
+            "updated": 1385126486,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-3082043736645623337",
+            "title": "Easy UITableView optimizations",
+            "link": "http://www.nsprogrammer.com/2013/10/easy-uitableview-buffering.html",
+            "updated": 1385123754,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-5645738521948625701",
+            "title": "Anatomy of a Singleton",
+            "link": "http://www.nsprogrammer.com/2013/08/anatomy-of-singleton.html",
+            "updated": 1382885674,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-8390119044455898351",
+            "title": "HTTP Live Streaming - Videos On Demand (HLS - VOD)",
+            "link": "http://www.nsprogrammer.com/2013/08/http-live-streaming-videos-on-demand.html",
+            "updated": 1383011885,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-7958275680247300169",
+            "title": "Updating UITableView with a dynamic data source",
+            "link": "http://www.nsprogrammer.com/2013/07/updating-uitableview-with-dynamic-data.html",
+            "updated": 1385541782,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-8636225697944566421",
+            "title": "Logging: The Most Important Part of Any Application",
+            "link": "http://www.nsprogrammer.com/2013/06/logging-to-disk-most-important-part-of.html",
+            "updated": 1382712010,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-2846812694769310800",
+            "title": "View Unloading into the Future!",
+            "link": "http://www.nsprogrammer.com/2013/02/view-unloading-into-future.html",
+            "updated": 1374487286,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-5414799902252735293",
+            "title": "A Better NSData Description",
+            "link": "http://www.nsprogrammer.com/2013/02/a-better-nsdata-description.html",
+            "updated": 1374487301,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-38834356122253877",
+            "title": "Method Swizzling",
+            "link": "http://www.nsprogrammer.com/2013/02/method-swizzling.html",
+            "updated": 1385993535,
+            "site_name": "NSProgrammer"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-6486813749412754497.post-5992065733763645310",
+            "title": "Better Reference Counting (Safe Release)",
+            "link": "http://www.nsprogrammer.com/2013/02/better-reference-counting-safe-release.html",
+            "updated": 1374487321,
+            "site_name": "NSProgrammer"
+        }
+    ]
+}

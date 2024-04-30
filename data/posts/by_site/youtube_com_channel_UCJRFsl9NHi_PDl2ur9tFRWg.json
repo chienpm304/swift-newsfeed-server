@@ -1,0 +1,61 @@
+{
+    "updated": 1714471148,
+    "posts": [
+        {
+            "id": "yt:video:0RHw2Ufj-Do",
+            "title": "Expert Swift Book - Codable",
+            "link": "https://www.youtube.com/watch?v=0RHw2Ufj-Do",
+            "updated": 1714104587,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:1p40TdXRwX4",
+            "title": "Expert Swift Book - Objective-C Interoperability",
+            "link": "https://www.youtube.com/watch?v=1p40TdXRwX4",
+            "updated": 1714055698,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:28zm_pvUqpY",
+            "title": "Expert Swift Book - OUT NOW!!",
+            "link": "https://www.youtube.com/watch?v=28zm_pvUqpY",
+            "updated": 1714055807,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:fnSA7cUYVNo",
+            "title": "Expert Swift Book - Functional Reactive Programming",
+            "link": "https://www.youtube.com/watch?v=fnSA7cUYVNo",
+            "updated": 1711083726,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:oLFhQrqyuBw",
+            "title": "Expert Swift Book - API Design Tips & Tricks",
+            "link": "https://www.youtube.com/watch?v=oLFhQrqyuBw",
+            "updated": 1708748742,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:eeO7fPw-0XA",
+            "title": "Creating a simple Raffle app with Combine",
+            "link": "https://www.youtube.com/watch?v=eeO7fPw-0XA",
+            "updated": 1711052656,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:Vnk4vFyuBGo",
+            "title": "Creating a custom Combine operator (Live Stream)",
+            "link": "https://www.youtube.com/watch?v=Vnk4vFyuBGo",
+            "updated": 1710342868,
+            "site_name": "Shai\u2019s Swift Bits"
+        },
+        {
+            "id": "yt:video:WN6AnAmtcyg",
+            "title": "Generate SwiftUI Style Code with Prism",
+            "link": "https://www.youtube.com/watch?v=WN6AnAmtcyg",
+            "updated": 1710438937,
+            "site_name": "Shai\u2019s Swift Bits"
+        }
+    ]
+}

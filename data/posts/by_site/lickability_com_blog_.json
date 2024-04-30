@@ -1,0 +1,803 @@
+{
+    "updated": 1714471071,
+    "posts": [
+        {
+            "id": "https://lickability.com/blog/how-to-learn-tca",
+            "title": "How to learn The Composable Architecture",
+            "link": "https://lickability.com/blog/how-to-learn-tca/",
+            "updated": 1713426720,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/apple-sports",
+            "title": "Our Apple Sports design critique",
+            "link": "https://lickability.com/blog/apple-sports/",
+            "updated": 1711512300,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/monetizing-your-app-with-superwall",
+            "title": "Monetizing your app with Superwall",
+            "link": "https://lickability.com/blog/monetizing-your-app-with-superwall/",
+            "updated": 1709020500,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/15-years",
+            "title": "15 Years",
+            "link": "https://lickability.com/blog/15-years/",
+            "updated": 1707720240,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/app-intents",
+            "title": "Mastering App Intents: Querying Made Easy",
+            "link": "https://lickability.com/blog/app-intents/",
+            "updated": 1706770200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/designing-mastodons-reply-safety-features",
+            "title": "Designing Mastodon\u2019s reply safety features",
+            "link": "https://lickability.com/blog/designing-mastodons-reply-safety-features/",
+            "updated": 1701941580,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/creating-your-first-app-shortcut",
+            "title": "Creating your first app shortcut",
+            "link": "https://lickability.com/blog/creating-your-first-app-shortcut/",
+            "updated": 1698903480,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/useful-tips-for-implementing-tipkit",
+            "title": "Useful tips for implementing TipKit",
+            "link": "https://lickability.com/blog/useful-tips-for-implementing-tipkit/",
+            "updated": 1697689620,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/choosing-the-right-technology-for-your-mobile-app",
+            "title": "Choosing the Right Technology for Your Mobile App",
+            "link": "https://lickability.com/blog/choosing-the-right-technology-for-your-mobile-app/",
+            "updated": 1697447700,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-nsspain-2023",
+            "title": "Conferences Condensed: NSSpain 2023",
+            "link": "https://lickability.com/blog/conferences-condensed-nsspain-2023/",
+            "updated": 1697018400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/what-we-love-about-android-development",
+            "title": "What We Love About Android Development",
+            "link": "https://lickability.com/blog/what-we-love-about-android-development/",
+            "updated": 1694068500,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/plussing-your-ios-app",
+            "title": "Plussing your iOS app",
+            "link": "https://lickability.com/blog/plussing-your-ios-app/",
+            "updated": 1693206600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/introducing-observableconverter",
+            "title": "Introducing ObservableConverter",
+            "link": "https://lickability.com/blog/introducing-observableconverter/",
+            "updated": 1692692160,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/in-app-purchases-with-revenuecat-on-visionos",
+            "title": "In-App Purchases with RevenueCat on visionOS",
+            "link": "https://lickability.com/blog/in-app-purchases-with-revenuecat-on-visionos/",
+            "updated": 1691983800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/detecting-collisions-with-realitykit-in-visionos",
+            "title": "Detecting Collisions with RealityKit in visionOS",
+            "link": "https://lickability.com/blog/detecting-collisions-with-realitykit-in-visionos/",
+            "updated": 1691647200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/5-years-of-clutch",
+            "title": "5 years of Clutch",
+            "link": "https://lickability.com/blog/5-years-of-clutch/",
+            "updated": 1689751080,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed-wwdc23",
+            "title": "Conferences Condensed: WWDC23",
+            "link": "https://lickability.com/blog/conference-condensed-wwdc23/",
+            "updated": 1687849200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-to-install-ios-17-simulators-in-xcode-15",
+            "title": "How to install iOS 17 simulators in Xcode 15",
+            "link": "https://lickability.com/blog/how-to-install-ios-17-simulators-in-xcode-15/",
+            "updated": 1686106800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-wwdc23-hopes-and-dreams",
+            "title": "Our WWDC23 hopes and dreams",
+            "link": "https://lickability.com/blog/our-wwdc23-hopes-and-dreams/",
+            "updated": 1685608920,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-ios-conf-sg",
+            "title": "Conferences Condensed: iOS Conf SG",
+            "link": "https://lickability.com/blog/conferences-condensed-ios-conf-sg/",
+            "updated": 1683010800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/revenuecat",
+            "title": "We\u2019re a RevenueCat partner!",
+            "link": "https://lickability.com/blog/revenuecat/",
+            "updated": 1681368480,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-360idev-2022",
+            "title": "Conferences Condensed: 360iDev 2022",
+            "link": "https://lickability.com/blog/conferences-condensed-360idev-2022/",
+            "updated": 1678424400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/redesigning-our-contracts",
+            "title": "Redesigning our documents",
+            "link": "https://lickability.com/blog/redesigning-our-contracts/",
+            "updated": 1669875060,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/lock-screens",
+            "title": "We Like Widgets!",
+            "link": "https://lickability.com/blog/lock-screens/",
+            "updated": 1667468640,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-first-retreat",
+            "title": "Our first retreat",
+            "link": "https://lickability.com/blog/our-first-retreat/",
+            "updated": 1660034580,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-wwdc22",
+            "title": "Conferences Condensed: WWDC22",
+            "link": "https://lickability.com/blog/conferences-condensed-wwdc22/",
+            "updated": 1655373600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-360idev",
+            "title": "Conferences Condensed: 360iDev",
+            "link": "https://lickability.com/blog/conferences-condensed-360idev/",
+            "updated": 1654139280,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/extreme-ownership-muster",
+            "title": "Conferences Condensed: Extreme Ownership Muster",
+            "link": "https://lickability.com/blog/extreme-ownership-muster/",
+            "updated": 1651569600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view",
+            "title": "Every Screen in Your App Should Be a Scrolling View",
+            "link": "https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view/",
+            "updated": 1648029420,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-favorite-apps-of-2021",
+            "title": "Our Favorite Apps of 2021",
+            "link": "https://lickability.com/blog/our-favorite-apps-of-2021/",
+            "updated": 1639644660,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/closing-our-office",
+            "title": "Closing Our Office",
+            "link": "https://lickability.com/blog/closing-our-office/",
+            "updated": 1639040700,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/designing-mastodons-app",
+            "title": "Designing Mastodon\u2019s App",
+            "link": "https://lickability.com/blog/designing-mastodons-app/",
+            "updated": 1633579440,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/5-questions-to-ask-before-building-an-app",
+            "title": "5 Questions to Ask Before Building an App",
+            "link": "https://lickability.com/blog/5-questions-to-ask-before-building-an-app/",
+            "updated": 1629105960,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/automating-app-store-screenshots-with-fastlane-and-swiftui",
+            "title": "Automating App Store Screenshots",
+            "link": "https://lickability.com/blog/automating-app-store-screenshots-with-fastlane-and-swiftui/",
+            "updated": 1627882560,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-wwdc21",
+            "title": "Conferences Condensed: WWDC21",
+            "link": "https://lickability.com/blog/conferences-condensed-wwdc21/",
+            "updated": 1624330800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/insidious-bugs-number-3-apple-app-site-association-file",
+            "title": "\ud83d\udc1e Insidious Bugs #3: Apple App Site Association File Identifiers",
+            "link": "https://lickability.com/blog/insidious-bugs-number-3-apple-app-site-association-file/",
+            "updated": 1621924320,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/scorecard-is-here",
+            "title": "Scorecard is Here",
+            "link": "https://lickability.com/blog/scorecard-is-here/",
+            "updated": 1620022680,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/welcome-to-club-mobile",
+            "title": "Welcome to Club Mobile",
+            "link": "https://lickability.com/blog/welcome-to-club-mobile/",
+            "updated": 1617256920,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-to-learn-swift",
+            "title": "How To Learn Swift",
+            "link": "https://lickability.com/blog/how-to-learn-swift/",
+            "updated": 1615888800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/building-a-customizable-uitextfield-with-combine",
+            "title": "Building a Customizable UITextField with Combine",
+            "link": "https://lickability.com/blog/building-a-customizable-uitextfield-with-combine/",
+            "updated": 1615266360,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/dynamic-type-and-in-app-font-scaling",
+            "title": "Dynamic Type &amp; In-App Font Scaling",
+            "link": "https://lickability.com/blog/dynamic-type-and-in-app-font-scaling/",
+            "updated": 1613030460,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/2020-bank-switch",
+            "title": "Banks Suck",
+            "link": "https://lickability.com/blog/2020-bank-switch/",
+            "updated": 1606885200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-3",
+            "title": "Swift on Raspberry Pi Workshop: Part 3",
+            "link": "https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-3/",
+            "updated": 1605860880,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-2",
+            "title": "Swift on Raspberry Pi Workshop: Part 2",
+            "link": "https://lickability.com/blog/swift-on-raspberry-pi-workshop-part-2/",
+            "updated": 1605686400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/swift-on-raspberry-pi-workshop",
+            "title": "Swift on Raspberry Pi Workshop: Part 1",
+            "link": "https://lickability.com/blog/swift-on-raspberry-pi-workshop/",
+            "updated": 1604986200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-we-do-sales",
+            "title": "How We Do Sales",
+            "link": "https://lickability.com/blog/how-we-do-sales/",
+            "updated": 1602750780,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/meet-buildwatch",
+            "title": "Meet Buildwatch",
+            "link": "https://lickability.com/blog/meet-buildwatch/",
+            "updated": 1601346300,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/learning-with-lickability",
+            "title": "Learning with Lickability",
+            "link": "https://lickability.com/blog/learning-with-lickability/",
+            "updated": 1599208140,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-condensed-wwdc20",
+            "title": "Conferences Condensed: WWDC20",
+            "link": "https://lickability.com/blog/conferences-condensed-wwdc20/",
+            "updated": 1594292220,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/installing-macos-big-sur-on-a-new-partition",
+            "title": "Installing the macOS Big Sur beta on a new partition",
+            "link": "https://lickability.com/blog/installing-macos-big-sur-on-a-new-partition/",
+            "updated": 1592842020,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout",
+            "title": "Getting Started with UICollectionViewCompositionalLayout",
+            "link": "https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/",
+            "updated": 1592384580,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/understanding-creational-design-patterns",
+            "title": "Understanding Creational Design Patterns",
+            "link": "https://lickability.com/blog/understanding-creational-design-patterns/",
+            "updated": 1590478800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/tooling-at-home",
+            "title": "Tooling at Home",
+            "link": "https://lickability.com/blog/tooling-at-home/",
+            "updated": 1585732800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/understanding-behavioral-design-patterns",
+            "title": "Understanding Behavioral Design Patterns",
+            "link": "https://lickability.com/blog/understanding-behavioral-design-patterns/",
+            "updated": 1585192500,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/testing-push-notifications-in-the-simulator",
+            "title": "Testing Push Notifications in the iOS Simulator",
+            "link": "https://lickability.com/blog/testing-push-notifications-in-the-simulator/",
+            "updated": 1583831700,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/a-lawyer-and-an-accountant",
+            "title": "A Lawyer and an Accountant",
+            "link": "https://lickability.com/blog/a-lawyer-and-an-accountant/",
+            "updated": 1579076040,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-favorite-apps-of-2019",
+            "title": "Our Favorite Apps of 2019",
+            "link": "https://lickability.com/blog/our-favorite-apps-of-2019/",
+            "updated": 1578473100,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/a-new-er-look-for-the-atlantic",
+            "title": "A New(er) Look for The Atlantic",
+            "link": "https://lickability.com/blog/a-new-er-look-for-the-atlantic/",
+            "updated": 1576051140,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/structural-design-patterns",
+            "title": "Understanding Structural Design Patterns",
+            "link": "https://lickability.com/blog/structural-design-patterns/",
+            "updated": 1575618660,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-our-engineers-collaborate",
+            "title": "How Our Engineers Collaborate",
+            "link": "https://lickability.com/blog/how-our-engineers-collaborate/",
+            "updated": 1574753880,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-new-blog",
+            "title": "Our New Blog",
+            "link": "https://lickability.com/blog/our-new-blog/",
+            "updated": 1574227860,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed-xoxo-2019",
+            "title": "Conference Condensed: XOXO 2019",
+            "link": "https://lickability.com/blog/conference-condensed-xoxo-2019/",
+            "updated": 1569762000,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed-try-swift-2019",
+            "title": "Conference Condensed: try! Swift 2019",
+            "link": "https://lickability.com/blog/conference-condensed-try-swift-2019/",
+            "updated": 1569243600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/what-i-learned",
+            "title": "What I learned as an iOS Apprentice",
+            "link": "https://lickability.com/blog/what-i-learned/",
+            "updated": 1568725200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed-anxiety-tech",
+            "title": "Conference Condensed: AnxietyTech",
+            "link": "https://lickability.com/blog/conference-condensed-anxiety-tech/",
+            "updated": 1567515600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/swift-on-raspberry-pi",
+            "title": "Swift on Raspberry Pi",
+            "link": "https://lickability.com/blog/swift-on-raspberry-pi/",
+            "updated": 1566738000,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/swift-playgrounds-is-for-everyone",
+            "title": "Swift Playgrounds is for Everyone",
+            "link": "https://lickability.com/blog/swift-playgrounds-is-for-everyone/",
+            "updated": 1564664400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-swift-best-practices",
+            "title": "Our Swift Best Practices",
+            "link": "https://lickability.com/blog/our-swift-best-practices/",
+            "updated": 1564059600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/10-years-of-lickability",
+            "title": "10 Years of Lickability",
+            "link": "https://lickability.com/blog/10-years-of-lickability/",
+            "updated": 1563800400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed--wwdc-2019",
+            "title": "Conference Condensed: WWDC 2019",
+            "link": "https://lickability.com/blog/conference-condensed-wwdc-2019/",
+            "updated": 1560430800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/yell-it-into-the--void",
+            "title": "Yell it into the #void",
+            "link": "https://lickability.com/blog/yell-it-into-the-void/",
+            "updated": 1558616400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conference-condensed--nsnorth-2019",
+            "title": "Conference Condensed: NSNorth 2019",
+            "link": "https://lickability.com/blog/conference-condensed-nsnorth-2019/",
+            "updated": 1557406800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-do-you-collaborate-on-email",
+            "title": "How do you collaborate on email?",
+            "link": "https://lickability.com/blog/how-do-you-collaborate-on-email/",
+            "updated": 1556197200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/we-were-on-tv",
+            "title": "We Were On TV!",
+            "link": "https://lickability.com/blog/we-were-on-tv/",
+            "updated": 1554987600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/podcasts-we-can-t-live-without",
+            "title": "Podcasts We Can\u2019t Live Without",
+            "link": "https://lickability.com/blog/podcasts-we-can-t-live-without/",
+            "updated": 1553173200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/growing-our-small-business",
+            "title": "Growing our Small Business",
+            "link": "https://lickability.com/blog/growing-our-small-business/",
+            "updated": 1550145600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/5-tips-for-filing-radars",
+            "title": "5 Tips for Reporting Bugs &amp; Feedback to Apple",
+            "link": "https://lickability.com/blog/5-tips-for-filing-radars/",
+            "updated": 1549540800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/a-lickability-new-year",
+            "title": "A Lickability New Year",
+            "link": "https://lickability.com/blog/a-lickability-new-year/",
+            "updated": 1547726400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/3-tools-to-stay-on-top-of-pull-requests",
+            "title": "3 Tools to Stay on Top of Pull Requests",
+            "link": "https://lickability.com/blog/3-tools-to-stay-on-top-of-pull-requests/",
+            "updated": 1547121600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/the-magic-of-the-everybody-meeting",
+            "title": "The Magic of the Everybody Meeting",
+            "link": "https://lickability.com/blog/the-magic-of-the-everybody-meeting/",
+            "updated": 1544702400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/5-of-our-favorite-blogs",
+            "title": "5 of Our Favorite Blogs",
+            "link": "https://lickability.com/blog/5-of-our-favorite-blogs/",
+            "updated": 1543492800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/switching-to-notion",
+            "title": "Switching to Notion",
+            "link": "https://lickability.com/blog/switching-to-notion/",
+            "updated": 1542283200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/the-many--watch--faces-of-lickability",
+            "title": "The Many (Watch) Faces of Lickability",
+            "link": "https://lickability.com/blog/the-many-watch-faces-of-lickability/",
+            "updated": 1541678400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-new-office-is-official",
+            "title": "Our New Office is Official",
+            "link": "https://lickability.com/blog/our-new-office-is-official/",
+            "updated": 1541077200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/working-with-clutch",
+            "title": "Working with Clutch",
+            "link": "https://lickability.com/blog/working-with-clutch/",
+            "updated": 1539867600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/the-value-of-values",
+            "title": "The Value of Values",
+            "link": "https://lickability.com/blog/the-value-of-values/",
+            "updated": 1539522000,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/home-sweet-home--screen",
+            "title": "Home Sweet Home (Screen)",
+            "link": "https://lickability.com/blog/home-sweet-home-screen/",
+            "updated": 1538053200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/adding-a-401-k--for-our-small-business-wasn-t-scary",
+            "title": "Adding a 401(k) for Our Small Business Wasn\u2019t Scary",
+            "link": "https://lickability.com/blog/adding-a-401-k-for-our-small-business-wasn-t-scary/",
+            "updated": 1537448400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/conferences-we-know-and-love",
+            "title": "Conferences We Know and Love",
+            "link": "https://lickability.com/blog/conferences-we-know-and-love/",
+            "updated": 1536843600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/a-tale-of-two-app-store-spotlights",
+            "title": "A Tale of Two App Store Spotlights",
+            "link": "https://lickability.com/blog/a-tale-of-two-app-store-spotlights/",
+            "updated": 1536238800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/slack-is-for-friends--too",
+            "title": "Slack is for Friends, Too",
+            "link": "https://lickability.com/blog/slack-is-for-friends-too/",
+            "updated": 1532610000,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/---insidious-bugs--2--wait-for-executable-to-be-launched",
+            "title": "\ud83d\udc1e Insidious Bugs #2",
+            "link": "https://lickability.com/blog/insidious-bugs-2-wait-for-executable-to-be-launched/",
+            "updated": 1531400400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-week-in-san-jose",
+            "title": "Our Week in San Jose",
+            "link": "https://lickability.com/blog/our-week-in-san-jose/",
+            "updated": 1528981200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/inside-lickability-hq",
+            "title": "Inside Lickability HQ",
+            "link": "https://lickability.com/blog/inside-lickability-hq/",
+            "updated": 1526475600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/aloe-bud-is-here",
+            "title": "Aloe Bud is Here \ud83c\udf31",
+            "link": "https://lickability.com/blog/aloe-bud-is-here/",
+            "updated": 1525179600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/---insidious-bugs--1--today-extensions",
+            "title": "\ud83d\udc1e Insidious Bugs #1: Today Extensions",
+            "link": "https://lickability.com/blog/insidious-bugs-1-today-extensions/",
+            "updated": 1523883600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/tools-of-the-trade",
+            "title": "Tools of the Trade",
+            "link": "https://lickability.com/blog/tools-of-the-trade/",
+            "updated": 1521723600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/how-we-smoke-test-pull-requests-with-git-revert",
+            "title": "How We Smoke Test Pull Requests with Git Revert",
+            "link": "https://lickability.com/blog/how-we-smoke-test-pull-requests-with-git-revert/",
+            "updated": 1519646400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/shelf--a-retrospective",
+            "title": "Shelf: A Retrospective",
+            "link": "https://lickability.com/blog/shelf-a-retrospective/",
+            "updated": 1517486400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/new-year--new-site",
+            "title": "New Year, New Site",
+            "link": "https://lickability.com/blog/new-year-new-site/",
+            "updated": 1515585600,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/a-new-look-for-the-atlantic-app",
+            "title": "A New Look for The Atlantic App",
+            "link": "https://lickability.com/blog/a-new-look-for-the-atlantic-app/",
+            "updated": 1503406800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/our-view-on-view-models",
+            "title": "Our View on View Models",
+            "link": "https://lickability.com/blog/our-view-on-view-models/",
+            "updated": 1485691200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/escape-from-times-square",
+            "title": "Escape from Times Square",
+            "link": "https://lickability.com/blog/escape-from-times-square/",
+            "updated": 1479038400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/the-end-of-quotebook",
+            "title": "The End of Quotebook",
+            "link": "https://lickability.com/blog/the-end-of-quotebook/",
+            "updated": 1475758800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/making-meetup",
+            "title": "Making Meetup",
+            "link": "https://lickability.com/blog/making-meetup/",
+            "updated": 1474981200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/presenting-pinpointkit",
+            "title": "Presenting PinpointKit",
+            "link": "https://lickability.com/blog/presenting-pinpointkit/",
+            "updated": 1465477200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/michael-liberatore-joins-lickability",
+            "title": "Michael Liberatore Joins Lickability",
+            "link": "https://lickability.com/blog/michael-liberatore-joins-lickability/",
+            "updated": 1462712400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/helping-build-the-new-yorker-today",
+            "title": "Helping Build The New Yorker Today",
+            "link": "https://lickability.com/blog/helping-build-the-new-yorker-today/",
+            "updated": 1460898000,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/going-indie",
+            "title": "Going Indie",
+            "link": "https://lickability.com/blog/going-indie/",
+            "updated": 1428325200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/quotebook-3--the-reviews-are-in",
+            "title": "Quotebook 3: The Reviews Are In",
+            "link": "https://lickability.com/blog/quotebook-3-the-reviews-are-in/",
+            "updated": 1409317200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/quotebook-3--coming-soon",
+            "title": "Quotebook 3: Coming Soon",
+            "link": "https://lickability.com/blog/quotebook-3-coming-soon/",
+            "updated": 1395838800,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/velocity-url-scheme",
+            "title": "Velocity URL Scheme",
+            "link": "https://lickability.com/blog/velocity-url-scheme/",
+            "updated": 1381064400,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/-why-doesn-t-quotebook-use-dropbox",
+            "title": "\u201cWhy Doesn\u2019t Quotebook Use Dropbox?\u201d",
+            "link": "https://lickability.com/blog/why-doesn-t-quotebook-use-dropbox/",
+            "updated": 1372597200,
+            "site_name": "Lickability Blog"
+        },
+        {
+            "id": "https://lickability.com/blog/quotebook-2-0-api-and-url-scheme",
+            "title": "Quotebook 2.0 API and URL Scheme",
+            "link": "https://lickability.com/blog/quotebook-2-0-api-and-url-scheme/",
+            "updated": 1350046800,
+            "site_name": "Lickability Blog"
+        }
+    ]
+}

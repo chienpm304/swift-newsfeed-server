@@ -1,0 +1,880 @@
+{
+    "updated": 1714471051,
+    "posts": [
+        {
+            "id": "https://{{domain}}/blog/firebase-chat-tutorial",
+            "title": "7 Steps to Add Chat to a SwiftUI App Using Firebase",
+            "link": "https://{{domain}}/blog/firebase-chat-tutorial",
+            "updated": 1700198327,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/keyframes-ios17",
+            "title": "SwiftUI Tutorial: Keyframe Animations for iOS 17",
+            "link": "https://{{domain}}/blog/keyframes-ios17",
+            "updated": 1698385774,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-animated-tabbar",
+            "title": "SwiftUI Tutorial - Animated TabBar",
+            "link": "https://{{domain}}/blog/swiftui-animated-tabbar",
+            "updated": 1697088716,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/jetpack-compose-multiplatform",
+            "title": "Jetpack Compose Multiplatform Android & iOS",
+            "link": "https://{{domain}}/blog/jetpack-compose-multiplatform",
+            "updated": 1688604743,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/water-level-widget",
+            "title": "Jetpack Compose Tutorial: Replicating the Water Level Widget",
+            "link": "https://{{domain}}/blog/water-level-widget",
+            "updated": 1685680460,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/animated-navigation-bar",
+            "title": "Jetpack Compose Tutorial: Animated Navigation Bar",
+            "link": "https://{{domain}}/blog/animated-navigation-bar",
+            "updated": 1684379501,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-flow-layout",
+            "title": "Jetpack Compose Tutorial: How to use FlowLayout",
+            "link": "https://{{domain}}/blog/android-flow-layout",
+            "updated": 1682481274,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-dribbble-replicating-part-5",
+            "title": "Jetpack Compose Tutorial: Improving Performance in Dribbble Audio App",
+            "link": "https://{{domain}}/blog/android-dribbble-replicating-part-5",
+            "updated": 1679279419,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-dribbble-replicating-part-4",
+            "title": "Jetpack Compose Tutorial: Replicating Dribbble Audio App - Screen Transitions",
+            "link": "https://{{domain}}/blog/android-dribbble-replicating-part-4",
+            "updated": 1677637067,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-dribbble-replicating-part-3",
+            "title": "Jetpack Compose Tutorial: Replicating Dribbble Audio App Part 3",
+            "link": "https://{{domain}}/blog/android-dribbble-replicating-part-3",
+            "updated": 1675754675,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-dribbble-replicating-part-2",
+            "title": "Jetpack Compose Tutorial: Replicating Dribbble Audio App Part 2",
+            "link": "https://{{domain}}/blog/android-dribbble-replicating-part-2",
+            "updated": 1674454532,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-dribbble-replicating-part-1",
+            "title": "Jetpack Compose Tutorial: Replicating Dribbble Audio App Part 1",
+            "link": "https://{{domain}}/blog/android-dribbble-replicating-part-1",
+            "updated": 1673406383,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/androidview-jetpack-compose-tutorial",
+            "title": "AndroidView & Jetpack Compose Tutorial",
+            "link": "https://{{domain}}/blog/androidview-jetpack-compose-tutorial",
+            "updated": 1663536828,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-tutorial-scaling-header",
+            "title": "SwiftUI Tutorial \u2013 Scaling Header",
+            "link": "https://{{domain}}/blog/swiftui-tutorial-scaling-header",
+            "updated": 1654740328,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-1",
+            "title": "Cocoa Delights #1",
+            "link": "https://{{domain}}/blog/cocoa-delights-1",
+            "updated": 1651810293,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-2",
+            "title": "Cocoa Delights #2",
+            "link": "https://{{domain}}/blog/cocoa-delights-2",
+            "updated": 1651810291,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/when-businesses-need-autotests",
+            "title": "When Businesses Need Autotests",
+            "link": "https://{{domain}}/blog/when-businesses-need-autotests",
+            "updated": 1645744244,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/guide-what-to-choose-pwa-or-spa",
+            "title": "Guide: what to choose PWA or SPA",
+            "link": "https://{{domain}}/blog/guide-what-to-choose-pwa-or-spa",
+            "updated": 1645123881,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-tutorial-popupview-library",
+            "title": "SwiftUI Tutorial \u2014 a simple interactive popup",
+            "link": "https://{{domain}}/blog/swiftui-tutorial-popupview-library",
+            "updated": 1643685270,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/branding-for-a-mobile-app",
+            "title": "Branding for a mobile app",
+            "link": "https://{{domain}}/blog/branding-for-a-mobile-app",
+            "updated": 1637883771,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/mobile-site-vs-native-app",
+            "title": "Mobile site vs. native app",
+            "link": "https://{{domain}}/blog/mobile-site-vs-native-app",
+            "updated": 1636321525,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/mvp-step-by-step",
+            "title": "MVP: step by step",
+            "link": "https://{{domain}}/blog/mvp-step-by-step",
+            "updated": 1634180980,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/key-metrics-for-mobile-app-analytics",
+            "title": "Key metrics for mobile app analytics",
+            "link": "https://{{domain}}/blog/key-metrics-for-mobile-app-analytics",
+            "updated": 1633048175,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-promote-an-app-in-social-networks",
+            "title": "How to promote an app in social networks",
+            "link": "https://{{domain}}/blog/how-to-promote-an-app-in-social-networks",
+            "updated": 1632361107,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/ux-mistakes-to-avoid-when-developing-your-app",
+            "title": "14 UX Mistakes to Avoid When Developing Your App",
+            "link": "https://{{domain}}/blog/ux-mistakes-to-avoid-when-developing-your-app",
+            "updated": 1631666565,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-validate-your-app-idea",
+            "title": "How to validate your app idea",
+            "link": "https://{{domain}}/blog/how-to-validate-your-app-idea",
+            "updated": 1630891450,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-write-user-stories",
+            "title": "How (and Why) to Write Great User Stories",
+            "link": "https://{{domain}}/blog/how-to-write-user-stories",
+            "updated": 1628713735,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/web-components-technology",
+            "title": "Overview of the Web components in 2021",
+            "link": "https://{{domain}}/blog/web-components-technology",
+            "updated": 1627498130,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-augmented-reality-can-help-your-business-grow",
+            "title": "How augmented reality can help your business grow",
+            "link": "https://{{domain}}/blog/how-augmented-reality-can-help-your-business-grow",
+            "updated": 1625085211,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/augmented-reality-for-healthcare",
+            "title": "Augmented reality for healthcare",
+            "link": "https://{{domain}}/blog/augmented-reality-for-healthcare",
+            "updated": 1624225127,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/aso-guide-for-google-play-and-app-store",
+            "title": "ASO: Guide for Google Play and App Store",
+            "link": "https://{{domain}}/blog/aso-guide-for-google-play-and-app-store",
+            "updated": 1623705246,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-promote-a-mobile-app",
+            "title": "How to promote a mobile app",
+            "link": "https://{{domain}}/blog/how-to-promote-a-mobile-app",
+            "updated": 1621301833,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-monetize-an-app",
+            "title": "How to monetize an app",
+            "link": "https://{{domain}}/blog/how-to-monetize-an-app",
+            "updated": 1619568683,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/native-vs-cross-platform-development",
+            "title": "Native vs cross-platform development",
+            "link": "https://{{domain}}/blog/native-vs-cross-platform-development",
+            "updated": 1618432550,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/exyte-recognized-as-a-top-ranked-ar-vr-companies",
+            "title": "Exyte Recognized As A Top Ranked AR/VR companies",
+            "link": "https://{{domain}}/blog/exyte-recognized-as-a-top-ranked-ar-vr-companies",
+            "updated": 1617327391,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-create-widgets-with-widgetkit",
+            "title": "How to Create Widgets With WidgetKit",
+            "link": "https://{{domain}}/blog/how-to-create-widgets-with-widgetkit",
+            "updated": 1616730718,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/mobile-development-trends",
+            "title": "Mobile Development Trends in 2021",
+            "link": "https://{{domain}}/blog/mobile-development-trends",
+            "updated": 1616116151,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/training-employees-with-augmented-reality",
+            "title": "Training Employees with Augmented Reality",
+            "link": "https://{{domain}}/blog/training-employees-with-augmented-reality",
+            "updated": 1615252283,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-we-develop-apps",
+            "title": "How we develop apps",
+            "link": "https://{{domain}}/blog/how-we-develop-apps",
+            "updated": 1613447248,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/is-c++-still-relevant",
+            "title": "Is C++ still relevant in 2021?",
+            "link": "https://{{domain}}/blog/is-c++-still-relevant",
+            "updated": 1607439600,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/5-questions-to-determine-the-time-frame-of-developing-a-mobile-app",
+            "title": "5 questions to determine the time frame of developing a mobile app",
+            "link": "https://{{domain}}/blog/5-questions-to-determine-the-time-frame-of-developing-a-mobile-app",
+            "updated": 1606921200,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/everything-you-need-to-know-about-javascript",
+            "title": "Everything you need to know about JavaScript",
+            "link": "https://{{domain}}/blog/everything-you-need-to-know-about-javascript",
+            "updated": 1606352261,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/introduciton-to-swift",
+            "title": "Introduction to Swift",
+            "link": "https://{{domain}}/blog/introduciton-to-swift",
+            "updated": 1605827388,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/why-you-dont-need-a-blockchain-solution-for-your-next-project",
+            "title": "Why you don\u2019t need a blockchain solution for your next project",
+            "link": "https://{{domain}}/blog/why-you-dont-need-a-blockchain-solution-for-your-next-project",
+            "updated": 1605143891,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-brief-history-of-python",
+            "title": "A brief history of Python",
+            "link": "https://{{domain}}/blog/a-brief-history-of-python",
+            "updated": 1604415600,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/10-growth-trends-for-on-demand-service-platforms-2020",
+            "title": "10 growth trends for on-demand service platforms in 2020-2021",
+            "link": "https://{{domain}}/blog/10-growth-trends-for-on-demand-service-platforms-2020",
+            "updated": 1603839016,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-create-app-clips",
+            "title": "How to Create App Clips",
+            "link": "https://{{domain}}/blog/how-to-create-app-clips",
+            "updated": 1603355907,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/5-reasons-to-use-both-sound-effects-and-music-in-your-game-app",
+            "title": "5 reasons to use both sound effects and music in your game app",
+            "link": "https://{{domain}}/blog/5-reasons-to-use-both-sound-effects-and-music-in-your-game-app",
+            "updated": 1603202400,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/the-pros-and-cons-of-programming-in-swift",
+            "title": "The pros and cons of programming in Swift",
+            "link": "https://{{domain}}/blog/the-pros-and-cons-of-programming-in-swift",
+            "updated": 1602597600,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/hipaa-compliant-mobile-app-development",
+            "title": "HIPAA compliant mobile app development",
+            "link": "https://{{domain}}/blog/hipaa-compliant-mobile-app-development",
+            "updated": 1601929637,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-use-charles-proxy-for-debugging-applications",
+            "title": "How to use Charles Proxy for debugging applications?",
+            "link": "https://{{domain}}/blog/how-to-use-charles-proxy-for-debugging-applications",
+            "updated": 1601423884,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream-how-to-use-the-scanned-object",
+            "title": "A Scanning Dream: how to use the scanned object",
+            "link": "https://{{domain}}/blog/a-scanning-dream-how-to-use-the-scanned-object",
+            "updated": 1600351200,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/beacon-technology-benefits-for-business",
+            "title": "Beacon technology benefits for business",
+            "link": "https://{{domain}}/blog/beacon-technology-benefits-for-business",
+            "updated": 1600178400,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream-using-light-field-array-cameras",
+            "title": "A Scanning Dream: using light field array cameras",
+            "link": "https://{{domain}}/blog/a-scanning-dream-using-light-field-array-cameras",
+            "updated": 1600092000,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream-using-time-of-flight-cameras-and-laser",
+            "title": "A Scanning Dream: using time-of-flight cameras and laser",
+            "link": "https://{{domain}}/blog/a-scanning-dream-using-time-of-flight-cameras-and-laser",
+            "updated": 1599746400,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/android-studio-fundamentals",
+            "title": "Android Studio fundamentals",
+            "link": "https://{{domain}}/blog/android-studio-fundamentals",
+            "updated": 1599573600,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream-using-unstructured-light",
+            "title": "A Scanning Dream: using structured light",
+            "link": "https://{{domain}}/blog/a-scanning-dream-using-unstructured-light",
+            "updated": 1599487200,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/testing-in-app-purchases-in-ios-14",
+            "title": "Testing In-App Purchases in iOS 14",
+            "link": "https://{{domain}}/blog/testing-in-app-purchases-in-ios-14",
+            "updated": 1599228000,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream-using-a-camera",
+            "title": "A Scanning Dream: using a camera",
+            "link": "https://{{domain}}/blog/a-scanning-dream-using-a-camera",
+            "updated": 1599141600,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-codex-prioritization",
+            "title": "A codex on prioritization",
+            "link": "https://{{domain}}/blog/a-codex-prioritization",
+            "updated": 1598871413,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/a-scanning-dream",
+            "title": "A Scanning Dream",
+            "link": "https://{{domain}}/blog/a-scanning-dream",
+            "updated": 1598584709,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-9-mobile-ad-networks",
+            "title": "Top 9 mobile ad networks",
+            "link": "https://{{domain}}/blog/top-9-mobile-ad-networks",
+            "updated": 1598248879,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-debug-apps-in-android-studio",
+            "title": "How to debug apps in Android Studio",
+            "link": "https://{{domain}}/blog/how-to-debug-apps-in-android-studio",
+            "updated": 1597703912,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/implementing-grid-layout-in-swiftui",
+            "title": "Implementing  Grid Layout in SwiftUI",
+            "link": "https://{{domain}}/blog/implementing-grid-layout-in-swiftui",
+            "updated": 1595898387,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/good-for-enterprise-app-review",
+            "title": "\u201cGood for Enterprise\u201d app review",
+            "link": "https://{{domain}}/blog/good-for-enterprise-app-review",
+            "updated": 1595285793,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/7-killing-arguments-why-react-native-is-the-best-cross-platform-open-source-ecosystem",
+            "title": "7 killing arguments why React Native is the best cross-platform open-source ecosystem",
+            "link": "https://{{domain}}/blog/7-killing-arguments-why-react-native-is-the-best-cross-platform-open-source-ecosystem",
+            "updated": 1594679424,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/data-mining-how-different-types-of-modeling-work",
+            "title": "Data Mining: How different types of modeling work?",
+            "link": "https://{{domain}}/blog/data-mining-how-different-types-of-modeling-work",
+            "updated": 1593479375,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/automated-artifact-building-for-both-steamvr-and-oculus-quest",
+            "title": "Automated artifact building for both SteamVR and Oculus Quest",
+            "link": "https://{{domain}}/blog/automated-artifact-building-for-both-steamvr-and-oculus-quest",
+            "updated": 1593472522,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-10-features-that-the-perfect-mobile-operating-system-should-possess",
+            "title": "Top 10 features that the perfect mobile operating system should possess",
+            "link": "https://{{domain}}/blog/top-10-features-that-the-perfect-mobile-operating-system-should-possess",
+            "updated": 1592905630,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/fifteen-5-star-reviews-on-clutch",
+            "title": "Exyte is leading on worldwide IT listings",
+            "link": "https://{{domain}}/blog/fifteen-5-star-reviews-on-clutch",
+            "updated": 1592174583,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/optimization-techniques-for-porting-unity-steamvr-games-to-oculus-quest",
+            "title": "Optimization techniques for porting Unity SteamVR games to Oculus Quest",
+            "link": "https://{{domain}}/blog/optimization-techniques-for-porting-unity-steamvr-games-to-oculus-quest",
+            "updated": 1591302891,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-consume-rest-api-in-javascript",
+            "title": "How to consume REST API in JavaScript",
+            "link": "https://{{domain}}/blog/how-to-consume-rest-api-in-javascript",
+            "updated": 1591224634,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-simulate-location-while-debugging-ios-application",
+            "title": "How to simulate location while debugging iOS application?",
+            "link": "https://{{domain}}/blog/how-to-simulate-location-while-debugging-ios-application",
+            "updated": 1591056261,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/do-you-use-vr-to-its-full-potential",
+            "title": "How we made a free VR app and boosted productivity during the lockdown",
+            "link": "https://{{domain}}/blog/do-you-use-vr-to-its-full-potential",
+            "updated": 1590448461,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/gaster-free-open-source-analytics-for-smart-contracts",
+            "title": "Exyte releases free analytics tool for smart contract transactions",
+            "link": "https://{{domain}}/blog/gaster-free-open-source-analytics-for-smart-contracts",
+            "updated": 1590118313,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/things-we-wish-we-knew-about-ios-voice-over",
+            "title": "Things we wish we knew about iOS Voice Over",
+            "link": "https://{{domain}}/blog/things-we-wish-we-knew-about-ios-voice-over",
+            "updated": 1588889764,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/porting-basic-unity-steamvr-games-functionality-to-oculus-quest",
+            "title": "Porting basic Unity SteamVR game's functionality to Oculus Quest",
+            "link": "https://{{domain}}/blog/porting-basic-unity-steamvr-games-functionality-to-oculus-quest",
+            "updated": 1588812544,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-ar-games-like-pokemon-go",
+            "title": "Top AR games like Pokemon GO in 2020",
+            "link": "https://{{domain}}/blog/top-ar-games-like-pokemon-go",
+            "updated": 1586412170,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-pharmaceutical-supply-chain-benefits-from-smart-contracts",
+            "title": "How pharmaceutical supply chain benefits from smart contracts in 2020",
+            "link": "https://{{domain}}/blog/how-pharmaceutical-supply-chain-benefits-from-smart-contracts",
+            "updated": 1585786185,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/vr-full-body-tracking",
+            "title": "VR full body tracking: do you really need it?",
+            "link": "https://{{domain}}/blog/vr-full-body-tracking",
+            "updated": 1585532407,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-prevent-supply-chain-fraud-with-ethereum",
+            "title": "How to prevent supply chain fraud with the Ethereum blockchain?",
+            "link": "https://{{domain}}/blog/how-to-prevent-supply-chain-fraud-with-ethereum",
+            "updated": 1584069116,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-start-working-with-swift-format",
+            "title": "How to start working with swift-format",
+            "link": "https://{{domain}}/blog/how-to-start-working-with-swift-format",
+            "updated": 1583898864,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/whats-a-good-app-design-practice",
+            "title": "Which is a good app design practice?",
+            "link": "https://{{domain}}/blog/whats-a-good-app-design-practice",
+            "updated": 1582599221,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/creating-haptic-feedback-with-core-haptics",
+            "title": "Creating haptic feedback in iOS 13 with Core Haptics",
+            "link": "https://{{domain}}/blog/creating-haptic-feedback-with-core-haptics",
+            "updated": 1581400118,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/pros-and-cons-of-blockchain",
+            "title": "The pros and cons of blockchain technology",
+            "link": "https://{{domain}}/blog/pros-and-cons-of-blockchain",
+            "updated": 1581279941,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-23",
+            "title": "Cocoa Delights #23",
+            "link": "https://{{domain}}/blog/cocoa-delights-23",
+            "updated": 1580700848,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-22",
+            "title": "Cocoa Delights #22",
+            "link": "https://{{domain}}/blog/cocoa-delights-22",
+            "updated": 1580102293,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/understanding-ios-design-patterns",
+            "title": "Understanding iOS design patterns",
+            "link": "https://{{domain}}/blog/understanding-ios-design-patterns",
+            "updated": 1579810815,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-21",
+            "title": "Cocoa Delights #21",
+            "link": "https://{{domain}}/blog/cocoa-delights-21",
+            "updated": 1579496252,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-20",
+            "title": "Cocoa Delights #20",
+            "link": "https://{{domain}}/blog/cocoa-delights-20",
+            "updated": 1578893391,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-tutorial-replicating-activity-application",
+            "title": "SwiftUI tutorial: replicating the Activity application",
+            "link": "https://{{domain}}/blog/swiftui-tutorial-replicating-activity-application",
+            "updated": 1577081660,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-19",
+            "title": "Cocoa Delights #19",
+            "link": "https://{{domain}}/blog/cocoa-delights-19",
+            "updated": 1577073784,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-and-our-open-source-framework",
+            "title": "How SwiftUI replaced our open-source framework",
+            "link": "https://{{domain}}/blog/swiftui-and-our-open-source-framework",
+            "updated": 1576730295,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-18",
+            "title": "Cocoa Delights #18",
+            "link": "https://{{domain}}/blog/cocoa-delights-18",
+            "updated": 1576468862,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-15",
+            "title": "Cocoa Delights #15",
+            "link": "https://{{domain}}/blog/cocoa-delights-15",
+            "updated": 1576009236,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-14",
+            "title": "Cocoa Delights #14",
+            "link": "https://{{domain}}/blog/cocoa-delights-14",
+            "updated": 1576009235,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-17",
+            "title": "Cocoa Delights #17",
+            "link": "https://{{domain}}/blog/cocoa-delights-17",
+            "updated": 1575864118,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-16",
+            "title": "Cocoa Delights #16",
+            "link": "https://{{domain}}/blog/cocoa-delights-16",
+            "updated": 1575261622,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-blockchain-applications-for-mobile",
+            "title": "Top 5 blockchain mobile apps",
+            "link": "https://{{domain}}/blog/top-blockchain-applications-for-mobile",
+            "updated": 1574922020,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-13",
+            "title": "Cocoa Delights #13",
+            "link": "https://{{domain}}/blog/cocoa-delights-13",
+            "updated": 1573447229,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-12",
+            "title": "Cocoa Delights #12",
+            "link": "https://{{domain}}/blog/cocoa-delights-12",
+            "updated": 1572931964,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-11",
+            "title": "Cocoa Delights #11",
+            "link": "https://{{domain}}/blog/cocoa-delights-11",
+            "updated": 1572319427,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/blockchain-use-case-agriculture",
+            "title": "Blockchain for supply chain use case: agriculture",
+            "link": "https://{{domain}}/blog/blockchain-use-case-agriculture",
+            "updated": 1571979067,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-10",
+            "title": "Cocoa Delights #10",
+            "link": "https://{{domain}}/blog/cocoa-delights-10",
+            "updated": 1571632942,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-9",
+            "title": "Cocoa Delights #9",
+            "link": "https://{{domain}}/blog/cocoa-delights-9",
+            "updated": 1571107185,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-8",
+            "title": "Cocoa Delights #8",
+            "link": "https://{{domain}}/blog/cocoa-delights-8",
+            "updated": 1570420741,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/swiftui-tutorial-slider-control",
+            "title": "SwiftUI tutorial for slider control",
+            "link": "https://{{domain}}/blog/swiftui-tutorial-slider-control",
+            "updated": 1570151902,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-7",
+            "title": "Cocoa Delights #7",
+            "link": "https://{{domain}}/blog/cocoa-delights-7",
+            "updated": 1569808168,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-6",
+            "title": "Cocoa Delights #6",
+            "link": "https://{{domain}}/blog/cocoa-delights-6",
+            "updated": 1569198882,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-5",
+            "title": "Cocoa Delights #5",
+            "link": "https://{{domain}}/blog/cocoa-delights-5",
+            "updated": 1568611943,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/replicating-apple-card-application-using-swiftui",
+            "title": "SwiftUI tutorial: replicating the Apple Card application",
+            "link": "https://{{domain}}/blog/replicating-apple-card-application-using-swiftui",
+            "updated": 1568257800,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-4",
+            "title": "Cocoa Delights #4",
+            "link": "https://{{domain}}/blog/cocoa-delights-4",
+            "updated": 1568074880,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/cocoa-delights-3",
+            "title": "Cocoa Delights #3",
+            "link": "https://{{domain}}/blog/cocoa-delights-3",
+            "updated": 1567386795,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/oculus-quest-review",
+            "title": "Our Oculus Quest review",
+            "link": "https://{{domain}}/blog/oculus-quest-review",
+            "updated": 1566777492,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/supply-chain-with-blockchain",
+            "title": "How blockchain can be used for supply chain optimization",
+            "link": "https://{{domain}}/blog/supply-chain-with-blockchain",
+            "updated": 1564529035,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/augmented-reality-software",
+            "title": "Augmented reality software: ARKit vs. ARCore in 2020",
+            "link": "https://{{domain}}/blog/augmented-reality-software",
+            "updated": 1564131049,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/technologies-behind-immersive-VR-2",
+            "title": "VR full body tracking technologies",
+            "link": "https://{{domain}}/blog/technologies-behind-immersive-VR-2",
+            "updated": 1563502445,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/benefits-of-a-outsourcing-software-development",
+            "title": "Benefits of outsourcing software development to a dedicated team",
+            "link": "https://{{domain}}/blog/benefits-of-a-outsourcing-software-development",
+            "updated": 1562296551,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-to-develop-iOS-app",
+            "title": "How to develop an iOS app \u2014  A step by step guide for beginners",
+            "link": "https://{{domain}}/blog/how-to-develop-iOS-app",
+            "updated": 1561599302,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-36-tools-for-mobile-development",
+            "title": "Top 36 mobile app development Software in 2020",
+            "link": "https://{{domain}}/blog/top-36-tools-for-mobile-development",
+            "updated": 1560906162,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/digital-identity-is-killer-dapp",
+            "title": "Digital identity: blockchain\u2019s killer dApp",
+            "link": "https://{{domain}}/blog/digital-identity-is-killer-dapp",
+            "updated": 1560467194,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/best-blockchain-development-tools-in-2019",
+            "title": "Best blockchain development tools for entrepreneurs in 2020",
+            "link": "https://{{domain}}/blog/best-blockchain-development-tools-in-2019",
+            "updated": 1559686826,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/how-does-augmented-reality-work",
+            "title": "AR Technology: how does augmented reality work?",
+            "link": "https://{{domain}}/blog/how-does-augmented-reality-work",
+            "updated": 1558404457,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/top-5-blockchain-applications-in-financial-services",
+            "title": "Top 5 blockchain applications in financial services",
+            "link": "https://{{domain}}/blog/top-5-blockchain-applications-in-financial-services",
+            "updated": 1558072331,
+            "site_name": "Exyte Blog"
+        },
+        {
+            "id": "https://{{domain}}/blog/things-developers-are-afraid-of",
+            "title": "Things developers are afraid of",
+            "link": "https://{{domain}}/blog/things-developers-are-afraid-of",
+            "updated": 1556584518,
+            "site_name": "Exyte Blog"
+        }
+    ]
+}

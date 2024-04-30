@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://andresalla.com/?p=411",
+            "title": "Stop using \u2018branch\u2019 in your Podfiles!",
+            "link": "https://andresalla.com/en/stop-using-branch-in-your-podfiles/?utm_source=rss&utm_medium=rss&utm_campaign=stop-using-branch-in-your-podfiles",
+            "updated": 1640066290,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "https://andresalla.com/?p=380",
+            "title": "Dude, where\u2019s my view? Unknown class in iOS 12",
+            "link": "https://andresalla.com/en/dude-wheres-my-view-unknown-class-in-ios-12/?utm_source=rss&utm_medium=rss&utm_campaign=dude-wheres-my-view-unknown-class-in-ios-12",
+            "updated": 1629483403,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "https://andresalla.com/?p=306",
+            "title": "Fixing \u201cvirtual filesystem overlay file all-product-headers.yaml not found\u201d error",
+            "link": "https://andresalla.com/en/fixing-virtual-filesystem-overlay-file-all-product-headers-yaml-not-found-error/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-virtual-filesystem-overlay-file-all-product-headers-yaml-not-found-error",
+            "updated": 1625551159,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "https://andresalla.com/?p=296",
+            "title": "Cocoapods: how to deal with device-only dependencies",
+            "link": "https://andresalla.com/en/cocoapods-how-to-deal-with-device-only-dependencies/?utm_source=rss&utm_medium=rss&utm_campaign=cocoapods-how-to-deal-with-device-only-dependencies",
+            "updated": 1624989059,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=240",
+            "title": "Showing modals as a result for a requests (look at the semaphores)",
+            "link": "https://andresalla.com/en/showing-modals-as-a-result-for-a-requests-look-at-the-semaphores/?utm_source=rss&utm_medium=rss&utm_campaign=showing-modals-as-a-result-for-a-requests-look-at-the-semaphores",
+            "updated": 1591099500,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=238",
+            "title": "Quick Tip: Universal Links opening Safari in iOS13",
+            "link": "https://andresalla.com/en/quick-tip-universal-link-opening-safari-in-ios13/?utm_source=rss&utm_medium=rss&utm_campaign=quick-tip-universal-link-opening-safari-in-ios13",
+            "updated": 1591096899,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=236",
+            "title": "The end of fat binaries: XCFrameworks",
+            "link": "https://andresalla.com/en/the-end-of-fat-binaries-xcframeworks/?utm_source=rss&utm_medium=rss&utm_campaign=the-end-of-fat-binaries-xcframeworks",
+            "updated": 1591094246,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=233",
+            "title": "Adding stored properties to an extension",
+            "link": "https://andresalla.com/en/adding-stored-properties-to-an-extension/?utm_source=rss&utm_medium=rss&utm_campaign=adding-stored-properties-to-an-extension",
+            "updated": 1591091068,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=227",
+            "title": "Fat binaries and Xcode 11",
+            "link": "https://andresalla.com/en/fat-binaries-and-xcode-11/?utm_source=rss&utm_medium=rss&utm_campaign=fat-binaries-and-xcode-11",
+            "updated": 1591070679,
+            "site_url": "https://andresalla.dev/en/"
+        },
+        {
+            "id": "http://andresalla.dev/?p=206",
+            "title": "Tutorial: Creating an accessible One Time Code solution",
+            "link": "https://andresalla.com/en/tutorial-creating-an-accessible-one-time-code-solution/?utm_source=rss&utm_medium=rss&utm_campaign=tutorial-creating-an-accessible-one-time-code-solution",
+            "updated": 1591034519,
+            "site_url": "https://andresalla.dev/en/"
+        }
+    ]
+}

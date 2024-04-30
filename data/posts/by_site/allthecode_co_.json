@@ -1,0 +1,362 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://allthecode.co/blog/post/top-5-udemy-courses",
+            "title": "Top 5 Udemy Courses",
+            "link": "https://allthecode.co/blog/post/top-5-udemy-courses",
+            "updated": 1668618000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/ssr-vs-ssg-vs-spa-what-does-it-all-mean",
+            "title": "SSG vs SSR vs SPA: What Does It All Mean?",
+            "link": "https://allthecode.co/blog/post/ssr-vs-ssg-vs-spa-what-does-it-all-mean",
+            "updated": 1655398800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/setting-up-weatherkit-rest-api-in-node-js",
+            "title": "Setting Up WeatherKit REST API In NodeJS",
+            "link": "https://allthecode.co/blog/post/setting-up-weatherkit-rest-api-in-node-js",
+            "updated": 1654794000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/ultimate-web-developer-developer-terminal",
+            "title": "Ultimate Web Developer Terminal Setup",
+            "link": "https://allthecode.co/blog/post/ultimate-web-developer-developer-terminal",
+            "updated": 1654102800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/what-is-docker",
+            "title": "What is Docker?",
+            "link": "https://allthecode.co/blog/post/what-is-docker",
+            "updated": 1653584400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-long-to-learn-web-development",
+            "title": "How Long To Learn Web Development?",
+            "link": "https://allthecode.co/blog/post/how-long-to-learn-web-development",
+            "updated": 1652374800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/free-coding-courses",
+            "title": "How Can I Learn To Code For Free?",
+            "link": "https://allthecode.co/blog/post/free-coding-courses",
+            "updated": 1651683600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/software-engineer-personality",
+            "title": "Software Engineer Personality: 5 Traits For A Great Career",
+            "link": "https://allthecode.co/blog/post/software-engineer-personality",
+            "updated": 1651683600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-long-does-it-take-to-get-a-computer-science-degree",
+            "title": "How Long Does It Take To Get A Computer Science Degree?",
+            "link": "https://allthecode.co/blog/post/how-long-does-it-take-to-get-a-computer-science-degree",
+            "updated": 1650646800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/tips-for-computer-science-graduates-to-get-their-first-job",
+            "title": "8 Tips for Computer Science Graduates to Get Their First Job",
+            "link": "https://allthecode.co/blog/post/tips-for-computer-science-graduates-to-get-their-first-job",
+            "updated": 1650646800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/can-i-get-a-job-after-coding-bootcamp",
+            "title": "Can I Get A Job After Coding Bootcamp?",
+            "link": "https://allthecode.co/blog/post/can-i-get-a-job-after-coding-bootcamp",
+            "updated": 1650301200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/best-books-for-software-developers",
+            "title": "Best books for software developers",
+            "link": "https://allthecode.co/blog/post/best-books-for-software-developers",
+            "updated": 1650214800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-become-a-software-engineer",
+            "title": "How To Become A Software Engineer",
+            "link": "https://allthecode.co/blog/post/how-to-become-a-software-engineer",
+            "updated": 1649437200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-learn-new-skills-as-a-junior-developer",
+            "title": "How to learn new skills as a junior developer",
+            "link": "https://allthecode.co/blog/post/how-to-learn-new-skills-as-a-junior-developer",
+            "updated": 1646067600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/codenewbies-dont-let-your-past-determine-your-future",
+            "title": "Don\u2019t let your past determine your future",
+            "link": "https://allthecode.co/blog/post/codenewbies-dont-let-your-past-determine-your-future",
+            "updated": 1642784400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/the-best-coding-podcasts-to-listen-to-become-a-better-developer",
+            "title": "The best coding podcasts to listen to become a better developer",
+            "link": "https://allthecode.co/blog/post/the-best-coding-podcasts-to-listen-to-become-a-better-developer",
+            "updated": 1640106000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-learn-python",
+            "title": "How To Learn Python",
+            "link": "https://allthecode.co/blog/post/how-to-learn-python",
+            "updated": 1635613200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/day-in-the-life-of-a-software-developer",
+            "title": "Day In The Life Of A Software Developer",
+            "link": "https://allthecode.co/blog/post/day-in-the-life-of-a-software-developer",
+            "updated": 1634317200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/become-a-better-developer-today-quick-wins",
+            "title": "How To Become A Better Developer Today: Quick Wins",
+            "link": "https://allthecode.co/blog/post/become-a-better-developer-today-quick-wins",
+            "updated": 1631120400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/6-tips-to-beat-the-take-home-coding-test",
+            "title": "6 Tips To Beat The Take Home Coding Test",
+            "link": "https://allthecode.co/blog/post/6-tips-to-beat-the-take-home-coding-test",
+            "updated": 1630861200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-keep-up-in-the-expanding-world-of-development",
+            "title": "How to keep up in the expanding world of development",
+            "link": "https://allthecode.co/blog/post/how-to-keep-up-in-the-expanding-world-of-development",
+            "updated": 1630774800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-use-the-ternary-sensibly-in-javascript",
+            "title": "How to use the ternary statement sensibly in JavaScript",
+            "link": "https://allthecode.co/blog/post/how-to-use-the-ternary-sensibly-in-javascript",
+            "updated": 1630688400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/30-developer-portfolio-project-ideas",
+            "title": "30 Developer Portfolio Project Ideas",
+            "link": "https://allthecode.co/blog/post/30-developer-portfolio-project-ideas",
+            "updated": 1630602000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-get-better-at-code-reviews",
+            "title": "How to get better at code reviews",
+            "link": "https://allthecode.co/blog/post/how-to-get-better-at-code-reviews",
+            "updated": 1630515600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-pass-a-coding-interview",
+            "title": "How To Pass A Coding Interview",
+            "link": "https://allthecode.co/blog/post/how-to-pass-a-coding-interview",
+            "updated": 1630429200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-successfully-switch-to-a-coding-career",
+            "title": "How to successfully switch to a coding career",
+            "link": "https://allthecode.co/blog/post/how-to-successfully-switch-to-a-coding-career",
+            "updated": 1630342800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-avoid-burnout",
+            "title": "How to avoid burnout",
+            "link": "https://allthecode.co/blog/post/how-to-avoid-burnout",
+            "updated": 1630256400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/what-are-the-main-developer-roles",
+            "title": "What are the main developer roles?",
+            "link": "https://allthecode.co/blog/post/what-are-the-main-developer-roles",
+            "updated": 1630170000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/should-you-work-at-a-start-up",
+            "title": "Should you work at a start up?",
+            "link": "https://allthecode.co/blog/post/should-you-work-at-a-start-up",
+            "updated": 1630083600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/do-I-need-a-developer-portfolio",
+            "title": "Do I need a developer portfolio?",
+            "link": "https://allthecode.co/blog/post/do-I-need-a-developer-portfolio",
+            "updated": 1629910800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-use-a-journal-as-a-software-developer",
+            "title": "How to use a journal as a software developer",
+            "link": "https://allthecode.co/blog/post/how-to-use-a-journal-as-a-software-developer",
+            "updated": 1629824400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-get-your-dream-developer-job",
+            "title": "How to get your dream developer job: mistakes to avoid",
+            "link": "https://allthecode.co/blog/post/how-to-get-your-dream-developer-job",
+            "updated": 1629738000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-be-a-good-remote-junior-developer",
+            "title": "How to be a good remote junior developer",
+            "link": "https://allthecode.co/blog/post/how-to-be-a-good-remote-junior-developer",
+            "updated": 1629478800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/mastering-this-single-technology-makes-you-employable-for-life",
+            "title": "Mastering this single technology makes you employable for life",
+            "link": "https://allthecode.co/blog/post/mastering-this-single-technology-makes-you-employable-for-life",
+            "updated": 1629478800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/what-is-agile",
+            "title": "What is Agile?",
+            "link": "https://allthecode.co/blog/post/what-is-agile",
+            "updated": 1629392400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-spot-a-toxic-workplace",
+            "title": "How to spot a toxic workplace",
+            "link": "https://allthecode.co/blog/post/how-to-spot-a-toxic-workplace",
+            "updated": 1629219600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/big-tech-broke-tech-hiring",
+            "title": "Big Tech Broke Tech Hiring",
+            "link": "https://allthecode.co/blog/post/big-tech-broke-tech-hiring",
+            "updated": 1629133200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/skills-required-to-be-a-full-stack-developer-a-checklist",
+            "title": "Skills required to be a full stack developer: a checklist",
+            "link": "https://allthecode.co/blog/post/skills-required-to-be-a-full-stack-developer-a-checklist",
+            "updated": 1629046800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/one-tip-to-be-a-better-developer",
+            "title": "One tip to be a better developer",
+            "link": "https://allthecode.co/blog/post/one-tip-to-be-a-better-developer",
+            "updated": 1628960400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/what-is-a-junior-developer",
+            "title": "What is a junior developer",
+            "link": "https://allthecode.co/blog/post/what-is-a-junior-developer",
+            "updated": 1628874000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/you-dont-want-to-be-un-fireable",
+            "title": "You don't want to be un-fireable",
+            "link": "https://allthecode.co/blog/post/you-dont-want-to-be-un-fireable",
+            "updated": 1628787600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/what-do-you-need-to-start-learning-to-code",
+            "title": "What do you need to start learning to code?",
+            "link": "https://allthecode.co/blog/post/what-do-you-need-to-start-learning-to-code",
+            "updated": 1628701200,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-ask-good-questions-as-a-developer",
+            "title": "How to ask good questions as a developer",
+            "link": "https://allthecode.co/blog/post/how-to-ask-good-questions-as-a-developer",
+            "updated": 1628614800,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/should-i-use-linkedin-easy-apply",
+            "title": "Should I use LinkedIn easy apply?",
+            "link": "https://allthecode.co/blog/post/should-i-use-linkedin-easy-apply",
+            "updated": 1628528400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-do-i-find-a-coding-mentor",
+            "title": "How do I find a coding mentor?",
+            "link": "https://allthecode.co/blog/post/how-do-i-find-a-coding-mentor",
+            "updated": 1627923600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/coder-vs-developer-vs-software-engineer",
+            "title": "Coder vs developer vs software engineer",
+            "link": "https://allthecode.co/blog/post/coder-vs-developer-vs-software-engineer",
+            "updated": 1627059600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-ask-good-interview-questions",
+            "title": "How to ask good interview questions",
+            "link": "https://allthecode.co/blog/post/how-to-ask-good-interview-questions",
+            "updated": 1626800400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/which-programming-language-should-i-learn-first",
+            "title": "Which programming language should I learn first?",
+            "link": "https://allthecode.co/blog/post/which-programming-language-should-i-learn-first",
+            "updated": 1626368400,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-to-be-a-great-junior-developer",
+            "title": "How to be a great junior developer",
+            "link": "https://allthecode.co/blog/post/how-to-be-a-great-junior-developer",
+            "updated": 1625763600,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/how-long-does-it-take-to-learn-to-code",
+            "title": "How long does it take to learn to code?",
+            "link": "https://allthecode.co/blog/post/how-long-does-it-take-to-learn-to-code",
+            "updated": 1625418000,
+            "site_url": "https://allthecode.co/"
+        },
+        {
+            "id": "https://allthecode.co/blog/post/to-be-a-coder-is-to-be-a-problem-solver",
+            "title": "To be a coder is to be a problem solver",
+            "link": "https://allthecode.co/blog/post/to-be-a-coder-is-to-be-a-problem-solver",
+            "updated": 1625072400,
+            "site_url": "https://allthecode.co/"
+        }
+    ]
+}

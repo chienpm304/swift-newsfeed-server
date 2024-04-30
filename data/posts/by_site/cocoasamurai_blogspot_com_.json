@@ -1,0 +1,180 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-8584079703316304116",
+            "title": "A modest proposal for optional methods in Swift protocols",
+            "link": "https://cocoasamurai.blogspot.com/2018/08/a-modest-proposal-for-optional-methods.html",
+            "updated": 1534690074,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-6453344468349175705",
+            "title": "Basic MVVM with ReactiveCocoa",
+            "link": "https://cocoasamurai.blogspot.com/2013/03/basic-mvvm-with-reactivecocoa.html",
+            "updated": 1400683227,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-2863370892341619067",
+            "title": "Cover up those ivars",
+            "link": "https://cocoasamurai.blogspot.com/2012/08/cover-up-those-ivars.html",
+            "updated": 1346377178,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-7221250300129278830",
+            "title": "Clang Source Annotations",
+            "link": "https://cocoasamurai.blogspot.com/2012/01/clang-source-annotations.html",
+            "updated": 1328009138,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-1268257155573681769",
+            "title": "Singletons: You&#39;re doing them wrong",
+            "link": "https://cocoasamurai.blogspot.com/2011/04/singletons-your-doing-them-wrong.html",
+            "updated": 1302161028,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-7511060972352881926",
+            "title": "Xcode 4 Keyboard Shortcuts now available!",
+            "link": "https://cocoasamurai.blogspot.com/2011/03/xcode-4-keyboard-shortcuts-now.html",
+            "updated": 1299729337,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-2808731771929338882",
+            "title": "Practical Design Patterns with Blocks and Grand Central Dispatch",
+            "link": "https://cocoasamurai.blogspot.com/2011/02/practical-design-patterns-with-blocks.html",
+            "updated": 1299053150,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-357566678621387851",
+            "title": "Objective-C Memory Management & Garbage Collection",
+            "link": "https://cocoasamurai.blogspot.com/2010/12/objective-c-memory-management-garbage.html",
+            "updated": 1293539376,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-3127143436437412103",
+            "title": "OmniWeb as a Cocoa Documentation Browser",
+            "link": "https://cocoasamurai.blogspot.com/2010/11/omniweb-as-cocoa-documentation-browser.html",
+            "updated": 1290850294,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-5943190371775885124",
+            "title": "Cocoa Unbound",
+            "link": "https://cocoasamurai.blogspot.com/2010/09/cocoa-unbound.html",
+            "updated": 1283654251,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-2214186052041874955",
+            "title": "Enumerating Lines Concurrently using a Block",
+            "link": "https://cocoasamurai.blogspot.com/2010/08/enumerating-lines-concurrently-using.html",
+            "updated": 1281497301,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-3316949821053904905",
+            "title": "Good User Interface Design on Mac OS X and the iPhone OS",
+            "link": "https://cocoasamurai.blogspot.com/2010/06/good-user-interface-design-on-mac-os-x.html",
+            "updated": 1290851416,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-1648650471742237393",
+            "title": "DM CocoaHeads: Good User Interface Design in Cocoa &amp; Cocoa Touch",
+            "link": "https://cocoasamurai.blogspot.com/2010/04/dm-cocoaheads-good-user-interface.html",
+            "updated": 1270355827,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-4103346148133549113",
+            "title": "The PubSub Framework: Using RSS Feeds in your App",
+            "link": "https://cocoasamurai.blogspot.com/2010/02/pubsub-framework-using-rss-feeds-in.html",
+            "updated": 1265073673,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-5434455288492319066",
+            "title": "Understanding the Objective-C Runtime",
+            "link": "https://cocoasamurai.blogspot.com/2010/01/understanding-objective-c-runtime.html",
+            "updated": 1291170377,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-7107058904911839025",
+            "title": "Des Moines Cocoaheads 1/14: Understanding the Objective-C Runtime",
+            "link": "https://cocoasamurai.blogspot.com/2010/01/des-moines-cocoaheads-114-understanding.html",
+            "updated": 1263107556,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-4287759365536091585",
+            "title": "Book Review: Cocoa Design Patterns",
+            "link": "https://cocoasamurai.blogspot.com/2009/10/book-review-cocoa-design-patterns.html",
+            "updated": 1290851608,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-2960233858966791390",
+            "title": "New in Snow Leopard: New Mac OS X DTrace Providers",
+            "link": "https://cocoasamurai.blogspot.com/2009/09/new-in-snow-leopard-new-mac-os-x-dtrace.html",
+            "updated": 1290851689,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-6358741254245044764",
+            "title": "Xcode Shortcut Documents available under CC",
+            "link": "https://cocoasamurai.blogspot.com/2009/09/xcode-shortcut-documents-available.html",
+            "updated": 1253490869,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-4578646498277834526",
+            "title": "Making NSOperation look like GCD",
+            "link": "https://cocoasamurai.blogspot.com/2009/09/making-nsoperation-look-like-gcd.html",
+            "updated": 1253154470,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-4883226426875540951",
+            "title": "A Guide to Blocks &amp; Grand Central Dispatch (and the Cocoa API&#39;s making use of them)",
+            "link": "https://cocoasamurai.blogspot.com/2009/09/guide-to-blocks-grand-central-dispatch.html",
+            "updated": 1253082357,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-1434985140073312017",
+            "title": "Des Moines CocoaHeads: Blocks & Grand Central Dispatch (Updated with Room#)",
+            "link": "https://cocoasamurai.blogspot.com/2009/09/des-moines-cocoaheads-blocks-grand.html",
+            "updated": 1252452553,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-2172372252036667066",
+            "title": "Xcode Shortcuts Updated for Xcode 3.2 on Mac OS X 10.6 Snow Leopard",
+            "link": "https://cocoasamurai.blogspot.com/2009/08/xcode-shortcuts-updated-for-xcode-32-on.html",
+            "updated": 1253492345,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-3470463066669671532",
+            "title": "See you at WWDC!",
+            "link": "https://cocoasamurai.blogspot.com/2009/06/see-you-at-wwdc.html",
+            "updated": 1244255538,
+            "site_name": "Cocoa Samurai"
+        },
+        {
+            "id": "tag:blogger.com,1999:blog-34442452.post-7916280788797517550",
+            "title": "Distributed Version Control &amp; Git [Part 2]",
+            "link": "https://cocoasamurai.blogspot.com/2009/04/distributed-version-control-git-part-2.html",
+            "updated": 1240061685,
+            "site_name": "Cocoa Samurai"
+        }
+    ]
+}

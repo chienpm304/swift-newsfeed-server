@@ -1,0 +1,61 @@
+{
+    "updated": 1714471082,
+    "posts": [
+        {
+            "id": "https://www.tramline.app/blog/announcing-open-source-and-open-sign-ups",
+            "title": "Announcing open source and open sign-ups | Tramline",
+            "link": "https://www.tramline.app/blog/announcing-open-source-and-open-sign-ups",
+            "updated": 1711539721,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/git-branching-patterns-for-mobile-app-development",
+            "title": "Git branching patterns for mobile app development | Tramline",
+            "link": "https://www.tramline.app/blog/git-branching-patterns-for-mobile-app-development",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/from-feature-driven-delivery-to-timeline-driven-delivery",
+            "title": "From feature-driven delivery to timeline-driven delivery | Tramline",
+            "link": "https://www.tramline.app/blog/from-feature-driven-delivery-to-timeline-driven-delivery",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/2022-here-and-beyond",
+            "title": "2022: here and beyond | Tramline",
+            "link": "https://www.tramline.app/blog/2022-here-and-beyond",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/introducing-macige",
+            "title": "Introducing Macige: CI workflow generator for mobile app development | Tramline",
+            "link": "https://www.tramline.app/blog/introducing-macige",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/applelink-practical-api-recipes-for-app-store-connect-workflows",
+            "title": "Applelink: Practical API Recipes for App Store Connect Workflows | Tramline",
+            "link": "https://www.tramline.app/blog/applelink-practical-api-recipes-for-app-store-connect-workflows",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/spotlight-release-visibility",
+            "title": "Spotlight: Release Visibility | Tramline",
+            "link": "https://www.tramline.app/blog/spotlight-release-visibility",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        },
+        {
+            "id": "https://www.tramline.app/blog/spotlight-build-distribution",
+            "title": "Spotlight: Build Distribution | Tramline",
+            "link": "https://www.tramline.app/blog/spotlight-build-distribution",
+            "updated": 1709300321,
+            "site_name": "Tramline Blog"
+        }
+    ]
+}

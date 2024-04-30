@@ -1,0 +1,75 @@
+{
+    "updated": 1714471027,
+    "posts": [
+        {
+            "id": "https://www.vadimbulavin.com/mocking-with-sourcery",
+            "title": "Code Generating Swift Mocks with Sourcery",
+            "link": "https://www.vadimbulavin.com/mocking-in-swift-using-sourcery/",
+            "updated": 1615222800,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/popup-swiftui",
+            "title": "Custom Popup in SwiftUI",
+            "link": "https://www.vadimbulavin.com/swiftui-popup-sheet-popover/",
+            "updated": 1614013200,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/call-as-function",
+            "title": "Callable Objects and callAsFunction() in Swift",
+            "link": "https://www.vadimbulavin.com/call-as-function-in-swift/",
+            "updated": 1611507600,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/auto-layout-programmatically",
+            "title": "Effective Auto Layout Programmatically in Swift",
+            "link": "https://www.vadimbulavin.com/effective-auto-layout-programmatically-in-swift/",
+            "updated": 1610298000,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/swiftui-view-lifecycle",
+            "title": "SwiftUI View Lifecycle",
+            "link": "https://www.vadimbulavin.com/swiftui-view-lifecycle/",
+            "updated": 1605632400,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/unit-testing-async-code-in-swift",
+            "title": "Unit Testing Asynchronous Code in Swift",
+            "link": "https://www.vadimbulavin.com/unit-testing-async-code-in-swift/",
+            "updated": 1603558800,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/checking-network-connectivity",
+            "title": "Working with an Internet Connection on iOS with Swift: Best Practices",
+            "link": "https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/",
+            "updated": 1596992400,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/infinite-list-swiftui-combine",
+            "title": "Infinite List Scroll with SwiftUI and Combine",
+            "link": "https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/",
+            "updated": 1592154000,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/pointers-in-swift",
+            "title": "Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers",
+            "link": "https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/",
+            "updated": 1591722000,
+            "site_name": "YASB - Yet Another Swift Blog"
+        },
+        {
+            "id": "https://www.vadimbulavin.com/swiftui-preview-at-scale",
+            "title": "SwiftUI Previews at Scale",
+            "link": "https://www.vadimbulavin.com/swiftui-previews-at-scale/",
+            "updated": 1589734800,
+            "site_name": "YASB - Yet Another Swift Blog"
+        }
+    ]
+}

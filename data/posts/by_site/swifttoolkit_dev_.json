@@ -1,0 +1,40 @@
+{
+    "updated": 1714470966,
+    "posts": [
+        {
+            "id": "https://SwiftToolkit.dev/posts/hello-world",
+            "title": "Hello, World!",
+            "link": "https://SwiftToolkit.dev/posts/hello-world",
+            "updated": 1704733200,
+            "site_name": "Swift Toolkit"
+        },
+        {
+            "id": "https://SwiftToolkit.dev/posts/spm-cheatsheet",
+            "title": "The Missing SPM Syntax Cheatsheet",
+            "link": "https://SwiftToolkit.dev/posts/spm-cheatsheet",
+            "updated": 1705338000,
+            "site_name": "Swift Toolkit"
+        },
+        {
+            "id": "https://SwiftToolkit.dev/posts/vercel-lambda-logs",
+            "title": "Printing logs in Vercel and AWS Lambda functions",
+            "link": "https://SwiftToolkit.dev/posts/vercel-lambda-logs",
+            "updated": 1705942800,
+            "site_name": "Swift Toolkit"
+        },
+        {
+            "id": "https://SwiftToolkit.dev/posts/argument-parser-guide",
+            "title": "The Interactive Swift Argument Parser Guide - Part I: Basics & Arguments",
+            "link": "https://SwiftToolkit.dev/posts/argument-parser-guide",
+            "updated": 1710954000,
+            "site_name": "Swift Toolkit"
+        },
+        {
+            "id": "https://SwiftToolkit.dev/posts/argument-parser-guide-2",
+            "title": "The Interactive Swift Argument Parser Guide - Part II: Flags",
+            "link": "https://SwiftToolkit.dev/posts/argument-parser-guide-2",
+            "updated": 1713805200,
+            "site_name": "Swift Toolkit"
+        }
+    ]
+}

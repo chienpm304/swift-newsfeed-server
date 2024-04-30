@@ -1,0 +1,271 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024a",
+            "title": "iOS 17.5 beta 3 (21F5063f)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024a",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024b",
+            "title": "iPadOS 17.5 beta 3 (21F5063f)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024b",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024c",
+            "title": "macOS 14.5 beta 3 (23F5064f)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024c",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024d",
+            "title": "tvOS 17.5 beta 3 (21L5558d)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024d",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024e",
+            "title": "visionOS 1.2 beta 3 (21O5570d)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024e",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04232024f",
+            "title": "watchOS 10.5 beta 3 (21T5560d)",
+            "link": "https://developer.apple.com/news/releases/?id=04232024f",
+            "updated": 1713891600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024i",
+            "title": "TestFlight update",
+            "link": "https://developer.apple.com/news/releases/?id=04162024i",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024a",
+            "title": "App Store Connect API 3.4.1",
+            "link": "https://developer.apple.com/news/releases/?id=04162024a",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024c",
+            "title": "iOS 17.5 beta 2 (21F5058e)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024c",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024g",
+            "title": "iPadOS 17.5 beta 2 (21F5058e)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024g",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024e",
+            "title": "macOS 14.5 beta 2 (23F5059e)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024e",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024d",
+            "title": "tvOS 17.5 beta 2 (21L5553e)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024d",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024f",
+            "title": "visionOS 1.2 beta 2 (21O5565d)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024f",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024h",
+            "title": "watchOS 10.5 beta 2 (21T5555d)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024h",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04162024b",
+            "title": "Xcode 15.4 beta (15F5021i)",
+            "link": "https://developer.apple.com/news/releases/?id=04162024b",
+            "updated": 1713286800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04092024b",
+            "title": "visionOS 1.2 beta (21O5555f)",
+            "link": "https://developer.apple.com/news/releases/?id=04092024b",
+            "updated": 1712682000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04092024a",
+            "title": "visionOS 1.1.2 (21O231)",
+            "link": "https://developer.apple.com/news/releases/?id=04092024a",
+            "updated": 1712682000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024f",
+            "title": "iOS 17.5 beta (21F5048f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024f",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024e",
+            "title": "iPadOS 17.5 beta (21F5048f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024e",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024d",
+            "title": "macOS 14.5 beta (23F5049f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024d",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024c",
+            "title": "tvOS 17.5 beta (21L5543d)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024c",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024a",
+            "title": "watchOS 10.5 beta (21T5545f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024a",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03282024a",
+            "title": "App Store Connect update",
+            "link": "https://developer.apple.com/news/releases/?id=03282024a",
+            "updated": 1711645200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03272024b",
+            "title": "iOS 17.4.1 (21E237)",
+            "link": "https://developer.apple.com/news/releases/?id=03272024b",
+            "updated": 1711558800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03272024a",
+            "title": "iPadOS 17.4.1 (21E237)",
+            "link": "https://developer.apple.com/news/releases/?id=03272024a",
+            "updated": 1711558800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03252024a",
+            "title": "macOS 14.4.1 (23E224)",
+            "link": "https://developer.apple.com/news/releases/?id=03252024a",
+            "updated": 1711386000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03212024b",
+            "title": "iOS 16.7.7 (20H330)",
+            "link": "https://developer.apple.com/news/releases/?id=03212024b",
+            "updated": 1711040400,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03212024a",
+            "title": "iPadOS 16.7.7 (20H330)",
+            "link": "https://developer.apple.com/news/releases/?id=03212024a",
+            "updated": 1711040400,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03072024c",
+            "title": "tvOS 17.4 (21L227)",
+            "link": "https://developer.apple.com/news/releases/?id=03072024c",
+            "updated": 1709830800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03072024a",
+            "title": "watchOS 10.4 (21T216)",
+            "link": "https://developer.apple.com/news/releases/?id=03072024a",
+            "updated": 1709830800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03052024h",
+            "title": "App Store Connect API 3.4",
+            "link": "https://developer.apple.com/news/releases/?id=03052024h",
+            "updated": 1709658000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03052024g",
+            "title": "Xcode 15.3 (15E204a)",
+            "link": "https://developer.apple.com/news/releases/?id=03052024g",
+            "updated": 1709658000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03052024b",
+            "title": "iOS 15.8.2 (19H384)",
+            "link": "https://developer.apple.com/news/releases/?id=03052024b",
+            "updated": 1709658000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03052024a",
+            "title": "iPadOS 15.8.2 (19H384)",
+            "link": "https://developer.apple.com/news/releases/?id=03052024a",
+            "updated": 1709658000,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=03042024f",
+            "title": "TestFlight 3.5.1",
+            "link": "https://developer.apple.com/news/releases/?id=03042024f",
+            "updated": 1709571600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=02282024a",
+            "title": "App Store Connect update",
+            "link": "https://developer.apple.com/news/releases/?id=02282024a",
+            "updated": 1709164800,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=02082024e",
+            "title": "App Store Connect update",
+            "link": "https://developer.apple.com/news/releases/?id=02082024e",
+            "updated": 1707411600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=02082024g",
+            "title": "App Store Connect  1.12.4",
+            "link": "https://developer.apple.com/news/releases/?id=02082024g",
+            "updated": 1707411600,
+            "site_url": "https://developer.apple.com/news/releases/"
+        }
+    ]
+}

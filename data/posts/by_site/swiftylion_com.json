@@ -1,0 +1,264 @@
+{
+    "updated": 1714471035,
+    "posts": [
+        {
+            "id": "https://swiftylion.com/articles/force-dark-mode-to-view-in-swiftui",
+            "title": "Force Dark Mode to View in SwiftUI",
+            "link": "https://swiftylion.com/articles/force-dark-mode-to-view-in-swiftui",
+            "updated": 1701399334,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/background-blur-with-materials-in-swiftui",
+            "title": "Background Blur with Materials in SwiftUI",
+            "link": "https://swiftylion.com/articles/background-blur-with-materials-in-swiftui",
+            "updated": 1701229453,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/how-to-correctly-use-secondary-hierarchy-in-swiftui",
+            "title": "How to Correctly use .secondary Hierarchy in SwiftUI",
+            "link": "https://swiftylion.com/articles/how-to-correctly-use-secondary-hierarchy-in-swiftui",
+            "updated": 1701247641,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/add-custom-view-to-safearea-in-swiftui",
+            "title": "Add Custom View to SafeArea in SwiftUI",
+            "link": "https://swiftylion.com/articles/add-custom-view-to-safearea-in-swiftui",
+            "updated": 1700205623,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/cycle-inside-error-xcode",
+            "title": "Fix \u201cCycle Inside\u201c Error in Xcode",
+            "link": "https://swiftylion.com/articles/cycle-inside-error-xcode",
+            "updated": 1701247652,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/some-files-could-not-be-transferred-code-23",
+            "title": "Fix \u201cSome files could not be transferred (code 23)\u201c Error in Xcode",
+            "link": "https://swiftylion.com/articles/some-files-could-not-be-transferred-code-23",
+            "updated": 1701247664,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/tutorial-how-to-create-a-timed-paging-carousel-like-instagram",
+            "title": "Tutorial: How to Create a Timed Paging Carousel Like Instagram",
+            "link": "https://swiftylion.com/articles/tutorial-how-to-create-a-timed-paging-carousel-like-instagram",
+            "updated": 1688709981,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/create-menus-with-palette-picker-in-swiftui-and-uikit",
+            "title": "Create Menus with Palette Picker in SwiftUI and UIKit",
+            "link": "https://swiftylion.com/articles/create-menus-with-palette-picker-in-swiftui-and-uikit",
+            "updated": 1688097819,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/autocompletion-for-images-and-colours-in-xcode-15",
+            "title": "Autocompletion for Images and Colours in Xcode 15",
+            "link": "https://swiftylion.com/articles/autocompletion-for-images-and-colours-in-xcode-15",
+            "updated": 1687847609,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/format-functions-to-multiple-lines-in-xcode-15",
+            "title": "Format Functions to Multiple Lines in Xcode 15",
+            "link": "https://swiftylion.com/articles/format-functions-to-multiple-lines-in-xcode-15",
+            "updated": 1701247683,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/if-switch-syntax-improvements-in-swift",
+            "title": "Make Code Easier to Write and Read in Swift 5.9",
+            "link": "https://swiftylion.com/articles/if-switch-syntax-improvements-in-swift",
+            "updated": 1687907961,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/contentunavailableview-handle-empty-states",
+            "title": "ContentUnavailableView Handle Empty States in SwiftUI",
+            "link": "https://swiftylion.com/articles/contentunavailableview-handle-empty-states",
+            "updated": 1687140666,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/build-input-file-cannot-be-found",
+            "title": "Fix \u201cBuild input file cannot be found\u201c Error in Xcode",
+            "link": "https://swiftylion.com/articles/build-input-file-cannot-be-found",
+            "updated": 1701247698,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/swift-data-the-successor-of-coredata-with-swiftui-explained",
+            "title": "SwiftData the Successor of CoreData Explained with SwiftUI",
+            "link": "https://swiftylion.com/articles/swift-data-the-successor-of-coredata-with-swiftui-explained",
+            "updated": 1700205051,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/swift-macros",
+            "title": "How to Create Swift Macros with Xcode 15",
+            "link": "https://swiftylion.com/articles/swift-macros",
+            "updated": 1700205018,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/scrollable-swiftui-charts",
+            "title": "Make your Chart Scrollable with SwiftUI Charts (iOS 17)",
+            "link": "https://swiftylion.com/articles/scrollable-swiftui-charts",
+            "updated": 1700103089,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/new-features-xcode15",
+            "title": "All the New Features in Xcode 15",
+            "link": "https://swiftylion.com/articles/new-features-xcode15",
+            "updated": 1687328070,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/missing-file-libarclite",
+            "title": "Error \u201cMissing file libarclite\u201c (Xcode 14.3)",
+            "link": "https://swiftylion.com/articles/missing-file-libarclite",
+            "updated": 1700205024,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/wwdc23-news",
+            "title": "Everything Apple Announced at WWDC 23",
+            "link": "https://swiftylion.com/articles/wwdc23-news",
+            "updated": 1687328045,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/take-simulator-screenshot-without-shadows",
+            "title": "How To Take an Xcode Simulator Screenshot without Shadows",
+            "link": "https://swiftylion.com/articles/take-simulator-screenshot-without-shadows",
+            "updated": 1686963701,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/swift-paste-button",
+            "title": "How to Let User Paste Data Into your App in SwiftUI",
+            "link": "https://swiftylion.com/articles/swift-paste-button",
+            "updated": 1687328029,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/persist-and-retrieve-user-folders-access",
+            "title": "Persist Access to User Folders Across Launches (Part 2)",
+            "link": "https://swiftylion.com/articles/persist-and-retrieve-user-folders-access",
+            "updated": 1686963908,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/read-and-write-files-in-user-folders",
+            "title": "Read and Write Data in a Sandboxed App (Part 1)",
+            "link": "https://swiftylion.com/articles/read-and-write-files-in-user-folders",
+            "updated": 1701417889,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/save-objects-from-api-to-coredata",
+            "title": "From REST API to CoreData in One Step",
+            "link": "https://swiftylion.com/articles/save-objects-from-api-to-coredata",
+            "updated": 1700205044,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/missing-package-product",
+            "title": "Error \u201cMissing package product\u201c for Swift Packages (SPM)",
+            "link": "https://swiftylion.com/articles/missing-package-product",
+            "updated": 1699240305,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/no-such-file-directory-for-libraries",
+            "title": "Error \u201cNo such file or directory\u201c for 3rd Party Libraries",
+            "link": "https://swiftylion.com/articles/no-such-file-directory-for-libraries",
+            "updated": 1701247733,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/wwdc2023",
+            "title": "Gurman Reveals What Will Be Presented During WWDC 2023",
+            "link": "https://swiftylion.com/articles/wwdc2023",
+            "updated": 1686964366,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/coredata-cloudkit-not-sync-in-production",
+            "title": "CloudKit With CoreData Not Working in Production",
+            "link": "https://swiftylion.com/articles/coredata-cloudkit-not-sync-in-production",
+            "updated": 1686964425,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/measurement-api-part-two",
+            "title": "Create Custom Units and Dimensions in Swift (Part 2)",
+            "link": "https://swiftylion.com/articles/measurement-api-part-two",
+            "updated": 1686964809,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/measurement-api-part-one",
+            "title": "Units and Measurement Conversion in Swift (Part 1)",
+            "link": "https://swiftylion.com/articles/measurement-api-part-one",
+            "updated": 1686964813,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/dependency-injection",
+            "title": "Understanding Dependency Injection in Swift",
+            "link": "https://swiftylion.com/articles/dependency-injection",
+            "updated": 1700205030,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/abstract-factory",
+            "title": "Abstract Factory Pattern in Swift",
+            "link": "https://swiftylion.com/articles/abstract-factory",
+            "updated": 1700205038,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/flcharts",
+            "title": "FLCharts: Create Bar Chart easily",
+            "link": "https://swiftylion.com/articles/flcharts",
+            "updated": 1686965506,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/markdown-swiftui",
+            "title": "How To Use Markdown in SwiftUI",
+            "link": "https://swiftylion.com/articles/markdown-swiftui",
+            "updated": 1686965391,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/enable-water-lock-watch-kit",
+            "title": "Apple Watch Water Lock",
+            "link": "https://swiftylion.com/articles/enable-water-lock-watch-kit",
+            "updated": 1686964704,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/coredata-with-swiftui",
+            "title": "Combine CoreData and SwiftUI",
+            "link": "https://swiftylion.com/articles/coredata-with-swiftui",
+            "updated": 1700205065,
+            "site_name": "Swifty Lion"
+        },
+        {
+            "id": "https://swiftylion.com/articles/persistence-controller",
+            "title": "Persistence Controller Example",
+            "link": "https://swiftylion.com/articles/persistence-controller",
+            "updated": 1686965565,
+            "site_name": "Swifty Lion"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://alexknows.biz/swift/2024/02/13/generics-beyond-ints-and-strings-in-swift",
+            "title": "Generics Beyond Ints and Strings in Swift",
+            "link": "https://alexknows.biz/swift/2024/02/13/generics-beyond-ints-and-strings-in-swift.html",
+            "updated": 1707771789,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/swift/2024/02/13/write-less-convoluted-business-logic-with-subscripts",
+            "title": "Write Less Convoluted ViewModels with Subscripts",
+            "link": "https://alexknows.biz/swift/2024/02/13/write-less-convoluted-business-logic-with-subscripts.html",
+            "updated": 1707771789,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/algorithm/2024/01/27/visualize-reversing-linked-lists-in-swift-differently",
+            "title": "Visualize Reversing Linked Lists in Swift Differently",
+            "link": "https://alexknows.biz/algorithm/2024/01/27/visualize-reversing-linked-lists-in-swift-differently.html",
+            "updated": 1706302989,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/learning/2023/03/23/how-to-make-technical-concepts-easier-to-recall",
+            "title": "How to Make Technical Concepts Easier to Recall",
+            "link": "https://alexknows.biz/learning/2023/03/23/how-to-make-technical-concepts-easier-to-recall.html",
+            "updated": 1679518989,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/swift/2023/02/28/why-you-should-use-async-await-over-closures-moving-forward",
+            "title": "Why You Should Use Async/Await Over Closures Moving Forward",
+            "link": "https://alexknows.biz/swift/2023/02/28/why-you-should-use-async-await-over-closures-moving-forward.html",
+            "updated": 1677531789,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/startups/2022/09/01/the-ultimate-resource-guide-to-discovering-and-selecting-great-startup-ideas",
+            "title": "The Ultimate Resource Guide to Discovering and Selecting Great Startup Ideas",
+            "link": "https://alexknows.biz/startups/2022/09/01/the-ultimate-resource-guide-to-discovering-and-selecting-great-startup-ideas.html",
+            "updated": 1661979789,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/swift/2022/08/31/the-decorator-pattern-saved-the-day",
+            "title": "The Decorator Pattern Saved the Day",
+            "link": "https://alexknows.biz/swift/2022/08/31/the-decorator-pattern-saved-the-day.html",
+            "updated": 1661893389,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/learning/2022/05/30/make-learning-your-secret-weapon-to-a-stress-free-life",
+            "title": "Make Learning your Secret Weapon to a Stress-free Life",
+            "link": "https://alexknows.biz/learning/2022/05/30/make-learning-your-secret-weapon-to-a-stress-free-life.html",
+            "updated": 1653858189,
+            "site_url": "https://alexknows.biz/"
+        },
+        {
+            "id": "https://alexknows.biz/swift/2022/02/28/why-ios-developers-overlook-the-usefulness-of-unowned",
+            "title": "Why iOS Developers Overlook the Usefulness of Unowned",
+            "link": "https://alexknows.biz/swift/2022/02/28/why-ios-developers-overlook-the-usefulness-of-unowned.html",
+            "updated": 1645995789,
+            "site_url": "https://alexknows.biz/"
+        }
+    ]
+}

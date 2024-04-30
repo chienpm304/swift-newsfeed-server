@@ -1,0 +1,110 @@
+{
+    "updated": 1714470867,
+    "posts": [
+        {
+            "id": "65776fdd6be7890640879132",
+            "title": "Testing network calls using URLProtocol",
+            "link": "https://arturgruchala.com/testing-network-calls-using/",
+            "updated": 1702537230,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "6554a18e6be7890640879081",
+            "title": "Unit conversion is easy in Swift",
+            "link": "https://arturgruchala.com/units-conversion-is-easy-in-swift/",
+            "updated": 1700118010,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "65042b97cf15c3063ce21c24",
+            "title": "The Lost Art of Makefile: A Guide for iOS Developers",
+            "link": "https://arturgruchala.com/lost-art-of-makefile/",
+            "updated": 1696485615,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "6504265ecf15c3063ce21be3",
+            "title": "Deprecation of rbenv on Bitrise: Switching to asdf",
+            "link": "https://arturgruchala.com/rbenv-to-asdf/",
+            "updated": 1695615782,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "64c4ebeffd5c6511356212df",
+            "title": "Mastering SwiftUI Shadow Loaders: Making Implementation a Breeze",
+            "link": "https://arturgruchala.com/configurable-shadow-loader-in-swiftui/",
+            "updated": 1691650800,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "64468c4623528c5c4f2052d8",
+            "title": "Streamlining JSON Encoding and Decoding in Swift with Property Wrappers",
+            "link": "https://arturgruchala.com/codable-protocol-on-steroids/",
+            "updated": 1690441253,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "64a7c8fb23528c5c4f205409",
+            "title": "From Cocoapods to SPM: Automate Versioning with Fastlane's New Action",
+            "link": "https://arturgruchala.com/from-cocoapods-to-spm-automate-versioning-with-fastlanes-new-plugin/",
+            "updated": 1689231606,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "64660b3323528c5c4f2053da",
+            "title": "Awesome Lightweight Asynchronous Process Handling Made Easy in Swift",
+            "link": "https://arturgruchala.com/asynchronous-process-handling/",
+            "updated": 1684384255,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "6458f03e23528c5c4f205330",
+            "title": "Parallax header effect in SwiftUI using CoordinateSpace",
+            "link": "https://arturgruchala.com/parallax-header-effect-in-swiftui-using-coordinatespace/",
+            "updated": 1683784835,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "63d1493523528c5c4f20517f",
+            "title": "Handling keyboard events in iOS",
+            "link": "https://arturgruchala.com/handling-keyboard-events-in-ios/",
+            "updated": 1681970402,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "63ee645423528c5c4f205187",
+            "title": "Keyframe animations in SwiftUI",
+            "link": "https://arturgruchala.com/key-frame-animations-in-swiftui/",
+            "updated": 1677139230,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "63cbffe123528c5c4f205071",
+            "title": "Copy on Write in Swift explained with examples",
+            "link": "https://arturgruchala.com/copy-on-write-in-swift-explained-with-examples/",
+            "updated": 1674716424,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "637ddfc9ca119005b378019c",
+            "title": "Testing async/await exceptions",
+            "link": "https://arturgruchala.com/testing-async-await-exceptions/",
+            "updated": 1669276815,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "6344086dca119005b378011b",
+            "title": "Bidirectional collection view with orthogonalScrollingBehavior",
+            "link": "https://arturgruchala.com/bidirectional-collection-view-with-orthogonalscrollingbehavior/",
+            "updated": 1665644450,
+            "site_url": "https://arturgruchala.com/"
+        },
+        {
+            "id": "6331fd1cca119005b378000d",
+            "title": "The power of Compositional Layout",
+            "link": "https://arturgruchala.com/power-of-compositional-layout/",
+            "updated": 1664431214,
+            "site_url": "https://arturgruchala.com/"
+        }
+    ]
+}

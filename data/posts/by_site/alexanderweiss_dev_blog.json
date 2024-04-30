@@ -1,0 +1,145 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips",
+            "title": "Style your TipKit Tips",
+            "link": "https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips",
+            "updated": 1694797200,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-08-13-push-notification-in-swiftui",
+            "title": "Push Notifications in SwiftUI",
+            "link": "https://alexanderweiss.dev/blog/2023-08-13-push-notification-in-swiftui",
+            "updated": 1691859600,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-07-04-appstore-connect-manage-app-version-and-build-number",
+            "title": "AppStore Connect: Manage Version and build number",
+            "link": "https://alexanderweiss.dev/blog/2023-07-04-appstore-connect-manage-app-version-and-build-number",
+            "updated": 1688403600,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-06-10-appintents-for-widgets",
+            "title": "AppIntents for Widgets",
+            "link": "https://alexanderweiss.dev/blog/2023-06-10-appintents-for-widgets",
+            "updated": 1686330000,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance",
+            "title": "Double Protocol Conformance",
+            "link": "https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance",
+            "updated": 1682182800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-04-16-lpmetadataprovider-extract-url-metadata",
+            "title": "LPMetadataProvider - Extract URL metadata",
+            "link": "https://alexanderweiss.dev/blog/2023-04-16-lpmetadataprovider-extract-url-metadata",
+            "updated": 1681578000,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-03-05-swiftui-task-modifier",
+            "title": "SwiftUI's .task modifier",
+            "link": "https://alexanderweiss.dev/blog/2023-03-05-swiftui-task-modifier",
+            "updated": 1677949200,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-02-22-widget-intent-recommendations-and-a-bug",
+            "title": "Widget Intent recommendations on watchOS and a bug",
+            "link": "https://alexanderweiss.dev/blog/2023-02-22-widget-intent-recommendations-and-a-bug",
+            "updated": 1676998800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-02-11-ios-ui-testing-with-maestro",
+            "title": "iOS UI Testing with maestro",
+            "link": "https://alexanderweiss.dev/blog/2023-02-11-ios-ui-testing-with-maestro",
+            "updated": 1676048400,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-02-01-detect-watchapp-state-changes",
+            "title": "Detect watchOS app state changes",
+            "link": "https://alexanderweiss.dev/blog/2023-02-01-detect-watchapp-state-changes",
+            "updated": 1675184400,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-01-24-accidental-double-push-with-swiftui-navigationstack",
+            "title": "Accidental Multiple Push with SwiftUI NavigationStack",
+            "link": "https://alexanderweiss.dev/blog/2023-01-24-accidental-double-push-with-swiftui-navigationstack",
+            "updated": 1674493200,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity",
+            "title": "Three Ways to communicate via WatchConnectivity",
+            "link": "https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity",
+            "updated": 1673974800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2022-12-18-modify-long-look-notification-view-on-watchos",
+            "title": "Modify Long Look Notification View on watchOS",
+            "link": "https://alexanderweiss.dev/blog/2022-12-18-modify-long-look-notification-view-on-watchos",
+            "updated": 1671296400,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2022-11-19-redact-your-lockscreen-widgets-when-the-device-is-locked",
+            "title": "Redact Lock Screen Widgets when the device is locked",
+            "link": "https://alexanderweiss.dev/blog/2022-11-19-redact-your-lockscreen-widgets-when-the-device-is-locked",
+            "updated": 1668790800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures",
+            "title": "Scale up your app with Microfeatures",
+            "link": "https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures",
+            "updated": 1641920400,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages",
+            "title": "Add test data to SPM packages",
+            "link": "https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages",
+            "updated": 1621011600,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2021-03-29-from-uiimage-to-searchable-pdf-part-3",
+            "title": "From UIImage to searchable PDF Part 3",
+            "link": "https://alexanderweiss.dev/blog/2021-03-29-from-uiimage-to-searchable-pdf-part-3",
+            "updated": 1616950800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2021-03-14-empty-state-with-diffable-datasource",
+            "title": "Empty state with diffable datasource",
+            "link": "https://alexanderweiss.dev/blog/2021-03-14-empty-state-with-diffable-datasource",
+            "updated": 1615654800,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2021-01-24-from-uiimage-to-searchable-pdf-part-2",
+            "title": "From UIImage to searchable PDF Part 2",
+            "link": "https://alexanderweiss.dev/blog/2021-01-24-from-uiimage-to-searchable-pdf-part-2",
+            "updated": 1611421200,
+            "site_url": "https://alexanderweiss.dev/blog"
+        },
+        {
+            "id": "https://alexanderweiss.dev/blog/2020-12-13-spm-tests-on-github-actions",
+            "title": "SPM tests on GitHub Actions",
+            "link": "https://alexanderweiss.dev/blog/2020-12-13-spm-tests-on-github-actions",
+            "updated": 1607792400,
+            "site_url": "https://alexanderweiss.dev/blog"
+        }
+    ]
+}

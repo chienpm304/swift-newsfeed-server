@@ -1,0 +1,138 @@
+{
+    "updated": 1714470982,
+    "posts": [
+        {
+            "id": "https://www.uraimo.com/2019/04/11/A-long-overdue-update-on-Swift-5-0-for-raspberry-pi-zero-1-2-3",
+            "title": "A Long Overdue Update on Swift 5.0 For Raspberry Pi Zero/1/2/3",
+            "link": "https://www.uraimo.com/2019/04/11/A-long-overdue-update-on-Swift-5-0-for-raspberry-pi-zero-1-2-3/",
+            "updated": 1554915600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future",
+            "title": "All about Concurrency in Swift - Part 2: The Future",
+            "link": "https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future/",
+            "updated": 1500656400,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present",
+            "title": "All about Concurrency in Swift - Part 1: The Present",
+            "link": "https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/",
+            "updated": 1494090000,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift",
+            "title": "Building a LISP from scratch with Swift",
+            "link": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/",
+            "updated": 1486227600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance",
+            "title": "Unowned or Weak? Lifetime and Performance",
+            "link": "https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/",
+            "updated": 1477501200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift",
+            "title": "Recursive Tail Calls and Trampolines in Swift",
+            "link": "https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/",
+            "updated": 1462381200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know",
+            "title": "Swift And C: Everything You Need to Know on Types, Pointers and more",
+            "link": "https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/",
+            "updated": 1459962000,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/02/09/a-short-swift-gyb-tutorial",
+            "title": "A Short Swift GYB Tutorial",
+            "link": "https://www.uraimo.com/2016/02/09/a-short-swift-gyb-tutorial/",
+            "updated": 1454950800,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/02/05/Dealing-With-Bit-Sets-In-Swift",
+            "title": "Dealing with Bit Sets in Swift",
+            "link": "https://www.uraimo.com/2016/02/05/Dealing-With-Bit-Sets-In-Swift/",
+            "updated": 1454605200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends",
+            "title": "10 Swift One Liners To Impress Your Friends",
+            "link": "https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/",
+            "updated": 1452013200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/12/08/XCode-7.2-and-Swift-2.1.1-released",
+            "title": "Xcode 7.2 and Swift 2.1.1 Released [Updated, XCode 7.2.1]",
+            "link": "https://www.uraimo.com/2015/12/08/XCode-7.2-and-Swift-2.1.1-released/",
+            "updated": 1449507600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/12/03/Swift-3-upcoming-changes",
+            "title": "Swift 3.0 Upcoming Changes",
+            "link": "https://www.uraimo.com/2015/12/03/Swift-3-upcoming-changes/",
+            "updated": 1449075600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype",
+            "title": "Experimenting with Swift 3 Sequences and Iterators",
+            "link": "https://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/",
+            "updated": 1447261200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/11/03/error-handling-from-objective-c-to-swift-2-and-back",
+            "title": "Error Handling: From Objective-C to Swift and Back",
+            "link": "https://www.uraimo.com/2015/11/03/error-handling-from-objective-c-to-swift-2-and-back/",
+            "updated": 1446483600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift",
+            "title": "Effective Method Swizzling in Swift",
+            "link": "https://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/",
+            "updated": 1445533200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified",
+            "title": "Swift 3: Map and FlatMap Demystified",
+            "link": "https://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/",
+            "updated": 1444237200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance",
+            "title": "Swift 2.1 Function Types Conversion: Covariance and Contravariance",
+            "link": "https://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/",
+            "updated": 1443459600,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/09/20/Swift-2.1-released",
+            "title": "Swift 2.1 Released",
+            "link": "https://www.uraimo.com/2015/09/20/Swift-2.1-released/",
+            "updated": 1442682000,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        },
+        {
+            "id": "https://www.uraimo.com/2015/09/08/ios9-uistackview-guide-swift",
+            "title": "A Brief iOS9 UIStackView Guide",
+            "link": "https://www.uraimo.com/2015/09/08/ios9-uistackview-guide-swift/",
+            "updated": 1441645200,
+            "site_name": "Umberto Raimondi\u2019s Blog"
+        }
+    ]
+}

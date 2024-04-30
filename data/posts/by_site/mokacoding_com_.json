@@ -1,0 +1,1447 @@
+{
+    "updated": 1714470889,
+    "posts": [
+        {
+            "id": "https://mokacoding.com/blog/tests-are-the-best-documentation",
+            "title": "Tests Are The Best Kind Of Documentation",
+            "link": "https://mokacoding.com/blog/tests-are-the-best-documentation",
+            "updated": 1654189200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-convince-your-team-to-use-tdd",
+            "title": "How to convince your team to adopt TDD",
+            "link": "https://mokacoding.com/blog/how-to-convince-your-team-to-use-tdd",
+            "updated": 1648054800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/create-a-merge-commit",
+            "title": "The case for creating a merge commit",
+            "link": "https://mokacoding.com/blog/create-a-merge-commit",
+            "updated": 1646758800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xctnspredicateexpectation-slow",
+            "title": "XCTNSPredicateExpectation is slow, and what to do about it",
+            "link": "https://mokacoding.com/blog/xctnspredicateexpectation-slow",
+            "updated": 1645722000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/when-to-test-published-property-with-sink",
+            "title": "When to test a @Published property using sink",
+            "link": "https://mokacoding.com/blog/when-to-test-published-property-with-sink",
+            "updated": 1634403600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/tdd-catching-bugs-in-action",
+            "title": "A real-world example of TDD catching bugs",
+            "link": "https://mokacoding.com/blog/tdd-catching-bugs-in-action",
+            "updated": 1629824400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-test-swiftui-apps",
+            "title": "How to write unit tests for SwiftUI apps",
+            "link": "https://mokacoding.com/blog/how-to-test-swiftui-apps",
+            "updated": 1628701200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/tdd-in-swift-book-launch",
+            "title": "Test-Driven Development in Swift is now available",
+            "link": "https://mokacoding.com/blog/tdd-in-swift-book-launch",
+            "updated": 1626282000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/wwdc21-whats-new-in-testing",
+            "title": "WWDC21: What's New in Testing",
+            "link": "https://mokacoding.com/blog/wwdc21-whats-new-in-testing",
+            "updated": 1623862800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-test-async-await-code-in-swift",
+            "title": "How to test Swift async/await code with XCTest",
+            "link": "https://mokacoding.com/blog/how-to-test-async-await-code-in-swift",
+            "updated": 1622998800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/better-swift-date-compare-tests",
+            "title": "How to write better tests for Swift date comparisons",
+            "link": "https://mokacoding.com/blog/better-swift-date-compare-tests",
+            "updated": 1622739600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/distributed-working",
+            "title": "On the benefits of distributed work",
+            "link": "https://mokacoding.com/blog/distributed-working",
+            "updated": 1621962000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/scenario-builders-in-swift",
+            "title": "How to manage complex inputs in your Swift tests with Scenario Builders",
+            "link": "https://mokacoding.com/blog/scenario-builders-in-swift",
+            "updated": 1619616060,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/a-world-without-slack",
+            "title": "A World Without Slack",
+            "link": "https://mokacoding.com/blog/a-world-without-slack",
+            "updated": 1618765200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/distributed-app-release-process",
+            "title": "A distributed asynchronous release process",
+            "link": "https://mokacoding.com/blog/distributed-app-release-process",
+            "updated": 1615568400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/working-backwards",
+            "title": "Working Backwards",
+            "link": "https://mokacoding.com/blog/working-backwards",
+            "updated": 1614963600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-waiting-in-line-can-improve-your-focus",
+            "title": "How waiting in line can improve your focus",
+            "link": "https://mokacoding.com/blog/how-waiting-in-line-can-improve-your-focus",
+            "updated": 1613408400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/testing-combine-publisher-cheatsheet",
+            "title": "Unit Testing Combine Publisher Cheatsheet",
+            "link": "https://mokacoding.com/blog/testing-combine-publisher-cheatsheet",
+            "updated": 1612976400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/boring-iterations-interesting-steps",
+            "title": "Boring Iterations. Interesting Steps.",
+            "link": "https://mokacoding.com/blog/boring-iterations-interesting-steps",
+            "updated": 1611939600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-migrate-from-swiftui-to-uikit-life-cycle",
+            "title": "How to migrate from SwiftUI to UIKit App Delegate Life Cycle in Xcode",
+            "link": "https://mokacoding.com/blog/how-to-migrate-from-swiftui-to-uikit-life-cycle",
+            "updated": 1611162000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-stick-with-your-new-year-resolutions",
+            "title": "How to stick with your New Year resolutions",
+            "link": "https://mokacoding.com/blog/how-to-stick-with-your-new-year-resolutions",
+            "updated": 1609434000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-set-default-values-in-swift-compiler-generate-init",
+            "title": "How to set default values in Swift compiler-generated initializers",
+            "link": "https://mokacoding.com/blog/how-to-set-default-values-in-swift-compiler-generate-init",
+            "updated": 1608656400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/tdd-and-ydniy",
+            "title": "How to improve your Test-Driven Development workflow by asking \"Do I need this yet?\"",
+            "link": "https://mokacoding.com/blog/tdd-and-ydniy",
+            "updated": 1608138000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/write-better-swift-tests-with-xctest-assertions",
+            "title": "Write better Swift unit tests with custom XCTest assertions",
+            "link": "https://mokacoding.com/blog/write-better-swift-tests-with-xctest-assertions",
+            "updated": 1607533200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-write-tests-for-swift-result",
+            "title": "How to write unit test assertions for Swift Result values",
+            "link": "https://mokacoding.com/blog/how-to-write-tests-for-swift-result",
+            "updated": 1606842000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/when-experiments-go-wrong",
+            "title": "When experiments go wrong",
+            "link": "https://mokacoding.com/blog/when-experiments-go-wrong",
+            "updated": 1606237200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/better-merging-for-github-pull-requests",
+            "title": "How to merge pull requests with a commit that improves your Git history",
+            "link": "https://mokacoding.com/blog/better-merging-for-github-pull-requests",
+            "updated": 1605805200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/prevent-swiftui-app-loading-in-unit-tests",
+            "title": "How to bypass the SwiftUI App when running unit tests",
+            "link": "https://mokacoding.com/blog/prevent-swiftui-app-loading-in-unit-tests",
+            "updated": 1605114000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/vim-rename-file",
+            "title": "How to rename a file in Vim",
+            "link": "https://mokacoding.com/blog/vim-rename-file",
+            "updated": 1604595600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/remove-trailing-whitespaces-in-folder-files",
+            "title": "How to remove trailing whitespaces from all files in a folder",
+            "link": "https://mokacoding.com/blog/remove-trailing-whitespaces-in-folder-files",
+            "updated": 1604509200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/nested-type-view-models",
+            "title": "How to make the View to ViewModel relationship clear",
+            "link": "https://mokacoding.com/blog/nested-type-view-models",
+            "updated": 1604422800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/swiftui-dependency-injection",
+            "title": "Dependency Injection in SwiftUI",
+            "link": "https://mokacoding.com/blog/swiftui-dependency-injection",
+            "updated": 1603818000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/pipe-wrench",
+            "title": "What can a pipe wrench teach us about software engineering?",
+            "link": "https://mokacoding.com/blog/pipe-wrench",
+            "updated": 1603213200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/hyperfocus-review",
+            "title": "Hyperfocus by Chris Bailey",
+            "link": "https://mokacoding.com/blog/hyperfocus-review",
+            "updated": 1602435600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/you-dont-need-it-yet",
+            "title": "You Don't Need It Yet",
+            "link": "https://mokacoding.com/blog/you-dont-need-it-yet",
+            "updated": 1602003600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/thats-funny-moments-are-learning-opportunities",
+            "title": "\"That's funny\u2026\" moments are learning opportunities",
+            "link": "https://mokacoding.com/blog/thats-funny-moments-are-learning-opportunities",
+            "updated": 1601226000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/will-ios-14-destroy-your-productivity",
+            "title": "Will iOS 14 Destroy Your Productivity?",
+            "link": "https://mokacoding.com/blog/will-ios-14-destroy-your-productivity",
+            "updated": 1600621200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/replace-triple-boolean-with-enum",
+            "title": "Replace Triple-state Boolean with Enumeration",
+            "link": "https://mokacoding.com/blog/replace-triple-boolean-with-enum",
+            "updated": 1600016400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-decouple-tests-from-frequently-changing-values",
+            "title": "How to decouple unit tests from values that change frequently",
+            "link": "https://mokacoding.com/blog/how-to-decouple-tests-from-frequently-changing-values",
+            "updated": 1598893200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-add-coauthors-to-a-git-commit",
+            "title": "How to add co-authors to a Git commit",
+            "link": "https://mokacoding.com/blog/how-to-add-coauthors-to-a-git-commit",
+            "updated": 1598288400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-check-if-app-is-notarized",
+            "title": "How to check if macOS app is notarized",
+            "link": "https://mokacoding.com/blog/how-to-check-if-app-is-notarized",
+            "updated": 1598202000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-reverse-a-file-in-the-terminal",
+            "title": "How to reverse a file in the terminal",
+            "link": "https://mokacoding.com/blog/how-to-reverse-a-file-in-the-terminal",
+            "updated": 1598029200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-verify-ssh-key-password",
+            "title": "How to verify your SSH private key password",
+            "link": "https://mokacoding.com/blog/how-to-verify-ssh-key-password",
+            "updated": 1597856400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-check-if-ruby-array-contains-element",
+            "title": "How to check if array contains element with block in Ruby",
+            "link": "https://mokacoding.com/blog/how-to-check-if-ruby-array-contains-element",
+            "updated": 1597683600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/honesty-oriented-programming",
+            "title": "Honesty-Oriented Programming",
+            "link": "https://mokacoding.com/blog/honesty-oriented-programming",
+            "updated": 1594540800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/referential-transparency-in-swift",
+            "title": "Referential Transparency in Swift",
+            "link": "https://mokacoding.com/blog/referential-transparency-in-swift",
+            "updated": 1594537200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/main-vs-master-xcode-12",
+            "title": "Should you change your branch name to \"main\"?",
+            "link": "https://mokacoding.com/blog/main-vs-master-xcode-12",
+            "updated": 1592931600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/the-indistractable-developer",
+            "title": "The Indistractable Developer",
+            "link": "https://mokacoding.com/blog/the-indistractable-developer",
+            "updated": 1590512400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cocoapods-ci-setup",
+            "title": "How to use CocoaPods as a CLI tools manager",
+            "link": "https://mokacoding.com/blog/cocoapods-ci-setup",
+            "updated": 1584378000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-manually-generate-devise-reset-password-link",
+            "title": "How to manually generate Devise reset password link",
+            "link": "https://mokacoding.com/blog/how-to-manually-generate-devise-reset-password-link",
+            "updated": 1564246800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/midwives-with-the-apple-watch",
+            "title": "Midwives with the Apple Watch",
+            "link": "https://mokacoding.com/blog/midwives-with-the-apple-watch",
+            "updated": 1559494800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/social-media-operating-procedures",
+            "title": "How to use social media productively",
+            "link": "https://mokacoding.com/blog/social-media-operating-procedures",
+            "updated": 1556557200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/running-one-test-in-xcode",
+            "title": "How to run a single test in Xcode",
+            "link": "https://mokacoding.com/blog/running-one-test-in-xcode",
+            "updated": 1555952400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/navigation-delegate-pattern",
+            "title": "How to test view controllers navigation",
+            "link": "https://mokacoding.com/blog/navigation-delegate-pattern",
+            "updated": 1555347600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/take-care-of-your-tools",
+            "title": "Take care of your tools",
+            "link": "https://mokacoding.com/blog/take-care-of-your-tools",
+            "updated": 1554742800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/code-like-a-chef",
+            "title": "Code Like A Chef",
+            "link": "https://mokacoding.com/blog/code-like-a-chef",
+            "updated": 1554138000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/top-10-productivity-books",
+            "title": "Top 10 Productivity Books",
+            "link": "https://mokacoding.com/blog/top-10-productivity-books",
+            "updated": 1553533200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/podcast-addiction",
+            "title": "Why I'm cutting back on podcasts and audiobooks",
+            "link": "https://mokacoding.com/blog/podcast-addiction",
+            "updated": 1552928400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/better-tests-for-delegates",
+            "title": "Better tests for delegates",
+            "link": "https://mokacoding.com/blog/better-tests-for-delegates",
+            "updated": 1552323600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/3-lessons-from-new-england-patriots",
+            "title": "3 Lessons on Software Development from the New England Patriots",
+            "link": "https://mokacoding.com/blog/3-lessons-from-new-england-patriots",
+            "updated": 1551718800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/clutter-and-optimization",
+            "title": "The value of decluttering and optimizing your software",
+            "link": "https://mokacoding.com/blog/clutter-and-optimization",
+            "updated": 1551114000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/code-coverage-is-broken",
+            "title": "Code Coverage Is A Broken Metric",
+            "link": "https://mokacoding.com/blog/code-coverage-is-broken",
+            "updated": 1550509200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/wirte-less-code",
+            "title": "Write Less Code",
+            "link": "https://mokacoding.com/blog/wirte-less-code",
+            "updated": 1549990800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/step-by-step-tdd-in-swift-part-1",
+            "title": "How to TDD in Swift, a step by step guide",
+            "link": "https://mokacoding.com/blog/step-by-step-tdd-in-swift-part-1",
+            "updated": 1549558800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/the-productivity-project-notes",
+            "title": "The Productivity Project - by Chris Bailey",
+            "link": "https://mokacoding.com/blog/the-productivity-project-notes",
+            "updated": 1548694800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/swift-test-doubles",
+            "title": "Test doubles in Swift: dummies, fakes, stubs, and spies.",
+            "link": "https://mokacoding.com/blog/swift-test-doubles",
+            "updated": 1543251600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/terminal-aliases",
+            "title": "How to become drastically faster at using the terminal",
+            "link": "https://mokacoding.com/blog/terminal-aliases",
+            "updated": 1542646800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system",
+            "title": "How to split decision and action logic with the Swift type system",
+            "link": "https://mokacoding.com/blog/how-to-split-decision-and-action-logic-with-the-swift-type-system",
+            "updated": 1542042000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-remove-duplication-from-swift-tests-with-helper-functions",
+            "title": "How to remove duplication from Swift tests with helper functions",
+            "link": "https://mokacoding.com/blog/how-to-remove-duplication-from-swift-tests-with-helper-functions",
+            "updated": 1541437200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/stephen-king-advice-to-software-developers",
+            "title": "Stephen King's Advice To Software Developers",
+            "link": "https://mokacoding.com/blog/stephen-king-advice-to-software-developers",
+            "updated": 1540832400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/where-to-start-to-become-more-productive",
+            "title": "Where to start to become more productive",
+            "link": "https://mokacoding.com/blog/where-to-start-to-become-more-productive",
+            "updated": 1540227600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-write-code-faster-using-snippets",
+            "title": "How to write code faster using snippets",
+            "link": "https://mokacoding.com/blog/how-to-write-code-faster-using-snippets",
+            "updated": 1539622800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/streamlining-tests-setup-with-fixtures-in-swift",
+            "title": "Streamlining tests setup with fixtures in Swift",
+            "link": "https://mokacoding.com/blog/streamlining-tests-setup-with-fixtures-in-swift",
+            "updated": 1539018000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/invest-in-your-terminal-to-become-a-better-developer",
+            "title": "Invest in your terminal to become a better developer",
+            "link": "https://mokacoding.com/blog/invest-in-your-terminal-to-become-a-better-developer",
+            "updated": 1538413200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/what-software-developers-can-learn-from-leonardo-da-vinci",
+            "title": "What software developers can learn from Leonardo da Vinci",
+            "link": "https://mokacoding.com/blog/what-software-developers-can-learn-from-leonardo-da-vinci",
+            "updated": 1537808400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/red-green-and-dont-forget-refactor",
+            "title": "Red, green, and don't forget refactor",
+            "link": "https://mokacoding.com/blog/red-green-and-dont-forget-refactor",
+            "updated": 1537203600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/action-focused-protocols-enhance-testability",
+            "title": "Action focused protocols enhance testability",
+            "link": "https://mokacoding.com/blog/action-focused-protocols-enhance-testability",
+            "updated": 1536598800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-choose-what-to-refactor",
+            "title": "How to choose what to refactor",
+            "link": "https://mokacoding.com/blog/how-to-choose-what-to-refactor",
+            "updated": 1535994000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/the-focusing-question",
+            "title": "How to get better at setting priorities",
+            "link": "https://mokacoding.com/blog/the-focusing-question",
+            "updated": 1535130000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/if-youre-not-writing-tests-first-youre-missing-out",
+            "title": "If you're not writing tests first you're missing out",
+            "link": "https://mokacoding.com/blog/if-youre-not-writing-tests-first-youre-missing-out",
+            "updated": 1534438800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/does-software-understand-complexity-m-feathers",
+            "title": "\"Does Software Understand Complexity?\" via Michael Feathers",
+            "link": "https://mokacoding.com/blog/does-software-understand-complexity-m-feathers",
+            "updated": 1534006800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/apps-and-tools-i-use",
+            "title": "Apps and Tools",
+            "link": "https://mokacoding.com/blog/apps-and-tools-i-use",
+            "updated": 1532710800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/books-to-start-2018",
+            "title": "4 books to kick start 2018",
+            "link": "https://mokacoding.com/blog/books-to-start-2018",
+            "updated": 1514739600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/symliks-in-git",
+            "title": "Symbolic links in Git",
+            "link": "https://mokacoding.com/blog/symliks-in-git",
+            "updated": 1505149200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/quick-beforesuite-aftersuite-behaviour",
+            "title": "Quick beforeSuite and afterSuite behaviour",
+            "link": "https://mokacoding.com/blog/quick-beforesuite-aftersuite-behaviour",
+            "updated": 1494435600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/quick-beforeeach-aftereach-behaviour",
+            "title": "Quick beforeEach and afterEach behaviour",
+            "link": "https://mokacoding.com/blog/quick-beforeeach-aftereach-behaviour",
+            "updated": 1494176400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/waituntil-vs-toeventually",
+            "title": "Nimble: when to use waitUntil or toEventually",
+            "link": "https://mokacoding.com/blog/waituntil-vs-toeventually",
+            "updated": 1493917200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/unless-swift",
+            "title": "Unless.swift",
+            "link": "https://mokacoding.com/blog/unless-swift",
+            "updated": 1491238800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xctest-closure-based-expectation",
+            "title": "XCTest closure based expectations",
+            "link": "https://mokacoding.com/blog/xctest-closure-based-expectation",
+            "updated": 1490115600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/dependency-injection-for-classes-in-swift",
+            "title": "How to use dependency injection for classes in Swift",
+            "link": "https://mokacoding.com/blog/dependency-injection-for-classes-in-swift",
+            "updated": 1488301200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/lessons-learned-working-on-danger-swiftlint-selective-linting",
+            "title": "Lessons learned working on danger-switlint selective linting",
+            "link": "https://mokacoding.com/blog/lessons-learned-working-on-danger-swiftlint-selective-linting",
+            "updated": 1485363600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/your-git-log-should-tell-a-story",
+            "title": "Your Git Log Should Tell A Story",
+            "link": "https://mokacoding.com/blog/your-git-log-should-tell-a-story",
+            "updated": 1482080400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/better-build-phase-scripts",
+            "title": "Better Xcode Run Script Build Phases",
+            "link": "https://mokacoding.com/blog/better-build-phase-scripts",
+            "updated": 1478451600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/setting-up-firebase-without-cocoapods",
+            "title": "Setting Up Firebase Without Using CocoaPods",
+            "link": "https://mokacoding.com/blog/setting-up-firebase-without-cocoapods",
+            "updated": 1471194000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/impliticly-vs-force-unwrapping-swift-optionals",
+            "title": "Implicitly vs Force Unwrapping Swift Optionals",
+            "link": "https://mokacoding.com/blog/impliticly-vs-force-unwrapping-swift-optionals",
+            "updated": 1470675600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cloud-66-postfix-deploy-hook",
+            "title": "Cloud 66 Postfix Deploy Hook",
+            "link": "https://mokacoding.com/blog/cloud-66-postfix-deploy-hook",
+            "updated": 1469984400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/why-implicitly-unwrapping-swift-optionals-is-dangerous",
+            "title": "Why Implicitly Unwrapping Swift Optionals Is Dangerous",
+            "link": "https://mokacoding.com/blog/why-implicitly-unwrapping-swift-optionals-is-dangerous",
+            "updated": 1469466000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/swift-either",
+            "title": "Swift Either enum",
+            "link": "https://mokacoding.com/blog/swift-either",
+            "updated": 1468774800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/strong-opinions-loosely-held",
+            "title": "Strong Opinions Loosely Held",
+            "link": "https://mokacoding.com/blog/strong-opinions-loosely-held",
+            "updated": 1467910800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/writing-your-own-swift-if-let",
+            "title": "Writing your own Swift \"if let\"",
+            "link": "https://mokacoding.com/blog/writing-your-own-swift-if-let",
+            "updated": 1467824400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/what-is-an-optional-value-in-swift",
+            "title": "What is an optional value in Swift",
+            "link": "https://mokacoding.com/blog/what-is-an-optional-value-in-swift",
+            "updated": 1467219600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/maintaining-sanity-with-multiple-versions-of-xcode",
+            "title": "Maintaining Sanity with Multiple Versions of Xcode",
+            "link": "https://mokacoding.com/blog/maintaining-sanity-with-multiple-versions-of-xcode",
+            "updated": 1466355600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/swift-unavailable-how-to",
+            "title": "How to make Swift methods unavailable",
+            "link": "https://mokacoding.com/blog/swift-unavailable-how-to",
+            "updated": 1465232400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/functional-core-reactive-shell",
+            "title": "Functional Core Reactive Shell",
+            "link": "https://mokacoding.com/blog/functional-core-reactive-shell",
+            "updated": 1464714000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/language-agnostic-automation-setup",
+            "title": "Language Agnostic Automation Setup",
+            "link": "https://mokacoding.com/blog/language-agnostic-automation-setup",
+            "updated": 1463418000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/nsdateformatter-json-date",
+            "title": "NSDateFormatter format for JSON dates",
+            "link": "https://mokacoding.com/blog/nsdateformatter-json-date",
+            "updated": 1462986000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/functional-core-reactive-shell-resources",
+            "title": "\"Functional Core, Reactive Shell\" Resources",
+            "link": "https://mokacoding.com/blog/functional-core-reactive-shell-resources",
+            "updated": 1460653200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/getting-started-with-automation",
+            "title": "Getting Started With Automation",
+            "link": "https://mokacoding.com/blog/getting-started-with-automation",
+            "updated": 1459184400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/using-swift-protocols-to-improve-testability",
+            "title": "Using Swift protocols to abstract third party dependencies and improve testability",
+            "link": "https://mokacoding.com/blog/using-swift-protocols-to-improve-testability",
+            "updated": 1456851600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/update-all-xcode-plugins-for-latest-version",
+            "title": "How to update all plug-ins for the latest version of Xcode and Xcode-beta",
+            "link": "https://mokacoding.com/blog/update-all-xcode-plugins-for-latest-version",
+            "updated": 1456246800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ohhttpstubs",
+            "title": "Getting Started With OHHTTPStubs",
+            "link": "https://mokacoding.com/blog/ohhttpstubs",
+            "updated": 1456160400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/why-hitting-the-network-is-bad-for-your-tests",
+            "title": "Why hitting the network is bad for your test, and what to do about it",
+            "link": "https://mokacoding.com/blog/why-hitting-the-network-is-bad-for-your-tests",
+            "updated": 1455555600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ruby-for-ios-developers-bundler",
+            "title": "Ruby for iOS Developers - Managing Ruby Tools with Bundler",
+            "link": "https://mokacoding.com/blog/ruby-for-ios-developers-bundler",
+            "updated": 1455037200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ruby-for-ios-developers",
+            "title": "Ruby for iOS Developers - Managing Ruby Versions",
+            "link": "https://mokacoding.com/blog/ruby-for-ios-developers",
+            "updated": 1454346000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-fix-fabric-startup-crash",
+            "title": "How To Fix Fabric Crashing On Startup When Installed Via CocoaPods",
+            "link": "https://mokacoding.com/blog/how-to-fix-fabric-startup-crash",
+            "updated": 1453914000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/async-testing-with-quick-and-nimble",
+            "title": "Async Testing with Quick and Nimble",
+            "link": "https://mokacoding.com/blog/async-testing-with-quick-and-nimble",
+            "updated": 1453827600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/testing-delegates-in-swift-with-xctest",
+            "title": "Testing Delegates in Swift with XCTest",
+            "link": "https://mokacoding.com/blog/testing-delegates-in-swift-with-xctest",
+            "updated": 1453136400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/testing-callbacks-in-swift-with-xctest",
+            "title": "Testing callbacks in Swift with XCTest",
+            "link": "https://mokacoding.com/blog/testing-callbacks-in-swift-with-xctest",
+            "updated": 1452531600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift",
+            "title": "Prevent Unit Tests from Loading AppDelegate in Swift",
+            "link": "https://mokacoding.com/blog/prevent-unit-tests-from-loading-app-delegate-in-swift",
+            "updated": 1452186000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/double-slash-xcconfig",
+            "title": "How to use a double slash in xcconfig files",
+            "link": "https://mokacoding.com/blog/double-slash-xcconfig",
+            "updated": 1451667600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/2015-retrospective",
+            "title": "2015 Retrospective",
+            "link": "https://mokacoding.com/blog/2015-retrospective",
+            "updated": 1451408400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/bitbucket-pr-from-command-line",
+            "title": "Opening a PR to Bitbucket from the terminal",
+            "link": "https://mokacoding.com/blog/bitbucket-pr-from-command-line",
+            "updated": 1448470800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcode-plugins-update",
+            "title": "How to update an Xcode plug-in for the latest version of Xcode",
+            "link": "https://mokacoding.com/blog/xcode-plugins-update",
+            "updated": 1448384400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/hacker-news-button",
+            "title": "Hacker News Button",
+            "link": "https://mokacoding.com/blog/hacker-news-button",
+            "updated": 1448298000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/install-xcode-plugin-with-fastlane",
+            "title": "Installing Xcode plugins from the terminal with Fastlane",
+            "link": "https://mokacoding.com/blog/install-xcode-plugin-with-fastlane",
+            "updated": 1447693200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/env-xargs",
+            "title": "Injecting environment variables from a file with xargs",
+            "link": "https://mokacoding.com/blog/env-xargs",
+            "updated": 1447347600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/travis-ci-ios-testing",
+            "title": "How to configure Travis CI for iOS testing",
+            "link": "https://mokacoding.com/blog/travis-ci-ios-testing",
+            "updated": 1447088400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/homebrew-in-ci-script",
+            "title": "How to use Homebrew in CI",
+            "link": "https://mokacoding.com/blog/homebrew-in-ci-script",
+            "updated": 1446570000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/circle-ci-ios-testing",
+            "title": "How to configure CircleCI for iOS testing",
+            "link": "https://mokacoding.com/blog/circle-ci-ios-testing",
+            "updated": 1446483600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift",
+            "title": "Fixing Bugs Driven By Tests in Swift",
+            "link": "https://mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift",
+            "updated": 1445965200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/tools-sharpening",
+            "title": "How To Sharpen Your Software Developer Tools",
+            "link": "https://mokacoding.com/blog/tools-sharpening",
+            "updated": 1445274000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcodebuild-destination-options",
+            "title": "Xcodebuild Destination Cheatsheet",
+            "link": "https://mokacoding.com/blog/xcodebuild-destination-options",
+            "updated": 1444669200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ifttt-pocket-rss",
+            "title": "The best free RSS reader app ever: IFTTT + Pocket",
+            "link": "https://mokacoding.com/blog/ifttt-pocket-rss",
+            "updated": 1444237200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/when-to-use-map-flatmap-for",
+            "title": "When to use map, flatMap, or for loops in Swift",
+            "link": "https://mokacoding.com/blog/when-to-use-map-flatmap-for",
+            "updated": 1443978000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/NERDTree-relative-numbers",
+            "title": "How to display relative line numbers in NERDTree",
+            "link": "https://mokacoding.com/blog/NERDTree-relative-numbers",
+            "updated": 1443632400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/automatic-xcode-versioning-with-git",
+            "title": "Automated Xcode version and build numbering via Git",
+            "link": "https://mokacoding.com/blog/automatic-xcode-versioning-with-git",
+            "updated": 1443459600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-always-run-latest-simulator-cli",
+            "title": "How to always use the latest Simulator with Xcodebuild",
+            "link": "https://mokacoding.com/blog/how-to-always-run-latest-simulator-cli",
+            "updated": 1443114000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/demistifying-swift-functor",
+            "title": "Swift Optionals, Functional Programming, and You",
+            "link": "https://mokacoding.com/blog/demistifying-swift-functor",
+            "updated": 1442854800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/carthage-no-build",
+            "title": "An even lighter way to use Carthage",
+            "link": "https://mokacoding.com/blog/carthage-no-build",
+            "updated": 1442250000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/how-to-install-xcode-cli-tools-without-gui",
+            "title": "How to install Xcode Command Line Tools without GUI or Xcode",
+            "link": "https://mokacoding.com/blog/how-to-install-xcode-cli-tools-without-gui",
+            "updated": 1441731600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/devworld2015-notes-of-a-testing-fanboy",
+            "title": "/dev/world/2015 notes of a testing fanboy",
+            "link": "https://mokacoding.com/blog/devworld2015-notes-of-a-testing-fanboy",
+            "updated": 1441645200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xctest-nimble",
+            "title": "Enhancing XCTest test cases with Nimble matchers",
+            "link": "https://mokacoding.com/blog/xctest-nimble",
+            "updated": 1440435600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/custom-afnetworking-response-serializer-for-errors",
+            "title": "AFNetworking custom response serializer to add error information",
+            "link": "https://mokacoding.com/blog/custom-afnetworking-response-serializer-for-errors",
+            "updated": 1439917200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/explicit-dependencies-swift",
+            "title": "Explicit Dependencies, Swift Edition",
+            "link": "https://mokacoding.com/blog/explicit-dependencies-swift",
+            "updated": 1439830800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/itunes-connect-multiple-accounts",
+            "title": "How to have multiple iTunes Connect accounts, and submit apps",
+            "link": "https://mokacoding.com/blog/itunes-connect-multiple-accounts",
+            "updated": 1439571600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/swift-array-string-characters",
+            "title": "Swift array of characters from String",
+            "link": "https://mokacoding.com/blog/swift-array-string-characters",
+            "updated": 1439312400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/explicit-dependencies",
+            "title": "Explicit Dependencies for Code with No Surprises",
+            "link": "https://mokacoding.com/blog/explicit-dependencies",
+            "updated": 1439226000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/terminal-reusing-last-command-parameter",
+            "title": "How to reuse the last parameter in a terminal command",
+            "link": "https://mokacoding.com/blog/terminal-reusing-last-command-parameter",
+            "updated": 1438707600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/keep-your-bench-clean",
+            "title": "Keep Your Bench Clean",
+            "link": "https://mokacoding.com/blog/keep-your-bench-clean",
+            "updated": 1438621200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/packaging-swift-ipa",
+            "title": "Packaging an ipa with Swift files from the terminal",
+            "link": "https://mokacoding.com/blog/packaging-swift-ipa",
+            "updated": 1438534800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcode-ui-test-view-changes",
+            "title": "How to test UI changes in Xcode 7",
+            "link": "https://mokacoding.com/blog/xcode-ui-test-view-changes",
+            "updated": 1437757200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/setting-up-testing-libraries-with-carthage-xcode7",
+            "title": "How to add testing dependencies using Carthage, with Swift 2 and Xcode 7",
+            "link": "https://mokacoding.com/blog/setting-up-testing-libraries-with-carthage-xcode7",
+            "updated": 1437411600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/functor-applicative-monads-in-pictures",
+            "title": "Swift Functors, Applicatives, and Monads in Pictures",
+            "link": "https://mokacoding.com/blog/functor-applicative-monads-in-pictures",
+            "updated": 1436806800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xvim",
+            "title": "XVim, harnessing the king of text editor's power in Xcode",
+            "link": "https://mokacoding.com/blog/xvim",
+            "updated": 1436202000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/testing-realm-apps",
+            "title": "Testing Realm apps",
+            "link": "https://mokacoding.com/blog/testing-realm-apps",
+            "updated": 1435597200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/the-value-of-acceptance-testing",
+            "title": "The value of acceptance testing for mobile projects",
+            "link": "https://mokacoding.com/blog/the-value-of-acceptance-testing",
+            "updated": 1434992400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcode-7-ui-testing",
+            "title": "Xcode 7 UI testing, a first look",
+            "link": "https://mokacoding.com/blog/xcode-7-ui-testing",
+            "updated": 1434387600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/automating-mokacoding-weekly",
+            "title": "MailChimp automated workflow for mokacoding weekly",
+            "link": "https://mokacoding.com/blog/automating-mokacoding-weekly",
+            "updated": 1433782800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/pre-commit-hooks",
+            "title": "Automation with pre-commit hooks",
+            "link": "https://mokacoding.com/blog/pre-commit-hooks",
+            "updated": 1433264400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xunique",
+            "title": "xUnique: a tool to avoid Xcode project merge conflicts",
+            "link": "https://mokacoding.com/blog/xunique",
+            "updated": 1431363600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/expecta-custom-matchers",
+            "title": "Writing an Expecta custom matcher",
+            "link": "https://mokacoding.com/blog/expecta-custom-matchers",
+            "updated": 1430758800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/expecta",
+            "title": "Expecta, a matcher library that speaks English",
+            "link": "https://mokacoding.com/blog/expecta",
+            "updated": 1430154000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/specta-global-before-after-each-updated",
+            "title": "Specta global before and after each hooks (Updated)",
+            "link": "https://mokacoding.com/blog/specta-global-before-after-each-updated",
+            "updated": 1429808400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/job-stories-acceptance-tests-with-KIF-and-specta",
+            "title": "Job stories acceptance tests using KIF and Specta",
+            "link": "https://mokacoding.com/blog/job-stories-acceptance-tests-with-KIF-and-specta",
+            "updated": 1429549200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/better-tests-with-specta",
+            "title": "Better tests with Specta",
+            "link": "https://mokacoding.com/blog/better-tests-with-specta",
+            "updated": 1428944400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcode-testing-shortcuts",
+            "title": "Xcode keyboard shortcuts for testing",
+            "link": "https://mokacoding.com/blog/xcode-testing-shortcuts",
+            "updated": 1428339600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/setting-up-KIF-for-ios-acceptance-testing",
+            "title": "Setting up KIF for iOS acceptance testing",
+            "link": "https://mokacoding.com/blog/setting-up-KIF-for-ios-acceptance-testing",
+            "updated": 1427734800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ios-testing-in-2015",
+            "title": "The state of iOS testing in 2015",
+            "link": "https://mokacoding.com/blog/ios-testing-in-2015",
+            "updated": 1427130000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/specta-global-before-after-each",
+            "title": "Specta global before and after each hooks",
+            "link": "https://mokacoding.com/blog/specta-global-before-after-each",
+            "updated": 1426698000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/running-tests-from-the-terminal",
+            "title": "How to run Xcode tests from the terminal",
+            "link": "https://mokacoding.com/blog/running-tests-from-the-terminal",
+            "updated": 1425834000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/simpler-calabash-testing-with-rake",
+            "title": "How to simplify Calabash acceptance testing with Rake",
+            "link": "https://mokacoding.com/blog/simpler-calabash-testing-with-rake",
+            "updated": 1424797200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/gitiquette",
+            "title": "Git-iquette",
+            "link": "https://mokacoding.com/blog/gitiquette",
+            "updated": 1423933200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/calabash-ios-with-cocoapods-and-build-configurations",
+            "title": "Setting up Calabash for iOS projects with Cocoapods and Build Configurations",
+            "link": "https://mokacoding.com/blog/calabash-ios-with-cocoapods-and-build-configurations",
+            "updated": 1422118800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/5-habits-that-will-make-you-a-better-software-developer",
+            "title": "5 habits that will make you a better software developer",
+            "link": "https://mokacoding.com/blog/5-habits-that-will-make-you-a-better-software-developer",
+            "updated": 1420563600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/security-tips-for-freelance-software-developers",
+            "title": "Security Tips for Freelance Software Developers",
+            "link": "https://mokacoding.com/blog/security-tips-for-freelance-software-developers",
+            "updated": 1414515600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/why-i-dont-work-on-friday",
+            "title": "Why I don't work on Fridays",
+            "link": "https://mokacoding.com/blog/why-i-dont-work-on-friday",
+            "updated": 1409245200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/in-app-purchase-debugging-lessons",
+            "title": "In-App Purchase Debugging Lessons",
+            "link": "https://mokacoding.com/blog/in-app-purchase-debugging-lessons",
+            "updated": 1408986000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/why-i-shouldnt-have-stopped-blogging-with-jekyll",
+            "title": "Why I (shouldn't have) stopped blogging with Jekyll",
+            "link": "https://mokacoding.com/blog/why-i-shouldnt-have-stopped-blogging-with-jekyll",
+            "updated": 1407430800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cocoapods-and-custom-build-configurations",
+            "title": "CocoaPods and custom Build Configurations",
+            "link": "https://mokacoding.com/blog/cocoapods-and-custom-build-configurations",
+            "updated": 1397581200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/2014-resolutions-review",
+            "title": "2014 resolutions review",
+            "link": "https://mokacoding.com/blog/2014-resolutions-review",
+            "updated": 1396976400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/gradient-backgrounds-studio",
+            "title": "Gradient Backgrounds Studio: Lessons Learned",
+            "link": "https://mokacoding.com/blog/gradient-backgrounds-studio",
+            "updated": 1396458000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/upgrading-podfile",
+            "title": "A caveat when upgrading a Podfile",
+            "link": "https://mokacoding.com/blog/upgrading-podfile",
+            "updated": 1395939600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/sharing-assets-with-cocoapods-resource-bundle-and-dynamically-loaded-fonts",
+            "title": "Sharing assets across iOS projects with CocoaPods, Resource Bundle, and dynamically loaded fonts",
+            "link": "https://mokacoding.com/blog/sharing-assets-with-cocoapods-resource-bundle-and-dynamically-loaded-fonts",
+            "updated": 1392224400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/automating-ios-enterprise-deployment",
+            "title": "Automating iOS Enterprise Deployment with shenzhen",
+            "link": "https://mokacoding.com/blog/automating-ios-enterprise-deployment",
+            "updated": 1388941200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/2013-retrospectives-and-2014-propositions",
+            "title": "2013 retrospectives... and 2014 propositions",
+            "link": "https://mokacoding.com/blog/2013-retrospectives-and-2014-propositions",
+            "updated": 1388595600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/podcasts",
+            "title": "Podcasts, grow your brain through soundwaves",
+            "link": "https://mokacoding.com/blog/podcasts",
+            "updated": 1384880400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/rails-add-has_many-association-to-existing-model",
+            "title": "Rails: adding a new has_many association to an existing model",
+            "link": "https://mokacoding.com/blog/rails-add-has_many-association-to-existing-model",
+            "updated": 1384275600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/things-learned-in-october",
+            "title": "Some things I learned in October",
+            "link": "https://mokacoding.com/blog/things-learned-in-october",
+            "updated": 1384189200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/Xcode-projects-and-workspaces",
+            "title": "A dive into Xcode projects and workspaces",
+            "link": "https://mokacoding.com/blog/Xcode-projects-and-workspaces",
+            "updated": 1383152400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/october-questions",
+            "title": "October's Questions",
+            "link": "https://mokacoding.com/blog/october-questions",
+            "updated": 1380992400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/things-learned-in-september",
+            "title": "Some things I learned in September",
+            "link": "https://mokacoding.com/blog/things-learned-in-september",
+            "updated": 1380646800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/ios7-ux-designers-verdict",
+            "title": "Sharing some thoughts on iOS 7",
+            "link": "https://mokacoding.com/blog/ios7-ux-designers-verdict",
+            "updated": 1379955600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/setup-a-dev-machine",
+            "title": "Setting a Mac for Development",
+            "link": "https://mokacoding.com/blog/setup-a-dev-machine",
+            "updated": 1379869200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/mtfonticon",
+            "title": "Bringing font icons in iOS with MTFontIcon",
+            "link": "https://mokacoding.com/blog/mtfonticon",
+            "updated": 1379350800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/xcode5-crash-on-submission",
+            "title": "A workaround to Xcode 5 GM crash on app submission",
+            "link": "https://mokacoding.com/blog/xcode5-crash-on-submission",
+            "updated": 1379264400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/things-learned-in-august",
+            "title": "Some things I learned in August",
+            "link": "https://mokacoding.com/blog/things-learned-in-august",
+            "updated": 1378141200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/things-learned-in-july",
+            "title": "Some things I learned in July",
+            "link": "https://mokacoding.com/blog/things-learned-in-july",
+            "updated": 1375290000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/what-i-did-in-a-week",
+            "title": "What I did in a week...",
+            "link": "https://mokacoding.com/blog/what-i-did-in-a-week",
+            "updated": 1374771600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/a-week-of-time",
+            "title": "A week of time...",
+            "link": "https://mokacoding.com/blog/a-week-of-time",
+            "updated": 1373994000,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cocoapods-the-inherited-flag",
+            "title": "CocoaPods: the $(inherited) flag",
+            "link": "https://mokacoding.com/blog/cocoapods-the-inherited-flag",
+            "updated": 1373302800,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/things-learned-in-june",
+            "title": "Some things I learned in June",
+            "link": "https://mokacoding.com/blog/things-learned-in-june",
+            "updated": 1373043600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/mokagios-self-memo-for-facebook-integration-on-ios-part-1",
+            "title": "mokagio's self memo for Facebook Integration on iOS - Part 1",
+            "link": "https://mokacoding.com/blog/mokagios-self-memo-for-facebook-integration-on-ios-part-1",
+            "updated": 1372093200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/osx-a-scanner-and-the-drivers-drama",
+            "title": "OSX, a scanner, and the drivers drama",
+            "link": "https://mokacoding.com/blog/osx-a-scanner-and-the-drivers-drama",
+            "updated": 1370883600,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/multiple-builds-of-the-same-app-and-testflight",
+            "title": "Multiple builds of the same app and TestFlight",
+            "link": "https://mokacoding.com/blog/multiple-builds-of-the-same-app-and-testflight",
+            "updated": 1369760400,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cocoapods-how-to-create-your-own-pod",
+            "title": "CocoaPods - How to create your own Pod",
+            "link": "https://mokacoding.com/blog/cocoapods-how-to-create-your-own-pod",
+            "updated": 1358701200,
+            "site_name": "mokacoding"
+        },
+        {
+            "id": "https://mokacoding.com/blog/cocoapods",
+            "title": "CocoaPods!",
+            "link": "https://mokacoding.com/blog/cocoapods",
+            "updated": 1357318800,
+            "site_name": "mokacoding"
+        }
+    ]
+}

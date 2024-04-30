@@ -1,0 +1,33 @@
+{
+    "updated": 1714470891,
+    "posts": [
+        {
+            "id": "https://medium.com/p/f30dd753b5ec",
+            "title": "8 ways I used ChatGPT to help me build my first SwiftUI app",
+            "link": "https://medium.com/swift-programming/8-ways-i-used-chatgpt-to-help-me-build-my-first-swiftui-app-f30dd753b5ec?source=rss-e11b9ec02e27------2",
+            "updated": 1678958721,
+            "site_name": "Nate Chan's Blog"
+        },
+        {
+            "id": "https://medium.com/p/f1f639c7e52a",
+            "title": "Inside the 360iDev conference through the eyes of a first-timer",
+            "link": "https://medium.com/free-code-camp/inside-the-360idev-conference-through-the-eyes-of-a-first-timer-f1f639c7e52a?source=rss-e11b9ec02e27------2",
+            "updated": 1509530890,
+            "site_name": "Nate Chan's Blog"
+        },
+        {
+            "id": "https://medium.com/p/ba77ef627d74",
+            "title": "Handling empty optional strings in Swift",
+            "link": "https://medium.com/ios-os-x-development/handling-empty-optional-strings-in-swift-ba77ef627d74?source=rss-e11b9ec02e27------2",
+            "updated": 1505054774,
+            "site_name": "Nate Chan's Blog"
+        },
+        {
+            "id": "https://medium.com/p/7bbd40cabb79",
+            "title": "10 things I like about Swift",
+            "link": "https://medium.com/ios-os-x-development/10-things-i-like-about-swift-7bbd40cabb79?source=rss-e11b9ec02e27------2",
+            "updated": 1600614934,
+            "site_name": "Nate Chan's Blog"
+        }
+    ]
+}

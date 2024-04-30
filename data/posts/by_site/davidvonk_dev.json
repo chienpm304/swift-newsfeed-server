@@ -1,0 +1,33 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://davidvonk.dev/automation/backing-up-my-saved-articles",
+            "title": "Backing up my saved articles",
+            "link": "https://davidvonk.dev/automation/backing-up-my-saved-articles",
+            "updated": 1649918880,
+            "site_name": "David v.Knobelsdorff's Blog"
+        },
+        {
+            "id": "https://davidvonk.dev/swift/generating-licenses-for-spm-dependencies",
+            "title": "Generating licenses for SPM dependencies",
+            "link": "https://davidvonk.dev/swift/generating-licenses-for-spm-dependencies",
+            "updated": 1608822900,
+            "site_name": "David v.Knobelsdorff's Blog"
+        },
+        {
+            "id": "https://davidvonk.dev/macos/when-your-macos-application-is-about-to-quit",
+            "title": "When your macOS application is about to quit",
+            "link": "https://davidvonk.dev/macos/when-your-macos-application-is-about-to-quit",
+            "updated": 1588302780,
+            "site_name": "David v.Knobelsdorff's Blog"
+        },
+        {
+            "id": "https://davidvonk.dev/macos/sandbox-on-macos",
+            "title": "Sandbox on macOS",
+            "link": "https://davidvonk.dev/macos/sandbox-on-macos",
+            "updated": 1588250700,
+            "site_name": "David v.Knobelsdorff's Blog"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.markltownsend.com/working-with-legacy-code-cpd",
+            "title": "Working with Legacy code - DRY (Don\u2019t Repeat Yourself)",
+            "link": "https://www.markltownsend.com/2023-12-28-working-with-legacy-code-cpd/",
+            "updated": 1703696400,
+            "site_name": "Copious Notes"
+        },
+        {
+            "id": "https://www.markltownsend.com/migrating-to-observable",
+            "title": "Migrating to the @Observable macro from ObservableObject",
+            "link": "https://www.markltownsend.com/2023-12-14-migrating-to-observable/",
+            "updated": 1702486800,
+            "site_name": "Copious Notes"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://medium.com/p/f0a065fa6af1",
+            "title": "Recreating Swift\u2019s Result type in Kotlin",
+            "link": "https://medium.com/@KaneCheshire/recreating-swifts-result-type-in-kotlin-f0a065fa6af1?source=rss-203911794be4------2",
+            "updated": 1599649345,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/3d65ea1d20dc",
+            "title": "Sticky UI in Android Bottom Sheet",
+            "link": "https://medium.com/@KaneCheshire/sticky-ui-in-android-bottom-sheet-3d65ea1d20dc?source=rss-203911794be4------2",
+            "updated": 1597816210,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/4d13f3a7bc3b",
+            "title": "Swift Package Manager is a security risk",
+            "link": "https://medium.com/@KaneCheshire/swift-package-manager-is-a-security-risk-4d13f3a7bc3b?source=rss-203911794be4------2",
+            "updated": 1596595343,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/a84aedace575",
+            "title": "Modern Modular Apps With Xcode 12 and Swift Package Manager",
+            "link": "https://medium.com/kinandcartacreated/modern-modular-apps-with-xcode-12-and-swift-package-manager-a84aedace575?source=rss-203911794be4------2",
+            "updated": 1596076496,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/f1127a07f240",
+            "title": "5 things every iOS developer learning Android should know",
+            "link": "https://medium.com/kinandcartacreated/5-things-every-ios-developer-learning-android-should-know-f1127a07f240?source=rss-203911794be4------2",
+            "updated": 1590586968,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/df0dabd95d42",
+            "title": "Why bespoke Contact Tracing apps don\u2019t work so well on iOS",
+            "link": "https://medium.com/kinandcartacreated/why-bespoke-contact-tracing-apps-dont-work-so-well-on-ios-df0dabd95d42?source=rss-203911794be4------2",
+            "updated": 1589869670,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/f4ad0adccbd7",
+            "title": "Manually testing HealthKit",
+            "link": "https://medium.com/kinandcartacreated/manually-testing-healthkit-f4ad0adccbd7?source=rss-203911794be4------2",
+            "updated": 1574835077,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/e9bce97f9b2b",
+            "title": "Sanitizing user input with Swift 5.1",
+            "link": "https://medium.com/@KaneCheshire/sanitizing-user-input-with-swift-5-1-e9bce97f9b2b?source=rss-203911794be4------2",
+            "updated": 1564242212,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/6b4afa0125be",
+            "title": "Modern modular apps with Xcode 11 and Swift Package Manager",
+            "link": "https://medium.com/kinandcartacreated/modern-modular-apps-with-xcode-11-and-swift-package-manager-6b4afa0125be?source=rss-203911794be4------2",
+            "updated": 1596515829,
+            "site_name": "Kane Cheshire's Blog"
+        },
+        {
+            "id": "https://medium.com/p/8c04cf1eb0ea",
+            "title": "From WWDC information overload to information zen",
+            "link": "https://medium.com/kinandcartacreated/from-wwdc-information-overload-to-information-zen-8c04cf1eb0ea?source=rss-203911794be4------2",
+            "updated": 1559622513,
+            "site_name": "Kane Cheshire's Blog"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470842,
+    "posts": [
+        {
+            "id": "http://airspeedvelocity.net/?p=40055",
+            "title": "Writing A Generic Stable Sort",
+            "link": "https://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort/",
+            "updated": 1452424044,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=40048",
+            "title": "Generic Collections, SubSequences and Overloading",
+            "link": "https://airspeedvelocity.net/2016/01/03/generic-collections-subsequences-and-overloading/",
+            "updated": 1451827100,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=40029",
+            "title": "Collection Indices, Slices, and Generics",
+            "link": "https://airspeedvelocity.net/2015/12/28/collection-indices-slices-and-generics/",
+            "updated": 1451312450,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39987",
+            "title": "Arrays, Linked Lists and Performance",
+            "link": "https://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance/",
+            "updated": 1438545832,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39975",
+            "title": "Linked lists, enums, value types and identity",
+            "link": "https://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/",
+            "updated": 1437902607,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39939",
+            "title": "Changes to the Swift standard library in 2.0 betas 2..<5",
+            "link": "https://airspeedvelocity.net/2015/07/23/changes-to-the-swift-standard-library-in-2-0-betas-2-5/",
+            "updated": 1437637494,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39926",
+            "title": "A persistent tree using indirect enums in Swift",
+            "link": "https://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/",
+            "updated": 1437547551,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39899",
+            "title": "Protocol extensions and the death of the pipe-forward operator",
+            "link": "https://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/",
+            "updated": 1435075270,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39870",
+            "title": "Changes to the Swift Standard Library in 2.0 beta 1",
+            "link": "https://airspeedvelocity.net/2015/06/09/changes-to-the-swift-standard-library-in-2-0-beta-1/",
+            "updated": 1433839632,
+            "site_url": "https://airspeedvelocity.net"
+        },
+        {
+            "id": "http://airspeedvelocity.net/?p=39862",
+            "title": "My Talk at Swift Summit",
+            "link": "https://airspeedvelocity.net/2015/05/22/my-talk-at-swift-summit/",
+            "updated": 1432282247,
+            "site_url": "https://airspeedvelocity.net"
+        }
+    ]
+}

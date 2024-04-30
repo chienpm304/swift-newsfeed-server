@@ -1,0 +1,61 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "f062c17a-eed3-4d1b-9c25-5d31c972b0b6",
+            "title": "Swift 101.\u00a0Convert coordinates to city names and back",
+            "link": "https://www.davidseek.com/coordinates-to-city-names",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "55854504-0aa6-462a-9a1d-a7b025e40043",
+            "title": "Swift 101. Delegates between UIViewControllers",
+            "link": "https://www.davidseek.com/delegate-between-controllers",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "52a93275-de5c-4627-a23d-0a0dc96b56fa",
+            "title": "How to transfer your App from one Xcode Simulator to another",
+            "link": "https://www.davidseek.com/simulator-2-simulator-transfer",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "14507b86-034a-43de-8264-446adefdeb01",
+            "title": "How I Cracked the Object Oriented Design Interview at Amazon",
+            "link": "https://www.davidseek.com/object-oriented-design-amazon",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "c246a0bc-edb7-49f2-a524-08ffa4531d65",
+            "title": "How I got into FAANG",
+            "link": "https://www.davidseek.com/how-i-got-into-faang",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "637cfb8c-0717-46bb-be3f-63fce19e7f56",
+            "title": "How to solve the Facebook iOS App Design Interview \u2014 Amazon Engineer perspective",
+            "link": "https://www.davidseek.com/solve-facebook-design-interview",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "7476cb71-229b-4b74-ba79-3aec7f621405",
+            "title": "Push Notifications with Firebase and Swift",
+            "link": "https://www.davidseek.com/push-notifications-with-firebase",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        },
+        {
+            "id": "457faea0-2111-43ac-982f-a489e26d0dba",
+            "title": "How to write a poker bot in SwiftUI",
+            "link": "https://www.davidseek.com/poker-bot-swiftui",
+            "updated": 1706720400,
+            "site_name": "David Seek\u2019s Blog"
+        }
+    ]
+}

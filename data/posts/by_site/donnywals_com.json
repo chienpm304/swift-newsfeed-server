@@ -1,0 +1,75 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://www.donnywals.com/?p=2346",
+            "title": "Deciding between a computed property and a function in Swift",
+            "link": "https://www.donnywals.com/deciding-between-a-computed-property-and-a-function-in-swift/",
+            "updated": 1714134632,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2344",
+            "title": "if case let in Swift explained",
+            "link": "https://www.donnywals.com/if-case-let-in-swift-explained/",
+            "updated": 1714132806,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2299",
+            "title": "What are lazy vars in Swift?",
+            "link": "https://www.donnywals.com/what-are-lazy-vars-in-swift/",
+            "updated": 1713873711,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2251",
+            "title": "Dispatching to the Main thread with MainActor in Swift",
+            "link": "https://www.donnywals.com/dispatching-to-the-main-thread-with-mainactor-in-swift/",
+            "updated": 1713836813,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2239",
+            "title": "How to use experimental Swift versions and features in Xcode?",
+            "link": "https://www.donnywals.com/how-to-use-experimental-swift-versions-and-features-in-xcode/",
+            "updated": 1713411969,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2234",
+            "title": "Actor reentrancy in Swift explained",
+            "link": "https://www.donnywals.com/actor-reentrancy-in-swift-explained/",
+            "updated": 1712810225,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2222",
+            "title": "Building a backend-driven paywall with RevenueCat",
+            "link": "https://www.donnywals.com/building-a-backend-driven-paywall-with-revenuecat/",
+            "updated": 1712226656,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2220",
+            "title": "Using closures for dependencies instead of protocols",
+            "link": "https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/",
+            "updated": 1712033162,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2201",
+            "title": "Building an AsyncSequence with AsyncStream.makeStream",
+            "link": "https://www.donnywals.com/building-an-asyncsequence-with-asyncstream-makestream/",
+            "updated": 1711352395,
+            "site_name": "Donny Wals\u2019 Blog"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2182",
+            "title": "Everything you need to know about Swift 5.10",
+            "link": "https://www.donnywals.com/everything-you-need-to-know-about-swift-5-10/",
+            "updated": 1709772056,
+            "site_name": "Donny Wals\u2019 Blog"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "updated": 1714470874,
+    "posts": [
+        {
+            "id": "https://blog.thomasdurand.fr/story/2024-03-15-preview-based-architecture/",
+            "title": "SwiftUI Previews-based architecture",
+            "link": "https://blog.thomasdurand.fr/story/2024-03-15-preview-based-architecture/",
+            "updated": 1710491400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2024-03-07-indie-diary-6/",
+            "title": "Indie Diary #6 \u2014 Building a new app",
+            "link": "https://blog.thomasdurand.fr/story/2024-03-07-indie-diary-6/",
+            "updated": 1709816400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2024-01-21-one-way-binding/",
+            "title": "One-way bindings in SwiftUI",
+            "link": "https://blog.thomasdurand.fr/story/2024-01-21-one-way-binding/",
+            "updated": 1705838400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/",
+            "title": "Asynchronous SwiftUI buttons",
+            "link": "https://blog.thomasdurand.fr/story/2024-01-14-asynchronous-swiftui-buttons/",
+            "updated": 1705230000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/",
+            "title": "Indie Diary #5 \u2014 A year in review.",
+            "link": "https://blog.thomasdurand.fr/story/2023-12-31-indie-diary-5/",
+            "updated": 1704011400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/",
+            "title": "Don\u2019t ship API keys!",
+            "link": "https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/",
+            "updated": 1702558800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-12-10-location-sensitive-widget/",
+            "title": "Build a location sensitive iOS widget",
+            "link": "https://blog.thomasdurand.fr/story/2023-12-10-location-sensitive-widget/",
+            "updated": 1702220400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-11-01-indie-diary-4/",
+            "title": "Indie Diary #4 \u2014 SharePal launch.",
+            "link": "https://blog.thomasdurand.fr/story/2023-11-01-indie-diary-4/",
+            "updated": 1698836400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-10-21-how-not-to-monitor-swiftui-state/",
+            "title": "How (not) to monitor SwiftUI @State",
+            "link": "https://blog.thomasdurand.fr/story/2023-10-21-how-not-to-monitor-swiftui-state/",
+            "updated": 1697871600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-10-08-indie-diary-3/",
+            "title": "Indie Diary #3 \u2014 Conferences, support, preparing a launch.",
+            "link": "https://blog.thomasdurand.fr/story/2023-10-08-indie-diary-3/",
+            "updated": 1696764600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-09-24-curious-case-of-sharelink/",
+            "title": "The curious case of ShareLink with plain text strings",
+            "link": "https://blog.thomasdurand.fr/story/2023-09-24-curious-case-of-sharelink/",
+            "updated": 1695569400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-09-04-shake-to-undo-swiftui/",
+            "title": "Shake to undo in a SwiftUI app",
+            "link": "https://blog.thomasdurand.fr/story/2023-09-04-shake-to-undo-swiftui/",
+            "updated": 1693846830,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-08-20-indie-diary-2/",
+            "title": "Indie Diary #2 \u2014 Padlok big release, and building Lego",
+            "link": "https://blog.thomasdurand.fr/story/2023-08-20-indie-diary-2/",
+            "updated": 1692511200,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-07-31-renewing-the-blog-again/",
+            "title": "Renewing the blog (again!)",
+            "link": "https://blog.thomasdurand.fr/story/2023-07-31-renewing-the-blog-again/",
+            "updated": 1690777800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-07-16-indie-diary-1/",
+            "title": "Indie Diary #1 \u2014 Indie\u00a0App\u00a0Sales",
+            "link": "https://blog.thomasdurand.fr/story/2023-07-16-indie-diary-1/",
+            "updated": 1689519600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-06-14-implement-new-airdrop-share/",
+            "title": "Implement iOS\u00a017\u2019s new AirDrop experience",
+            "link": "https://blog.thomasdurand.fr/story/2023-06-14-implement-new-airdrop-share/",
+            "updated": 1686700800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-06-10-swiftui-retrocompatibility-with-disfavored-overload/",
+            "title": "SwiftUI backward-compatibility with Disfavored\u00a0Overload",
+            "link": "https://blog.thomasdurand.fr/story/2023-06-10-swiftui-retrocompatibility-with-disfavored-overload/",
+            "updated": 1686402000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-03-31-swiftui-for-all-extensions/",
+            "title": "Leveraging SwiftUI for any app extension",
+            "link": "https://blog.thomasdurand.fr/story/2023-03-31-swiftui-for-all-extensions/",
+            "updated": 1680274800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-03-17-automatic-deployment-github-workflow/",
+            "title": "Automatic rsync deployment with Github Workflows",
+            "link": "https://blog.thomasdurand.fr/story/2023-03-17-automatic-deployment-github-workflow/",
+            "updated": 1679063400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2023-03-03-struggling-is-learning/",
+            "title": "Struggling: you\u2019re not alone, you\u2019re learning!",
+            "link": "https://blog.thomasdurand.fr/story/2023-03-03-struggling-is-learning/",
+            "updated": 1677841200,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2022-03-06-share-data-with-privacy-in-mind/",
+            "title": "Building a share feature with privacy in mind",
+            "link": "https://blog.thomasdurand.fr/story/2022-03-06-share-data-with-privacy-in-mind/",
+            "updated": 1646571600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2022-01-25-vapor-on-debian-11-vps/",
+            "title": "Build a Vapor app on Debian\u00a011",
+            "link": "https://blog.thomasdurand.fr/story/2022-01-25-vapor-on-debian-11-vps/",
+            "updated": 1643088600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2021-06-27-theme-color-safe-area-safari-15/",
+            "title": "Safari theme color and notch support",
+            "link": "https://blog.thomasdurand.fr/story/2021-06-27-theme-color-safe-area-safari-15/",
+            "updated": 1624798800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2021-02-12-beta-software-build-on-release-xcode/",
+            "title": "Target iOS beta while using regular Xcode.app",
+            "link": "https://blog.thomasdurand.fr/story/2021-02-12-beta-software-build-on-release-xcode/",
+            "updated": 1613095200,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-06-25-generating-lottery-numbers-with-cryptokit/",
+            "title": "Generating lottery numbers using CryptoKit",
+            "link": "https://blog.thomasdurand.fr/story/2019-06-25-generating-lottery-numbers-with-cryptokit/",
+            "updated": 1561462200,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-06-07-a-long-week-at-wwdc19/",
+            "title": "A (long) week at \uf8ff\u202fWWDC19",
+            "link": "https://blog.thomasdurand.fr/story/2019-06-07-a-long-week-at-wwdc19/",
+            "updated": 1559903400,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-04-14-ipv6-setup-on-ovh-vps/",
+            "title": "IPv6 setup on Debian 9 Stretch",
+            "link": "https://blog.thomasdurand.fr/story/2019-04-14-ipv6-setup-on-ovh-vps/",
+            "updated": 1555218000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-04-01-attending-wwdc19/",
+            "title": "Attending \uf8ff\u202fWWDC19",
+            "link": "https://blog.thomasdurand.fr/story/2019-04-01-attending-wwdc19/",
+            "updated": 1554094800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-03-27-embrase-macos-dark-mode-using-css/",
+            "title": "Embrace macOS\u2019s dark mode with Safari",
+            "link": "https://blog.thomasdurand.fr/story/2019-03-27-embrase-macos-dark-mode-using-css/",
+            "updated": 1553662800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2019-03-20-keep-php-updated-on-debian-9/",
+            "title": "Keep PHP up to date on Debian\u00a09 Stretch",
+            "link": "https://blog.thomasdurand.fr/story/2019-03-20-keep-php-updated-on-debian-9/",
+            "updated": 1553058000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2018-10-20-privacy-at-home-with-pi-hole/",
+            "title": "Build a privacy-safe home network using Pi-hole",
+            "link": "https://blog.thomasdurand.fr/story/2018-10-20-privacy-at-home-with-pi-hole/",
+            "updated": 1540011600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2018-01-31-how-anyone-could-feed-my-cat/",
+            "title": "How anyone could feed my cat",
+            "link": "https://blog.thomasdurand.fr/story/2018-01-31-how-anyone-could-feed-my-cat/",
+            "updated": 1517374800,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2017-07-12-aes-encryption-good-practice-with-swift/",
+            "title": "Avoid 5 common mistakes with AES encryption",
+            "link": "https://blog.thomasdurand.fr/story/2017-07-12-aes-encryption-good-practice-with-swift/",
+            "updated": 1499835600,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2016-08-12-ios-disclosure-indicator-done-right/",
+            "title": "iOS disclosure indicators done right",
+            "link": "https://blog.thomasdurand.fr/story/2016-08-12-ios-disclosure-indicator-done-right/",
+            "updated": 1470978000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2016-08-07-ios-basics-tableview-setup/",
+            "title": "iOS basics: UITableView setup with Swift 3",
+            "link": "https://blog.thomasdurand.fr/story/2016-08-07-ios-basics-tableview-setup/",
+            "updated": 1470546000,
+            "site_name": "Dean\u2019s blog"
+        },
+        {
+            "id": "https://blog.thomasdurand.fr/story/2016-08-06-renewing-the-blog/",
+            "title": "Renewing the blog",
+            "link": "https://blog.thomasdurand.fr/story/2016-08-06-renewing-the-blog/",
+            "updated": 1470459600,
+            "site_name": "Dean\u2019s blog"
+        }
+    ]
+}

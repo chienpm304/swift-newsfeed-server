@@ -1,0 +1,75 @@
+{
+    "updated": 1714470867,
+    "posts": [
+        {
+            "id": "http://augmentedcode.io/?p=3644",
+            "title": "Initializing @MainActor type from a non-isolated context in Swift",
+            "link": "https://augmentedcode.io/2024/04/22/initializing-mainactor-type-from-a-non-isolated-context-in-swift/",
+            "updated": 1713772800,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3627",
+            "title": "Getting started with Benchmark package",
+            "link": "https://augmentedcode.io/2024/04/08/getting-started-with-benchmark-package/",
+            "updated": 1712563200,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3613",
+            "title": "Merging sorted arrays with duplicates in Swift",
+            "link": "https://augmentedcode.io/2024/03/25/merging-sorted-arrays-with-duplicates-in-swift/",
+            "updated": 1711357200,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3604",
+            "title": "Collection with opaque base collection in Swift",
+            "link": "https://augmentedcode.io/2024/03/11/collection-with-opaque-base-collection-in-swift/",
+            "updated": 1710147600,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3588",
+            "title": "Performing accessibility audits with UI tests on iOS",
+            "link": "https://augmentedcode.io/2024/02/26/performing-accessibility-audits-with-ui-tests-on-ios/",
+            "updated": 1708934400,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3563",
+            "title": "Opening hyperlinks in SwiftUI",
+            "link": "https://augmentedcode.io/2024/02/12/opening-hyperlinks-in-swiftui/",
+            "updated": 1707699600,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3550",
+            "title": "Avoiding subtle mistake when guarding mutable state with DispatchQueue",
+            "link": "https://augmentedcode.io/2024/01/29/avoiding-subtle-mistake-when-guarding-mutable-state-with-dispatchqueue/",
+            "updated": 1706490000,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3502",
+            "title": "SubscriptionStoreView for iOS apps",
+            "link": "https://augmentedcode.io/2024/01/15/subscriptionstoreview-for-ios-apps/",
+            "updated": 1705280400,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3471",
+            "title": "Most visited blog posts in 2023",
+            "link": "https://augmentedcode.io/2023/12/31/most-visited-blog-posts-in-2023/",
+            "updated": 1703998622,
+            "site_url": "https://augmentedcode.io/blog/"
+        },
+        {
+            "id": "http://augmentedcode.io/?p=3454",
+            "title": "AsyncPhoto with caching in SwiftUI (part 2)",
+            "link": "https://augmentedcode.io/2023/12/25/asyncphoto-with-caching-in-swiftui-part-2/",
+            "updated": 1703466000,
+            "site_url": "https://augmentedcode.io/blog/"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "updated": 1714470918,
+    "posts": [
+        {
+            "id": "https://recoursive.com/2022/09/05/simpasteboardhelper/",
+            "title": "SimPasteboardHelper",
+            "link": "https://recoursive.com/2022/09/05/simpasteboardhelper/",
+            "updated": 1662310800,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2022/09/02/form_validation_is_hard/",
+            "title": "Form validation is hard",
+            "link": "https://recoursive.com/2022/09/02/form_validation_is_hard/",
+            "updated": 1662051600,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2021/09/14/create_compile_time_reminders/",
+            "title": "How-to: Create compile time reminders in Xcode",
+            "link": "https://recoursive.com/2021/09/14/create_compile_time_reminders/",
+            "updated": 1631552400,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2021/02/25/create_zip_archive_using_only_foundation/",
+            "title": "How-to: Create a zip file on iOS using Swift without 3rd party dependencies",
+            "link": "https://recoursive.com/2021/02/25/create_zip_archive_using_only_foundation/",
+            "updated": 1614186000,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2020/10/16/obscure_userdefaults_appkit/",
+            "title": "Reference: Obscure UserDefaults That Affect AppKit Behavior",
+            "link": "https://recoursive.com/2020/10/16/obscure_userdefaults_appkit/",
+            "updated": 1602781200,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2020/09/28/disable_structure_editing_coordinator/",
+            "title": "How-to: Disable automatically organizing files on disk after move in Xcode project",
+            "link": "https://recoursive.com/2020/09/28/disable_structure_editing_coordinator/",
+            "updated": 1601226000,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2020/03/03/reset_macos_privacy_permissions/",
+            "title": "How-to: Reset Privacy Permissions in macOS",
+            "link": "https://recoursive.com/2020/03/03/reset_macos_privacy_permissions/",
+            "updated": 1583168400,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2020/02/12/obscure_simulator_settings/",
+            "title": "Reference: Obscure iOS Simulator Setings",
+            "link": "https://recoursive.com/2020/02/12/obscure_simulator_settings/",
+            "updated": 1581440400,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2020/01/21/mariadb_json_validation_bug/",
+            "title": "JSON validation bug in MariaDB 10.4.8 when Unicode escaping is used",
+            "link": "https://recoursive.com/2020/01/21/mariadb_json_validation_bug/",
+            "updated": 1579539600,
+            "site_name": "Recoursive"
+        },
+        {
+            "id": "https://recoursive.com/2019/10/05/swift_error_catch_syntax/",
+            "title": "Reference: Swift Error Catch Syntax",
+            "link": "https://recoursive.com/2019/10/05/swift_error_catch_syntax/",
+            "updated": 1570208400,
+            "site_name": "Recoursive"
+        }
+    ]
+}

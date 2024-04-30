@@ -1,0 +1,75 @@
+{
+    "updated": 1714470949,
+    "posts": [
+        {
+            "id": "https://soto.codes/2023/08/v7-alpha-release.html",
+            "title": "Soto Version 7 Alpha",
+            "link": "https://soto.codes/2023/08/v7-alpha-release.html",
+            "updated": 1691650800,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2022/12/build-plugin-experiments.html",
+            "title": "Soto and Swift Build Plugins",
+            "link": "https://soto.codes/2022/12/build-plugin-experiments.html",
+            "updated": 1670299200,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2022/06/v6-release.html",
+            "title": "Soto v6.0.0",
+            "link": "https://soto.codes/2022/06/v6-release.html",
+            "updated": 1655794800,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2021/10/async-await.html",
+            "title": "Soto and Swift concurrency",
+            "link": "https://soto.codes/2021/10/async-await.html",
+            "updated": 1635213600,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2021/07/waiters.html",
+            "title": "Waiting",
+            "link": "https://soto.codes/2021/07/waiters.html",
+            "updated": 1626926400,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2021/03/soto-cognito-authentication-kit.html",
+            "title": "Soto Cognito Authentication Kit",
+            "link": "https://soto.codes/2021/03/soto-cognito-authentication-kit.html",
+            "updated": 1614765600,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2021/02/signing-urls-and-headers.html",
+            "title": "Signing URLs and headers",
+            "link": "https://soto.codes/2021/02/signing-urls-and-headers.html",
+            "updated": 1612339200,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2021/01/soto-s3-file-transfer.html",
+            "title": "Soto S3 File Transfer",
+            "link": "https://soto.codes/2021/01/soto-s3-file-transfer.html",
+            "updated": 1610424000,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2020/12/presigned-urls.html",
+            "title": "Pre-signed URLs for S3",
+            "link": "https://soto.codes/2020/12/presigned-urls.html",
+            "updated": 1608112800,
+            "site_name": "Soto Blog"
+        },
+        {
+            "id": "https://soto.codes/2020/12/upgrading-to-v5.html",
+            "title": "Upgrading to Version 5",
+            "link": "https://soto.codes/2020/12/upgrading-to-v5.html",
+            "updated": 1607223600,
+            "site_name": "Soto Blog"
+        }
+    ]
+}
