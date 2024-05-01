@@ -1,40 +1,40 @@
 {
-    "updated": 1714470894,
+    "updated": 1714537239,
     "posts": [
         {
             "id": "https://medium.com/p/152deaf8fc5e",
             "title": "iOS 17 @Observable and the Observation Framework",
             "link": "https://betterprogramming.pub/ios-17-observable-and-the-observation-framework-152deaf8fc5e?source=rss-c5b0b1aec01a------2",
             "updated": 1707065768,
-            "site_name": "Nick McConnell on Medium"
+            "site_url": "https://medium.com/@nicmcconn"
         },
         {
             "id": "https://medium.com/p/e006882c5efa",
             "title": "Flow Navigation With SwiftUI 4",
             "link": "https://betterprogramming.pub/flow-navigation-with-swiftui-4-e006882c5efa?source=rss-c5b0b1aec01a------2",
             "updated": 1659271793,
-            "site_name": "Nick McConnell on Medium"
-        },
-        {
-            "id": "https://medium.com/p/791f89421923",
-            "title": "Flow Navigation With SwiftUI (Revisited)",
-            "link": "https://betterprogramming.pub/flow-navigation-with-swiftui-revisited-791f89421923?source=rss-c5b0b1aec01a------2",
-            "updated": 1659203189,
-            "site_name": "Nick McConnell on Medium"
-        },
-        {
-            "id": "https://medium.com/p/905ecc05f1c5",
-            "title": "Flow with SwiftUI and MVVM\u200a\u2014\u200aPart 2: ViewModels",
-            "link": "https://medium.com/swlh/flow-with-swiftui-and-mvvm-part-2-viewmodels-905ecc05f1c5?source=rss-c5b0b1aec01a------2",
-            "updated": 1651066129,
-            "site_name": "Nick McConnell on Medium"
+            "site_url": "https://medium.com/@nicmcconn"
         },
         {
             "id": "https://medium.com/p/7cc394440ab8",
             "title": "Flow with SwiftUI and MVVM",
             "link": "https://medium.com/swlh/flow-with-swiftui-and-mvvm-7cc394440ab8?source=rss-c5b0b1aec01a------2",
             "updated": 1659270407,
-            "site_name": "Nick McConnell on Medium"
+            "site_url": "https://medium.com/@nicmcconn"
+        },
+        {
+            "id": "https://medium.com/p/791f89421923",
+            "title": "Flow Navigation With SwiftUI (Revisited)",
+            "link": "https://betterprogramming.pub/flow-navigation-with-swiftui-revisited-791f89421923?source=rss-c5b0b1aec01a------2",
+            "updated": 1659203189,
+            "site_url": "https://medium.com/@nicmcconn"
+        },
+        {
+            "id": "https://medium.com/p/905ecc05f1c5",
+            "title": "Flow with SwiftUI and MVVM\u200a\u2014\u200aPart 2: ViewModels",
+            "link": "https://medium.com/swlh/flow-with-swiftui-and-mvvm-part-2-viewmodels-905ecc05f1c5?source=rss-c5b0b1aec01a------2",
+            "updated": 1651066129,
+            "site_url": "https://medium.com/@nicmcconn"
         }
     ]
 }

@@ -1,271 +1,271 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon",
             "title": "Intel Virtualization and Apple Silicon",
             "link": "https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon",
             "updated": 1648141200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short",
             "title": "Where Mac Catalyst Falls Short",
             "link": "https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short",
             "updated": 1644944400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20210605-Catalyst-Sample-Code-Roundup",
             "title": "Catalyst Sample Code Roundup",
             "link": "https://www.highcaffeinecontent.com/blog/20210605-Catalyst-Sample-Code-Roundup",
             "updated": 1622826000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20210516-Supporting-Catalysts-Optimize-for-Mac-with-Manual-Layout",
             "title": "Supporting Catalyst's Optimize for Mac with Manual Layout",
             "link": "https://www.highcaffeinecontent.com/blog/20210516-Supporting-Catalysts-Optimize-for-Mac-with-Manual-Layout",
             "updated": 1621098000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout",
             "title": "Manual UIKit Layout",
             "link": "https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout",
             "updated": 1620838800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20210510-Broadcasts-2-+-Swift",
             "title": "Broadcasts 2 + Swift",
             "link": "https://www.highcaffeinecontent.com/blog/20210510-Broadcasts-2-+-Swift",
             "updated": 1620579600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20200610-Pastel",
             "title": "Pastel",
             "link": "https://www.highcaffeinecontent.com/blog/20200610-Pastel",
             "updated": 1591722000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20200401-Broadcasts:-Streaming-Radio",
             "title": "Broadcasts: Streaming Radio",
             "link": "https://www.highcaffeinecontent.com/blog/20200401-Broadcasts:-Streaming-Radio",
             "updated": 1585674000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190610-Shortcuts-for-Mac",
             "title": "Shortcuts for Mac",
             "link": "https://www.highcaffeinecontent.com/blog/20190610-Shortcuts-for-Mac",
             "updated": 1560099600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190607-Beyond-the-Checkbox-with-Catalyst-and-AppKit",
             "title": "Beyond the Checkbox with Catalyst and AppKit",
             "link": "https://www.highcaffeinecontent.com/blog/20190607-Beyond-the-Checkbox-with-Catalyst-and-AppKit",
             "updated": 1559840400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190601-Why-Apple-needs-iPad-apps-on-the-Mac",
             "title": "Why Apple needs iPad apps on the Mac",
             "link": "https://www.highcaffeinecontent.com/blog/20190601-Why-Apple-needs-iPad-apps-on-the-Mac",
             "updated": 1559322000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190601-WWDC,-A-Wish-List-(2019-Edition)",
             "title": "WWDC, A Wish List (2019 Edition)",
             "link": "https://www.highcaffeinecontent.com/blog/20190601-WWDC,-A-Wish-List-(2019-Edition)",
             "updated": 1559322000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190522-(Dont-Fear)-The-Reaper",
             "title": "(Don't Fear) The Reaper",
             "link": "https://www.highcaffeinecontent.com/blog/20190522-(Dont-Fear)-The-Reaper",
             "updated": 1558458000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode",
             "title": "Translating an ARM iOS App to Intel macOS Using Bitcode",
             "link": "https://www.highcaffeinecontent.com/blog/20190518-Translating-an-ARM-iOS-App-to-Intel-macOS-Using-Bitcode",
             "updated": 1558112400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190329-Turntable",
             "title": "Turntable",
             "link": "https://www.highcaffeinecontent.com/blog/20190329-Turntable",
             "updated": 1553792400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190324-Casting-Scenery-Pieces-with-Hirst-Arts-Molds",
             "title": "Casting Scenery Pieces with Hirst Arts Molds",
             "link": "https://www.highcaffeinecontent.com/blog/20190324-Casting-Scenery-Pieces-with-Hirst-Arts-Molds",
             "updated": 1553360400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190307-Deeper-Integration-with-Marzipan",
             "title": "Deeper Integration with Marzipan",
             "link": "https://www.highcaffeinecontent.com/blog/20190307-Deeper-Integration-with-Marzipan",
             "updated": 1551891600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing",
             "title": "Making Marzipan Apps Sing",
             "link": "https://www.highcaffeinecontent.com/blog/20190302-Making-Marzipan-Apps-Sing",
             "updated": 1551459600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20190301-Bringing-iOS-Apps-to-macOS-Using-Marzipanify",
             "title": "Bringing iOS Apps to macOS Using Marzipanify",
             "link": "https://www.highcaffeinecontent.com/blog/20190301-Bringing-iOS-Apps-to-macOS-Using-Marzipanify",
             "updated": 1551373200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20160228-WWDC-Wish-List",
             "title": "WWDC Wish List",
             "link": "https://www.highcaffeinecontent.com/blog/20160228-WWDC-Wish-List",
             "updated": 1456592400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20151107-TV-Channel-App-on-tvOS",
             "title": "TV Channel App on tvOS",
             "link": "https://www.highcaffeinecontent.com/blog/20151107-TV-Channel-App-on-tvOS",
             "updated": 1446829200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20150912-Native-UIKit-apps-on-Apple-Watch",
             "title": "Native UIKit apps on Apple Watch",
             "link": "https://www.highcaffeinecontent.com/blog/20150912-Native-UIKit-apps-on-Apple-Watch",
             "updated": 1441990800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20150430-Redux:-When-is-a-Smartphone-OS-not-a-Smartphone-OS",
             "title": "Redux: When is a Smartphone OS not a Smartphone OS?",
             "link": "https://www.highcaffeinecontent.com/blog/20150430-Redux:-When-is-a-Smartphone-OS-not-a-Smartphone-OS",
             "updated": 1430326800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20150124-MPW,-Carbon-and-building-Classic-Mac-OS-apps-in-OS-X",
             "title": "MPW, Carbon and building Classic Mac OS apps in OS X",
             "link": "https://www.highcaffeinecontent.com/blog/20150124-MPW,-Carbon-and-building-Classic-Mac-OS-apps-in-OS-X",
             "updated": 1422032400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20140527-Lisa-Pascal-Development-in-Lisa-Workshop",
             "title": "Lisa Pascal Development in Lisa Workshop",
             "link": "https://www.highcaffeinecontent.com/blog/20140527-Lisa-Pascal-Development-in-Lisa-Workshop",
             "updated": 1401123600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20140425-NetBoot-PowerPC-&-Intel-Macs-from-Mavericks-Server",
             "title": "NetBoot PowerPC & Intel Macs from Mavericks Server",
             "link": "https://www.highcaffeinecontent.com/blog/20140425-NetBoot-PowerPC-&-Intel-Macs-from-Mavericks-Server",
             "updated": 1398358800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20140114-The-Quest-for-A-Perfect-Lotto-Machine-Simulation",
             "title": "The Quest for A Perfect Lotto Machine Simulation",
             "link": "https://www.highcaffeinecontent.com/blog/20140114-The-Quest-for-A-Perfect-Lotto-Machine-Simulation",
             "updated": 1389632400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20120505-2007s-pre-M3-version-of-Android:-the-Google-Sooner",
             "title": "2007's pre-M3 version of Android: the Google Sooner",
             "link": "https://www.highcaffeinecontent.com/blog/20120505-2007s-pre-M3-version-of-Android:-the-Google-Sooner",
             "updated": 1336150800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20120419-When-is-a-Smartphone-OS-not-a-Smartphone-OS",
             "title": "When is a Smartphone OS not a Smartphone OS?",
             "link": "https://www.highcaffeinecontent.com/blog/20120419-When-is-a-Smartphone-OS-not-a-Smartphone-OS",
             "updated": 1334768400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20101110-Return-AirPrint-Sharing-to-Mac-OS-X-v10.6.5",
             "title": "Return AirPrint Sharing to Mac OS X v10.6.5",
             "link": "https://www.highcaffeinecontent.com/blog/20101110-Return-AirPrint-Sharing-to-Mac-OS-X-v10.6.5",
             "updated": 1289322000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20100215-Apples-iBooks-Dynamic-Page-Curl",
             "title": "Apple's iBooks Dynamic Page Curl",
             "link": "https://www.highcaffeinecontent.com/blog/20100215-Apples-iBooks-Dynamic-Page-Curl",
             "updated": 1266166800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20091222-Nook-v1.0-on-Android-Emulator",
             "title": "Nook v1.0 on Android Emulator",
             "link": "https://www.highcaffeinecontent.com/blog/20091222-Nook-v1.0-on-Android-Emulator",
             "updated": 1261414800,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20090706-Speech-Synthesis-on-iPhone-3GS",
             "title": "Speech Synthesis on iPhone 3GS",
             "link": "https://www.highcaffeinecontent.com/blog/20090706-Speech-Synthesis-on-iPhone-3GS",
             "updated": 1246813200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20090114-Using-Dynamic-Library-Injection-with-the-iPhone-Simulator-[REDUX]",
             "title": "Using Dynamic Library Injection with the iPhone Simulator [REDUX]",
             "link": "https://www.highcaffeinecontent.com/blog/20090114-Using-Dynamic-Library-Injection-with-the-iPhone-Simulator-[REDUX]",
             "updated": 1231866000,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20081123-How-to-enable-Emoji-systemwide",
             "title": "How to enable Emoji systemwide",
             "link": "https://www.highcaffeinecontent.com/blog/20081123-How-to-enable-Emoji-systemwide",
             "updated": 1227373200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20081025-Using-Dynamic-Library-Injection-with-the-iPhone-Simulator",
             "title": "Using Dynamic Library Injection with the iPhone Simulator",
             "link": "https://www.highcaffeinecontent.com/blog/20081025-Using-Dynamic-Library-Injection-with-the-iPhone-Simulator",
             "updated": 1224867600,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20080709-Flare-Kit:-Learning-Interface-Builder\u2019s-Plugin-Model",
             "title": "Flare Kit: Learning Interface Builder\u2019s Plugin Model",
             "link": "https://www.highcaffeinecontent.com/blog/20080709-Flare-Kit:-Learning-Interface-Builder\u2019s-Plugin-Model",
             "updated": 1215536400,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         },
         {
             "id": "https://www.highcaffeinecontent.com/blog/20080323-Using-Core-Image-Filters-On-or-Under-an-NSWindow",
             "title": "Using Core Image Filters On or Under an NSWindow",
             "link": "https://www.highcaffeinecontent.com/blog/20080323-Using-Core-Image-Filters-On-or-Under-an-NSWindow",
             "updated": 1206205200,
-            "site_name": "High Caffeine Content"
+            "site_url": "https://www.highcaffeinecontent.com"
         }
     ]
 }

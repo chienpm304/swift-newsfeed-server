@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:61L1OJ23_VU",
-            "title": "SwiftUI pro tip. Are you writing too much code? | iOS Compressed: 60-second video series",
-            "link": "https://www.youtube.com/watch?v=61L1OJ23_VU",
-            "updated": 1714025064,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:2S-BJ7PYrww",
-            "title": "Getting Started with SwiftUI - Part 3: View Modifiers",
-            "link": "https://www.youtube.com/watch?v=2S-BJ7PYrww",
-            "updated": 1714037345,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:oXDgByekN1Y",
-            "title": "Getting Started with SwiftUI - Part 2: Making Views",
-            "link": "https://www.youtube.com/watch?v=oXDgByekN1Y",
-            "updated": 1710387133,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:fEhrVlDzBDo",
-            "title": "Getting Started with SwiftUI - Part 1: New Project",
-            "link": "https://www.youtube.com/watch?v=fEhrVlDzBDo",
-            "updated": 1709821528,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:2gCsuAGP340",
-            "title": "a SwiftUI Gradient in 60 seconds!",
-            "link": "https://www.youtube.com/watch?v=2gCsuAGP340",
-            "updated": 1714100411,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:HQfxRWGHiNg",
-            "title": "Organize your SwiftUI - Part 3: Names & Folders",
-            "link": "https://www.youtube.com/watch?v=HQfxRWGHiNg",
-            "updated": 1712289069,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:UYxQ8z3ikWg",
-            "title": "Organize your SwiftUI - Part 2: View Extraction",
-            "link": "https://www.youtube.com/watch?v=UYxQ8z3ikWg",
-            "updated": 1712324152,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:ZgpFQnpX3wk",
-            "title": "Are YOU scared of Unit Testing? Don't be. (A slightly coherent ramble) | iOS, Swift, SwiftUI",
-            "link": "https://www.youtube.com/watch?v=ZgpFQnpX3wk",
-            "updated": 1710386800,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:svx1KfWH9zo",
-            "title": "Organize your SwiftUI - Part 1: Separation",
-            "link": "https://www.youtube.com/watch?v=svx1KfWH9zo",
-            "updated": 1712164110,
-            "site_name": "Scott Smith on YouTube"
+            "id": "yt:video:CCQE06_xsBw",
+            "title": "SwiftUI: How to Rearrange List Rows, 2 Steps, 60 seconds | iOS",
+            "link": "https://www.youtube.com/watch?v=CCQE06_xsBw",
+            "updated": 1714138902,
+            "site_url": "https://www.youtube.com/scottsmithdev"
         },
         {
             "id": "yt:video:LIbSvRTfkUA",
             "title": "A Tip for Debugging, in 60 seconds! iOS, Swift, SwiftUI",
             "link": "https://www.youtube.com/watch?v=LIbSvRTfkUA",
             "updated": 1714120124,
-            "site_name": "Scott Smith on YouTube"
+            "site_url": "https://www.youtube.com/scottsmithdev"
         },
         {
-            "id": "yt:video:CCQE06_xsBw",
-            "title": "SwiftUI: How to Rearrange List Rows, 2 Steps, 60 seconds | iOS",
-            "link": "https://www.youtube.com/watch?v=CCQE06_xsBw",
-            "updated": 1714138902,
-            "site_name": "Scott Smith on YouTube"
+            "id": "yt:video:2gCsuAGP340",
+            "title": "a SwiftUI Gradient in 60 seconds!",
+            "link": "https://www.youtube.com/watch?v=2gCsuAGP340",
+            "updated": 1714100411,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:2S-BJ7PYrww",
+            "title": "Getting Started with SwiftUI - Part 3: View Modifiers",
+            "link": "https://www.youtube.com/watch?v=2S-BJ7PYrww",
+            "updated": 1714037345,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:61L1OJ23_VU",
+            "title": "SwiftUI pro tip. Are you writing too much code? | iOS Compressed: 60-second video series",
+            "link": "https://www.youtube.com/watch?v=61L1OJ23_VU",
+            "updated": 1714025064,
+            "site_url": "https://www.youtube.com/scottsmithdev"
         },
         {
             "id": "yt:video:5-1Rgv9QYAg",
             "title": "How to fix \u201cdo not have matching underlying types\u201d in SwiftUI. \u201copaque return type\u201d",
             "link": "https://www.youtube.com/watch?v=5-1Rgv9QYAg",
             "updated": 1714020496,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:hk-bnCVgsww",
-            "title": "SwiftUI: How to resize an Image \u2014 in 60 seconds | iOS",
-            "link": "https://www.youtube.com/watch?v=hk-bnCVgsww",
-            "updated": 1710430581,
-            "site_name": "Scott Smith on YouTube"
-        },
-        {
-            "id": "yt:video:lHON_weHR44",
-            "title": "SwiftUI: How to make Custom Buttons in 2 different ways | iOS",
-            "link": "https://www.youtube.com/watch?v=lHON_weHR44",
-            "updated": 1712726810,
-            "site_name": "Scott Smith on YouTube"
+            "site_url": "https://www.youtube.com/scottsmithdev"
         },
         {
             "id": "yt:video:wLS26PfQeAs",
             "title": "ViewDidLoad, ViewWillAppear, and more! Explained in Swift | iOS UIViewController Lifecycle Methods",
             "link": "https://www.youtube.com/watch?v=wLS26PfQeAs",
             "updated": 1712754984,
-            "site_name": "Scott Smith on YouTube"
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:lHON_weHR44",
+            "title": "SwiftUI: How to make Custom Buttons in 2 different ways | iOS",
+            "link": "https://www.youtube.com/watch?v=lHON_weHR44",
+            "updated": 1712726810,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:UYxQ8z3ikWg",
+            "title": "Organize your SwiftUI - Part 2: View Extraction",
+            "link": "https://www.youtube.com/watch?v=UYxQ8z3ikWg",
+            "updated": 1712324152,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:HQfxRWGHiNg",
+            "title": "Organize your SwiftUI - Part 3: Names & Folders",
+            "link": "https://www.youtube.com/watch?v=HQfxRWGHiNg",
+            "updated": 1712289069,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:svx1KfWH9zo",
+            "title": "Organize your SwiftUI - Part 1: Separation",
+            "link": "https://www.youtube.com/watch?v=svx1KfWH9zo",
+            "updated": 1712164110,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:hk-bnCVgsww",
+            "title": "SwiftUI: How to resize an Image \u2014 in 60 seconds | iOS",
+            "link": "https://www.youtube.com/watch?v=hk-bnCVgsww",
+            "updated": 1710430581,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:oXDgByekN1Y",
+            "title": "Getting Started with SwiftUI - Part 2: Making Views",
+            "link": "https://www.youtube.com/watch?v=oXDgByekN1Y",
+            "updated": 1710387133,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:ZgpFQnpX3wk",
+            "title": "Are YOU scared of Unit Testing? Don't be. (A slightly coherent ramble) | iOS, Swift, SwiftUI",
+            "link": "https://www.youtube.com/watch?v=ZgpFQnpX3wk",
+            "updated": 1710386800,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:fEhrVlDzBDo",
+            "title": "Getting Started with SwiftUI - Part 1: New Project",
+            "link": "https://www.youtube.com/watch?v=fEhrVlDzBDo",
+            "updated": 1709821528,
+            "site_url": "https://www.youtube.com/scottsmithdev"
         }
     ]
 }

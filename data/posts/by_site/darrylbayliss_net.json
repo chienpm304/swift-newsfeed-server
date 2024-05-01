@@ -1,47 +1,47 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://darrylbayliss.net/interacting-with-apple-maps-through-url-parameters",
             "title": "Interacting with Apple Maps Through URL Parameters",
             "link": "https://darrylbayliss.net/interacting-with-apple-maps-through-url-parameters/",
             "updated": 1708189200,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         },
         {
             "id": "https://darrylbayliss.net/ios-and-android-can-finally-be-friends",
             "title": "iOS and Android can finally be friends",
             "link": "https://darrylbayliss.net/ios-and-android-can-finally-be-friends/",
             "updated": 1498496400,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         },
         {
             "id": "https://darrylbayliss.net/contributing-to-open-source",
             "title": "I Contributed to Open Source and all I got was this Sense of Pride and the Chance to Learn Something New",
             "link": "https://darrylbayliss.net/contributing-to-open-source/",
             "updated": 1454173200,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         },
         {
             "id": "https://darrylbayliss.net/three-weeks-of-apple-tv",
             "title": "Three Weeks of Apple TV",
             "link": "https://darrylbayliss.net/three-weeks-of-apple-tv/",
             "updated": 1448557200,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         },
         {
             "id": "https://darrylbayliss.net/iosdevuk",
             "title": "iOSDevUK",
             "link": "https://darrylbayliss.net/iosdevuk/",
             "updated": 1442250000,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         },
         {
             "id": "https://darrylbayliss.net/why-im-rooting-for-researchkit",
             "title": "Why I'm rooting for ResearchKit",
             "link": "https://darrylbayliss.net/why-im-rooting-for-researchkit/",
             "updated": 1426438800,
-            "site_name": "Darryl Bayliss's Blog"
+            "site_url": "https://darrylbayliss.net"
         }
     ]
 }

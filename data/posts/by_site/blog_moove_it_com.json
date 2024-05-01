@@ -1,75 +1,75 @@
 {
-    "updated": 1714471071,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.moove-it.com/?p=6856",
             "title": "What\u2019s new in Kotlin for Android?",
             "link": "https://blog.moove-it.com/whats-new-in-kotlin-for-android/",
             "updated": 1687334834,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6828",
             "title": "Android developers \u2013 Here are the best practices for saving the UI state",
             "link": "https://blog.moove-it.com/best-practices-for-saving-the-ui-state/",
             "updated": 1686141929,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6822",
             "title": "Announcing Qubika",
             "link": "https://blog.moove-it.com/announcing-qubika/",
             "updated": 1684331737,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6790",
             "title": "Webflow: A low code tool at the service of designers",
             "link": "https://blog.moove-it.com/webflow-for-designers/",
             "updated": 1683193269,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6796",
             "title": "Moove It recognized for the third year in a row as one of the Financial Times\u2019 fastest growing companies in the Americas",
             "link": "https://blog.moove-it.com/fastest-growing-companies-in-the-americas-2023/",
             "updated": 1682588249,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6773",
             "title": "Why you should choose ML Kit over Mobile Vision",
             "link": "https://blog.moove-it.com/why-you-should-choose-ml-kit-over-mobile-vision/",
             "updated": 1682416468,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6765",
             "title": "Moove It\u2019s partnership with RevenueCat: Take your mobile app billing and subscriptions to a new level",
             "link": "https://blog.moove-it.com/moove-its-partnership-with-revenuecat/",
             "updated": 1681900497,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6745",
             "title": "Revolutionizing design with reusable tables: A breakthrough by Moove It\u2019s UI team",
             "link": "https://blog.moove-it.com/design-with-reusable-tables-by-moove-its-ui-team/",
             "updated": 1681814738,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6736",
             "title": "How we increase the cybersecurity of our customers\u2019 platforms, CI/CD workflows and applications",
             "link": "https://blog.moove-it.com/how-we-increase-the-cybersecurity-of-our-customers-platforms/",
             "updated": 1681372679,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         },
         {
             "id": "https://blog.moove-it.com/?p=6730",
             "title": "Testing at scale @ Spotify",
             "link": "https://blog.moove-it.com/testing-at-scale/",
             "updated": 1679303316,
-            "site_name": "Moove it Blog"
+            "site_url": "https://blog.moove-it.com"
         }
     ]
 }

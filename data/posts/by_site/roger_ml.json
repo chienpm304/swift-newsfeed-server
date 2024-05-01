@@ -1,145 +1,145 @@
 {
-    "updated": 1714470921,
+    "updated": 1714537251,
     "posts": [
         {
             "id": "https://www.roger.ml/p/syncing-github-repository-settings",
             "title": "\u2699\ufe0f Syncing GitHub repository settings at scale",
             "link": "https://www.roger.ml/p/syncing-github-repository-settings",
             "updated": 1702642223,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/oslog",
             "title": "\ud83e\udeb5 Replacing your logging framework with OSLog",
             "link": "https://www.roger.ml/p/oslog",
             "updated": 1700708488,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/launching-statused-android",
             "title": "\ud83c\udf09 Bridging gaps in tech: Statused's new Android support makes waves",
             "link": "https://www.roger.ml/p/launching-statused-android",
             "updated": 1699495413,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/how-to-create-google-play-api-key",
             "title": "\ud83e\udd16 How to create Google Play API key in 2023",
             "link": "https://www.roger.ml/p/how-to-create-google-play-api-key",
             "updated": 1698981657,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/launching-statused",
             "title": "\ud83d\ude80 Launching A New Service: Statused.com!",
             "link": "https://www.roger.ml/p/launching-statused",
             "updated": 1694044870,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/store-app-secrets-safely",
             "title": "\ud83e\udd2b Where are you storing your secrets in your mobile projects?",
             "link": "https://www.roger.ml/p/store-app-secrets-safely",
             "updated": 1693210689,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/emerge-linkmaps",
             "title": "\ud83d\uddfa\ufe0f How to generate and upload linkmaps to Emerge",
             "link": "https://www.roger.ml/p/emerge-linkmaps",
             "updated": 1685776667,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/run-xcodebuild-using-rosetta-xcode-14-3",
             "title": "\ud83e\uddbe How to run xcodebuild using Rosetta on Xcode 14.3+",
             "link": "https://www.roger.ml/p/run-xcodebuild-using-rosetta-xcode-14-3",
             "updated": 1684912576,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/jenkins-embedded-build-status-badge",
             "title": "\u2705 Embedding Build Status Badges from a Private Jenkins Instance",
             "link": "https://www.roger.ml/p/jenkins-embedded-build-status-badge",
             "updated": 1684500259,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/dont-use-dynamic-strings-to-init-images",
             "title": "\ud83d\uddbc\ufe0f iOS Best Practices: Don't Use Dynamic Strings to Init Images",
             "link": "https://www.roger.ml/p/dont-use-dynamic-strings-to-init-images",
             "updated": 1684215718,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/troubleshooting-ios-deep-links",
             "title": "\ud83d\udd17 Troubleshooting Universal Links (aka Deep Links) in iOS",
             "link": "https://www.roger.ml/p/troubleshooting-ios-deep-links",
             "updated": 1683263581,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/slack-task-management",
             "title": "\ud83d\udd16 Slack Improves Task Management and Introduces \"Later\" View",
             "link": "https://www.roger.ml/p/slack-task-management",
             "updated": 1682660490,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/jenkins-ios-setup",
             "title": "\u270d\ufe0f Step-by-Step Jenkins Setup for iOS in 2023 | Ultimate Guide",
             "link": "https://www.roger.ml/p/jenkins-ios-setup",
             "updated": 1682575253,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/jenkins-ci-github-app-authentication",
             "title": "\ud83d\udd10 Authenticating with GitHub on Jenkins CI using a GitHub App",
             "link": "https://www.roger.ml/p/jenkins-ci-github-app-authentication",
             "updated": 1682439009,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/how-to-install-swift-58-in-a-debian",
             "title": "\ud83d\udcbb How to install Swift 5.8 in a Debian Distro",
             "link": "https://www.roger.ml/p/how-to-install-swift-58-in-a-debian",
             "updated": 1680943557,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/slack-super-user",
             "title": "\ud83e\uddb8 The ultimate guide to becoming a Slack super user",
             "link": "https://www.roger.ml/p/slack-super-user",
             "updated": 1678519685,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack",
             "title": "I Spent The Last 2 Months \"Away & DND\" on Work\u2019s Slack",
             "link": "https://www.roger.ml/p/social-experiment-spent-two-months-dnd-on-slack",
             "updated": 1678268131,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/coming-soon",
             "title": "Hello, yet-another-blogging-platform!",
             "link": "https://www.roger.ml/p/coming-soon",
             "updated": 1674415980,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/testing-dependencies-efficiently",
             "title": "Testing multiple local Swift dependencies efficiently",
             "link": "https://www.roger.ml/p/testing-dependencies-efficiently",
             "updated": 1661579520,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         },
         {
             "id": "https://www.roger.ml/p/app-store-screenshots",
             "title": "\ud83d\udcf8 How to update App Store screenshots without uploading a new build",
             "link": "https://www.roger.ml/p/app-store-screenshots",
             "updated": 1651287240,
-            "site_name": "roger.ml"
+            "site_url": "https://www.roger.ml"
         }
     ]
 }

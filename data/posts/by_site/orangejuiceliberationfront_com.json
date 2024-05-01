@@ -1,75 +1,75 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "https://orangejuiceliberationfront.com/why-underwater-levels-suck-so-often",
             "title": "Why Underwater Levels Suck So Often",
             "link": "https://orangejuiceliberationfront.com/why-underwater-levels-suck-so-often/",
             "updated": 1700931600,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/why-is-c-not-an-object-oriented-language",
             "title": "Why is C not an object-oriented language?",
             "link": "https://orangejuiceliberationfront.com/why-is-c-not-an-object-oriented-language/",
             "updated": 1688230800,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/my-streaming-setup-2023",
             "title": "My Streaming Setup 2023",
             "link": "https://orangejuiceliberationfront.com/my-streaming-setup-2023/",
             "updated": 1679850000,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/audio-ducking-in-obs",
             "title": "Audio Ducking in OBS",
             "link": "https://orangejuiceliberationfront.com/audio-ducking-in-obs/",
             "updated": 1677344400,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/cross-compiling-classic-code-on-osx",
             "title": "Cross-compiling Classic Mac apps on MacOS X",
             "link": "https://orangejuiceliberationfront.com/cross-compiling-classic-code-on-osx/",
             "updated": 1664989200,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/surprising-slowness-of-cpp-std-variant",
             "title": "The Surprising Slowness of C++\u2019s std::variant",
             "link": "https://orangejuiceliberationfront.com/surprising-slowness-of-cpp-std-variant/",
             "updated": 1606496400,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/my-streaming-setup-2020",
             "title": "My Streaming Setup 2020",
             "link": "https://orangejuiceliberationfront.com/my-streaming-setup-2020/",
             "updated": 1587834000,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/x-macros-in-c",
             "title": "X-Macros in C",
             "link": "https://orangejuiceliberationfront.com/x-macros-in-c/",
             "updated": 1582304400,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/how-do-dependency-managers-work",
             "title": "How do Dependency Managers Work?",
             "link": "https://orangejuiceliberationfront.com/how-do-dependency-managers-work/",
             "updated": 1581094800,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         },
         {
             "id": "https://orangejuiceliberationfront.com/what-do-locks-lock",
             "title": "What do locks lock?",
             "link": "https://orangejuiceliberationfront.com/what-do-locks-lock/",
             "updated": 1580835600,
-            "site_name": "Orange Juice Liberation Front"
+            "site_url": "https://orangejuiceliberationfront.com"
         }
     ]
 }

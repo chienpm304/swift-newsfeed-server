@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://johncodeos.com/?p=18596",
             "title": "How to Take a Screenshot or Record a Video of the iOS Simulator",
             "link": "https://johncodeos.com/how-to-take-a-screenshot-or-record-a-video-of-the-ios-simulator/",
             "updated": 1683464765,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=18508",
             "title": "How to create a PDF Reader in iOS using Swift",
             "link": "https://johncodeos.com/how-to-create-a-pdf-reader-in-ios-using-swift/",
             "updated": 1683361181,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=18052",
             "title": "How to create a Popover in iOS using Swift",
             "link": "https://johncodeos.com/how-to-create-a-popover-in-ios-using-swift/",
             "updated": 1678114551,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=17719",
             "title": "How to move View with Keyboard in iOS using Swift",
             "link": "https://johncodeos.com/how-to-move-view-with-keyboard-in-ios-using-swift/",
             "updated": 1662110460,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=12644",
             "title": "How to Save, Fetch, Update and Delete data from Core Data using Swift",
             "link": "https://johncodeos.com/how-to-use-core-data-in-ios-using-swift/",
             "updated": 1646663316,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=11797",
             "title": "How to implement MVVM pattern with Swift in iOS",
             "link": "https://johncodeos.com/how-to-implement-mvvm-pattern-with-swift-in-ios/",
             "updated": 1624070880,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=13913",
             "title": "How to create custom Xcode File Templates using Swift",
             "link": "https://johncodeos.com/how-to-create-custom-xcode-file-templates-using-swift/",
             "updated": 1622498220,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=13288",
             "title": "How to save Sensitive Data in Keychain in iOS using Swift",
             "link": "https://johncodeos.com/how-to-save-sensitive-data-in-keychain/",
             "updated": 1616391000,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=12635",
             "title": "How to create a Side Menu in iOS using Swift",
             "link": "https://johncodeos.com/how-to-create-a-side-menu-in-ios-using-swift/",
             "updated": 1614657720,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         },
         {
             "id": "https://johncodeos.com/?p=12657",
             "title": "How to display Location and Routes with CoreLocation & MapKit using Swift",
             "link": "https://johncodeos.com/how-to-display-location-and-routes-with-corelocation-mapkit-using-swift/",
             "updated": 1612667040,
-            "site_name": "John Codeos\u2019 Blog"
+            "site_url": "https://johncodeos.com/category/tutorials/ios/"
         }
     ]
 }

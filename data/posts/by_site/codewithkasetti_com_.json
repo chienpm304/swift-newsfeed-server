@@ -1,124 +1,124 @@
 {
-    "updated": 1714470915,
+    "updated": 1714537248,
     "posts": [
         {
             "id": "https://www.codewithkasetti.com/posts/swiftformat_integration_automation",
             "title": "SwiftFormat Automation for iOS apps",
             "link": "https://www.codewithkasetti.com/posts/swiftformat_integration_automation",
             "updated": 1696059780,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/convert_recursion_programs_to_dynamic",
             "title": "Recursive Algorithms vs Dynamic Programming",
             "link": "https://www.codewithkasetti.com/posts/convert_recursion_programs_to_dynamic",
             "updated": 1641955320,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/dfs_vs_bfs_for_bipartite",
             "title": "DFS vs BFS for Bipartite Graph Problems with Swift",
             "link": "https://www.codewithkasetti.com/posts/dfs_vs_bfs_for_bipartite",
             "updated": 1640751240,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/quicksort_partition_schemes",
             "title": "Array Partitioning Schemes in Swift",
             "link": "https://www.codewithkasetti.com/posts/quicksort_partition_schemes",
             "updated": 1640675880,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/swift_how_to_make_a_heap",
             "title": "Writing a Heap from scratch in Swift",
             "link": "https://www.codewithkasetti.com/posts/swift_how_to_make_a_heap",
             "updated": 1639589460,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/mistakes_as_a_self_taught_developer",
             "title": "Mistakes as a self-taught developer",
             "link": "https://www.codewithkasetti.com/posts/mistakes_as_a_self_taught_developer",
             "updated": 1639578660,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/safari_shortcuts",
             "title": "My Safari setup",
             "link": "https://www.codewithkasetti.com/posts/safari_shortcuts",
             "updated": 1638608400,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/documentation_driven_development",
             "title": "Documentation-Driven Development",
             "link": "https://www.codewithkasetti.com/posts/documentation_driven_development",
             "updated": 1637593200,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/great_dev_teams",
             "title": "What makes great software development teams",
             "link": "https://www.codewithkasetti.com/posts/great_dev_teams",
             "updated": 1637571780,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/why_git_flow",
             "title": "Why you should bother with git-flow",
             "link": "https://www.codewithkasetti.com/posts/why_git_flow",
             "updated": 1637302080,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/swift_nested_swift_package_dependencies",
             "title": "Prune nested Swift Package dependencies",
             "link": "https://www.codewithkasetti.com/posts/swift_nested_swift_package_dependencies",
             "updated": 1633008000,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/swift_check_index_valid",
             "title": "Cleanly check if an Index is valid with Swift",
             "link": "https://www.codewithkasetti.com/posts/swift_check_index_valid",
             "updated": 1631606400,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/swift_generic_associated_val_enums",
             "title": "How to write a recursive Either enum with Swift",
             "link": "https://www.codewithkasetti.com/posts/swift_generic_associated_val_enums",
             "updated": 1631546400,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/coding_test_strategies",
             "title": "Strategies for take-home coding tests",
             "link": "https://www.codewithkasetti.com/posts/coding_test_strategies",
             "updated": 1630070400,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/implementing_readdir_in_c",
             "title": "Write `ls` with UNIX source code in C",
             "link": "https://www.codewithkasetti.com/posts/implementing_readdir_in_c",
             "updated": 1629631320,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/how_to_get_promoted_faster",
             "title": "How to get promoted faster to senior developer",
             "link": "https://www.codewithkasetti.com/posts/how_to_get_promoted_faster",
             "updated": 1629292800,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         },
         {
             "id": "https://www.codewithkasetti.com/posts/swift_logging_considerations",
             "title": "Why you shouldn't be using print()",
             "link": "https://www.codewithkasetti.com/posts/swift_logging_considerations",
             "updated": 1628688600,
-            "site_name": "Pranav Kasetti's Blog"
+            "site_url": "https://www.codewithkasetti.com/"
         }
     ]
 }

@@ -1,68 +1,68 @@
 {
-    "updated": 1714470894,
+    "updated": 1714537239,
     "posts": [
         {
             "id": "https://medium.com/p/d0f6cb58daf8",
             "title": "Firebase at Google I/O",
             "link": "https://medium.com/@niamhpower/firebase-google-io-d0f6cb58daf8?source=rss-61de4ad69c14------2",
             "updated": 1559125860,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/c5d693a4c4d7",
             "title": "Getting Started with Firebase on iOS: Part 3",
             "link": "https://medium.com/@niamhpower/getting-started-with-firebase-on-ios-part-3-c5d693a4c4d7?source=rss-61de4ad69c14------2",
             "updated": 1547191860,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/7b61a8b40008",
             "title": "The great migration. Moving from Fabric to Firebase as an iOS developer.",
             "link": "https://medium.com/@niamhpower/the-great-migration-moving-from-fabric-to-firebase-as-an-ios-developer-7b61a8b40008?source=rss-61de4ad69c14------2",
             "updated": 1547100002,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/f1de3621007a",
             "title": "Getting started with Firebase on iOS: Part 2",
             "link": "https://medium.com/@niamhpower/getting-started-with-firebase-on-ios-part-2-f1de3621007a?source=rss-61de4ad69c14------2",
             "updated": 1529589766,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/612af4bcabd6",
             "title": "Getting started with Firebase on iOS: Part 1",
             "link": "https://medium.com/@niamhpower/getting-started-with-firebase-on-ios-part-1-612af4bcabd6?source=rss-61de4ad69c14------2",
             "updated": 1529576653,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/e24d4ed5135",
             "title": "Banishing Burnout",
             "link": "https://medium.com/@niamhpower/banishing-burnout-e24d4ed5135?source=rss-61de4ad69c14------2",
             "updated": 1522561154,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/4ebe363afe",
             "title": "How to Google effectively as a developer",
             "link": "https://medium.com/@niamhpower/how-to-google-effectively-as-a-developer-4ebe363afe?source=rss-61de4ad69c14------2",
             "updated": 1518696600,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/fea851ddf81a",
             "title": "ReBlog: Does gender matter? My experiences as a female coder",
             "link": "https://medium.com/@niamhpower/reblog-does-gender-matter-my-experiences-as-a-female-coder-fea851ddf81a?source=rss-61de4ad69c14------2",
             "updated": 1488988771,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         },
         {
             "id": "https://medium.com/p/ae3e9c00d2aa",
             "title": "Why we need to stop \u2018career pressure\u2019",
             "link": "https://medium.com/@niamhpower/why-we-need-to-stop-career-pressure-ae3e9c00d2aa?source=rss-61de4ad69c14------2",
             "updated": 1480867640,
-            "site_name": "Niamh Power on Medium"
+            "site_url": "https://medium.com/@niamhpower"
         }
     ]
 }

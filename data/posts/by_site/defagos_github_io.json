@@ -1,61 +1,61 @@
 {
-    "updated": 1714470926,
+    "updated": 1714537254,
     "posts": [
         {
             "id": "https://defagos.github.io/declarative_reactive_programming_with_combine",
             "title": "Declarative Reactive Programming with Combine",
             "link": "https://defagos.github.io/declarative_reactive_programming_with_combine/",
             "updated": 1639328400,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/understanding_swiftui_layout_behaviors",
             "title": "Understanding SwiftUI Layout Behaviors",
             "link": "https://defagos.github.io/understanding_swiftui_layout_behaviors/",
             "updated": 1622653200,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/swiftui_collection_part3",
             "title": "Building a Collection For SwiftUI (Part 3) - Fixes and Focus Management",
             "link": "https://defagos.github.io/swiftui_collection_part3/",
             "updated": 1600102800,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/swiftui_collection_part2",
             "title": "Building a Collection For SwiftUI (Part 2) - SwiftUI Collection Implementation",
             "link": "https://defagos.github.io/swiftui_collection_part2/",
             "updated": 1600016400,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/swiftui_collection_part1",
             "title": "Building a Collection For SwiftUI (Part 1) - Mimicking Collections in SwiftUI",
             "link": "https://defagos.github.io/swiftui_collection_part1/",
             "updated": 1599930000,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/swiftui_collection_intro",
             "title": "Building a Collection For SwiftUI - Introduction",
             "link": "https://defagos.github.io/swiftui_collection_intro/",
             "updated": 1599843600,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/yet_another_article_about_method_swizzling",
             "title": "Yet another article about method swizzling",
             "link": "https://defagos.github.io/yet_another_article_about_method_swizzling/",
             "updated": 1417626000,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         },
         {
             "id": "https://defagos.github.io/building_ios_dynamic_libraries",
             "title": "Sharing LLDB debugging helpers between projects using a dynamic library",
             "link": "https://defagos.github.io/building_ios_dynamic_libraries/",
             "updated": 1394470800,
-            "site_name": "Samuel D\u00e9fago's Corner"
+            "site_url": "https://defagos.github.io"
         }
     ]
 }

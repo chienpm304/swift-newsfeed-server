@@ -1,82 +1,82 @@
 {
-    "updated": 1714471035,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "5cf8a2f0d5a3b10038cc09bb",
             "title": "Using science to make truly tappable user interfaces",
             "link": "https://www.scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces/",
             "updated": 1487460060,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf8a211d5a3b10038cc097e",
             "title": "How to fix a bad user interface",
             "link": "https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/",
             "updated": 1439849880,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf8a170d5a3b10038cc096a",
             "title": "How to design for thumbs in the Era of Huge Screens",
             "link": "https://www.scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens/",
             "updated": 1410992100,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf8a0dbd5a3b10038cc095c",
             "title": "Steal these four lessons I learned while building an App Store featured app",
             "link": "https://www.scotthurff.com/posts/steal-four-things-i-learned-building-an-app-store-featured-app/",
             "updated": 1409695920,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf8a04ed5a3b10038cc094e",
             "title": "What product designers can learn from iOS 8's iMessage changes",
             "link": "https://www.scotthurff.com/posts/what-we-can-learn-from-apples-imessage-changes-in-ios-8/",
             "updated": 1401833400,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89fc4d5a3b10038cc0943",
             "title": "How to build interactive prototypes",
             "link": "https://www.scotthurff.com/posts/how-to-build-interactive-prototypes/",
             "updated": 1399414080,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89e00d5a3b10038cc0938",
             "title": "How to get animations out of your head",
             "link": "https://www.scotthurff.com/posts/how-to-get-animations-out-of-your-head/",
             "updated": 1395784800,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89cf6d5a3b10038cc0911",
             "title": "How Secret uses your Address Book",
             "link": "https://www.scotthurff.com/posts/how-secret-app-uses-your-address-book/",
             "updated": 1392850560,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89c6cd5a3b10038cc0904",
             "title": "Facebook Paper's gestural hell",
             "link": "https://www.scotthurff.com/posts/facebook-paper-gestures/",
             "updated": 1391468040,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89ab4d5a3b10038cc088d",
             "title": "Content is the hero",
             "link": "https://www.scotthurff.com/posts/content-is-the-hero/",
             "updated": 1371159960,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         },
         {
             "id": "5cf89299d5a3b10038cc07fa",
             "title": "Creators live on the fringe",
             "link": "https://www.scotthurff.com/posts/creators-live-on-the-fringe/",
             "updated": 1370293980,
-            "site_name": "Scott Hurff\u2019s Blog"
+            "site_url": "https://www.scotthurff.com/posts/"
         }
     ]
 }

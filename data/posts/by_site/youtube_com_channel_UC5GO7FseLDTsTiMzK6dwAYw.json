@@ -1,47 +1,47 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "yt:video:xB_EkVCHZVg",
             "title": "How We Start Apps: Behind the Scenes of Kino",
             "link": "https://www.youtube.com/watch?v=xB_EkVCHZVg",
             "updated": 1714113271,
-            "site_name": "Ben Sandofsky on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
         },
         {
             "id": "yt:video:5x2evTucjYY",
             "title": "The Announcement",
             "link": "https://www.youtube.com/watch?v=5x2evTucjYY",
             "updated": 1714109413,
-            "site_name": "Ben Sandofsky on YouTube"
-        },
-        {
-            "id": "yt:video:5ewj8_QeeE8",
-            "title": "How Code Bootcamps Lie Without Lying",
-            "link": "https://www.youtube.com/watch?v=5ewj8_QeeE8",
-            "updated": 1712260301,
-            "site_name": "Ben Sandofsky on YouTube"
-        },
-        {
-            "id": "yt:video:Mf5yA90lNT4",
-            "title": "Do you still need a \"real\" camera? An iPhone in the Galapagos.",
-            "link": "https://www.youtube.com/watch?v=Mf5yA90lNT4",
-            "updated": 1709531691,
-            "site_name": "Ben Sandofsky on YouTube"
-        },
-        {
-            "id": "yt:video:lQ2DB5TPH1o",
-            "title": "Computer Science In the Real World: The Transform Matrix",
-            "link": "https://www.youtube.com/watch?v=lQ2DB5TPH1o",
-            "updated": 1710303593,
-            "site_name": "Ben Sandofsky on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
         },
         {
             "id": "yt:video:ymCXsPwg8G8",
             "title": "Computer Science in the Real World: Building a Better Blur",
             "link": "https://www.youtube.com/watch?v=ymCXsPwg8G8",
             "updated": 1714092820,
-            "site_name": "Ben Sandofsky on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
+        },
+        {
+            "id": "yt:video:5ewj8_QeeE8",
+            "title": "How Code Bootcamps Lie Without Lying",
+            "link": "https://www.youtube.com/watch?v=5ewj8_QeeE8",
+            "updated": 1712260301,
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
+        },
+        {
+            "id": "yt:video:lQ2DB5TPH1o",
+            "title": "Computer Science In the Real World: The Transform Matrix",
+            "link": "https://www.youtube.com/watch?v=lQ2DB5TPH1o",
+            "updated": 1710303593,
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
+        },
+        {
+            "id": "yt:video:Mf5yA90lNT4",
+            "title": "Do you still need a \"real\" camera? An iPhone in the Galapagos.",
+            "link": "https://www.youtube.com/watch?v=Mf5yA90lNT4",
+            "updated": 1709531691,
+            "site_url": "https://www.youtube.com/channel/UC5GO7FseLDTsTiMzK6dwAYw"
         }
     ]
 }

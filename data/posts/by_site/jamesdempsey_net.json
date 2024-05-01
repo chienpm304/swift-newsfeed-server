@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jamesdempsey.net/2023/06/01/live-near-wwdc-2023-update",
             "title": "LIVE near WWDC 2023 Update: Livestream and More!",
             "link": "https://jamesdempsey.net/2023/06/01/live-near-wwdc-2023-update.html",
             "updated": 1685625300,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2023/05/30/upcoming-feature-flags",
             "title": "Swift.org Blog Post: \u2018Using Upcoming Feature Flags\u2019",
             "link": "https://jamesdempsey.net/2023/05/30/upcoming-feature-flags.html",
             "updated": 1685441700,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2023/05/16/live-near-wwdc-returns-2023",
             "title": "LIVE near WWDC Returns For 2023!",
             "link": "https://jamesdempsey.net/2023/05/16/live-near-wwdc-returns-2023.html",
             "updated": 1684244700,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2022/06/05/no-live-near-wwdc-2022",
             "title": "No LIVE near WWDC show for 2022",
             "link": "https://jamesdempsey.net/2022/06/05/no-live-near-wwdc-2022.html",
             "updated": 1654443600,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2021/08/31/apple-home-page-tabs-history-august-2021-edition",
             "title": "Apple Home Page Tabs History\u2014August 2021 Edition",
             "link": "https://jamesdempsey.net/2021/08/31/apple-home-page-tabs-history-august-2021-edition.html",
             "updated": 1630404917,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2021/06/07/where-ill-be-at-wwdc-2021",
             "title": "Where I\u2019ll be at WWDC 2021",
             "link": "https://jamesdempsey.net/2021/06/07/where-ill-be-at-wwdc-2021.html",
             "updated": 1623045600,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2020/12/17/a-tale-of-facebook-tracking",
             "title": "A Tale of Facebook Tracking",
             "link": "https://jamesdempsey.net/2020/12/17/a-tale-of-facebook-tracking.html",
             "updated": 1608201060,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2020/12/14/twelve-weeks-of-dance-party",
             "title": "Twelve Weeks Of Dance Party!",
             "link": "https://jamesdempsey.net/2020/12/14/twelve-weeks-of-dance-party.html",
             "updated": 1607939460,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2020/12/02/introducing-swiftversion-dot-net",
             "title": "Introducing swiftversion.net",
             "link": "https://jamesdempsey.net/2020/12/02/introducing-swiftversion-dot-net.html",
             "updated": 1606897020,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         },
         {
             "id": "https://jamesdempsey.net/2020/11/16/siri-is-my-workout-partner",
             "title": "Siri is my workout partner",
             "link": "https://jamesdempsey.net/2020/11/16/siri-is-my-workout-partner.html",
             "updated": 1605532320,
-            "site_name": "James Dempsey\u2019s Blog"
+            "site_url": "https://jamesdempsey.net"
         }
     ]
 }

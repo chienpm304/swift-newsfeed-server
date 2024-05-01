@@ -1,705 +1,705 @@
 {
-    "updated": 1714470898,
+    "updated": 1714537239,
     "posts": [
         {
             "id": "https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS",
             "title": "Sending trial notifications with provisional authorization on iOS",
             "link": "https://nilcoalescing.com/blog/TrialNotificationsWithProvisionalAuthorizationOnIOS",
             "updated": 1710849600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/UserFriendlyDescriptionsAndRecoverySuggestionsForCustomErrorsInSwift",
             "title": "User-friendly descriptions and recovery suggestions for custom errors in Swift",
             "link": "https://nilcoalescing.com/blog/UserFriendlyDescriptionsAndRecoverySuggestionsForCustomErrorsInSwift",
             "updated": 1708268400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/UseCasesForSelfInSwift",
             "title": "Use cases for self, Self and Self.self in Swift",
             "link": "https://nilcoalescing.com/blog/UseCasesForSelfInSwift",
             "updated": 1706428800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CaseInsensitiveStringComparisonInSwift",
             "title": "Case insensitive string comparison in Swift",
             "link": "https://nilcoalescing.com/blog/CaseInsensitiveStringComparisonInSwift",
             "updated": 1705824000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/PatternMatchingForCustomTypesInSwift",
             "title": "Pattern matching for custom types in Swift",
             "link": "https://nilcoalescing.com/blog/PatternMatchingForCustomTypesInSwift",
             "updated": 1703246400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/TriggerPropertyObserversFromInitializersInSwift",
             "title": "Trigger property observers from initializers in Swift",
             "link": "https://nilcoalescing.com/blog/TriggerPropertyObserversFromInitializersInSwift",
             "updated": 1702810800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AsyncStreamFromWithObservationTrackingFunc",
             "title": "Create an AsyncStream from withObservationTracking() function",
             "link": "https://nilcoalescing.com/blog/AsyncStreamFromWithObservationTrackingFunc",
             "updated": 1700910000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ObservationFrameworkOutsideOfSwiftUI",
             "title": "Using Observation framework outside of SwiftUI",
             "link": "https://nilcoalescing.com/blog/ObservationFrameworkOutsideOfSwiftUI",
             "updated": 1700650800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/HierarchicalBackgroundStyles",
             "title": "Hierarchical background styles in SwiftUI",
             "link": "https://nilcoalescing.com/blog/HierarchicalBackgroundStyles",
             "updated": 1699182000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/FilteringLogsInXcode15",
             "title": "Filtering logs in Xcode 15",
             "link": "https://nilcoalescing.com/blog/FilteringLogsInXcode15",
             "updated": 1698062400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/RemotePushSetup",
             "title": "iOS app setup for remote push notifications",
             "link": "https://nilcoalescing.com/blog/RemotePushSetup",
             "updated": 1692187200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/NotificationActionButtonsWithImages",
             "title": "Notification action buttons with images in iOS",
             "link": "https://nilcoalescing.com/blog/NotificationActionButtonsWithImages",
             "updated": 1691388000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ForegroundStyleInsideTextInSwiftUI",
             "title": "Interpolate text with custom foreground style in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ForegroundStyleInsideTextInSwiftUI",
             "updated": 1686636000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ParameterPermutationsInXcode15Autocomplete",
             "title": "See all parameter permutations in code completion in Xcode 15",
             "link": "https://nilcoalescing.com/blog/ParameterPermutationsInXcode15Autocomplete",
             "updated": 1686463200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/KeyboardNavigationWithFocusable",
             "title": "Keyboard driven navigation with focusable() on iPad in SwiftUI",
             "link": "https://nilcoalescing.com/blog/KeyboardNavigationWithFocusable",
             "updated": 1686214800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ControlGroupInContextMenus",
             "title": "ControlGroup in context menus in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ControlGroupInContextMenus",
             "updated": 1686128400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/IfElseExpressionsInSwift",
             "title": "if/else statements as expressions in Swift 5.9",
             "link": "https://nilcoalescing.com/blog/IfElseExpressionsInSwift",
             "updated": 1686117600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/Xcode15Assets",
             "title": "Access colors and images from asset catalog via static properties in Xcode 15",
             "link": "https://nilcoalescing.com/blog/Xcode15Assets",
             "updated": 1686049200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/InspectorInSwiftUI",
             "title": "Inspectors in SwiftUI",
             "link": "https://nilcoalescing.com/blog/InspectorInSwiftUI",
             "updated": 1686045600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/SwiftEnumPatternMatchingWithExtraConditions",
             "title": "Swift enum pattern matching with extra conditions",
             "link": "https://nilcoalescing.com/blog/SwiftEnumPatternMatchingWithExtraConditions",
             "updated": 1685872800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CompositingGroupInButtons",
             "title": "Using compositing group for unifying shapes within buttons in SwiftUI",
             "link": "https://nilcoalescing.com/blog/CompositingGroupInButtons",
             "updated": 1685626200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator",
             "title": "Testing remote push notifications on iOS simulator in Xcode 14",
             "link": "https://nilcoalescing.com/blog/TestingRemotePushOniOSSimulator",
             "updated": 1684908000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AnchoredPositionInSwiftUI",
             "title": "Using Layout protocol to align explicitly positioned views in SwiftUI",
             "link": "https://nilcoalescing.com/blog/AnchoredPositionInSwiftUI",
             "updated": 1684760400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI",
             "title": "Using foregroundColor(), foregroundStyle() or tint() to set text color in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI",
             "updated": 1679637600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ChartAnnotationsOnHover",
             "title": "Show chart annotations on hover in Swift Charts",
             "link": "https://nilcoalescing.com/blog/ChartAnnotationsOnHover",
             "updated": 1677218400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ReadingKeyboardModifiers",
             "title": "Reading keyboard modifiers on iPad in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ReadingKeyboardModifiers",
             "updated": 1676631600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/TrackingHoverLocationInSwiftUI",
             "title": "Tracking hover location in SwiftUI",
             "link": "https://nilcoalescing.com/blog/TrackingHoverLocationInSwiftUI",
             "updated": 1675681200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomizeShareLinkAppearance",
             "title": "Customize ShareLink appearance with view modifiers",
             "link": "https://nilcoalescing.com/blog/CustomizeShareLinkAppearance",
             "updated": 1674471600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/TextModifiersInSwiftUI",
             "title": "Text modifiers in SwiftUI",
             "link": "https://nilcoalescing.com/blog/TextModifiersInSwiftUI",
             "updated": 1673521200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ImageAccessibilityLabelsFromLocalizableStringsFiles",
             "title": "Image accessibility labels from Localizable.strings files",
             "link": "https://nilcoalescing.com/blog/ImageAccessibilityLabelsFromLocalizableStringsFiles",
             "updated": 1672311600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomSizeForUIViewsWrappedInUIViewRepresentable",
             "title": "Provide custom size for UIViews wrapped in UIViewRepresentable",
             "link": "https://nilcoalescing.com/blog/CustomSizeForUIViewsWrappedInUIViewRepresentable",
             "updated": 1669726800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AreaChartWithADimmingLayer",
             "title": "Area chart with a dimming layer up to the current point in time",
             "link": "https://nilcoalescing.com/blog/AreaChartWithADimmingLayer",
             "updated": 1669183200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea",
             "title": "Pin a view to the bottom of safe area in SwiftUI",
             "link": "https://nilcoalescing.com/blog/PinAViewToTheBottomOfSafeArea",
             "updated": 1668085200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ButtonShapesSetting",
             "title": "Adjust SwiftUI controls for the Button Shapes accessibility setting",
             "link": "https://nilcoalescing.com/blog/ButtonShapesSetting",
             "updated": 1667480400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CheckLocalizableStringsWithAccentedPseudolanguage",
             "title": "Check localizable strings with the accented pseudolanguage in Xcode",
             "link": "https://nilcoalescing.com/blog/CheckLocalizableStringsWithAccentedPseudolanguage",
             "updated": 1666936800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/FillBarMarksWithGradient",
             "title": "Fill bar marks with gradient in Swift Charts",
             "link": "https://nilcoalescing.com/blog/FillBarMarksWithGradient",
             "updated": 1666764000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ExportingAndImportingLocalizations",
             "title": "Exporting and importing localizations in a SwiftUI app",
             "link": "https://nilcoalescing.com/blog/ExportingAndImportingLocalizations",
             "updated": 1666072800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/UsingTheDismissActionFromTheSwiftUIEnvironment",
             "title": "Using the dismiss action from the SwiftUI environment",
             "link": "https://nilcoalescing.com/blog/UsingTheDismissActionFromTheSwiftUIEnvironment",
             "updated": 1665036000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/DynamicDatesWithMonospacedDigits",
             "title": "Dynamic dates with monospaced digits in SwiftUI",
             "link": "https://nilcoalescing.com/blog/DynamicDatesWithMonospacedDigits",
             "updated": 1664258400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/EditableNavigationTitlesInSwiftUIoniOS16",
             "title": "Editable navigation titles in SwiftUI on iOS 16",
             "link": "https://nilcoalescing.com/blog/EditableNavigationTitlesInSwiftUIoniOS16",
             "updated": 1663308000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/LargeContentViewerInSwiftUI",
             "title": "Large content viewer in SwiftUI",
             "link": "https://nilcoalescing.com/blog/LargeContentViewerInSwiftUI",
             "updated": 1660888800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ChangeTextEditorBackground",
             "title": "Change TextEditor background in iOS 16",
             "link": "https://nilcoalescing.com/blog/ChangeTextEditorBackground",
             "updated": 1660050000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/DurationAndTimeFormatStyle",
             "title": "Display high precision time with Duration and TimeFormatStyle",
             "link": "https://nilcoalescing.com/blog/DurationAndTimeFormatStyle",
             "updated": 1659618000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AdjustTheDirectionOfFocusBasedNavigation",
             "title": "Adjust the direction of focus-based navigation in SwiftUI",
             "link": "https://nilcoalescing.com/blog/AdjustTheDirectionOfFocusBasedNavigation",
             "updated": 1659445200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts",
             "title": "Using Measurements from Foundation for values in Swift Charts",
             "link": "https://nilcoalescing.com/blog/UsingMeasurementsFromFoundationAsValuesInSwiftCharts",
             "updated": 1659070800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomizableToolbarOniPadInSwiftUI",
             "title": "Customizable toolbar on iPad in SwiftUI",
             "link": "https://nilcoalescing.com/blog/CustomizableToolbarOniPadInSwiftUI",
             "updated": 1658124000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/SortElementsBasedOnAPropertyValueUsingKeyPathComparator",
             "title": "Sort elements based on a property value using KeyPathComparator",
             "link": "https://nilcoalescing.com/blog/SortElementsBasedOnAPropertyValueUsingKeyPathComparator",
             "updated": 1657710000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ProgrammaticallyOpenANewWindowInSwiftUIOnMacOS",
             "title": "Programmatically open a new window in SwiftUI on macOS",
             "link": "https://nilcoalescing.com/blog/ProgrammaticallyOpenANewWindowInSwiftUIOnMacOS",
             "updated": 1657274400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/DelayAnAsyncTaskInSwift",
             "title": "Delay an async Task in Swift using the new clock APIs",
             "link": "https://nilcoalescing.com/blog/DelayAnAsyncTaskInSwift",
             "updated": 1656853200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/GetURLsForSystemFolders",
             "title": "Get URLs for system folders in iOS 16",
             "link": "https://nilcoalescing.com/blog/GetURLsForSystemFolders",
             "updated": 1656478800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AlignYAxisToLeadingEdgeInSwiftCharts",
             "title": "Align y-axis to leading edge in Swift Charts",
             "link": "https://nilcoalescing.com/blog/AlignYAxisToLeadingEdgeInSwiftCharts",
             "updated": 1656327600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ReadingAndSettingColorSchemeInSwiftUI",
             "title": "Reading and setting color scheme in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ReadingAndSettingColorSchemeInSwiftUI",
             "updated": 1655874000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/PlottingDataDistributionsWithSwiftCharts",
             "title": "Plotting data distributions with Swift Charts",
             "link": "https://nilcoalescing.com/blog/PlottingDataDistributionsWithSwiftCharts",
             "updated": 1655816400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AdjustListRowSeparatorInsets",
             "title": "Adjust List row separator insets",
             "link": "https://nilcoalescing.com/blog/AdjustListRowSeparatorInsets",
             "updated": 1655442000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/RequestingAppStoreReviewsInSwiftUI",
             "title": "Requesting App Store reviews in SwiftUI",
             "link": "https://nilcoalescing.com/blog/RequestingAppStoreReviewsInSwiftUI",
             "updated": 1655290800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CheckIfTwoValuesOfTypeAnyAreEqual",
             "title": "Check if two values of type Any are equal",
             "link": "https://nilcoalescing.com/blog/CheckIfTwoValuesOfTypeAnyAreEqual",
             "updated": 1655118000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/GetTapLocationInSwiftUI",
             "title": "Get tap location in SwiftUI",
             "link": "https://nilcoalescing.com/blog/GetTapLocationInSwiftUI",
             "updated": 1655100000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AutomaticallyGeneratedListEditOperations",
             "title": "Automatically generated List edit operations",
             "link": "https://nilcoalescing.com/blog/AutomaticallyGeneratedListEditOperations",
             "updated": 1655096400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AnimateTextStyleChangesInSwiftUI",
             "title": "Animate Text style changes in SwiftUI",
             "link": "https://nilcoalescing.com/blog/AnimateTextStyleChangesInSwiftUI",
             "updated": 1655092800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/FindAndReplaceIniOSAndiPadOS",
             "title": "Find and replace in iOS and iPadOS 16",
             "link": "https://nilcoalescing.com/blog/FindAndReplaceIniOSAndiPadOS",
             "updated": 1655031600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ScatterPlotWithCustomViews",
             "title": "Use SwiftUI views as points in scatter plot",
             "link": "https://nilcoalescing.com/blog/ScatterPlotWithCustomViews",
             "updated": 1655031600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AdaptiveLayoutsWithViewThatFits",
             "title": "Adaptive layouts with ViewThatFits",
             "link": "https://nilcoalescing.com/blog/AdaptiveLayoutsWithViewThatFits",
             "updated": 1654927200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts",
             "title": "Ridgeline plot with Swift Charts",
             "link": "https://nilcoalescing.com/blog/RidgePlotWithSwiftCharts",
             "updated": 1654837200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ResizableSheetInSwiftUI",
             "title": "Overview of resizable sheet APIs in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ResizableSheetInSwiftUI",
             "updated": 1654779600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ProgrammaticallyHideAndShowSidebarInSplitView",
             "title": "Programmatically hide and show sidebar in split view",
             "link": "https://nilcoalescing.com/blog/ProgrammaticallyHideAndShowSidebarInSplitView",
             "updated": 1654704000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework",
             "title": "Build and style a chart with the new Swift Charts framework",
             "link": "https://nilcoalescing.com/blog/BuildAndStyleAChartWithSwiftChartsFramework",
             "updated": 1654675200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ShowHalfSheetInSwiftUI",
             "title": "Show half-sheet in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ShowHalfSheetInSwiftUI",
             "updated": 1654603200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomizeNavigationBarBackground",
             "title": "Customize navigation bar background",
             "link": "https://nilcoalescing.com/blog/CustomizeNavigationBarBackground",
             "updated": 1654599600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/SwiftUINavigation2022",
             "title": "Overview of the new SwiftUI navigation APIs",
             "link": "https://nilcoalescing.com/blog/SwiftUINavigation2022",
             "updated": 1654599600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/UseOnChangeModifierWithComputedProperties",
             "title": "Use onChange() modifier with computed properties",
             "link": "https://nilcoalescing.com/blog/UseOnChangeModifierWithComputedProperties",
             "updated": 1654167600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/WWDC22ProvideFeedbackToAppleAndGetYourQuestionsAnswered",
             "title": "WWDC22: Provide feedback to Apple and get your questions answered",
             "link": "https://nilcoalescing.com/blog/WWDC22ProvideFeedbackToAppleAndGetYourQuestionsAnswered",
             "updated": 1653994800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/DetectFocusedWindowOnMacOS",
             "title": "Detect focused window on macOS",
             "link": "https://nilcoalescing.com/blog/DetectFocusedWindowOnMacOS",
             "updated": 1653649200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/IterateOverItemsAndIndicesInSwiftCollections",
             "title": "Iterate over items and indices in Swift collections",
             "link": "https://nilcoalescing.com/blog/IterateOverItemsAndIndicesInSwiftCollections",
             "updated": 1653390000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AttributedStringAttributeScopes",
             "title": "AttributedString attribute scopes",
             "link": "https://nilcoalescing.com/blog/AttributedStringAttributeScopes",
             "updated": 1653285600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ResizingSFSymbolsInSwiftUI",
             "title": "Resizing SF Symbols in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ResizingSFSymbolsInSwiftUI",
             "updated": 1652958000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/EncodeAndDecodeSwiftUIColor",
             "title": "Encode and decode SwiftUI color",
             "link": "https://nilcoalescing.com/blog/EncodeAndDecodeSwiftUIColor",
             "updated": 1652680800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/HideAndShowAViewWithOpacity",
             "title": "Hide and show a view with opacity",
             "link": "https://nilcoalescing.com/blog/HideAndShowAViewWithOpacity",
             "updated": 1652266800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/StringInterpolationInLocalizedStringKey",
             "title": "String interpolation in LocalizedStringKey",
             "link": "https://nilcoalescing.com/blog/StringInterpolationInLocalizedStringKey",
             "updated": 1652076000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ShowMultipleSheetsAtOnceInSwiftUI",
             "title": "Show multiple sheets at once in SwiftUI",
             "link": "https://nilcoalescing.com/blog/ShowMultipleSheetsAtOnceInSwiftUI",
             "updated": 1651730400,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomizeTheStyleOfLinksEmbeddedInText",
             "title": "Customize the style of links embedded in Text",
             "link": "https://nilcoalescing.com/blog/CustomizeTheStyleOfLinksEmbeddedInText",
             "updated": 1630062000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/MarkdownInSwiftUITextViews",
             "title": "Markdown in SwiftUI Text views",
             "link": "https://nilcoalescing.com/blog/MarkdownInSwiftUITextViews",
             "updated": 1630062000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/SetCustomActionsForLinksInTextViews",
             "title": "Set custom actions for links in Text views",
             "link": "https://nilcoalescing.com/blog/SetCustomActionsForLinksInTextViews",
             "updated": 1628679600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AddUnderlineAndStrikethroughStylesToText",
             "title": "Add underline and strikethrough styles to Text",
             "link": "https://nilcoalescing.com/blog/AddUnderlineAndStrikethroughStylesToText",
             "updated": 1627470000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/KeyPathFocus",
             "title": "Use KeyPath to drive programmatic focus",
             "link": "https://nilcoalescing.com/blog/KeyPathFocus",
             "updated": 1627470000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ListSelectionForNavigation",
             "title": "Selection based navigation in SwiftUI macOS apps",
             "link": "https://nilcoalescing.com/blog/ListSelectionForNavigation",
             "updated": 1627383600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/EnableTextSelectionForNonEditableText",
             "title": "Enable text selection for non-editable text",
             "link": "https://nilcoalescing.com/blog/EnableTextSelectionForNonEditableText",
             "updated": 1627210800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/FunctionsOnYourGPU",
             "title": "Custom function evaluation on the GPU with MPSGraph",
             "link": "https://nilcoalescing.com/blog/FunctionsOnYourGPU",
             "updated": 1624273200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AddingMutableStaticPropertiesToGenericsAndProtocolExtensions",
             "title": "Mutable static properties in generic types and protocol extensions",
             "link": "https://nilcoalescing.com/blog/AddingMutableStaticPropertiesToGenericsAndProtocolExtensions",
             "updated": 1623150000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ProvidingTheCurrentDocumentToMenuCommands",
             "title": "Provide the current document to menu commands in a SwiftUI app",
             "link": "https://nilcoalescing.com/blog/ProvidingTheCurrentDocumentToMenuCommands",
             "updated": 1623150000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/BringingPolymorphismToCodable",
             "title": "Encode and decode polymorphic types in Swift",
             "link": "https://nilcoalescing.com/blog/BringingPolymorphismToCodable",
             "updated": 1617879600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ReducingTheCodableBoilerplate",
             "title": "Reduce Codable boilerplate with the help of property wrappers",
             "link": "https://nilcoalescing.com/blog/ReducingTheCodableBoilerplate",
             "updated": 1616497200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ListReorderingWhileStillBeingAbleToEditTheListItems",
             "title": "Reorder List rows containing text fields in SwiftUI on macOS",
             "link": "https://nilcoalescing.com/blog/ListReorderingWhileStillBeingAbleToEditTheListItems",
             "updated": 1615546800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/ReindentSelectedCodeInXcode",
             "title": "Re-indent selected code in Xcode",
             "link": "https://nilcoalescing.com/blog/ReindentSelectedCodeInXcode",
             "updated": 1614250800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AddingDoubleColumnNavigationToASwiftUIDocumentApp",
             "title": "Double column navigation in a SwiftUI document app",
             "link": "https://nilcoalescing.com/blog/AddingDoubleColumnNavigationToASwiftUIDocumentApp",
             "updated": 1611054000,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/BindingToArrayInSwiftUI",
             "title": "Dynamic List of items in SwiftUI",
             "link": "https://nilcoalescing.com/blog/BindingToArrayInSwiftUI",
             "updated": 1606561200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/NilCoalescingForOptionalsInDebugPrints",
             "title": "Nil coalescing for optionals in debug prints",
             "link": "https://nilcoalescing.com/blog/NilCoalescingForOptionalsInDebugPrints",
             "updated": 1602586800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/CustomiseAboutPanelOnMacOSInSwiftUI",
             "title": "Customize About panel on macOS in SwiftUI",
             "link": "https://nilcoalescing.com/blog/CustomiseAboutPanelOnMacOSInSwiftUI",
             "updated": 1601463600,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/HandlingUndoAndRedoInSwiftUI",
             "title": "Handling undo & redo in SwiftUI",
             "link": "https://nilcoalescing.com/blog/HandlingUndoAndRedoInSwiftUI",
             "updated": 1601299380,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage",
             "title": "Save custom Codable types in AppStorage or SceneStorage",
             "link": "https://nilcoalescing.com/blog/SaveCustomCodableTypesInAppStorageOrSceneStorage",
             "updated": 1598950800,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         },
         {
             "id": "https://nilcoalescing.com/blog/AddPlaceholderTextToSwiftUITextEditor",
             "title": "Add placeholder text to SwiftUI TextEditor",
             "link": "https://nilcoalescing.com/blog/AddPlaceholderTextToSwiftUITextEditor",
             "updated": 1597741200,
-            "site_name": "Nil Coalescing"
+            "site_url": "https://nilcoalescing.com"
         }
     ]
 }

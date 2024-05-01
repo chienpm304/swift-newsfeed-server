@@ -1,705 +1,705 @@
 {
-    "updated": 1714471044,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog-proxy.bitrise.io/post/run-bitrise-builds-on-your-own-infrastructure-the-bitrise-runner",
             "title": "Run Bitrise builds on your own infrastructure: The Bitrise Runner - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/run-bitrise-builds-on-your-own-infrastructure-the-bitrise-runner",
             "updated": 1713924757,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/comparing-jenkinsfiles-and-bitrise-yml-a-side-by-side-look",
             "title": "Comparing Jenkinsfiles and Bitrise YML: A side-by-side look - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/comparing-jenkinsfiles-and-bitrise-yml-a-side-by-side-look",
             "updated": 1713498800,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/why-build-it-if-you-can-buy-it-unparalleled-release-management-in-ci-cd",
             "title": "Why build it, if you can buy it? Unparalleled Release Management in CI/CD - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/why-build-it-if-you-can-buy-it-unparalleled-release-management-in-ci-cd",
             "updated": 1713430052,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/speed-up-your-gradle-builds-with-the-new-gradle-critical-path-analyzer",
             "title": "Speed Up Your Gradle Builds with the New Gradle Critical Path Analyzer - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/speed-up-your-gradle-builds-with-the-new-gradle-critical-path-analyzer",
             "updated": 1712885776,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bazel-remote-caching-api",
             "title": "Bazel remote caching API - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bazel-remote-caching-api",
             "updated": 1712808163,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-manage-the-release-process-for-android-apps",
             "title": "How to Manage the Release Process for Android Apps - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-manage-the-release-process-for-android-apps",
             "updated": 1712295673,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/introducing-connected-apps-for-streamlined-release-management-on-bitrise",
             "title": "Introducing Connected Apps for Streamlined Release Management on Bitrise - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/introducing-connected-apps-for-streamlined-release-management-on-bitrise",
             "updated": 1712204445,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/developer-tears-saved-you-can-now-accurately-measure-the-pain-bitrise-relieved-for-your-mobile-teams",
             "title": "Developer Tears Saved: You can now accurately measure the pain Bitrise relieved for your mobile teams - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/developer-tears-saved-you-can-now-accurately-measure-the-pain-bitrise-relieved-for-your-mobile-teams",
             "updated": 1711615212,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/this-month-in-review-march",
             "title": "This month in review: March - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/this-month-in-review-march",
             "updated": 1711592651,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-devops-impact-comparing-organizations-with-and-without-devops-practices",
             "title": "The DevOps Impact: Comparing Organizations With and Without DevOps Practices - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-devops-impact-comparing-organizations-with-and-without-devops-practices",
             "updated": 1711440987,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/transitioning-from-app-center-to-bitrise-a-comprehensive-guide",
             "title": "Transitioning from App Center to Bitrise: A Comprehensive Guide - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/transitioning-from-app-center-to-bitrise-a-comprehensive-guide",
             "updated": 1710933123,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/continuous-deployment-challenges-in-native-mobile-applications",
             "title": "Continuous Deployment Challenges in Native Mobile Applications - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/continuous-deployment-challenges-in-native-mobile-applications",
             "updated": 1710755815,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/alerts-now-with-pings-for-when-your-builds-are-stuck",
             "title": "Alerts: Now with pings for when your builds are stuck - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/alerts-now-with-pings-for-when-your-builds-are-stuck",
             "updated": 1710480827,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/this-month-in-review-february",
             "title": "This month in review: February - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/this-month-in-review-february",
             "updated": 1710318380,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-run-ios-tests-in-parallel",
             "title": "Build Pipelines series: How to run iOS tests in parallel - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-run-ios-tests-in-parallel",
             "updated": 1709803367,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-pipelines-series-configure-your-pipeline-stages-to-save-credits",
             "title": "Build Pipelines series: Configure your pipeline stages to save credits - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-pipelines-series-configure-your-pipeline-stages-to-save-credits",
             "updated": 1709802363,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-conditionally-run-workflows-in-bitrise-pipelines",
             "title": "Build Pipelines series: How to conditionally run workflows in Bitrise Pipelines - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-conditionally-run-workflows-in-bitrise-pipelines",
             "updated": 1709801992,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-share-files-across-workflows",
             "title": "Build Pipelines series: How to share files across workflows - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-pipelines-series-how-to-share-files-across-workflows",
             "updated": 1709801447,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/introducing-new-offerings-in-release-management-paid-and-free",
             "title": "Introducing new offerings in Release Management: Paid and Free - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/introducing-new-offerings-in-release-management-paid-and-free",
             "updated": 1709632522,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-role-of-release-management-in-devops",
             "title": "The role of Release Management in DevOps - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-role-of-release-management-in-devops",
             "updated": 1709099347,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-minimize-the-negative-impact-of-a-faulty-release-with-a-staged-rollout",
             "title": "How to minimize the negative impact of a faulty release with a staged rollout - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-minimize-the-negative-impact-of-a-faulty-release-with-a-staged-rollout",
             "updated": 1709012049,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/new-utilization-insights-on-bitrise",
             "title": "New: Utilization Insights on Bitrise - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/new-utilization-insights-on-bitrise",
             "updated": 1708928613,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/what-is-devsecops-a-look-into-security-and-devops",
             "title": "What is DevSecOps? A look into security and DevOps - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/what-is-devsecops-a-look-into-security-and-devops",
             "updated": 1708567600,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/what-is-devops-or-mobile-devops",
             "title": "What is DevOps? Or Mobile DevOps? - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/what-is-devops-or-mobile-devops",
             "updated": 1707819150,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/new-bitrise-features-for-draft-prs-html-report-viewing-and-ghes-integration",
             "title": "New Features for Draft PRs, HTML Report Viewing, and GitHub Integration - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/new-bitrise-features-for-draft-prs-html-report-viewing-and-ghes-integration",
             "updated": 1707290472,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/major-linux-updates-in-march-2024-test-adapt-and-be-prepared",
             "title": "Major Linux updates in March 2024:  Test, adapt, and be prepared - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/major-linux-updates-in-march-2024-test-adapt-and-be-prepared",
             "updated": 1706167650,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/new-launchdarkly-feature-flags-integration-with-release-management",
             "title": "New: LaunchDarkly Feature Flags integration with Release Management - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/new-launchdarkly-feature-flags-integration-with-release-management",
             "updated": 1706162712,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/optimizing-build-cache-performance-with-bitrise-insights",
             "title": "Optimizing Build Cache Performance with Bitrise Insights - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/optimizing-build-cache-performance-with-bitrise-insights",
             "updated": 1705401692,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/cache-builds-anywhere-with-our-latest-updates-to-bitrise-build-cache",
             "title": "Cache builds anywhere with our latest updates to Bitrise Build Cache - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/cache-builds-anywhere-with-our-latest-updates-to-bitrise-build-cache",
             "updated": 1705401012,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-cache-latency-3-common-causes-and-how-we-solve-them",
             "title": "Build Cache Latency: 3 Common Causes and How We Solve Them - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-cache-latency-3-common-causes-and-how-we-solve-them",
             "updated": 1705400288,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/git-insights-you-can-ditch-spreadsheet-tracking-and-custom-dashboards-to-track-git-collaboration",
             "title": "Git Insights: You can ditch spreadsheet tracking and custom dashboards to track Git collaboration - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/git-insights-you-can-ditch-spreadsheet-tracking-and-custom-dashboards-to-track-git-collaboration",
             "updated": 1705300833,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/guide-to-dependency-caching-and-build-caching",
             "title": "A Guide to Dependency Caching and Build Caching - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/guide-to-dependency-caching-and-build-caching",
             "updated": 1704284915,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-build-cache-reduces-circleci-build-times",
             "title": "Bitrise Build Cache reduces Bazel and Gradle build times on CircleCI by 72%+ - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-build-cache-reduces-circleci-build-times",
             "updated": 1704173692,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-top-5-developer-struggles-and-solutions-for-maintaining-self-hosted-ci-cd-hardware",
             "title": "The top 5 developer struggles, and solutions, for maintaining self-hosted CI/CD hardware - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-top-5-developer-struggles-and-solutions-for-maintaining-self-hosted-ci-cd-hardware",
             "updated": 1702546172,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/new-release-management-role-changes-for-enhanced-security",
             "title": "New Release Management role changes for enhanced security - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/new-release-management-role-changes-for-enhanced-security",
             "updated": 1702454722,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-support-in-december-2023-what-to-expect",
             "title": "Bitrise support in December 2023: What to expect - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-support-in-december-2023-what-to-expect",
             "updated": 1701680099,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/self-hosted-vs-fully-managed-which-ci-cd-solution-is-right-for-your-organization",
             "title": "Self-Hosted vs. Fully Managed: Which CI/CD Solution is Right for Your Organization? - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/self-hosted-vs-fully-managed-which-ci-cd-solution-is-right-for-your-organization",
             "updated": 1701320449,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/qonto-at-the-mobile-devops-summit-2023",
             "title": "Qonto at the Mobile DevOps Summit 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/qonto-at-the-mobile-devops-summit-2023",
             "updated": 1700105459,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/new-to-bitrise-enhanced-xcode-reporting-build-annotations",
             "title": "New to Bitrise: Enhanced Xcode Reporting & Build Annotations - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/new-to-bitrise-enhanced-xcode-reporting-build-annotations",
             "updated": 1699877044,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/delivery-hero-at-the-mobile-devops-summit-2023",
             "title": "Delivery Hero at the Mobile DevOps Summit 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/delivery-hero-at-the-mobile-devops-summit-2023",
             "updated": 1699501878,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/tuist-bitrise-build-cache-update",
             "title": "Deprecating Bitrise Build Cache for Tuist - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/tuist-bitrise-build-cache-update",
             "updated": 1698160186,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/teams-plan-is-getting-major-upgrades",
             "title": "Up to 45% more credits: Teams Plan is getting major upgrades! - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/teams-plan-is-getting-major-upgrades",
             "updated": 1698062870,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-successfully-completes-a-soc-2-assessment-to-further-data-security",
             "title": "Bitrise Successfully Completes a SOC 2 Assessment to Further Data Security - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-successfully-completes-a-soc-2-assessment-to-further-data-security",
             "updated": 1697599594,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/5-mobile-first-quotes-from-the-2023-mobile-devops-summit",
             "title": "5 Mobile-first quotes from the 2023 Mobile DevOps Summit - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/5-mobile-first-quotes-from-the-2023-mobile-devops-summit",
             "updated": 1697515243,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-on-aws",
             "title": "Introducing Bitrise on AWS - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-on-aws",
             "updated": 1696413497,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/xcode-15-performance-regressions",
             "title": "Xcode 15 Performance Regressions - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/xcode-15-performance-regressions",
             "updated": 1696299179,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/building-with-unity-software-on-bitrise-the-best-mobile-offering-for-apple-vision-pro-spatial-computing",
             "title": "Building with Unity software on Bitrise: The best mobile offering for Apple Vision Pro Spatial Computing - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/building-with-unity-software-on-bitrise-the-best-mobile-offering-for-apple-vision-pro-spatial-computing",
             "updated": 1696220843,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-runtastic",
             "title": "Summit Speaker Spotlight Series: Runtastic - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-runtastic",
             "updated": 1695888317,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-aws",
             "title": "Summit Speaker Spotlight Series: AWS - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-aws",
             "updated": 1695267123,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-cabify",
             "title": "Summit Speaker Spotlight Series: Cabify - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-cabify",
             "updated": 1694653285,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-skyscanner",
             "title": "Summit Speaker Spotlight Series: Skyscanner - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/summit-speaker-spotlight-series-skyscanner",
             "updated": 1693977405,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/xcode-15-is-coming-with-major-stack-updates",
             "title": "XCode 15 is coming with major stack updates - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/xcode-15-is-coming-with-major-stack-updates",
             "updated": 1693975221,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/now-in-beta-enhanced-xcode-test-reporting-for-clearer-faster-insights",
             "title": "Now in Beta: Enhanced Xcode test reporting for clearer, faster insights - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/now-in-beta-enhanced-xcode-test-reporting-for-clearer-faster-insights",
             "updated": 1693893568,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/ci-cd-best-practices-advice-from-the-mobile-devops-summit-speakers",
             "title": "CI/CD best practices: Advice from the 2022 Mobile DevOps Summit speakers - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/ci-cd-best-practices-advice-from-the-mobile-devops-summit-speakers",
             "updated": 1693288138,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/easily-add-your-app-with-your-https-url",
             "title": "Easily add your app with your HTTPS URL - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/easily-add-your-app-with-your-https-url",
             "updated": 1691067964,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/speaker-lineup-announced-mobile-devops-summit-2023",
             "title": "Speaker Lineup Announced: Mobile DevOps Summit 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/speaker-lineup-announced-mobile-devops-summit-2023",
             "updated": 1691032894,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/top-5-sessions-from-last-years-mobile-devops-summit-2022",
             "title": "Top 5 sessions from last year\u2019s Mobile DevOps Summit 2022 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/top-5-sessions-from-last-years-mobile-devops-summit-2022",
             "updated": 1689841893,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/xcode-15-is-coming-test-on-edge-before-september",
             "title": "Xcode 15 is coming: Test on Edge before September - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/xcode-15-is-coming-test-on-edge-before-september",
             "updated": 1689743775,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/ship-sooner-to-google-play-release-management-now-supports-android-production-releases",
             "title": "Ship sooner to Google Play: Release Management now supports Android production releases - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/ship-sooner-to-google-play-release-management-now-supports-android-production-releases",
             "updated": 1689219241,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-latest-updates-to-release-management",
             "title": "The latest updates to Release Management - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-latest-updates-to-release-management",
             "updated": 1688463779,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/streamline-apple-device-management-with-bitrise",
             "title": "Streamline Apple Device Management with Bitrise - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/streamline-apple-device-management-with-bitrise",
             "updated": 1687740955,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-future-of-mobile-devops-engineering",
             "title": "The Future of Mobile DevOps Engineering - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-future-of-mobile-devops-engineering",
             "updated": 1687356160,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-named-in-europes-most-promising-startups-2023",
             "title": "Bitrise named in Europe\u2019s most promising startups 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-named-in-europes-most-promising-startups-2023",
             "updated": 1687325794,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/5-metrics-for-monitoring-mobile-ci-cd-performance-using-bitrise-insights",
             "title": "5 metrics for monitoring mobile CI/CD performance using Bitrise Insights - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/5-metrics-for-monitoring-mobile-ci-cd-performance-using-bitrise-insights",
             "updated": 1687319864,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-your-mobile-apps-to-your-hearts-content-with-our-new-time-based-trial",
             "title": "Build your mobile apps to your heart's content with our new Time Based Trial - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-your-mobile-apps-to-your-hearts-content-with-our-new-time-based-trial",
             "updated": 1687255378,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-reduce-flaky-tests-in-mobile-development-with-bitrise-insights",
             "title": "How to reduce flaky tests in mobile development with Bitrise Insights - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-reduce-flaky-tests-in-mobile-development-with-bitrise-insights",
             "updated": 1686891638,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/beyond-the-basics-an-in-depth-look-at-bitrise-pipelines",
             "title": "Beyond the basics: An in-depth look at Bitrise Pipelines - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/beyond-the-basics-an-in-depth-look-at-bitrise-pipelines",
             "updated": 1686711417,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-named-in-the-gartner-magic-quadrant-2023",
             "title": "Bitrise named in the Gartner Magic Quadrant 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-named-in-the-gartner-magic-quadrant-2023",
             "updated": 1686629610,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-cabify-increased-its-build-success-rate-to-over-95",
             "title": "How Cabify increased its build success rate to over 95% - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-cabify-increased-its-build-success-rate-to-over-95",
             "updated": 1686617421,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-announces-mobile-devops-summit-2023",
             "title": "Bitrise Announces Mobile DevOps Summit 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-announces-mobile-devops-summit-2023",
             "updated": 1686217158,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/wwdc-2023-anticipated-announcements-and-rumors",
             "title": "WWDC 2023: Anticipated announcements and rumors - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/wwdc-2023-anticipated-announcements-and-rumors",
             "updated": 1684399647,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-reduce-build-time-by-60-with-ci-build-optimization-for-react-native-apps",
             "title": "How to reduce build time by 60% with CI build optimization for React Native apps - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-reduce-build-time-by-60-with-ci-build-optimization-for-react-native-apps",
             "updated": 1684220710,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-insights-your-guide-to-billing",
             "title": "Bitrise Insights: Your guide to billing - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-insights-your-guide-to-billing",
             "updated": 1683788311,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/mastering-the-art-of-mobile-app-releases",
             "title": "Mastering the art of mobile app releases - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/mastering-the-art-of-mobile-app-releases",
             "updated": 1683724746,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/transitioning-your-mobile-apps-from-intel-to-apple-silicon",
             "title": "Transitioning your mobile apps from Intel to Apple silicon - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/transitioning-your-mobile-apps-from-intel-to-apple-silicon",
             "updated": 1683621368,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/behind-the-scenes-women-in-tech-series-madre-roothman",
             "title": "Behind the scenes \u2014 Women in tech series: Madr\u00e9 Roothman - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/behind-the-scenes-women-in-tech-series-madre-roothman",
             "updated": 1682498827,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-set-up-ui-tests-in-minutes-a-q-a-with-bitrise-and-maestro",
             "title": "How to set up UI tests in minutes: A Q&A with Bitrise and Maestro - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-set-up-ui-tests-in-minutes-a-q-a-with-bitrise-and-maestro",
             "updated": 1682412837,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-named-on-the-g2-spring-2023-leader-for-ci-cd-report",
             "title": "Bitrise named on the G2 Spring 2023 Leader for CI/CD Report - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-named-on-the-g2-spring-2023-leader-for-ci-cd-report",
             "updated": 1682330588,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/life-at-bitrise-volunteering-at-the-kedah-elephant-sanctuary",
             "title": "Life at Bitrise: Volunteering at the Kedah Elephant Sanctuary - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/life-at-bitrise-volunteering-at-the-kedah-elephant-sanctuary",
             "updated": 1681975280,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/how-to-breakdown-and-analyze-data-with-the-breakdown-chart",
             "title": "How to breakdown and analyze data with the Breakdown Chart - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/how-to-breakdown-and-analyze-data-with-the-breakdown-chart",
             "updated": 1681893401,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/5-apps-that-reached-mobile-devops-maturity",
             "title": "5 apps that reached Mobile DevOps maturity - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/5-apps-that-reached-mobile-devops-maturity",
             "updated": 1681367653,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/mobile-devops-assessment-results",
             "title": "Mobile DevOps Assessment: The results are here! - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/mobile-devops-assessment-results",
             "updated": 1681209416,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-road-to-bitrise-an-interview-with-jens-stockel",
             "title": "The road to Bitrise: An interview with Jens St\u00f6ckel - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-road-to-bitrise-an-interview-with-jens-stockel",
             "updated": 1681204736,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/pipeline-insights-feature-update",
             "title": "Make data-driven decisions: Get deeper insights with our latest Pipeline Insights feature - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/pipeline-insights-feature-update",
             "updated": 1680244698,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/credit-usage-how-to-track-and-predict-credit-usage-and-find-the-most-credit-consuming-apps-steps-and-workflows-what-why-and-how-to-track",
             "title": "Credit Usage: How to track and predict credit usage and find the most credit-consuming apps, Steps, and Workflows | What, why and how to track - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/credit-usage-how-to-track-and-predict-credit-usage-and-find-the-most-credit-consuming-apps-steps-and-workflows-what-why-and-how-to-track",
             "updated": 1679539674,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/the-future-of-mobile-shopping-apps-key-trends-to-stay-ahead-in-a-world-of-super-apps",
             "title": "The future of mobile shopping apps: 12 key trends to stay ahead in a world of Super Apps - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/the-future-of-mobile-shopping-apps-key-trends-to-stay-ahead-in-a-world-of-super-apps",
             "updated": 1679474448,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/flaky-tests-why-how-to-find-your-flaky-tests-what-why-and-how-to-track",
             "title": "Flaky Tests: Why & how to find your Flaky Tests? | What, why and how to track - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/flaky-tests-why-how-to-find-your-flaky-tests-what-why-and-how-to-track",
             "updated": 1678933911,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/app-store-connect-guide-how-to-release-apps-to-the-app-store-test-with-testflight-and-more",
             "title": "App Store Connect Guide: How to release apps to the App Store, test with TestFlight, and more - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/app-store-connect-guide-how-to-release-apps-to-the-app-store-test-with-testflight-and-more",
             "updated": 1678416017,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/streamlining-your-ios-release-process-with-bitrises-automated-release-management-stay-informed-with-automated-notifications",
             "title": "Streamlining your iOS release process with Bitrise's automated Release Management: Stay informed with automated notifications - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/streamlining-your-ios-release-process-with-bitrises-automated-release-management-stay-informed-with-automated-notifications",
             "updated": 1678331683,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/test-failure-rate-why-and-how-to-find-your-frequently-failing-tests-what-why-and-how-to-track",
             "title": "Test Failure Rate: Why and how to find your frequently failing tests? | What, why and how to track - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/test-failure-rate-why-and-how-to-find-your-frequently-failing-tests-what-why-and-how-to-track",
             "updated": 1678254608,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/behind-the-scenes-women-in-tech-series-bia",
             "title": "Behind the scenes \u2014 Women in tech series: Bia - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/behind-the-scenes-women-in-tech-series-bia",
             "updated": 1678235248,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/build-failure-rate-why-and-how-to-find-your-frequently-failing-builds",
             "title": "Build failure rate: Why and how to find your frequently failing builds? | What, why and how to track - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/build-failure-rate-why-and-how-to-find-your-frequently-failing-builds",
             "updated": 1678080123,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/set-up-alerts-with-bitrise-insights",
             "title": "Set up alerts with Bitrise Insights - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/set-up-alerts-with-bitrise-insights",
             "updated": 1677806743,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/automated-release-management-streamlining-ios-app-releases",
             "title": "Automated Release Management: Streamlining iOS App Releases - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/automated-release-management-streamlining-ios-app-releases",
             "updated": 1677465604,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/monitoring-and-optimizing-your-slowest-mobile-builds",
             "title": "Build times: Monitoring and optimizing your slowest mobile builds | What, why and how to track - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/monitoring-and-optimizing-your-slowest-mobile-builds",
             "updated": 1677462918,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/blog-post-new-tiered-m1-machine-type-offering-for-powerful-efficient-and-flexible-builds",
             "title": "New tiered M1 machine type offering for powerful, efficient, and flexible builds - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/blog-post-new-tiered-m1-machine-type-offering-for-powerful-efficient-and-flexible-builds",
             "updated": 1676973420,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/m1-max-studio-is-now-available-for-complex-memory-heavy-builds-only-at-bitrise",
             "title": "M1 Max Studio is now available for complex, memory-heavy builds \u2014 only at Bitrise - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/m1-max-studio-is-now-available-for-complex-memory-heavy-builds-only-at-bitrise",
             "updated": 1676972800,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/mobile-app-trends-to-watch-in-2023",
             "title": "Mobile app trends to watch in 2023 - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/mobile-app-trends-to-watch-in-2023",
             "updated": 1676518015,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/key-based-caching-is-now-out-of-beta",
             "title": "Key-based caching is now out of beta - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/key-based-caching-is-now-out-of-beta",
             "updated": 1676366920,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         },
         {
             "id": "https://blog-proxy.bitrise.io/post/bitrise-insights-introducing-new-ways-to-optimize-how-you-analyze-your-data",
             "title": "Bitrise Insights: Introducing new ways to optimize how you analyze your data - Bitrise Blog",
             "link": "https://blog-proxy.bitrise.io/post/bitrise-insights-introducing-new-ways-to-optimize-how-you-analyze-your-data",
             "updated": 1676013813,
-            "site_name": "Bitrise Blog"
+            "site_url": "https://bitrise.io/blog"
         }
     ]
 }

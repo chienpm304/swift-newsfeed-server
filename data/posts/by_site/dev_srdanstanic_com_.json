@@ -1,75 +1,75 @@
 {
-    "updated": 1714470951,
+    "updated": 1714537270,
     "posts": [
         {
             "id": "https://dev.srdanstanic.com/clean-ios-application-logging/",
             "title": "How to add logging to an iOS app in a clean way?",
             "link": "https://dev.srdanstanic.com/clean-ios-application-logging/",
             "updated": 1682787600,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/swift-concurrency-quick-start/",
             "title": "Swift Concurrency Quick Start",
             "link": "https://dev.srdanstanic.com/swift-concurrency-quick-start/",
             "updated": 1681318800,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/firebase-crashlytics-analytics-gdpr-user-data-management/",
             "title": "Firebase Crashlytics/Analytics, GDPR, and user data management on iOS",
             "link": "https://dev.srdanstanic.com/firebase-crashlytics-analytics-gdpr-user-data-management/",
             "updated": 1638032400,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/swift-protocol-types-and-naming/",
             "title": "Swift protocol naming guidelines with examples",
             "link": "https://dev.srdanstanic.com/swift-protocol-types-and-naming/",
             "updated": 1616518800,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/swiftsyntax-tips/",
             "title": "Tips for parsing Swift code with SwiftSyntax",
             "link": "https://dev.srdanstanic.com/swiftsyntax-tips/",
             "updated": 1615395600,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/ios-application-architecture-beyond-mvc-mvvm-viper/",
             "title": "iOS application architecture beyond MVC, MVVM, and VIPER",
             "link": "https://dev.srdanstanic.com/ios-application-architecture-beyond-mvc-mvvm-viper/",
             "updated": 1602522000,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/rounded-border-button-on-ios/",
             "title": "Rounded border button in Swift and UIKit",
             "link": "https://dev.srdanstanic.com/rounded-border-button-on-ios/",
             "updated": 1490806800,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/serial-dispatch-queue-priority-in-swift/",
             "title": "How to create a serial queue with a specified priority in Swift?",
             "link": "https://dev.srdanstanic.com/serial-dispatch-queue-priority-in-swift/",
             "updated": 1487955600,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/ios-app-store-file-size/",
             "title": "What's the App Store file size of my iOS app?",
             "link": "https://dev.srdanstanic.com/ios-app-store-file-size/",
             "updated": 1487350800,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         },
         {
             "id": "https://dev.srdanstanic.com/swift-dynamic-keyword/",
             "title": "Dynamic keyword in Swift",
             "link": "https://dev.srdanstanic.com/swift-dynamic-keyword/",
             "updated": 1486659600,
-            "site_name": "Sr\u0111an's notes on programming"
+            "site_url": "https://dev.srdanstanic.com/"
         }
     ]
 }

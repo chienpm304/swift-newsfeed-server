@@ -1,19 +1,19 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.sidetrack.app/debugging-in-production",
             "title": "Securely debugging your app in production",
             "link": "https://blog.sidetrack.app/debugging-in-production",
             "updated": 1672419600,
-            "site_name": "Sidetrack"
+            "site_url": "https://blog.sidetrack.app/"
         },
         {
             "id": "https://blog.sidetrack.app/introducing-sidetrack",
             "title": "Introducing Sidetrack...",
             "link": "https://blog.sidetrack.app/introducing-sidetrack",
             "updated": 1672333200,
-            "site_name": "Sidetrack"
+            "site_url": "https://blog.sidetrack.app/"
         }
     ]
 }

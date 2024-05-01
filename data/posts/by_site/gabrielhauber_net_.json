@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://gabrielhauber.net/devBlog/2016/09/14/indie-dev-part-3/",
             "title": "I am an Indie Dev - Part 3",
             "link": "http://gabrielhauber.net/devBlog/2016/09/14/indie-dev-part-3/",
             "updated": 1473868800,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2015/05/09/making-it-as-an-indie/index.html",
             "title": "Making it as an Indie Developer",
             "link": "http://gabrielhauber.net/devBlog/2015/05/09/making-it-as-an-indie/index.html",
             "updated": 1431070200,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2015/05/01/osx-cookiecrunch/",
             "title": "How to make a game like candy crush tutorial: OS X port",
             "link": "http://gabrielhauber.net/devBlog/2015/05/01/osx-cookiecrunch/",
             "updated": 1430438400,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/10/01/swift-textkit-tutorial/",
             "title": "Swift TextKit Tutorial",
             "link": "http://gabrielhauber.net/devBlog/2014/10/01/swift-textkit-tutorial/",
             "updated": 1412121600,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/09/06/indie-dev-part-2/index.html",
             "title": "I am an Indie iOS Developer - Part 2",
             "link": "http://gabrielhauber.net/devBlog/2014/09/06/indie-dev-part-2/index.html",
             "updated": 1409940000,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/07/27/i-am-an-indie-ios-dev/index.html",
             "title": "I am an Indie iOS Developer",
             "link": "http://gabrielhauber.net/devBlog/2014/07/27/i-am-an-indie-ios-dev/index.html",
             "updated": 1409243400,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/06/11/after-wwdc-2014/",
             "title": "Reflections on WWDC 2014",
             "link": "http://gabrielhauber.net/devBlog/2014/06/11/after-wwdc-2014/",
             "updated": 1402502400,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/06/02/wishes-for-wwdc-2014/",
             "title": "WWDC 2014 - My wishes and predictions",
             "link": "http://gabrielhauber.net/devBlog/2014/06/02/wishes-for-wwdc-2014/",
             "updated": 1401667200,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/05/29/community-multipeer-resources/",
             "title": "Multipeer Connectivity Resources - Community",
             "link": "http://gabrielhauber.net/devBlog/2014/05/29/community-multipeer-resources/",
             "updated": 1401325200,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         },
         {
             "id": "http://gabrielhauber.net/devBlog/2014/05/23/apples-multipeer-resources/",
             "title": "Multipeer Connectivity Resources - Apple",
             "link": "http://gabrielhauber.net/devBlog/2014/05/23/apples-multipeer-resources/",
             "updated": 1400803200,
-            "site_name": "Gabriel Hauber\u2019s Blog"
+            "site_url": "http://gabrielhauber.net/"
         }
     ]
 }

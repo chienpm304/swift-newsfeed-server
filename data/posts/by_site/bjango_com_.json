@@ -1,145 +1,145 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://bjango.com/articles/blurradiuscomparison/",
             "title": "Blur radius comparison",
             "link": "https://bjango.com/articles/blurradiuscomparison/",
             "updated": 1704906000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/designtoolcanvashandles/",
             "title": "Design tool canvas handles",
             "link": "https://bjango.com/articles/designtoolcanvashandles/",
             "updated": 1702486800,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/designtoolmemory/",
             "title": "Design tool memory usage",
             "link": "https://bjango.com/articles/designtoolmemory/",
             "updated": 1693760400,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/shapebuildervspathfinder/",
             "title": "Shape builder vs pathfinder",
             "link": "https://bjango.com/articles/shapebuildervspathfinder/",
             "updated": 1684861200,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/opticaladjustments/",
             "title": "Formulas for optical adjustments",
             "link": "https://bjango.com/articles/opticaladjustments/",
             "updated": 1676221200,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/smallermacappicons/",
             "title": "Smaller Mac app icons",
             "link": "https://bjango.com/articles/smallermacappicons/",
             "updated": 1673456400,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/iconspeedrunvideos/",
             "title": "Icon speedrun videos",
             "link": "https://bjango.com/articles/iconspeedrunvideos/",
             "updated": 1671382800,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/speedrunfingerprint/",
             "title": "Fingerprint icon speedrun",
             "link": "https://bjango.com/articles/speedrunfingerprint/",
             "updated": 1668790800,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/speedrunpen/",
             "title": "Fountain pen icon speedrun",
             "link": "https://bjango.com/articles/speedrunpen/",
             "updated": 1668618000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/speedrunpushpin/",
             "title": "Pushpin icon speedrun",
             "link": "https://bjango.com/articles/speedrunpushpin/",
             "updated": 1668531600,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/speedrunflag/",
             "title": "Flag icon speedrun",
             "link": "https://bjango.com/articles/speedrunflag/",
             "updated": 1668445200,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/designingmenubarextras/",
             "title": "Designing macOS menu bar extras",
             "link": "https://bjango.com/articles/designingmenubarextras/",
             "updated": 1650819600,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/svgpassthroughprecision/",
             "title": "SVG passthrough precision",
             "link": "https://bjango.com/articles/svgpassthroughprecision/",
             "updated": 1650214800,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/svgexports/",
             "title": "Ideal SVG exports",
             "link": "https://bjango.com/articles/svgexports/",
             "updated": 1649696400,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/macexternaldisplays2/",
             "title": "Mac external displays for designers and developers, part 2",
             "link": "https://bjango.com/articles/macexternaldisplays2/",
             "updated": 1648746000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/speedruncamerairis/",
             "title": "Camera iris icon speedrun",
             "link": "https://bjango.com/articles/speedruncamerairis/",
             "updated": 1639674000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/opacityprecision/",
             "title": "Opacity precision",
             "link": "https://bjango.com/articles/opacityprecision/",
             "updated": 1638723600,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/perfsignatures/",
             "title": "Design tool performance signatures",
             "link": "https://bjango.com/articles/perfsignatures/",
             "updated": 1637514000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/colourmanagementissues/",
             "title": "Diagnosing common colour management issues",
             "link": "https://bjango.com/articles/colourmanagementissues/",
             "updated": 1629306000,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         },
         {
             "id": "https://bjango.com/articles/macpreferencestabicons/",
             "title": "macOS prefs tab icons are 27\u00d727pt",
             "link": "https://bjango.com/articles/macpreferencestabicons/",
             "updated": 1626973200,
-            "site_name": "Bjango Articles"
+            "site_url": "https://bjango.com/"
         }
     ]
 }

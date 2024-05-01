@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://danieltull.co.uk//blog/2020/06/08/renaming-gits-default-master-branch/",
             "title": "Renaming git's default master branch",
             "link": "http://danieltull.co.uk//blog/2020/06/08/renaming-gits-default-master-branch/",
             "updated": 1591549200,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2020/02/17/publisher-view/",
             "title": "Creating a SwiftUI view for loading Combine publishers",
             "link": "http://danieltull.co.uk//blog/2020/02/17/publisher-view/",
             "updated": 1581872400,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2019/10/09/type-safe-user-defaults/",
             "title": "Type-safe User Defaults",
             "link": "http://danieltull.co.uk//blog/2019/10/09/type-safe-user-defaults/",
             "updated": 1570554000,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2019/08/04/combine-latest-collection/",
             "title": "Combine Latest Collection",
             "link": "http://danieltull.co.uk//blog/2019/08/04/combine-latest-collection/",
             "updated": 1564851600,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2018/09/09/wrapping-urls-security-scoped-resource-methods/",
             "title": "Wrapping URL's Security Scoped Resource Methods",
             "link": "http://danieltull.co.uk//blog/2018/09/09/wrapping-urls-security-scoped-resource-methods/",
             "updated": 1536426000,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2018/04/24/tuple-comparison/",
             "title": "Tuple Comparison",
             "link": "http://danieltull.co.uk//blog/2018/04/24/tuple-comparison/",
             "updated": 1524502800,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2018/04/13/simplifying-uicollectionviewflowlayout-delegate-method-usage-with-functional-programming/",
             "title": "Simplifying UICollectionViewFlowLayout Delegate Method usage with Functional Programming",
             "link": "http://danieltull.co.uk//blog/2018/04/13/simplifying-uicollectionviewflowlayout-delegate-method-usage-with-functional-programming/",
             "updated": 1523552400,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2017/10/17/uirequireddevicecapabilities-and-ios/",
             "title": "UIRequiredDeviceCapabilities and iOS 11",
             "link": "http://danieltull.co.uk//blog/2017/10/17/uirequireddevicecapabilities-and-ios/",
             "updated": 1508173200,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2016/02/20/the-hard-work-behind-running-a-successful-community-event/",
             "title": "The Hard Work Behind Running a Successful Community Event",
             "link": "http://danieltull.co.uk//blog/2016/02/20/the-hard-work-behind-running-a-successful-community-event/",
             "updated": 1455901200,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         },
         {
             "id": "http://danieltull.co.uk//blog/2015/11/20/not-a-core-data-error/",
             "title": "Not a Core Data error",
             "link": "http://danieltull.co.uk//blog/2015/11/20/not-a-core-data-error/",
             "updated": 1447952400,
-            "site_name": "Daniel Tull\u2019s Blog"
+            "site_url": "https://danieltull.co.uk/blog/"
         }
     ]
 }

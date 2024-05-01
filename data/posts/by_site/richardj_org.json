@@ -1,61 +1,61 @@
 {
-    "updated": 1714470921,
+    "updated": 1714537251,
     "posts": [
         {
             "id": "https://richardj.org/?p=394",
             "title": "Meet the new Sunbeam",
             "link": "https://richardj.org/2024/03/28/meet-the-new-sunbeam/",
             "updated": 1711625919,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=361",
             "title": "Sunbeam: Spring 2021 Update",
             "link": "https://richardj.org/2021/04/18/sunbeam-spring-2021-update/",
             "updated": 1618730960,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=344",
             "title": "Sunbeam for Apple Watch \u231a\ufe0f",
             "link": "https://richardj.org/2020/07/07/sunbeam-for-apple-watch/",
             "updated": 1594098236,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=338",
             "title": "Introducing sunburn and vitamin D estimates",
             "link": "https://richardj.org/2020/05/11/introducing-sunburn-and-vitamin-d-estimates/",
             "updated": 1589173555,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=325",
             "title": "Sunbeam 2.0! \ud83c\udf89",
             "link": "https://richardj.org/2020/04/25/sunbeam-2-launch/",
             "updated": 1587810645,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=256",
             "title": "WWDC 2019 highlights",
             "link": "https://richardj.org/2019/06/14/wwdc-2019-highlights/",
             "updated": 1560471728,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=248",
             "title": "Sunbeam v1.1 released",
             "link": "https://richardj.org/2019/02/25/sunbeam-v1-1-released/",
             "updated": 1551101513,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         },
         {
             "id": "http://richardj.org//?p=222",
             "title": "Thoughts on iOS development",
             "link": "https://richardj.org/2019/01/13/thoughts-on-ios-development/",
             "updated": 1547389251,
-            "site_name": "Richard Jones' Blog"
+            "site_url": "https://richardj.org"
         }
     ]
 }

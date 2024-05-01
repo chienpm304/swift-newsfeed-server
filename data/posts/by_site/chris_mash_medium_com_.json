@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/8a848a2db07c",
             "title": "Extracting app logs from an\u00a0.xcresult",
             "link": "https://chris-mash.medium.com/extracting-app-logs-from-an-xcresult-8a848a2db07c?source=rss-ea8ebe82ceec------2",
             "updated": 1714049505,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/e1495dd15dfd",
             "title": "Swift 6 is coming in September!",
             "link": "https://chris-mash.medium.com/swift-6-is-coming-in-september-e1495dd15dfd?source=rss-ea8ebe82ceec------2",
             "updated": 1708842429,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/bab0620d52d0",
             "title": "Preparing for Swift 6",
             "link": "https://chris-mash.medium.com/preparing-for-swift-6-bab0620d52d0?source=rss-ea8ebe82ceec------2",
             "updated": 1706007679,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/2158be9ee82d",
             "title": "Writing good unit tests",
             "link": "https://blog.devgenius.io/writing-good-unit-tests-2158be9ee82d?source=rss-ea8ebe82ceec------2",
             "updated": 1697532182,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/7832f475d7b7",
             "title": "Using ProvisioningProfile and Firebase to monitor profile expiries remotely",
             "link": "https://chris-mash.medium.com/using-provisioningprofile-and-firebase-to-monitor-profile-expiries-remotely-7832f475d7b7?source=rss-ea8ebe82ceec------2",
             "updated": 1683845223,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/271b5bb4fdd8",
             "title": "Moving views around in SwiftUI",
             "link": "https://blog.devgenius.io/moving-views-around-in-swiftui-271b5bb4fdd8?source=rss-ea8ebe82ceec------2",
             "updated": 1645146917,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/4d9778e8d862",
             "title": "Goodbye MFMailComposeViewController?",
             "link": "https://chris-mash.medium.com/goodbye-mfmailcomposeviewcontroller-4d9778e8d862?source=rss-ea8ebe82ceec------2",
             "updated": 1639217696,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/40e69a29ea99",
             "title": "Easy UIAlertController presentation",
             "link": "https://chris-mash.medium.com/easy-uialertcontroller-presentation-40e69a29ea99?source=rss-ea8ebe82ceec------2",
             "updated": 1628775446,
-            "site_name": "Chris Mash on Medium"
-        },
-        {
-            "id": "https://medium.com/p/b234ce353d41",
-            "title": "Xcode: Monitoring your public API\u200a\u2014\u200aPart 2",
-            "link": "https://chris-mash.medium.com/xcode-monitoring-your-public-api-part-2-b234ce353d41?source=rss-ea8ebe82ceec------2",
-            "updated": 1624539238,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
         },
         {
             "id": "https://medium.com/p/b50a1c372cd6",
             "title": "Xcode: Monitoring your public API\u200a\u2014\u200aPart 1",
             "link": "https://chris-mash.medium.com/xcode-monitoring-your-public-api-part-1-b50a1c372cd6?source=rss-ea8ebe82ceec------2",
             "updated": 1624539261,
-            "site_name": "Chris Mash on Medium"
+            "site_url": "https://chris-mash.medium.com/"
+        },
+        {
+            "id": "https://medium.com/p/b234ce353d41",
+            "title": "Xcode: Monitoring your public API\u200a\u2014\u200aPart 2",
+            "link": "https://chris-mash.medium.com/xcode-monitoring-your-public-api-part-2-b234ce353d41?source=rss-ea8ebe82ceec------2",
+            "updated": 1624539238,
+            "site_url": "https://chris-mash.medium.com/"
         }
     ]
 }

@@ -1,453 +1,453 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-may-19-2018/",
             "title": "iOS Weekly Minute - May 19, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-may-19-2018/",
             "updated": 1526662800,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-may-12-2018/",
             "title": "iOS Weekly Minute - May 12, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-may-12-2018/",
             "updated": 1526058000,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-may-6-2018/",
             "title": "iOS Weekly Minute - May 6, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-may-6-2018/",
             "updated": 1525539600,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-april-21-2018/",
             "title": "iOS Weekly Minute - April 21, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-april-21-2018/",
             "updated": 1524243600,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-april-13-2018/",
             "title": "iOS Weekly Minute - April 13, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-april-13-2018/",
             "updated": 1523620800,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-april-6-2018/",
             "title": "iOS Weekly Minute - April 6, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-april-6-2018/",
             "updated": 1523015280,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-march-30-2018/",
             "title": "iOS Weekly Minute - March 30, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-march-30-2018/",
             "updated": 1522410000,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-march-24-2018/",
             "title": "iOS Weekly Minute - March 24, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-march-24-2018/",
             "updated": 1521862800,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ios-weekly-minute-march-16-2018/",
             "title": "iOS Weekly Minute - March 16, 2018",
             "link": "https://www.bensnider.com/posts/ios-weekly-minute-march-16-2018/",
             "updated": 1521203280,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/swift-4-blog-project-updates/",
             "title": "Swift 4 Blog Project Updates",
             "link": "https://www.bensnider.com/posts/swift-4-blog-project-updates/",
             "updated": 1502001180,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/wrapping-c-code-within-a-single-swift-package/",
             "title": "Wrapping C Code Within a Single Swift Package",
             "link": "https://www.bensnider.com/posts/wrapping-c-code-within-a-single-swift-package/",
             "updated": 1480155240,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/refactoring-an-mvvm-app-to-swift-3/",
             "title": "Refactoring an MVVM App To Swift 3",
             "link": "https://www.bensnider.com/posts/refactoring-an-mvvm-app-to-swift-3/",
             "updated": 1479019500,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/abi-compatibility-whoopdty-do-what-does-it-all-mean/",
             "title": "ABI Compatibility: Whoopdty Do, What Does It All Mean?",
             "link": "https://www.bensnider.com/posts/abi-compatibility-whoopdty-do-what-does-it-all-mean/",
             "updated": 1463672880,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/making-swift-code-more-swifty-and-an-mvvm-aside/",
             "title": "Making Swift Code More Swifty And An MVVM Aside",
             "link": "https://www.bensnider.com/posts/making-swift-code-more-swifty-and-an-mvvm-aside/",
             "updated": 1463493720,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/getting-started-with-openwhisk-server-side-swift/",
             "title": "Getting Started with OpenWhisk Server Side Swift",
             "link": "https://www.bensnider.com/posts/getting-started-with-openwhisk-server-side-swift/",
             "updated": 1458976500,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/pi-day-2016-project-pilcd/",
             "title": "Pi Day 2016 Project - PiLCD",
             "link": "https://www.bensnider.com/posts/pi-day-2016-project-pilcd/",
             "updated": 1457877480,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/using-swiftenv-to-install-and-manage-swift-versions/",
             "title": "Using swiftenv To Install and Manage Swift Versions",
             "link": "https://www.bensnider.com/posts/using-swiftenv-to-install-and-manage-swift-versions/",
             "updated": 1457526360,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/roadblocks-when-making-cross-platform-command-line-swift-scripts/",
             "title": "Roadblocks When Making Cross Platform Command Line Swift Scripts",
             "link": "https://www.bensnider.com/posts/roadblocks-when-making-cross-platform-command-line-swift-scripts/",
             "updated": 1453005300,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/making-a-slack-slash-command-integration-using-swift-on-heroku/",
             "title": "Making a Slack Slash Command Integration using Swift on Heroku",
             "link": "https://www.bensnider.com/posts/making-a-slack-slash-command-integration-using-swift-on-heroku/",
             "updated": 1450276680,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/swift-libraries-that-are-open-source-swift-friendly/",
             "title": "Swift Libraries That Are Open Source Swift Friendly",
             "link": "https://www.bensnider.com/posts/swift-libraries-that-are-open-source-swift-friendly/",
             "updated": 1449054480,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/the-simple-programmer-working-on-the-soft-skills/",
             "title": "The Simple Programmer: Working on the Soft Skills",
             "link": "https://www.bensnider.com/posts/the-simple-programmer-working-on-the-soft-skills/",
             "updated": 1448092200,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/using-swift-to-make-command-line-scripts-part-2/",
             "title": "Using Swift To Make Command Line Scripts - Part 2",
             "link": "https://www.bensnider.com/posts/using-swift-to-make-command-line-scripts-part-2/",
             "updated": 1447751460,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/using-swift-to-make-command-line-scripts-part-1/",
             "title": "Using Swift To Make Command Line Scripts - Part 1",
             "link": "https://www.bensnider.com/posts/using-swift-to-make-command-line-scripts-part-1/",
             "updated": 1446642060,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/no-open-source-swift-yet/",
             "title": "No Open Source Swift Yet",
             "link": "https://www.bensnider.com/posts/no-open-source-swift-yet/",
             "updated": 1446640500,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/refocusing-on-open-source-swift/",
             "title": "Refocusing On Open Source Swift",
             "link": "https://www.bensnider.com/posts/refocusing-on-open-source-swift/",
             "updated": 1445686140,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/piseg-arduino-project/",
             "title": "PiSeg Arduino Project",
             "link": "https://www.bensnider.com/posts/piseg-arduino-project/",
             "updated": 1328542260,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/code-camp-columbus-2011/",
             "title": "Code Camp Columbus 2011",
             "link": "https://www.bensnider.com/posts/code-camp-columbus-2011/",
             "updated": 1319879640,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/cohpug-monthly-meetup-and-freegeek/",
             "title": "COhPUG Monthly Meetup and FreeGeek",
             "link": "https://www.bensnider.com/posts/cohpug-monthly-meetup-and-freegeek/",
             "updated": 1317136020,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/freegeek-columbus-volunteering/",
             "title": "FreeGeek Columbus Volunteering",
             "link": "https://www.bensnider.com/posts/freegeek-columbus-volunteering/",
             "updated": 1315925160,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/s3cmd-pelican-and-you/",
             "title": "s3cmd, Pelican, and You",
             "link": "https://www.bensnider.com/posts/s3cmd-pelican-and-you/",
             "updated": 1315752900,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/keynote-speech-at-olf-2011/",
             "title": "Keynote Speech at OLF 2011",
             "link": "https://www.bensnider.com/posts/keynote-speech-at-olf-2011/",
             "updated": 1315750980,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/ohio-linuxfest-2011-series/",
             "title": "Ohio LinuxFest 2011 Series",
             "link": "https://www.bensnider.com/posts/ohio-linuxfest-2011-series/",
             "updated": 1315749660,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/simple-pelican-blog-post-template-generator/",
             "title": "Simple Pelican Blog Post Template Generator",
             "link": "https://www.bensnider.com/posts/simple-pelican-blog-post-template-generator/",
             "updated": 1315749300,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/its-alive/",
             "title": "It's Alive!",
             "link": "https://www.bensnider.com/posts/its-alive/",
             "updated": 1315422480,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/nszombie-to-the-freaking-rescue/",
             "title": "NSZombie to the Freaking Rescue",
             "link": "https://www.bensnider.com/posts/nszombie-to-the-freaking-rescue/",
             "updated": 1273033260,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/exile-issue-1-released/",
             "title": "Exile Issue 1 Released",
             "link": "https://www.bensnider.com/posts/exile-issue-1-released/",
             "updated": 1272381720,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/dont-get-shot-released/",
             "title": "Don't Get Shot Released",
             "link": "https://www.bensnider.com/posts/dont-get-shot-released/",
             "updated": 1272381600,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/lice-helper-launched/",
             "title": "Lice Helper Launched",
             "link": "https://www.bensnider.com/posts/lice-helper-launched/",
             "updated": 1267453380,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/imagemagick-split-and-join-a-sprite-sheet/",
             "title": "ImageMagick Split and Join a Sprite Sheet",
             "link": "https://www.bensnider.com/posts/imagemagick-split-and-join-a-sprite-sheet/",
             "updated": 1265713380,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flixel-pixel-perfect-collisions/",
             "title": "Flixel Pixel Perfect Collisions",
             "link": "https://www.bensnider.com/posts/flixel-pixel-perfect-collisions/",
             "updated": 1264954380,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flixel-puddles-and-oil-slicks/",
             "title": "Flixel Puddles and Oil Slicks",
             "link": "https://www.bensnider.com/posts/flixel-puddles-and-oil-slicks/",
             "updated": 1263811560,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/computer-engineer-barbie/",
             "title": "Computer Engineer Barbie",
             "link": "https://www.bensnider.com/posts/computer-engineer-barbie/",
             "updated": 1263377400,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flash-draw-transparent-bitmapdata/",
             "title": "Flash Draw Transparent BitmapData",
             "link": "https://www.bensnider.com/posts/flash-draw-transparent-bitmapdata/",
             "updated": 1263269820,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flex-scale-image-to-max-dimension/",
             "title": "Flex Scale Image to Max Dimension",
             "link": "https://www.bensnider.com/posts/flex-scale-image-to-max-dimension/",
             "updated": 1263208860,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/this-is-not-a/",
             "title": "This Is Not a |",
             "link": "https://www.bensnider.com/posts/this-is-not-a/",
             "updated": 1254121740,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flash-10-valid-vector-elements/",
             "title": "Flash 10 Valid Vector Elements",
             "link": "https://www.bensnider.com/posts/flash-10-valid-vector-elements/",
             "updated": 1250688540,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/copying-a-flash-movieclip-or-the-flash-holy-grail/",
             "title": "Copying a Flash MovieClip, or The Flash Holy Grail",
             "link": "https://www.bensnider.com/posts/copying-a-flash-movieclip-or-the-flash-holy-grail/",
             "updated": 1242391260,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flexunit-asyncrhonous-setups/",
             "title": "Flexunit Asyncrhonous Setups",
             "link": "https://www.bensnider.com/posts/flexunit-asyncrhonous-setups/",
             "updated": 1234446960,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flashdevelop-setter-and-getter-snippets/",
             "title": "FlashDevelop Setter and Getter Snippets",
             "link": "https://www.bensnider.com/posts/flashdevelop-setter-and-getter-snippets/",
             "updated": 1234180920,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flex-menuitem-actions/",
             "title": "Flex MenuItem Actions",
             "link": "https://www.bensnider.com/posts/flex-menuitem-actions/",
             "updated": 1233302880,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/hp-laptop-linux-boot-parameters/",
             "title": "HP Laptop Linux Boot Parameters",
             "link": "https://www.bensnider.com/posts/hp-laptop-linux-boot-parameters/",
             "updated": 1225693920,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/world-of-goo/",
             "title": "World of Goo",
             "link": "https://www.bensnider.com/posts/world-of-goo/",
             "updated": 1225275480,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/google-chrome-and-firefox-3-benchmark-comparisons/",
             "title": "Google Chrome and Firefox 3 Benchmark Comparisons",
             "link": "https://www.bensnider.com/posts/google-chrome-and-firefox-3-benchmark-comparisons/",
             "updated": 1220348400,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/openmp-examples/",
             "title": "OpenMP Examples",
             "link": "https://www.bensnider.com/posts/openmp-examples/",
             "updated": 1218115860,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/cakephp-getting-tree-path/",
             "title": "CakePHP Getting Tree Path",
             "link": "https://www.bensnider.com/posts/cakephp-getting-tree-path/",
             "updated": 1216962360,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/cakephp-tree-find-by-path/",
             "title": "CakePHP Tree Find By Path",
             "link": "https://www.bensnider.com/posts/cakephp-tree-find-by-path/",
             "updated": 1216879860,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/cakephp-lightbox-helper/",
             "title": "CakePHP Lightbox Helper",
             "link": "https://www.bensnider.com/posts/cakephp-lightbox-helper/",
             "updated": 1216707840,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/using-radio-buttons-with-cakephp/",
             "title": "Using Radio Buttons with CakePHP",
             "link": "https://www.bensnider.com/posts/using-radio-buttons-with-cakephp/",
             "updated": 1213710000,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/dynamically-import-and-instantiate-python-classes/",
             "title": "Dynamically Import and Instantiate Python Classes",
             "link": "https://www.bensnider.com/posts/dynamically-import-and-instantiate-python-classes/",
             "updated": 1204103880,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/getting-the-owner-of-a-file-in-linux/",
             "title": "Getting the Owner of a File in Linux",
             "link": "https://www.bensnider.com/posts/getting-the-owner-of-a-file-in-linux/",
             "updated": 1203936000,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/c-pointers-and-incomplete-types/",
             "title": "C++ Pointers and Incomplete Types",
             "link": "https://www.bensnider.com/posts/c-pointers-and-incomplete-types/",
             "updated": 1203861420,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/python-lies/",
             "title": "Python Lies",
             "link": "https://www.bensnider.com/posts/python-lies/",
             "updated": 1203250380,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/flixya-firefox-extension/",
             "title": "Flixya Firefox Extension",
             "link": "https://www.bensnider.com/posts/flixya-firefox-extension/",
             "updated": 1183047120,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         },
         {
             "id": "https://www.bensnider.com/posts/localwineeventscom-google-gadget/",
             "title": "LocalWineEvents.com Google Gadget",
             "link": "https://www.bensnider.com/posts/localwineeventscom-google-gadget/",
             "updated": 1182430140,
-            "site_name": "Ben Snider\u2019s Blog"
+            "site_url": "https://www.bensnider.com/"
         }
     ]
 }

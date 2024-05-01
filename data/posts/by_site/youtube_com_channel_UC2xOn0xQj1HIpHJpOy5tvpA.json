@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:V4kFaPpQzQY",
-            "title": "Swift/SwiftUI: How to Automatically Display Plural Forms of Nouns",
-            "link": "https://www.youtube.com/watch?v=V4kFaPpQzQY",
-            "updated": 1714116693,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:_uCcca7TV5o",
-            "title": "Don't Memorize Commands: Let GitHub Copilot Explain & Suggest",
-            "link": "https://www.youtube.com/watch?v=_uCcca7TV5o",
-            "updated": 1713812927,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:5w0hpcq9TME",
-            "title": "Building a Discord Clone using Next.js, TailwindCSS, Clerk, and Stream",
-            "link": "https://www.youtube.com/watch?v=5w0hpcq9TME",
-            "updated": 1713942947,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:rC7UdPvO-vY",
-            "title": "Integrate Screen-Sharing Into a SwiftUI App",
-            "link": "https://www.youtube.com/watch?v=rC7UdPvO-vY",
-            "updated": 1713639605,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:q1e0ASeoC5Y",
-            "title": "#Elgato Prompter #shorts",
-            "link": "https://www.youtube.com/watch?v=q1e0ASeoC5Y",
-            "updated": 1713638631,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:ttlgHlUUiyc",
-            "title": "React Native Audio Room App",
-            "link": "https://www.youtube.com/watch?v=ttlgHlUUiyc",
-            "updated": 1713987571,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:ozBf5zaTl7M",
-            "title": "Create Realistic Particle Effects for visionOS",
-            "link": "https://www.youtube.com/watch?v=ozBf5zaTl7M",
-            "updated": 1713931441,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:peo8yX6uVD8",
-            "title": "Setup React Native Smoothly on Apple Intel and Silicon Macs",
-            "link": "https://www.youtube.com/watch?v=peo8yX6uVD8",
-            "updated": 1710594530,
-            "site_name": "Stream Developers on YouTube"
+            "id": "yt:video:A3iNUKxXpbU",
+            "title": "Setup React Native on Apple Silicon & Intel Macs: 2024",
+            "link": "https://www.youtube.com/watch?v=A3iNUKxXpbU",
+            "updated": 1714182648,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         },
         {
             "id": "yt:video:WD95jxtXcaM",
             "title": "PKL Configuration Language #java #kotlin #swift #golanguage #shorts",
             "link": "https://www.youtube.com/watch?v=WD95jxtXcaM",
             "updated": 1714174054,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:A3iNUKxXpbU",
-            "title": "Setup React Native on Apple Silicon & Intel Macs: 2024",
-            "link": "https://www.youtube.com/watch?v=A3iNUKxXpbU",
-            "updated": 1714182648,
-            "site_name": "Stream Developers on YouTube"
-        },
-        {
-            "id": "yt:video:d3Y9kwufJp0",
-            "title": "Using Ollama and Gemma to build an AI meeting summary tool",
-            "link": "https://www.youtube.com/watch?v=d3Y9kwufJp0",
-            "updated": 1710433660,
-            "site_name": "Stream Developers on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         },
         {
             "id": "yt:video:ETqgPIo6OT4",
             "title": "How To Add Voice Messaging to Your iOS App",
             "link": "https://www.youtube.com/watch?v=ETqgPIo6OT4",
             "updated": 1714132117,
-            "site_name": "Stream Developers on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:V4kFaPpQzQY",
+            "title": "Swift/SwiftUI: How to Automatically Display Plural Forms of Nouns",
+            "link": "https://www.youtube.com/watch?v=V4kFaPpQzQY",
+            "updated": 1714116693,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         },
         {
             "id": "yt:video:weqRldwdI10",
             "title": "Build a Video Calling App using Angular Signals and RxJS interop #Shorts #angular #typescript #rxjs",
             "link": "https://www.youtube.com/watch?v=weqRldwdI10",
             "updated": 1714086697,
-            "site_name": "Stream Developers on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         },
         {
-            "id": "yt:video:lb_6vUfVAr8",
-            "title": "Building a Video Calling App with Angular Signals (+ integrating RxJS )",
-            "link": "https://www.youtube.com/watch?v=lb_6vUfVAr8",
-            "updated": 1709405654,
-            "site_name": "Stream Developers on YouTube"
+            "id": "yt:video:ttlgHlUUiyc",
+            "title": "React Native Audio Room App",
+            "link": "https://www.youtube.com/watch?v=ttlgHlUUiyc",
+            "updated": 1713987571,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:5w0hpcq9TME",
+            "title": "Building a Discord Clone using Next.js, TailwindCSS, Clerk, and Stream",
+            "link": "https://www.youtube.com/watch?v=5w0hpcq9TME",
+            "updated": 1713942947,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:ozBf5zaTl7M",
+            "title": "Create Realistic Particle Effects for visionOS",
+            "link": "https://www.youtube.com/watch?v=ozBf5zaTl7M",
+            "updated": 1713931441,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:_uCcca7TV5o",
+            "title": "Don't Memorize Commands: Let GitHub Copilot Explain & Suggest",
+            "link": "https://www.youtube.com/watch?v=_uCcca7TV5o",
+            "updated": 1713812927,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:rC7UdPvO-vY",
+            "title": "Integrate Screen-Sharing Into a SwiftUI App",
+            "link": "https://www.youtube.com/watch?v=rC7UdPvO-vY",
+            "updated": 1713639605,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:q1e0ASeoC5Y",
+            "title": "#Elgato Prompter #shorts",
+            "link": "https://www.youtube.com/watch?v=q1e0ASeoC5Y",
+            "updated": 1713638631,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         },
         {
             "id": "yt:video:Drr1Jog42xY",
             "title": "Build a SwiftUI Voice Messaging App",
             "link": "https://www.youtube.com/watch?v=Drr1Jog42xY",
             "updated": 1712423555,
-            "site_name": "Stream Developers on YouTube"
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:peo8yX6uVD8",
+            "title": "Setup React Native Smoothly on Apple Intel and Silicon Macs",
+            "link": "https://www.youtube.com/watch?v=peo8yX6uVD8",
+            "updated": 1710594530,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:d3Y9kwufJp0",
+            "title": "Using Ollama and Gemma to build an AI meeting summary tool",
+            "link": "https://www.youtube.com/watch?v=d3Y9kwufJp0",
+            "updated": 1710433660,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
+        },
+        {
+            "id": "yt:video:lb_6vUfVAr8",
+            "title": "Building a Video Calling App with Angular Signals (+ integrating RxJS )",
+            "link": "https://www.youtube.com/watch?v=lb_6vUfVAr8",
+            "updated": 1709405654,
+            "site_url": "https://www.youtube.com/channel/UC2xOn0xQj1HIpHJpOy5tvpA"
         }
     ]
 }

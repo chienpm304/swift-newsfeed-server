@@ -1,75 +1,75 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://devsign.co/notes/ios-13-nitfix-wishlist",
             "title": "An iOS 13 Nitpick Wishlist",
             "link": "http://devsign.co/notes/ios-13-nitfix-wishlist",
             "updated": 1558630800,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/navigation-transitions-iv",
             "title": "Custom Navigation Transitions, Part IV: An Interactive Pop Transition",
             "link": "http://devsign.co/notes/navigation-transitions-iv",
             "updated": 1558544400,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/navigation-transitions-iii",
             "title": "Custom Navigation Transitions, Part III: A Complex Push/Pop Animation",
             "link": "http://devsign.co/notes/navigation-transitions-iii",
             "updated": 1558458000,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/navigation-transitions-2",
             "title": "Custom Navigation Transitions, Part II: A Simple Modal",
             "link": "http://devsign.co/notes/navigation-transitions-2",
             "updated": 1557248400,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/navigation-transitions-1",
             "title": "Custom Navigation Transitions, Part I: An Introduction",
             "link": "http://devsign.co/notes/navigation-transitions-1",
             "updated": 1556211600,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/throttle-and-debounce",
             "title": "Throttle &amp; Debounce",
             "link": "http://devsign.co/notes/throttle-and-debounce",
             "updated": 1500310800,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/custom-volume-adjustment-on-ios",
             "title": "Hiding the Volume UI on iOS",
             "link": "http://devsign.co/notes/custom-volume-adjustment-on-ios",
             "updated": 1457542800,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/custom-focus-effects-in-tvos",
             "title": "Creating Focus Effects in tvOS",
             "link": "http://devsign.co/notes/custom-focus-effects-in-tvos",
             "updated": 1456765200,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/grading-an-app-with-a-weighted-gpa",
             "title": "Grading Your App with a Weighted GPA",
             "link": "http://devsign.co/notes/grading-an-app-with-a-weighted-gpa",
             "updated": 1456160400,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         },
         {
             "id": "http://devsign.co/notes/everybody-is-an-edge-case",
             "title": "Eventually, Everybody\u2019s An Edge Case",
             "link": "http://devsign.co/notes/everybody-is-an-edge-case",
             "updated": 1455728400,
-            "site_name": "Devsign"
+            "site_url": "https://devsign.co/"
         }
     ]
 }

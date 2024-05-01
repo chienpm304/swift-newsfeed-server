@@ -1,75 +1,75 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro.html",
             "title": "Vision Accessibility on Apple&nbsp;Vision&nbsp;Pro",
             "link": "https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro.html",
             "updated": 1708261200,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2023/12/30/app-defaults-2024.html",
             "title": "My App Defaults for 2024",
             "link": "https://zmknox.com/2023/12/30/app-defaults-2024.html",
             "updated": 1703948400,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2021/08/21/building-a-donation-tracker-widget.html",
             "title": "Building a Donation Tracker Widget with Scriptable",
             "link": "https://zmknox.com/2021/08/21/building-a-donation-tracker-widget.html",
             "updated": 1629543600,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2021/05/23/thoughts-on-xdr.html",
             "title": "Thoughts on XDR",
             "link": "https://zmknox.com/2021/05/23/thoughts-on-xdr.html",
             "updated": 1621756800,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2020/11/06/stadium-browser-1-2.html",
             "title": "Stadium Browser 1.2",
             "link": "https://zmknox.com/2020/11/06/stadium-browser-1-2.html",
             "updated": 1604678400,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2020/09/28/stadium-full-screen-browser.html",
             "title": "Stadium Full Screen Browser",
             "link": "https://zmknox.com/2020/09/28/stadium-full-screen-browser.html",
             "updated": 1601301600,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2020/08/17/what-if-developer-id-came-to-ios.html",
             "title": "What If Developer ID Came To iOS?",
             "link": "https://zmknox.com/2020/08/17/what-if-developer-id-came-to-ios.html",
             "updated": 1597680000,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2020/05/23/edison-mails-security-nightmare.html",
             "title": "Edison Mail's Security Nightmare",
             "link": "https://zmknox.com/2020/05/23/edison-mails-security-nightmare.html",
             "updated": 1590228000,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2019/04/06/building-an-effective-swift-playground.html",
             "title": "Building an Effective Swift Playground",
             "link": "https://zmknox.com/2019/04/06/building-an-effective-swift-playground.html",
             "updated": 1554555600,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         },
         {
             "id": "https://zmknox.com/2019/03/25/WWDC19-scholarship-application.html",
             "title": "WWDC19 Scholarship Application: Vision Disability Filters",
             "link": "https://zmknox.com/2019/03/25/WWDC19-scholarship-application.html",
             "updated": 1553446800,
-            "site_name": "Zach Knox\u2019s Blog"
+            "site_url": "https://zmknox.com/"
         }
     ]
 }

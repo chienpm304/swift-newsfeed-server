@@ -1,1069 +1,1069 @@
 {
-    "updated": 1714471096,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "70ecba40-e435-4162-aabc-794315d6025a",
             "title": "Apple Event, Where are the Swift live streamers?",
             "link": "https://share.transistor.fm/s/273472ab",
             "updated": 1714293670,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "570b96cd-38b3-4c5a-94b0-e2e35c889ad8",
             "title": "Serverside Swift, Structured Concurrency and more with Joannis Orlandos",
             "link": "https://share.transistor.fm/s/b03077a7",
             "updated": 1713128270,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ef9956a2-ef66-477c-b3d0-bcda194d8472",
             "title": "Matt Van Itallie - Sema software, generative ai and code analysis",
             "link": "https://share.transistor.fm/s/341afa9f",
             "updated": 1712297337,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "0fe7ee92-474a-4169-b9a7-82fc7a9309fb",
             "title": "In the news, WWDC 24, EU Trader or not? Xcode 15 Bugs?",
             "link": "https://share.transistor.fm/s/d5f148ac",
             "updated": 1711786431,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a6cc6d92-37dc-4e38-83dd-824ec8927f49",
             "title": "Create Android apps using Skip.tools and Swift",
             "link": "https://share.transistor.fm/s/2460019b",
             "updated": 1711180915,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "32eed05e-519f-4d99-bc27-161d53be2110",
             "title": "Tips to help introverts and quiet ones survive software development",
             "link": "https://share.transistor.fm/s/df1930e8",
             "updated": 1710069881,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a56382cf-4b44-4c22-9eaf-ca7a8c6e41d5",
             "title": "Dev log - Make that app design better for the users",
             "link": "https://share.transistor.fm/s/5abfe104",
             "updated": 1708861877,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "8597f59e-1b01-4efa-96f3-7d7190bf23ed",
             "title": "Adding Game Center to your apps and games",
             "link": "https://share.transistor.fm/s/1135ee5a",
             "updated": 1708267950,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e8b4142c-1293-445f-b09c-300c1402fcd2",
             "title": "Developer struggles and getting through them",
             "link": "https://share.transistor.fm/s/90249366",
             "updated": 1707731884,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ddddb2b7-009a-4e7f-bc74-c7427e9779a8",
             "title": "VisionPro Ships, first impressions, AppStore changes for the EU and US",
             "link": "https://share.transistor.fm/s/e0070907",
             "updated": 1707037753,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "203f4279-7121-4fc0-b43e-fad5ba09d51b",
             "title": "Live streaming as a developer with FullQueueDeveloper",
             "link": "https://share.transistor.fm/s/56ebce29",
             "updated": 1706260509,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "6947e5ee-839a-4f58-8d83-e3e4ea5c1b57",
             "title": "macOS Virtual Machines with Bushel, and SwiftData with Leo Dion",
             "link": "https://share.transistor.fm/s/32b702dd",
             "updated": 1705171008,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "67793c6e-8d7c-4b4c-8a18-f7456983f384",
             "title": "First steps with SwiftData",
             "link": "https://share.transistor.fm/s/46802671",
             "updated": 1704538147,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "48719ad3-aa23-4d9a-aa36-174e11515857",
             "title": "Reflecting on 2023 and looking ahead to 2024",
             "link": "https://share.transistor.fm/s/02fd1e4f",
             "updated": 1703672111,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ceca81cc-9390-4391-a966-fdb7faf8dbb2",
             "title": "Important livestream update",
             "link": "https://share.transistor.fm/s/271e250d",
             "updated": 1702100147,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ab324616-60f4-4ef9-922e-b63d7d490180",
             "title": "Muse and Developer Duck with Adam Wulf",
             "link": "https://share.transistor.fm/s/435ab4f9",
             "updated": 1701507205,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "366c9e2c-2633-452a-a976-b468c5fd940c",
             "title": "Talking source code protection and end of year job hunting advice",
             "link": "https://share.transistor.fm/s/c27f12ca",
             "updated": 1700998891,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "10e59c27-80fd-44c2-b7db-25644becbd45",
             "title": "Create Android apps with Swift and Xcode",
             "link": "https://share.transistor.fm/s/3f9e9ba2",
             "updated": 1700300629,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "fcab95bf-5727-473d-9c30-55b16ca16903",
             "title": "New Macs and some cool AI tools",
             "link": "https://share.transistor.fm/s/97a4af2a",
             "updated": 1699005359,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ac0e2eed-b94d-4fdd-9ddf-32bad644272c",
             "title": "Listener question - Choosing when to fix a bug or ship?",
             "link": "https://share.transistor.fm/s/7f913e12",
             "updated": 1697907519,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "1ef7432f-0c0c-4e4f-a139-373ad9971f74",
             "title": "My thoughts on Swift bindings in Godot",
             "link": "https://share.transistor.fm/s/6aea56e2",
             "updated": 1697350002,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "473b2756-6aef-4718-890b-b0af092a01d1",
             "title": "Vision Pro and visionOS development with Geoff Pado - Part 2",
             "link": "https://share.transistor.fm/s/4fa1f03a",
             "updated": 1696573422,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "86128bca-1efc-456a-85de-105fe4153b61",
             "title": "Vision Pro and visionOS development with Geoff Pado - Part 1",
             "link": "https://share.transistor.fm/s/5db6d94b",
             "updated": 1695958369,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "827f436d-8e75-4a20-862e-0dfe2e448bb4",
             "title": "Help and advice for young developers with Mia Kotalik",
             "link": "https://share.transistor.fm/s/708eb85d",
             "updated": 1695319200,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "9dbd664b-92a8-4132-8aa2-a59d199dbd02",
             "title": "Bonus episode - New OS releases and my iPhone 15 choice",
             "link": "https://share.transistor.fm/s/580f9b30",
             "updated": 1695023361,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "240ada00-24a9-4b96-a8f1-82a0759129ce",
             "title": "Keeping software simple with Brian Childress",
             "link": "https://share.transistor.fm/s/92824907",
             "updated": 1694747394,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a03840c4-2f52-44eb-8225-d0d8423bb31f",
             "title": "Passion Projects, Programming, and Planes with Ivan Novak",
             "link": "https://share.transistor.fm/s/4993b650",
             "updated": 1694253248,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e38005a9-1d81-4880-962b-4c26d03255e1",
             "title": "No-code solutions and development with Xano.com",
             "link": "https://share.transistor.fm/s/22e4c89d",
             "updated": 1692996499,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f1681faf-03ce-4ec7-b3da-7a89c0332f28",
             "title": "Want Your App To Be Approved By Apple, Make Sure You Have These!",
             "link": "https://share.transistor.fm/s/8eb29e87",
             "updated": 1691992860,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "24e60f33-5f31-4484-9c62-f818717f8429",
             "title": "When the memory leaks and you sink or swim",
             "link": "https://share.transistor.fm/s/28d82a11",
             "updated": 1691090077,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e9ba5716-64b8-4716-9441-9b02d1f0fbbc",
             "title": "RocketSim with creator Antoine van der Lee",
             "link": "https://share.transistor.fm/s/ba15b632",
             "updated": 1690477500,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ccca7c32-930f-44bc-949f-ff17783dc9ca",
             "title": "Daniil Strizhov - Amazon developer, working with big code bases and teams",
             "link": "https://share.transistor.fm/s/3ce51cca",
             "updated": 1689876000,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "3656f244-1808-43fc-8138-28a771eee230",
             "title": "Automation and platforms with Ramiro Berrelleza",
             "link": "https://share.transistor.fm/s/a9891238",
             "updated": 1689271208,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "6ddd7e66-c481-4e12-bce3-41b263d280c3",
             "title": "Why you should not fear technical interviews",
             "link": "https://share.transistor.fm/s/03275db2",
             "updated": 1687642462,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "8a61266f-740a-42ac-9fa1-3189d9cbead4",
             "title": "WWDC23 Thoughts, two weeks later",
             "link": "https://share.transistor.fm/s/97d4ba82",
             "updated": 1687085070,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "350b391a-59b0-49cf-8d19-ec435a962a53",
             "title": "Apple WWDC23 Keynote reactions and analysis with Leo G. Dion",
             "link": "https://share.transistor.fm/s/8a8ca776",
             "updated": 1685983950,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "2e2fb098-01fd-4f7d-91e2-78954032a57f",
             "title": "When ZStacks go mad",
             "link": "https://share.transistor.fm/s/16f12010",
             "updated": 1684822320,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "54793370-03e4-4a19-85c3-07ee21161cfe",
             "title": "My first paid app and what to work on before WWDC23",
             "link": "https://share.transistor.fm/s/6a250438",
             "updated": 1684218300,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "eb96c879-184e-4cdb-b366-08cd02951f85",
             "title": "Don't buy it, build it",
             "link": "https://share.transistor.fm/s/3ba9af25",
             "updated": 1683535316,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "5c3de448-e8f9-4c21-8c8d-6116cdbe24e7",
             "title": "Interview with Geoff Pado",
             "link": "https://share.transistor.fm/s/232c19be",
             "updated": 1682023821,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "d90a06a2-2429-425a-9a0a-eef7c1ea9166",
             "title": "WWDC23, OS updates and a new app release from me",
             "link": "https://share.transistor.fm/s/57df9744",
             "updated": 1680243654,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f98571b8-d2f7-42f4-9ae9-b887d6392ecc",
             "title": "Joel Kin - Querl GraphQL library for Swift",
             "link": "https://share.transistor.fm/s/7fd6177a",
             "updated": 1678991340,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "80958a40-84c8-4386-bb2d-6f045f944cc0",
             "title": "Do you have an onboarding system for users?",
             "link": "https://share.transistor.fm/s/b8c5b5c7",
             "updated": 1678465904,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4ff1b0ed-1916-4310-93c3-7e6e62670c6e",
             "title": "What a week that was, is it over?",
             "link": "https://share.transistor.fm/s/07082547",
             "updated": 1677322834,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "40f553c7-0b3f-4f9e-8174-e6b4e00761a5",
             "title": "Where to get started learning Apple development",
             "link": "https://share.transistor.fm/s/7857cefb",
             "updated": 1676044419,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "643bc93c-3449-4662-9497-725795349c46",
             "title": "Richard Zarth - Developer and Mentor, Really Simple Arcade and helping others",
             "link": "https://share.transistor.fm/s/db72a1a7",
             "updated": 1674756685,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "85bb6229-f202-4354-b988-9d4f211f7257",
             "title": "Marin Todorov - dataTile and SwiftUI in Production",
             "link": "https://share.transistor.fm/s/b0448a74",
             "updated": 1673550000,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ab992b22-c6e4-4f06-90f1-ea5235c408eb",
             "title": "2023 development goals and looking ahead",
             "link": "https://share.transistor.fm/s/207e431a",
             "updated": 1672948353,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e8e69047-a624-49df-8bbd-c5f8ca1a4d58",
             "title": "My end of year review of my development year",
             "link": "https://share.transistor.fm/s/6e8be30b",
             "updated": 1670788800,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "54ee32d6-e9eb-4305-90fe-fd7fed2a3759",
             "title": "Black Friday suggestions to invest in you",
             "link": "https://share.transistor.fm/s/d424a5ca",
             "updated": 1669020165,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4001b331-826f-424e-ada1-7fd7dddac64b",
             "title": "Prototyping with SwiftUI",
             "link": "https://share.transistor.fm/s/7e1f92ba",
             "updated": 1668010520,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "1e267d95-aa4b-4fb5-8334-32fbea97a4dd",
             "title": "It is OK to write ugly code when time runs out",
             "link": "https://share.transistor.fm/s/2be37754",
             "updated": 1666541364,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "79e10f86-efa6-478e-99ea-a4b6292f8ac3",
             "title": "Developer life and mental health with Jay Wilson",
             "link": "https://share.transistor.fm/s/29085caf",
             "updated": 1665338400,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "44bcf3c7-1889-44a7-a900-0b1853d59905",
             "title": "Perpetual beta life",
             "link": "https://share.transistor.fm/s/cbcca4db",
             "updated": 1664217928,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4d494e59-ff65-43e2-93f3-6c8164832986",
             "title": "Using Process() to run terminal commands in Apps. + Don't give up in the beginning",
             "link": "https://share.transistor.fm/s/830e0694",
             "updated": 1663612576,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "fb8b717c-8045-457d-88c7-11ae86424a95",
             "title": "iOS 16, New Hardware, Developer Tools in a Virtual Machine",
             "link": "https://share.transistor.fm/s/56936190",
             "updated": 1663018239,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b643a322-9603-42b1-b556-ca04bde44327",
             "title": "New OS versions are on the way, let's talk back up strategy",
             "link": "https://share.transistor.fm/s/0d7fe297",
             "updated": 1662400800,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "444f2071-ab03-421a-9e16-886ca5146f1d",
             "title": "Developer Journal - Update all the things",
             "link": "https://share.transistor.fm/s/541674a8",
             "updated": 1661686321,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "05a68396-67ed-49bc-9107-de2148eb0eb4",
             "title": "Preparing to ship, some tips to avoid a disaster in the App Store",
             "link": "https://share.transistor.fm/s/75b092a3",
             "updated": 1660767276,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ee05bc18-aa1c-46f0-9115-8725060cc3c0",
             "title": "Developer journal - beta 5, project and livestream community updates",
             "link": "https://share.transistor.fm/s/83d82c9b",
             "updated": 1659990669,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "635e0a2b-b123-423c-afa2-777f9af2acfc",
             "title": "SwiftUI and CoreData, a delightful surprise",
             "link": "https://share.transistor.fm/s/5231eee2",
             "updated": 1658779100,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "79df299c-b528-4117-87c9-b4db44c311d1",
             "title": "News, Updates, and a new app",
             "link": "https://share.transistor.fm/s/2ef42216",
             "updated": 1658170800,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "7ac9102b-1d2e-491a-91d9-e3e64ab4e65e",
             "title": "Tools I use every day",
             "link": "https://share.transistor.fm/s/5f98e128",
             "updated": 1657479600,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cb457b06-e2d4-402b-9733-97f57b215669",
             "title": "How to communicate and educate people at all levels of understanding.",
             "link": "https://share.transistor.fm/s/1c5faa9a",
             "updated": 1656406314,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "9b81bbd5-70aa-4c00-9739-fe8edb61ba4d",
             "title": "The best bits of Xcode 14?",
             "link": "https://share.transistor.fm/s/b73e9af1",
             "updated": 1655140847,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "3bad2deb-fb37-468d-94f0-15bd2ca58e6a",
             "title": "WWDC22 Keynote Discussion with Leo Dion",
             "link": "https://share.transistor.fm/s/893063f2",
             "updated": 1654599112,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "07f7e50a-e3db-415a-bd08-96af6653a210",
             "title": "Pre-WWDC22 Advice preparing for the conference",
             "link": "https://share.transistor.fm/s/95ebc8e0",
             "updated": 1654193167,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f9fdbc99-5414-4a63-8356-c670a583d75f",
             "title": "Goodbye iPod, hello new OS versions and more.",
             "link": "https://share.transistor.fm/s/0829e7cb",
             "updated": 1652781109,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c05195bb-6364-4d38-b662-50370687cf82",
             "title": "App Store Spring Cleaning, My Thoughts",
             "link": "https://share.transistor.fm/s/01d3869c",
             "updated": 1651562882,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b116da03-64fa-4ea3-ac2c-375c86c6277e",
             "title": "New Xcode, Xcode version management, WWDC22",
             "link": "https://share.transistor.fm/s/e4ac9a04",
             "updated": 1649705841,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a02afdee-f8fb-426f-bac9-2e5805de40f2",
             "title": "Listener Question - SwiftUI or UIKit? When and how to make the transition",
             "link": "https://share.transistor.fm/s/9a08a7c1",
             "updated": 1648906110,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c1e1e22e-35e8-47fa-81af-cf5811a75f80",
             "title": "Mac Studio, New Releases, New Communities",
             "link": "https://share.transistor.fm/s/8c7fd745",
             "updated": 1647801819,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "eb660b90-1334-4988-9e56-eb571347d42f",
             "title": "Tips for taking care of you",
             "link": "https://share.transistor.fm/s/94d7cb7e",
             "updated": 1645864078,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "d81bd54e-2e25-4128-832a-73da8e4b7d91",
             "title": "3 Ways to improve developer skills",
             "link": "https://share.transistor.fm/s/5ed9b8e5",
             "updated": 1643910038,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4e19430d-5fb5-4fa3-869b-64ed2f650bfd",
             "title": "I didn't know that I didn't know",
             "link": "https://share.transistor.fm/s/3e986122",
             "updated": 1643018079,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b9646569-9b65-4039-bafb-9e8d0c5d1046",
             "title": "The live stream community game project and how you can join in",
             "link": "https://share.transistor.fm/s/7ac399ba",
             "updated": 1642072428,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e49241ff-e65a-4f19-94f9-3b61ac4ae307",
             "title": "2021 Wrap Up",
             "link": "https://share.transistor.fm/s/bf1199f0",
             "updated": 1640346940,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4f30e1c0-8797-45a1-ad98-896aefdef7d8",
             "title": "Apple new OS and Xcode releases, My figma exploration",
             "link": "https://share.transistor.fm/s/10127414",
             "updated": 1639389523,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "989e7c2c-281e-4652-bf8a-fd83d82e4bfa",
             "title": "Back in the Pod seat with MacBook Pro 14 Experiences",
             "link": "https://share.transistor.fm/s/0564cee7",
             "updated": 1638088388,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4768be61-3f08-4397-a7ae-0c2296dd2e72",
             "title": "WatchOS 8.1.1, Dev Machine Set Up, Server-Events, Memory Leaks, and Git Linting",
             "link": "https://share.transistor.fm/s/03789efd",
             "updated": 1637441304,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "74cbcea3-4974-412a-ba9f-c0e49ab9cb54",
             "title": "News updates and packages",
             "link": "https://share.transistor.fm/s/d94b572b",
             "updated": 1635927097,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a71ecf1b-1bd1-45e0-bbf0-7f8376d575d7",
             "title": "Create a macOS Monterey USB Installer",
             "link": "https://share.transistor.fm/s/46497d5f",
             "updated": 1635155704,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "3c8e996b-25d3-4cf1-89d4-1a7152a45f9f",
             "title": "Apple MacBook Pro Event, Trick or Treat?",
             "link": "https://share.transistor.fm/s/88f4908c",
             "updated": 1634545387,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "85e4436b-3fe1-4e3c-8375-d4b6ee1e4cf9",
             "title": "Swift packages and tools to improve productivity",
             "link": "https://share.transistor.fm/s/324d033f",
             "updated": 1634148021,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e50598d0-4ad6-473c-9f8c-6f1eafba25f7",
             "title": "Cool Swift Packages, Xcode 13, My *15 OS thoughts",
             "link": "https://share.transistor.fm/s/9bfdcc5a",
             "updated": 1633030106,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "378e00e8-170c-4dda-bd6b-b41772a28442",
             "title": "Apple Sept. 14th Event Details",
             "link": "https://share.transistor.fm/s/5e3237a8",
             "updated": 1631604670,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f4de60f8-ddbe-4c4b-8ba5-e2324ee1b0e5",
             "title": "Users care about experience not technology",
             "link": "https://share.transistor.fm/s/0919becf",
             "updated": 1630489140,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "8e155744-4567-4862-8dfd-0942ee29729e",
             "title": "Let's talk about version numbers",
             "link": "https://share.transistor.fm/s/b92c42a5",
             "updated": 1629312304,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "56e987bc-05c9-47d6-ac70-6a45ade7295e",
             "title": "Lessons learned converting Sketch to SwiftUI",
             "link": "https://share.transistor.fm/s/26e912b4",
             "updated": 1628575572,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f89e1a60-b76a-42aa-af83-8e1cf9bc9d44",
             "title": "Listener Question - Learn and use UIKit or SwiftUI?",
             "link": "https://share.transistor.fm/s/2bf603f6",
             "updated": 1627818884,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b20a1707-c301-407d-82ef-3a6db2204b6e",
             "title": "Updates, Betas, Streamers",
             "link": "https://share.transistor.fm/s/94b9e8d0",
             "updated": 1626776904,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "653208a8-a19b-4a3f-9477-dbd9858bfb56",
             "title": "Tips on maintaining a healthy code base and why it matters",
             "link": "https://share.transistor.fm/s/acee3c73",
             "updated": 1626118396,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "bc2c516b-e391-42f8-9ebf-cb5f4be57845",
             "title": "Listener question - What do I think about coding boot camps?",
             "link": "https://share.transistor.fm/s/b62cde10",
             "updated": 1625421463,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "0a9246d8-af42-4798-af77-889bef13963f",
             "title": "Installing macOS Monterey on an external drive",
             "link": "https://share.transistor.fm/s/24058de4",
             "updated": 1624796742,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "0731ce81-3f69-4846-aaad-9ecc16c90133",
             "title": "Swift and SwiftUI Test Driven Development with Gio Lodi",
             "link": "https://share.transistor.fm/s/c61dbfd7",
             "updated": 1624302043,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "dff353e7-43de-48a8-b86b-3871ca4ca57e",
             "title": "Trailer",
             "link": "https://share.transistor.fm/s/c1a7b1b6",
             "updated": 1623576599,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "bb5d8a0f-cef6-4ee6-b0dc-bf9460ba1542",
             "title": "WWDC21 Thoughts",
             "link": "https://share.transistor.fm/s/c6dbb2ec",
             "updated": 1623571436,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "d2922bb4-4985-45dd-aa6b-d616de02f46e",
             "title": "WWDC21 Keynote reactions with Leo Dion",
             "link": "https://share.transistor.fm/s/3fb7ae36",
             "updated": 1623136152,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "bb21f8da-5265-4070-be44-d8eb562e64c8",
             "title": "The one about Apple, Developers, and how we get through it",
             "link": "https://share.transistor.fm/s/3b582ab0",
             "updated": 1622813825,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "1c14673c-55ea-495e-bb71-141ae341f28c",
             "title": "What is an MVP and why you should make one",
             "link": "https://share.transistor.fm/s/99c936ef",
             "updated": 1622438007,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cf20ab75-d947-4eb8-9481-f3d1e87554cc",
             "title": "It starts with an export and ends with an import",
             "link": "https://share.transistor.fm/s/35a30b0f",
             "updated": 1621764947,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "66f56aa7-7449-4752-bb41-e53e95e5e5aa",
             "title": "WWDC21 Wishes, Maybes, Probably Nots",
             "link": "https://share.transistor.fm/s/5bb88bb2",
             "updated": 1621174358,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ff01b8e8-5c65-47eb-8354-f8ccdd0dbbc6",
             "title": "Update on the iPad Pro smart keyboard, Laptop colors? Streaming, New video series, GitHub Actions",
             "link": "https://share.transistor.fm/s/1ed9af96",
             "updated": 1620543687,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "0aafd0e1-9ea0-43b2-ba90-a8ecd9b28a15",
             "title": "Now with live code streaming!",
             "link": "https://share.transistor.fm/s/f772cb7f",
             "updated": 1620023057,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c866065a-b509-4606-bcc8-69f8dca656b4",
             "title": "Apple Event Details including super-powerful iPad Pros and iMac Flavors.",
             "link": "https://share.transistor.fm/s/b9fc8aed",
             "updated": 1619329800,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "2c1a029e-8e51-45ff-be5d-6982793cba76",
             "title": "Growing up unafraid in public as a developer",
             "link": "https://share.transistor.fm/s/fc7f7201",
             "updated": 1618665606,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ecc12a18-a255-4e66-9817-fdcc9d279d5c",
             "title": "WWDC21 Details have been released. I have theories on the images...",
             "link": "https://share.transistor.fm/s/9ac0c9ea",
             "updated": 1617127587,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "bde45234-fdfa-41b0-a690-411ccc5ddb3e",
             "title": "Using the EnvironmentObject to make data available to SwiftUI views",
             "link": "https://share.transistor.fm/s/7dd7b583",
             "updated": 1616354226,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c2c186c1-64e9-4d47-a46a-894f18769c37",
             "title": "Apple says end of life for a couple of machines. Hardware rumors and don't whisper secrets.",
             "link": "https://share.transistor.fm/s/95a26d51",
             "updated": 1615668262,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "69394be0-7c1a-4623-a100-fd04d119d58d",
             "title": "My M1 Mac Mini Set up Experiences and Tips",
             "link": "https://share.transistor.fm/s/60aede68",
             "updated": 1614546000,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c4497367-e3c3-4ed5-85de-1bd059caec02",
             "title": "App Now, Platform Later",
             "link": "https://share.transistor.fm/s/589c7c25",
             "updated": 1613206193,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "798dd0eb-f88f-432f-a600-3f39c717d5aa",
             "title": "Xcode 12.5 Beta, Swift 5.4, Testing Tips, SwiftUI Loops, Homebrew 3.0.0",
             "link": "https://share.transistor.fm/s/a016ba52",
             "updated": 1612731600,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cb221c21-2997-49cb-a05f-3d75cb7e25b2",
             "title": "Let's face it head on and talk about Apple certificates and profiles",
             "link": "https://share.transistor.fm/s/bea1dfce",
             "updated": 1611551920,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cbaee6e1-3316-4414-b2a4-93475d4eb791",
             "title": "Swift package creation Impressions and SwiftUI frustration",
             "link": "https://share.transistor.fm/s/c6a6b2e7",
             "updated": 1610881354,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "3fc08ad1-03e7-4afb-8dff-13a2368e2271",
             "title": "What\u2019s Your Plan for 2021 Development?",
             "link": "https://share.transistor.fm/s/ef416f82",
             "updated": 1609617600,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "4be5d2bf-cde3-46ff-b367-5b5341f19d67",
             "title": "Happy Swiftmas Edition",
             "link": "https://share.transistor.fm/s/85becbaf",
             "updated": 1608799506,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "945a73b5-ebd0-4a55-97e4-a4f78cb70f28",
             "title": "AppStore Small Business Submission, HomeBrew M1, Conditional SwiftUI Modifiers",
             "link": "https://share.transistor.fm/s/746ae2c3",
             "updated": 1607274178,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cc71f0ff-9f82-48ba-b716-f4d297d6c710",
             "title": "Apple M1 Chips, Big Sur, Xcode Updates, App Store 15%, Which iPhone Did I Get? App Pick",
             "link": "https://share.transistor.fm/s/27bd69b6",
             "updated": 1605955410,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b3740e05-51a7-4069-9062-f62e68924260",
             "title": "News on hardware and software coming next week",
             "link": "https://share.transistor.fm/s/5850a940",
             "updated": 1604773221,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "228309dd-ac06-40af-b28a-27518dcc252c",
             "title": "Code Refactoring Reasons and Tips",
             "link": "https://share.transistor.fm/s/1acae0be",
             "updated": 1603543948,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b502f0fb-cf3b-4b8f-86e5-5ac058df750d",
             "title": "XcodeGen - Xcode project file generator tool",
             "link": "https://share.transistor.fm/s/b2fb76b9",
             "updated": 1602430376,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e805151d-7682-4990-abc5-b5b78f489b56",
             "title": "Apple October Event, iPhones, Mac's and ? Plus Hacktoberfest is here",
             "link": "https://share.transistor.fm/s/973aebb1",
             "updated": 1601992250,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "dd992601-2bf7-4b41-8539-e01f4f74f9bf",
             "title": "Apple September 15th Event, all the things. Well, almost.",
             "link": "https://share.transistor.fm/s/ac3cb75f",
             "updated": 1600161740,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "43615696-ccca-4884-a48b-9713e14542c5",
             "title": "AppStore review process change for existing apps.",
             "link": "https://share.transistor.fm/s/cef0351c",
             "updated": 1598896248,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f988f16b-ab0e-46d3-bde5-63d5579443ca",
             "title": "What's Happening to Apple Developer Relationships?",
             "link": "https://share.transistor.fm/s/1db97dbc",
             "updated": 1597044142,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "59e5e383-99c7-4963-8577-85d664bf59d5",
             "title": "Pushing to the App Store checklist for production build",
             "link": "https://share.transistor.fm/s/17c935b1",
             "updated": 1596186845,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "c6102421-25d3-4864-abd7-cc146d8bedb8",
             "title": "Experiences with Big Sur and Xcode beta 2",
             "link": "https://share.transistor.fm/s/a3444fcf",
             "updated": 1595104107,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "3eb4fc5c-28e4-4d88-ae1b-9fb3f51724e6",
             "title": "Dub Dub & Away + Developer Journal",
             "link": "https://share.transistor.fm/s/bdb0714a",
             "updated": 1593667546,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ab3343ad-f458-47bd-aba1-cb89962ce3d1",
             "title": "We have dates and times of WWDC20 Sessions",
             "link": "https://share.transistor.fm/s/8e19be99",
             "updated": 1592161908,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e44e81bd-49d7-4574-98ee-56680566efcd",
             "title": "New videos on SwiftUI and a couple of cool podcasts",
             "link": "https://share.transistor.fm/s/c543bca0",
             "updated": 1590949980,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "5f290238-6b5b-4464-ac1c-f532e6852bb6",
             "title": "WWDC20 More News",
             "link": "https://share.transistor.fm/s/d792e4ee",
             "updated": 1589050674,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "eb6d31cc-a864-4b36-a296-5a989489e407",
             "title": "Sharing Data Across Multiple SwiftUI Views",
             "link": "https://share.transistor.fm/s/8fbf04d6",
             "updated": 1586716599,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "b7de3823-4202-4baa-a614-7dd72e714129",
             "title": "iPad gets a cursor plus how much is that magic in the window?",
             "link": "https://share.transistor.fm/s/a9cf2101",
             "updated": 1584944090,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "ade53cd5-2381-4a98-8b0c-eb719bec9dfb",
             "title": "WWDC 20 and Exclusive Patreon Content",
             "link": "https://share.transistor.fm/s/d09671ab",
             "updated": 1584292237,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "64042513-02a2-4751-b7dc-c36136f2e778",
             "title": "macOS menu programming & test those apps!",
             "link": "https://share.transistor.fm/s/4291e60d",
             "updated": 1581854300,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "98548c7f-ba7f-44dc-a828-87445c3e4694",
             "title": "Xcode 11.4 Beta is big news",
             "link": "https://share.transistor.fm/s/be85ff68",
             "updated": 1581263179,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f0a42cbe-1991-49c8-9b20-06175b3b5d70",
             "title": "What is preventing that next app poll results and Speculid asset generator",
             "link": "https://share.transistor.fm/s/67c7997e",
             "updated": 1580663724,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e0d8cb5d-4829-4ca7-9705-7c8b83a45fa5",
             "title": "Swift 5.2, SwiftUI Better Debugging, UI and Unit Testing",
             "link": "https://share.transistor.fm/s/7a2acb31",
             "updated": 1578814224,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "cc77399e-e91e-427d-b7c6-75f5d5dc3ebf",
             "title": "My MacBook Pro 16 Decision Process. New Year, New Hopes",
             "link": "https://share.transistor.fm/s/1f324f84",
             "updated": 1578131039,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "530039ae-1764-8448-e2cb-2118a870623a",
             "title": "5 Tips for moving from Xcode 10 to 11",
             "link": "https://share.transistor.fm/s/7d9ac776",
             "updated": 1576464048,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "704de083-6293-7f55-06c7-6775d08d58b6",
             "title": "Use Black Friday deals to educate and improve your skills",
             "link": "https://share.transistor.fm/s/f855b84e",
             "updated": 1574924824,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f34a2075-2e92-e4fd-3213-306f4a483475",
             "title": "Three reasons to use source control",
             "link": "https://share.transistor.fm/s/fa7e521b",
             "updated": 1573382167,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "81947099-b304-4a00-eb87-4ab503e6c944",
             "title": "Should Apple Still Release Yearly OS'?",
             "link": "https://share.transistor.fm/s/c68dedb4",
             "updated": 1570972021,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "a5767f3a-bea0-dc77-bd2b-9d77b56a9892",
             "title": "iOS 13 and iPadOS 13.1 Releases, Backing Up iPad Correctly, SwiftUI Plans",
             "link": "https://share.transistor.fm/s/307618ce",
             "updated": 1569254847,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "d1518472-8ef5-c26b-808f-339d0235dd3c",
             "title": "Apple September 2019 Announcements. - iPhone 11, Watch Series 5, 7th Generation iPads",
             "link": "https://share.transistor.fm/s/5c5da1e3",
             "updated": 1568105576,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "f3c7f095-0686-cace-d15b-c28266b882ec",
             "title": "Apple September Event, iOS/iPadOS 13.1? Plus my macOS Catalina Beta 7 Experiences",
             "link": "https://share.transistor.fm/s/fcdb2def",
             "updated": 1567241481,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "e63f9256-4fe9-6a6b-d4ea-a9b3e0770493",
             "title": "State of the beta's and Foo Foo over Features",
             "link": "https://share.transistor.fm/s/d08a7017",
             "updated": 1566123466,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "671c5d29-1bab-7da0-61be-37b64370b1e9",
             "title": "Swift Package Manager and Xcode",
             "link": "https://share.transistor.fm/s/a777915a",
             "updated": 1564322922,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "5b5a8f51-578a-4a73-41dd-f7c1899ff4f9",
             "title": "SwiftUI Observations",
             "link": "https://share.transistor.fm/s/a9463619",
             "updated": 1561486821,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "5adb1d7e-bc35-f49c-3176-7060de69216a",
             "title": "App Store Connect, TestFlight and App Store Changes",
             "link": "https://share.transistor.fm/s/a340c0af",
             "updated": 1560490624,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "efc01e30-c6a3-a7e3-4785-270ed6021441",
             "title": "Xcode 11 Changes and Features",
             "link": "https://share.transistor.fm/s/5decb681",
             "updated": 1559857303,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         },
         {
             "id": "7badef50-9958-22af-53de-c871f24f48c5",
             "title": "Apple WWDC 2019 Announcements",
             "link": "https://share.transistor.fm/s/38152ba8",
             "updated": 1559592809,
-            "site_name": "Compile Swift"
+            "site_url": "https://www.compileswift.com/"
         }
     ]
 }

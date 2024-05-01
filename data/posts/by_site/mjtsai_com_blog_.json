@@ -1,705 +1,705 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://mjtsai.com/blog/?p=42969",
             "title": "Janky Apple ID Security",
             "link": "https://mjtsai.com/blog/2024/04/26/janky-apple-id-security/",
             "updated": 1714156411,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42942",
             "title": "FTC Bans Noncompetes",
             "link": "https://mjtsai.com/blog/2024/04/25/ftc-bans-noncompetes/",
             "updated": 1714054755,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42940",
             "title": "FCC Reinstates Network Neutrality",
             "link": "https://mjtsai.com/blog/2024/04/25/fcc-reinstates-network-neutrality/",
             "updated": 1714054746,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42938",
             "title": "Alexa Copyright Violations",
             "link": "https://mjtsai.com/blog/2024/04/25/alexa-copyright-violations/",
             "updated": 1714054738,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42914",
             "title": "TikTok Ban",
             "link": "https://mjtsai.com/blog/2024/04/24/tiktok-ban/",
             "updated": 1713955762,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42912",
             "title": "Extending Section 702 of FISA",
             "link": "https://mjtsai.com/blog/2024/04/24/extending-section-702-of-fisa/",
             "updated": 1713955752,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42909",
             "title": "Elegant Concurrency Operations in Core Data",
             "link": "https://mjtsai.com/blog/2024/04/23/elegant-concurrency-operations-in-core-data/",
             "updated": 1713874574,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42907",
             "title": "Charles Edge, RIP",
             "link": "https://mjtsai.com/blog/2024/04/23/charles-edge-rip/",
             "updated": 1713874570,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42905",
             "title": "Fairphone Fairbuds",
             "link": "https://mjtsai.com/blog/2024/04/23/fairphone-fairbuds/",
             "updated": 1713874567,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42900",
             "title": "How to Use Experimental Swift Versions and Features in Xcode",
             "link": "https://mjtsai.com/blog/2024/04/22/how-to-use-experimental-swift-versions-and-features-in-xcode/",
             "updated": 1713794216,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42898",
             "title": "Apple Maps in Tokyo",
             "link": "https://mjtsai.com/blog/2024/04/22/apple-maps-in-tokyo/",
             "updated": 1713794210,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42896",
             "title": "Hackintosh Is Almost Dead",
             "link": "https://mjtsai.com/blog/2024/04/22/hackintosh-is-almost-dead/",
             "updated": 1713794184,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42894",
             "title": "The Apple Jonathan",
             "link": "https://mjtsai.com/blog/2024/04/22/the-apple-jonathan/",
             "updated": 1713794175,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42892",
             "title": "Apple Removes Messaging Apps From Chinese App Store",
             "link": "https://mjtsai.com/blog/2024/04/19/apple-removes-messaging-apps-from-chinese-app-store/",
             "updated": 1713532173,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42890",
             "title": "VLC vs. the App Stores",
             "link": "https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/",
             "updated": 1713532167,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42888",
             "title": "Color Kobo E-readers",
             "link": "https://mjtsai.com/blog/2024/04/19/color-kobo-e-readers/",
             "updated": 1713532155,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42886",
             "title": "Optimizing WebKit & Safari for Speedometer 3.0",
             "link": "https://mjtsai.com/blog/2024/04/19/optimizing-webkit-safari-for-speedometer-3-0/",
             "updated": 1713532144,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42884",
             "title": "Daniel C. Lynch, RIP",
             "link": "https://mjtsai.com/blog/2024/04/18/daniel-c-lynch-rip/",
             "updated": 1713467909,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42882",
             "title": "Legibility and San Francisco",
             "link": "https://mjtsai.com/blog/2024/04/18/legibility-and-san-francisco/",
             "updated": 1713467899,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42880",
             "title": "Why Has Figma Reinvented the Wheel with PostgreSQL?",
             "link": "https://mjtsai.com/blog/2024/04/18/why-has-figma-reinvented-the-wheel-with-postgresql/",
             "updated": 1713467874,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42878",
             "title": "Cryptocurrency Apple Antitrust Lawsuit",
             "link": "https://mjtsai.com/blog/2024/04/18/cryptocurrency-apple-antitrust-lawsuit/",
             "updated": 1713467849,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42875",
             "title": "It\u2019s Time for a New AirPort",
             "link": "https://mjtsai.com/blog/2024/04/17/its-time-for-a-new-airport/",
             "updated": 1713348263,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42873",
             "title": "macOS 14 Sonoma vs. exFAT",
             "link": "https://mjtsai.com/blog/2024/04/17/macos-14-sonoma-vs-exfat/",
             "updated": 1713348251,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42871",
             "title": "Jpegli",
             "link": "https://mjtsai.com/blog/2024/04/17/jpegli/",
             "updated": 1713348241,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42869",
             "title": "Rediscovering CardDAV",
             "link": "https://mjtsai.com/blog/2024/04/17/rediscovering-carddav/",
             "updated": 1713348219,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42867",
             "title": "Twitter\u2019s Pivot to x.com Is a Gift to Phishers",
             "link": "https://mjtsai.com/blog/2024/04/16/twitters-pivot-to-x-com-is-a-gift-to-phishers/",
             "updated": 1713300348,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42865",
             "title": "The Apple curl Security Incident",
             "link": "https://mjtsai.com/blog/2024/04/16/the-apple-curl-security-incident/",
             "updated": 1713300338,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42863",
             "title": "The Race to Replace Redis",
             "link": "https://mjtsai.com/blog/2024/04/16/the-race-to-replace-redis/",
             "updated": 1713300317,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42861",
             "title": "Mojo Is Open Source",
             "link": "https://mjtsai.com/blog/2024/04/16/mojo-is-open-source/",
             "updated": 1713300306,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42858",
             "title": "The Demise of Email Forwarding Is Getting Closer",
             "link": "https://mjtsai.com/blog/2024/04/15/the-demise-of-email-forwarding-is-getting-closer/",
             "updated": 1713186225,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42856",
             "title": "NSTableView With SwiftUI",
             "link": "https://mjtsai.com/blog/2024/04/15/nstableview-with-swiftui/",
             "updated": 1713186055,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42854",
             "title": "Keeping Your Data From Apple Is Harder Than Expected",
             "link": "https://mjtsai.com/blog/2024/04/15/keeping-your-data-from-apple-is-harder-than-expected/",
             "updated": 1713186028,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42852",
             "title": "GM Stops Sharing Driver Data With Brokers",
             "link": "https://mjtsai.com/blog/2024/04/15/gm-stops-sharing-driver-data-with-brokers/",
             "updated": 1713186024,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42850",
             "title": "Swift for C++ Practitioners",
             "link": "https://mjtsai.com/blog/2024/04/12/swift-for-c-practitioners/",
             "updated": 1712922835,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42848",
             "title": "Effects of the DMA\u2019s Browser Choice Requirement",
             "link": "https://mjtsai.com/blog/2024/04/12/effects-of-the-dmas-browser-choice-requirement/",
             "updated": 1712922820,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42843",
             "title": "\u201cDon\u2019t Let Me Go\u201d and iCloud Storage Tiers",
             "link": "https://mjtsai.com/blog/2024/04/12/dont-let-me-go-and-icloud-storage-tiers/",
             "updated": 1712922736,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42841",
             "title": "Grindr\u2019s Plan to Squeeze Its Users",
             "link": "https://mjtsai.com/blog/2024/04/12/grindrs-plan-to-squeeze-its-users/",
             "updated": 1712922712,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42827",
             "title": "Used Genuine Apple Parts and Parts Pairing",
             "link": "https://mjtsai.com/blog/2024/04/11/used-genuine-apple-parts-and-parts-pairing/",
             "updated": 1712841430,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42825",
             "title": "Apple Alerts Users to Mercenary Spyware Attacks",
             "link": "https://mjtsai.com/blog/2024/04/11/apple-alerts-users-to-mercenary-spyware-attacks/",
             "updated": 1712841424,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42823",
             "title": "Humane Ai Pin Reviews",
             "link": "https://mjtsai.com/blog/2024/04/11/humane-ai-pin-reviews/",
             "updated": 1712841416,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42821",
             "title": "Automattic Acquires Beeper",
             "link": "https://mjtsai.com/blog/2024/04/11/automattic-acquires-beeper/",
             "updated": 1712841413,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42812",
             "title": "Run-time Polymorphism in Swift",
             "link": "https://mjtsai.com/blog/2024/04/10/run-time-polymorphism-in-swift/",
             "updated": 1712752109,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42810",
             "title": "Universal macappstore: Links",
             "link": "https://mjtsai.com/blog/2024/04/10/universal-macappstore-links/",
             "updated": 1712752085,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42808",
             "title": "Facebook Blocking Links to Kansas Reflector",
             "link": "https://mjtsai.com/blog/2024/04/10/facebook-blocking-links-to-kansas-reflector/",
             "updated": 1712752002,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42806",
             "title": "Google Search Changes Hurt Independent Sites",
             "link": "https://mjtsai.com/blog/2024/04/10/google-search-changes-hurt-independent-sites/",
             "updated": 1712751989,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42804",
             "title": "OmniFocus 4.2",
             "link": "https://mjtsai.com/blog/2024/04/09/omnifocus-4-2/",
             "updated": 1712667242,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42802",
             "title": "Copyright Takedown Against Hundreds of Wordle Clones",
             "link": "https://mjtsai.com/blog/2024/04/09/copyright-takedown-against-hundreds-of-wordle-clones/",
             "updated": 1712667183,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42800",
             "title": "AirTag Firmware Rollout Date",
             "link": "https://mjtsai.com/blog/2024/04/09/airtag-firmware-rollout-date/",
             "updated": 1712667160,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42798",
             "title": "Daylight Saving Time UI Design Test",
             "link": "https://mjtsai.com/blog/2024/04/09/daylight-saving-time-ui-design-test/",
             "updated": 1712667152,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42787",
             "title": "Coordinated Lunar Time (LTC)",
             "link": "https://mjtsai.com/blog/2024/04/08/coordinated-lunar-time-ltc/",
             "updated": 1712571159,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42785",
             "title": "Voice Dream Reader Switches to Subscriptions",
             "link": "https://mjtsai.com/blog/2024/04/08/voice-dream-reader-switches-to-subscriptions/",
             "updated": 1712571150,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42783",
             "title": "Music App Links in EU",
             "link": "https://mjtsai.com/blog/2024/04/08/music-app-links-in-eu/",
             "updated": 1712571136,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42781",
             "title": "Allowing iOS Game Emulators and Mini Apps",
             "link": "https://mjtsai.com/blog/2024/04/08/allowing-ios-game-emulators-and-mini-apps/",
             "updated": 1712571112,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42765",
             "title": "Embedding a Privacy Manifest Into an XCFramework",
             "link": "https://mjtsai.com/blog/2024/04/05/embedding-a-privacy-manifest-into-an-xcframework/",
             "updated": 1712333555,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42763",
             "title": "Macs Targeted by Infostealer Malware",
             "link": "https://mjtsai.com/blog/2024/04/05/macs-targeted-by-infostealer-malware/",
             "updated": 1712333551,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42761",
             "title": "Recalling Apple v. Qualcomm",
             "link": "https://mjtsai.com/blog/2024/04/05/recalling-apple-v-qualcomm/",
             "updated": 1712333546,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42759",
             "title": "Trying to Bring Apple Watch to Android",
             "link": "https://mjtsai.com/blog/2024/04/05/trying-to-bring-apple-watch-to-android/",
             "updated": 1712333535,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42756",
             "title": "Google Podcasts Is Gone",
             "link": "https://mjtsai.com/blog/2024/04/04/google-podcasts-is-gone/",
             "updated": 1712230079,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42754",
             "title": "AV1 Integer Overflow",
             "link": "https://mjtsai.com/blog/2024/04/04/av1-integer-overflow/",
             "updated": 1712230009,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42751",
             "title": "New FileVault Recovery Keys and GoFetch",
             "link": "https://mjtsai.com/blog/2024/04/04/new-filevault-recovery-keys-and-gofetch/",
             "updated": 1712229986,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42749",
             "title": "GoFetch",
             "link": "https://mjtsai.com/blog/2024/04/04/gofetch/",
             "updated": 1712229974,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42743",
             "title": "Seven Years of APFS",
             "link": "https://mjtsai.com/blog/2024/04/03/seven-years-of-apfs/",
             "updated": 1712145918,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42741",
             "title": "A Disk So Full, It Couldn\u2019t Be Restored",
             "link": "https://mjtsai.com/blog/2024/04/03/a-disk-so-full-it-couldnt-be-restored/",
             "updated": 1712145896,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42739",
             "title": "Checking Bootable Systems Using bputil",
             "link": "https://mjtsai.com/blog/2024/04/03/checking-bootable-systems-using-bputil/",
             "updated": 1712145889,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42737",
             "title": "Apple\u2019s Problem With Lina Khan",
             "link": "https://mjtsai.com/blog/2024/04/03/apples-problem-with-lina-khan/",
             "updated": 1712145879,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42729",
             "title": "Switching From Xcode to Neovim",
             "link": "https://mjtsai.com/blog/2024/04/02/switching-from-xcode-to-neovim/",
             "updated": 1712063266,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42727",
             "title": "Where iPad Fits In",
             "link": "https://mjtsai.com/blog/2024/04/02/where-ipad-fits-in/",
             "updated": 1712063262,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42725",
             "title": "Oregon Passes Right-to-Repair Law",
             "link": "https://mjtsai.com/blog/2024/04/02/oregon-passes-right-to-repair-law/",
             "updated": 1712063239,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42723",
             "title": "AI and the Web Developer Job Market",
             "link": "https://mjtsai.com/blog/2024/04/02/ai-and-the-web-developer-job-market/",
             "updated": 1712063232,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42714",
             "title": "XPC Resources",
             "link": "https://mjtsai.com/blog/2024/04/01/xpc-resources/",
             "updated": 1711974077,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42710",
             "title": "App Store Subscriptions and Family Sharing",
             "link": "https://mjtsai.com/blog/2024/04/01/app-store-subscriptions-and-family-sharing/",
             "updated": 1711973853,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42708",
             "title": "Apple\u2019s Immersive Video Problem",
             "link": "https://mjtsai.com/blog/2024/04/01/apples-immersive-video-problem/",
             "updated": 1711973850,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42706",
             "title": "xz Backdoor",
             "link": "https://mjtsai.com/blog/2024/04/01/xz-backdoor/",
             "updated": 1711973838,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42695",
             "title": "The Journal App\u2019s \u201cDiscoverable by Others\u201d Setting",
             "link": "https://mjtsai.com/blog/2024/03/29/the-journal-apps-discoverable-by-others-setting/",
             "updated": 1711710513,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42692",
             "title": "Those Obnoxious \u201cSign in With Google\u201d Prompts",
             "link": "https://mjtsai.com/blog/2024/03/29/those-obnoxious-sign-in-with-google-prompts/",
             "updated": 1711710462,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42690",
             "title": "StopTheMadness Pro",
             "link": "https://mjtsai.com/blog/2024/03/29/stopthemadness-pro/",
             "updated": 1711710450,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42672",
             "title": "Facebook\u2019s Project Ghostbusters",
             "link": "https://mjtsai.com/blog/2024/03/28/facebooks-project-ghostbusters/",
             "updated": 1711627975,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42669",
             "title": "Giving Up on Siri and HomePod",
             "link": "https://mjtsai.com/blog/2024/03/28/giving-up-on-siri-and-homepod/",
             "updated": 1711627960,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42667",
             "title": "Siri Regressions in iOS 17",
             "link": "https://mjtsai.com/blog/2024/03/28/siri-regressions-in-ios-17/",
             "updated": 1711627949,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42657",
             "title": "\u201cMFA Bombing\u201d Attacks Targeting Apple Users",
             "link": "https://mjtsai.com/blog/2024/03/27/mfa-bombing-attacks-targeting-apple-users/",
             "updated": 1711539803,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42655",
             "title": "1Password.co Tracking Links",
             "link": "https://mjtsai.com/blog/2024/03/27/1password-co-tracking-links/",
             "updated": 1711539792,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42653",
             "title": "Noncopyable Generics Walkthrough",
             "link": "https://mjtsai.com/blog/2024/03/27/noncopyable-generics-walkthrough/",
             "updated": 1711539767,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42650",
             "title": "Canva Acquires Affinity/Serif",
             "link": "https://mjtsai.com/blog/2024/03/26/canva-acquires-affinity-serif/",
             "updated": 1711459066,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42648",
             "title": "DMA Non-Compliance Investigations",
             "link": "https://mjtsai.com/blog/2024/03/26/dma-non-compliance-investigations/",
             "updated": 1711459063,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42646",
             "title": "Movie Piracy App Tops App Store Charts",
             "link": "https://mjtsai.com/blog/2024/03/26/movie-piracy-app-tops-app-store-charts/",
             "updated": 1711459056,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42644",
             "title": "How to Recover macOS Recovery",
             "link": "https://mjtsai.com/blog/2024/03/26/how-to-recover-macos-recovery/",
             "updated": 1711459047,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42637",
             "title": "Digital Wallets and the \u201cOnly Apple Pay Does This\u201d Mythology",
             "link": "https://mjtsai.com/blog/2024/03/25/digital-wallets-and-the-only-apple-pay-does-this-mythology/",
             "updated": 1711373290,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42635",
             "title": "iPulse for iOS",
             "link": "https://mjtsai.com/blog/2024/03/25/ipulse-for-ios/",
             "updated": 1711373287,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42633",
             "title": "macOS 13.6.6",
             "link": "https://mjtsai.com/blog/2024/03/25/macos-13-6-6/",
             "updated": 1711372721,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42631",
             "title": "macOS 14.4.1",
             "link": "https://mjtsai.com/blog/2024/03/25/macos-14-4-1/",
             "updated": 1711372704,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42614",
             "title": "_eventFirstResponderChainDescription",
             "link": "https://mjtsai.com/blog/2024/03/22/_eventfirstresponderchaindescription/",
             "updated": 1711109837,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42612",
             "title": "Apple Manuals, Specs, and Downloads",
             "link": "https://mjtsai.com/blog/2024/03/22/apple-manuals-specs-and-downloads/",
             "updated": 1711109833,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42610",
             "title": "Epic Challenges External Link Rules and Commission",
             "link": "https://mjtsai.com/blog/2024/03/22/epic-challenges-external-link-rules-and-commission/",
             "updated": 1711109813,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42608",
             "title": "iOS 17.4.1 and iPadOS 17.4.1",
             "link": "https://mjtsai.com/blog/2024/03/22/ios-17-4-1-and-ipados-17-4-1/",
             "updated": 1711109786,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42594",
             "title": "U.S. Sues Apple Over iPhone Monopoly",
             "link": "https://mjtsai.com/blog/2024/03/21/u-s-sues-apple-over-iphone-monopoly/",
             "updated": 1711027548,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42592",
             "title": "PopClip Leaving the Mac App Store",
             "link": "https://mjtsai.com/blog/2024/03/21/popclip-leaving-the-mac-app-store/",
             "updated": 1711027541,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42590",
             "title": "How to Bypass SwiftUI App Launch During Unit Testing",
             "link": "https://mjtsai.com/blog/2024/03/21/how-to-bypass-swiftui-app-launch-during-unit-testing/",
             "updated": 1711027533,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42588",
             "title": "Glassdoor No Longer Anonymous",
             "link": "https://mjtsai.com/blog/2024/03/21/glassdoor-no-longer-anonymous/",
             "updated": 1711027523,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42579",
             "title": "A Taxonomy of Prompt Injection Attacks",
             "link": "https://mjtsai.com/blog/2024/03/20/a-taxonomy-of-prompt-injection-attacks/",
             "updated": 1710939160,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         },
         {
             "id": "https://mjtsai.com/blog/?p=42577",
             "title": "Visual Studio App Center Retirement",
             "link": "https://mjtsai.com/blog/2024/03/20/visual-studio-app-center-retirement/",
             "updated": 1710939151,
-            "site_name": "Michael Tsai\u2019s Blog"
+            "site_url": "https://mjtsai.com/blog/"
         }
     ]
 }

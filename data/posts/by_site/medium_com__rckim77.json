@@ -1,47 +1,47 @@
 {
-    "updated": 1714470918,
+    "updated": 1714537250,
     "posts": [
         {
             "id": "https://medium.com/p/9150bcdf672b",
             "title": "Introducing New Search Modalities on Mobile",
             "link": "https://medium.com/classpass-engineering/introducing-new-search-modalities-on-mobile-9150bcdf672b?source=rss-71c5568dce47------2",
             "updated": 1702466201,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         },
         {
             "id": "https://medium.com/p/15e7bd88f613",
             "title": "Career Paths for Senior Engineers at ClassPass",
             "link": "https://medium.com/classpass-engineering/career-paths-for-senior-engineers-at-classpass-15e7bd88f613?source=rss-71c5568dce47------2",
             "updated": 1660811997,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         },
         {
             "id": "https://medium.com/p/9822735996bd",
             "title": "How the Upcoming Widget was Built",
             "link": "https://medium.com/classpass-engineering/how-the-upcoming-widget-was-built-9822735996bd?source=rss-71c5568dce47------2",
             "updated": 1611920995,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         },
         {
             "id": "https://medium.com/p/faeb29be3bdb",
             "title": "Creating a Fluid Scroll Experience on iOS",
             "link": "https://medium.com/classpass-engineering/creating-a-fluid-scroll-experience-on-ios-faeb29be3bdb?source=rss-71c5568dce47------2",
             "updated": 1561538245,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         },
         {
             "id": "https://medium.com/p/50d1086f8b79",
             "title": "Better Programmatic Components Using Closures",
             "link": "https://medium.com/@rckim77/better-programmatic-components-using-closures-50d1086f8b79?source=rss-71c5568dce47------2",
             "updated": 1524644989,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         },
         {
             "id": "https://medium.com/p/2b1115e7e405",
             "title": "JavaScript Manipulation on iOS Using WebKit",
             "link": "https://medium.com/capital-one-tech/javascript-manipulation-on-ios-using-webkit-2b1115e7e405?source=rss-71c5568dce47------2",
             "updated": 1524564433,
-            "site_name": "Ray Kim's Blog"
+            "site_url": "https://medium.com/@rckim77"
         }
     ]
 }

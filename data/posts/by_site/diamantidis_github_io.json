@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
+        {
+            "id": "https://diamantidis.github.io/2020/06/21/keyboard-options-for-swiftui-fields",
+            "title": "Keyboards options for SwiftUI fields",
+            "link": "https://diamantidis.github.io/2020/06/21/keyboard-options-for-swiftui-fields",
+            "updated": 1635541200,
+            "site_url": "https://diamantidis.github.io"
+        },
         {
             "id": "https://diamantidis.github.io/2021/10/17/two-way-communication-between-flutter-webview-and-a-web-page",
             "title": "Flutter: Two-way communication between a WebView and a web page",
             "link": "https://diamantidis.github.io/2021/10/17/two-way-communication-between-flutter-webview-and-a-web-page",
             "updated": 1634432400,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2021/10/10/exploring-flutter-scrollable-ensurevisible",
             "title": "Exploring Flutter\u2019s Scrollable.ensureVisible",
             "link": "https://diamantidis.github.io/2021/10/10/exploring-flutter-scrollable-ensurevisible",
             "updated": 1633813200,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/07/15/load-testing-with-apache-bench",
             "title": "Quick and simple load testing with Apache Bench",
             "link": "https://diamantidis.github.io/2020/07/15/load-testing-with-apache-bench",
             "updated": 1594760400,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/07/07/dart-extensions-flatten-flutter-nested-widget-trees",
             "title": "Dart extensions to flatten Flutter\u2019s deep nested widget trees",
             "link": "https://diamantidis.github.io/2020/07/07/dart-extensions-flatten-flutter-nested-widget-trees",
             "updated": 1594069200,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/06/28/applescript-to-generate-enum-for-sf-symbols",
             "title": "Use AppleScript to generate an enum for SF Symbols",
             "link": "https://diamantidis.github.io/2020/06/28/applescript-to-generate-enum-for-sf-symbols",
             "updated": 1593291600,
-            "site_name": "Ioannis Diamantidis"
-        },
-        {
-            "id": "https://diamantidis.github.io/2020/06/21/keyboard-options-for-swiftui-fields",
-            "title": "Keyboards options for SwiftUI fields",
-            "link": "https://diamantidis.github.io/2020/06/21/keyboard-options-for-swiftui-fields",
-            "updated": 1635541200,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/06/14/graphql-mutations-for-ios-app",
             "title": "GraphQL mutations for iOS apps (with the help of Combine\u2019s Future)",
             "link": "https://diamantidis.github.io/2020/06/14/graphql-mutations-for-ios-app",
             "updated": 1592082000,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/06/07/mutations-on-a-graphql-server-built-with-vapor",
             "title": "Mutations on a GraphQL server built with Vapor",
             "link": "https://diamantidis.github.io/2020/06/07/mutations-on-a-graphql-server-built-with-vapor",
             "updated": 1591477200,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/05/31/custom-graphql-types-on-swift-projects",
             "title": "Custom GraphQL types on Swift projects",
             "link": "https://diamantidis.github.io/2020/05/31/custom-graphql-types-on-swift-projects",
             "updated": 1590872400,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         },
         {
             "id": "https://diamantidis.github.io/2020/05/24/swift-loves-graphql-server-with-vapor-and-ios-app-client",
             "title": "Swift \u2764\ufe0f GraphQL: How to create a GraphQL server with Vapor and an iOS app as a client",
             "link": "https://diamantidis.github.io/2020/05/24/swift-loves-graphql-server-with-vapor-and-ios-app-client",
             "updated": 1590267600,
-            "site_name": "Ioannis Diamantidis"
+            "site_url": "https://diamantidis.github.io"
         }
     ]
 }

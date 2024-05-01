@@ -1,54 +1,54 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://mar.codes/blog/simulate-side-by-side-Xcode-previews",
             "title": "Simulating side-by-side Xcode Previews",
             "link": "https://mar.codes/blog/side-by-side-previews",
             "updated": 1621270800,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/freelance-ios-spanish",
             "title": "Mi experiencia consiguiendo clientes como un desarrollador iOS freelance",
             "link": "https://mar.codes/blog/freelance-es",
             "updated": 1610211600,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/my-experience-getting-freelance-projects-as-an-ios-developer",
             "title": "My experience getting remote freelance projects as an iOS Developer",
             "link": "https://mar.codes/blog/freelance",
             "updated": 1610211600,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/Solving-ambiguous-constraints-without-rerunning-your-app",
             "title": "Solving ambiguous constraints without rerunning your app",
             "link": "https://mar.codes/blog/constraints",
             "updated": 1558976400,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/Set-up-library-releases-from-CI",
             "title": "Set up library releases from Bitrise",
             "link": "https://mar.codes/blog/bitrise",
             "updated": 1544374800,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/Automate-open-source-libraries-releases-with-fastlane",
             "title": "Automate your library releases with Fastlane",
             "link": "https://mar.codes/blog/fastlane",
             "updated": 1542128400,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         },
         {
             "id": "https://mar.codes/blog/Replicating-iOS-11-App-Store-search-tab",
             "title": "Replicating the iOS App Store Search tab",
             "link": "https://mar.codes/blog/appstore-search",
             "updated": 1531760400,
-            "site_name": "Marcos Griselli\u2019s Blog"
+            "site_url": "https://mar.codes/"
         }
     ]
 }

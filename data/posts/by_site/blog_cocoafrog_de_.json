@@ -1,47 +1,47 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://blog.cocoafrog.de/how-to/2020/10/14/Joining-Apple",
             "title": "My 10 Year Journey to Apple",
             "link": "https://blog.cocoafrog.de/how-to/2020/10/14/Joining-Apple.html",
             "updated": 1602658800,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         },
         {
             "id": "https://blog.cocoafrog.de/how-to/2020/06/20/You-should-all-build-this-custom-instrument",
             "title": "You Should All Build This Custom Instrument for Your App",
             "link": "https://blog.cocoafrog.de/how-to/2020/06/20/You-should-all-build-this-custom-instrument.html",
             "updated": 1592636400,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         },
         {
             "id": "https://blog.cocoafrog.de/how-to/2018/04/12/How-to-name-IBActions",
             "title": "Why you should not name your @IBActions didTapButton",
             "link": "https://blog.cocoafrog.de/how-to/2018/04/12/How-to-name-IBActions.html",
             "updated": 1523543400,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         },
         {
             "id": "https://blog.cocoafrog.de/2017/11/18/how-nsurlsession-authentication-should-work",
             "title": "My dream for NSURLSession Authentication",
             "link": "https://blog.cocoafrog.de/2017/11/18/how-nsurlsession-authentication-should-work.html",
             "updated": 1510999200,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         },
         {
             "id": "https://blog.cocoafrog.de/2017/08/07/how-bad-can-you-make-a-door",
             "title": "How Bad can You Make a Door?",
             "link": "https://blog.cocoafrog.de/2017/08/07/how-bad-can-you-make-a-door.html",
             "updated": 1502110800,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         },
         {
             "id": "https://blog.cocoafrog.de/localization/programming/how-not-to/2017/07/28/how-not-to-do-localization",
             "title": "How not to do Localization",
             "link": "https://blog.cocoafrog.de/localization/programming/how-not-to/2017/07/28/how-not-to-do-localization.html",
             "updated": 1501232400,
-            "site_name": "Joachim Complains About Things"
+            "site_url": "https://blog.cocoafrog.de/"
         }
     ]
 }

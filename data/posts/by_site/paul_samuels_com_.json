@@ -1,145 +1,145 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "http://paul-samuels.com/blog/2024/03/10/command-line-arguments-with-user-defaults",
             "title": "Command line arguments with user defaults",
             "link": "http://paul-samuels.com/blog/2024/03/10/command-line-arguments-with-user-defaults/",
             "updated": 1710083940,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/12/13/mobile-ui-testing-with-maestro-swift",
             "title": "Mobile UI testing with Maestro (Swift version)",
             "link": "http://paul-samuels.com/blog/2023/12/13/mobile-ui-testing-with-maestro-swift/",
             "updated": 1702433460,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/11/20/mobile-ui-testing-with-maestro",
             "title": "Mobile UI testing with Maestro",
             "link": "http://paul-samuels.com/blog/2023/11/20/mobile-ui-testing-with-maestro/",
             "updated": 1700450820,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/10/24/missing-xcode-run-test-buttons",
             "title": "Missing Xcode run test buttons",
             "link": "http://paul-samuels.com/blog/2023/10/24/missing-xcode-run-test-buttons/",
             "updated": 1698122880,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/09/29/swift-parameter-packs",
             "title": "Swift Parameter Packs",
             "link": "http://paul-samuels.com/blog/2023/09/29/swift-parameter-packs/",
             "updated": 1695963180,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/03/23/xctcast",
             "title": "XCTCast",
             "link": "http://paul-samuels.com/blog/2023/03/23/xctcast/",
             "updated": 1679539740,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/03/18/wrapping-functions-in-structs",
             "title": "Wrapping functions in structs",
             "link": "http://paul-samuels.com/blog/2023/03/18/wrapping-functions-in-structs/",
             "updated": 1679112120,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/01/30/providing-explicit-type-vs-type-inference-why-not-both",
             "title": "Providing an explicit type vs type inference - why not both?",
             "link": "http://paul-samuels.com/blog/2023/01/30/providing-explicit-type-vs-type-inference-why-not-both/",
             "updated": 1675093740,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2023/01/22/avoid-kotlin-platform-declaration-clash-with-functions",
             "title": "Avoid Kotlin 'Platform declaration clash' with functions",
             "link": "http://paul-samuels.com/blog/2023/01/22/avoid-kotlin-platform-declaration-clash-with-functions/",
             "updated": 1674400740,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/10/12/easy-simulator-data-access",
             "title": "Easy simulator data access",
             "link": "http://paul-samuels.com/blog/2022/10/12/easy-simulator-data-access/",
             "updated": 1665577260,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/10/06/add-name-for-debugging",
             "title": "Add name for debugging",
             "link": "http://paul-samuels.com/blog/2022/10/06/add-name-for-debugging/",
             "updated": 1665013260,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/09/17/basic-ksp-validation",
             "title": "Basic KSP validation",
             "link": "http://paul-samuels.com/blog/2022/09/17/basic-ksp-validation/",
             "updated": 1663397280,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/05/30/xcode-source-navigation",
             "title": "Xcode navigation tricks",
             "link": "http://paul-samuels.com/blog/2022/05/30/xcode-source-navigation/",
             "updated": 1653916200,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/04/27/more-unit-testing-with-excel-lambdas-revisited",
             "title": "More unit testing with Excel Lambdas revisited",
             "link": "http://paul-samuels.com/blog/2022/04/27/more-unit-testing-with-excel-lambdas-revisited/",
             "updated": 1651006800,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas",
             "title": "More unit testing with Excel Lambdas",
             "link": "http://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas/",
             "updated": 1650886800,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/04/24/unit-tests-with-excel-lambdas",
             "title": "Unit tests with Excel Lambdas",
             "link": "http://paul-samuels.com/blog/2022/04/24/unit-tests-with-excel-lambdas/",
             "updated": 1650804000,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/04/07/killall-xcode",
             "title": "killall Xcode",
             "link": "http://paul-samuels.com/blog/2022/04/07/killall-xcode/",
             "updated": 1649292000,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2022/03/12/updating-git-edit",
             "title": "Updating git-edit",
             "link": "http://paul-samuels.com/blog/2022/03/12/updating-git-edit/",
             "updated": 1647070800,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2021/05/18/wrapping-a-difficult-dependency",
             "title": "Wrapping a difficult dependency",
             "link": "http://paul-samuels.com/blog/2021/05/18/wrapping-a-difficult-dependency/",
             "updated": 1621338540,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         },
         {
             "id": "http://paul-samuels.com/blog/2021/05/16/using-a-test-suite-for-automation",
             "title": "Using a test suite for automation",
             "link": "http://paul-samuels.com/blog/2021/05/16/using-a-test-suite-for-automation/",
             "updated": 1621165740,
-            "site_name": "Paul Samuels\u2019 Blog"
+            "site_url": "https://paul-samuels.com/"
         }
     ]
 }

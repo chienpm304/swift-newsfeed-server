@@ -1,236 +1,236 @@
 {
-    "updated": 1714470915,
+    "updated": 1714537248,
     "posts": [
         {
-            "id": "https://peterfriese.dev/blog/2019/swift-combine-love/",
-            "title": "SwiftUI + Combine = \u2764\ufe0f",
-            "link": "https://peterfriese.dev/blog/2019/swift-combine-love/",
-            "updated": 1568307600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2019/xcode-shortcuts/",
-            "title": "Essential Xcode Shortcuts for More Efficient Coding",
-            "link": "https://peterfriese.dev/blog/2019/xcode-shortcuts/",
-            "updated": 1570381200,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/reading-api-keys-from-plist-files/",
-            "title": "Fetching API Keys from Property List Files",
-            "link": "https://peterfriese.dev/blog/2020/reading-api-keys-from-plist-files/",
-            "updated": 1597165200,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part1/",
-            "title": "SwiftUI, Combine, and Firebase",
-            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part1/",
-            "updated": 1579280400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part2/",
-            "title": "Connecting SwiftUI and Cloud Firestore",
-            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part2/",
-            "updated": 1580835600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part3/",
-            "title": "Sign in with Apple using SwiftUI and Firebase",
-            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part3/",
-            "updated": 1584982800,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part4/",
-            "title": "Firebase Authentication: Migrating User Data",
-            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part4/",
-            "updated": 1604854800,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-add-data/",
-            "title": "Adding Data to Firestore from a SwiftUI app",
-            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-add-data/",
-            "updated": 1593536400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-codable/",
-            "title": "SwiftUI: Mapping Firestore Documents using Swift Codable",
-            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-codable/",
-            "updated": 1588611600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-fetch-data/",
-            "title": "SwiftUI: Fetching Data from Firestore in Real Time",
-            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-fetch-data/",
-            "updated": 1587488400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-update-data/",
-            "title": "Updating Data in Firestore from a SwiftUI app",
-            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-update-data/",
-            "updated": 1601226000,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/swiftui-new-app-lifecycle-firebase/",
-            "title": "Firebase and the new SwiftUI 2 Application Life Cycle",
-            "link": "https://peterfriese.dev/blog/2020/swiftui-new-app-lifecycle-firebase/",
-            "updated": 1603040400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2020/ultimate-guide-to-swiftui2-application-lifecycle/",
-            "title": "The Ultimate Guide to the SwiftUI 2 Application Life Cycle",
-            "link": "https://peterfriese.dev/blog/2020/ultimate-guide-to-swiftui2-application-lifecycle/",
-            "updated": 1602176400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/async-await-in-swiftui/",
-            "title": "Using async/await in SwiftUI",
-            "link": "https://peterfriese.dev/blog/2021/async-await-in-swiftui/",
-            "updated": 1612803600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/firestore-codable-the-comprehensive-guide/",
-            "title": "Mapping Firestore Data in Swift",
-            "link": "https://peterfriese.dev/blog/2021/firestore-codable-the-comprehensive-guide/",
-            "updated": 1616432400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part1/",
-            "title": "Getting Started with async/await in SwiftUI",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part1/",
-            "updated": 1624467600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part2/",
-            "title": "Cooperative Task Cancellation",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part2/",
-            "updated": 1625936400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-confirmation-dialogs/",
-            "title": "Confirmation Dialogs in SwiftUI",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-confirmation-dialogs/",
-            "updated": 1637859600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-empty-state/",
-            "title": "Using View Modifiers to Display Empty State",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-empty-state/",
-            "updated": 1636650000,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-list-focus/",
-            "title": "Managing Focus in SwiftUI List Views",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-list-focus/",
-            "updated": 1636045200,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-list-item-bindings-behind-the-scenes/",
-            "title": "SwiftUI List Bindings",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-list-item-bindings-behind-the-scenes/",
-            "updated": 1623258000,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part1/",
-            "title": "Building Static Lists in SwiftUI",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part1/",
-            "updated": 1630256400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part2/",
-            "title": "Building Dynamic Lists in SwiftUI",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part2/",
-            "updated": 1630861200,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part3/",
-            "title": "Styling List Views",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part3/",
-            "updated": 1632848400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part4/",
-            "title": "Swipe Actions in SwiftUI 3",
-            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part4/",
-            "updated": 1634490000,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/combine-vs-async/",
-            "title": "Asynchronous programming with SwiftUI and Combine",
-            "link": "https://peterfriese.dev/blog/2022/combine-vs-async/",
-            "updated": 1647795600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/firebase-async-calls-swift/",
-            "title": "Calling asynchronous Firebase APIs from Swift",
-            "link": "https://peterfriese.dev/blog/2022/firebase-async-calls-swift/",
-            "updated": 1643562000,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/",
-            "title": "Building a Custom Combine Operator for Exponential Backoff",
-            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/",
-            "updated": 1646240400,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-efficient/",
-            "title": "Optimise your networking layer with Combine",
-            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-efficient/",
-            "updated": 1642957200,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-errorhandling/",
-            "title": "Error Handling with Combine and SwiftUI",
-            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-errorhandling/",
-            "updated": 1644771600,
-            "site_name": "Peter Friese\u2019s Blog"
-        },
-        {
-            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-gettingstarted/",
-            "title": "Networking with Combine and SwiftUI",
-            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-gettingstarted/",
-            "updated": 1642352400,
-            "site_name": "Peter Friese\u2019s Blog"
+            "id": "https://peterfriese.dev/blog/2023/swiftui-styling-views/",
+            "title": "Styling SwiftUI Views",
+            "link": "https://peterfriese.dev/blog/2023/swiftui-styling-views/",
+            "updated": 1672938000,
+            "site_url": "https://peterfriese.dev"
         },
         {
             "id": "https://peterfriese.dev/blog/2022/swiftui-previews-interactive/",
             "title": "Previewing Stateful SwiftUI Views",
             "link": "https://peterfriese.dev/blog/2022/swiftui-previews-interactive/",
             "updated": 1671555600,
-            "site_name": "Peter Friese\u2019s Blog"
+            "site_url": "https://peterfriese.dev"
         },
         {
-            "id": "https://peterfriese.dev/blog/2023/swiftui-styling-views/",
-            "title": "Styling SwiftUI Views",
-            "link": "https://peterfriese.dev/blog/2023/swiftui-styling-views/",
-            "updated": 1672938000,
-            "site_name": "Peter Friese\u2019s Blog"
+            "id": "https://peterfriese.dev/blog/2022/combine-vs-async/",
+            "title": "Asynchronous programming with SwiftUI and Combine",
+            "link": "https://peterfriese.dev/blog/2022/combine-vs-async/",
+            "updated": 1647795600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/",
+            "title": "Building a Custom Combine Operator for Exponential Backoff",
+            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-custom-operators/",
+            "updated": 1646240400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-errorhandling/",
+            "title": "Error Handling with Combine and SwiftUI",
+            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-errorhandling/",
+            "updated": 1644771600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2022/firebase-async-calls-swift/",
+            "title": "Calling asynchronous Firebase APIs from Swift",
+            "link": "https://peterfriese.dev/blog/2022/firebase-async-calls-swift/",
+            "updated": 1643562000,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-efficient/",
+            "title": "Optimise your networking layer with Combine",
+            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-efficient/",
+            "updated": 1642957200,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-gettingstarted/",
+            "title": "Networking with Combine and SwiftUI",
+            "link": "https://peterfriese.dev/blog/2022/swiftui-combine-networking-gettingstarted/",
+            "updated": 1642352400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-confirmation-dialogs/",
+            "title": "Confirmation Dialogs in SwiftUI",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-confirmation-dialogs/",
+            "updated": 1637859600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-empty-state/",
+            "title": "Using View Modifiers to Display Empty State",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-empty-state/",
+            "updated": 1636650000,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-list-focus/",
+            "title": "Managing Focus in SwiftUI List Views",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-list-focus/",
+            "updated": 1636045200,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part4/",
+            "title": "Swipe Actions in SwiftUI 3",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part4/",
+            "updated": 1634490000,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part3/",
+            "title": "Styling List Views",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part3/",
+            "updated": 1632848400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part2/",
+            "title": "Building Dynamic Lists in SwiftUI",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part2/",
+            "updated": 1630861200,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-listview-part1/",
+            "title": "Building Static Lists in SwiftUI",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-listview-part1/",
+            "updated": 1630256400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part2/",
+            "title": "Cooperative Task Cancellation",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part2/",
+            "updated": 1625936400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part1/",
+            "title": "Getting Started with async/await in SwiftUI",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-concurrency-essentials-part1/",
+            "updated": 1624467600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/swiftui-list-item-bindings-behind-the-scenes/",
+            "title": "SwiftUI List Bindings",
+            "link": "https://peterfriese.dev/blog/2021/swiftui-list-item-bindings-behind-the-scenes/",
+            "updated": 1623258000,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/firestore-codable-the-comprehensive-guide/",
+            "title": "Mapping Firestore Data in Swift",
+            "link": "https://peterfriese.dev/blog/2021/firestore-codable-the-comprehensive-guide/",
+            "updated": 1616432400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2021/async-await-in-swiftui/",
+            "title": "Using async/await in SwiftUI",
+            "link": "https://peterfriese.dev/blog/2021/async-await-in-swiftui/",
+            "updated": 1612803600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part4/",
+            "title": "Firebase Authentication: Migrating User Data",
+            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part4/",
+            "updated": 1604854800,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/swiftui-new-app-lifecycle-firebase/",
+            "title": "Firebase and the new SwiftUI 2 Application Life Cycle",
+            "link": "https://peterfriese.dev/blog/2020/swiftui-new-app-lifecycle-firebase/",
+            "updated": 1603040400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/ultimate-guide-to-swiftui2-application-lifecycle/",
+            "title": "The Ultimate Guide to the SwiftUI 2 Application Life Cycle",
+            "link": "https://peterfriese.dev/blog/2020/ultimate-guide-to-swiftui2-application-lifecycle/",
+            "updated": 1602176400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-update-data/",
+            "title": "Updating Data in Firestore from a SwiftUI app",
+            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-update-data/",
+            "updated": 1601226000,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/reading-api-keys-from-plist-files/",
+            "title": "Fetching API Keys from Property List Files",
+            "link": "https://peterfriese.dev/blog/2020/reading-api-keys-from-plist-files/",
+            "updated": 1597165200,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-add-data/",
+            "title": "Adding Data to Firestore from a SwiftUI app",
+            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-add-data/",
+            "updated": 1593536400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-codable/",
+            "title": "SwiftUI: Mapping Firestore Documents using Swift Codable",
+            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-codable/",
+            "updated": 1588611600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/swiftui-firebase-fetch-data/",
+            "title": "SwiftUI: Fetching Data from Firestore in Real Time",
+            "link": "https://peterfriese.dev/blog/2020/swiftui-firebase-fetch-data/",
+            "updated": 1587488400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part3/",
+            "title": "Sign in with Apple using SwiftUI and Firebase",
+            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part3/",
+            "updated": 1584982800,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part2/",
+            "title": "Connecting SwiftUI and Cloud Firestore",
+            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part2/",
+            "updated": 1580835600,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part1/",
+            "title": "SwiftUI, Combine, and Firebase",
+            "link": "https://peterfriese.dev/blog/2020/replicating-reminder-swiftui-firebase-part1/",
+            "updated": 1579280400,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2019/xcode-shortcuts/",
+            "title": "Essential Xcode Shortcuts for More Efficient Coding",
+            "link": "https://peterfriese.dev/blog/2019/xcode-shortcuts/",
+            "updated": 1570381200,
+            "site_url": "https://peterfriese.dev"
+        },
+        {
+            "id": "https://peterfriese.dev/blog/2019/swift-combine-love/",
+            "title": "SwiftUI + Combine = \u2764\ufe0f",
+            "link": "https://peterfriese.dev/blog/2019/swift-combine-love/",
+            "updated": 1568307600,
+            "site_url": "https://peterfriese.dev"
         }
     ]
 }

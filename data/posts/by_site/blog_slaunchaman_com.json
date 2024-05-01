@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://blog.slaunchaman.com/?p=882",
             "title": "Videos from CodeMash 2020",
             "link": "https://blog.slaunchaman.com/2020/02/13/videos-from-codemash-2020/",
             "updated": 1581577008,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=878",
             "title": "Slides and Sample Code from CodeMash 2020",
             "link": "https://blog.slaunchaman.com/2020/02/01/slides-and-sample-code-from-codemash-2020/",
             "updated": 1580572799,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=874",
             "title": "Automatically Turn UI Tests Into Screen Recordings",
             "link": "https://blog.slaunchaman.com/2020/01/16/automatically-turn-ui-tests-into-screen-recordings/",
             "updated": 1579189750,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=864",
             "title": "UIAppearance and the Case of the Missing Method",
             "link": "https://blog.slaunchaman.com/2020/01/15/uiappearance-and-the-case-of-the-missing-method/",
             "updated": 1579102008,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=834",
             "title": "Fixing Simulator Status Bars for App Store Screenshots With Xcode 11 and iOS 13",
             "link": "https://blog.slaunchaman.com/2019/09/11/fixing-simulator-status-bars-for-app-store-screenshots-with-xcode-11-and-ios-13/",
             "updated": 1568150620,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=785",
             "title": "AltConf 2018: Dates and Times by Example Slides and Sample Code",
             "link": "https://blog.slaunchaman.com/2018/06/15/altconf-2018-dates-and-times-by-example-slides-and-sample-code/",
             "updated": 1529052088,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=764",
             "title": "Advanced Dates and Times in Swift from 360|iDev",
             "link": "https://blog.slaunchaman.com/2018/01/02/advanced-dates-and-times-in-swift-from-360idev/",
             "updated": 1514890299,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "https://blog.slaunchaman.com/?p=750",
             "title": "HTTPS Everywhere",
             "link": "https://blog.slaunchaman.com/2017/10/31/https-everywhere-yes-i-know-its-tls-not-ssl/",
             "updated": 1509457782,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "http://blog.slaunchaman.com/?p=743",
             "title": "Slides and Sample Code from my 360|iDev Talks",
             "link": "https://blog.slaunchaman.com/2017/08/15/slides-and-sample-code-from-my-360idev-talks/",
             "updated": 1502810799,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         },
         {
             "id": "http://blog.slaunchaman.com/?p=730",
             "title": "VR As a Litmus Test for the New Mac Pros",
             "link": "https://blog.slaunchaman.com/2017/04/20/vr-as-a-litmus-test-for-the-new-mac-pros/",
             "updated": 1492696516,
-            "site_name": "Jeff Kelley\u2019s Blog"
+            "site_url": "https://blog.slaunchaman.com"
         }
     ]
 }

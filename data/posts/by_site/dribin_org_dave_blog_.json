@@ -1,229 +1,229 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.dribin.org/dave/blog/archives/2024/03/15/rsync-progress-example",
             "title": "rsync Progress Demo",
             "link": "https://www.dribin.org/dave/blog/archives/2024/03/15/rsync-progress-example/",
             "updated": 1710469320,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2024/02/18/python-linear-fit",
             "title": "Linear Fit using Python and NumPy",
             "link": "https://www.dribin.org/dave/blog/archives/2024/02/18/python-linear-fit/",
             "updated": 1708227695,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2024/01/21/rsync-overall-progress",
             "title": "Overall Progress with rsync",
             "link": "https://www.dribin.org/dave/blog/archives/2024/01/21/rsync-overall-progress/",
             "updated": 1705822746,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance",
             "title": "Improving Zsh Performance",
             "link": "https://www.dribin.org/dave/blog/archives/2024/01/01/zsh-performance/",
             "updated": 1704099600,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2018/10/21/git-merge-commit-message",
             "title": "git Merge Commit Messages",
             "link": "https://www.dribin.org/dave/blog/archives/2018/10/21/git-merge-commit-message/",
             "updated": 1540093270,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2018/03/11/https-lets-encrypt",
             "title": "Moving to HTTPS with Let\u2019s Encrypt",
             "link": "https://www.dribin.org/dave/blog/archives/2018/03/11/https-lets-encrypt/",
             "updated": 1520739907,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2017/05/10/linode-recommendation",
             "title": "Linode Recommendation",
             "link": "https://www.dribin.org/dave/blog/archives/2017/05/10/linode-recommendation/",
             "updated": 1494430942,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2017/02/27/switching_to_jekyll",
             "title": "Switching to Jekyll",
             "link": "https://www.dribin.org/dave/blog/archives/2017/02/27/switching_to_jekyll/",
             "updated": 1488160381,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2011/04/05/unit_test_c4",
             "title": "My Unit Testing C4[3] Presentation",
             "link": "https://www.dribin.org/dave/blog/archives/2011/04/05/unit_test_c4/",
             "updated": 1302012724,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/10/01/joining_apple",
             "title": "Joining Apple",
             "link": "https://www.dribin.org/dave/blog/archives/2010/10/01/joining_apple/",
             "updated": 1285931359,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/09/16/lily_and_zach",
             "title": "Welcome Lily and Zach Dribin",
             "link": "https://www.dribin.org/dave/blog/archives/2010/09/16/lily_and_zach/",
             "updated": 1284649491,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/08/15/announcing_trigint",
             "title": "trigint - An Integer-based Trigonometry Library",
             "link": "https://www.dribin.org/dave/blog/archives/2010/08/15/announcing_trigint/",
             "updated": 1281841586,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/07/18/dont_stop",
             "title": "My Chiptune Cover of Don\u2019t Stop Believin\u2019",
             "link": "https://www.dribin.org/dave/blog/archives/2010/07/18/dont_stop/",
             "updated": 1279420037,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/05/15/c99_syntax",
             "title": "Fun with C99 Syntax",
             "link": "https://www.dribin.org/dave/blog/archives/2010/05/15/c99_syntax/",
             "updated": 1273888340,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/05/02/ipad_dev_camp_slides",
             "title": "iPad Dev Camp Slides",
             "link": "https://www.dribin.org/dave/blog/archives/2010/05/02/ipad_dev_camp_slides/",
             "updated": 1272816660,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/04/26/announcing_a440",
             "title": "A440 - A Core Audio \u201cHello World\u201d",
             "link": "https://www.dribin.org/dave/blog/archives/2010/04/26/announcing_a440/",
             "updated": 1272247249,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/03/19/debugging_async_perform_selector",
             "title": "Debugging Asynchronous performSelector - Calls",
             "link": "https://www.dribin.org/dave/blog/archives/2010/03/19/debugging_async_perform_selector/",
             "updated": 1269016969,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/03/02/what_i_miss_from_java",
             "title": "What I Miss from Java",
             "link": "https://www.dribin.org/dave/blog/archives/2010/03/02/what_i_miss_from_java/",
             "updated": 1267496881,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/01/18/refactored_mac_iphone_app_with_tests",
             "title": "Mac and iPhone Applications with Unit Tests, Refactored",
             "link": "https://www.dribin.org/dave/blog/archives/2010/01/18/refactored_mac_iphone_app_with_tests/",
             "updated": 1263822037,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/01/18/why_unit_test_cocoa_and_iphone",
             "title": "Why Unit Test Cocoa and iPhone Applications",
             "link": "https://www.dribin.org/dave/blog/archives/2010/01/18/why_unit_test_cocoa_and_iphone/",
             "updated": 1263792825,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2010/01/13/handy_sudo_settings",
             "title": "Handy sudo Settings",
             "link": "https://www.dribin.org/dave/blog/archives/2010/01/13/handy_sudo_settings/",
             "updated": 1263396788,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/12/20/first_nes_homebrew",
             "title": "My First NES Homebrew",
             "link": "https://www.dribin.org/dave/blog/archives/2009/12/20/first_nes_homebrew/",
             "updated": 1261291223,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/12/20/mercurial_http_passwords",
             "title": "Mercurial and HTTP Passwords",
             "link": "https://www.dribin.org/dave/blog/archives/2009/12/20/mercurial_http_passwords/",
             "updated": 1261280649,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/12/19/nsconference_2010",
             "title": "NSConference 2010",
             "link": "https://www.dribin.org/dave/blog/archives/2009/12/19/nsconference_2010/",
             "updated": 1261192984,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/12/18/bottom_bars_in_ib",
             "title": "Bottom Bars in Interface Builder",
             "link": "https://www.dribin.org/dave/blog/archives/2009/12/18/bottom_bars_in_ib/",
             "updated": 1261070341,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/12/04/new_blog_requirements",
             "title": "Requirements for a New Blogging System",
             "link": "https://www.dribin.org/dave/blog/archives/2009/12/04/new_blog_requirements/",
             "updated": 1259865622,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/11/15/rpath",
             "title": "Using @rpath - Why and How",
             "link": "https://www.dribin.org/dave/blog/archives/2009/11/15/rpath/",
             "updated": 1258293268,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/10/24/unit_test_bugs",
             "title": "Xcode Unit Test Bugs",
             "link": "https://www.dribin.org/dave/blog/archives/2009/10/24/unit_test_bugs/",
             "updated": 1256361382,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/09/27/c4_book_list",
             "title": "Book List from my C4 Talk",
             "link": "https://www.dribin.org/dave/blog/archives/2009/09/27/c4_book_list/",
             "updated": 1254063642,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/09/13/snowy_concurrent_operations",
             "title": "Concurrent Operations on Snow Leopard",
             "link": "https://www.dribin.org/dave/blog/archives/2009/09/13/snowy_concurrent_operations/",
             "updated": 1252826669,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/08/24/bagels",
             "title": "Mmm\u2026 bagels!",
             "link": "https://www.dribin.org/dave/blog/archives/2009/08/24/bagels/",
             "updated": 1251132150,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         },
         {
             "id": "https://www.dribin.org/dave/blog/archives/2009/05/05/concurrent_operations",
             "title": "Concurrent Operations Demystified",
             "link": "https://www.dribin.org/dave/blog/archives/2009/05/05/concurrent_operations/",
             "updated": 1241538460,
-            "site_name": "Dave Dribin\u2019s Blog"
+            "site_url": "https://www.dribin.org/dave/blog/"
         }
     ]
 }

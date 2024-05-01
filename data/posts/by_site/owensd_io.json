@@ -1,75 +1,75 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "http://owensd.io/?p=1931",
             "title": "Miss this Place",
             "link": "https://owensd.io/2023/05/13/miss-this-place/",
             "updated": 1684015339,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1927",
             "title": "Some thoughts about Jan 6th",
             "link": "https://owensd.io/2021/01/07/some-thoughts-about-jan-6th/",
             "updated": 1610043443,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1912",
             "title": "Unit Testing Doesn\u2019t Need to Be Involved",
             "link": "https://owensd.io/2018/08/21/unit-testing-doesnt-need-to-be-involved/",
             "updated": 1534812258,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1800",
             "title": "Performance Matters: O(N)",
             "link": "https://owensd.io/2017/09/06/performance-matters-on/",
             "updated": 1504656608,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensdio.wordpress.com/?p=1794",
             "title": "Confederacy, Heroes, and Romans 14",
             "link": "https://owensd.io/2017/07/23/confederacy-heroes-and-romans-14/",
             "updated": 1500816926,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1645",
             "title": "Swift for Visual Studio Code \u2013 Early Preview",
             "link": "https://owensd.io/2017/06/02/apous-early-preview/",
             "updated": 1496436235,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1753",
             "title": "SE-110 Fallout\u2026 I\u2019m Confused",
             "link": "https://owensd.io/2017/06/01/se-110-fallout-im-confused/",
             "updated": 1496323388,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1725",
             "title": "Version Info in Swift CLI tools",
             "link": "https://owensd.io/2017/05/29/version-info-in-swift-cli-tools/",
             "updated": 1496017976,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1582",
             "title": "Protocols, Generics, and Enums",
             "link": "https://owensd.io/2017/05/28/protocols-generics-and-enums/",
             "updated": 1496010070,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         },
         {
             "id": "http://owensd.io/?p=1618",
             "title": "Parsing Package.swift",
             "link": "https://owensd.io/2017/05/24/parsing-package-swift/",
             "updated": 1495645040,
-            "site_name": "owensd.io"
+            "site_url": "https://owensd.io"
         }
     ]
 }

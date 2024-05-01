@@ -1,89 +1,89 @@
 {
-    "updated": 1714470958,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://swiftonserver.com/useful-scripts-for-server-side-swift-libraries/",
             "title": "Useful scripts for server-side Swift libraries",
             "link": "https://swiftonserver.com/useful-scripts-for-server-side-swift-libraries/",
             "updated": 1712674800,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/async-http-client-by-example/",
             "title": "AsyncHTTPClient by example",
             "link": "https://swiftonserver.com/async-http-client-by-example/",
             "updated": 1712070000,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/structured-concurrency-and-shared-state-in-swift/",
             "title": "Structured Concurrency and Shared State in Swift",
             "link": "https://swiftonserver.com/structured-concurrency-and-shared-state-in-swift/",
             "updated": 1711296000,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/getting-started-with-structured-concurrency-in-swift/",
             "title": "Getting Started with Structured Concurrency in Swift",
             "link": "https://swiftonserver.com/getting-started-with-structured-concurrency-in-swift/",
             "updated": 1710777600,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/using-environment-variables-in-swift/",
             "title": "Using environment variables in Swift",
             "link": "https://swiftonserver.com/using-environment-variables-in-swift/",
             "updated": 1710172800,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/using-openapi-with-hummingbird/",
             "title": "Using OpenAPI Generator with Hummingbird",
             "link": "https://swiftonserver.com/using-openapi-with-hummingbird/",
             "updated": 1709568000,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/whats-new-in-hummingbird-2/",
             "title": "What's new in Hummingbird 2?",
             "link": "https://swiftonserver.com/whats-new-in-hummingbird-2/",
             "updated": 1708963200,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/building-swiftnio-clients/",
             "title": "Building an HTTP client using SwiftNIO",
             "link": "https://swiftonserver.com/building-swiftnio-clients/",
             "updated": 1708358400,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/logging-for-server-side-swift-apps/",
             "title": "Logging for server-side Swift apps",
             "link": "https://swiftonserver.com/logging-for-server-side-swift-apps/",
             "updated": 1707753600,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/using-swiftnio-channels/",
             "title": "Using SwiftNIO - Channels",
             "link": "https://swiftonserver.com/using-swiftnio-channels/",
             "updated": 1707321600,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/using-swiftnio-fundamentals/",
             "title": "Using SwiftNIO - Fundamentals",
             "link": "https://swiftonserver.com/using-swiftnio-fundamentals/",
             "updated": 1706544000,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         },
         {
             "id": "https://swiftonserver.com/developing-with-swift-in-visual-studio-code/",
             "title": "Developing with Swift in Visual Studio Code",
             "link": "https://swiftonserver.com/developing-with-swift-in-visual-studio-code/",
             "updated": 1705334400,
-            "site_name": "Swift on server"
+            "site_url": "https://swiftonserver.com/"
         }
     ]
 }

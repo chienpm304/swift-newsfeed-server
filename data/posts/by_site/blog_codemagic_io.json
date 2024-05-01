@@ -1,2791 +1,2791 @@
 {
-    "updated": 1714471051,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.codemagic.io/making-the-leap-from-azure-to-codemagic/",
             "title": "Making the Leap from Azure to Codemagic",
             "link": "https://blog.codemagic.io/making-the-leap-from-azure-to-codemagic/",
             "updated": 1711040400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-tuist-migrated-from-github-actions-to-codemagic-for-faster-and-more-reliable-ci/",
             "title": "How Tuist migrated from GitHub Actions to Codemagic for faster and more reliable CI",
             "link": "https://blog.codemagic.io/how-tuist-migrated-from-github-actions-to-codemagic-for-faster-and-more-reliable-ci/",
             "updated": 1710954000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/deploy-your-app-to-app-store-with-codemagic-cli-tools-and-github-actions/",
             "title": "Deploy your app to App Store Connect with Codemagic CLI tools and GitHub Actions",
             "link": "https://blog.codemagic.io/deploy-your-app-to-app-store-with-codemagic-cli-tools-and-github-actions/",
             "updated": 1707325200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-saves-mobi-lab-time-and-money/",
             "title": "Codemagic helps Mobi Lab deliver mission-critical projects while saving them time and money",
             "link": "https://blog.codemagic.io/codemagic-saves-mobi-lab-time-and-money/",
             "updated": 1707152400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/upcoming-changes-to-google-play-for-developers/",
             "title": "Upcoming changes to Google Play for developers",
             "link": "https://blog.codemagic.io/upcoming-changes-to-google-play-for-developers/",
             "updated": 1706029200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/optimising-ios-app-size-emerge-tools-ci-cd/",
             "title": "Leveraging Emerge Tools in CI/CD Pipelines for iOS App Size Optimisation.",
             "link": "https://blog.codemagic.io/optimising-ios-app-size-emerge-tools-ci-cd/",
             "updated": 1702314000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/bazel-how-i-learned-to-stop-worrying-and-love-building-systems/",
             "title": "Dr. Bazel: How I Learned to Stop Worrying and Love Building Systems",
             "link": "https://blog.codemagic.io/bazel-how-i-learned-to-stop-worrying-and-love-building-systems/",
             "updated": 1701277200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/100-flakiness-free-ui-test-automation-with-kaspresso-and-alluretestops/",
             "title": "100% Flakiness-free UI test automation with Kaspresso and Allure Testops",
             "link": "https://blog.codemagic.io/100-flakiness-free-ui-test-automation-with-kaspresso-and-alluretestops/",
             "updated": 1699981200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-test-native-features-in-flutter-apps-with-patrol-and-codemagic/",
             "title": "How to Test Native Features in Flutter Apps with Patrol and Codemagic",
             "link": "https://blog.codemagic.io/how-to-test-native-features-in-flutter-apps-with-patrol-and-codemagic/",
             "updated": 1698858000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-widgetbook-using-codemagic/",
             "title": "Building Widgetbook using Codemagic",
             "link": "https://blog.codemagic.io/building-widgetbook-using-codemagic/",
             "updated": 1696352004,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/live-object-detection-on-image-stream-in-flutter/",
             "title": "Implementing Instant Object Detection in Live Image Streams using TFLite in Flutter",
             "link": "https://blog.codemagic.io/live-object-detection-on-image-stream-in-flutter/",
             "updated": 1693242000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/securing-ci-cd-with-1password-codemagic/",
             "title": "Securing CI/CD with 1Password",
             "link": "https://blog.codemagic.io/securing-ci-cd-with-1password-codemagic/",
             "updated": 1692550800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-set-up-flutter-code-push-with-shorebird-and-codemagic/",
             "title": "How to Set Up Flutter Code Push With Shorebird and Codemagic",
             "link": "https://blog.codemagic.io/how-to-set-up-flutter-code-push-with-shorebird-and-codemagic/",
             "updated": 1691427600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ios-app-caching-using-tuist-and-codemagic/",
             "title": "Optimising iOS builds with Tuist and Codemagic CI/CD",
             "link": "https://blog.codemagic.io/ios-app-caching-using-tuist-and-codemagic/",
             "updated": 1689786000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/working-with-native-elements/",
             "title": "Working with native elements in Flutter: Platform Channel vs Pigeon vs Foreign Function Interface (FFI)",
             "link": "https://blog.codemagic.io/working-with-native-elements/",
             "updated": 1686675600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-m2-mini-comparison/",
             "title": "Comparing M2 mini vs. M1 mini vs. Mac Pro",
             "link": "https://blog.codemagic.io/flutter-m2-mini-comparison/",
             "updated": 1683796249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/google-io-2023/",
             "title": "What's new from Google I/O 2023 for developers: Key announcements",
             "link": "https://blog.codemagic.io/google-io-2023/",
             "updated": 1683738000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flaming-stacks-part2-sashimi/",
             "title": "Flaming Stacks Part 2: Sashimi",
             "link": "https://blog.codemagic.io/flaming-stacks-part2-sashimi/",
             "updated": 1683219600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-heart-lua/",
             "title": "Flutter \ud83d\udc99 Lua: Using Lua in your Flutter apps",
             "link": "https://blog.codemagic.io/flutter-heart-lua/",
             "updated": 1682614800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/migrating-intel-m1-silicon/",
             "title": "Migrating your iOS projects and CI/CD to Apple Silicon M1 & M2 Macs",
             "link": "https://blog.codemagic.io/migrating-intel-m1-silicon/",
             "updated": 1682269200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/deep-dish-swift-2023/",
             "title": "Deep Dish Swift 2023: What To Look Forward To?",
             "link": "https://blog.codemagic.io/deep-dish-swift-2023/",
             "updated": 1682010000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flaming-stacks/",
             "title": "Flaming Stacks: Using stacked sprites in Flame",
             "link": "https://blog.codemagic.io/flaming-stacks/",
             "updated": 1682010000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/shady-flutter/",
             "title": "Shady Flutter: Using GLSL Shaders in Flutter",
             "link": "https://blog.codemagic.io/shady-flutter/",
             "updated": 1681405200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/writing-your-backend-in-dart/",
             "title": "Writing your back end in Dart",
             "link": "https://blog.codemagic.io/writing-your-backend-in-dart/",
             "updated": 1680541200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/clean-architecture-explored/",
             "title": "Clean architecture explored",
             "link": "https://blog.codemagic.io/clean-architecture-explored/",
             "updated": 1679504400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/xcode-14.3-macos-ventura/",
             "title": "Xcode 14.3 Requires macOS Ventura. What does this mean for you and your Codemagic projects?",
             "link": "https://blog.codemagic.io/xcode-14.3-macos-ventura/",
             "updated": 1678640400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/a-complete-guide-to-firebase-multi-factor-authentication-in-flutter/",
             "title": "A Complete Guide to Firebase Multifactor Authentication in Flutter",
             "link": "https://blog.codemagic.io/a-complete-guide-to-firebase-multi-factor-authentication-in-flutter/",
             "updated": 1677690000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-embed-an-android-unity-game-in-a-flutter-app/",
             "title": "How to embed an Android Unity game in a Flutter app",
             "link": "https://blog.codemagic.io/how-to-embed-an-android-unity-game-in-a-flutter-app/",
             "updated": 1675962000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/cross-compiling-dart-cli-applications-with-codemagic/",
             "title": "Cross-compiling Dart CLI applications with Codemagic",
             "link": "https://blog.codemagic.io/cross-compiling-dart-cli-applications-with-codemagic/",
             "updated": 1675184400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/a-pragmatic-guide-to-buildcontext-in-flutter/",
             "title": "A pragmatic guide to BuildContext in Flutter",
             "link": "https://blog.codemagic.io/a-pragmatic-guide-to-buildcontext-in-flutter/",
             "updated": 1675098000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-runway-integration/",
             "title": "Introducing the official Codemagic integration for Runway",
             "link": "https://blog.codemagic.io/codemagic-runway-integration/",
             "updated": 1674406800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/creating-content-blockers-with-flutter-inappwebview/",
             "title": "Creating WebView Content Blockers with Flutter InAppWebView",
             "link": "https://blog.codemagic.io/creating-content-blockers-with-flutter-inappwebview/",
             "updated": 1672592400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-we-contribute-to-flutter-ecosystem/",
             "title": "How we contribute to the Flutter ecosystem",
             "link": "https://blog.codemagic.io/how-we-contribute-to-flutter-ecosystem/",
             "updated": 1670950800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/migrating-a-flutter-app-to-material-3/",
             "title": "Migrating a Flutter app to Material 3",
             "link": "https://blog.codemagic.io/migrating-a-flutter-app-to-material-3/",
             "updated": 1670346000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-with-codemagic-portugese/",
             "title": "Integra\u00e7\u00e3o e Entrega Cont\u00ednua (CI/CD) Flutter usando a Codemagic",
             "link": "https://blog.codemagic.io/getting-started-with-codemagic-portugese/",
             "updated": 1670196324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-recap-2022/",
             "title": "Codemagic turns 4 \ud83e\udd73",
             "link": "https://blog.codemagic.io/codemagic-recap-2022/",
             "updated": 1669914000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ios-code-signing-webinar-2022-12-14/",
             "title": "Taking the pain away from iOS code signing \u2014 webinar",
             "link": "https://blog.codemagic.io/ios-code-signing-webinar-2022-12-14/",
             "updated": 1669827600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-pricing-portuguese/",
             "title": "Estamos reduzindo os pre\u00e7os gra\u00e7as \u00e0s m\u00e1quinas Apple M1",
             "link": "https://blog.codemagic.io/new-pricing-portuguese/",
             "updated": 1669482000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/apple-developer-integration-codemagic/",
             "title": "Publish to App Store Connect with Codemagic\u2019s Apple Developer Portal integration",
             "link": "https://blog.codemagic.io/apple-developer-integration-codemagic/",
             "updated": 1669222800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/10-reasons-to-choose-codemagic-ci-cd-in-2022-2023/",
             "title": "10 reasons to choose Codemagic CI/CD in 2022\u20132023",
             "link": "https://blog.codemagic.io/10-reasons-to-choose-codemagic-ci-cd-in-2022-2023/",
             "updated": 1668358800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/code-signing-issues-in-xcode-14-and-how-to-fix-them/",
             "title": "Code signing issues in Xcode 14 and how to fix them",
             "link": "https://blog.codemagic.io/code-signing-issues-in-xcode-14-and-how-to-fix-them/",
             "updated": 1667494800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-flame-game-development-japanese/",
             "title": "Flutter Flame\u30672D\u30b2\u30fc\u30e0\u3092\u7d20\u65e9\u304f\u7c21\u5358\u306b\u4f5c\u6210",
             "link": "https://blog.codemagic.io/flutter-flame-game-development-japanese/",
             "updated": 1667235600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-go-router-guide/",
             "title": "A beginner\u2019s guide to go_router in Flutter",
             "link": "https://blog.codemagic.io/flutter-go-router-guide/",
             "updated": 1666458000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-widget-cheat-sheet/",
             "title": "Flutter widgets cheat sheet",
             "link": "https://blog.codemagic.io/flutter-widget-cheat-sheet/",
             "updated": 1666198800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-state-management-part-1/",
             "title": "Dr. Riverpod: How I learned to stop worrying and love state management",
             "link": "https://blog.codemagic.io/flutter-state-management-part-1/",
             "updated": 1665626400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/swift-leeds-2022/",
             "title": "SwiftLeeds 2022: What to expect",
             "link": "https://blog.codemagic.io/swift-leeds-2022/",
             "updated": 1665334800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-codemagic-lowered-prices-and-improved-infrastructure/",
             "title": "How Codemagic managed to lower its prices and improve its infrastructure",
             "link": "https://blog.codemagic.io/how-codemagic-lowered-prices-and-improved-infrastructure/",
             "updated": 1665075600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-build-a-chrome-extension-with-flutter-web/",
             "title": "How to build a Chrome extension with Flutter Web",
             "link": "https://blog.codemagic.io/how-to-build-a-chrome-extension-with-flutter-web/",
             "updated": 1664989200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/pwa-in-flutter/",
             "title": "Creating a Progressive Web App (PWA) with Flutter",
             "link": "https://blog.codemagic.io/pwa-in-flutter/",
             "updated": 1664298000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mason-cli/",
             "title": "Using Mason and bricks in your Flutter app: Beginner\u2019s guide",
             "link": "https://blog.codemagic.io/mason-cli/",
             "updated": 1663693200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/nsspainx-2022/",
             "title": "What to expect from NSSpainX 2022",
             "link": "https://blog.codemagic.io/nsspainx-2022/",
             "updated": 1663002000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-pricing/",
             "title": "We are decreasing prices thanks to Apple M1 machines",
             "link": "https://blog.codemagic.io/new-pricing/",
             "updated": 1662138000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-pricing-japanese/",
             "title": "Apple M1\u30de\u30b7\u30f3\u306e\u304a\u304b\u3052\u3067\u4fa1\u683c\u3092\u4e0b\u3052\u3066\u3044\u307e\u3059",
             "link": "https://blog.codemagic.io/new-pricing-japanese/",
             "updated": 1662051600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-emulator/",
             "title": "How to use Firebase emulator with Flutter",
             "link": "https://blog.codemagic.io/firebase-emulator/",
             "updated": 1661965200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vikings-2022-preview/",
             "title": "Flutter Vikings 2022: What to expect",
             "link": "https://blog.codemagic.io/flutter-vikings-2022-preview/",
             "updated": 1661792820,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/wwdc-2022-new-swiftui/",
             "title": "SwiftUI 4.0: New and updated APIs with code examples",
             "link": "https://blog.codemagic.io/wwdc-2022-new-swiftui/",
             "updated": 1661101200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-automate-delivering-unity-apps-to-testers-with-cicd/",
             "title": "How to automate delivering Unity apps to testers with CI/CD",
             "link": "https://blog.codemagic.io/how-to-automate-delivering-unity-apps-to-testers-with-cicd/",
             "updated": 1660496400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-local-notifications/",
             "title": "How to implement Flutter local notifications to boost user engagement",
             "link": "https://blog.codemagic.io/flutter-local-notifications/",
             "updated": 1659949849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testfligh-crash/",
             "title": "Is your app crashing on TestFlight? Issues and potential solutions",
             "link": "https://blog.codemagic.io/testfligh-crash/",
             "updated": 1659114000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-with-google-sheets/",
             "title": "How to use Flutter with Google Sheets, Apps Script, and Codemagic",
             "link": "https://blog.codemagic.io/flutter-with-google-sheets/",
             "updated": 1658221849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-monorepos/",
             "title": "How to manage your Flutter monorepos",
             "link": "https://blog.codemagic.io/flutter-monorepos/",
             "updated": 1657617049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unity-cloud-content-delivery/",
             "title": "How to deploy game updates with Unity Cloud Content Delivery and Codemagic",
             "link": "https://blog.codemagic.io/unity-cloud-content-delivery/",
             "updated": 1657558800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/wwdc-2022-new-xcode/",
             "title": "Xcode 14: Discussing improvements and new features with examples",
             "link": "https://blog.codemagic.io/wwdc-2022-new-xcode/",
             "updated": 1657213200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unity-artists-developers-collaboration/",
             "title": "Building a robust dev/artist collaboration pipeline for your Unity projects with Git and Codemagic",
             "link": "https://blog.codemagic.io/unity-artists-developers-collaboration/",
             "updated": 1656003600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-frameworks-wwdc-2022/",
             "title": "New frameworks announced at WWDC 2022",
             "link": "https://blog.codemagic.io/new-frameworks-wwdc-2022/",
             "updated": 1655312400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-flame-game-development/",
             "title": "Create 2D games quickly and easily with Flutter Flame",
             "link": "https://blog.codemagic.io/flutter-flame-game-development/",
             "updated": 1655139600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mobsfscan-with-codemagic/",
             "title": "Scan your builds for vulnerabilities by using mobsfscan with Codemagic",
             "link": "https://blog.codemagic.io/mobsfscan-with-codemagic/",
             "updated": 1655139600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/godot-games-cicd/",
             "title": "Setting up CI/CD for a Godot game",
             "link": "https://blog.codemagic.io/godot-games-cicd/",
             "updated": 1654707600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/guide-wwdc-2022/",
             "title": "Swiftly Approaching: Guide to Apple WWDC 2022",
             "link": "https://blog.codemagic.io/guide-wwdc-2022/",
             "updated": 1654448400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-is-gameci/",
             "title": "What is GameCI?",
             "link": "https://blog.codemagic.io/what-is-gameci/",
             "updated": 1653757200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-m1-vm-comparison/",
             "title": "Flutter builds are way faster with M1 machines: A comparison of VMs",
             "link": "https://blog.codemagic.io/flutter-m1-vm-comparison/",
             "updated": 1653383449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-m1-vm-comparison-jpn/",
             "title": "Flutter\u306e\u30d3\u30eb\u30c9\u306f\u3001M1\u30de\u30b7\u30f3\u3092\u5229\u7528\u3059\u308b\u65b9\u304c\u5727\u5012\u7684\u306b\u901f\u3044\u3067\u3059\uff1a\u8907\u6570\u306eVM\u306e\u6bd4\u8f03",
             "link": "https://blog.codemagic.io/flutter-m1-vm-comparison-jpn/",
             "updated": 1653383449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-publish-flutter-apps-to-appcenter-jpn/",
             "title": "Flutter\u30a2\u30d7\u30ea\u3092\u30d9\u30fc\u30bf\u30c6\u30b9\u30c8\u7528\u306bApp Center\u3078\u516c\u958b\u3059\u308b\u65b9\u6cd5",
             "link": "https://blog.codemagic.io/how-to-publish-flutter-apps-to-appcenter-jpn/",
             "updated": 1653238800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-and-publishing-a-vr-unity-game-for-oculus-with-codemagic-jpn/",
             "title": "Codemagic\u3067Oculus\u7528VR Unity\u30b2\u30fc\u30e0\u3092\u4f5c\u3063\u3066\u516c\u958b\uff01",
             "link": "https://blog.codemagic.io/building-and-publishing-a-vr-unity-game-for-oculus-with-codemagic-jpn/",
             "updated": 1652979600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/updating-intel-m1-silicon/",
             "title": "Updating your dependencies for Apple Silicon M1 & M2 Macs and CI/CD",
             "link": "https://blog.codemagic.io/updating-intel-m1-silicon/",
             "updated": 1652806800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/udo-games-case-study/",
             "title": "UDO Games: With Codemagic everyone can trigger a build",
             "link": "https://blog.codemagic.io/udo-games-case-study/",
             "updated": 1652634000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/google-io-2022/",
             "title": "What's new on Google I/O 2022 for developers: Key announcements",
             "link": "https://blog.codemagic.io/google-io-2022/",
             "updated": 1652288400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/google-io-2022-jpn/",
             "title": "\u958b\u767a\u8005\u306b\u5411\u3051\u305fGoogle I/O 2022\u306e\u65b0\u7740\u60c5\u5831\u3068\u4e3b\u306a\u767a\u8868\u5185\u5bb9",
             "link": "https://blog.codemagic.io/google-io-2022-jpn/",
             "updated": 1652288400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/sonarqube-integration/",
             "title": "How to set up SonarQube and integrate it with Codemagic",
             "link": "https://blog.codemagic.io/sonarqube-integration/",
             "updated": 1652029200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-publish-flutter-apps-to-appcenter/",
             "title": "How to release your Flutter app to App Center for beta testing",
             "link": "https://blog.codemagic.io/how-to-publish-flutter-apps-to-appcenter/",
             "updated": 1651597200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/multi-flavored-authentication-in-flutter/",
             "title": "Multi-flavored authentication in Flutter using flutter_bloc",
             "link": "https://blog.codemagic.io/multi-flavored-authentication-in-flutter/",
             "updated": 1651569049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-unity-ios-apps-jpn/",
             "title": "Codemagic\u3092\u4f7f\u3063\u3066Unity iOS\u30a2\u30d7\u30ea\u3092App Store Connect\u306b\u516c\u958b\u3059\u308b\u65b9\u6cd5",
             "link": "https://blog.codemagic.io/publishing-unity-ios-apps-jpn/",
             "updated": 1651424400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/redux-vs-recoil-for-react-native/",
             "title": "Redux vs Recoil: Choosing the right state management library for React Native",
             "link": "https://blog.codemagic.io/redux-vs-recoil-for-react-native/",
             "updated": 1651424400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/migrating-intel-to-m1-jpn/",
             "title": "iOS\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3068CI/CD\u3092M1 Mac\u306b\u79fb\u884c",
             "link": "https://blog.codemagic.io/migrating-intel-to-m1-jpn/",
             "updated": 1651338000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unit-test-automation-unity-jpn/",
             "title": "Unity/C#\u3068Codemagic\u3092\u4f7f\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u30c6\u30b9\u30c8\u306e\u81ea\u52d5\u5316",
             "link": "https://blog.codemagic.io/unit-test-automation-unity-jpn/",
             "updated": 1651338000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publish-flutter-to-firebase-app-distribution-jpn/",
             "title": "Flutter\u30a2\u30d7\u30ea\u3092Firebase App Distribution\u306b\u516c\u958b",
             "link": "https://blog.codemagic.io/publish-flutter-to-firebase-app-distribution-jpn/",
             "updated": 1651251600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/develop-ios-apps-without-mac-with-react-native-codemagic-jpn/",
             "title": "React Native & Codemagic\u3092\u4f7f\u3063\u3066Mac\u306a\u3057\u3067iOS\u30a2\u30d7\u30ea\u3092\u958b\u767a\u30fb\u914d\u5e03\u3059\u308b\u65b9\u6cd5",
             "link": "https://blog.codemagic.io/develop-ios-apps-without-mac-with-react-native-codemagic-jpn/",
             "updated": 1651140649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-android-to-flutter/",
             "title": "My experience with Flutter as an Android developer + how to get started",
             "link": "https://blog.codemagic.io/native-android-to-flutter/",
             "updated": 1651078800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/version-inconsistency/",
             "title": "How to solve version inconsistencies for a better compilation with Codemagic CI/CD",
             "link": "https://blog.codemagic.io/version-inconsistency/",
             "updated": 1650933924,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/apple-deprecates-xcode-12/",
             "title": "Apple is deprecating Xcode 12. What does this mean for you and your Codemagic projects?",
             "link": "https://blog.codemagic.io/apple-deprecates-xcode-12/",
             "updated": 1650906000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/10-tips-for-better-pull-requests-and-code-review/",
             "title": "10 tips for better pull requests and code review",
             "link": "https://blog.codemagic.io/10-tips-for-better-pull-requests-and-code-review/",
             "updated": 1650733200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/pratical-guide-flutterfire-cli/",
             "title": "Practical Guide: Flutter + Firebase + FlutterFire CLI + CI (Codemagic)",
             "link": "https://blog.codemagic.io/pratical-guide-flutterfire-cli/",
             "updated": 1650474000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/issues-with-apple-silicon-and-snapshot-and-golden-testing/",
             "title": "Issues with Apple silicon and snapshot/golden testing",
             "link": "https://blog.codemagic.io/issues-with-apple-silicon-and-snapshot-and-golden-testing/",
             "updated": 1650301200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/app-store-connect-issues/",
             "title": "Issues with uploading to the App Store and how to solve them",
             "link": "https://blog.codemagic.io/app-store-connect-issues/",
             "updated": 1649696400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-graphql/",
             "title": "How to implement GraphQL with Flutter + GraphQL example",
             "link": "https://blog.codemagic.io/flutter-graphql/",
             "updated": 1649610000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/build-automation/",
             "title": "Build automation \u2014 how can your project benefit from it?",
             "link": "https://blog.codemagic.io/build-automation/",
             "updated": 1649350800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unity-crashlytics-android/",
             "title": "How to set up Firebase Crashlytics for a Unity Android app",
             "link": "https://blog.codemagic.io/unity-crashlytics-android/",
             "updated": 1649091600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-navigator2/",
             "title": "Understanding Flutter Navigator 2.0",
             "link": "https://blog.codemagic.io/flutter-navigator2/",
             "updated": 1648486800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-unity-ci-cd-public-launch/",
             "title": "Codemagic publicly launches Unity CI/CD",
             "link": "https://blog.codemagic.io/codemagic-unity-ci-cd-public-launch/",
             "updated": 1648400400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-native-development/",
             "title": "Flutter vs native development: Which one to pick for your next project?",
             "link": "https://blog.codemagic.io/flutter-vs-native-development/",
             "updated": 1648141200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/automatig-screenshots-for-ios-apps-using-fastlane-and-codemagic/",
             "title": "Automating screenshots for iOS apps using fastlane and Codemagic",
             "link": "https://blog.codemagic.io/automatig-screenshots-for-ios-apps-using-fastlane-and-codemagic/",
             "updated": 1647536400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-electron-desktop-apps-with-react/",
             "title": "Building Electron desktop apps with React using Codemagic",
             "link": "https://blog.codemagic.io/building-electron-desktop-apps-with-react/",
             "updated": 1647450000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/understanding-flutter-isolates/",
             "title": "Flutter isolates \u2013 everything you need to know",
             "link": "https://blog.codemagic.io/understanding-flutter-isolates/",
             "updated": 1646845200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-mobile-ci-cd-codemagic-es/",
             "title": "Integraci\u00f3n y entregas continuas en Flutter con Codemagic CI/CD",
             "link": "https://blog.codemagic.io/getting-started-mobile-ci-cd-codemagic-es/",
             "updated": 1646695524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-and-publishing-a-vr-unity-game-for-oculus-with-codemagic/",
             "title": "Building and publishing a VR Unity game for Oculus with Codemagic!",
             "link": "https://blog.codemagic.io/building-and-publishing-a-vr-unity-game-for-oculus-with-codemagic/",
             "updated": 1646240400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/open-source-ios-projects-to-learn-better-practices/",
             "title": "Open-source iOS apps for learning better practices",
             "link": "https://blog.codemagic.io/open-source-ios-projects-to-learn-better-practices/",
             "updated": 1646067600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-mac-mini-m1-release/",
             "title": "CI/CD on M1 Mac minis with Codemagic",
             "link": "https://blog.codemagic.io/codemagic-mac-mini-m1-release/",
             "updated": 1645808400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/rest-api-in-flutter/",
             "title": "Working with REST APIs \u2014 Flutter \ud83d\udc99",
             "link": "https://blog.codemagic.io/rest-api-in-flutter/",
             "updated": 1645635600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/detailed-unity-test-reports-with-codemagic/",
             "title": "Getting detailed Unity unit test reports with Codemagic!",
             "link": "https://blog.codemagic.io/detailed-unity-test-reports-with-codemagic/",
             "updated": 1644944400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-build-and-distribute-ios-apps-without-mac-with-flutter-codemagic/",
             "title": "How to build and distribute iOS apps without Mac with Flutter & Codemagic",
             "link": "https://blog.codemagic.io/how-to-build-and-distribute-ios-apps-without-mac-with-flutter-codemagic/",
             "updated": 1644426000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-lambdatest-integration/",
             "title": "LambdaTest real device testing is now available on Codemagic",
             "link": "https://blog.codemagic.io/codemagic-lambdatest-integration/",
             "updated": 1644426000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unity-firebase-app-distribution/",
             "title": "Publishing Unity projects with Firebase App Distribution",
             "link": "https://blog.codemagic.io/unity-firebase-app-distribution/",
             "updated": 1644426000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/macos-ui-testing-with-codemagic/",
             "title": "macOS UI testing with Codemagic",
             "link": "https://blog.codemagic.io/macos-ui-testing-with-codemagic/",
             "updated": 1644166800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/versioning-unity-project-with-git/",
             "title": "Versioning a Unity project with Git... and publishing it quickly with Codemagic!",
             "link": "https://blog.codemagic.io/versioning-unity-project-with-git/",
             "updated": 1643734800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter-jpn/",
             "title": "Flutter\u3092\u4f7f\u3063\u305fGoogle\u30b5\u30a4\u30f3\u30a4\u30f3\uff06Firebase\u8a8d\u8a3c",
             "link": "https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter-jpn/",
             "updated": 1643475600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ios-conf-sg-2022-key-learnings/",
             "title": "iOS Conf SG 2022: Key learnings",
             "link": "https://blog.codemagic.io/ios-conf-sg-2022-key-learnings/",
             "updated": 1643389200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-webhooks/",
             "title": "Automatic build triggering for multiple platforms using webhooks",
             "link": "https://blog.codemagic.io/codemagic-webhooks/",
             "updated": 1643209200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-with-xcremotecache/",
             "title": "Getting Started with XCRemoteCache: Speed up local iOS builds",
             "link": "https://blog.codemagic.io/getting-started-with-xcremotecache/",
             "updated": 1643043600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-unity-android-apps/",
             "title": "How to publish Unity Android apps to Google Play with Codemagic",
             "link": "https://blog.codemagic.io/publishing-unity-android-apps/",
             "updated": 1642698000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-web-getting-started-with-responsive-design-jpn/",
             "title": "Flutter\u30a6\u30a7\u30d6\uff0d\u30ec\u30b9\u30dd\u30f3\u30b7\u30d6\u30c7\u30b6\u30a4\u30f3\u3092\u306f\u3058\u3081\u3088\u3046",
             "link": "https://blog.codemagic.io/flutter-web-getting-started-with-responsive-design-jpn/",
             "updated": 1642647600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/pwas-vs-native-apps/",
             "title": "PWAs vs native apps: Side-by-side comparison",
             "link": "https://blog.codemagic.io/pwas-vs-native-apps/",
             "updated": 1642525200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ci-cd-for-flutter-with-fastlane-codemagic-jpn/",
             "title": "Flutter\u7528CI/CD\u306ffastlane\u3068Codemagic\u3067\u7c21\u5358\u306b\u5b9f\u73fe\u3067\u304d\u307e\u3059",
             "link": "https://blog.codemagic.io/ci-cd-for-flutter-with-fastlane-codemagic-jpn/",
             "updated": 1641834000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-develop-and-distribute-ios-apps-without-mac-with-flutter-codemagic_jpn/",
             "title": "Mac\u3092\u4f7f\u308f\u305a\u306b\u3001Flutter & Codemagic\u3067iOS\u30a2\u30d7\u30ea\u3092\u69cb\u7bc9\u30fb\u914d\u5e03\u3059\u308b\u65b9\u6cd5",
             "link": "https://blog.codemagic.io/how-to-develop-and-distribute-ios-apps-without-mac-with-flutter-codemagic_jpn/",
             "updated": 1641747600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/unit-testing-automation-unity/",
             "title": "Unit testing automation with Unity/C# and Codemagic",
             "link": "https://blog.codemagic.io/unit-testing-automation-unity/",
             "updated": 1641747600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/google-sign-in-firebase-authentication-using-swift/",
             "title": "Google Sign-In & Firebase Authentication Using SwiftUI",
             "link": "https://blog.codemagic.io/google-sign-in-firebase-authentication-using-swift/",
             "updated": 1641661200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-unity-ios-apps/",
             "title": "How to publish Unity iOS apps to App Store Connect with Codemagic",
             "link": "https://blog.codemagic.io/publishing-unity-ios-apps/",
             "updated": 1641402000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publish-to-app-store-connect-with-codemagic/",
             "title": "How to publish apps to App Store Connect with Codemagic",
             "link": "https://blog.codemagic.io/publish-to-app-store-connect-with-codemagic/",
             "updated": 1640624400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-flutter-windows-apps/",
             "title": "Publishing Flutter Windows apps to Microsoft Partner Center with Codemagic",
             "link": "https://blog.codemagic.io/publishing-flutter-windows-apps/",
             "updated": 1639933200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/build-video-streaming-with-react-native-and-mux/",
             "title": "How to build a video streaming app with React Native and Mux",
             "link": "https://blog.codemagic.io/build-video-streaming-with-react-native-and-mux/",
             "updated": 1639501200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-recap-2021/",
             "title": "Codemagic turns 3: a year in retrospective",
             "link": "https://blog.codemagic.io/codemagic-recap-2021/",
             "updated": 1638378000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-flutter-linux-apps/",
             "title": "Publishing Flutter Linux apps with Codemagic",
             "link": "https://blog.codemagic.io/publishing-flutter-linux-apps/",
             "updated": 1638205200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-desktop-apps-intro/",
             "title": "Getting started with Flutter desktop apps",
             "link": "https://blog.codemagic.io/flutter-desktop-apps-intro/",
             "updated": 1637254800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/8-mobile-conferences-2021-2022/",
             "title": "Top 8 events & conferences for mobile developers in 2021/2022",
             "link": "https://blog.codemagic.io/8-mobile-conferences-2021-2022/",
             "updated": 1636477200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/adding-ios-test-devices/",
             "title": "How to Register iOS Test Devices Automatically with Codemagic",
             "link": "https://blog.codemagic.io/adding-ios-test-devices/",
             "updated": 1635958800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/continuous-integration-and-delivery-for-ionic-apps-codemagic-japanese/",
             "title": "Ionic\u30a2\u30d7\u30ea\u7528\u306e\u7d99\u7d9a\u7684\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\u3068\u30c7\u30ea\u30d0\u30ea\u30fc\uff08CI/CD\uff09",
             "link": "https://blog.codemagic.io/continuous-integration-and-delivery-for-ionic-apps-codemagic-japanese/",
             "updated": 1635822000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/6-dark-mode-design-tips/",
             "title": "6 dark mode design tips for developers",
             "link": "https://blog.codemagic.io/6-dark-mode-design-tips/",
             "updated": 1635008400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/fuchsia-os-preview/",
             "title": "Getting to know Fuchsia, Google's open-source operating system",
             "link": "https://blog.codemagic.io/fuchsia-os-preview/",
             "updated": 1634662800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-vs-github-actions-comparison/",
             "title": "Codemagic vs GitHub Actions",
             "link": "https://blog.codemagic.io/codemagic-vs-github-actions-comparison/",
             "updated": 1634144400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-getting-started-guide-with-codemagic-japanese/",
             "title": "React Native\u30a2\u30d7\u30ea\u7528\u306e\u7d99\u7d9a\u7684\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\u3068\u30c7\u30ea\u30d0\u30ea\u30fc",
             "link": "https://blog.codemagic.io/react-native-getting-started-guide-with-codemagic-japanese/",
             "updated": 1633057200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-to-use-cicd-for-unity-games/",
             "title": "Why you should use CI/CD for Unity games",
             "link": "https://blog.codemagic.io/why-to-use-cicd-for-unity-games/",
             "updated": 1632993049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/circleci-vs-codemagic-japanese/",
             "title": "Codemagic vs CircleCI: \u5fb9\u5e95\u6bd4\u8f03",
             "link": "https://blog.codemagic.io/circleci-vs-codemagic-japanese/",
             "updated": 1632820249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/6-productivity-tips-with-codemagic-cicd/",
             "title": "6 Productivity Tips with Codemagic CI/CD",
             "link": "https://blog.codemagic.io/6-productivity-tips-with-codemagic-cicd/",
             "updated": 1632215449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/post-processing-of-app-store-distribution-japanese/",
             "title": "Magic Actions\u3067iOS\u306e\u30d3\u30eb\u30c9\u6642\u9593\u3092\u77ed\u7e2e",
             "link": "https://blog.codemagic.io/post-processing-of-app-store-distribution-japanese/",
             "updated": 1631661924,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/write-for-medium-publication-code-well/",
             "title": "Write for our new Medium publication Code Well and get a limited edition T-shirt!",
             "link": "https://blog.codemagic.io/write-for-medium-publication-code-well/",
             "updated": 1631495018,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/remote-access-to-virtual-mac-build-machine-jpn/",
             "title": "Codemagic\u306e\u4eee\u60f3MacOS\u30d3\u30eb\u30c9\u30de\u30b7\u30f3\u3078\u306e\u30ea\u30e2\u30fc\u30c8\u30a2\u30af\u30bb\u30b9\u306e\u4f7f\u3044\u65b9",
             "link": "https://blog.codemagic.io/remote-access-to-virtual-mac-build-machine-jpn/",
             "updated": 1631437849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-to-use-cicd-for-unity-games-jpn/",
             "title": "Unity\u30b2\u30fc\u30e0\u306bCI/CD\u3092\u4f7f\u3046\u3079\u304d\u7406\u7531",
             "link": "https://blog.codemagic.io/why-to-use-cicd-for-unity-games-jpn/",
             "updated": 1631437849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-automated-screenshot-testing/",
             "title": "Flutter automated screenshot testing using the integration_test package",
             "link": "https://blog.codemagic.io/flutter-automated-screenshot-testing/",
             "updated": 1629713449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-vs-bitrise-jpn/",
             "title": "Codemagic vs Bitrise: \u8a73\u7d30\u306a\u6bd4\u8f03",
             "link": "https://blog.codemagic.io/codemagic-vs-bitrise-jpn/",
             "updated": 1629450649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ios-code-signing-with-cli-tools/",
             "title": "Build and Publish iOS Apps with Codemagic CLI Tools",
             "link": "https://blog.codemagic.io/ios-code-signing-with-cli-tools/",
             "updated": 1629306000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic-ukr/",
             "title": "\u041d\u0435\u043f\u0435\u0440\u0435\u0440\u0432\u043d\u0430 \u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u044f (CI) \u0442\u0430 \u043d\u0435\u043f\u0435\u0440\u0435\u0440\u0432\u043d\u0430 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 (CD) \u043d\u0430 iOS \u0456\u0437 Codemagic",
             "link": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic-ukr/",
             "updated": 1628983524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/jenkins-vs-codemagic-ci-alternative-to-jenkins-japanese/",
             "title": "Jenkins vs Codemagic: \u30e2\u30d0\u30a4\u30eb\u958b\u767a\u8005\u7528\u306eCI\u4ee3\u66ff\u30c4\u30fc\u30eb",
             "link": "https://blog.codemagic.io/jenkins-vs-codemagic-ci-alternative-to-jenkins-japanese/",
             "updated": 1628763049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/continuous-feedback-to-make-your-release-success/",
             "title": "Dev team productivity tips: Achieving continuous feedback to make your release a success",
             "link": "https://blog.codemagic.io/continuous-feedback-to-make-your-release-success/",
             "updated": 1627916400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/automated-deployments-for-better-and-faster-releases/",
             "title": "Dev team productivity tips: Switch to automated deployments for better and faster releases",
             "link": "https://blog.codemagic.io/automated-deployments-for-better-and-faster-releases/",
             "updated": 1627916400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/upload-release-notes-to-testflight/",
             "title": "How to upload release notes to TestFlight",
             "link": "https://blog.codemagic.io/upload-release-notes-to-testflight/",
             "updated": 1627860324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/post-processing-of-app-store-distribution/",
             "title": "Cut iOS build times with Magic Actions",
             "link": "https://blog.codemagic.io/post-processing-of-app-store-distribution/",
             "updated": 1627687524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/25-must-have-tools-as-an-apple-platforms-developer/",
             "title": "25 Must-have tools for Apple platforms developers + Infographic",
             "link": "https://blog.codemagic.io/25-must-have-tools-as-an-apple-platforms-developer/",
             "updated": 1627664400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-cicd-helps-teams-deliver-better-software/",
             "title": "How CI/CD helps teams deliver better software",
             "link": "https://blog.codemagic.io/how-cicd-helps-teams-deliver-better-software/",
             "updated": 1627336800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publish-to-firebase-app-distribution-with-codemagic-yaml/",
             "title": "Publish Apps to Firebase App Distribution using codemagic.yaml",
             "link": "https://blog.codemagic.io/publish-to-firebase-app-distribution-with-codemagic-yaml/",
             "updated": 1626973200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publish-flutter-to-firebase-app-distribution/",
             "title": "Publish Flutter Apps to Firebase App Distribution",
             "link": "https://blog.codemagic.io/publish-flutter-to-firebase-app-distribution/",
             "updated": 1626973200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/understanding-in-app-purchase-apis-in-flutter/",
             "title": "Understanding `in_app_purchase` APIs in Flutter",
             "link": "https://blog.codemagic.io/understanding-in-app-purchase-apis-in-flutter/",
             "updated": 1626737124,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/keep-your-android-project-secure-with-codemagic/",
             "title": "Dev team tips: Keep your Android project secure using Codemagic",
             "link": "https://blog.codemagic.io/keep-your-android-project-secure-with-codemagic/",
             "updated": 1626564324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/managing-multiple-apps-at-scale/",
             "title": "Dev team productivity tips: Managing multiple apps at scale",
             "link": "https://blog.codemagic.io/managing-multiple-apps-at-scale/",
             "updated": 1626534000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/maintaining-automated-build-pipelines/",
             "title": "Dev team productivity tips: Maintaining automated build pipelines",
             "link": "https://blog.codemagic.io/maintaining-automated-build-pipelines/",
             "updated": 1625756400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-with-codemagic-rus/",
             "title": "\u041d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 (CI/CD) \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 Flutter \u0441 Codemagic",
             "link": "https://blog.codemagic.io/getting-started-with-codemagic-rus/",
             "updated": 1625527524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-monorepo/",
             "title": "Introducing support for monorepos on Codemagic",
             "link": "https://blog.codemagic.io/codemagic-monorepo/",
             "updated": 1625181924,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-make-your-react-native-app-send-emails/",
             "title": "How to make your React Native app send emails",
             "link": "https://blog.codemagic.io/how-to-make-your-react-native-app-send-emails/",
             "updated": 1623751849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/devops-challenges-how-to-overcome-them/",
             "title": "Common DevOps challenges and how to overcome them",
             "link": "https://blog.codemagic.io/devops-challenges-how-to-overcome-them/",
             "updated": 1623121200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/perform-on-device-machine-learning-using-ml-kit-in-flutter/",
             "title": "Perform on-device machine learning using ML Kit in Flutter",
             "link": "https://blog.codemagic.io/perform-on-device-machine-learning-using-ml-kit-in-flutter/",
             "updated": 1622542249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-packages-ebook-update/",
             "title": "We have updated the \"Flutter libraries we love\" eBook with 20+ new Flutter packages",
             "link": "https://blog.codemagic.io/flutter-packages-ebook-update/",
             "updated": 1622330724,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/devops-testing-tools/",
             "title": "DevOps testing tools in 2021",
             "link": "https://blog.codemagic.io/devops-testing-tools/",
             "updated": 1622071524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/tips-for-saving-time-and-money-building-mobile-apps/",
             "title": "6 tips for saving time (and money) building mobile apps",
             "link": "https://blog.codemagic.io/tips-for-saving-time-and-money-building-mobile-apps/",
             "updated": 1621184400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-react-native-apps-with-linux/",
             "title": "Testing React Native apps with Linux instances on Codemagic",
             "link": "https://blog.codemagic.io/testing-react-native-apps-with-linux/",
             "updated": 1621073449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/macos-desktop-publishing-with-codemagic/",
             "title": "Flutter macOS desktop publishing with Codemagic",
             "link": "https://blog.codemagic.io/macos-desktop-publishing-with-codemagic/",
             "updated": 1620925200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-electron/",
             "title": "Flutter desktop vs Electron: Why to choose Flutter for your next desktop app",
             "link": "https://blog.codemagic.io/flutter-vs-electron/",
             "updated": 1620925200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/reactnative-testing-ebook-by-codemagic/",
             "title": "Presenting our new ebook \u2013 \"Testing React Native Apps\"",
             "link": "https://blog.codemagic.io/reactnative-testing-ebook-by-codemagic/",
             "updated": 1620516324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/circleci-vs-codemagic/",
             "title": "Codemagic vs CircleCI: In depth comparison",
             "link": "https://blog.codemagic.io/circleci-vs-codemagic/",
             "updated": 1619773849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/build-versioning-with-codemagic/",
             "title": "Mobile build versioning best practices with Codemagic",
             "link": "https://blog.codemagic.io/build-versioning-with-codemagic/",
             "updated": 1619715600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-is-mobile-devops-and-why-should-you-care/",
             "title": "What is Mobile DevOps, and why should you care?",
             "link": "https://blog.codemagic.io/what-is-mobile-devops-and-why-should-you-care/",
             "updated": 1619652324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-build-react-native-ios-app-on-windows/",
             "title": "How to make an iOS app on Windows with React Native & Codemagic",
             "link": "https://blog.codemagic.io/how-to-build-react-native-ios-app-on-windows/",
             "updated": 1619017200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/moving-from-native-platforms-to-react-native/",
             "title": "Why did I move from native platforms to React Native?",
             "link": "https://blog.codemagic.io/moving-from-native-platforms-to-react-native/",
             "updated": 1618455600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/integrate-firebase-cloud-firestore-with-flutter-perform-crud/",
             "title": "CRUD operations using Firebase Cloud Firestore and Flutter",
             "link": "https://blog.codemagic.io/integrate-firebase-cloud-firestore-with-flutter-perform-crud/",
             "updated": 1618358400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-local-database-for-react-native/",
             "title": "How to test SQLite for React Native apps using Jest",
             "link": "https://blog.codemagic.io/testing-local-database-for-react-native/",
             "updated": 1618196400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-custom-reusable-components-in-react-native/",
             "title": "Testing custom reusable components in React Native",
             "link": "https://blog.codemagic.io/testing-custom-reusable-components-in-react-native/",
             "updated": 1618110000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-api-calls-in-react-native/",
             "title": "How to test API calls in React Native applications",
             "link": "https://blog.codemagic.io/testing-api-calls-in-react-native/",
             "updated": 1617764400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/difference-between-continuous-deployment-and-continuous-delivery/",
             "title": "Key differences between Continuous Delivery and Deployment",
             "link": "https://blog.codemagic.io/difference-between-continuous-deployment-and-continuous-delivery/",
             "updated": 1617289200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-vs-bitrise/",
             "title": "Codemagic vs Bitrise: In depth comparison",
             "link": "https://blog.codemagic.io/codemagic-vs-bitrise/",
             "updated": 1617095449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/9-reasons-to-choose-codemagic-ci-cd-for-react-native/",
             "title": "9 reasons to use Codemagic CI/CD tool for React Native apps in 2021",
             "link": "https://blog.codemagic.io/9-reasons-to-choose-codemagic-ci-cd-for-react-native/",
             "updated": 1616857200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-new-features-linux/",
             "title": "New features of Codemagic in March 2021",
             "link": "https://blog.codemagic.io/codemagic-new-features-linux/",
             "updated": 1616778000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-did-i-move-from-xamarin-forms-to-flutter/",
             "title": "Flutter vs Xamarin.Forms \u2013 Why Did I Move From Xamarin.Forms to Flutter?",
             "link": "https://blog.codemagic.io/why-did-i-move-from-xamarin-forms-to-flutter/",
             "updated": 1616511600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-authentication-using-react-native/",
             "title": "Firebase + React Native Authentication",
             "link": "https://blog.codemagic.io/firebase-authentication-using-react-native/",
             "updated": 1615863600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ci-cd-for-flutter-with-fastlane-codemagic/",
             "title": "CI/CD for Flutter is a piece of cake with fastlane and Codemagic",
             "link": "https://blog.codemagic.io/ci-cd-for-flutter-with-fastlane-codemagic/",
             "updated": 1615395600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-apps-testing-end-to-end/",
             "title": "React Native testing: End-to-end testing of your apps",
             "link": "https://blog.codemagic.io/react-native-apps-testing-end-to-end/",
             "updated": 1615258800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-state-management-with-riverpod/",
             "title": "Simplify Flutter state management with Riverpod",
             "link": "https://blog.codemagic.io/flutter-state-management-with-riverpod/",
             "updated": 1615111849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mobile-testing-appium-react-native-apps/",
             "title": "Appium mobile testing \u2013 test React Native apps",
             "link": "https://blog.codemagic.io/mobile-testing-appium-react-native-apps/",
             "updated": 1615086000,
-            "site_name": "Codemagic Blog"
-        },
-        {
-            "id": "https://blog.codemagic.io/flutter-engage-announcements/",
-            "title": "Flutter Engage: A roundup of new announcements",
-            "link": "https://blog.codemagic.io/flutter-engage-announcements/",
-            "updated": 1614766249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/pub-green/",
             "title": "pub.green: the \u201ccan I use\u201d for Flutter developers",
             "link": "https://blog.codemagic.io/pub-green/",
             "updated": 1614772800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
+        },
+        {
+            "id": "https://blog.codemagic.io/flutter-engage-announcements/",
+            "title": "Flutter Engage: A roundup of new announcements",
+            "link": "https://blog.codemagic.io/flutter-engage-announcements/",
+            "updated": 1614766249,
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/jenkins-vs-codemagic-ci-alternative-to-jenkins/",
             "title": "Jenkins vs Codemagic: CI alternative for mobile developers",
             "link": "https://blog.codemagic.io/jenkins-vs-codemagic-ci-alternative-to-jenkins/",
             "updated": 1613815849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/invoice-ninja-case-study/",
             "title": "Invoice Ninja: \u201cEveryone shipping apps\u201d should consider CI/CD",
             "link": "https://blog.codemagic.io/invoice-ninja-case-study/",
             "updated": 1613581200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/very-good-ventures-case-study/",
             "title": "Very Good Ventures: The biggest problem has always been streamlining deployments to the Google Play Store and App Store Connect",
             "link": "https://blog.codemagic.io/very-good-ventures-case-study/",
             "updated": 1613494800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/improve-react-native-app-performance/",
             "title": "How to improve the performance of a React Native app",
             "link": "https://blog.codemagic.io/improve-react-native-app-performance/",
             "updated": 1613358000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ci-cd-tools-for-mobile-apps/",
             "title": "Continuous integration tools for mobile vs web. What\u2019s the difference?",
             "link": "https://blog.codemagic.io/ci-cd-tools-for-mobile-apps/",
             "updated": 1612976400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-is-continuous-integration-and-how-to-benefit-from-it/",
             "title": "What is continuous integration and how to benefit from it?",
             "link": "https://blog.codemagic.io/what-is-continuous-integration-and-how-to-benefit-from-it/",
             "updated": 1612976400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/build-video-streaming-with-flutter-and-mux/",
             "title": "How to build a video streaming app with Flutter and Mux",
             "link": "https://blog.codemagic.io/build-video-streaming-with-flutter-and-mux/",
             "updated": 1612779049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-react-native-apps-with-jest/",
             "title": "Testing React Native apps with Jest and Codemagic",
             "link": "https://blog.codemagic.io/testing-react-native-apps-with-jest/",
             "updated": 1612494000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/dart-vs-kotlin/",
             "title": "Dart vs Kotlin: detailed comparison",
             "link": "https://blog.codemagic.io/dart-vs-kotlin/",
             "updated": 1612260649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/choosing-the-right-database-for-react-native-app/",
             "title": "Choosing the right database for your React Native app",
             "link": "https://blog.codemagic.io/choosing-the-right-database-for-react-native-app/",
             "updated": 1612062000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/the-complete-guide-to-ci-cd/",
             "title": "CI/CD for mobile apps: the complete guide",
             "link": "https://blog.codemagic.io/the-complete-guide-to-ci-cd/",
             "updated": 1612026000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-firebase-codemagic-for-ios/",
             "title": "Practical guide: React Native + Firebase + Codemagic (for iOS)",
             "link": "https://blog.codemagic.io/react-native-firebase-codemagic-for-ios/",
             "updated": 1611716400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/dart-null-safety-migration-for-package-authors/",
             "title": "Dart null safety migration guide for package authors",
             "link": "https://blog.codemagic.io/dart-null-safety-migration-for-package-authors/",
             "updated": 1610964649,
-            "site_name": "Codemagic Blog"
-        },
-        {
-            "id": "https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/",
-            "title": "How to sign Flutter apps for iOS automatically without a Mac",
-            "link": "https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/",
-            "updated": 1610933510,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-react-native-app-with-redux-and-reselect/",
             "title": "How to build React Native app with Redux and Reselect",
             "link": "https://blog.codemagic.io/building-react-native-app-with-redux-and-reselect/",
             "updated": 1610935200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
+        },
+        {
+            "id": "https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/",
+            "title": "How to sign Flutter apps for iOS automatically without a Mac",
+            "link": "https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/",
+            "updated": 1610933510,
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/dart-vs-javascript/",
             "title": "Dart vs JavaScript: detailed comparison",
             "link": "https://blog.codemagic.io/dart-vs-javascript/",
             "updated": 1609779600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-flutter-integration-tests-firebase-test-lab/",
             "title": "Flutter integration test with Firebase Test Lab & Codemagic CI/CD",
             "link": "https://blog.codemagic.io/codemagic-flutter-integration-tests-firebase-test-lab/",
             "updated": 1609722996,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-mac1-mac-mini/",
             "title": "What is M1 Mac mini and why you should be excited about it",
             "link": "https://blog.codemagic.io/codemagic-mac1-mac-mini/",
             "updated": 1609722996,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-firebase-codemagic-for-android/",
             "title": "Practical guide: React Native + Firebase + Codemagic (for Android)",
             "link": "https://blog.codemagic.io/react-native-firebase-codemagic-for-android/",
             "updated": 1609210800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/best-ci-cd-provider-for-mobile-apps/",
             "title": "6 reasons why Codemagic should be your CI/CD provider for your mobile apps in 2021",
             "link": "https://blog.codemagic.io/best-ci-cd-provider-for-mobile-apps/",
             "updated": 1608908400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/happy-holidays/",
             "title": "We wish you a peaceful holiday season and a happy New Year!",
             "link": "https://blog.codemagic.io/happy-holidays/",
             "updated": 1608513396,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/public-dashboards-for-teams-on-codemagic/",
             "title": "Introducing public dashboards for teams on Codemagic",
             "link": "https://blog.codemagic.io/public-dashboards-for-teams-on-codemagic/",
             "updated": 1608027049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-yaml-cheatsheet/",
             "title": "Codemagic YAML cheat sheet",
             "link": "https://blog.codemagic.io/codemagic-yaml-cheatsheet/",
             "updated": 1607681449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-react-native-in-2021/",
             "title": "Why Android developers should pay attention to React Native in 2021",
             "link": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-react-native-in-2021/",
             "updated": 1607569200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mac-pros-vs-mac-mini/",
             "title": "How Mac Pro machines are saving you 50% of your mobile app build time",
             "link": "https://blog.codemagic.io/mac-pros-vs-mac-mini/",
             "updated": 1607249449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/continuous-integration-and-delivery-for-ionic-apps-codemagic/",
             "title": "Continuous Integration and Delivery (CI/CD) for Ionic apps",
             "link": "https://blog.codemagic.io/continuous-integration-and-delivery-for-ionic-apps-codemagic/",
             "updated": 1606878000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-recap-2020/",
             "title": "\ud83c\udf89\ud83c\udf89\ud83c\udf89 Codemagic turns 2 \u2013 Flutter developers\u2019 favorite CI/CD",
             "link": "https://blog.codemagic.io/codemagic-recap-2020/",
             "updated": 1606785396,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/criton-case-study-japanese/",
             "title": "Criton: Codemagic\u306e\u304a\u304b\u3052\u3067\u3001\u5f53\u793e\u30c1\u30fc\u30e0\u306f\u516c\u958b\u307e\u3067\u306e\u6642\u9593\u309295%\u77ed\u7e2e\u3067\u304d\u307e\u3057\u305f\u3002",
             "link": "https://blog.codemagic.io/criton-case-study-japanese/",
             "updated": 1606582800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/criton-case-study/",
             "title": "White labelling apps at scale",
             "link": "https://blog.codemagic.io/criton-case-study/",
             "updated": 1606582800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/user-presence-in-cloud-firestore-with-flutter/",
             "title": "Managing user presence in Cloud Firestore using Flutter",
             "link": "https://blog.codemagic.io/user-presence-in-cloud-firestore-with-flutter/",
             "updated": 1606532400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-ui-socket/",
             "title": "Beyond UI: Flutter + Socket.io & Real-time Communication",
             "link": "https://blog.codemagic.io/flutter-ui-socket/",
             "updated": 1605748596,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mobile-app-developer-ecosystem-survey/",
             "title": "Contribute to the Mobile app developer Ecosystem 2021 Survey!",
             "link": "https://blog.codemagic.io/mobile-app-developer-ecosystem-survey/",
             "updated": 1605748596,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/android-app-optimization-tips/",
             "title": "How to optimize Android app performance? Tips & Tools",
             "link": "https://blog.codemagic.io/android-app-optimization-tips/",
             "updated": 1605607849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-web-performance-testing-with-codemagic/",
             "title": "Flutter web performance testing on Codemagic",
             "link": "https://blog.codemagic.io/flutter-web-performance-testing-with-codemagic/",
             "updated": 1605150000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/",
             "title": "How to code sign & publish iOS apps",
             "link": "https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/",
             "updated": 1605027600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ci-cd-ebook-by-codemagic/",
             "title": "Presenting our new ebook \u2013 \"Continuous Integration and Delivery for Mobile Apps\"",
             "link": "https://blog.codemagic.io/ci-cd-ebook-by-codemagic/",
             "updated": 1604618724,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-detox-tests-on-codemagic/",
             "title": "How to run React Native Detox tests on Codemagic",
             "link": "https://blog.codemagic.io/react-native-detox-tests-on-codemagic/",
             "updated": 1604545200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/practical-guide-flutter-firebase-codemagic/",
             "title": "Practical guide: Flutter + Firebase + Codemagic (for iOS)",
             "link": "https://blog.codemagic.io/practical-guide-flutter-firebase-codemagic/",
             "updated": 1604509200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-can-zombies-teach-us-about-continuous-integration/",
             "title": "What can zombies teach us about continuous integration and delivery (CI/CD)?",
             "link": "https://blog.codemagic.io/what-can-zombies-teach-us-about-continuous-integration/",
             "updated": 1604026800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/android-tests-on-real-devices-aws-device-farm/",
             "title": "How to run Android instrumented tests on real devices using AWS Device Farm",
             "link": "https://blog.codemagic.io/android-tests-on-real-devices-aws-device-farm/",
             "updated": 1603749600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/sonarqube-integration-with-codemagic/",
             "title": "Integrating SonarQube with Codemagic",
             "link": "https://blog.codemagic.io/sonarqube-integration-with-codemagic/",
             "updated": 1603404000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/continuous-integration-for-testing-mobile-apps/",
             "title": "Our continuous integration tool is great for testing mobile apps",
             "link": "https://blog.codemagic.io/continuous-integration-for-testing-mobile-apps/",
             "updated": 1603317600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/building-responsive-applications-with-flutter/",
             "title": "How to build responsive layout in Flutter",
             "link": "https://blog.codemagic.io/building-responsive-applications-with-flutter/",
             "updated": 1603144800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publishing-web-apps-to-firebase-hosting/",
             "title": "Publishing web apps to Firebase Hosting",
             "link": "https://blog.codemagic.io/publishing-web-apps-to-firebase-hosting/",
             "updated": 1602799200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/google-meet-events-in-flutter/",
             "title": "Scheduling and managing Google Meet events in Flutter",
             "link": "https://blog.codemagic.io/google-meet-events-in-flutter/",
             "updated": 1601848800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/pricing-changes-for-teams/",
             "title": "Changes to Codemagic pricing for teams",
             "link": "https://blog.codemagic.io/pricing-changes-for-teams/",
             "updated": 1601503200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/",
             "title": "Google Sign-In & Firebase Authentication Using Flutter",
             "link": "https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/",
             "updated": 1601398800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/android-navigation-introduction/",
             "title": "Introduction to the core concepts of Android Navigation",
             "link": "https://blog.codemagic.io/android-navigation-introduction/",
             "updated": 1600293600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/develop-ios-apps-without-mac-with-react-native-codemagic/",
             "title": "How to develop and distribute iOS apps without Mac with React Native & Codemagic",
             "link": "https://blog.codemagic.io/develop-ios-apps-without-mac-with-react-native-codemagic/",
             "updated": 1600164649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/nevercode-transitions-to-codemagic/",
             "title": "Nevercode is transitioning to Codemagic",
             "link": "https://blog.codemagic.io/nevercode-transitions-to-codemagic/",
             "updated": 1599429600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/schneider-electric-migration-from-nevercode-to-codemagic/",
             "title": "Schneider Electric's Shift from Nevercode to Codemagic and codemagic.yaml",
             "link": "https://blog.codemagic.io/schneider-electric-migration-from-nevercode-to-codemagic/",
             "updated": 1599411600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/integrating-flutter-module-to-your-native-app/",
             "title": "Flutter module + Native Android (AAR) and iOS (Podfile)",
             "link": "https://blog.codemagic.io/integrating-flutter-module-to-your-native-app/",
             "updated": 1599343200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/security-of-ci-cd/",
             "title": "Everything you need to know about the security of CI/CD",
             "link": "https://blog.codemagic.io/security-of-ci-cd/",
             "updated": 1599300649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/designing-complex-ui-using-android-constraintlayout/",
             "title": "Designing complex UI using Android ConstraintLayout",
             "link": "https://blog.codemagic.io/designing-complex-ui-using-android-constraintlayout/",
             "updated": 1598659200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/angular-vs-flutter-vs-react-native/",
             "title": "Under the Lens - React Native vs Flutter vs Angular",
             "link": "https://blog.codemagic.io/angular-vs-flutter-vs-react-native/",
             "updated": 1598565600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/app-store-connect-api-codemagic-cli-tools/",
             "title": "How to set up automatic iOS code signing using App Store Connect API keys",
             "link": "https://blog.codemagic.io/app-store-connect-api-codemagic-cli-tools/",
             "updated": 1598306400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-build-react-native-ui-app-with-material-ui/",
             "title": "How to build React Native UI app with Material UI",
             "link": "https://blog.codemagic.io/how-to-build-react-native-ui-app-with-material-ui/",
             "updated": 1597197600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/step-by-step-guide-to-kick-off-your-first-react-native-project/",
             "title": "Create React Native app using Expo CLI or React Native CLI",
             "link": "https://blog.codemagic.io/step-by-step-guide-to-kick-off-your-first-react-native-project/",
             "updated": 1596592800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-web-firebase-authentication-and-google-sign-in/",
             "title": "Flutter web: Firebase Authentication and Google Sign-In",
             "link": "https://blog.codemagic.io/flutter-web-firebase-authentication-and-google-sign-in/",
             "updated": 1596585600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-set-up-an-android-project-on-codemagic/",
             "title": "How to set up an Android project on Codemagic CI/CD?",
             "link": "https://blog.codemagic.io/how-to-set-up-an-android-project-on-codemagic/",
             "updated": 1596153600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-with-jetpack-compose/",
             "title": "Getting started and developing an application with Jetpack Compose",
             "link": "https://blog.codemagic.io/getting-started-with-jetpack-compose/",
             "updated": 1596060000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/fluttertips-july/",
             "title": "Top Flutter tips from July",
             "link": "https://blog.codemagic.io/fluttertips-july/",
             "updated": 1596042000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-app-distribution-using-cli/",
             "title": "Firebase App Distribution using CLI",
             "link": "https://blog.codemagic.io/firebase-app-distribution-using-cli/",
             "updated": 1596002400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/firebase-app-distribution-with-codemagic/",
             "title": "Firebase App Distribution using the Gradle plugin in Codemagic",
             "link": "https://blog.codemagic.io/firebase-app-distribution-with-codemagic/",
             "updated": 1595955600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-japanese/",
             "title": "Codemagic \u3067\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea\u306e CI/CD \u3092\u59cb\u3081\u307e\u3057\u3087\u3046",
             "link": "https://blog.codemagic.io/getting-started-japanese/",
             "updated": 1595892324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-web-animations-and-dynamic-theming/",
             "title": "Flutter web: animations and dynamic theming",
             "link": "https://blog.codemagic.io/flutter-web-animations-and-dynamic-theming/",
             "updated": 1595818800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/inappwebview-the-real-power-of-webviews-in-flutter/",
             "title": "InAppWebView: the real power of WebViews in Flutter",
             "link": "https://blog.codemagic.io/inappwebview-the-real-power-of-webviews-in-flutter/",
             "updated": 1595473200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-web-getting-started-with-responsive-design/",
             "title": "Flutter web \u2013 getting started with responsive design",
             "link": "https://blog.codemagic.io/flutter-web-getting-started-with-responsive-design/",
             "updated": 1595214000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/multi-touch-canvas-with-flutter/",
             "title": "Multi-touch canvas with Flutter",
             "link": "https://blog.codemagic.io/multi-touch-canvas-with-flutter/",
             "updated": 1594832400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/react-native-getting-started-guide-with-codemagic/",
             "title": "Continuous Integration and Delivery for React Native apps",
             "link": "https://blog.codemagic.io/react-native-getting-started-guide-with-codemagic/",
             "updated": 1594782000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-android-getting-started-guide-with-codemagic-cicd-japanese/",
             "title": "Android\u7528\u7d99\u7d9a\u7684\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\uff06\u30c7\u30ea\u30d0\u30ea\u30fc\uff08CI/CD\uff09",
             "link": "https://blog.codemagic.io/native-android-getting-started-guide-with-codemagic-cicd-japanese/",
             "updated": 1594609200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic-japanese/",
             "title": "Codemagic\u3092\u4f7f\u3063\u305fiOS\u306e\u7d99\u7d9a\u7684\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\uff06\u30c7\u30ea\u30d0\u30ea\u30fc\uff08CI/CD\uff09",
             "link": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic-japanese/",
             "updated": 1594609200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-android-getting-started-guide-with-codemagic-cicd/",
             "title": "Continuous Integration & Delivery (CI/CD) for Android",
             "link": "https://blog.codemagic.io/native-android-getting-started-guide-with-codemagic-cicd/",
             "updated": 1594609200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic/",
             "title": "iOS Continuous Integration & Delivery (CI/CD) with Codemagic",
             "link": "https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic/",
             "updated": 1594609200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/",
             "title": "Presenting our new ebook \u2013 \"Flutter\u00a0libraries\u00a0we\u00a0love\"",
             "link": "https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/",
             "updated": 1594596324,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/",
             "title": "Choosing the right database for your Flutter app",
             "link": "https://blog.codemagic.io/choosing-the-right-database-for-your-flutter-app/",
             "updated": 1594263600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-is-ci-and-how-to-setup-your-ci-pipeline/",
             "title": "CI/CD: Everything about continuous integration & delivery",
             "link": "https://blog.codemagic.io/what-is-ci-and-how-to-setup-your-ci-pipeline/",
             "updated": 1594141200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/first-build-workflow-announcement/",
             "title": "Improved project setup for all your mobile projects",
             "link": "https://blog.codemagic.io/first-build-workflow-announcement/",
             "updated": 1594004400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/getting-started-with-codemagic/",
             "title": "Flutter Continuous Integration & Delivery (CI/CD) with Codemagic",
             "link": "https://blog.codemagic.io/getting-started-with-codemagic/",
             "updated": 1593991524,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-talks-podcast-performance-with-filip-hracek/",
             "title": "Flutter Talks: Performance with Filip Hr\u00e1\u010dek from Flutter",
             "link": "https://blog.codemagic.io/flutter-talks-podcast-performance-with-filip-hracek/",
             "updated": 1593486000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/qvik-creating-impact-with-design-technology/",
             "title": "How to keep testing, building and publishing as streamlined as possible",
             "link": "https://blog.codemagic.io/qvik-creating-impact-with-design-technology/",
             "updated": 1593104400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/fluttertips-may/",
             "title": "Top Flutter tips from May tweets",
             "link": "https://blog.codemagic.io/fluttertips-may/",
             "updated": 1592359200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/releasing-your-flutter-desktop-application/",
             "title": "Releasing your Flutter desktop application",
             "link": "https://blog.codemagic.io/releasing-your-flutter-desktop-application/",
             "updated": 1592240400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/images_videos/",
             "title": "State Management",
             "link": "https://blog.codemagic.io/images_videos/",
             "updated": 1591758000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/mobile-and-web-app-costs-2020/",
             "title": "Mobile and web application costs 2020",
             "link": "https://blog.codemagic.io/mobile-and-web-app-costs-2020/",
             "updated": 1591239600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/creating-a-route-calculator-using-google-maps/",
             "title": "Creating a route calculator using Google Maps in Flutter",
             "link": "https://blog.codemagic.io/creating-a-route-calculator-using-google-maps/",
             "updated": 1590678000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-golden-tests-with-codemagic-cicd-part-two/",
             "title": "How to run Flutter Golden (Snapshot) tests with Codemagic CI/CD. Part 2",
             "link": "https://blog.codemagic.io/flutter-golden-tests-with-codemagic-cicd-part-two/",
             "updated": 1590332400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/dynamic-workflows-with-codemagic-api/",
             "title": "How to take advantage of Dynamic Workflows using Codemagic API",
             "link": "https://blog.codemagic.io/dynamic-workflows-with-codemagic-api/",
             "updated": 1590142249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-golden-tests-with-codemagic-cicd/",
             "title": "How to run Flutter Golden (Snapshot) tests with Codemagic CI/CD",
             "link": "https://blog.codemagic.io/flutter-golden-tests-with-codemagic-cicd/",
             "updated": 1589122800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/ci-cd-for-flutter-video-tutorial/",
             "title": "Flutter From Scratch, Episode 5: CI/CD for Flutter",
             "link": "https://blog.codemagic.io/ci-cd-for-flutter-video-tutorial/",
             "updated": 1588863600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/text-recognition-using-firebase-ml-kit-flutter/",
             "title": "How to perform text recognition using Firebase ML Kit in Flutter",
             "link": "https://blog.codemagic.io/text-recognition-using-firebase-ml-kit-flutter/",
             "updated": 1588846249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/navigate-between-native-and-android-pages/",
             "title": "How to navigate between native application pages and Flutter pages",
             "link": "https://blog.codemagic.io/navigate-between-native-and-android-pages/",
             "updated": 1588155049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/practical-guide-flutter-firebase-codemagic-on-android/",
             "title": "Practical guide: Flutter + Firebase + Codemagic (for Android)",
             "link": "https://blog.codemagic.io/practical-guide-flutter-firebase-codemagic-on-android/",
             "updated": 1587643849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-custom-painter/",
             "title": "How to draw and animate designs with Flutter CustomPaint Widget",
             "link": "https://blog.codemagic.io/flutter-custom-painter/",
             "updated": 1587636649,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/testing-with-flutter/",
             "title": "Flutter From Scratch, Episode 4: Testing with Flutter",
             "link": "https://blog.codemagic.io/testing-with-flutter/",
             "updated": 1586876400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-dockerize-flutter-apps/",
             "title": "How to dockerize Flutter apps",
             "link": "https://blog.codemagic.io/how-to-dockerize-flutter-apps/",
             "updated": 1586790000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-app-arhitecture-beginners/",
             "title": "Flutter tutorial: Architect your app using Provider and Stream",
             "link": "https://blog.codemagic.io/flutter-tutorial-app-arhitecture-beginners/",
             "updated": 1586358000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/7-reasons-to-use-codemagic/",
             "title": "7 reasons why Codemagic should be your CI/CD provider for your Flutter apps in 2020",
             "link": "https://blog.codemagic.io/7-reasons-to-use-codemagic/",
             "updated": 1586098800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-integrate-flutter-into-an-android-app/",
             "title": "Efficiently develop Flutter on existing Android app",
             "link": "https://blog.codemagic.io/how-to-integrate-flutter-into-an-android-app/",
             "updated": 1586042724,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-improve-the-performance-of-your-flutter-app./",
             "title": "How to improve the performance of your Flutter app",
             "link": "https://blog.codemagic.io/how-to-improve-the-performance-of-your-flutter-app./",
             "updated": 1586042724,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/creating-iot-based-flutter-app/",
             "title": "Creating an IoT based Flutter app to interact with any home electrical equipment",
             "link": "https://blog.codemagic.io/creating-iot-based-flutter-app/",
             "updated": 1585839600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/automated-screenshots-for-apple-store/",
             "title": "How to add screenshots to your automated tests on Codemagic",
             "link": "https://blog.codemagic.io/automated-screenshots-for-apple-store/",
             "updated": 1585839600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/remote-access-to-virtual-mac-build-machine/",
             "title": "How to use remote access to Codemagic virtual MacOS build machine",
             "link": "https://blog.codemagic.io/remote-access-to-virtual-mac-build-machine/",
             "updated": 1585839600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-new-features-vnc/",
             "title": "New features of Codemagic in March 2020",
             "link": "https://blog.codemagic.io/codemagic-new-features-vnc/",
             "updated": 1585760400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-widgets-and-states-tutorial-video/",
             "title": "Flutter From Scratch, Episode 3: Widgets and States",
             "link": "https://blog.codemagic.io/flutter-widgets-and-states-tutorial-video/",
             "updated": 1585494000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/corona-tracker-case-study/",
             "title": "Codemagic is helping developers create an app that tracks COVID-19",
             "link": "https://blog.codemagic.io/corona-tracker-case-study/",
             "updated": 1585234800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/the-simple-guide-to-android-code-signing/",
             "title": "Step-by-step guide to Android code signing and code signing with Codemagic",
             "link": "https://blog.codemagic.io/the-simple-guide-to-android-code-signing/",
             "updated": 1584630000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-project-structure-and-widgets/",
             "title": "Flutter From Scratch, Episode 2: Flutter Project Structure and Widgets",
             "link": "https://blog.codemagic.io/flutter-project-structure-and-widgets/",
             "updated": 1584543600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/android-studio-vs-visual-studio-code/",
             "title": "Visual Studio Code vs Android Studio \u2013 Functionality, Search and Source Control",
             "link": "https://blog.codemagic.io/android-studio-vs-visual-studio-code/",
             "updated": 1584457200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/distributing-native-ios-sdk-with-flutter-module-using-codemagic/",
             "title": "Distributing native iOS project with Flutter module using Codemagic",
             "link": "https://blog.codemagic.io/distributing-native-ios-sdk-with-flutter-module-using-codemagic/",
             "updated": 1584205200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/fluttertips-january/",
             "title": "Top Flutter Tips from January & February Tweets",
             "link": "https://blog.codemagic.io/fluttertips-january/",
             "updated": 1583334000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-from-scratch-video-series-episode-1-installing-flutter-and-configuring-android-studio/",
             "title": "Flutter From Scratch, Episode 1: Installing Flutter and Configuring Android Studio",
             "link": "https://blog.codemagic.io/flutter-from-scratch-video-series-episode-1-installing-flutter-and-configuring-android-studio/",
             "updated": 1582736400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/environments-in-flutter-with-codemagic-cicd/",
             "title": "Environments (Flavors) in Flutter with Codemagic CI/CD",
             "link": "https://blog.codemagic.io/environments-in-flutter-with-codemagic-cicd/",
             "updated": 1582193449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-saves-clearpoint-roughly-10-15percent-of-time-each-workday/",
             "title": "Codemagic saves ClearPoint roughly 10-15% of time each workday",
             "link": "https://blog.codemagic.io/codemagic-saves-clearpoint-roughly-10-15percent-of-time-each-workday/",
             "updated": 1581958800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-saves-clearpoint-precious-hours-every-day-japanese/",
             "title": "Codemagic\u306b\u3088\u308aClearPoint\u793e\u306e\u4f5c\u696d\u6642\u9593\u304c\u7d0410\uff5e15%\u77ed\u7e2e",
             "link": "https://blog.codemagic.io/codemagic-saves-clearpoint-precious-hours-every-day-japanese/",
             "updated": 1581958800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-add-flutter-modules-to-native-ios-project-and-test-it-on-codemagic/",
             "title": "How to add Flutter modules to native iOS project and test it on Codemagic",
             "link": "https://blog.codemagic.io/how-to-add-flutter-modules-to-native-ios-project-and-test-it-on-codemagic/",
             "updated": 1581786000,
-            "site_name": "Codemagic Blog"
-        },
-        {
-            "id": "https://blog.codemagic.io/flutter-matrix4-perspective-transformations/",
-            "title": "Advanced Flutter: Matrix4 And Perspective Transformations",
-            "link": "https://blog.codemagic.io/flutter-matrix4-perspective-transformations/",
-            "updated": 1581260400,
-            "site_name": "Codemagic Blog"
-        },
-        {
-            "id": "https://blog.codemagic.io/cicd-with-flutter-and-aws/",
-            "title": "CI/CD with Flutter, Codemagic, and AWS S3",
-            "link": "https://blog.codemagic.io/cicd-with-flutter-and-aws/",
-            "updated": 1581260400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-codemagic-saves-50-hours-of-development-per-project/",
             "title": "How Codemagic saves 50 hours of development per project",
             "link": "https://blog.codemagic.io/how-codemagic-saves-50-hours-of-development-per-project/",
             "updated": 1581267600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
+        },
+        {
+            "id": "https://blog.codemagic.io/flutter-matrix4-perspective-transformations/",
+            "title": "Advanced Flutter: Matrix4 And Perspective Transformations",
+            "link": "https://blog.codemagic.io/flutter-matrix4-perspective-transformations/",
+            "updated": 1581260400,
+            "site_url": "https://blog.codemagic.io"
+        },
+        {
+            "id": "https://blog.codemagic.io/cicd-with-flutter-and-aws/",
+            "title": "CI/CD with Flutter, Codemagic, and AWS S3",
+            "link": "https://blog.codemagic.io/cicd-with-flutter-and-aws/",
+            "updated": 1581260400,
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-you-should-use-ci-cd-for-your-next-software-project/",
             "title": "Why you should use CI/CD for your next software project",
             "link": "https://blog.codemagic.io/why-you-should-use-ci-cd-for-your-next-software-project/",
             "updated": 1580922000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/localising-flutter-applications-and-automating-the-localisation-process/",
             "title": "Localising Flutter applications and automating the localisation process",
             "link": "https://blog.codemagic.io/localising-flutter-applications-and-automating-the-localisation-process/",
             "updated": 1580749200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-local-authentication-using-biometrics/",
             "title": "Flutter Local Authentication using Biometrics \u2013 Face ID and Touch ID / Fingerprint",
             "link": "https://blog.codemagic.io/flutter-local-authentication-using-biometrics/",
             "updated": 1580662800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-animations/",
             "title": "Flutter Tutorial: Animations for Lazy People",
             "link": "https://blog.codemagic.io/flutter-tutorial-animations/",
             "updated": 1580482800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-app-dev-cost/",
             "title": "How Much Does Flutter App Development Cost",
             "link": "https://blog.codemagic.io/flutter-app-dev-cost/",
             "updated": 1580482800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-convince-your-boss-to-move-to-flutter/",
             "title": "How to convince your boss to move to Flutter",
             "link": "https://blog.codemagic.io/how-to-convince-your-boss-to-move-to-flutter/",
             "updated": 1579798800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/deploying-flutter-app-to-firebase-app-distribution-using-fastlane/",
             "title": "Deploying Flutter app to Firebase App Distribution using Fastlane",
             "link": "https://blog.codemagic.io/deploying-flutter-app-to-firebase-app-distribution-using-fastlane/",
             "updated": 1579453200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/effective-monetization-with-flutter/",
             "title": "How to monetize Flutter apps using Flutter for Web",
             "link": "https://blog.codemagic.io/effective-monetization-with-flutter/",
             "updated": 1578848400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-europe/",
             "title": "Come meet us at Flutter Europe 2020!",
             "link": "https://blog.codemagic.io/flutter-europe/",
             "updated": 1578823849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-flutter-in-2020/",
             "title": "Why Android Developers should pay attention to Flutter in 2020",
             "link": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-flutter-in-2020/",
             "updated": 1577697049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-ios-devs-should-pay-attention-to-flutter-in-2020/",
             "title": "Why iOS Developers should pay attention to Flutter",
             "link": "https://blog.codemagic.io/why-ios-devs-should-pay-attention-to-flutter-in-2020/",
             "updated": 1577697049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-ios-android-reactnative-xamarin/",
             "title": "Flutter Versus Other Mobile Development Frameworks: A UI And Performance Experiment. Part 1",
             "link": "https://blog.codemagic.io/flutter-vs-ios-android-reactnative-xamarin/",
             "updated": 1577614249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-android-ios-xamarin-reactnative/",
             "title": "Flutter Versus Other Mobile Development Frameworks: A UI And Performance Experiment. Part 2",
             "link": "https://blog.codemagic.io/flutter-vs-android-ios-xamarin-reactnative/",
             "updated": 1577614249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-tjommi.app/",
             "title": "How Codemagic Helped the Tjommi Team Save More Than 30 Hours During Development",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-tjommi.app/",
             "updated": 1576087200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-interact/",
             "title": "Flutter Interact: A roundup of new announcements",
             "link": "https://blog.codemagic.io/flutter-interact/",
             "updated": 1576059049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-you-can-do-with-yaml/",
             "title": "YAML Quick Start for the people who need it the most",
             "link": "https://blog.codemagic.io/what-you-can-do-with-yaml/",
             "updated": 1576059049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-sidis-by-nemobile/",
             "title": "How Sidis by Nemobile Saves 1,200 Developer Hours Per Year with Codemagic CI/CD for Flutter",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-sidis-by-nemobile/",
             "updated": 1575886249,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/distributing-module-yaml/",
             "title": "Distributing Native Android app with Flutter Module using Codemagic",
             "link": "https://blog.codemagic.io/distributing-module-yaml/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-meduza/",
             "title": "How Codemagic Cut Meduza.io\u2019s Builds Down to 40 Minutes Per Day",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-meduza/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-itomic/",
             "title": "How Codemagic Helped iTomic Save 3 Hours Per App Release",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-itomic/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-listo/",
             "title": "How Codemagic Helps Listo Reduce Pipeline Management by 80%",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-listo/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-highside/",
             "title": "How Highside Develops Secure Apps for 100,000s with Flutter & Codemagic",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-highside/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-case-study-with-lucky-intelligence/",
             "title": "How Lucky Intelligence Saved One Hour per Build with Codemagic",
             "link": "https://blog.codemagic.io/codemagic-case-study-with-lucky-intelligence/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/neverccode-o%C3%BCst-sai-google-koost%C3%B6%C3%B6partner/",
             "title": "Nevercode O\u00dc-st sai Google'i koost\u00f6\u00f6partner",
             "link": "https://blog.codemagic.io/neverccode-o%C3%BCst-sai-google-koost%C3%B6%C3%B6partner/",
             "updated": 1575367849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-1st-year/",
             "title": "Codemagic turns 1 \u2013 Thank you for the awesome year",
             "link": "https://blog.codemagic.io/codemagic-1st-year/",
             "updated": 1575195049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/meet-u-s-codemagic-is-coming-to-the-states/",
             "title": "Meet U.S! Codemagic is coming to the States.",
             "link": "https://blog.codemagic.io/meet-u-s-codemagic-is-coming-to-the-states/",
             "updated": 1574874000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/10-flutter-tools-to-be-thankful-for-in-2019/",
             "title": "10 Flutter tools to be thankful in 2019",
             "link": "https://blog.codemagic.io/10-flutter-tools-to-be-thankful-for-in-2019/",
             "updated": 1574849449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/migrating-from-visual-studio-app-center/",
             "title": "Migrating Flutter apps from Visual Studio App Center to Codemagic CI/CD",
             "link": "https://blog.codemagic.io/migrating-from-visual-studio-app-center/",
             "updated": 1574849449,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-and-codemagic-join-forces-on-github/",
             "title": "Flutter and Codemagic join forces on GitHub",
             "link": "https://blog.codemagic.io/flutter-and-codemagic-join-forces-on-github/",
             "updated": 1574614800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-unit-testing-bloc-with-codemagic/",
             "title": "Unit Testing: Bloc Library & Codemagic",
             "link": "https://blog.codemagic.io/flutter-unit-testing-bloc-with-codemagic/",
             "updated": 1574071849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-module-android-yaml/",
             "title": "How to add Flutter modules to native Android project and test it on Codemagic",
             "link": "https://blog.codemagic.io/flutter-module-android-yaml/",
             "updated": 1573467049,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-pros-and-cons-of-state-management-approaches/",
             "title": "Flutter Tutorial: Pros and Cons of popular State Management Approaches",
             "link": "https://blog.codemagic.io/flutter-tutorial-pros-and-cons-of-state-management-approaches/",
             "updated": 1573405200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-yaml/",
             "title": "Introducing Codemagic YAML",
             "link": "https://blog.codemagic.io/codemagic-yaml/",
             "updated": 1573318800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-provider/",
             "title": "Flutter Tutorial: Provider Overview for Humans",
             "link": "https://blog.codemagic.io/flutter-tutorial-provider/",
             "updated": 1572274800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/integration-tests-codemagic/",
             "title": "Case Study: Automating UI/Integration Tests with Flutter Driver and Codemagic",
             "link": "https://blog.codemagic.io/integration-tests-codemagic/",
             "updated": 1571256018,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-multiple-screens-and-how-to-navigate-them/",
             "title": "Flutter Tutorial: Multiple Screens and How-To Navigate Them",
             "link": "https://blog.codemagic.io/flutter-tutorial-multiple-screens-and-how-to-navigate-them/",
             "updated": 1571158800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-build-44-faster-with-parallel-workflows/",
             "title": "How to build Flutter apps 44% faster with parallel workflows?",
             "link": "https://blog.codemagic.io/how-to-build-44-faster-with-parallel-workflows/",
             "updated": 1570986000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-organising-your-flutter-app/",
             "title": "Flutter Tutorial: Organizing Your Flutter App",
             "link": "https://blog.codemagic.io/flutter-tutorial-organising-your-flutter-app/",
             "updated": 1570467600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/publicando-aplicativos-ios-sem-um-mac-com-a-codemagic/",
             "title": "Publicando aplicativos iOS sem um Mac com a Codemagic",
             "link": "https://blog.codemagic.io/publicando-aplicativos-ios-sem-um-mac-com-a-codemagic/",
             "updated": 1569430800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-github-app/",
             "title": "Have more control over your CI/CD setup with Codemagic GitHub app",
             "link": "https://blog.codemagic.io/codemagic-github-app/",
             "updated": 1569344400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-flutter-layout-system/",
             "title": "Flutter Tutorial: The Flutter Layout System. Part I",
             "link": "https://blog.codemagic.io/flutter-tutorial-flutter-layout-system/",
             "updated": 1568912400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-tutorial-part-2/",
             "title": "Flutter Tutorial: Flutter Layout System. Part II",
             "link": "https://blog.codemagic.io/flutter-tutorial-part-2/",
             "updated": 1568826000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-ci-cd-releases-support-for-flutter-desktop/",
             "title": "Codemagic CI/CD releases support for Flutter Desktop",
             "link": "https://blog.codemagic.io/codemagic-ci-cd-releases-support-for-flutter-desktop/",
             "updated": 1568048400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/nevercode-is-announcing-a-new-ceo/",
             "title": "Nevercode is announcing a new CEO",
             "link": "https://blog.codemagic.io/nevercode-is-announcing-a-new-ceo/",
             "updated": 1567227600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/the-ultimate-guide-to-beta-testing-in-2019/",
             "title": "The Ultimate Guide to Beta Testing in 2019",
             "link": "https://blog.codemagic.io/the-ultimate-guide-to-beta-testing-in-2019/",
             "updated": 1562864400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/debugging-codemagic-builds-via-ssh/",
             "title": "Debugging Codemagic builds via SSH",
             "link": "https://blog.codemagic.io/debugging-codemagic-builds-via-ssh/",
             "updated": 1562630400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/we-analysed-more-than-80k-flutter-builds-and-this-is-what-we-learned/",
             "title": "We analysed more than 80k Flutter builds and this is what we learned",
             "link": "https://blog.codemagic.io/we-analysed-more-than-80k-flutter-builds-and-this-is-what-we-learned/",
             "updated": 1561827600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-talks-podcast-topline-with-abbey-road-studios/",
             "title": "Flutter Talks podcast: Topline with Abbey Road Studios",
             "link": "https://blog.codemagic.io/flutter-talks-podcast-topline-with-abbey-road-studios/",
             "updated": 1561518000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/using-fastlane-with-codemagic/",
             "title": "How to use fastlane with Codemagic",
             "link": "https://blog.codemagic.io/using-fastlane-with-codemagic/",
             "updated": 1561395600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/top-picks-for-flutter-devs-from-droidcon-berlin/",
             "title": "Top picks for Flutter devs from droidcon Berlin",
             "link": "https://blog.codemagic.io/top-picks-for-flutter-devs-from-droidcon-berlin/",
             "updated": 1560704400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-migrate-from-any-ci-and-why-flutter-needs-dedicated-ci/",
             "title": "Why Flutter needs dedicated CI and how to migrate to Codemagic",
             "link": "https://blog.codemagic.io/how-to-migrate-from-any-ci-and-why-flutter-needs-dedicated-ci/",
             "updated": 1560704400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/come-meet-us-at-droidcon-berlin-2019/",
             "title": "Come meet us at droidcon Berlin 2019",
             "link": "https://blog.codemagic.io/come-meet-us-at-droidcon-berlin-2019/",
             "updated": 1560445200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/beta-testing-platforms-2019/",
             "title": "Beta Testing Platforms 2019",
             "link": "https://blog.codemagic.io/beta-testing-platforms-2019/",
             "updated": 1560099600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/cross-platform-mobile-app-development-with-flutter/",
             "title": "Cross-Platform Mobile App Development with Flutter",
             "link": "https://blog.codemagic.io/cross-platform-mobile-app-development-with-flutter/",
             "updated": 1560099600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-ui-testing/",
             "title": "Flutter UI Testing",
             "link": "https://blog.codemagic.io/flutter-ui-testing/",
             "updated": 1560099600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/hack19-what-we-built-in-hub-nevercode/",
             "title": "Hack19 - What we built in Hub Nevercode?",
             "link": "https://blog.codemagic.io/hack19-what-we-built-in-hub-nevercode/",
             "updated": 1559494800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-features-of-codemagic-in-may/",
             "title": "New features of Codemagic in May: Flutter Web",
             "link": "https://blog.codemagic.io/new-features-of-codemagic-in-may/",
             "updated": 1559494800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-ci-cd-and-security/",
             "title": "Codemagic CI/CD and security",
             "link": "https://blog.codemagic.io/codemagic-ci-cd-and-security/",
             "updated": 1559235600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/build-and-host-your-flutter-web-apps-on-codemagic/",
             "title": "Build and host your Flutter web apps on Codemagic",
             "link": "https://blog.codemagic.io/build-and-host-your-flutter-web-apps-on-codemagic/",
             "updated": 1558371600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-features-of-codemagic-in-april/",
             "title": "New features of Codemagic in April",
             "link": "https://blog.codemagic.io/new-features-of-codemagic-in-april/",
             "updated": 1558371600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/top-flutter-developers-to-follow-on-twitter/",
             "title": "The top 45 must-follow Flutter experts on Twitter",
             "link": "https://blog.codemagic.io/top-flutter-developers-to-follow-on-twitter/",
             "updated": 1558285200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-step-by-step-tutorial/",
             "title": "Flutter tutorial: Step-by-step guide to kick off your first Flutter project",
             "link": "https://blog.codemagic.io/flutter-step-by-step-tutorial/",
             "updated": 1557943200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-welcomes-flutter-for-web/",
             "title": "Codemagic welcomes Flutter for web",
             "link": "https://blog.codemagic.io/codemagic-welcomes-flutter-for-web/",
             "updated": 1557248400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-developer-s-profile/",
             "title": "Flutter developer",
             "link": "https://blog.codemagic.io/flutter-developer-s-profile/",
             "updated": 1557162000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/new-features-of-codemagic-in-march/",
             "title": "New features of Codemagic in March",
             "link": "https://blog.codemagic.io/new-features-of-codemagic-in-march/",
             "updated": 1555866000,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-swift/",
             "title": "Swift vs Flutter - A side by side comparison for iOS development [Infographic]",
             "link": "https://blog.codemagic.io/flutter-vs-swift/",
             "updated": 1555347600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-talks-design/",
             "title": "Flutter Talks: Design",
             "link": "https://blog.codemagic.io/flutter-talks-design/",
             "updated": 1554051600,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-load-firebase-config-in-codemagic-with-environment-variables/",
             "title": "How to load Firebase config in Codemagic with environment variables [Video]",
             "link": "https://blog.codemagic.io/how-to-load-firebase-config-in-codemagic-with-environment-variables/",
             "updated": 1554001200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-flutter-in-2019/",
             "title": "Why Android developers should pay attention to Flutter in 2019",
             "link": "https://blog.codemagic.io/why-android-developers-should-pay-attention-to-flutter-in-2019/",
             "updated": 1553662800,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-xamarin-a-developer-s-perspective/",
             "title": "Flutter vs Xamarin: A Developer's Perspective",
             "link": "https://blog.codemagic.io/flutter-vs-xamarin-a-developer-s-perspective/",
             "updated": 1552892801,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/why-and-what-should-ios-developers-pay-attention-to-flutter/",
             "title": "Why Should iOS Developers Pay Attention to Flutter",
             "link": "https://blog.codemagic.io/why-and-what-should-ios-developers-pay-attention-to-flutter/",
             "updated": 1552064400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/key-findings-on-flutter-at-mwc-19/",
             "title": "Flutter panel with partners at Mobile World Congress 2019: What happened?",
             "link": "https://blog.codemagic.io/key-findings-on-flutter-at-mwc-19/",
             "updated": 1551373200,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/top-12-configuration-mistakes-that-will-fail-your-mobile-ci-build/",
             "title": "Top 12 configuration mistakes that will fail your mobile CI build",
             "link": "https://blog.codemagic.io/top-12-configuration-mistakes-that-will-fail-your-mobile-ci-build/",
             "updated": 1550858400,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/full-stack-testing-of-flutter-apps-with-codemagic-ci-cd/",
             "title": "Full-stack testing of Flutter apps with Codemagic CI/CD",
             "link": "https://blog.codemagic.io/full-stack-testing-of-flutter-apps-with-codemagic-ci-cd/",
             "updated": 1550412459,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/top-10-developers-jokes-the-valentines-day-edition/",
             "title": "Top 10 developer jokes",
             "link": "https://blog.codemagic.io/top-10-developers-jokes-the-valentines-day-edition/",
             "updated": 1550128643,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/codemagic-new-features/",
             "title": "New features of Codemagic in January",
             "link": "https://blog.codemagic.io/codemagic-new-features/",
             "updated": 1550112540,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/working-in-teams/",
             "title": "How to set up teams on Codemagic",
             "link": "https://blog.codemagic.io/working-in-teams/",
             "updated": 1549814051,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/",
             "title": "Flutter Talks podcast: Fast, beautiful, productive, open",
             "link": "https://blog.codemagic.io/flutter-talks-podcast-fast-beautiful-productive-open/",
             "updated": 1549447849,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/how-to-set-up-codemagic-ci-cd-for-flutter-apps-hosted-on-bitbucket/",
             "title": "How to set up Codemagic CI/CD for Flutter apps hosted on Bitbucket",
             "link": "https://blog.codemagic.io/how-to-set-up-codemagic-ci-cd-for-flutter-apps-hosted-on-bitbucket/",
             "updated": 1547774862,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutters-1st-month-in-codemagic/",
             "title": "The first month of Flutter 1.0 in numbers",
             "link": "https://blog.codemagic.io/flutters-1st-month-in-codemagic/",
             "updated": 1547774443,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/what-is-flutter-benefits-and-limitations/",
             "title": "What is Flutter? Benefits and limitations",
             "link": "https://blog.codemagic.io/what-is-flutter-benefits-and-limitations/",
             "updated": 1547774196,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/flutter-vs-react-native-a-developers-perspective/",
             "title": "Flutter vs React Native: A developer's perspective",
             "link": "https://blog.codemagic.io/flutter-vs-react-native-a-developers-perspective/",
             "updated": 1547773758,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         },
         {
             "id": "https://blog.codemagic.io/nevercode-partners-with-google-and-launches-a-dedicated-ci-cd-tool-for-flutter-apps/",
             "title": "Nevercode partners with Google and launches Codemagic CI/CD for Flutter",
             "link": "https://blog.codemagic.io/nevercode-partners-with-google-and-launches-a-dedicated-ci-cd-tool-for-flutter-apps/",
             "updated": 1547772791,
-            "site_name": "Codemagic Blog"
+            "site_url": "https://blog.codemagic.io"
         }
     ]
 }

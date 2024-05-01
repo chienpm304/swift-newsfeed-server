@@ -1,985 +1,985 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "b0ac5e8e-8344-4ea2-b762-a322d5a7b8b6",
             "title": "141: That\u2019s a Lot of App",
             "link": "https://codecompletion.io/podcast//141",
             "updated": 1690754400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0ada2425-c168-435a-ba42-300a7361b8d8",
             "title": "140: I\u2019ll Sacrifice an iPad",
             "link": "https://codecompletion.io/podcast//140",
             "updated": 1689976800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6b94fd04-b0f2-44e1-a619-e1ebe7c2a5eb",
             "title": "139: Capital G Games",
             "link": "https://codecompletion.io/podcast//139",
             "updated": 1689199200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6f49e646-02ec-4427-a70d-7f6ea8168861",
             "title": "138: I Keep Using Mac minis",
             "link": "https://codecompletion.io/podcast//138",
             "updated": 1688335200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "12d0d425-9f2f-4c0d-b3b2-fd7383644b9e",
             "title": "137: They Swoop In And Crush Everyone",
             "link": "https://codecompletion.io/podcast//137",
             "updated": 1687730400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "b18ced9d-1ffc-4d9c-83ca-eab542cb16d2",
             "title": "136: There Are Dozens Of Us Windows",
             "link": "https://codecompletion.io/podcast//136",
             "updated": 1686866400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "2207461e-14fd-4d15-ade7-adba2e42e3e4",
             "title": "135: They Are Very Nice Rails",
             "link": "https://codecompletion.io/podcast//135",
             "updated": 1686056400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8284e437-a2ab-4e5c-b41d-e3489973c7aa",
             "title": "134: Contacts Suck",
             "link": "https://codecompletion.io/podcast//134",
             "updated": 1685768400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "9acc1322-8112-4275-be53-0148913e2631",
             "title": "133: xrOS Autocorrects to Bros",
             "link": "https://codecompletion.io/podcast//133",
             "updated": 1685174400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e4e93c8c-1729-426c-9830-67e2ba3dfd51",
             "title": "132: The Dials are all Clickety",
             "link": "https://codecompletion.io/podcast//132",
             "updated": 1684533600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f90b3086-7a6e-40a1-b1b4-be73276262ad",
             "title": "131: The Dumpster Fire Keeps Rolling Down the Hill",
             "link": "https://codecompletion.io/podcast//131",
             "updated": 1683669600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d63b69c2-3c17-4c00-9721-b5dd758a337f",
             "title": "130: Then It Stabs You in the Back",
             "link": "https://codecompletion.io/podcast//130",
             "updated": 1682892000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d7f397d6-3895-46a6-8ee4-b9a8fc5c679d",
             "title": "129: Boom, Double the Screen",
             "link": "https://codecompletion.io/podcast//129",
             "updated": 1681941600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "5cce806d-a004-4345-89e3-1a54b0e09cd4",
             "title": "128: We Don\u2019t Want You on 5G",
             "link": "https://codecompletion.io/podcast//128",
             "updated": 1681423200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "5a7dcd46-3c0c-47ae-b78f-4201f16a122c",
             "title": "127: Let Me Mute the New Desk",
             "link": "https://codecompletion.io/podcast//127",
             "updated": 1680732000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "1a135943-2211-42b2-9c9a-37c1df45a5d2",
             "title": "126: Tupleware",
             "link": "https://codecompletion.io/podcast//126",
             "updated": 1680213600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d47900e8-15e3-4c80-b878-a0555c5add6c",
             "title": "125: This Is Widescreen, Sir",
             "link": "https://codecompletion.io/podcast//125",
             "updated": 1679544000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "37bad7ad-c229-48f9-a02f-c3291f618462",
             "title": "124: This is a B+ on Their Tier List",
             "link": "https://codecompletion.io/podcast//124",
             "updated": 1679043600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "846e0784-c86d-4ed6-a8d8-2664582e2093",
             "title": "123: In Some Form or Another",
             "link": "https://codecompletion.io/podcast//123",
             "updated": 1678312800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "aa72c6d3-182e-4a6c-8f54-a6fb96217179",
             "title": "122: The Creepy APIs",
             "link": "https://codecompletion.io/podcast//122",
             "updated": 1677621600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "a061697e-6322-42bd-b347-aa422f5bf784",
             "title": "121: It\u2019s a Statement to State What Everyone Else Is Stating",
             "link": "https://codecompletion.io/podcast//121",
             "updated": 1676412000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "2b2b5ed3-373c-4ead-9c0f-d48eb67b410b",
             "title": "120: They Are an Endangered Species",
             "link": "https://codecompletion.io/podcast//120",
             "updated": 1675807200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ab85f4d1-b572-4bcd-8736-8dee66d6c3af",
             "title": "119: One Mega @",
             "link": "https://codecompletion.io/podcast//119",
             "updated": 1675116000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e52c5fae-c48c-45bd-a3df-d51ebd30f98d",
             "title": "118: Apple Has Ruined Everything",
             "link": "https://codecompletion.io/podcast//118",
             "updated": 1674597600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c5f26cdc-325c-479d-a974-f452629003c5",
             "title": "117: Go Check Out the Good Vibes",
             "link": "https://codecompletion.io/podcast//117",
             "updated": 1673992800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8f70060f-44e3-4285-8ec0-19ecf6198d4a",
             "title": "116: I\u2019m Excited For A Thing I\u2019m Mad About",
             "link": "https://codecompletion.io/podcast//116",
             "updated": 1673474400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "240c7d02-954e-4d33-a340-4783ab08ae5e",
             "title": "115: I Can See Pixels",
             "link": "https://codecompletion.io/podcast//115",
             "updated": 1672783200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "014ed9c6-06d6-408e-abaa-23a96aff4be2",
             "title": "114: Tips and Tricks That Are No Longer Needed",
             "link": "https://codecompletion.io/podcast//114",
             "updated": 1672178400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f1505785-6549-4160-97e8-2af59ab139fb",
             "title": "113: Poor Delta Airlines",
             "link": "https://codecompletion.io/podcast//113",
             "updated": 1671573600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "20e9b03f-4179-49f1-9c48-c4e7d17894f8",
             "title": "112: Definitely Not a Copyright Infringement",
             "link": "https://codecompletion.io/podcast//112",
             "updated": 1670882400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0dfaf776-77f6-4770-bf8e-9904fd2d1d2e",
             "title": "111: What I Would Say If I Were to Say It That Way",
             "link": "https://codecompletion.io/podcast//111",
             "updated": 1670364000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "4292e7bf-b3a5-4deb-aa1a-f9a8bdf91a5b",
             "title": "110: For People Not Using Baller iPads and iPhones",
             "link": "https://codecompletion.io/podcast//110",
             "updated": 1669672800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "23b1ef58-ac3d-4ef3-9d36-0b89459305c9",
             "title": "109: Your Boss is a Little Weenie",
             "link": "https://codecompletion.io/podcast//109",
             "updated": 1669068000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "df21b4ba-3724-4f96-971f-da43264bf624",
             "title": "108: A Big No No",
             "link": "https://codecompletion.io/podcast//108",
             "updated": 1668549600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d1c175be-b167-4a3f-943a-454610c82833",
             "title": "107: Manifesting It Into My Life",
             "link": "https://codecompletion.io/podcast//107",
             "updated": 1667858400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "06864270-3c76-4834-a4d7-2e28e0468603",
             "title": "106: It Was Infinitely More Readable",
             "link": "https://codecompletion.io/podcast//106",
             "updated": 1667340000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c91ee9ad-4fb5-4ff9-b7b4-d97dd3b11d4c",
             "title": "105: I Will Place an iPhone in His Casket",
             "link": "https://codecompletion.io/podcast//105",
             "updated": 1666648800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f4911289-dea4-4676-a356-7912a9dd913d",
             "title": "104: If You Don\u2019t Want To Be Treasonous",
             "link": "https://codecompletion.io/podcast//104",
             "updated": 1666130400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6ced88d4-646a-498e-88e4-ae3750dd5391",
             "title": "103: Lessons From Giant Corporations",
             "link": "https://codecompletion.io/podcast//103",
             "updated": 1665525600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c8159cbf-0c51-4f3b-a55f-3097a15066c5",
             "title": "102: It\u2019s Literally the Kit You Use To Make Apps",
             "link": "https://codecompletion.io/podcast//102",
             "updated": 1664920800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "bb1a614c-6ff8-4c6d-871d-786ca9f376ef",
             "title": "101: Suddenly, Everything Was Hot Garbage",
             "link": "https://codecompletion.io/podcast//101",
             "updated": 1663884000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6b82f9eb-e36b-48d7-bc54-9714981af6a0",
             "title": "100: Robot Bodies And Virtual Sushi",
             "link": "https://codecompletion.io/podcast//100",
             "updated": 1663020000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6f42b2db-7c18-4f4e-bca0-2bb8ad3e9e96",
             "title": "99: It\u2019ll Be Sold on Etsy",
             "link": "https://codecompletion.io/podcast//99",
             "updated": 1662415200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d8a6e521-cb72-4159-aa7e-870685035910",
             "title": "98: That\u2019s Like Your Opinion Man",
             "link": "https://codecompletion.io/podcast//98",
             "updated": 1662123600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "bc98182f-1889-4ba5-a3c9-4d3ee9f316c3",
             "title": "97: Untitled Episode",
             "link": "https://codecompletion.io/podcast//97",
             "updated": 1661205600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "96215ccc-c1ae-4d75-afe6-b2b442580358",
             "title": "96: The Double Dip",
             "link": "https://codecompletion.io/podcast//96",
             "updated": 1660600800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "b01a5aad-0af2-4237-b68d-8f338a74f185",
             "title": "95: This Is What My Mind\u2019s Eye Sees",
             "link": "https://codecompletion.io/podcast//95",
             "updated": 1659996000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "bad2d156-a47d-48a0-b47d-53e94da6467f",
             "title": "94: Your Concurrent Code Is b0rked",
             "link": "https://codecompletion.io/podcast//94",
             "updated": 1659391200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e1f50794-cdd8-4037-a700-6b3f1a7a2a5d",
             "title": "93: I Just Need to Make It Weird",
             "link": "https://codecompletion.io/podcast//93",
             "updated": 1658786400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ef244879-a466-4405-a034-865b34f9f4e0",
             "title": "92: Even Stupider Than JSON",
             "link": "https://codecompletion.io/podcast//92",
             "updated": 1658181600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "fe7ce5db-f5ca-48f4-8402-7823dc2646ca",
             "title": "91: Explain iOS Slowly",
             "link": "https://codecompletion.io/podcast//91",
             "updated": 1657576800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "19f139b7-c33d-4b54-956e-b90b855d6a32",
             "title": "90: It\u2019s Just a Swift Package\u2122",
             "link": "https://codecompletion.io/podcast//90",
             "updated": 1656972000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "633924cc-1bae-49a9-86ae-7a7e1d87f512",
             "title": "89: A Surprising Truth That Might Shock You All",
             "link": "https://codecompletion.io/podcast//89",
             "updated": 1656367200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0e52db15-8f78-4ce6-a3b1-fa8dab05d13f",
             "title": "88: CocoaPods Were Just a Bad Dream",
             "link": "https://codecompletion.io/podcast//88",
             "updated": 1655762400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "dcfde14b-c07a-4059-bcae-95dfe317338a",
             "title": "87: Don\u2019t Look at an Attribute Wrong",
             "link": "https://codecompletion.io/podcast//87",
             "updated": 1655157600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e66de374-4bc6-4e07-aa80-eb4785a00841",
             "title": "86: 1-800-Weather-Kit",
             "link": "https://codecompletion.io/podcast//86",
             "updated": 1654639200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "577b7f8e-2aed-49bf-b096-d841e8fd140c",
             "title": "85: My Toes Are Starting To Hurt",
             "link": "https://codecompletion.io/podcast//85",
             "updated": 1654380000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "57ff82fb-fff6-4dc4-8d67-01ee37ffa11a",
             "title": "84: It\u2019s No Longer a Happy Little Tree",
             "link": "https://codecompletion.io/podcast//84",
             "updated": 1653948000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "642e54da-2c0d-4ef3-a836-e25d25ed2270",
             "title": "83: It\u2019s Not Gonna be Clippy",
             "link": "https://codecompletion.io/podcast//83",
             "updated": 1653343200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6e2c7fc8-a05f-4a34-bcbe-739bb89305ec",
             "title": "82: What I Really Really Want",
             "link": "https://codecompletion.io/podcast//82",
             "updated": 1652738400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "9ebfd56e-1a85-4b65-8312-caf6336c7473",
             "title": "81: Punch It!",
             "link": "https://codecompletion.io/podcast//81",
             "updated": 1652133600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "1daac59b-15d8-4dc8-98ec-b88ae163f226",
             "title": "80: Now I Get to Blast You on Twitter",
             "link": "https://codecompletion.io/podcast//80",
             "updated": 1651528800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "1032d575-ea70-439b-a572-9e044b0570a2",
             "title": "79: Don\u2019t Drag People Through the Mud",
             "link": "https://codecompletion.io/podcast//79",
             "updated": 1650924000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "b14bdf45-2fd3-4374-ab5b-4f1c85759793",
             "title": "78: Fernando was Right; I would Rather Die",
             "link": "https://codecompletion.io/podcast//78",
             "updated": 1650319200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8963b17b-de8f-4802-9064-13eb68d8ec8f",
             "title": "77: An In-Person-Not-In-Person Event",
             "link": "https://codecompletion.io/podcast//77",
             "updated": 1649714400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "77759f5e-4347-4074-8aff-d0eb5280f161",
             "title": "76: The Claw",
             "link": "https://codecompletion.io/podcast//76",
             "updated": 1649196000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "6cd19e60-91e3-4de6-9105-b37402a02c36",
             "title": "75: I Think This Is a Stupid Rule",
             "link": "https://codecompletion.io/podcast//75",
             "updated": 1648504800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "312bbde2-2335-4c9d-886e-d8e8b6e89200",
             "title": "74: The True Way Forward Are Enums",
             "link": "https://codecompletion.io/podcast//74",
             "updated": 1647900000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "4e255f25-31f3-4f93-8ce7-bce29bcad49d",
             "title": "73: It\u2019s Just Glue",
             "link": "https://codecompletion.io/podcast//73",
             "updated": 1646776800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "98b65ee1-824a-4cbf-af68-bc2688379d30",
             "title": "72: Bigger Number Better",
             "link": "https://codecompletion.io/podcast//72",
             "updated": 1646646300,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0cffdd35-f00e-4d38-89ce-8d5a88c856ec",
             "title": "71: The Owl That Is SwiftUI",
             "link": "https://codecompletion.io/podcast//71",
             "updated": 1646085600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "fb11b5e2-6220-4f0b-8e03-6aaf841678a7",
             "title": "70: Esoteric Things I Don\u2019t Understand",
             "link": "https://codecompletion.io/podcast//70",
             "updated": 1645480800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f03f55c3-a5f2-4137-ac69-0d1a95fa8762",
             "title": "69: Explain it Asynchronously",
             "link": "https://codecompletion.io/podcast//69",
             "updated": 1644876000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "fbb6a722-89ff-4165-8ed1-f76aaee74aea",
             "title": "68: Bingo Sprango",
             "link": "https://codecompletion.io/podcast//68",
             "updated": 1644271200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "102e1520-6350-4eb6-8a5c-b1230cc6327a",
             "title": "67: It\u2019s Scummy But Not Scammy",
             "link": "https://codecompletion.io/podcast//67",
             "updated": 1643666400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "bc366a33-2d87-4aac-b4d8-a62bc0da79ef",
             "title": "66: Awesome Interviews Done Quick",
             "link": "https://codecompletion.io/podcast//66",
             "updated": 1643061600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d4e19f48-5ecd-4cc2-a313-c4fe1decbdcb",
             "title": "65: A Thankless Job",
             "link": "https://codecompletion.io/podcast//65",
             "updated": 1642543200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "348352b5-fb31-475d-8a5d-954549ea42ad",
             "title": "64: Respect Your Audience",
             "link": "https://codecompletion.io/podcast//64",
             "updated": 1641938400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "4e6ecc4b-0db2-44ef-b766-f2f76b9e8320",
             "title": "63: More RAM is Welcome RAM",
             "link": "https://codecompletion.io/podcast//63",
             "updated": 1641420000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "243c352f-5000-41ae-9b0f-db6161bee787",
             "title": "62: Recover Your AirTags Responsibly",
             "link": "https://codecompletion.io/podcast//62",
             "updated": 1640728800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "24db9c79-99d9-4125-b1a5-ecf2bfda2d93",
             "title": "61: Worth Learning A Little Bit About",
             "link": "https://codecompletion.io/podcast//61",
             "updated": 1640124000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "7b98e0cc-db3a-4e87-be0b-3e221ec168f2",
             "title": "60: Basically the Wild West",
             "link": "https://codecompletion.io/podcast//60",
             "updated": 1639519200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e34af052-32a3-47e0-bd71-caaa6dea2b0a",
             "title": "59: Premature Abstraction Is The Actual Root Of All Evil",
             "link": "https://codecompletion.io/podcast//59",
             "updated": 1638828000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "2a2fd5f5-a52e-464f-8871-9acc011f6760",
             "title": "58: The Nintendo Ninjas, They Get Everyone",
             "link": "https://codecompletion.io/podcast//58",
             "updated": 1638223200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "2a180386-b10a-4c2f-b60d-d27d83e2a850",
             "title": "57: Teeps For Developers",
             "link": "https://codecompletion.io/podcast//57",
             "updated": 1637618400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f6bac9a8-0fe6-4ba2-9edf-d93be4785014",
             "title": "56: Real Artists Ship, So Instead We Made a Podcast",
             "link": "https://codecompletion.io/podcast//56",
             "updated": 1637100000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "e7d6dd89-1918-4b28-bd09-d7d91ea898cc",
             "title": "55: Faster Than a Car",
             "link": "https://codecompletion.io/podcast//55",
             "updated": 1636408800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "afbb2e1e-8a5c-43aa-9602-311a690a142d",
             "title": "54: You Are Such A DoIt",
             "link": "https://codecompletion.io/podcast//54",
             "updated": 1635822000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8fc17892-ac53-4080-ad86-9bb74728920c",
             "title": "53: Nobody Likes C++",
             "link": "https://codecompletion.io/podcast//53",
             "updated": 1635199200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f4133083-5d25-4e50-9289-c1801cc3b71a",
             "title": "52: Apple at Their Best",
             "link": "https://codecompletion.io/podcast//52",
             "updated": 1634562000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "04351096-77b0-409c-a47a-6f86db393ad3",
             "title": "51: We Apparently Really Want eGPU Support",
             "link": "https://codecompletion.io/podcast//51",
             "updated": 1634421600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "cacbc890-840f-45dc-b63d-1b00e650604e",
             "title": "50: This Is Not Clear",
             "link": "https://codecompletion.io/podcast//50",
             "updated": 1634076000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "039e4893-2de8-46cb-be92-d35aa77c35e8",
             "title": "49: I For One Welcome Our Safety Overlords",
             "link": "https://codecompletion.io/podcast//49",
             "updated": 1633417200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ed8fe521-ccbb-4af8-8373-3eec3e66fd7c",
             "title": "48: The Announcement Announcement",
             "link": "https://codecompletion.io/podcast//48",
             "updated": 1632780000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "74e08fdf-6ff0-4a76-9da8-2043f1328c32",
             "title": "47: Did You Know Apple Lives In California?",
             "link": "https://codecompletion.io/podcast//47",
             "updated": 1632175200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "7c148d11-94fe-49e8-ab48-64c209e6d33c",
             "title": "46: Let Me Solve All Your Problems",
             "link": "https://codecompletion.io/podcast//46",
             "updated": 1631484000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "a0454a6f-5050-49a2-8e25-e1a153a1fe08",
             "title": "45: You Are Not Your Code",
             "link": "https://codecompletion.io/podcast//45",
             "updated": 1630969200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "351db269-20f3-43df-861d-ea4fc57daa3c",
             "title": "44: The Biggest, Richest Child",
             "link": "https://codecompletion.io/podcast//44",
             "updated": 1630360800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "cefe12b2-301a-4d59-b730-dcce40e55e2c",
             "title": "43: There Are Dozens of Us",
             "link": "https://codecompletion.io/podcast//43",
             "updated": 1629756000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "5cf37271-d948-4047-820a-ddf49271ee67",
             "title": "42: Comically Large Audio",
             "link": "https://codecompletion.io/podcast//42",
             "updated": 1629151200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "267c24fb-e7fd-4292-94af-6dffcc9691ae",
             "title": "41: Humans are Weird",
             "link": "https://codecompletion.io/podcast//41",
             "updated": 1628560800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c30f28bb-2e2a-420b-bef9-ad0fcd8c6bc3",
             "title": "40: Merge Commits Are Evil",
             "link": "https://codecompletion.io/podcast//40",
             "updated": 1627948800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "91bb8757-52bd-4170-b5a4-a745c634eb03",
             "title": "39: Breakpoint Breadcrumbs",
             "link": "https://codecompletion.io/podcast//39",
             "updated": 1627336800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "2013e00a-7a42-4082-82e7-511234dc74e8",
             "title": "38: We Hand Chiseled Our Corners",
             "link": "https://codecompletion.io/podcast//38",
             "updated": 1626732000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c1e7a4d1-e72b-4f30-9f75-69507c45ef5c",
             "title": "37: Can you Verizon me now?",
             "link": "https://codecompletion.io/podcast//37",
             "updated": 1626127200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "77d3ce67-7cb4-449d-8c81-d37af74b2f14",
             "title": "36: O(unable to type-check this expression in reasonable time)",
             "link": "https://codecompletion.io/podcast//36",
             "updated": 1625522400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d5f83552-8816-40c6-9952-fc98034bc750",
             "title": "35: I Didn't Watch the Video",
             "link": "https://codecompletion.io/podcast//35",
             "updated": 1624917600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "902b1fff-2de7-484f-84e2-18dd91d42f8b",
             "title": "34: Design is Hard",
             "link": "https://codecompletion.io/podcast//34",
             "updated": 1624332600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "7452a44c-9dcf-411d-afc4-28ee6f8caff9",
             "title": "33: \ud83d\udca7 Vapor-ware",
             "link": "https://codecompletion.io/podcast//33",
             "updated": 1623758400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "4a2b45cc-66ef-4b34-860f-b5766c187a7f",
             "title": "32: I Learned A Lot Today",
             "link": "https://codecompletion.io/podcast//32",
             "updated": 1623210300,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d2fc696f-d2a1-4a0f-800a-ead8c0dc3ffc",
             "title": "31: What's an \u00edPad?",
             "link": "https://codecompletion.io/podcast//31",
             "updated": 1622880000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c7887865-93d2-4bfa-81ae-48e764f23829",
             "title": "30: It's a Big Sure",
             "link": "https://codecompletion.io/podcast//30",
             "updated": 1622010600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d24766dc-534c-4c6f-abcf-cd9b6cf66437",
             "title": "29: Don't Do That",
             "link": "https://codecompletion.io/podcast//29",
             "updated": 1621076400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0510c288-402c-47b8-b9e9-1c7f14406fdd",
             "title": "28: Host Spotlight: Spencer -- I Don't Plan, Man!",
             "link": "https://codecompletion.io/podcast//28",
             "updated": 1620450000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "c6a50c48-cbfd-4057-92a4-b4067b807dc3",
             "title": "27: Spring Loaded Zoom Zoom",
             "link": "https://codecompletion.io/podcast//27",
             "updated": 1619416800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "f4db29c5-24b2-46cf-9e19-c0fd3ebb3558",
             "title": "26: Building a Cable Museum",
             "link": "https://codecompletion.io/podcast//26",
             "updated": 1618799400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "1859a9ab-bd9b-4c09-91dc-d4879b51c0d4",
             "title": "25: Subjective-C",
             "link": "https://codecompletion.io/podcast//25",
             "updated": 1618470000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "20c16e6d-d5f0-4990-9190-4540884b2d62",
             "title": "24: Shark-Proof Cabling",
             "link": "https://codecompletion.io/podcast//24",
             "updated": 1617237000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "550549f0-6f1a-4398-a9b9-bf3e29a2b910",
             "title": "23: Fernando Will Host Your Backup",
             "link": "https://codecompletion.io/podcast//23",
             "updated": 1616466600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "b8f6488e-e3d2-4256-9a06-18e335a30513",
             "title": "22: Not a Soapbox",
             "link": "https://codecompletion.io/podcast//22",
             "updated": 1615766400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ead862f9-e775-4e3f-85b1-f56ea37a80c9",
             "title": "21: I Fear For My Wallet",
             "link": "https://codecompletion.io/podcast//21",
             "updated": 1614132000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ce373e35-cfd7-4c73-adb4-0cdb9722a0c6",
             "title": "20: Don't Be Evil",
             "link": "https://codecompletion.io/podcast//20",
             "updated": 1612130400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "3f74dbed-286e-44fb-91de-6742e93fd3ad",
             "title": "19: SAD!",
             "link": "https://codecompletion.io/podcast//19",
             "updated": 1608346800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "3f6ab5d5-c03d-425e-947b-fe3c61b8bc97",
             "title": "18: Host Spotlight: Johnny -- Always be Learning",
             "link": "https://codecompletion.io/podcast//18",
             "updated": 1607410800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "a401e2d4-81e4-46c0-b6f5-5a79949a07a1",
             "title": "17: It would be nicer if things were nicer",
             "link": "https://codecompletion.io/podcast//17",
             "updated": 1606719600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "389ed6c0-70ff-44e4-8d91-c435447d0980",
             "title": "16: It's mini in the non-trademarkable kind of way",
             "link": "https://codecompletion.io/podcast//16",
             "updated": 1606266000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8be3238b-cde6-4694-a63d-facc0932286d",
             "title": "15: Mini mini M1ni",
             "link": "https://codecompletion.io/podcast//15",
             "updated": 1605510000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "76557d2d-d83d-438e-9844-470fd66c7a2e",
             "title": "14: We Broke the First Rule of Dev Club",
             "link": "https://codecompletion.io/podcast//14",
             "updated": 1605063600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "8d0a8af6-da1b-4918-8627-095f63c9f8e6",
             "title": "13: Host Spotlight: Dimitri \u2013 Happy to Sell Only Two Copies",
             "link": "https://codecompletion.io/podcast//13",
             "updated": 1604372400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "538d4e5a-8827-4bca-8f33-441f7efeeee1",
             "title": "12: The First Rule of Dev Club...",
             "link": "https://codecompletion.io/podcast//12",
             "updated": 1603700100,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "851efcd3-80b7-4f12-9cf2-14aba1648062",
             "title": "11: Fernandos Going to Eat His Hat",
             "link": "https://codecompletion.io/podcast//11",
             "updated": 1603084500,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "a452a9ae-0269-45ef-8e3c-729aefd37d18",
             "title": "10: I Don't Want to be the Negative Nancy...",
             "link": "https://codecompletion.io/podcast//10",
             "updated": 1602477000,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "48a72711-56ef-45ed-a441-20cd3ff4c87b",
             "title": "9: Just Enough Research",
             "link": "https://codecompletion.io/podcast//9",
             "updated": 1601881200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "ecc2d319-5f64-4d6c-8ebd-38b01fc68de6",
             "title": "8: Is Two Wins a Streak?",
             "link": "https://codecompletion.io/podcast//8",
             "updated": 1601262900,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "3e359624-2fd0-4619-84fe-1edb82ae7c24",
             "title": "7: Code Completion SE",
             "link": "https://codecompletion.io/podcast//7",
             "updated": 1600646400,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "3c23dbda-ef04-453c-91ba-2835d16a8144",
             "title": "6: I Hate This Game",
             "link": "https://codecompletion.io/podcast//6",
             "updated": 1600049700,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "0627f360-dd3a-4fb0-9577-e612a356b4e0",
             "title": "5: Emacs Should Die a Fiery Death",
             "link": "https://codecompletion.io/podcast//5",
             "updated": 1599532200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "d654f27c-e2d4-41e9-8904-41d70636c3fd",
             "title": "4: Clocking in at 392 charact...",
             "link": "https://codecompletion.io/podcast//4",
             "updated": 1598835600,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "708f18c3-a8fc-49b8-a063-0262e4ef74cb",
             "title": "3: What's Clascal?",
             "link": "https://codecompletion.io/podcast//3",
             "updated": 1598428800,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         },
         {
             "id": "1c42c86b-6b15-414d-8f6e-736750aa1411",
             "title": "2: Available in Human Sizes",
             "link": "https://codecompletion.io/podcast//2",
             "updated": 1597633200,
-            "site_name": "Code Completion"
+            "site_url": "https://www.youtube.com/channel/UCboYE6brY0HjojFqkg936mw"
         }
     ]
 }

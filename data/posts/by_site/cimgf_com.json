@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://www.cimgf.com/?p=2697",
             "title": "Response: The Laws of Core\u00a0Data",
             "link": "https://www.cimgf.com/2018/05/10/response-the-laws-of-core-data/",
             "updated": 1525963190,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2666",
             "title": "Developer Review: 2017 MacBook 12",
             "link": "https://www.cimgf.com/2017/12/02/developer-review-2017-macbook-12/",
             "updated": 1512172272,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2648",
             "title": "A Modern Network Operation",
             "link": "https://www.cimgf.com/2016/01/28/a-modern-network-operation/",
             "updated": 1453986748,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2565",
             "title": "Swift Type Constrained Extensions: Express Yourself",
             "link": "https://www.cimgf.com/2015/12/14/swift-type-constrained-extensions-express-yourself/",
             "updated": 1450091995,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2552",
             "title": "Massive View Controllers",
             "link": "https://www.cimgf.com/2015/09/21/massive-view-controllers/",
             "updated": 1442840295,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2543",
             "title": "The Next Chapter",
             "link": "https://www.cimgf.com/2015/08/04/the-next-chapter/",
             "updated": 1438675554,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2482",
             "title": "Core Data and Aggregate Fetches In Swift",
             "link": "https://www.cimgf.com/2015/06/25/core-data-and-aggregate-fetches-in-swift/",
             "updated": 1435225627,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2445",
             "title": "Xcode Continuous Integration: \u201cServer encountered an error with Apple Developer\u201d",
             "link": "https://www.cimgf.com/2015/04/01/xcode-continuous-integration-server-encountered-an-error-with-apple-developer/",
             "updated": 1427877898,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2436",
             "title": "MCE Conf 2015",
             "link": "https://www.cimgf.com/2015/02/13/mce-conf-2015/",
             "updated": 1423834066,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2422",
             "title": "We\u2019ll Miss You Jordan",
             "link": "https://www.cimgf.com/2015/01/12/well-miss-you-jordan/",
             "updated": 1421084146,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2416",
             "title": "Beginning iOS Development With Swift",
             "link": "https://www.cimgf.com/2014/12/02/beginning-ios-development-with-swift/",
             "updated": 1417523706,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2389",
             "title": "Swift and valueForKeyPath: You Can\u2019t Keep A Good API Down!",
             "link": "https://www.cimgf.com/2014/11/05/swift-and-valueforkeypath-you-cant-keep-a-good-api-down/",
             "updated": 1415191431,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2382",
             "title": "Protocols in Swift With Core Data",
             "link": "https://www.cimgf.com/2014/10/29/protocols-in-swift-with-core-data/",
             "updated": 1414576327,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2341",
             "title": "The Core Data stack in Swift",
             "link": "https://www.cimgf.com/2014/06/08/the-core-data-stack-in-swift/",
             "updated": 1402235242,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2335",
             "title": "Deleting Objects in Core Data",
             "link": "https://www.cimgf.com/2014/02/25/deleting-objects-in-core-data/",
             "updated": 1393337467,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2330",
             "title": "Fetched Properties; useful?",
             "link": "https://www.cimgf.com/2014/01/01/fetched-properties-useful/",
             "updated": 1388590362,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2287",
             "title": "Automating OS X app test build distribution across multiple OS versions",
             "link": "https://www.cimgf.com/2013/12/17/automating-os-x-app-test-build-distribution-across-multiple-os-versions/",
             "updated": 1387279268,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2213",
             "title": "Using GIT In Xcode",
             "link": "https://www.cimgf.com/2013/12/10/using-git-in-xcode/",
             "updated": 1386633031,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2193",
             "title": "Creating A Happy Appy Song",
             "link": "https://www.cimgf.com/2013/05/20/creating-a-happy-appy-song/",
             "updated": 1369047163,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         },
         {
             "id": "http://www.cimgf.com/?p=2181",
             "title": "iOS Crash Logs On iCloud Synced Devices",
             "link": "https://www.cimgf.com/2013/04/26/ios-crash-logs-on-icloud-synced-devices/",
             "updated": 1366977284,
-            "site_name": "Cocoa Is My Girlfriend"
+            "site_url": "http://www.cimgf.com"
         }
     ]
 }

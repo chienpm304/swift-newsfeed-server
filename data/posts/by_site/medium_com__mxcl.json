@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://medium.com/p/ef9fd7322de1",
             "title": "dev.diary\u200a\u2014\u200atea is env++",
             "link": "https://medium.com/teaxyz/dev-diary-tea-is-env-ef9fd7322de1?source=rss-87f057c6e50c------2",
             "updated": 1675145251,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/1b351431fcac",
             "title": "dev.diary\u2014Finding the Fun",
             "link": "https://medium.com/teaxyz/dev-diary-finding-the-fun-1b351431fcac?source=rss-87f057c6e50c------2",
             "updated": 1674463188,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/478a9e736638",
             "title": "Something new is brewing",
             "link": "https://medium.com/teaxyz/tea-brew-478a9e736638?source=rss-87f057c6e50c------2",
             "updated": 1648038673,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/7287ed379324",
             "title": "Maintaining a Homebrew Tap for Swift projects",
             "link": "https://medium.com/@mxcl/maintaining-a-homebrew-tap-for-swift-projects-7287ed379324?source=rss-87f057c6e50c------2",
             "updated": 1581272403,
-            "site_name": "Max Howell on Medium"
-        },
-        {
-            "id": "https://medium.com/p/e5529e2d30a0",
-            "title": "Workbench: Seamless, Automatic, \u201cdotfile\u201d Sync to iCloud",
-            "link": "https://medium.com/@mxcl/workbench-seamless-automatic-dotfile-sync-to-icloud-e5529e2d30a0?source=rss-87f057c6e50c------2",
-            "updated": 1550655702,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/7f104edd9468",
             "title": "Massively Contributing to Swift Open Source in 2019",
             "link": "https://medium.com/@mxcl/massively-contributing-to-swift-open-source-in-2019-7f104edd9468?source=rss-87f057c6e50c------2",
             "updated": 1551689610,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
+        },
+        {
+            "id": "https://medium.com/p/e5529e2d30a0",
+            "title": "Workbench: Seamless, Automatic, \u201cdotfile\u201d Sync to iCloud",
+            "link": "https://medium.com/@mxcl/workbench-seamless-automatic-dotfile-sync-to-icloud-e5529e2d30a0?source=rss-87f057c6e50c------2",
+            "updated": 1550655702,
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/3f6728c9eb1a",
             "title": "Version.swift",
             "link": "https://medium.com/@mxcl/version-swift-3f6728c9eb1a?source=rss-87f057c6e50c------2",
             "updated": 1549894520,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/a90749df40c7",
             "title": "New Open Source: LegibleError",
             "link": "https://medium.com/@mxcl/new-open-source-legibleerror-a90749df40c7?source=rss-87f057c6e50c------2",
             "updated": 1549534866,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/7dac70f3d6e8",
             "title": "Keeping Swift Tests on Linux Sync\u2019d",
             "link": "https://medium.com/@mxcl/keeping-swift-tests-on-linux-syncd-7dac70f3d6e8?source=rss-87f057c6e50c------2",
             "updated": 1548410283,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         },
         {
             "id": "https://medium.com/p/6b7de0d0feac",
             "title": "Server-side Swift: Making Canopy (5/6)",
             "link": "https://medium.com/@mxcl/server-side-swift-making-canopy-5-6-6b7de0d0feac?source=rss-87f057c6e50c------2",
             "updated": 1548409602,
-            "site_name": "Max Howell on Medium"
+            "site_url": "https://medium.com/@mxcl"
         }
     ]
 }

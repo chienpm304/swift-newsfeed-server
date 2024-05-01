@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://massicotte.org/dynamic-isolation",
             "title": "Is Dynamic Isolation Bad?",
             "link": "https://massicotte.org/dynamic-isolation",
             "updated": 1713373200,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/concurrency-swift-6-se-411",
             "title": "Concurrency in Swift 6: SE-411",
             "link": "https://massicotte.org/concurrency-swift-6-se-411",
             "updated": 1713200400,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/concurrency-swift-6-se-401",
             "title": "Concurrency in Swift 6: SE-401",
             "link": "https://massicotte.org/concurrency-swift-6-se-401",
             "updated": 1712595600,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/isolation-intuition",
             "title": "Swift Isolation Intuition",
             "link": "https://massicotte.org/isolation-intuition",
             "updated": 1711040400,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/intro-to-isolation",
             "title": "An Introduction to Isolation in Swift",
             "link": "https://massicotte.org/intro-to-isolation",
             "updated": 1709139600,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/swiftui-isolation",
             "title": "SwiftUI Got Isolation Wrong",
             "link": "https://massicotte.org/swiftui-isolation",
             "updated": 1708534800,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/complete-checking",
             "title": "Should You Enable Swift\u2019s Complete Concurrency Checking?",
             "link": "https://massicotte.org/complete-checking",
             "updated": 1707843600,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/isolated-parameters",
             "title": "Isolated Parameters",
             "link": "https://massicotte.org/isolated-parameters",
             "updated": 1705597200,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/crossing-the-boundary",
             "title": "Crossing the Boundary",
             "link": "https://massicotte.org/crossing-the-boundary",
             "updated": 1695661200,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         },
         {
             "id": "https://massicotte.org/package-author-dependencies",
             "title": "Dependencies as a Package Author",
             "link": "https://massicotte.org/package-author-dependencies",
             "updated": 1687971600,
-            "site_name": "Matt Massicotte's Blog"
+            "site_url": "https://www.massicotte.org/"
         }
     ]
 }

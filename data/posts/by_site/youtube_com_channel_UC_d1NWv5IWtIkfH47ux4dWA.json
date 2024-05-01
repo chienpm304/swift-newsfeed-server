@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:pioFudfItTA",
-            "title": "How To Use Context Menus In Xcode 15 (SwiftUI)",
-            "link": "https://www.youtube.com/watch?v=pioFudfItTA",
-            "updated": 1712389202,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:t0TPxq-QR9c",
-            "title": "SF Symbols: How To Get Icons And Symbols For Your App With SF Symbols In Xcode 15",
-            "link": "https://www.youtube.com/watch?v=t0TPxq-QR9c",
-            "updated": 1712397359,
-            "site_name": "The Swift Guy"
+            "id": "yt:video:BpJqsjzG-bs",
+            "title": "How To Create And Use A Card View in Xcode 15 (SwiftUI)",
+            "link": "https://www.youtube.com/watch?v=BpJqsjzG-bs",
+            "updated": 1714155834,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
         },
         {
             "id": "yt:video:Rx5S9jNNFvc",
             "title": "How To Create A Detail View In Xcode 15 (SwiftUI)",
             "link": "https://www.youtube.com/watch?v=Rx5S9jNNFvc",
             "updated": 1714111552,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:cF640EUNr4I",
-            "title": "How To Use Animations In SwiftUI - Offset, Opacity & Scale",
-            "link": "https://www.youtube.com/watch?v=cF640EUNr4I",
-            "updated": 1708698826,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:OZrUrz7_AZw",
-            "title": "How To Create A Submission Form In Xcode 15 (SwiftUI)",
-            "link": "https://www.youtube.com/watch?v=OZrUrz7_AZw",
-            "updated": 1712666931,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:tst2o0FnBEo",
-            "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 2",
-            "link": "https://www.youtube.com/watch?v=tst2o0FnBEo",
-            "updated": 1714034366,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:U9Z4gCQYCms",
-            "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 1",
-            "link": "https://www.youtube.com/watch?v=U9Z4gCQYCms",
-            "updated": 1709812661,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:z4aMVgdIdEM",
-            "title": "Implementing Drag Gestures In Xcode 15 (SwiftUI)",
-            "link": "https://www.youtube.com/watch?v=z4aMVgdIdEM",
-            "updated": 1714036514,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:0n_wHzVIjjQ",
-            "title": "Implementing Tap Gestures In Xcode 15 (SwiftUI)",
-            "link": "https://www.youtube.com/watch?v=0n_wHzVIjjQ",
-            "updated": 1714015317,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:jLRNgR8nw-k",
-            "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 2",
-            "link": "https://www.youtube.com/watch?v=jLRNgR8nw-k",
-            "updated": 1712104121,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:jUMUfdKVYmI",
-            "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 1",
-            "link": "https://www.youtube.com/watch?v=jUMUfdKVYmI",
-            "updated": 1712373116,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:BpJqsjzG-bs",
-            "title": "How To Create And Use A Card View in Xcode 15 (SwiftUI)",
-            "link": "https://www.youtube.com/watch?v=BpJqsjzG-bs",
-            "updated": 1714155834,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:dL-UZHxPqNo",
-            "title": "Checking out Praia da Luz and Rocha Negra (Portugal)",
-            "link": "https://www.youtube.com/watch?v=dL-UZHxPqNo",
-            "updated": 1711172312,
-            "site_name": "The Swift Guy"
-        },
-        {
-            "id": "yt:video:kdBQMsRSz7A",
-            "title": "A Tour Of Antibes and It's Coastline (France)",
-            "link": "https://www.youtube.com/watch?v=kdBQMsRSz7A",
-            "updated": 1710413730,
-            "site_name": "The Swift Guy"
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
         },
         {
             "id": "yt:video:Abpf9vYS3nU",
             "title": "The Future Of This Channel and Snowfall in Norway (Oslo)",
             "link": "https://www.youtube.com/watch?v=Abpf9vYS3nU",
             "updated": 1714090398,
-            "site_name": "The Swift Guy"
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:z4aMVgdIdEM",
+            "title": "Implementing Drag Gestures In Xcode 15 (SwiftUI)",
+            "link": "https://www.youtube.com/watch?v=z4aMVgdIdEM",
+            "updated": 1714036514,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:tst2o0FnBEo",
+            "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 2",
+            "link": "https://www.youtube.com/watch?v=tst2o0FnBEo",
+            "updated": 1714034366,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:0n_wHzVIjjQ",
+            "title": "Implementing Tap Gestures In Xcode 15 (SwiftUI)",
+            "link": "https://www.youtube.com/watch?v=0n_wHzVIjjQ",
+            "updated": 1714015317,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:OZrUrz7_AZw",
+            "title": "How To Create A Submission Form In Xcode 15 (SwiftUI)",
+            "link": "https://www.youtube.com/watch?v=OZrUrz7_AZw",
+            "updated": 1712666931,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:t0TPxq-QR9c",
+            "title": "SF Symbols: How To Get Icons And Symbols For Your App With SF Symbols In Xcode 15",
+            "link": "https://www.youtube.com/watch?v=t0TPxq-QR9c",
+            "updated": 1712397359,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:pioFudfItTA",
+            "title": "How To Use Context Menus In Xcode 15 (SwiftUI)",
+            "link": "https://www.youtube.com/watch?v=pioFudfItTA",
+            "updated": 1712389202,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:jUMUfdKVYmI",
+            "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 1",
+            "link": "https://www.youtube.com/watch?v=jUMUfdKVYmI",
+            "updated": 1712373116,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:jLRNgR8nw-k",
+            "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 2",
+            "link": "https://www.youtube.com/watch?v=jLRNgR8nw-k",
+            "updated": 1712104121,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:dL-UZHxPqNo",
+            "title": "Checking out Praia da Luz and Rocha Negra (Portugal)",
+            "link": "https://www.youtube.com/watch?v=dL-UZHxPqNo",
+            "updated": 1711172312,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:kdBQMsRSz7A",
+            "title": "A Tour Of Antibes and It's Coastline (France)",
+            "link": "https://www.youtube.com/watch?v=kdBQMsRSz7A",
+            "updated": 1710413730,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:U9Z4gCQYCms",
+            "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 1",
+            "link": "https://www.youtube.com/watch?v=U9Z4gCQYCms",
+            "updated": 1709812661,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:cF640EUNr4I",
+            "title": "How To Use Animations In SwiftUI - Offset, Opacity & Scale",
+            "link": "https://www.youtube.com/watch?v=cF640EUNr4I",
+            "updated": 1708698826,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
         }
     ]
 }

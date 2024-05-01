@@ -1,75 +1,75 @@
 {
-    "updated": 1714471141,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/406ab30320a2",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#122",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-122-406ab30320a2?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1714345299,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/b0c2af755f05",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#121",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-121-b0c2af755f05?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1713739937,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/c12eb5277e45",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#120",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-120-c12eb5277e45?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1713137456,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/b64a521b1c6d",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#119",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-119-b64a521b1c6d?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1712529717,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/3e022cad6504",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#118",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-118-3e022cad6504?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1711926707,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/96ef5a80c146",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#117",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-117-96ef5a80c146?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1711326452,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/f1231618db3c",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#116",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-116-f1231618db3c?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1710718924,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/423361c29a10",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#115",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-115-423361c29a10?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1710112913,
-            "site_name": "iOS Stack Weekly"
-        },
-        {
-            "id": "https://medium.com/p/fcd65f761d53",
-            "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#114",
-            "link": "https://blog.canopas.com/ios-stack-weekly-issue-114-fcd65f761d53?source=rss----87b7877ee31e--canopas_ios_weekly",
-            "updated": 1709851469,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         },
         {
             "id": "https://medium.com/p/eb832da5ec4e",
             "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#113",
             "link": "https://blog.canopas.com/ios-stack-weekly-issue-113-eb832da5ec4e?source=rss----87b7877ee31e--canopas_ios_weekly",
             "updated": 1709851490,
-            "site_name": "iOS Stack Weekly"
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
+        },
+        {
+            "id": "https://medium.com/p/fcd65f761d53",
+            "title": "iOS Stack Weekly\u200a\u2014\u200aIssue#114",
+            "link": "https://blog.canopas.com/ios-stack-weekly-issue-114-fcd65f761d53?source=rss----87b7877ee31e--canopas_ios_weekly",
+            "updated": 1709851469,
+            "site_url": "https://blog.canopas.com/tagged/canopas-ios-weekly"
         }
     ]
 }

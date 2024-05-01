@@ -1,5 +1,5 @@
 {
-    "updated": 1714470842,
+    "updated": 1714537213,
     "posts": [
         {
             "id": "https://alexandersandberg.com/someday/,Sun, 07 Apr 2024 00:00:00 +0000",
@@ -16,45 +16,10 @@
             "site_url": "https://alexandersandberg.com"
         },
         {
-            "id": "https://alexandersandberg.com/articles/learning-and-forgetting/",
-            "title": "Learning and forgetting",
-            "link": "https://alexandersandberg.com/articles/learning-and-forgetting/",
-            "updated": 1526230800,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/joining-practice/",
-            "title": "Joining Practice",
-            "link": "https://alexandersandberg.com/articles/joining-practice/",
-            "updated": 1636390800,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/creating-a-website-theme-switcher-with-css-only/",
-            "title": "Creating a website theme switcher with CSS\u00a0only",
-            "link": "https://alexandersandberg.com/articles/creating-a-website-theme-switcher-with-css-only/",
-            "updated": 1647709200,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/the-simple-steps-behind-a-successful-product/",
-            "title": "The simple steps behind a successful product",
-            "link": "https://alexandersandberg.com/articles/the-simple-steps-behind-a-successful-product/",
-            "updated": 1526230800,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/the-unexpected-power-of-daydreaming/",
-            "title": "The unexpected power of daydreaming",
-            "link": "https://alexandersandberg.com/articles/the-unexpected-power-of-daydreaming/",
-            "updated": 1548608400,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/announcing-the-swift-website-workgroup/",
-            "title": "Announcing the Swift Website Workgroup",
-            "link": "https://alexandersandberg.com/articles/announcing-the-swift-website-workgroup/",
-            "updated": 1652288400,
+            "id": "https://alexandersandberg.com/articles/managing-package-dependencies-with-swift-package-manager-in-xcode/",
+            "title": "Managing package dependencies with Swift Package Manager (SwiftPM) in Xcode",
+            "link": "https://alexandersandberg.com/articles/managing-package-dependencies-with-swift-package-manager-in-xcode/",
+            "updated": 1710867600,
             "site_url": "https://alexandersandberg.com"
         },
         {
@@ -65,10 +30,38 @@
             "site_url": "https://alexandersandberg.com"
         },
         {
-            "id": "https://alexandersandberg.com/articles/joining-tempo/",
-            "title": "Joining Tempo",
-            "link": "https://alexandersandberg.com/articles/joining-tempo/",
-            "updated": 1617210000,
+            "id": "https://alexandersandberg.com/articles/how-to-reset-notification-permissions-on-macos/",
+            "title": "How to reset notification permissions on macOS",
+            "link": "https://alexandersandberg.com/articles/how-to-reset-notification-permissions-on-macos/",
+            "updated": 1652634000,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/announcing-the-swift-website-workgroup/",
+            "title": "Announcing the Swift Website Workgroup",
+            "link": "https://alexandersandberg.com/articles/announcing-the-swift-website-workgroup/",
+            "updated": 1652288400,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/creating-a-website-theme-switcher-with-css-only/",
+            "title": "Creating a website theme switcher with CSS\u00a0only",
+            "link": "https://alexandersandberg.com/articles/creating-a-website-theme-switcher-with-css-only/",
+            "updated": 1647709200,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/default-to-tabs-instead-of-spaces-for-an-accessible-first-environment/",
+            "title": "Default to tabs instead of spaces for an \u2018accessible first\u2019 environment",
+            "link": "https://alexandersandberg.com/articles/default-to-tabs-instead-of-spaces-for-an-accessible-first-environment/",
+            "updated": 1647709200,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/joining-practice/",
+            "title": "Joining Practice",
+            "link": "https://alexandersandberg.com/articles/joining-practice/",
+            "updated": 1636390800,
             "site_url": "https://alexandersandberg.com"
         },
         {
@@ -79,10 +72,24 @@
             "site_url": "https://alexandersandberg.com"
         },
         {
-            "id": "https://alexandersandberg.com/articles/default-to-tabs-instead-of-spaces-for-an-accessible-first-environment/",
-            "title": "Default to tabs instead of spaces for an \u2018accessible first\u2019 environment",
-            "link": "https://alexandersandberg.com/articles/default-to-tabs-instead-of-spaces-for-an-accessible-first-environment/",
-            "updated": 1647709200,
+            "id": "https://alexandersandberg.com/articles/joining-tempo/",
+            "title": "Joining Tempo",
+            "link": "https://alexandersandberg.com/articles/joining-tempo/",
+            "updated": 1617210000,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/i-dont-miss-my-tv/",
+            "title": "I don\u2019t miss my TV",
+            "link": "https://alexandersandberg.com/articles/i-dont-miss-my-tv/",
+            "updated": 1574528400,
+            "site_url": "https://alexandersandberg.com"
+        },
+        {
+            "id": "https://alexandersandberg.com/articles/the-unexpected-power-of-daydreaming/",
+            "title": "The unexpected power of daydreaming",
+            "link": "https://alexandersandberg.com/articles/the-unexpected-power-of-daydreaming/",
+            "updated": 1548608400,
             "site_url": "https://alexandersandberg.com"
         },
         {
@@ -100,24 +107,17 @@
             "site_url": "https://alexandersandberg.com"
         },
         {
-            "id": "https://alexandersandberg.com/articles/i-dont-miss-my-tv/",
-            "title": "I don\u2019t miss my TV",
-            "link": "https://alexandersandberg.com/articles/i-dont-miss-my-tv/",
-            "updated": 1574528400,
+            "id": "https://alexandersandberg.com/articles/learning-and-forgetting/",
+            "title": "Learning and forgetting",
+            "link": "https://alexandersandberg.com/articles/learning-and-forgetting/",
+            "updated": 1526230800,
             "site_url": "https://alexandersandberg.com"
         },
         {
-            "id": "https://alexandersandberg.com/articles/managing-package-dependencies-with-swift-package-manager-in-xcode/",
-            "title": "Managing package dependencies with Swift Package Manager (SwiftPM) in Xcode",
-            "link": "https://alexandersandberg.com/articles/managing-package-dependencies-with-swift-package-manager-in-xcode/",
-            "updated": 1710867600,
-            "site_url": "https://alexandersandberg.com"
-        },
-        {
-            "id": "https://alexandersandberg.com/articles/how-to-reset-notification-permissions-on-macos/",
-            "title": "How to reset notification permissions on macOS",
-            "link": "https://alexandersandberg.com/articles/how-to-reset-notification-permissions-on-macos/",
-            "updated": 1652634000,
+            "id": "https://alexandersandberg.com/articles/the-simple-steps-behind-a-successful-product/",
+            "title": "The simple steps behind a successful product",
+            "link": "https://alexandersandberg.com/articles/the-simple-steps-behind-a-successful-product/",
+            "updated": 1526230800,
             "site_url": "https://alexandersandberg.com"
         }
     ]

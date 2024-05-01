@@ -1,110 +1,110 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "661826bb4d86a80001a20399",
             "title": "5 Practical Ways to Quickly Overcome a Programming Obstacle",
             "link": "https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/",
             "updated": 1712835245,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "66159bdb70df5600013049a0",
             "title": "How to migrate from UIActionSheet to UIAlertController in Objective-C",
             "link": "https://blog.supereasyapps.com/how-to-migrate-from-uiactionsheet-to-uialertcontroller-in-objective-c/",
             "updated": 1712671897,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5a0c73a8999cbf0022b91249",
             "title": "30 Auto Layout Best Practices",
             "link": "https://blog.supereasyapps.com/30-auto-layout-best-practices/",
             "updated": 1603083600,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5bd9a2a8d8984400bf79824a",
             "title": "Xcode 10 is the Gold Standard of Development Tools",
             "link": "https://blog.supereasyapps.com/xcode-10-is-the-gold-standard-of-development-tools/",
             "updated": 1540969847,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5b9a4f81c91ab700bfb6915f",
             "title": "A New Era of Apps (What Apple Didn't Say)",
             "link": "https://blog.supereasyapps.com/a-new-era-of-apps-what-apple-didnt-say/",
             "updated": 1536814455,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5b47576d82435a00bf30718b",
             "title": "How To Fix Spotlight Search On Mac (Spotlight Search Not Showing Apps)",
             "link": "https://blog.supereasyapps.com/how-to-fix-spotlight-search-on-mac-spotlight-search-not-showing-apps/",
             "updated": 1531382254,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5b44ba34113bf000cb4a0792",
             "title": "Mac App Store Refund in 6 Steps: How to Get a Refund for any macOS App",
             "link": "https://blog.supereasyapps.com/mac-app-store-refund-in-6-steps-how-to-get-a-refund-for-any-macos-app/",
             "updated": 1531228283,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5b29294af5f6c900bf1386fd",
             "title": "181 iOS Developer and Productivity Tools (for beginners)",
             "link": "https://blog.supereasyapps.com/181-ios-developer-and-productivity-tools-plus-standing-desk-setup/",
             "updated": 1529404987,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5adf4cc4b8e0ba0022b0f523",
             "title": "The 6 Best Pomodoro Apps for Mac (and how to use the Pomodoro method to boost your productivity)",
             "link": "https://blog.supereasyapps.com/6-pomodoro-mac-apps-for-developers-and-how-to-get-started/",
             "updated": 1524559073,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5ace298a29592b0022a68df2",
             "title": "CocoaPods Tutorial for Beginners in Xcode 9 and Swift 4",
             "link": "https://blog.supereasyapps.com/cocoapods-tutorial-for-beginners-in-xcode-9-and-swift-4/",
             "updated": 1523436905,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5a26ac9b7446b60022483878",
             "title": "How to Create Round Buttons Using @IBDesignable on iOS 12",
             "link": "https://blog.supereasyapps.com/how-to-create-round-buttons-using-ibdesignable-on-ios-11/",
             "updated": 1523077260,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5ab7091935d64c00225d2ae4",
             "title": "How to Fix iPhone and iPad App codesign Crashes using an Apple Developer Profile",
             "link": "https://blog.supereasyapps.com/how-to-fix-iphone-and-ipad-app-codesign-crashes-using-an-apple-developer-profile/",
             "updated": 1521921550,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5a8f00ae10d8c0002293cc90",
             "title": "The Power of Beta Tests and Usability Tests",
             "link": "https://blog.supereasyapps.com/the-power-of-beta-tests-and-usability-tests/",
             "updated": 1519382703,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5a6a2ee717bfa2002204ba46",
             "title": "Take the Auto Layout Quiz (iOS Auto Layout Interview Questions)",
             "link": "https://blog.supereasyapps.com/take-the-auto-layout-quiz-test-yourself/",
             "updated": 1516885080,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "5a627ca09b8da4002d94e91f",
             "title": "7 Ways to Add Auto Layout Constraints Using the Storyboard in Xcode 9",
             "link": "https://blog.supereasyapps.com/7-ways-to-add-auto-layout-constraints-using-the-storyboard-in-xcode-9/",
             "updated": 1516388891,
-            "site_name": "Super Easy Apps"
+            "site_url": "https://blog.supereasyapps.com/"
         }
     ]
 }

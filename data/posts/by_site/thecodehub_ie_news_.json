@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.thecodehub.ie/news/?p=4197",
             "title": "Irish EU Code Week Hackathon: Complete!",
             "link": "https://www.thecodehub.ie/news/2023/09/28/irish-eu-code-week-hackathon-complete/",
             "updated": 1695860725,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=2910",
             "title": "New Content! SwiftUI App Walk-Through in Swift Playgrounds",
             "link": "https://www.thecodehub.ie/news/2022/09/06/new-content-swiftui-app-walk-through-in-swift-playgrounds/",
             "updated": 1662453252,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=2042",
             "title": "Teaching Code: A New Series",
             "link": "https://www.thecodehub.ie/news/2022/05/26/teaching-code-a-new-series/",
             "updated": 1653551763,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1978",
             "title": "Happy Eid!",
             "link": "https://www.thecodehub.ie/news/2022/04/29/happy-eid/",
             "updated": 1651219840,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1941",
             "title": "SwiftStudentChallenge 2022!",
             "link": "https://www.thecodehub.ie/news/2022/04/13/swiftstudentchallenge-2022/",
             "updated": 1649806804,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1735",
             "title": "Swift Playgrounds Author Template for Xcode 13!",
             "link": "https://www.thecodehub.ie/news/2022/01/12/swift-playgrounds-author-template-for-xcode-13/",
             "updated": 1641959939,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1687",
             "title": "Swift Playgrounds 4.0: Christmas Come Early!",
             "link": "https://www.thecodehub.ie/news/2021/12/16/swift-playgrounds-4-0-christmas-come-early/",
             "updated": 1639615399,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1658",
             "title": "Prototyping Swift Playground Books",
             "link": "https://www.thecodehub.ie/news/2021/12/10/prototyping-swift-playground-books/",
             "updated": 1639123757,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1512",
             "title": "EU Code Week 2021: Sneak Peek",
             "link": "https://www.thecodehub.ie/news/2021/10/18/eu-code-week-2021-sneak-peek/",
             "updated": 1634548260,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         },
         {
             "id": "https://www.thecodehub.ie/news/?p=1496",
             "title": "EU Code Week 2021 is Here!",
             "link": "https://www.thecodehub.ie/news/2021/10/11/eu-code-week-2021-is-here/",
             "updated": 1633938123,
-            "site_name": "The Code Hub Blog"
+            "site_url": "https://www.thecodehub.ie/news/"
         }
     ]
 }

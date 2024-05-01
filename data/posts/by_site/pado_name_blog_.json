@@ -1,173 +1,173 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://pado.name/blog/2023/08/kineo-anniversary",
             "title": "Kineo's 15th Anniversary",
             "link": "https://pado.name/blog/2023/08/kineo-anniversary/",
             "updated": 1691082000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2020/02/kineo-beta",
             "title": "Kineo Open Beta",
             "link": "https://pado.name/blog/2020/02/kineo-beta/",
             "updated": 1582045200,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2019/08/seriously-what-is-happening-with-pencilkit",
             "title": "Seriously, What is Happening with PencilKit?",
             "link": "https://pado.name/blog/2019/08/seriously-what-is-happening-with-pencilkit/",
             "updated": 1566838800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2019/08/what-happened-to-pencilkit",
             "title": "What Happened to PencilKit?",
             "link": "https://pado.name/blog/2019/08/what-happened-to-pencilkit/",
             "updated": 1566752400,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2019/07/detecting-pets-with-ios-vision",
             "title": "Detecting Pets with the iOS Vision Framework",
             "link": "https://pado.name/blog/2019/07/detecting-pets-with-ios-vision/",
             "updated": 1563469200,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2019/03/my-first-20-minutes-in-an-ios-project",
             "title": "My First 20 Minutes in an iOS Project",
             "link": "https://pado.name/blog/2019/03/my-first-20-minutes-in-an-ios-project/",
             "updated": 1553965200,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2018/04/introducing-finder",
             "title": "Finding your iPhone with HomePod",
             "link": "https://pado.name/blog/2018/04/introducing-finder/",
             "updated": 1523206800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2018/01/adding-gitlab-ci-support",
             "title": "Adding GitLab CI Support",
             "link": "https://pado.name/blog/2018/01/adding-gitlab-ci-support/",
             "updated": 1516554000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2018/01/exploring-alternatives-to-buddybuild",
             "title": "Exploring Alternatives to buddybuild",
             "link": "https://pado.name/blog/2018/01/exploring-alternatives-to-buddybuild/",
             "updated": 1515430800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/11/porting-an-ios-app-to-windows",
             "title": "Porting an iOS app to Windows",
             "link": "https://pado.name/blog/2017/11/porting-an-ios-app-to-windows/",
             "updated": 1510419600,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/08/react-native-javascript",
             "title": "React Native !== JavaScript",
             "link": "https://pado.name/blog/2017/08/react-native-javascript/",
             "updated": 1501952400,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/05/why-i-didnt-do-wwdc-parties-this-year",
             "title": "Why I Didn't Do WWDC Parties This Year",
             "link": "https://pado.name/blog/2017/05/why-i-didnt-do-wwdc-parties-this-year/",
             "updated": 1494781200,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/05/clojurescript-react-native",
             "title": "ClojureScript & React Native",
             "link": "https://pado.name/blog/2017/05/clojurescript-react-native/",
             "updated": 1494003600,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/05/scrawl-10",
             "title": "Scrawl 1.0",
             "link": "https://pado.name/blog/2017/05/scrawl-10/",
             "updated": 1493658000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2017/01/simulator-video",
             "title": "Recording iOS Simulator Video",
             "link": "https://pado.name/blog/2017/01/simulator-video/",
             "updated": 1485666000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2016/12/your-apps-other-ui",
             "title": "Your App\u2019s Other UI",
             "link": "https://pado.name/blog/2016/12/your-apps-other-ui/",
             "updated": 1481734800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2015/06/wwdc-parties-2015",
             "title": "WWDC Parties 2015",
             "link": "https://pado.name/blog/2015/06/wwdc-parties-2015/",
             "updated": 1433120400,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2015/02/siri-confuses-apple-stores-with-apple-stores",
             "title": "Eh, Close Enough",
             "link": "https://pado.name/blog/2015/02/siri-confuses-apple-stores-with-apple-stores/",
             "updated": 1423929000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/11/swift-corner-case",
             "title": "A Swift Corner Case",
             "link": "https://pado.name/blog/2014/11/swift-corner-case/",
             "updated": 1416499800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/11/om",
             "title": "ClojureScript & Om",
             "link": "https://pado.name/blog/2014/11/om/",
             "updated": 1416472200,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/11/gulp",
             "title": "Gulp",
             "link": "http://getgulp.com",
             "updated": 1416330000,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/11/feel-good-slides",
             "title": "Your App Is Good And You Should Feel Good",
             "link": "http://metalbat.com/feel-good/index.html",
             "updated": 1416243600,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/11/goodbye-twitter",
             "title": "Goodbye, Twitter",
             "link": "https://pado.name/blog/2014/11/goodbye-twitter/",
             "updated": 1414981800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         },
         {
             "id": "https://pado.name/blog/2014/10/new-site",
             "title": "That New Site Smell",
             "link": "https://pado.name/blog/2014/10/new-site/",
             "updated": 1413046800,
-            "site_name": "Geoff Pado\u2019s Blog"
+            "site_url": "https://pado.name/blog/"
         }
     ]
 }

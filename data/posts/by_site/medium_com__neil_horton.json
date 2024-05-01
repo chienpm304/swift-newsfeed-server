@@ -1,33 +1,33 @@
 {
-    "updated": 1714470891,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://medium.com/p/e20419a7aaa6",
             "title": "Building a COVID-19 symptom tracker in CareKit: Part 1",
             "link": "https://medium.com/kinandcartacreated/building-a-covid-19-symptom-tracker-in-carekit-part-1-e20419a7aaa6?source=rss-9c17e3806ddd------2",
             "updated": 1586403382,
-            "site_name": "Neil Horton on Medium"
+            "site_url": "https://medium.com/@neil.horton"
         },
         {
             "id": "https://medium.com/p/d72e2ac9ce2",
             "title": "Introductions: HealthKit, ResearchKit and CareKit",
             "link": "https://medium.com/kinandcartacreated/introductions-healthkit-researchkit-and-carekit-d72e2ac9ce2?source=rss-9c17e3806ddd------2",
             "updated": 1585877326,
-            "site_name": "Neil Horton on Medium"
+            "site_url": "https://medium.com/@neil.horton"
         },
         {
             "id": "https://medium.com/p/b3625def8928",
             "title": "Testing for iOS engineers",
             "link": "https://medium.com/kinandcartacreated/testing-for-ios-engineers-b3625def8928?source=rss-9c17e3806ddd------2",
             "updated": 1510128134,
-            "site_name": "Neil Horton on Medium"
+            "site_url": "https://medium.com/@neil.horton"
         },
         {
             "id": "https://medium.com/p/61dfd1e88e43",
             "title": "UIStackView: A Public Service announcement",
             "link": "https://medium.com/kinandcartacreated/uistackview-a-public-service-announcement-61dfd1e88e43?source=rss-9c17e3806ddd------2",
             "updated": 1509088268,
-            "site_name": "Neil Horton on Medium"
+            "site_url": "https://medium.com/@neil.horton"
         }
     ]
 }

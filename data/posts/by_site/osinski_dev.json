@@ -1,40 +1,40 @@
 {
-    "updated": 1714470930,
+    "updated": 1714537256,
     "posts": [
         {
             "id": "https://osinski.dev/posts/reacting-to-memory-warnings-with-swinject/",
             "title": "Reacting to Memory Warnings With Swinject",
             "link": "https://osinski.dev/posts/reacting-to-memory-warnings-with-swinject/",
             "updated": 1589804178,
-            "site_name": "Sebastian Osi\u0144ski\u2019s Blog"
+            "site_url": "https://osinski.dev"
         },
         {
             "id": "https://osinski.dev/posts/snapshot-testing-self-sizing-table-view-cells/",
             "title": "Snapshot testing self-sizing table view cells",
             "link": "https://osinski.dev/posts/snapshot-testing-self-sizing-table-view-cells/",
             "updated": 1567514346,
-            "site_name": "Sebastian Osi\u0144ski\u2019s Blog"
+            "site_url": "https://osinski.dev"
         },
         {
             "id": "https://osinski.dev/posts/swiftui-image-loading/",
             "title": "SwiftUI Generic Image Loading",
             "link": "https://osinski.dev/posts/swiftui-image-loading/",
             "updated": 1564567200,
-            "site_name": "Sebastian Osi\u0144ski\u2019s Blog"
+            "site_url": "https://osinski.dev"
         },
         {
             "id": "https://osinski.dev/posts/visualizing-navigation-flow-progress/",
             "title": "Visualizing navigation flow progress",
             "link": "https://osinski.dev/posts/visualizing-navigation-flow-progress/",
             "updated": 1558717200,
-            "site_name": "Sebastian Osi\u0144ski\u2019s Blog"
+            "site_url": "https://osinski.dev"
         },
         {
             "id": "https://osinski.dev/posts/removable-remote-notifications/",
             "title": "Implementing removable remote notifications on iOS",
             "link": "https://osinski.dev/posts/removable-remote-notifications/",
             "updated": 1553313876,
-            "site_name": "Sebastian Osi\u0144ski\u2019s Blog"
+            "site_url": "https://osinski.dev"
         }
     ]
 }

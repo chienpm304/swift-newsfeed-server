@@ -1,306 +1,306 @@
 {
-    "updated": 1714470889,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://mobilea11y.com/blog/accessibility-values/",
             "title": "iOS Accessibility Values",
             "link": "https://mobilea11y.com/blog/accessibility-values/",
             "updated": 1655609456,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/traits/",
             "title": "iOS UIKit Accessibility traits",
             "link": "https://mobilea11y.com/blog/traits/",
             "updated": 1628814656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/a11y-custom-actions/",
             "title": "iOS Custom Accessibility Actions",
             "link": "https://mobilea11y.com/blog/a11y-custom-actions/",
             "updated": 1627777856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/evinced-ios/",
             "title": "Test Your App's Accessibility with Evinced",
             "link": "https://mobilea11y.com/blog/evinced-ios/",
             "updated": 1616545856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/accessibility-professionals/",
             "title": "How Do I Get My App an Accessibility Audit?",
             "link": "https://mobilea11y.com/blog/accessibility-professionals/",
             "updated": 1616286656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/quick-wins/ui-testing/",
             "title": "Quick Win - Start UI Testing",
             "link": "https://mobilea11y.com/quick-wins/ui-testing/",
             "updated": 1612312256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/quick-wins/dark-mode/",
             "title": "Quick Win - Support Dark Mode",
             "link": "https://mobilea11y.com/quick-wins/dark-mode/",
             "updated": 1611793856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/quick-wins/landscape/",
             "title": "Quick Win - Support Landscape",
             "link": "https://mobilea11y.com/quick-wins/landscape/",
             "updated": 1611793856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/quick-wins/image-descriptions/",
             "title": "Quick Win - Image Descriptions",
             "link": "https://mobilea11y.com/quick-wins/image-descriptions/",
             "updated": 1611016256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/quick-wins/text-contrast/",
             "title": "Quick Win - Text Contrast",
             "link": "https://mobilea11y.com/quick-wins/text-contrast/",
             "updated": 1611016256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/custom-accessibility-content/",
             "title": "iOS 14: Custom Accessibility Content",
             "link": "https://mobilea11y.com/blog/custom-accessibility-content/",
             "updated": 1593390656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/huh-dictionary/",
             "title": "Accessibility Review: Huh? - International languages",
             "link": "https://mobilea11y.com/blog/huh-dictionary/",
             "updated": 1593304256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/figure-case/",
             "title": "Accessibility Review: Figure Case - Button Labels",
             "link": "https://mobilea11y.com/blog/figure-case/",
             "updated": 1592699456,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/daily-dictionary/",
             "title": "Accessibility Review: Daily Dictionary - Screen changes",
             "link": "https://mobilea11y.com/blog/daily-dictionary/",
             "updated": 1589589056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/attributed-accessibility-labels/",
             "title": "iOS Attributed Accessibility Labels",
             "link": "https://mobilea11y.com/blog/attributed-accessibility-labels/",
             "updated": 1588476656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/writing-great-labels/",
             "title": "Writing Great iOS Accessibility Labels",
             "link": "https://mobilea11y.com/blog/writing-great-labels/",
             "updated": 1588473056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/when-to-use-accessibility-labels/",
             "title": "When to use Accessibility Labels",
             "link": "https://mobilea11y.com/blog/when-to-use-accessibility-labels/",
             "updated": 1588469456,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/ios-accessibility-labels/",
             "title": "iOS Accessibility Labels",
             "link": "https://mobilea11y.com/blog/ios-accessibility-labels/",
             "updated": 1588465856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/a11y-box-android/",
             "title": "A11y Box Android",
             "link": "https://mobilea11y.com/blog/a11y-box-android/",
             "updated": 1587861056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/swiftui-talk/",
             "title": "Mobile A11y Talk: Accessibility in SwiftUI",
             "link": "https://mobilea11y.com/blog/swiftui-talk/",
             "updated": 1586651456,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/a11y-box-ios/",
             "title": "A11y Box iOS",
             "link": "https://mobilea11y.com/blog/a11y-box-ios/",
             "updated": 1582677056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/android-live-regions/",
             "title": "Android Live Regions",
             "link": "https://mobilea11y.com/blog/android-live-regions/",
             "updated": 1581381056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/a11yuitests/",
             "title": "A11yUITests: An XCUI Testing library for accessibility",
             "link": "https://mobilea11y.com/blog/a11yuitests/",
             "updated": 1576542656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/xcui/",
             "title": "XCUITests for accessibility",
             "link": "https://mobilea11y.com/guides/xcui/",
             "updated": 1576456256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/resources/",
             "title": "Resources",
             "link": "https://mobilea11y.com/resources/",
             "updated": 1575160256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/kalbag-accessibility-for-everyone-review/",
             "title": "Review: Accessibility for Everyone - Laura Kalbag",
             "link": "https://mobilea11y.com/blog/kalbag-accessibility-for-everyone-review/",
             "updated": 1575073856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/inaccessible-a11y/",
             "title": "A11y is not accessible",
             "link": "https://mobilea11y.com/blog/inaccessible-a11y/",
             "updated": 1574901056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/about-mobile-a11y/",
             "title": "About Mobile A11y",
             "link": "https://mobilea11y.com/about-mobile-a11y/",
             "updated": 1573864256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-accessibility/",
             "title": "SwiftUI Accessibility",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-accessibility/",
             "updated": 1573000256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-semantic-views/",
             "title": "SwiftUI Accessibility: Semantic Views",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-semantic-views/",
             "updated": 1572309056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-settings/",
             "title": "SwiftUI Accessibility: User\u00a0Settings",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-settings/",
             "updated": 1572136256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-attributes/",
             "title": "SwiftUI Accessibility: Attributes",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-attributes/",
             "updated": 1571358656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-traits/",
             "title": "SwiftUI Accessibility: Traits",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-traits/",
             "updated": 1571358656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/pullin-design-meets-disability/",
             "title": "Review: Design Meets Disability - Graham Pullin",
             "link": "https://mobilea11y.com/blog/pullin-design-meets-disability/",
             "updated": 1570840256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/iphreaks-podcast/",
             "title": "Podcast: iPhreaks - iOS Accessibility",
             "link": "https://mobilea11y.com/blog/iphreaks-podcast/",
             "updated": 1570581056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-aui/",
             "title": "SwiftUI Accessibility: Accessible User Interface",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-aui/",
             "updated": 1570581056,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/without-the-v-word/",
             "title": "Mobile A11y Talk: Accessibility without the 'V' Word",
             "link": "https://mobilea11y.com/blog/without-the-v-word/",
             "updated": 1570494656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-sort-priority/",
             "title": "SwiftUI Accessibility: Sort Priority",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-sort-priority/",
             "updated": 1569976256,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-controls/",
             "title": "SwiftUI Accessibility - Named Controls",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-controls/",
             "updated": 1569457856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-dynamic-type/",
             "title": "SwiftUI Accessibility: Dynamic Type",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-dynamic-type/",
             "updated": 1568766656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/guides/swiftui/swiftui-images/",
             "title": "SwiftUI Accessibility: Images",
             "link": "https://mobilea11y.com/guides/swiftui/swiftui-images/",
             "updated": 1568161856,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/baking-digital-inclusion-into-your-mobile-apps/",
             "title": "Baking Digital Inclusion Into Your Mobile Apps",
             "link": "https://mobilea11y.com/blog/baking-digital-inclusion-into-your-mobile-apps/",
             "updated": 1564014656,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         },
         {
             "id": "https://mobilea11y.com/blog/european-accessibility-act/",
             "title": "What The European Accessibility Act (Might) Mean for Mobile Development",
             "link": "https://mobilea11y.com/blog/european-accessibility-act/",
             "updated": 1561336336,
-            "site_name": "Mobile A11y"
+            "site_url": "https://mobilea11y.com"
         }
     ]
 }

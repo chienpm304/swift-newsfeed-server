@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://marcosantadev.com/protocol-composition-swift/",
             "title": "Protocol Composition In Swift",
             "link": "https://marcosantadev.com/protocol-composition-swift/",
             "updated": 1509296400,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/manage-plist-files-plistbuddy/",
             "title": "How To Manage Plist Files With PlistBuddy",
             "link": "https://marcosantadev.com/manage-plist-files-plistbuddy/",
             "updated": 1508691600,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/make-uiimageview-animations/",
             "title": "How To Make iOS Animations With UIImageView in Swift",
             "link": "https://marcosantadev.com/make-uiimageview-animations/",
             "updated": 1508086800,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/arrayslice-in-swift/",
             "title": "ArraySlice In Swift",
             "link": "https://marcosantadev.com/arrayslice-in-swift/",
             "updated": 1507482000,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/implement-cache-lru-swift/",
             "title": "How To Implement Cache LRU With Swift",
             "link": "https://marcosantadev.com/implement-cache-lru-swift/",
             "updated": 1506877200,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/app-localization-tips-swift/",
             "title": "App Localization Tips With Swift",
             "link": "https://marcosantadev.com/app-localization-tips-swift/",
             "updated": 1506272400,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/test-swift-fatalerror/",
             "title": "How To Test fatalError In Swift",
             "link": "https://marcosantadev.com/test-swift-fatalerror/",
             "updated": 1505667600,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/4-ways-pass-data-operations-swift/",
             "title": "4 Ways To Pass Data Between Operations With Swift",
             "link": "https://marcosantadev.com/4-ways-pass-data-operations-swift/",
             "updated": 1505062800,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/mock-dependencies-instance-configuration-injection-swift/",
             "title": "Mock Dependencies: Instance and Metatype Injection With Swift",
             "link": "https://marcosantadev.com/mock-dependencies-instance-configuration-injection-swift/",
             "updated": 1504458000,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         },
         {
             "id": "https://marcosantadev.com/new-ios-software-architecture-4v-engine/",
             "title": "New iOS Software Architecture: 4V Engine",
             "link": "https://marcosantadev.com/new-ios-software-architecture-4v-engine/",
             "updated": 1503853200,
-            "site_name": "Marco Santa Dev"
+            "site_url": "https://www.marcosantadev.com/"
         }
     ]
 }

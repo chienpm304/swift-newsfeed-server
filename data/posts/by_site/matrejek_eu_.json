@@ -1,54 +1,54 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://matrejek.eu/posts/implementing-form-with-uisheetpresentationcontroller",
             "title": "Bottom sheet on iOS15 using UISheetPresentationController and Xcode 13",
             "link": "https://matrejek.eu/posts/implementing-form-with-uisheetpresentationcontroller",
             "updated": 1623085200,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/finding-closest-locations-gkrtree",
             "title": "Finding closest locations with GKRTree in Swift",
             "link": "https://matrejek.eu/posts/finding-closest-locations-gkrtree",
             "updated": 1599498000,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/customizing-xcode-header-comments",
             "title": "Customizing Xcode file header comments",
             "link": "https://matrejek.eu/posts/customizing-xcode-header-comments",
             "updated": 1589648400,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/running-kotlin-tests",
             "title": "Running Kotlin/Native unit tests on iOS Simulator",
             "link": "https://matrejek.eu/posts/running-kotlin-tests",
             "updated": 1587636000,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/reading-entitlements-swift",
             "title": "Reading application entitlements with Swift",
             "link": "https://matrejek.eu/posts/reading-entitlements-swift",
             "updated": 1585760400,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/kotlin-native-xcode-integration",
             "title": "Kotlin/Native and Xcode integration insights",
             "link": "https://matrejek.eu/posts/kotlin-native-xcode-integration",
             "updated": 1584982800,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         },
         {
             "id": "https://matrejek.eu/posts/xcode-errors-and-warnings",
             "title": "Emitting errors and warnings in Xcode Run Script Phase",
             "link": "https://matrejek.eu/posts/xcode-errors-and-warnings",
             "updated": 1584848100,
-            "site_name": "Mateusz Matrejek's Blog"
+            "site_url": "https://matrejek.eu/"
         }
     ]
 }

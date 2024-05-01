@@ -1,152 +1,152 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "https://pfandrade.me/blog/mixing-swift-objective-c-spm-and-static-frameworks/",
             "title": "Mixing Swift, Objective-C, SPM and Static Frameworks",
             "link": "https://pfandrade.me/blog/mixing-swift-objective-c-spm-and-static-frameworks/",
             "updated": 1646634925,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/tweaking-animation-timing/",
             "title": "Tweaking Animation Timing",
             "link": "https://pfandrade.me/blog/tweaking-animation-timing/",
             "updated": 1626933625,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/generic-view-controllers-with-storyboards/",
             "title": "Generic View Controllers with Storyboards",
             "link": "https://pfandrade.me/blog/generic-view-controllers-with-storyboards/",
             "updated": 1612523425,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/anydecodable/",
             "title": "AnyDecodable",
             "link": "https://pfandrade.me/blog/anydecodable/",
             "updated": 1581496825,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/splitting-your-xcode-project-into-modules/",
             "title": "Splitting Your Xcode Project into Modules",
             "link": "https://pfandrade.me/blog/splitting-your-xcode-project-into-modules/",
             "updated": 1580972905,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/unsafe-swift/",
             "title": "Unsafe Swift",
             "link": "https://pfandrade.me/blog/unsafe-swift/",
             "updated": 1578385465,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/dynamicfont/",
             "title": "@DynamicFont",
             "link": "https://pfandrade.me/blog/dynamicfont/",
             "updated": 1568777425,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/thoughts-on-wwdc-19/",
             "title": "Thoughts on WWDC 19",
             "link": "https://pfandrade.me/blog/thoughts-on-wwdc-19/",
             "updated": 1559895025,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/search-scopes-in-xcode/",
             "title": "Search Scopes in Xcode",
             "link": "https://pfandrade.me/blog/search-scopes-in-xcode/",
             "updated": 1554275425,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/late-responders-sidestepping-the-responder-chain/",
             "title": "Late Responders \u2014 Sidestepping The Responder Chain",
             "link": "https://pfandrade.me/blog/late-responders-sidestepping-the-responder-chain/",
             "updated": 1552471628,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/inverted-expectations/",
             "title": "Inverted Expectations",
             "link": "https://pfandrade.me/blog/inverted-expectations/",
             "updated": 1550134405,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/xcode-comparing-build-settings/",
             "title": "Xcode: Comparing Build Settings",
             "link": "https://pfandrade.me/blog/xcode-comparing-build-settings/",
             "updated": 1548905785,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/ipad-pro-first-impressions/",
             "title": "iPad Pro \u2014 First Impressions",
             "link": "https://pfandrade.me/blog/ipad-pro-first-impressions/",
             "updated": 1546693705,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/building-expectations/",
             "title": "Building Expectations",
             "link": "https://pfandrade.me/blog/building-expectations/",
             "updated": 1545033565,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/the-2018-ipad-pro/",
             "title": "The 2018 iPad Pro",
             "link": "https://pfandrade.me/blog/the-2018-ipad-pro/",
             "updated": 1542184585,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/rewinding-animations/",
             "title": "Rewinding Animations",
             "link": "https://pfandrade.me/blog/rewinding-animations/",
             "updated": 1539063523,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/nsoperation-kvo-pitfall/",
             "title": "NSOperation KVO Pitfall",
             "link": "https://pfandrade.me/blog/nsoperation-kvo-pitfall/",
             "updated": 1527821022,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/the-developers-union/",
             "title": "The Developers Union",
             "link": "https://pfandrade.me/blog/the-developers-union/",
             "updated": 1526959218,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/taming-build-variants-with-xcode-configuration-files/",
             "title": "Taming Build Variants With Xcode Configuration Files",
             "link": "https://pfandrade.me/blog/taming-build-variants-with-xcode-configuration-files/",
             "updated": 1523336498,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/rate-limiting-using-a-token-bucket-in-swift/",
             "title": "Rate Limiting Using a Token Bucket in Swift",
             "link": "https://pfandrade.me/blog/rate-limiting-using-a-token-bucket-in-swift/",
             "updated": 1521171024,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         },
         {
             "id": "https://pfandrade.me/blog/managing-ios-ui-testing-fixtures/",
             "title": "Managing iOS UI Testing Fixtures",
             "link": "https://pfandrade.me/blog/managing-ios-ui-testing-fixtures/",
             "updated": 1508668297,
-            "site_name": "Paulo Andrade\u2019s Blog"
+            "site_url": "https://pfandrade.me/tags/ios/"
         }
     ]
 }

@@ -1,75 +1,75 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://xavierlowmiller.github.io/blog/2020/10/14/Slide-to-unlock-in-SwiftUI",
             "title": "Implementing the Slide to Unlock Animation in SwiftUI",
             "link": "https://xavierlowmiller.github.io/blog/2020/10/14/Slide-to-unlock-in-SwiftUI",
             "updated": 1602608400,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2020/09/04/iOS-13-AppStorage",
             "title": "Porting @AppStorage to iOS 13",
             "link": "https://xavierlowmiller.github.io/blog/2020/09/04/iOS-13-AppStorage",
             "updated": 1599152400,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2020/06/04/Swift-Dependencies",
             "title": "What Adding Dependencies Will Do To Your App in 2020",
             "link": "https://xavierlowmiller.github.io/blog/2020/06/04/Swift-Dependencies",
             "updated": 1591203600,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2020/03/08/365-Days-of-Exercise",
             "title": "365 Days of Exercise",
             "link": "https://xavierlowmiller.github.io/blog/2020/03/08/365-Days-of-Exercise",
             "updated": 1583600400,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2020/02/06/Swift-Docker",
             "title": "Deploying a Vapor App Using Docker: The Missing Manual",
             "link": "https://xavierlowmiller.github.io/blog/2020/02/06/Swift-Docker",
             "updated": 1580922000,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2019/09/12/iOS-13-Modal-Presentation",
             "title": "iOS 13 Modal Presentation Styles",
             "link": "https://xavierlowmiller.github.io/blog/2019/09/12/iOS-13-Modal-Presentation",
             "updated": 1568221200,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2019/06/02/Five-Years-of-Swift",
             "title": "Five Years of Swift: A Love Letter",
             "link": "https://xavierlowmiller.github.io/blog/2019/06/02/Five-Years-of-Swift",
             "updated": 1559408400,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2018/11/18/Configure-Apps",
             "title": "Configure Apps at Build Time",
             "link": "https://xavierlowmiller.github.io/blog/2018/11/18/Configure-Apps",
             "updated": 1542474000,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2018/10/24/Do-Blocks",
             "title": "Just Do Blocks",
             "link": "https://xavierlowmiller.github.io/blog/2018/10/24/Do-Blocks",
             "updated": 1540314000,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         },
         {
             "id": "https://xavierlowmiller.github.io/blog/2018/07/09/SwiftLint-For-Teams",
             "title": "SwiftLint For Teams",
             "link": "https://xavierlowmiller.github.io/blog/2018/07/09/SwiftLint-For-Teams",
             "updated": 1531069200,
-            "site_name": "Xavier Lowmiller's Blog"
+            "site_url": "https://xavierlowmiller.github.io"
         }
     ]
 }

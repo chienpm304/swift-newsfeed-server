@@ -1,33 +1,33 @@
 {
-    "updated": 1714470951,
+    "updated": 1714537270,
     "posts": [
         {
             "id": "https://stevemoser.org/posts/apple-dev/richtexture.html",
             "title": "RichTexture",
             "link": "https://stevemoser.org/posts/apple-dev/richtexture.html",
             "updated": 1525401660,
-            "site_name": "Steve Moser\u2019s Blog"
+            "site_url": "https://www.stevemoser.org/category/apple-dev/index.html"
         },
         {
             "id": "https://stevemoser.org/posts/apple-dev/designing-and-developing-for-iphone-x.html",
             "title": "Designing and Developing for iPhone X",
             "link": "https://stevemoser.org/posts/apple-dev/designing-and-developing-for-iphone-x.html",
             "updated": 1513132860,
-            "site_name": "Steve Moser\u2019s Blog"
+            "site_url": "https://www.stevemoser.org/category/apple-dev/index.html"
         },
         {
             "id": "https://stevemoser.org/posts/apple-dev/is-your-app-at-risk-of-getting-kicked-out-of-the-app-store.html",
             "title": "Is your App at Risk of Getting Kicked out of the App Store?",
             "link": "https://stevemoser.org/posts/apple-dev/is-your-app-at-risk-of-getting-kicked-out-of-the-app-store.html",
             "updated": 1478062800,
-            "site_name": "Steve Moser\u2019s Blog"
+            "site_url": "https://www.stevemoser.org/category/apple-dev/index.html"
         },
         {
             "id": "https://stevemoser.org/posts/apple-dev/how-to-create-a-shared-iad-banner-in-a-tabbed-application-with-storyboards.html",
             "title": "How to Create a Shared iAd banner in a Tabbed Application with Storyboards",
             "link": "https://stevemoser.org/posts/apple-dev/how-to-create-a-shared-iad-banner-in-a-tabbed-application-with-storyboards.html",
             "updated": 1366811100,
-            "site_name": "Steve Moser\u2019s Blog"
+            "site_url": "https://www.stevemoser.org/category/apple-dev/index.html"
         }
     ]
 }

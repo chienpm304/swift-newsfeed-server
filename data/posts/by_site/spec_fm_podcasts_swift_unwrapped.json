@@ -1,656 +1,656 @@
 {
-    "updated": 1714471121,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "36d66d6d-3095-445b-a07d-5ca2f1a86638",
             "title": "92: Deinit",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1624251600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "60d5a501-8ef4-4434-a4f8-70435083e20a",
             "title": "91: Concurrency, 3 years later",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1607320800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "8be517d7-102c-4ffa-bfd6-417f875139f4",
             "title": "90: Swift Atomics",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1604296800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "f4074287-1a0c-4e34-8f10-25fdcd62a824",
             "title": "89: Implementing the Swift Runtime in Swift, with Jordan Rose",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1602501030,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "2e67f3ee-be16-485f-9f02-10ca1af1d410",
             "title": "88: Swift 5.3",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1600079197,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "0f116187-1862-4b2e-90e7-41c11b57b9f7",
             "title": "87: Package Registries and Indexes",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1596430806,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "fb840a2b-91ec-45d5-8f0f-2fcb3e3fd1b6",
             "title": "86: Tuples",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1592456404,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "3c8ad665-6bf9-4610-b1f6-5c61aee3e7e2",
             "title": "85: Swift on Windows and other news",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1583215200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "63512e03-26e7-424f-a069-f49b87a08071",
             "title": "84: Swift World Tour 2020",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1580709600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "dcc2c8b1-df8d-4eab-890e-40a3b49bbce4",
             "title": "83: Modify Accessors",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1578290400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "10ec0f1b-d23c-429e-b103-c451d2a91e47",
             "title": "82: Swift's New Diagnostic Architecture",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1575266400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "c7cb38b8-a281-414f-b4eb-867b5b7fda32",
             "title": "81: Swift Compiler Driver",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1572847200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "e1e214a5-1f5d-4133-85aa-bc3d37053b7d",
             "title": "80: Standard Library Preview Package",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1570424400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "301878ce-de61-452d-bc49-9e3e883cea46",
             "title": "79: Swift 5.1 with Doug Gregor",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1568610000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "e9a446e3-6ebc-425d-8060-9fd43a921791",
             "title": "78: Binary Dependencies in Swift Package Manager",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1567400400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "2a1b7fed-d144-430c-925f-3bb31b8105e1",
             "title": "77: Generic Math Functions and Approximate Equality",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1564981200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "54c45604-4cb2-48d5-b99f-34762efb0a3a",
             "title": "76: Property Wrappers",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1561957200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "b4623410-2b01-4b1a-9102-57983a4a2d05",
             "title": "75: Swift Build Systems w/ Keith Smiley",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1559451600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "b679f66f-0236-4afc-a4df-cbbb372a858e",
             "title": "74: Removing Things From Swift",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1557118800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "2e49ccf2-62da-4dfa-838b-8ff5e5cd8c08",
             "title": "73: UTF-8 Strings in Swift 5",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1554094800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "05f1541a-0489-4b63-8512-fa06fa6649ca",
             "title": "72: Pitch for Official Style Guide & Formatter for Swift",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1551679200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "9ad3d84a-aabf-47d3-83f0-ec7b6ced529d",
             "title": "71: Key Path Expressions as Functions",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1549260000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "fb6292e1-5859-46da-b241-dd24dcabafb9",
             "title": "70: SourceKit-LSP",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1546840800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "053fcee9-c01c-4eb3-a006-357acfe14f02",
             "title": "69: Result",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1543816800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "3d7e278d-c4c2-4d75-baa9-e4596e0f2801",
             "title": "68: Opaque Result Types",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1541397600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "b77d686e-4fe8-4bf9-a546-97a2df927505",
             "title": "67: Raw Strings",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1539579600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "47c13621-b500-4f50-ace1-653d77ff47b0",
             "title": "66: Plan For Module Stability",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1534741200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "f77be881-d6a2-4935-af75-d93276403c40",
             "title": "65: Literal Initialization Via Coercion",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1530507600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "701530bb-e36e-402b-bfa9-03306533967b",
             "title": "64: Never",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1529902800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "917b632e-b68f-4d97-89db-1dcc1791ea0a",
             "title": "63: Swift algorithms and data structures (feat. Kelvin Lau & Vincent Ngo)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1529298000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "4f64b729-ab88-4103-b61f-d9e3da315c4c",
             "title": "62: Interview with Ted Kremenek",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1528866000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "024615a0-98a7-404b-9ea8-12d9086ddd54",
             "title": "61: WWDC reactions with Greg Heo",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1528693200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "f6b9f616-d884-46f7-835a-d3f4058b417c",
             "title": "60: Character Properties",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1527483600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "b22c2a39-e15e-49a4-9c11-0a6c40e87882",
             "title": "59: Implicit Escaping of Closures",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1526878800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "3ce042c6-a39d-4616-80a6-9c00e57c2bb3",
             "title": "58: Reimplementation of Implicitly Unwrapped Optionals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1526274000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "60c73681-d7b9-40e4-b710-439d4b22ce26",
             "title": "57: Swift for TensorFlow Design Overview",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1525669200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "ca754556-2a30-4ecf-b1fb-f971e70b41a6",
             "title": "56: SE-206 Hashable Enhancements",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1525064400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "5f939235-3994-46ee-be98-1b2b65871fb2",
             "title": "55: SE-202 Random Unification",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1524459600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "d0b1b6b0-4564-49ff-8795-d321d2d318eb",
             "title": "54: Collection & Sequence Proposals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1523854800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "e0ce2fa5-6659-4e32-aaf3-eba6a7c09e64",
             "title": "53: Swift for TensorFlow",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1523250000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "54c10544-44d7-4d85-92a9-a6f1fda0e80b",
             "title": "52: Package Manager Proposals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1522645200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "3e48ff71-dd0c-4e68-a4ed-3b2c4d652a0c",
             "title": "51: Swift 4.1 w/ Doug & Ben (part 2)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1522040400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "814a010a-9336-4d7e-a983-cb22d7d08395",
             "title": "50: Swift 4.1 w/ Doug & Ben (part 1)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1521435600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "2ced8418-00bd-453d-8ef7-60bae0fbe786",
             "title": "49: Swift Protocol Wishlist",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1520229600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "11770840-764a-4754-8e5a-7057f8f4af5a",
             "title": "48: Google Summer Of Code 2018",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1519624800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "ab7a06e7-f46a-47b1-825b-cb1afd871a69",
             "title": "47: Revamping QuickLook Playground APIs",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1519020000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "32e4eed3-6a18-477f-a9bb-b9056dc7fdd8",
             "title": "46: Restricting cross-module struct initializers",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1518415200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "5a59479d-bc4c-40e6-aa1c-a4fac587b1d7",
             "title": "45: Swift News January 2018",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1517810400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "e465bb6d-be26-4926-92f5-fd271867f8de",
             "title": "44: Swift Bi-Weekly Brief",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1517205600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "8fa146e0-957d-48cf-9743-7c66e3af3228",
             "title": "43: State of String",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1516600800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "64528d7f-032c-4c48-a759-359cf291d329",
             "title": "42: Conditional Conformance",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1515996000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "552fd824-48b8-48fd-b5b8-3dc282d5c067",
             "title": "41: Improving Compilation Performance",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1515391200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "faac064d-35ee-412d-abce-e471e4a45b79",
             "title": "40: Dynamic Member Lookup Proposal",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1513576800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "f05cc734-7091-46cd-9607-4ff8941d8bad",
             "title": "39: Source Compatibility Suite Woes",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1512972000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "1b871f76-97e4-4e8b-b30c-a4ac08fa7987",
             "title": "38: Off to the Races",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1512367200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "277a5991-009e-4761-bdcb-2048bcddaf2c",
             "title": "37: Enum Case Enumerable Proposal",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1511762400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "7f2eb12b-296b-4638-946f-0ff33e14d091",
             "title": "36: Swift Evolution - Current Topics & Proposals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1510552800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "189ca593-d93d-47e4-aac2-c582c5fce79a",
             "title": "35: Performance Profiling on Linux",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1509339600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "961d4d03-6f04-49d0-a035-c706a70fe128",
             "title": "34: Floating-Point",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1508734800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "f1eef62a-9062-4fc8-a47d-44f0a9bb195c",
             "title": "33: HTTP server v0.1.0",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1508130000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "64157dfb-9e18-4c29-9d61-c3b35229bd0a",
             "title": "32: Migrating to Swift 4",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1507525200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "a0932647-ee15-4015-abb9-9aa05ab4e575",
             "title": "31: Compile Times",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1506920400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "d004be8a-fe39-4dbd-b202-f1e43c283649",
             "title": "30: Weak References with Mike Ash",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1506315600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "51e146dc-2408-4a12-b924-59ec10b958ad",
             "title": "29: Notes from Ted Kremenek, Recent Proposals & Xcode 9 GM",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1505710800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "925b5ed4-0dad-4225-b631-723431b3be5c",
             "title": "28: Refactoring Engine",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1505106000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "85305a46-c751-4869-9871-4a5847da1e08",
             "title": "27: Concurrency with Chris Lattner",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1504501200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "dae84d60-ca36-4389-8480-067620aa5406",
             "title": "26: Swift 5 Goals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1503896400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "308a542c-b404-47b5-a4ec-7d378e40b0bd",
             "title": "25: ABI Stability \u2013  Calling Convention, Runtime and Standard Library",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1503291600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "d5bee65a-3d2e-4fbc-a6e9-ab89fb0a4be4",
             "title": "24: ABI Stability - Mangling",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1502686800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "b3439e79-ec13-45e8-b054-26c82e7f76bd",
             "title": "23: ABI Stability \u2013 Data Layout and Metadata",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1502082000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "9598e3fb-49fc-49dc-affc-8c4828065544",
             "title": "22: ABI Stability \u2013 The Big Picture",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1501477200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "ae1000e0-0ecf-4a3b-ae19-6f54f43a8fc6",
             "title": "21: New Proposals",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1500872400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "969650cb-762a-43c5-8b17-c69308bf0084",
             "title": "20: Swift Migrator",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1500267600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "fba67fdb-e2fb-4272-8fb5-49dde817613d",
             "title": "19: WWDC Reactions",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1499662800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "951f1d5e-abfb-439a-9443-e0009ec215b7",
             "title": "18: Community Open Source Spotlight",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1499058000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "986428b8-f605-4d10-b75a-d73a34aaee45",
             "title": "17: Testing Swift",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1498453200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "6b64ce9a-1275-47e5-a8b1-64e2b916149d",
             "title": "16: Error Handling in Swift \u2014 A History",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1497848400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "c7ae8e06-b354-4bf2-bbab-846294a52ac9",
             "title": "15: What's New in Swift 4 (Part 2)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1497243600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "fae2d1e4-6ed0-4177-8b2d-5d5b6ba3edb0",
             "title": "14: What's New in Swift 4 (Part 1)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1496641920,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "148571bd-cb37-45e7-8faf-726d0970554a",
             "title": "13: WWDC Predictions",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1496034000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "05f8c8cd-d19a-4456-bb14-ff6ba5200a34",
             "title": "12: Swift Evolution",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1495429200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "727f3454-6204-4c44-9202-451986ec3a39",
             "title": "11: Ownership Manifesto",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1494824400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "65afbd33-fca4-4b4b-9194-71a6e1e7713e",
             "title": "10: The Variety Show",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1494219600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "1e581335-2d96-4a8b-8cc3-d97a0bdef321",
             "title": "09: String Manifesto",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1493614800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "d7ba5b40-3667-4642-902b-7a1093bce0c1",
             "title": "08: Archival Serialization & Swift Encoders",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1493010000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "13dd70a1-47b8-4e6d-a05b-b79cb2966ea6",
             "title": "07: Access Control - The Saga Continues",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1492405200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "3955518d-2cf2-4ec6-9565-38cb72e02add",
             "title": "06: Swift 3.1 Release & SwiftPM Improvements",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1491800400,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "dfdb442d-0328-4bd9-934d-3349ae58474c",
             "title": "05: Objective-C Interoperability",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1491195600,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "e7614b4b-dd8a-4fa3-b02d-2c833c712fe8",
             "title": "04: Bridging with Objective-C",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1490590800,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "c9bd21d0-1716-4389-a094-de5cbe8728b0",
             "title": "03: Source Stability (What is a Source Breaking Change?)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1489986000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "448ffe96-c0ee-43a4-9029-5a277c8e4ad8",
             "title": "02: SourceKit (Compiling by Default)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1489381200,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "62765dfd-5d6f-4cad-8b9a-de5f2e04a59d",
             "title": "01: Already & Only (Swift Open Source Year in Review)",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1488780000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         },
         {
             "id": "59e380e9-93cc-499c-b325-afb8b384dea1",
             "title": "00: And We're Live!",
             "link": "https://swiftunwrapped.github.io",
             "updated": 1487916000,
-            "site_name": "Swift Unwrapped"
+            "site_url": "https://spec.fm/podcasts/swift-unwrapped"
         }
     ]
 }

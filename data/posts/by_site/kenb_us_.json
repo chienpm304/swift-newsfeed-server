@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://kenb.us/?p=1767",
             "title": "Swift Basics",
             "link": "https://kenb.us/swift-basics",
             "updated": 1573963239,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=1745",
             "title": "Setting up Xcode",
             "link": "https://kenb.us/setting-up-xcode",
             "updated": 1572648613,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=1653",
             "title": "Lossy decodable for arrays",
             "link": "https://kenb.us/lossy-decodable-for-arrays",
             "updated": 1564840765,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=483",
             "title": "Best strategies for configuring multiple environments in Xcode projects",
             "link": "https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects",
             "updated": 1540135183,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=452",
             "title": "Add some color to your tvOS buttons",
             "link": "https://kenb.us/add-some-color-to-your-tvos-buttons",
             "updated": 1538315468,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=298",
             "title": "How to customize UISegmentedControl without losing your mind",
             "link": "https://kenb.us/how-to-customize-uisegmentedcontrol-without-losing-your-mind",
             "updated": 1521930264,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=194",
             "title": "Master map, compactMap, flatMap, reduce and filter by creating your own implementation",
             "link": "https://kenb.us/master-map-compactmap-flatmap-reduce-and-filter-by-creating-your-own-implementation",
             "updated": 1519154677,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=154",
             "title": "Beyond 128-bit integers",
             "link": "https://kenb.us/bigger-integers",
             "updated": 1514126100,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=129",
             "title": "How to store large integer values without losing precision",
             "link": "https://kenb.us/big-integers",
             "updated": 1514036641,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         },
         {
             "id": "https://kenb.us/?p=123",
             "title": "3 ways to extract numbers from a string",
             "link": "https://kenb.us/getting-numbers-out-of-a-string",
             "updated": 1512305001,
-            "site_name": "Ken Boreham\u2019s Blog"
+            "site_url": "https://kenb.us/"
         }
     ]
 }

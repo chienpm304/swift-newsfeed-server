@@ -1,47 +1,47 @@
 {
-    "updated": 1714470949,
+    "updated": 1714537269,
     "posts": [
         {
             "id": "https://medium.com/p/bdb164892ce3",
             "title": "Make your iOS app compatible with Right to Left languages in SwiftUI and UIKit!",
             "link": "https://novinfard.medium.com/make-your-ios-app-compatible-with-right-to-left-languages-in-swiftui-and-uikit-bdb164892ce3?source=rss-6bca32d7b400------2",
             "updated": 1624936870,
-            "site_name": "Soheil Novinfard's Blog"
+            "site_url": "https://novinfard.medium.com"
         },
         {
             "id": "https://medium.com/p/4f3b1710e16b",
             "title": "Make the code testable in Swift",
             "link": "https://novinfard.medium.com/make-the-code-testable-in-swift-4f3b1710e16b?source=rss-6bca32d7b400------2",
             "updated": 1585481218,
-            "site_name": "Soheil Novinfard's Blog"
-        },
-        {
-            "id": "https://medium.com/p/279f44b3182e",
-            "title": "SwiftLint in Use",
-            "link": "https://novinfard.medium.com/swiftlint-in-use-279f44b3182e?source=rss-6bca32d7b400------2",
-            "updated": 1574154698,
-            "site_name": "Soheil Novinfard's Blog"
+            "site_url": "https://novinfard.medium.com"
         },
         {
             "id": "https://medium.com/p/5d3cecbce311",
             "title": "Adding AppStore\u2019s Rate and Review feature to your iOS Application",
             "link": "https://novinfard.medium.com/adding-appstores-rate-and-review-feature-to-your-ios-application-5d3cecbce311?source=rss-6bca32d7b400------2",
             "updated": 1578235091,
-            "site_name": "Soheil Novinfard's Blog"
+            "site_url": "https://novinfard.medium.com"
+        },
+        {
+            "id": "https://medium.com/p/279f44b3182e",
+            "title": "SwiftLint in Use",
+            "link": "https://novinfard.medium.com/swiftlint-in-use-279f44b3182e?source=rss-6bca32d7b400------2",
+            "updated": 1574154698,
+            "site_url": "https://novinfard.medium.com"
         },
         {
             "id": "https://medium.com/p/4fd49453b739",
             "title": "Syncing multiple asynchronous tasks in Swift",
             "link": "https://novinfard.medium.com/syncing-multiple-asynchronous-tasks-in-swift-4fd49453b739?source=rss-6bca32d7b400------2",
             "updated": 1551718536,
-            "site_name": "Soheil Novinfard's Blog"
+            "site_url": "https://novinfard.medium.com"
         },
         {
             "id": "https://medium.com/p/f26355c2538b",
             "title": "Creating custom shapes using Bezier Paths and animate them by CABasicAnimation in iOS",
             "link": "https://novinfard.medium.com/creating-custom-shapes-using-bezier-paths-and-animate-them-by-cabasicanimation-in-ios-f26355c2538b?source=rss-6bca32d7b400------2",
             "updated": 1549898122,
-            "site_name": "Soheil Novinfard's Blog"
+            "site_url": "https://novinfard.medium.com"
         }
     ]
 }

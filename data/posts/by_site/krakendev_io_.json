@@ -1,103 +1,103 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:569c8be9dc5cb4298586d57f",
             "title": "Hipster Swift: Demystifying the Mysterious",
             "link": "https://krakendev.io/blog/hipster-swift",
             "updated": 1453156393,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5661fbabe4b05c2d548a1041",
             "title": "Generic Protocols & Their Shortcomings",
             "link": "https://krakendev.io/blog/generic-protocols-and-their-shortcomings",
             "updated": 1449362477,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:560cdae7e4b0abeddec5123c",
             "title": "Your 3D Touch Spirit Guide",
             "link": "https://krakendev.io/blog/your-3d-touch-spirit-guide",
             "updated": 1443997855,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:55e27382e4b0623149a2a3c8",
             "title": "Auto Layout Magic: Content Sizing Priorities",
             "link": "https://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real",
             "updated": 1442316099,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:55d4aa17e4b06cc473a54a6f",
             "title": "Be Cool with CIFilter Animations",
             "link": "https://krakendev.io/blog/be-cool-with-cifilter-animations",
             "updated": 1440095212,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:55c8455ce4b09cb562cc6472",
             "title": "4 Xcode Asset Catalog Secrets You Need to Know",
             "link": "https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know",
             "updated": 1439167026,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:55bc2fd0e4b068359ac1cfa6",
             "title": "Defeating the Anti-Pattern Bully  Part 1 - Singletons",
             "link": "https://krakendev.io/blog/antipatterns-singletons",
             "updated": 1438373882,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:55a8b793e4b02a02236601bb",
             "title": "The Right Way To Write a Singleton",
             "link": "https://krakendev.io/blog/the-right-way-to-write-a-singleton",
             "updated": 1437097263,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5599d415e4b0386248d89c52",
             "title": "If You're Subclassing, You're Doing It Wrong.",
             "link": "https://krakendev.io/blog/subclassing-can-suck-and-heres-why",
             "updated": 1436751146,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5594fd5fe4b099fe48976ef7",
             "title": "How to Highlight Your TODOs, FIXMEs, & ERRORs In Xcode",
             "link": "https://krakendev.io/blog/generating-warnings-in-xcode",
             "updated": 1435802344,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5594df01e4b0ad11495b5d50",
             "title": "Scripting in Swift is Pretty Awesome",
             "link": "https://krakendev.io/blog/scripting-in-swift",
             "updated": 1435675508,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5594df01e4b0ad11495b5d37",
             "title": "The Implicitly Unwrapped Optional & When To Use It",
             "link": "https://krakendev.io/blog/when-to-use-implicitly-unwrapped-optionals",
             "updated": 1435259534,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5594deffe4b0ad11495b5cff",
             "title": "\"Weak, Strong, Unowned, Oh My!\" - A Guide to References in Swift",
             "link": "https://krakendev.io/blog/weak-and-unowned-references-in-swift",
             "updated": 1435248726,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         },
         {
             "id": "5592eb03e4b051859f0b377f:5594defde4b0ad11495b5c4e:5594deffe4b0ad11495b5cd7",
             "title": "Hello, fellow nerds!",
             "link": "https://krakendev.io/blog/krakendev-intro",
             "updated": 1435000327,
-            "site_name": "KrakenDev"
+            "site_url": "https://krakendev.io/"
         }
     ]
 }

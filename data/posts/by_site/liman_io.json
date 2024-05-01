@@ -1,89 +1,89 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://liman.io/blog/automating-focus-on-ios",
             "title": "Automating Focus on iOS",
             "link": "https://liman.io/blog/automating-focus-on-ios",
             "updated": 1713200400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/link-ios-sleep-schedule-hue-light-bulbs-api-shortcuts",
             "title": "Link iOS Sleep Schedule with Hue Light Bulbs using Shortcuts and Hue API",
             "link": "https://liman.io/blog/link-ios-sleep-schedule-hue-light-bulbs-api-shortcuts",
             "updated": 1685984400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/vercel-nextjs-multi-zones-deployment",
             "title": "Deploying Multi Zones on Vercel with Next.js",
             "link": "https://liman.io/blog/vercel-nextjs-multi-zones-deployment",
             "updated": 1684688400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/gym-scriptable-widget-ios",
             "title": "How busy is your gym? A home screen widget for iOS",
             "link": "https://liman.io/blog/gym-scriptable-widget-ios",
             "updated": 1683824400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/attributegraph-precondition-failure-value-update-realm-swiftui",
             "title": "Tackling `AttributeGraph precondition failure: setting value during update` using Realm in SwiftUI",
             "link": "https://liman.io/blog/attributegraph-precondition-failure-value-update-realm-swiftui",
             "updated": 1669136400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/schema-update-production-synced-realm-ios",
             "title": "Updating Schema of Synced Realm and iOS App in Production",
             "link": "https://liman.io/blog/schema-update-production-synced-realm-ios",
             "updated": 1668877200,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/static-files-development-parceljs",
             "title": "Serve Static Files during Development with Parcel",
             "link": "https://liman.io/blog/static-files-development-parceljs",
             "updated": 1662829200,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/open-url-share-extension-swiftui",
             "title": "Open Third-Party URLs in a SwiftUI App Using a Share Extension",
             "link": "https://liman.io/blog/open-url-share-extension-swiftui",
             "updated": 1661706000,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/infinite-scrolling-list-pagination-graphql-swiftui",
             "title": "Infinite Scrolling List for Paginated Results from GraphQL with SwiftUI",
             "link": "https://liman.io/blog/infinite-scrolling-list-pagination-graphql-swiftui",
             "updated": 1657040400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/synced-realm-swiftui-sign-in-with-apple",
             "title": "Synced Realm on iOS with SwiftUI using Sign-in with Apple for Authentication",
             "link": "https://liman.io/blog/synced-realm-swiftui-sign-in-with-apple",
             "updated": 1654880400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks",
             "title": "Security Vulnerability in GitLab: Sending Arbitrary Requests through Jupyter Notebooks",
             "link": "https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks",
             "updated": 1644426000,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         },
         {
             "id": "https://liman.io/blog/migration-dockerized-mysql-sqlalchemy-alembic",
             "title": "Migration of a dockerized MySQL database with SQLAlchemy and Alembic",
             "link": "https://liman.io/blog/migration-dockerized-mysql-sqlalchemy-alembic",
             "updated": 1609520400,
-            "site_name": "liman.io"
+            "site_url": "https://liman.io"
         }
     ]
 }

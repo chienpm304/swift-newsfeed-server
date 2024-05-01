@@ -1,75 +1,75 @@
 {
-    "updated": 1714470978,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://tiagolopes.blog/?p=1018",
             "title": "Picture in Picture Cheat Sheet (iOS)",
             "link": "https://tiagolopes.blog/2024/02/24/picture-in-picture-cheatsheet-ios/",
             "updated": 1708785973,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagolopes.blog/?p=739",
             "title": "SwiftUI Tip: Enumerating a View State",
             "link": "https://tiagolopes.blog/2022/11/17/swiftui-tip-enumerating-a-view-state/",
             "updated": 1668665963,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagolopes.blog/?p=634",
             "title": "When does a SwiftUI Environment get retained?",
             "link": "https://tiagolopes.blog/2022/11/01/when-does-a-swiftui-environment-get-retained/",
             "updated": 1667293302,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagolopes.blog/?p=498",
             "title": "SPM command-line interface",
             "link": "https://tiagolopes.blog/2022/03/15/spm-command-line-interface/",
             "updated": 1647325630,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagolopes.blog/?p=434",
             "title": "Semantic versioning",
             "link": "https://tiagolopes.blog/2022/02/01/semantic-versioning/",
             "updated": 1643688727,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagomaia.blog/?p=304",
             "title": "Publishing a Swift Package",
             "link": "https://tiagolopes.blog/2022/01/23/publishing-swift-packages/",
             "updated": 1642904586,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagomaia.blog/?p=165",
             "title": "The structure of a Swift Package",
             "link": "https://tiagolopes.blog/2022/01/16/the-structure-of-a-swift-package/",
             "updated": 1642341383,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagomaia.blog/?p=123",
             "title": "The basics of Swift Package Manager",
             "link": "https://tiagolopes.blog/2022/01/09/spm-basics/",
             "updated": 1641716960,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagomaia.blog/?p=93",
             "title": "My thoughts on TDD",
             "link": "https://tiagolopes.blog/2021/12/23/my-thoughts-on-tdd/",
             "updated": 1640228837,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         },
         {
             "id": "http://tiagomaiadotblog.wordpress.com/?p=58",
             "title": "Notification content extensions and Core Data",
             "link": "https://tiagolopes.blog/2018/12/04/notification-content-extensions-and-core-data/",
             "updated": 1543912538,
-            "site_name": "Tiago Lopes' Blog"
+            "site_url": "https://tiagolopes.blog/"
         }
     ]
 }

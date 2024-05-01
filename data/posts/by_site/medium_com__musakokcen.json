@@ -1,54 +1,54 @@
 {
-    "updated": 1714470891,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://medium.com/p/5ccaa70411ac",
             "title": "Recap of the first 6 months in Munich",
             "link": "https://medium.com/@musakokcen/recap-of-the-first-6-months-in-munich-5ccaa70411ac?source=rss-929e86422f66------2",
             "updated": 1685323203,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
+            "site_url": "https://medium.com/@musakokcen"
         },
         {
             "id": "https://medium.com/p/d250b5b73b61",
             "title": "Code: The Hidden Language of Computer Hardware and Software (2nd Edition) Review",
             "link": "https://medium.com/@musakokcen/code-the-hidden-language-of-computer-hardware-and-software-2nd-edition-review-d250b5b73b61?source=rss-929e86422f66------2",
             "updated": 1679850570,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
-        },
-        {
-            "id": "https://medium.com/p/f0f7e9ae409f",
-            "title": "Build a chat feature using Pusher Channels in Swift",
-            "link": "https://medium.com/plus-minus-one/build-a-chat-feature-using-pusher-channels-in-swift-f0f7e9ae409f?source=rss-929e86422f66------2",
-            "updated": 1666769753,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
-        },
-        {
-            "id": "https://medium.com/p/ee23ceb1e9f1",
-            "title": "Testing OneSignal Push Notifications on the Simulator",
-            "link": "https://medium.com/plus-minus-one/testing-onesignal-push-notifications-on-the-simulator-ee23ceb1e9f1?source=rss-929e86422f66------2",
-            "updated": 1645680422,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
-        },
-        {
-            "id": "https://medium.com/p/cc5f8761bfec",
-            "title": "How do we implement unit tests?\u200a\u2014\u200aUnit test practices",
-            "link": "https://medium.com/plus-minus-one/how-do-we-implement-unit-tests-unit-test-practices-cc5f8761bfec?source=rss-929e86422f66------2",
-            "updated": 1624595942,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
+            "site_url": "https://medium.com/@musakokcen"
         },
         {
             "id": "https://medium.com/p/f0e9f035c81b",
             "title": "Configure Firebase Push Notification",
             "link": "https://medium.com/plus-minus-one/configure-firebase-push-notification-f0e9f035c81b?source=rss-929e86422f66------2",
             "updated": 1666773416,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
+            "site_url": "https://medium.com/@musakokcen"
         },
         {
             "id": "https://medium.com/p/91760e0fcc94",
             "title": "How to use a Firebase Function to handle incoming Webhook",
             "link": "https://medium.com/plus-minus-one/how-to-use-a-firebase-function-to-handle-incoming-webhook-91760e0fcc94?source=rss-929e86422f66------2",
             "updated": 1666773352,
-            "site_name": "Musa K\u00f6k\u00e7en on Medium"
+            "site_url": "https://medium.com/@musakokcen"
+        },
+        {
+            "id": "https://medium.com/p/f0f7e9ae409f",
+            "title": "Build a chat feature using Pusher Channels in Swift",
+            "link": "https://medium.com/plus-minus-one/build-a-chat-feature-using-pusher-channels-in-swift-f0f7e9ae409f?source=rss-929e86422f66------2",
+            "updated": 1666769753,
+            "site_url": "https://medium.com/@musakokcen"
+        },
+        {
+            "id": "https://medium.com/p/ee23ceb1e9f1",
+            "title": "Testing OneSignal Push Notifications on the Simulator",
+            "link": "https://medium.com/plus-minus-one/testing-onesignal-push-notifications-on-the-simulator-ee23ceb1e9f1?source=rss-929e86422f66------2",
+            "updated": 1645680422,
+            "site_url": "https://medium.com/@musakokcen"
+        },
+        {
+            "id": "https://medium.com/p/cc5f8761bfec",
+            "title": "How do we implement unit tests?\u200a\u2014\u200aUnit test practices",
+            "link": "https://medium.com/plus-minus-one/how-do-we-implement-unit-tests-unit-test-practices-cc5f8761bfec?source=rss-929e86422f66------2",
+            "updated": 1624595942,
+            "site_url": "https://medium.com/@musakokcen"
         }
     ]
 }

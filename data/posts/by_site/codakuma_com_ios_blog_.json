@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://codakuma.com/new-app-experiment",
             "title": "Experimenting with a new app",
             "link": "https://codakuma.com/new-app-experiment/",
             "updated": 1711818000,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/swift-wishlist",
             "title": "My wishlist for Apple\u2019s developer tools",
             "link": "https://codakuma.com/swiftui-wishlist-2024/",
             "updated": 1710694800,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/introducing-salarypig",
             "title": "Introducing SalaryPig",
             "link": "https://codakuma.com/introducing-salarypig/",
             "updated": 1708880400,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/deps",
             "title": "The third-party libraries I use in every project",
             "link": "https://codakuma.com/dependencies/",
             "updated": 1704992400,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/2023-in-review",
             "title": "2023 in review",
             "link": "https://codakuma.com/2023-in-review/",
             "updated": 1703955600,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/jobhunting",
             "title": "Finding a new job as a software engineer in 2023",
             "link": "https://codakuma.com/jobhunting/",
             "updated": 1700413200,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/date-format",
             "title": "Building a custom date formatter for Swift",
             "link": "https://codakuma.com/swift-custom-date-format/",
             "updated": 1697130000,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/hockeysticking",
             "title": "Hockeysticking",
             "link": "https://codakuma.com/hockeysticking/",
             "updated": 1694278800,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/indieing",
             "title": "Going full-time indie (for now)",
             "link": "https://codakuma.com/the-fear-is-real/",
             "updated": 1686934800,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         },
         {
             "id": "https://codakuma.com/resources",
             "title": "Resources for indie iOS developers",
             "link": "https://codakuma.com/indie-ios-resources/",
             "updated": 1675789200,
-            "site_name": "Codakuma"
+            "site_url": "https://codakuma.com/ios-blog/"
         }
     ]
 }

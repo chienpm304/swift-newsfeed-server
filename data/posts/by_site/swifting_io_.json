@@ -1,418 +1,418 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://swifting.io/2023/01/06/Algorithms-Graphs-BFS-DFS.html",
             "title": "<p>#57 Graph traversal algorithms BFS and DFS</p>",
             "link": "https://swifting.io/2023/01/06/Algorithms-Graphs-BFS-DFS.html",
             "updated": 1672938000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2022/05/06/Swift-Concurrency-by-examples.html",
             "title": "<p>#56 Swift Concurrency by examples.</p>",
             "link": "https://swifting.io/2022/05/06/Swift-Concurrency-by-examples.html",
             "updated": 1651770000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2021/07/01/SwiftUI-and-TCA-watch-your-perfomance.html",
             "title": "<p>#55 SwiftUI &amp; The Composable Architecture - watch your performance (5 rules worth applying).</p>",
             "link": "https://swifting.io/2021/07/01/SwiftUI-and-TCA-watch-your-perfomance.html",
             "updated": 1625072400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2020/05/24/Stubbing-DispatchQueue.html",
             "title": "<p>#54 Stubbing DispatchQueue in unit tests to run tests synchronously</p>",
             "link": "https://swifting.io/2020/05/24/Stubbing-DispatchQueue.html",
             "updated": 1590253200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2019/07/11/NFC-iOS-13.html",
             "title": "<p>#53 First steps with NFC on iOS 13</p>",
             "link": "https://swifting.io/2019/07/11/NFC-iOS-13.html",
             "updated": 1562778000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2019/06/18/XP.html",
             "title": "<p>#52 Speaking the same language</p>",
             "link": "https://swifting.io/2019/06/18/XP.html",
             "updated": 1560790800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2018/07/09/Singo.html",
             "title": "<p>#51 Singo</p>",
             "link": "https://swifting.io/2018/07/09/Singo.html",
             "updated": 1531069200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2018/06/07/An-ask.html",
             "title": "<p>An ask</p>",
             "link": "https://swifting.io/2018/06/07/An-ask.html",
             "updated": 1528304400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2018/03/03/Synchronous-Unit-Tests.html",
             "title": "<p>#50 Synchronous Unit Tests</p>",
             "link": "https://swifting.io/2018/03/03/Synchronous-Unit-Tests.html",
             "updated": 1520010000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2018/02/13/Builder-pattern.html",
             "title": "<p>#49 Builder pattern</p>",
             "link": "https://swifting.io/2018/02/13/Builder-pattern.html",
             "updated": 1518454800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/11/30/Locating-the-Yeti-with-iOS.html",
             "title": "<p>#48 Locating the Yeti with iOS</p>",
             "link": "https://swifting.io/2017/11/30/Locating-the-Yeti-with-iOS.html",
             "updated": 1511974800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/11/12/SiriKit-news-in-2017.html",
             "title": "<p>#47 SiriKit news in 2017</p>",
             "link": "https://swifting.io/2017/11/12/SiriKit-news-in-2017.html",
             "updated": 1510419600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/10/30/Locating-a-snowboarder-on-a-slope.html",
             "title": "<p>#46 Locating a snowboarder \ud83c\udfc2 on a slope</p>",
             "link": "https://swifting.io/2017/10/30/Locating-a-snowboarder-on-a-slope.html",
             "updated": 1509296400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/08/07/Can-you-sing-well.html",
             "title": "<p>#45 Can you sing well?</p>",
             "link": "https://swifting.io/2017/08/07/Can-you-sing-well.html",
             "updated": 1502038800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/07/05/Watch-your-Bluetooth.html",
             "title": "<p>#44 Watch your Bluetooth!</p>",
             "link": "https://swifting.io/2017/07/05/Watch-your-Bluetooth.html",
             "updated": 1499187600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/05/30/Bye-Bye-fileprivate.html",
             "title": "<p>#43 Bye Bye fileprivate</p>",
             "link": "https://swifting.io/2017/05/30/Bye-Bye-fileprivate.html",
             "updated": 1496077200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/05/17/Review-all-the-things.html",
             "title": "<p>#42 Review all the things!</p>",
             "link": "https://swifting.io/2017/05/17/Review-all-the-things.html",
             "updated": 1494954000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/05/06/Architecture-Wars-MVC-strikes-back-AVFoundation.html",
             "title": "<p>#41 Architecture Wars \u2013 MVC strikes back &amp; takes a photo with AVFoundation</p>",
             "link": "https://swifting.io/2017/05/06/Architecture-Wars-MVC-strikes-back-AVFoundation.html",
             "updated": 1494003600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/04/19/How-to-swiftly-dequeue-a-cell.html",
             "title": "<p>#40 How to swiftly dequeue a cell?</p>",
             "link": "https://swifting.io/2017/04/19/How-to-swiftly-dequeue-a-cell.html",
             "updated": 1492534800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/04/05/HomeKit-Devices-Simulator-using-Node-RED-Raspberry-Pi.html",
             "title": "<p>#39 HomeKit Devices Simulator using Node-RED &amp; Raspberry Pi</p>",
             "link": "https://swifting.io/2017/04/05/HomeKit-Devices-Simulator-using-Node-RED-Raspberry-Pi.html",
             "updated": 1491325200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/03/20/Home-automation-with-Homebridge.html",
             "title": "<p>#38 Home automation with Homebridge</p>",
             "link": "https://swifting.io/2017/03/20/Home-automation-with-Homebridge.html",
             "updated": 1489942800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/03/06/iOS-Application-Security-Basics.html",
             "title": "<p>#37 iOS Application Security Basics</p>",
             "link": "https://swifting.io/2017/03/06/iOS-Application-Security-Basics.html",
             "updated": 1488733200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/02/14/ObjectiveC2Swift-Review.html",
             "title": "<p>#36 ObjectiveC2Swift Review</p>",
             "link": "https://swifting.io/2017/02/14/ObjectiveC2Swift-Review.html",
             "updated": 1487005200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/02/05/Structs-Alternative-Using-Swift-Protocols-to-Enhance-Safety-of-Core-Data-Access.html",
             "title": "<p>#35 Structs Alternative - Using Swift Protocols to Enhance Safety of Core Data Access</p>",
             "link": "https://swifting.io/2017/02/05/Structs-Alternative-Using-Swift-Protocols-to-Enhance-Safety-of-Core-Data-Access.html",
             "updated": 1486227600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/01/26/Happy-Birthday.html",
             "title": "<p>#34 \ud83c\udf82 Happy Birthday (for the 1st time)</p>",
             "link": "https://swifting.io/2017/01/26/Happy-Birthday.html",
             "updated": 1485363600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/01/16/Security-implement-your-own-encryption-schema.html",
             "title": "<p>#33 Security \u2013 implement your own encryption schema</p>",
             "link": "https://swifting.io/2017/01/16/Security-implement-your-own-encryption-schema.html",
             "updated": 1484499600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/01/08/Errorify-String.html",
             "title": "<p>#32 Errorify String</p>",
             "link": "https://swifting.io/2017/01/08/Errorify-String.html",
             "updated": 1483808400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2017/01/01/Getting-started-with-Alexa-on-iOS.html",
             "title": "<p>#31 Getting started with Alexa on iOS</p>",
             "link": "https://swifting.io/2017/01/01/Getting-started-with-Alexa-on-iOS.html",
             "updated": 1483203600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/12/11/Cyclomaticly-Complex-Settings-View-Controller.html",
             "title": "<p>#30 Cyclomaticly Complex Settings View Controller</p>",
             "link": "https://swifting.io/2016/12/11/Cyclomaticly-Complex-Settings-View-Controller.html",
             "updated": 1481389200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/12/04/An-alternative-to-if-let-and-guard-let.html",
             "title": "<p>#29 An alternative to if let and guard let</p>",
             "link": "https://swifting.io/2016/12/04/An-alternative-to-if-let-and-guard-let.html",
             "updated": 1480784400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/11/27/Better-CoreData-with-Swift-Generics.html",
             "title": "<p>#28 Better CoreData with Swift Generics</p>",
             "link": "https://swifting.io/2016/11/27/Better-CoreData-with-Swift-Generics.html",
             "updated": 1480179600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/11/20/Localize-your-strings-swiftly.html",
             "title": "<p>#27 Localize your strings swiftly</p>",
             "link": "https://swifting.io/2016/11/20/Localize-your-strings-swiftly.html",
             "updated": 1479574800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/10/25/SwiftLint-SonarQube-and-CheckMarx.html",
             "title": "<p>#26 SwiftLint, SonarQube and CheckMarx\u2026 what else?</p>",
             "link": "https://swifting.io/2016/10/25/SwiftLint-SonarQube-and-CheckMarx.html",
             "updated": 1477328400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/09/25/Core-Data-in-iOS10-NSPersistentContainer.html",
             "title": "<p>#25 Core Data in iOS10 - NSPersistentContainer</p>",
             "link": "https://swifting.io/2016/09/25/Core-Data-in-iOS10-NSPersistentContainer.html",
             "updated": 1474736400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/09/07/Architecture-Wars-A-New-Hope.html",
             "title": "<p>#24 Architecture Wars \u2013 A New Hope</p>",
             "link": "https://swifting.io/2016/09/07/Architecture-Wars-A-New-Hope.html",
             "updated": 1473181200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/08/22/Notifications-in-iOS-10.html",
             "title": "<p>#23 Notifications in iOS 10</p>",
             "link": "https://swifting.io/2016/08/22/Notifications-in-iOS-10.html",
             "updated": 1471798800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/08/17/Swift-3-Access-Control-Xcode-8-Beta-6.html",
             "title": "<p>#22 Swift 3 Access Control (Xcode 8 Beta 6)</p>",
             "link": "https://swifting.io/2016/08/17/Swift-3-Access-Control-Xcode-8-Beta-6.html",
             "updated": 1471366800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/08/09/iOS-Security-101.html",
             "title": "<p>#21 iOS Security 101</p>",
             "link": "https://swifting.io/2016/08/09/iOS-Security-101.html",
             "updated": 1470675600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/07/18/SiriKit-Can-you-outsmart-provided-Intents.html",
             "title": "<p>#20 SiriKit \u2013 Can you outsmart provided Intents?</p>",
             "link": "https://swifting.io/2016/07/18/SiriKit-Can-you-outsmart-provided-Intents.html",
             "updated": 1468774800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/06/23/Exploring-music-basics-with-AudioKit.html",
             "title": "<p>#19 Exploring music basics with AudioKit</p>",
             "link": "https://swifting.io/2016/06/23/Exploring-music-basics-with-AudioKit.html",
             "updated": 1466614800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/06/13/Do-pure-Swift-objects-have-load-method.html",
             "title": "<p>#18 Do pure Swift objects have load() method?</p>",
             "link": "https://swifting.io/2016/06/13/Do-pure-Swift-objects-have-load-method.html",
             "updated": 1465750800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/06/06/Unit-test-all-the-things.html",
             "title": "<p>#17 Unit test all the things!</p>",
             "link": "https://swifting.io/2016/06/06/Unit-test-all-the-things.html",
             "updated": 1465146000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/05/30/Parse-Server-100-days-later.html",
             "title": "<p>#16 Parse Server \u2013 100 days later</p>",
             "link": "https://swifting.io/2016/05/30/Parse-Server-100-days-later.html",
             "updated": 1464541200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/05/16/Nested-enums-or-rather-never-ending-posts-about-enums.html",
             "title": "<p>#15 Nested enums or rather never ending posts about enums:)</p>",
             "link": "https://swifting.io/2016/05/16/Nested-enums-or-rather-never-ending-posts-about-enums.html",
             "updated": 1463331600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/04/24/Code-Review-Tips-Swifts.html",
             "title": "<p>#14 Code Review \u2013 Tips &amp; Swifts</p>",
             "link": "https://swifting.io/2016/04/24/Code-Review-Tips-Swifts.html",
             "updated": 1461430800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/04/18/Code-Review-are-we-too-busy-to-improve.html",
             "title": "<p>#13 Code Review \u2013 are we too busy to improve?</p>",
             "link": "https://swifting.io/2016/04/18/Code-Review-are-we-too-busy-to-improve.html",
             "updated": 1460912400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/04/11/Custom-UIViewController-transitions-in-VIPER.html",
             "title": "<p>#12 Custom UIViewController transitions in VIPER</p>",
             "link": "https://swifting.io/2016/04/11/Custom-UIViewController-transitions-in-VIPER.html",
             "updated": 1460307600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/03/29/SwiftLint.html",
             "title": "<p>#11 SwiftLint</p>",
             "link": "https://swifting.io/2016/03/29/SwiftLint.html",
             "updated": 1459184400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/03/21/Is-Christmas-earlier-this-year-code-quality-analyser-ABC.html",
             "title": "<p>#10 Is Christmas earlier this year? \u2013 code quality analyser &amp; ABC</p>",
             "link": "https://swifting.io/2016/03/21/Is-Christmas-earlier-this-year-code-quality-analyser-ABC.html",
             "updated": 1458493200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/03/13/How-to-invalidate-NSTimer-properly.html",
             "title": "<p>#9 How to invalidate NSTimer properly?</p>",
             "link": "https://swifting.io/2016/03/13/How-to-invalidate-NSTimer-properly.html",
             "updated": 1457802000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/03/07/VIPER-to-be-or-not-to-be.html",
             "title": "<p>#8 VIPER to be or not to be?</p>",
             "link": "https://swifting.io/2016/03/07/VIPER-to-be-or-not-to-be.html",
             "updated": 1457283600,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/02/28/Do-I-love-or-crash-something-shortly-on-capture-lists.html",
             "title": "<p>#7 Do I love or crash something? \u2013 shortly on capture lists</p>",
             "link": "https://swifting.io/2016/02/28/Do-I-love-or-crash-something-shortly-on-capture-lists.html",
             "updated": 1456592400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/02/19/Basic-LLDB-tips.html",
             "title": "<p>#6 Basic LLDB tips</p>",
             "link": "https://swifting.io/2016/02/19/Basic-LLDB-tips.html",
             "updated": 1455814800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/02/12/When-compiler-doesnt-know-when-a-String-is-of-String-type.html",
             "title": "<p>#5 When compiler doesn\u2019t know when a String is of String type</p>",
             "link": "https://swifting.io/2016/02/12/When-compiler-doesnt-know-when-a-String-is-of-String-type.html",
             "updated": 1455210000,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/02/08/Migration-from-Parse-to-Heroku.html",
             "title": "<p>#4 Migration from Parse to Heroku</p>",
             "link": "https://swifting.io/2016/02/08/Migration-from-Parse-to-Heroku.html",
             "updated": 1454864400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/02/03/Infix-operator.html",
             "title": "<p>#3 Infix operator</p>",
             "link": "https://swifting.io/2016/02/03/Infix-operator.html",
             "updated": 1454432400,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/01/30/Un-crash-swiftly-from-CBCentralManager-callbacks-to-a-deallocated-object.html",
             "title": "<p>#2 Un-crash swiftly from CBCentralManager callbacks to a deallocated object</p>",
             "link": "https://swifting.io/2016/01/30/Un-crash-swiftly-from-CBCentralManager-callbacks-to-a-deallocated-object.html",
             "updated": 1454086800,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/01/26/Meaningful-print-debugging.html",
             "title": "<p>#1 Meaningful print debugging</p>",
             "link": "https://swifting.io/2016/01/26/Meaningful-print-debugging.html",
             "updated": 1453741200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         },
         {
             "id": "https://swifting.io/2016/01/26/Big-Hi-to-the-world.html",
             "title": "<p>#0 Big Hi to the world!</p>",
             "link": "https://swifting.io/2016/01/26/Big-Hi-to-the-world.html",
             "updated": 1453741200,
-            "site_name": "swifting.io"
+            "site_url": "https://swifting.io/"
         }
     ]
 }

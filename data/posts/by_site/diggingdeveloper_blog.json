@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://diggingdeveloper.blog/?p=710",
             "title": "TIL dynamic libraries are only partially loaded at launch in iOS",
             "link": "https://diggingdeveloper.blog/2024/04/03/til-dynamic-libraries-are-only-partially-loaded-at-launch-in-ios/",
             "updated": 1712076840,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=491",
             "title": "Fix issue: keys won\u2019t load automatically to ssh-agent from ssh config file",
             "link": "https://diggingdeveloper.blog/2023/10/23/fix-issue-keys-wont-load-automatically-to-ssh-agent-from-ssh-config-file/",
             "updated": 1697990473,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=356",
             "title": "Reloading existing items when using Diffable Data Source",
             "link": "https://diggingdeveloper.blog/2022/10/26/reloading-existing-items-when-using-diffable-data-source/",
             "updated": 1666780805,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=346",
             "title": "TIL: lldb po strongly captures an object, forever",
             "link": "https://diggingdeveloper.blog/2022/08/03/til-lldb-po-strongly-captures-an-object-forever/",
             "updated": 1659451259,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=282",
             "title": "Xcode UI Tests: infinite \u201cwait for app to idle\u201d",
             "link": "https://diggingdeveloper.blog/2022/01/21/xcode-ui-tests-infinite-wait-for-app-to-idle/",
             "updated": 1642759189,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=260",
             "title": "UI Tests are asynchronous and dynamic. Issues and tips.",
             "link": "https://diggingdeveloper.blog/2022/01/18/xcuielementsnapshot/",
             "updated": 1642501826,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=174",
             "title": "Your Core Data fetches may return unexpected results, or why you should use Query Generations",
             "link": "https://diggingdeveloper.blog/2021/12/06/nsmanagedobjectcontexts-perform_-is-not-consistent-by-default-or-why-you-should-use-query-generations/",
             "updated": 1638787130,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=69",
             "title": "TIL Generate Memberwise Initializer",
             "link": "https://diggingdeveloper.blog/2020/08/10/til-generate-memberwise-initializer/",
             "updated": 1597032150,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=86",
             "title": "TIL unix \u201cfile\u201d program",
             "link": "https://diggingdeveloper.blog/2020/08/10/til-unix-file-program/",
             "updated": 1597032068,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         },
         {
             "id": "http://diggingdeveloper.blog/?p=74",
             "title": "AVMutableVideoCompositionLayerInstruction assetTrack",
             "link": "https://diggingdeveloper.blog/2020/05/26/avmutablevideocompositionlayerinstruction-assettrack/",
             "updated": 1590469506,
-            "site_name": "Digging Developer blog"
+            "site_url": "https://diggingdeveloper.blog"
         }
     ]
 }

@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
-        {
-            "id": "yt:video:luQqoDSgkHw",
-            "title": "Dogfooding in Software Development - Eating your own dog food",
-            "link": "https://www.youtube.com/watch?v=luQqoDSgkHw",
-            "updated": 1707927263,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:04Sa3TBOYnw",
-            "title": "React Native CLI vs Expo",
-            "link": "https://www.youtube.com/watch?v=04Sa3TBOYnw",
-            "updated": 1714065144,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:8_b-6djCRrc",
-            "title": "iOS Tutorial - In App Purchase with Adapty",
-            "link": "https://www.youtube.com/watch?v=8_b-6djCRrc",
-            "updated": 1712267159,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:-hnt9Ttyy9s",
-            "title": "How To Get Job Offers as a Programmer",
-            "link": "https://www.youtube.com/watch?v=-hnt9Ttyy9s",
-            "updated": 1709246356,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:GCSQZqzm18U",
-            "title": "Code Review Best Practices For Software Engineers",
-            "link": "https://www.youtube.com/watch?v=GCSQZqzm18U",
-            "updated": 1714108129,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:c1cdz5xIwQM",
-            "title": "Rewriting code from scratch - pros and cons",
-            "link": "https://www.youtube.com/watch?v=c1cdz5xIwQM",
-            "updated": 1708662746,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:avnByO69eI8",
-            "title": "Monorepo VS Polyrepo",
-            "link": "https://www.youtube.com/watch?v=avnByO69eI8",
-            "updated": 1713976779,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:Ytl9D-ZHBMw",
-            "title": "Show Your Work by Austin Kleon - Book Review from programmer perspective",
-            "link": "https://www.youtube.com/watch?v=Ytl9D-ZHBMw",
-            "updated": 1709570287,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:tplH8lDKkNI",
-            "title": "TypeScript vs JavaScript - Pros and Cons",
-            "link": "https://www.youtube.com/watch?v=tplH8lDKkNI",
-            "updated": 1714095886,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:vK6Y8-w0Q_w",
-            "title": "Is it worth reading non-programming books to become a better developer?",
-            "link": "https://www.youtube.com/watch?v=vK6Y8-w0Q_w",
-            "updated": 1714115217,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:zz9-d7gKG1o",
-            "title": "React Native Tutorial - Chat Rooms App using Stream SDK",
-            "link": "https://www.youtube.com/watch?v=zz9-d7gKG1o",
-            "updated": 1714076398,
-            "site_name": "Tom Baranowicz"
-        },
-        {
-            "id": "yt:video:lnYVGJT4dpI",
-            "title": "Marketing for Software Developers: The 22 Immutable Laws of Marketing Review",
-            "link": "https://www.youtube.com/watch?v=lnYVGJT4dpI",
-            "updated": 1708767827,
-            "site_name": "Tom Baranowicz"
-        },
         {
             "id": "yt:video:HAP1B-Puhz0",
             "title": "Top 10 Twitter Profiles to follow for iOS Developers",
             "link": "https://www.youtube.com/watch?v=HAP1B-Puhz0",
             "updated": 1714156320,
-            "site_name": "Tom Baranowicz"
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
         },
         {
             "id": "yt:video:Q5bOFt61Fo0",
             "title": "Hired 2021 State of Software Engineers - Analysis",
             "link": "https://www.youtube.com/watch?v=Q5bOFt61Fo0",
             "updated": 1714135839,
-            "site_name": "Tom Baranowicz"
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:vK6Y8-w0Q_w",
+            "title": "Is it worth reading non-programming books to become a better developer?",
+            "link": "https://www.youtube.com/watch?v=vK6Y8-w0Q_w",
+            "updated": 1714115217,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:GCSQZqzm18U",
+            "title": "Code Review Best Practices For Software Engineers",
+            "link": "https://www.youtube.com/watch?v=GCSQZqzm18U",
+            "updated": 1714108129,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:tplH8lDKkNI",
+            "title": "TypeScript vs JavaScript - Pros and Cons",
+            "link": "https://www.youtube.com/watch?v=tplH8lDKkNI",
+            "updated": 1714095886,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:zz9-d7gKG1o",
+            "title": "React Native Tutorial - Chat Rooms App using Stream SDK",
+            "link": "https://www.youtube.com/watch?v=zz9-d7gKG1o",
+            "updated": 1714076398,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:04Sa3TBOYnw",
+            "title": "React Native CLI vs Expo",
+            "link": "https://www.youtube.com/watch?v=04Sa3TBOYnw",
+            "updated": 1714065144,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:avnByO69eI8",
+            "title": "Monorepo VS Polyrepo",
+            "link": "https://www.youtube.com/watch?v=avnByO69eI8",
+            "updated": 1713976779,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:8_b-6djCRrc",
+            "title": "iOS Tutorial - In App Purchase with Adapty",
+            "link": "https://www.youtube.com/watch?v=8_b-6djCRrc",
+            "updated": 1712267159,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:Ytl9D-ZHBMw",
+            "title": "Show Your Work by Austin Kleon - Book Review from programmer perspective",
+            "link": "https://www.youtube.com/watch?v=Ytl9D-ZHBMw",
+            "updated": 1709570287,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:-hnt9Ttyy9s",
+            "title": "How To Get Job Offers as a Programmer",
+            "link": "https://www.youtube.com/watch?v=-hnt9Ttyy9s",
+            "updated": 1709246356,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
         },
         {
             "id": "yt:video:qrwKeS4r0_U",
             "title": "REACT NATIVE TUTORIAL - Teleprompter in TypeScript",
             "link": "https://www.youtube.com/watch?v=qrwKeS4r0_U",
             "updated": 1708782715,
-            "site_name": "Tom Baranowicz"
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:lnYVGJT4dpI",
+            "title": "Marketing for Software Developers: The 22 Immutable Laws of Marketing Review",
+            "link": "https://www.youtube.com/watch?v=lnYVGJT4dpI",
+            "updated": 1708767827,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:c1cdz5xIwQM",
+            "title": "Rewriting code from scratch - pros and cons",
+            "link": "https://www.youtube.com/watch?v=c1cdz5xIwQM",
+            "updated": 1708662746,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
+        },
+        {
+            "id": "yt:video:luQqoDSgkHw",
+            "title": "Dogfooding in Software Development - Eating your own dog food",
+            "link": "https://www.youtube.com/watch?v=luQqoDSgkHw",
+            "updated": 1707927263,
+            "site_url": "https://www.youtube.com/c/tombaranowicz"
         }
     ]
 }

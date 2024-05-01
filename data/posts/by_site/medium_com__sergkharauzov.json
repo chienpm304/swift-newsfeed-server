@@ -1,26 +1,26 @@
 {
-    "updated": 1714470930,
+    "updated": 1714537256,
     "posts": [
         {
             "id": "https://medium.com/p/da3d58f5a9fe",
             "title": "The power of child ViewControllers in iOS",
             "link": "https://medium.com/@sergkharauzov/the-power-of-child-viewcontrollers-in-ios-da3d58f5a9fe?source=rss-435333b617b0------2",
             "updated": 1585128680,
-            "site_name": "Serhii Kharauzov on Medium"
+            "site_url": "https://medium.com/@sergkharauzov"
         },
         {
             "id": "https://medium.com/p/29c528af3be8",
             "title": "Screen-based values in your iOS app",
             "link": "https://medium.com/@sergkharauzov/screen-based-values-in-your-ios-app-29c528af3be8?source=rss-435333b617b0------2",
             "updated": 1581811351,
-            "site_name": "Serhii Kharauzov on Medium"
+            "site_url": "https://medium.com/@sergkharauzov"
         },
         {
             "id": "https://medium.com/p/c96f581639e0",
             "title": "Make draggable UIViewController with swipe cards using custom transitions in iOS",
             "link": "https://medium.com/@sergkharauzov/make-draggable-uiviewcontroller-with-swipe-cards-using-custom-transitions-in-ios-c96f581639e0?source=rss-435333b617b0------2",
             "updated": 1551351495,
-            "site_name": "Serhii Kharauzov on Medium"
+            "site_url": "https://medium.com/@sergkharauzov"
         }
     ]
 }

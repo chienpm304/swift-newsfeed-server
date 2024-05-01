@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
-        {
-            "id": "yt:video:w66472egiG4",
-            "title": "iOS Developer shares tips for attending your first (online) meetup!",
-            "link": "https://www.youtube.com/watch?v=w66472egiG4",
-            "updated": 1713674207,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:mB5tLVtpIgI",
-            "title": "Don't just say \"Hi\" | Developer explains how to deal with trolls and negative comments online",
-            "link": "https://www.youtube.com/watch?v=mB5tLVtpIgI",
-            "updated": 1712321229,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:x6zqC68fVwE",
-            "title": "Podcast Ep. #8 | Mikaela Caron: Content Creation, Hackathons and more!",
-            "link": "https://www.youtube.com/watch?v=x6zqC68fVwE",
-            "updated": 1714087685,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:_PmLjsTLME4",
-            "title": "Announcing my new blog: swiftandtips.com",
-            "link": "https://www.youtube.com/watch?v=_PmLjsTLME4",
-            "updated": 1714091947,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:wsLYA3MiXyc",
-            "title": "Quick Update (Feb 2024)",
-            "link": "https://www.youtube.com/watch?v=wsLYA3MiXyc",
-            "updated": 1714033420,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:JtPoqgNJohQ",
-            "title": "Detecting Sensitive Content in your own iOS app",
-            "link": "https://www.youtube.com/watch?v=JtPoqgNJohQ",
-            "updated": 1714147366,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:eSbXJ4GfwS4",
-            "title": "Avoid THIS when using enum pattern matching in Swift",
-            "link": "https://www.youtube.com/watch?v=eSbXJ4GfwS4",
-            "updated": 1710281303,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:nA2iJxCwF5Y",
-            "title": "3rd Anniversary Swift and Tips: 2023 Results (More than expected! \ud83d\ude80)",
-            "link": "https://www.youtube.com/watch?v=nA2iJxCwF5Y",
-            "updated": 1711155045,
-            "site_name": "Swift and Tips"
-        },
         {
             "id": "yt:video:PkRd--1tE14",
             "title": "Xcode Cloud will offer 25 Compute hours per month FOR FREE!",
             "link": "https://www.youtube.com/watch?v=PkRd--1tE14",
             "updated": 1714182351,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:nlJpnLkLymw",
-            "title": "Dynamic Text Color for Changing Backgrounds in #swiftui",
-            "link": "https://www.youtube.com/watch?v=nlJpnLkLymw",
-            "updated": 1711062807,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:NGpM9-t9tgs",
-            "title": "Swift Macros 101: Your Step-by-Step Guide To Crafting Your First Macro!",
-            "link": "https://www.youtube.com/watch?v=NGpM9-t9tgs",
-            "updated": 1714099609,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:SyWMAYLcYC0",
-            "title": "Mastering SWIFT MACROS: 4 Essential Insights BEFORE you dive in | Geekle's iOS Summit 2023",
-            "link": "https://www.youtube.com/watch?v=SyWMAYLcYC0",
-            "updated": 1714167792,
-            "site_name": "Swift and Tips"
-        },
-        {
-            "id": "yt:video:qE1P26C2ZIQ",
-            "title": "Say Goodbye to Manual Mock Data: Discover the Power of @SampleBuilder!",
-            "link": "https://www.youtube.com/watch?v=qE1P26C2ZIQ",
-            "updated": 1708318690,
-            "site_name": "Swift and Tips"
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
         },
         {
             "id": "yt:video:i0zsZYIoAGA",
             "title": "5 Tips you should know for a Successful Software Career | Podcast Ep. #7",
             "link": "https://www.youtube.com/watch?v=i0zsZYIoAGA",
             "updated": 1714181490,
-            "site_name": "Swift and Tips"
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
         },
         {
             "id": "yt:video:NfpBpEP3kPI",
             "title": "Swift Macros: Figuring out \"Failed to Receive Result from Plugin\" Macro Error",
             "link": "https://www.youtube.com/watch?v=NfpBpEP3kPI",
             "updated": 1714169629,
-            "site_name": "Swift and Tips"
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:SyWMAYLcYC0",
+            "title": "Mastering SWIFT MACROS: 4 Essential Insights BEFORE you dive in | Geekle's iOS Summit 2023",
+            "link": "https://www.youtube.com/watch?v=SyWMAYLcYC0",
+            "updated": 1714167792,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:JtPoqgNJohQ",
+            "title": "Detecting Sensitive Content in your own iOS app",
+            "link": "https://www.youtube.com/watch?v=JtPoqgNJohQ",
+            "updated": 1714147366,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:NGpM9-t9tgs",
+            "title": "Swift Macros 101: Your Step-by-Step Guide To Crafting Your First Macro!",
+            "link": "https://www.youtube.com/watch?v=NGpM9-t9tgs",
+            "updated": 1714099609,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:_PmLjsTLME4",
+            "title": "Announcing my new blog: swiftandtips.com",
+            "link": "https://www.youtube.com/watch?v=_PmLjsTLME4",
+            "updated": 1714091947,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:x6zqC68fVwE",
+            "title": "Podcast Ep. #8 | Mikaela Caron: Content Creation, Hackathons and more!",
+            "link": "https://www.youtube.com/watch?v=x6zqC68fVwE",
+            "updated": 1714087685,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:wsLYA3MiXyc",
+            "title": "Quick Update (Feb 2024)",
+            "link": "https://www.youtube.com/watch?v=wsLYA3MiXyc",
+            "updated": 1714033420,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:w66472egiG4",
+            "title": "iOS Developer shares tips for attending your first (online) meetup!",
+            "link": "https://www.youtube.com/watch?v=w66472egiG4",
+            "updated": 1713674207,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:mB5tLVtpIgI",
+            "title": "Don't just say \"Hi\" | Developer explains how to deal with trolls and negative comments online",
+            "link": "https://www.youtube.com/watch?v=mB5tLVtpIgI",
+            "updated": 1712321229,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:nA2iJxCwF5Y",
+            "title": "3rd Anniversary Swift and Tips: 2023 Results (More than expected! \ud83d\ude80)",
+            "link": "https://www.youtube.com/watch?v=nA2iJxCwF5Y",
+            "updated": 1711155045,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:nlJpnLkLymw",
+            "title": "Dynamic Text Color for Changing Backgrounds in #swiftui",
+            "link": "https://www.youtube.com/watch?v=nlJpnLkLymw",
+            "updated": 1711062807,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:eSbXJ4GfwS4",
+            "title": "Avoid THIS when using enum pattern matching in Swift",
+            "link": "https://www.youtube.com/watch?v=eSbXJ4GfwS4",
+            "updated": 1710281303,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
+        },
+        {
+            "id": "yt:video:qE1P26C2ZIQ",
+            "title": "Say Goodbye to Manual Mock Data: Discover the Power of @SampleBuilder!",
+            "link": "https://www.youtube.com/watch?v=qE1P26C2ZIQ",
+            "updated": 1708318690,
+            "site_url": "https://www.youtube.com/channel/UCrLSw5I775hSQQtXOLjq0Vw"
         }
     ]
 }

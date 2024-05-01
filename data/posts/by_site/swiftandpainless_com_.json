@@ -1,75 +1,75 @@
 {
-    "updated": 1714470956,
+    "updated": 1714537271,
     "posts": [
         {
             "id": "http://swiftandpainless.com/sketch-notes-at-uikonf2017/",
             "title": "Sketch Notes At UIKonf 2017",
             "link": "http://swiftandpainless.com/sketch-notes-at-uikonf2017/",
             "updated": 1495040400,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/using-ddhtweaks-to-find-perfect-values/",
             "title": "Using DDHTweaks To Find Perfect Values",
             "link": "http://swiftandpainless.com/using-ddhtweaks-to-find-perfect-values/",
             "updated": 1480870800,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/testing-the-user-interface-with-fbsnapshottestcase/",
             "title": "Testing the User Interface with FBSnapshotTestCase",
             "link": "http://swiftandpainless.com/testing-the-user-interface-with-fbsnapshottestcase/",
             "updated": 1478970000,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/creating-a-smart-file-template/",
             "title": "Creating a \"smart\" Xcode file template",
             "link": "http://swiftandpainless.com/creating-a-smart-file-template/",
             "updated": 1470589200,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/4th-problem-from-project-euler-in-swift/",
             "title": "4th Problem from Project Euler in Swift",
             "link": "http://swiftandpainless.com/4th-problem-from-project-euler-in-swift/",
             "updated": 1462614584,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/using-a-playground-instead-of-keynote/",
             "title": "Using a Playground instead of Keynote",
             "link": "http://swiftandpainless.com/using-a-playground-instead-of-keynote/",
             "updated": 1461306015,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/what-to-learn-first/",
             "title": "What to learn first",
             "link": "http://swiftandpainless.com/what-to-learn-first/",
             "updated": 1461028278,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/selector-and-the-responder-chain/",
             "title": "#selector() and the responder chain",
             "link": "http://swiftandpainless.com/selector-and-the-responder-chain/",
             "updated": 1460284947,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/feedback-to-the-best-table-view-controller/",
             "title": "Feedback to \"The best table view controller\"",
             "link": "http://swiftandpainless.com/feedback-to-the-best-table-view-controller/",
             "updated": 1460099132,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         },
         {
             "id": "http://swiftandpainless.com/the-best-table-view-controller-mar-2016-edition/",
             "title": "The best table view controller (Mar 2016 edition)",
             "link": "http://swiftandpainless.com/the-best-table-view-controller-mar-2016-edition/",
             "updated": 1459173670,
-            "site_name": "Swift and Painless"
+            "site_url": "https://swiftandpainless.com/"
         }
     ]
 }

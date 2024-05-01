@@ -1,75 +1,75 @@
 {
-    "updated": 1714470918,
+    "updated": 1714537250,
     "posts": [
         {
             "id": "https://medium.com/p/7964fd0e87a3",
             "title": "Remove that blue color from your React Native applications",
             "link": "https://raulriera.medium.com/remove-that-blue-color-from-your-react-native-applications-7964fd0e87a3?source=rss-8501090bb2de------2",
             "updated": 1629633215,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/aeff73ddd151",
             "title": "Creating a GitHub Action",
             "link": "https://raulriera.medium.com/creating-a-github-action-aeff73ddd151?source=rss-8501090bb2de------2",
             "updated": 1619984828,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/bf063b912430",
             "title": "Joyful animations using arcs",
             "link": "https://raulriera.medium.com/smoothanimations-bf063b912430?source=rss-8501090bb2de------2",
             "updated": 1592598189,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/bec2d3328e79",
             "title": "UserInterfaceLevel, the future of floating apps",
             "link": "https://blog.devgenius.io/userinterfacelevel-the-future-of-floating-apps-bec2d3328e79?source=rss-8501090bb2de------2",
             "updated": 1592597955,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/d9db30269d1d",
             "title": "Using Interface Builder and Code \u200d\u2642\ufe0f\u2728",
             "link": "https://raulriera.medium.com/using-interface-builder-and-code-%EF%B8%8F-d9db30269d1d?source=rss-8501090bb2de------2",
             "updated": 1557048315,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/4c9d7afea6a2",
             "title": "Undo and Redo support to iOS apps",
             "link": "https://raulriera.medium.com/undo-and-redo-support-to-ios-apps-4c9d7afea6a2?source=rss-8501090bb2de------2",
             "updated": 1548599186,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/bc583e5d1b8b",
             "title": "View controllers inside view controllers. Wat?",
             "link": "https://raulriera.medium.com/view-controllers-inside-view-controllers-wat-bc583e5d1b8b?source=rss-8501090bb2de------2",
             "updated": 1547411867,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/3e591a05eeed",
             "title": "Automation with Probot",
             "link": "https://raulriera.medium.com/automation-with-probot-3e591a05eeed?source=rss-8501090bb2de------2",
             "updated": 1526938716,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/ef0dfd924260",
             "title": "UIKit Dynamics in the real world",
             "link": "https://raulriera.medium.com/uikit-dynamics-in-the-real-world-ef0dfd924260?source=rss-8501090bb2de------2",
             "updated": 1522749217,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         },
         {
             "id": "https://medium.com/p/c99bfaa7e2e5",
             "title": "Building apps with FunctionalTableData",
             "link": "https://raulriera.medium.com/building-apps-with-functionaltabledata-c99bfaa7e2e5?source=rss-8501090bb2de------2",
             "updated": 1513160161,
-            "site_name": "Raul Riera on Medium"
+            "site_url": "https://raulriera.medium.com/"
         }
     ]
 }

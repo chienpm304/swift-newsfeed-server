@@ -1,1181 +1,1181 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://damian.fyi/swift/2024/03/30/build-errors-might-just-be-warnings-in-disguise-/build-errors-might-just-be-warnings-in-disguise-...",
             "title": "Build errors might just be warnings in disguise \u2026",
             "link": "https://damian.fyi/swift/2024/03/30/build-errors-might-just-be-warnings-in-disguise-/html",
             "updated": 1711756663,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2024/01/15/crash-using-.searchable-bound-to-viewmodel-and-sidebar-placement-on-macos",
             "title": "Crash using .searchable bound to viewModel and sidebar placement on macOS",
             "link": "https://damian.fyi/swift/2024/01/15/crash-using-.searchable-bound-to-viewmodel-and-sidebar-placement-on-macos.html",
             "updated": 1705301183,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/visionpro/2024/01/13/bringing-alexa-to-the-apple-vision-pro",
             "title": "Bringing Alexa to the Apple Vision Pro",
             "link": "https://damian.fyi/swift/visionpro/2024/01/13/bringing-alexa-to-the-apple-vision-pro.html",
             "updated": 1705106842,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2024/01/01/opening-a-photo-in-apple-photos-from-swift-on-macos",
             "title": "Opening a photo in Apple Photos from Swift on macOS",
             "link": "https://damian.fyi/swift/2024/01/01/opening-a-photo-in-apple-photos-from-swift-on-macos.html",
             "updated": 1704115927,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2023/12/03/asyncstream-in-the-real-world:-wrapping-an-apple-photos-callback",
             "title": "AsyncStream in the real world: wrapping an Apple Photos callback",
             "link": "https://damian.fyi/swift/2023/12/03/asyncstream-in-the-real-world-wrapping-an-apple-photos-callback.html",
             "updated": 1701603142,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2023/11/13/swift-strings-look-identical-but-aren't",
             "title": "Swift strings look identical but aren\u2019t",
             "link": "https://damian.fyi/swift/2023/11/13/swift-strings-look-identical-but-aren't.html",
             "updated": 1699880390,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2023/01/27/a-virtual-reality-experience-that's-real",
             "title": "A virtual reality experience that\u2019s real",
             "link": "https://damian.fyi/2023/01/27/a-virtual-reality-experience-that's-real.html",
             "updated": 1674814705,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/xamarin/2023/01/19/xunit-build-error:-the-frameworkreference-microsoft.windowsdesktop.app-was-not-recognized",
             "title": "XUnit build error: The FrameworkReference Microsoft.WindowsDesktop.App was not recognized",
             "link": "https://damian.fyi/xamarin/2023/01/19/xunit-build-error-the-frameworkreference-microsoft.windowsdesktop.app-was-not-recognized.html",
             "updated": 1674115342,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2022/12/29/detecting-when-a-swiftui-menubarextra-with-window-style-is-opened",
             "title": "Detecting when a SwiftUI MenuBarExtra with window style is opened",
             "link": "https://damian.fyi/swift/2022/12/29/detecting-when-a-swiftui-menubarextra-with-window-style-is-opened.html",
             "updated": 1672292891,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2021/09/24/moose",
             "title": "If you give a Moose an Apple Watch (unfinished)",
             "link": "https://damian.fyi/swift/2021/09/24/moose.html",
             "updated": 1632483000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2021/09/24/rendering-apl-in-swift",
             "title": "Rendering the Alexa Presentation Language in SwiftUI (with bonus Moose)",
             "link": "https://damian.fyi/swift/2021/09/24/rendering-apl-in-swift.html",
             "updated": 1632483000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/xamarin/swift/2021/08/21/from-csharp-to-swift",
             "title": "From C# to Swift: some hints for those considering this path",
             "link": "https://damian.fyi/xamarin/swift/2021/08/21/from-csharp-to-swift.html",
             "updated": 1629507600,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/xamarin/swift/2021/03/27/moving-on-from-xamarin-for-watchos",
             "title": "Moving on from Xamarin for Apple Watch apps",
             "link": "https://damian.fyi/xamarin/swift/2021/03/27/moving-on-from-xamarin-for-watchos.html",
             "updated": 1616822900,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/xamarin/2020/08/07/xamarin-stripe",
             "title": "A Xamarin Stripe example",
             "link": "https://damian.fyi/xamarin/2020/08/07/xamarin-stripe.html",
             "updated": 1596754800,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2020/07/23/ordering-list-by-frequency",
             "title": "Ordering a list by frequency in Swift",
             "link": "https://damian.fyi/swift/2020/07/23/ordering-list-by-frequency.html",
             "updated": 1595484000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/swift/2020/07/23/sharing-tokens-between-macos-ios-and-watchos-using-icloud-keychain",
             "title": "Sharing tokens between iOS, macOS and watchOS app using the iCloud KeyChain",
             "link": "https://damian.fyi/swift/2020/07/23/sharing-tokens-between-macos-ios-and-watchos-using-icloud-keychain.html",
             "updated": 1595480400,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2020/07/01/ipad_swift_playgrounds_console",
             "title": "Viewing console output in iPad Swift Playgrounds",
             "link": "https://damian.fyi/2020/07/01/ipad_swift_playgrounds_console/",
             "updated": 1593607319,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2020/06/19/snippets-platform-specifics",
             "title": "Code snippets for Xamarin Forms XAML Platform-specifics",
             "link": "https://damian.fyi/2020/06/19/snippets-platform-specifics/",
             "updated": 1592518203,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2020/06/06/building-releasing-xamarin-watchos-app",
             "title": "Building and releasing a Xamarin WatchOS app to TestFlight",
             "link": "https://damian.fyi/2020/06/06/building-releasing-xamarin-watchos-app/",
             "updated": 1591432615,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2020/04/27/old-xcode-xamarin",
             "title": "Running older versions of Xcode and Xamarin",
             "link": "https://damian.fyi/2020/04/27/old-xcode-xamarin/",
             "updated": 1587943686,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2020/02/29/returning-html-from-an-azure-function",
             "title": "Returning HTML from an Azure Function",
             "link": "https://damian.fyi/2020/02/29/returning-html-from-an-azure-function/",
             "updated": 1582944802,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2019/12/21/xamarin-apple-watch-apps-2019",
             "title": "Tips for building Xamarin Apple Watch apps as of December 2019",
             "link": "https://damian.fyi/2019/12/21/xamarin-apple-watch-apps-2019/",
             "updated": 1576894219,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2019/11/26/visual-studio-for-mac-error-updating-xcode-project-opening-storyboard-in-xcode",
             "title": "Visual Studio for Mac: \u201cError updating Xcode project\u201d opening Storyboard in xCode",
             "link": "https://damian.fyi/2019/11/26/visual-studio-for-mac-error-updating-xcode-project-opening-storyboard-in-xcode/",
             "updated": 1574765882,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2019/07/30/build-notarize-repeat",
             "title": "Build, Notarize, Repeat: Some tips to avoid endlessly failing to notarize your Xamarin Mac app.",
             "link": "https://damian.fyi/2019/07/30/build-notarize-repeat/",
             "updated": 1564478805,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2019/04/27/not-even-worth-one-star-reacting-constructively-to-app-store-reviews",
             "title": "Not even worth one star: Reacting constructively to App Store reviews",
             "link": "https://damian.fyi/2019/04/27/not-even-worth-one-star-reacting-constructively-to-app-store-reviews/",
             "updated": 1556338569,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2019/04/22/voiceinacan-journey",
             "title": "Achieving maximum re-use: The evolution of a multi-platform app (Voice in a Can) Alexa everywhere)",
             "link": "https://damian.fyi/2019/04/22/voiceinacan-journey/",
             "updated": 1555930328,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2018/12/05/xamarin-tizen-http-2",
             "title": "Xamarin Tizen Networking: Under the covers of HTTP/2 in .NET",
             "link": "https://damian.fyi/2018/12/05/xamarin-tizen-http-2/",
             "updated": 1544013506,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2018/10/20/mac-auto-launch",
             "title": "Auto launching Xamarin Mac apps at login",
             "link": "https://damian.fyi/2018/10/20/mac-auto-launch/",
             "updated": 1540010729,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2018/08/28/xamarin-galaxy-watch",
             "title": "Running Xamarin Forms apps on the new Tizen 4.0 Samsung Galaxy Watch",
             "link": "https://damian.fyi/2018/08/28/xamarin-galaxy-watch/",
             "updated": 1535402426,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2018/05/14/voice-in-a-can-alexa-on-your-apple-watch",
             "title": "Voice in a Can: Alexa on your Apple Watch",
             "link": "https://damian.fyi/2018/05/14/voice-in-a-can-alexa-on-your-apple-watch/",
             "updated": 1526302561,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/11/05/computer-desktop-as-alexa-security-cam",
             "title": "Screencast: Your computer screen as an Alexa Smart Home Security Camera",
             "link": "https://damian.fyi/2017/11/05/computer-desktop-as-alexa-security-cam/",
             "updated": 1509855062,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/09/17/homekit-alexa",
             "title": "Using Siri to control your Alexa Smart Home devices",
             "link": "https://damian.fyi/2017/09/17/homekit-alexa/",
             "updated": 1505649202,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/06/11/live-coding-a-xamarin-forms-custom-circle-control-using-skiasharp",
             "title": "Live coding a Xamarin Forms Custom Circle Control using SkiaSharp",
             "link": "https://damian.fyi/2017/06/11/live-coding-a-xamarin-forms-custom-circle-control-using-skiasharp/",
             "updated": 1497173928,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/06/05/live-coding-an-alexa-smart-home-skill-from-scratch-in-csharp",
             "title": "Live coding an Alexa Smart Home skill from scratch in C#",
             "link": "https://damian.fyi/2017/06/05/live-coding-an-alexa-smart-home-skill-from-scratch-in-csharp/",
             "updated": 1496656640,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/06/05/recording-of-ios-and-android-and-c-and-xamarin-these-are-a-few-of-my-favorite-things",
             "title": "Recording of \u201cOS and Android and C# and Xamarin: These are a few of my favorite things\u201d",
             "link": "https://damian.fyi/2017/06/05/recording-of-ios-and-android-and-c-and-xamarin-these-are-a-few-of-my-favorite-things/",
             "updated": 1496655065,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/03/20/google-signin-ios-xamarin-forms",
             "title": "Using Google Sign-in for iOS in Xamarin Forms to access Google APIs",
             "link": "https://damian.fyi/2017/03/20/google-signin-ios-xamarin-forms/",
             "updated": 1489970680,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2017/01/24/friendly-xamarin-forms-datepicker",
             "title": "A more friendly Xamarin Forms DatePicker",
             "link": "https://damian.fyi/2017/01/24/friendly-xamarin-forms-datepicker/",
             "updated": 1485259624,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/12/03/using-the-apple-thunderbolt-display-with-the-dell-xps-13",
             "title": "Using the Apple Thunderbolt display with the Dell XPS 13",
             "link": "https://damian.fyi/2016/12/03/using-the-apple-thunderbolt-display-with-the-dell-xps-13/",
             "updated": 1480745998,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/11/30/alexa-my-notebook-skill",
             "title": "\u201cAlexa, enable the My Notebook skill\u201d",
             "link": "https://damian.fyi/2016/11/30/alexa-my-notebook-skill/",
             "updated": 1480509327,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/09/27/disable-forms-using-styles-and-datatriggers",
             "title": "Using Styles and Data Triggers to disable Xamarin forms while waiting",
             "link": "https://damian.fyi/2016/09/27/disable-forms-using-styles-and-datatriggers/",
             "updated": 1474973792,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/09/04/uwp-oauth-in-xamarin-forms-using-xamarin-auth",
             "title": "UWP OAuth in Xamarin Forms using Xamarin.Auth",
             "link": "https://damian.fyi/2016/09/04/uwp-oauth-in-xamarin-forms-using-xamarin-auth/",
             "updated": 1472981141,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/07/06/only-one-operation-can-be-active-at-at-time",
             "title": "Xamarin Media Plugin error: Only one operation can be active at at time",
             "link": "https://damian.fyi/2016/07/06/only-one-operation-can-be-active-at-at-time/",
             "updated": 1467754598,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/04/10/getting-xamarin-xaml-intellisense-when-the-binding-context-is-set-in-code",
             "title": "Getting Xamarin Xaml Intellisense when the binding context is set in code",
             "link": "https://damian.fyi/2016/04/10/getting-xamarin-xaml-intellisense-when-the-binding-context-is-set-in-code/",
             "updated": 1460276808,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/04/08/vs2015-xaml-forms-xaml-missing",
             "title": "Visual Studio missing \u201cForms Xaml Page\u201d from \u201cAdd|New Item\u201d menu using Xamarin",
             "link": "https://damian.fyi/2016/04/08/vs2015-xaml-forms-xaml-missing/",
             "updated": 1460082135,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/01/31/windows-universal-ble-sqlite-rest",
             "title": "Creating a Windows Universal app to talk Bluetooth LE, save to SQLite and expose a REST service",
             "link": "https://damian.fyi/2016/01/31/windows-universal-ble-sqlite-rest/",
             "updated": 1454224135,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2016/01/20/pebble-apps-aplite",
             "title": "Radical surgery: Slimming Pebble apps down to run on Aplite",
             "link": "https://damian.fyi/2016/01/20/pebble-apps-aplite/",
             "updated": 1453300176,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/11/13/typescript-for-google-apps-script",
             "title": "Making using TypeScript for Google Apps Scripts more convenient on OS X",
             "link": "https://damian.fyi/2015/11/13/typescript-for-google-apps-script/",
             "updated": 1447407774,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/11/11/alexa-evernote",
             "title": "Building an Amazon Echo Skill to create Evernote notes",
             "link": "https://damian.fyi/2015/11/11/alexa-evernote/",
             "updated": 1447220493,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/08/30/android-5-0-media-browser-apis",
             "title": "Android 5.0 Media Browser APIs",
             "link": "https://damian.fyi/2015/08/30/android-5-0-media-browser-apis/",
             "updated": 1440907433,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/08/23/android-wear-arm-in-cardboard-vr",
             "title": "Using Android Wear to control Google Cardboard Unity VR",
             "link": "https://damian.fyi/2015/08/23/android-wear-arm-in-cardboard-vr/",
             "updated": 1440320818,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/05/29/updating-pebble-emulator-python",
             "title": "Updating the Pebble Emulator python code",
             "link": "https://damian.fyi/2015/05/29/updating-pebble-emulator-python/",
             "updated": 1432865000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/05/26/macblackbox",
             "title": "Capture your Mac screen activity into daily videos",
             "link": "https://damian.fyi/2015/05/26/macblackbox/",
             "updated": 1432611966,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/05/24/keep-moto-360-alive-while-charging",
             "title": "Keeping your Moto 360 alive while charging",
             "link": "https://damian.fyi/2015/05/24/keep-moto-360-alive-while-charging/",
             "updated": 1432443245,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/03/16/on-pulse-why-your-basal-ganglia-and-wearables-were-made-for-each-other",
             "title": "On Pulse: Why your basal ganglia and wearables were made for each other",
             "link": "https://damian.fyi/2015/03/16/on-pulse-why-your-basal-ganglia-and-wearables-were-made-for-each-other/",
             "updated": 1426482064,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/02/22/dream-job",
             "title": "On Pulse - How I got my dream job: My wearables journey at Evernote",
             "link": "https://damian.fyi/2015/02/22/dream-job/",
             "updated": 1424604656,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2015/01/22/scroll_pebble_menus",
             "title": "Scrolling long Pebble menu items",
             "link": "https://damian.fyi/2015/01/22/scroll_pebble_menus/",
             "updated": 1421930661,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/11/19/watchkit-error-unable-to-instantiate-row-controller-class",
             "title": "WatchKit Error \u2013 unable to instantiate row controller class",
             "link": "https://damian.fyi/2014/11/19/watchkit-error-unable-to-instantiate-row-controller-class/",
             "updated": 1416379523,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/11/02/calling-evernote-api-from-swift",
             "title": "Using the Evernote API from Swift",
             "link": "https://damian.fyi/2014/11/02/calling-evernote-api-from-swift/",
             "updated": 1414936556,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/10/20/eyeglasses-are-broken",
             "title": "Eyeglasses are broken",
             "link": "https://damian.fyi/2014/10/20/eyeglasses-are-broken/",
             "updated": 1413790775,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/10/12/the-inevitable-evolution-from-wearables-to-embedables",
             "title": "The inevitable evolution from wearables to embedables",
             "link": "https://damian.fyi/2014/10/12/the-inevitable-evolution-from-wearables-to-embedables/",
             "updated": 1413092333,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/10/11/a-useful-in-car-app-experience",
             "title": "A useful in-car app experience",
             "link": "https://damian.fyi/2014/10/11/a-useful-in-car-app-experience/",
             "updated": 1413010031,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/05/28/interview-for-connectedly-on-evernote-and-wearables",
             "title": "Interview for Connectedly on Evernote and Wearables",
             "link": "https://damian.fyi/2014/05/28/interview-for-connectedly-on-evernote-and-wearables/",
             "updated": 1401253035,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/05/01/evernote-pebble-is-special",
             "title": "Evernote on your Pebble: your desktop duplicated?",
             "link": "https://damian.fyi/2014/05/01/evernote-pebble-is-special/",
             "updated": 1398924480,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/02/09/inside-chrome-sync",
             "title": "Understanding the Chrome Sync Protocol",
             "link": "https://damian.fyi/2014/02/09/inside-chrome-sync/",
             "updated": 1391957700,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/01/25/index-the-physical",
             "title": "Evernote tip 9: Index the physical",
             "link": "https://damian.fyi/2014/01/25/index-the-physical/",
             "updated": 1390637854,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/01/12/sw2-scrollable-text",
             "title": "Sony SmartWatch2 scrollable text",
             "link": "https://damian.fyi/2014/01/12/sw2-scrollable-text/",
             "updated": 1389500897,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/01/12/human-black-box",
             "title": "So, how did you die? Wearables as the human black box.",
             "link": "https://damian.fyi/2014/01/12/human-black-box/",
             "updated": 1389493626,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2014/01/05/mac-word-focus-shortcut",
             "title": "Word for Mac Focus keyboard shortcut: here\u2019s how",
             "link": "https://damian.fyi/2014/01/05/mac-word-focus-shortcut/",
             "updated": 1388884484,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/11/10/evernote-pebble-js",
             "title": "Evernote, JavaScript and the Pebble watch",
             "link": "https://damian.fyi/2013/11/10/evernote-pebble-js/",
             "updated": 1384092898,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/10/28/pebble-from-scratch",
             "title": "Constraints foster creativity: Pebble watch app development",
             "link": "https://damian.fyi/2013/10/28/pebble-from-scratch/",
             "updated": 1382972884,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/10/27/sick-bags-and-ski-goggles",
             "title": "Ski Goggles and Sick Bags: The past, present and future of Virtual Reality",
             "link": "https://damian.fyi/2013/10/27/sick-bags-and-ski-goggles/",
             "updated": 1382862829,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/10/13/evernote-tags-and-me",
             "title": "Evernote tip 8: How I use Evernote Tags",
             "link": "https://damian.fyi/2013/10/13/evernote-tags-and-me/",
             "updated": 1381636364,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/10/05/some-good-books",
             "title": "Some good books",
             "link": "https://damian.fyi/2013/10/05/some-good-books/",
             "updated": 1380973340,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/07/05/pebbledev",
             "title": "My Pebble development setup",
             "link": "https://damian.fyi/2013/07/05/pebbledev/",
             "updated": 1373026377,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/04/01/amazon-cloud-drive-location",
             "title": "Changing the Windows Amazon Cloud Drive app sync folder",
             "link": "https://damian.fyi/2013/04/01/amazon-cloud-drive-location/",
             "updated": 1364824954,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/03/31/everpebble",
             "title": "Evernote integration with Pebble",
             "link": "https://damian.fyi/2013/03/31/everpebble/",
             "updated": 1364730165,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2013/03/25/bylarm",
             "title": "By:Larm Tech \u2013 Scandinavia\u2019s new conference and networking arena for tech &amp; digital change",
             "link": "https://damian.fyi/2013/03/25/bylarm/",
             "updated": 1364214250,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/10/28/autotitle-evernote-from-images",
             "title": "Automatically generating Evernote note titles from text in images",
             "link": "https://damian.fyi/2012/10/28/autotitle-evernote-from-images/",
             "updated": 1351421823,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/09/20/evernote_tip_7_unclutter_toolbar",
             "title": "Evernote tip 7: Seeing the wood from the trees: unclutter the Evernote toolbar.",
             "link": "https://damian.fyi/2012/09/20/evernote_tip_7_unclutter_toolbar/",
             "updated": 1348149035,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/09/20/evernote_tip_6_your_evernote_email_address",
             "title": "Evernote tip 6: Do you know your email address? No, not that one \u2026 your Evernote one \u2026",
             "link": "https://damian.fyi/2012/09/20/evernote_tip_6_your_evernote_email_address/",
             "updated": 1348148063,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/08/29/evernote_tip_5_filter_tags",
             "title": "Evernote tip 5: So you have 30+ tags or notebooks? Filter them.",
             "link": "https://damian.fyi/2012/08/29/evernote_tip_5_filter_tags/",
             "updated": 1346179889,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/08/24/evernote_tip_4_forget_tags",
             "title": "Evernote tip 4: Forget about Tags, they are too much hassle \u2013 just search.",
             "link": "https://damian.fyi/2012/08/24/evernote_tip_4_forget_tags/",
             "updated": 1345744108,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/08/23/evernote_tip_3_what_are_tags",
             "title": "Evernote tip 3: What are Evernote Tags?",
             "link": "https://damian.fyi/2012/08/23/evernote_tip_3_what_are_tags/",
             "updated": 1345664146,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/08/21/evernote_tip_2_notebooks",
             "title": "Evernote tip 2: What is an Evernote Notebook? So what if I have 80 notebooks?",
             "link": "https://damian.fyi/2012/08/21/evernote_tip_2_notebooks/",
             "updated": 1345553415,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/08/21/evernote_tip_1_no_wrong_way",
             "title": "Evernote tip 1: You say: \u201cI like Evernote, but I\u2019m not sure I\u2019m using it correctly\u201d\u2013 I say \u201cdon\u2019t worry, there is no one \u2018right way\u2019\u201d",
             "link": "https://damian.fyi/2012/08/21/evernote_tip_1_no_wrong_way/",
             "updated": 1345479000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/07/24/porting-a-windows-phone-app-to-ios",
             "title": "Porting a Windows Phone app to iOS",
             "link": "https://damian.fyi/2012/07/24/porting-a-windows-phone-app-to-ios/",
             "updated": 1343118000,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/07/05/a-bad-review-of-my-chrync-app-because-it-works",
             "title": "A one star marketplace review of my app \u201cWorks fine. But \u2026\u201d",
             "link": "https://damian.fyi/2012/07/05/a-bad-review-of-my-chrync-app-because-it-works/",
             "updated": 1341450090,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/07/03/chrync1-1",
             "title": "Chrync 1.1 has been released",
             "link": "https://damian.fyi/2012/07/03/chrync1-1/",
             "updated": 1341326586,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/06/20/windowsphone-different-builds-different-markets",
             "title": "Creating different builds of a Windows Phone app for different markets",
             "link": "https://damian.fyi/2012/06/20/windowsphone-different-builds-different-markets/",
             "updated": 1340170580,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/03/24/chrync",
             "title": "New App: Chrync \u2013 syncs Chrome bookmarks and more to Windows Phone",
             "link": "https://damian.fyi/2012/03/24/chrync/",
             "updated": 1332582194,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2012/02/09/nokia-videos",
             "title": "Nokia showcasing Evernote for Windows Phone",
             "link": "https://damian.fyi/2012/02/09/nokia-videos/",
             "updated": 1328772548,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/09/24/evernote-20-released",
             "title": "Evernote 2.0 for Windows Phone 7.5 (Mango) released",
             "link": "https://damian.fyi/2011/09/24/evernote-20-released/",
             "updated": 1316839152,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/09/23/etc-presentation",
             "title": "Presentation at the Evernote Trunk Conference on developing the Evernote Windows Phone client",
             "link": "https://damian.fyi/2011/09/23/etc-presentation/",
             "updated": 1316756293,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/08/02/evernote-wp7",
             "title": "Elephants love mangoes \u2013 a look behind our Windows Phone 7 client",
             "link": "https://damian.fyi/2011/08/02/evernote-wp7/",
             "updated": 1312238527,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/05/30/htc-gingerbreadautomatically-switching-from-wifi-to-costly-data-connection",
             "title": "HTC Gingerbread\u2013automatically switching from Wifi to costly data connection",
             "link": "https://damian.fyi/2011/05/30/htc-gingerbreadautomatically-switching-from-wifi-to-costly-data-connection/",
             "updated": 1306732643,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/05/26/android-vpn-to-windows7",
             "title": "How to: Windows 7 incoming VPN from Android",
             "link": "https://damian.fyi/2011/05/26/android-vpn-to-windows7/",
             "updated": 1306399062,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/04/11/gobackaction",
             "title": "GoBackAction\u2013a Windows Phone Behavior to navigate back",
             "link": "https://damian.fyi/2011/04/11/gobackaction/",
             "updated": 1302482229,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/04/04/fluidlonglistselector",
             "title": "Adapting Fluid List Animation to work with the LongListSelector",
             "link": "https://damian.fyi/2011/04/04/fluidlonglistselector/",
             "updated": 1301877186,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/03/25/windows-phone-7-page-checklist",
             "title": "So you think you\u2019ve finished implementing that new Windows Phone 7 page?",
             "link": "https://damian.fyi/2011/03/25/windows-phone-7-page-checklist/",
             "updated": 1300984298,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/02/07/storing-wp7-recorded-audio-as-wav-format-streams",
             "title": "Storing WP7 recorded audio as WAV format streams",
             "link": "https://damian.fyi/2011/02/07/storing-wp7-recorded-audio-as-wav-format-streams/",
             "updated": 1297058164,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/01/21/wp7-password-watermark",
             "title": "Windows Phone 7 Watermark on PasswordBox",
             "link": "https://damian.fyi/2011/01/21/wp7-password-watermark/",
             "updated": 1295623868,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/01/21/wp7-scroll-pivot",
             "title": "Restoring Pivot Scroll on WP7 Tombstone resume",
             "link": "https://damian.fyi/2011/01/21/wp7-scroll-pivot/",
             "updated": 1295590205,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2011/01/11/generating-silverlight-windows-phone-compatible-thrift-proxies",
             "title": "Generating Silverlight / Windows Phone compatible Thrift proxies",
             "link": "https://damian.fyi/2011/01/11/generating-silverlight-windows-phone-compatible-thrift-proxies/",
             "updated": 1294704313,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2010/07/18/android-no-tilt-to-turn",
             "title": "Tilt to turn pages in Kindle Android: Nope!",
             "link": "https://damian.fyi/2010/07/18/android-no-tilt-to-turn/",
             "updated": 1279446346,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2010/05/18/ploze-0-7-6-released",
             "title": "Ploze 0.7.6 released (Windows Mobile Evernote Client)",
             "link": "https://damian.fyi/2010/05/18/ploze-0-7-6-released/",
             "updated": 1274189814,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2010/04/17/closed-down-mcefm",
             "title": "Closed down MceFM",
             "link": "https://damian.fyi/2010/04/17/closed-down-mcefm/",
             "updated": 1271475634,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2010/04/12/ploze-released",
             "title": "Just released Ploze: An Windows Mobile Evernote client",
             "link": "https://damian.fyi/2010/04/12/ploze-released/",
             "updated": 1271081488,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2010/01/28/kindle",
             "title": "The Amazon Kindle: A European perspective",
             "link": "https://damian.fyi/2010/01/28/kindle/",
             "updated": 1264609440,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/10/23/searching-for-senior-net-developer-to-join-us-at-cargill-geneva",
             "title": "Searching for senior .NET developer to join us at Cargill Geneva",
             "link": "https://damian.fyi/2009/10/23/searching-for-senior-net-developer-to-join-us-at-cargill-geneva/",
             "updated": 1256252965,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/07/05/excel-wcf",
             "title": "Calling WCF Services from Excel VBA clients using the WCF Service Moniker",
             "link": "https://damian.fyi/2009/07/05/excel-wcf/",
             "updated": 1246785948,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/04/26/first-create-then-register",
             "title": "Got a product idea? Don\u2019t register the domain.",
             "link": "https://damian.fyi/2009/04/26/first-create-then-register/",
             "updated": 1240731840,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/04/11/whs-peer-backup",
             "title": "Windows Home Server needs a peer backup system",
             "link": "https://damian.fyi/2009/04/11/whs-peer-backup/",
             "updated": 1239448227,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/03/30/cycling-to-work-give-it-some-thought",
             "title": "Cycling to work: give it some thought.",
             "link": "https://damian.fyi/2009/03/30/cycling-to-work-give-it-some-thought/",
             "updated": 1238360402,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/02/20/testingmockingandependencyinjection",
             "title": "Screencast: Testing, Mocking and Dependency Injection: more than just buzz-words",
             "link": "https://damian.fyi/2009/02/20/testingmockingandependencyinjection/",
             "updated": 1235136975,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/02/16/screencast-intro-net35",
             "title": "Screencast intro to VS 2008 &amp; .NET 3.5",
             "link": "https://damian.fyi/2009/02/16/screencast-intro-net35/",
             "updated": 1234793655,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2009/02/14/finally-an-os-bug",
             "title": "Microsoft fixed my bug",
             "link": "https://damian.fyi/2009/02/14/finally-an-os-bug/",
             "updated": 1234614472,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/12/21/small-utility-to-generate-summary-of-your-media-center-recorded-movies",
             "title": "Small utility to generate summary of your Media Center recorded movies",
             "link": "https://damian.fyi/2008/12/21/small-utility-to-generate-summary-of-your-media-center-recorded-movies/",
             "updated": 1229870834,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/12/04/cannot-create-service-reference",
             "title": "Dealing with WCF Error: Cannot create a service reference with namespace X because the name is already in use by an existing service reference, folder or file",
             "link": "https://damian.fyi/2008/12/04/cannot-create-service-reference/",
             "updated": 1228367276,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/11/05/my-pdc-2008-show-off-entry-using-net-code-injection-to-do-the-seemingly-impossible",
             "title": "My PDC 2008 \u201cShow Off\u201d entry: Using .NET code injection to do the seemingly impossible",
             "link": "https://damian.fyi/2008/11/05/my-pdc-2008-show-off-entry-using-net-code-injection-to-do-the-seemingly-impossible/",
             "updated": 1225895387,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/10/31/wcf-rest-dynamic-response",
             "title": "WCF REST Services: Setting the response format based on request\u2019s expected type",
             "link": "https://damian.fyi/2008/10/31/wcf-rest-dynamic-response/",
             "updated": 1225413747,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/10/26/to-right-click-running-vista-on-new-late-2008-macbook-pros",
             "title": "To right click running Vista on new (late 2008) MacBook Pros",
             "link": "https://damian.fyi/2008/10/26/to-right-click-running-vista-on-new-late-2008-macbook-pros/",
             "updated": 1224998278,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/10/22/mvc-control-toolkit-dependencies",
             "title": "ASP.NET MVC with the AJAX Control Toolkit: automatically getting control dependencies",
             "link": "https://damian.fyi/2008/10/22/mvc-control-toolkit-dependencies/",
             "updated": 1224666738,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/09/17/using-moq-expectset",
             "title": "Using Moq ExpectSet",
             "link": "https://damian.fyi/2008/09/17/using-moq-expectset/",
             "updated": 1221618129,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/09/14/beebmc-23-released",
             "title": "BeebMC 2.3 Released",
             "link": "https://damian.fyi/2008/09/14/beebmc-23-released/",
             "updated": 1221347921,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/09/09/tracejs-v2-rip",
             "title": "TraceJS V2 R.I.P.",
             "link": "https://damian.fyi/2008/09/09/tracejs-v2-rip/",
             "updated": 1220922180,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/09/07/using-aspnet-mvc-and-the-ajax-control-toolkit",
             "title": "Using ASP.NET MVC and the AJAX Control Toolkit",
             "link": "https://damian.fyi/2008/09/07/using-aspnet-mvc-and-the-ajax-control-toolkit/",
             "updated": 1220765263,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/08/30/moving-a-blog-hosted-at-wordpresscom-to-webhost4life",
             "title": "Moving a blog hosted at WordPress.com to Webhost4life",
             "link": "https://damian.fyi/2008/08/30/moving-a-blog-hosted-at-wordpresscom-to-webhost4life/",
             "updated": 1220083292,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/08/30/a-new-z-wave-blog-home-automation",
             "title": "A new Z-Wave blog (home automation)",
             "link": "https://damian.fyi/2008/08/30/a-new-z-wave-blog-home-automation/",
             "updated": 1220062145,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/08/29/no-64-bit-release-of-beebmc-for-now",
             "title": "No 64 bit release of BeebMC for now",
             "link": "https://damian.fyi/2008/08/29/no-64-bit-release-of-beebmc-for-now/",
             "updated": 1219990233,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/08/29/beebmc-21-released",
             "title": "BeebMC 2.1 Released",
             "link": "https://damian.fyi/2008/08/29/beebmc-21-released/",
             "updated": 1219976435,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/08/29/mcml-scroll-button-pageup-jumps-to-first-item-in-list",
             "title": "MCML Scroll Button PageUp jumps to first item in list",
             "link": "https://damian.fyi/2008/08/29/mcml-scroll-button-pageup-jumps-to-first-item-in-list/",
             "updated": 1219969674,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/07/31/beebmc-20-released-listen-again-supported",
             "title": "BeebMC 2.0 released: Listen Again supported",
             "link": "https://damian.fyi/2008/07/31/beebmc-20-released-listen-again-supported/",
             "updated": 1217496757,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/07/12/screencast-creating-a-simple-media-center-application",
             "title": "Screencast: Creating a simple Media Center Application",
             "link": "https://damian.fyi/2008/07/12/screencast-creating-a-simple-media-center-application/",
             "updated": 1215868307,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/07/08/beebmc",
             "title": "BeebMC - BBC Radio addin for Windows Media Center",
             "link": "https://damian.fyi/2008/07/08/beebmc/",
             "updated": 1215525402,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/07/02/net-code-injection",
             "title": ".NET Code Injection",
             "link": "https://damian.fyi/2008/07/02/net-code-injection/",
             "updated": 1214974580,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/06/12/using-mdbg-to-debug-at-the-il-level-instead-of-assembly-code",
             "title": "Using mdbg to debug at the MSIL level instead of assembly code.",
             "link": "https://damian.fyi/2008/06/12/using-mdbg-to-debug-at-the-il-level-instead-of-assembly-code/",
             "updated": 1213237933,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/06/07/attending-pdc-2008",
             "title": "Attending PDC 2008",
             "link": "https://damian.fyi/2008/06/07/attending-pdc-2008/",
             "updated": 1212823234,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/06/06/mcefm-10-beta-6-released",
             "title": "MceFM 1.0 Beta 6 released",
             "link": "https://damian.fyi/2008/06/06/mcefm-10-beta-6-released/",
             "updated": 1212712248,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/06/06/when-resharper-isnt-so-sharp",
             "title": "When Resharper isn\u2019t so sharp",
             "link": "https://damian.fyi/2008/06/06/when-resharper-isnt-so-sharp/",
             "updated": 1212710252,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/05/20/creating-msas-sinks-in-c",
             "title": "Creating MSAS sinks in C# without using MediaState",
             "link": "https://damian.fyi/2008/05/20/creating-msas-sinks-in-c/",
             "updated": 1211248719,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/04/28/bulk-fetching-images-for-dvr-ms-files",
             "title": "Bulk fetching images for dvr-ms files",
             "link": "https://damian.fyi/2008/04/28/bulk-fetching-images-for-dvr-ms-files/",
             "updated": 1209318372,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/03/17/mcefm-released-lastfm-addin-for-windows-media-center",
             "title": "MceFM released: Last.fm addin for Windows Media Center",
             "link": "https://damian.fyi/2008/03/17/mcefm-released-lastfm-addin-for-windows-media-center/",
             "updated": 1205721491,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/03/09/referencing-external-assemblies-using-mcml",
             "title": "Referencing external assemblies using MCML",
             "link": "https://damian.fyi/2008/03/09/referencing-external-assemblies-using-mcml/",
             "updated": 1205071150,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/03/06/handling-background-threads-using-nunit-and-rhino-mocks",
             "title": "Handling background threads using NUnit and Rhino Mocks",
             "link": "https://damian.fyi/2008/03/06/handling-background-threads-using-nunit-and-rhino-mocks/",
             "updated": 1204811195,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2008/02/21/configuring-http-namespace-reservations-on-vista-using-wix",
             "title": "Configuring HTTP Namespace reservations on Vista using WIX",
             "link": "https://damian.fyi/2008/02/21/configuring-http-namespace-reservations-on-vista-using-wix/",
             "updated": 1203586176,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/08/13/not-added-through-addhandler",
             "title": "Dealing with \u201cSys.InvalidOperationException: Handler was not added through the Sys.UI.DomEvent.addHandler method.\u201d",
             "link": "https://damian.fyi/2007/08/13/not-added-through-addhandler/",
             "updated": 1186972662,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/07/07/business-of-software-2007",
             "title": "My entry for Business Of Software 2007 speaker slot",
             "link": "https://damian.fyi/2007/07/07/business-of-software-2007/",
             "updated": 1183803221,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/06/26/produce-pricing",
             "title": "The pain of software product pricing",
             "link": "https://damian.fyi/2007/06/26/produce-pricing/",
             "updated": 1182857388,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/06/26/dynamically-create-ajax-controls",
             "title": "Dynamically creating ASP.NET AJAX controls",
             "link": "https://damian.fyi/2007/06/26/dynamically-create-ajax-controls/",
             "updated": 1182804662,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/06/24/browser-cache",
             "title": "Caching large HTML elements in the Browser document cache",
             "link": "https://damian.fyi/2007/06/24/browser-cache/",
             "updated": 1182637047,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/06/19/speeding-up-listsearchextender",
             "title": "Speeding Up ListSearch Extender initialization with massive lists",
             "link": "https://damian.fyi/2007/06/19/speeding-up-listsearchextender/",
             "updated": 1182214338,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/06/19/hide-lse-prompt",
             "title": "Hiding the ListSearch Extender Prompt Message",
             "link": "https://damian.fyi/2007/06/19/hide-lse-prompt/",
             "updated": 1182204798,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/28/adapters-extenders-demo",
             "title": "Automatically attaching Extenders to Controls using Control Adapters - demo posted",
             "link": "https://damian.fyi/2007/02/28/adapters-extenders-demo/",
             "updated": 1172622381,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/28/calling-extenders-from-js",
             "title": "Calling AJAX Control Extenders from JavaScript code",
             "link": "https://damian.fyi/2007/02/28/calling-extenders-from-js/",
             "updated": 1172617590,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/25/ajax-screencast",
             "title": "Screencast: Introduction to AJAX, ASP.NET AJAX and the AJAX Control Toolkit",
             "link": "https://damian.fyi/2007/02/25/ajax-screencast/",
             "updated": 1172363198,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/22/webresource-but-no-emeddedresource",
             "title": "Dealing with \u201cAssembly x contains a Web resource with name x, but does not contain an embedded resource with name x. \u201c",
             "link": "https://damian.fyi/2007/02/22/webresource-but-no-emeddedresource/",
             "updated": 1172114860,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/21/popupbehaviorininitialize",
             "title": "Initializing PopupBehavior in your AJAX Control Extender initialize method won\u2019t work",
             "link": "https://damian.fyi/2007/02/21/popupbehaviorininitialize/",
             "updated": 1172047919,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/02/12/xbrowser-extenders",
             "title": "Article: Cross-browser ASP.NET AJAX Control Extender support - trickier than I thought",
             "link": "https://damian.fyi/2007/02/12/xbrowser-extenders/",
             "updated": 1171267103,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2007/01/24/gva-presentation-20feb",
             "title": "Geneva Presentation on 20th Feb: Enhance Your Web Applications by Using and Building ASP.NET AJAX Control Extenders",
             "link": "https://damian.fyi/2007/01/24/gva-presentation-20feb/",
             "updated": 1169601547,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/12/25/doug-reilly",
             "title": "Doug Reilly",
             "link": "https://damian.fyi/2006/12/25/doug-reilly/",
             "updated": 1166978217,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/12/19/updatepanel-opened",
             "title": "Article: The UpdatePanel opened: what happens behind the scenes?",
             "link": "https://damian.fyi/2006/12/19/updatepanel-opened/",
             "updated": 1166515164,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/12/19/zurich-presentation-uploaded",
             "title": "Uploaded presentation: Enhance Your Web Applications with AJAX Control Extenders",
             "link": "https://damian.fyi/2006/12/19/zurich-presentation-uploaded/",
             "updated": 1166504686,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/12/06/dotmugs-event",
             "title": "Presentation for Swiss .NET group on 18th Dec 2006: Enhance Your Web Applications by Using and Building ASP.NET AJAX Control Extenders",
             "link": "https://damian.fyi/2006/12/06/dotmugs-event/",
             "updated": 1165395400,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/11/27/scriptmanager-scriptpath",
             "title": "Tip/Trick: Using ScriptManager ScriptPath to load MicrosoftAjax.js from file system",
             "link": "https://damian.fyi/2006/11/27/scriptmanager-scriptpath/",
             "updated": 1164600382,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/11/23/tracejs",
             "title": "Using the Active Scripting Debug API to log all JavaScript that IE executes",
             "link": "https://damian.fyi/2006/11/23/tracejs/",
             "updated": 1164270324,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/11/17/howto-extenders-screencast",
             "title": "ScreenCast: How to create and use an ASP.NET AJAX Control Extender",
             "link": "https://damian.fyi/2006/11/17/howto-extenders-screencast/",
             "updated": 1163738579,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/11/16/adapters-and-extenders",
             "title": "Using Control Adapters to automatically attach AJAX Extenders to ASP.NET Controls",
             "link": "https://damian.fyi/2006/11/16/adapters-and-extenders/",
             "updated": 1163646030,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         },
         {
             "id": "https://damian.fyi/2006/11/13/convert-your-scraps-of-script-to-reusable-ajax-control-extender",
             "title": "Convert your scraps of script to reusable AJAX Control Extenders",
             "link": "https://damian.fyi/2006/11/13/convert-your-scraps-of-script-to-reusable-ajax-control-extender/",
             "updated": 1163408315,
-            "site_name": "Damian Mehers' Blog"
+            "site_url": "https://damian.fyi"
         }
     ]
 }

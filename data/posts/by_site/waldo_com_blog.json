@@ -1,705 +1,705 @@
 {
-    "updated": 1714471084,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.waldo.com/blog/tricentis-acquires-waldo-to-expand-mobile-testing-solution",
             "title": "Tricentis acquires Waldo to expand mobile testing solution | Waldo Blog",
             "link": "https://www.waldo.com/blog/tricentis-acquires-waldo-to-expand-mobile-testing-solution",
             "updated": 1688653737,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/dont-let-test-maintenance-stand-in-the-way-of-test-automation",
             "title": "Don\u2019t let test suite maintenance stand in the way of test automation | Waldo Blog",
             "link": "https://www.waldo.com/blog/dont-let-test-maintenance-stand-in-the-way-of-test-automation",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-kombat-ii-scripting-vs-waldo",
             "title": "Mobile Kombat II: Scripting vs Waldo | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-kombat-ii-scripting-vs-waldo",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/comparing-mobile-simulators-and-emulators-to-physical-devices",
             "title": "Comparing Mobile Simulators and Emulators to Physical Devices | Waldo Blog",
             "link": "https://www.waldo.com/blog/comparing-mobile-simulators-and-emulators-to-physical-devices",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/appium-tutorial",
             "title": "Appium Tutorial: Your Complete Intro to Mobile Testing | Waldo Blog",
             "link": "https://www.waldo.com/blog/appium-tutorial",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/welcome-to-the-waldo-on-waldo-series",
             "title": "Welcome to the Waldo on Waldo Series | Waldo Blog",
             "link": "https://www.waldo.com/blog/welcome-to-the-waldo-on-waldo-series",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/user-state-management-in-waldo",
             "title": "User State Management in Waldo  | Waldo Blog",
             "link": "https://www.waldo.com/blog/user-state-management-in-waldo",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/data-cloning-in-waldo",
             "title": "Data Cloning in Waldo  | Waldo Blog",
             "link": "https://www.waldo.com/blog/data-cloning-in-waldo",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/performance-optimization-in-waldo",
             "title": "Performance Optimization in Waldo  | Waldo Blog",
             "link": "https://www.waldo.com/blog/performance-optimization-in-waldo",
             "updated": 1687516731,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/improve-bug-reporting-for-manual-qa",
             "title": "Improve Bug Reporting for Manual QA | Waldo Blog",
             "link": "https://www.waldo.com/blog/improve-bug-reporting-for-manual-qa",
             "updated": 1684497450,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-tests-mean-nothing-without-clear-results",
             "title": "Mobile tests mean nothing without clear results | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-tests-mean-nothing-without-clear-results",
             "updated": 1684492266,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-scripts-test-your-app",
             "title": "How Scripts Test Your App  | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-scripts-test-your-app",
             "updated": 1683988593,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-kombat-manual-testing-vs-waldo",
             "title": "Mobile Kombat: Manual Testing vs Waldo | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-kombat-manual-testing-vs-waldo",
             "updated": 1683988586,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-alertdialog",
             "title": "How to Use Flutter AlertDialog: A Developer's Complete Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-alertdialog",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/fmdb-and-swift",
             "title": "Getting Started with FMDB and Swift: A Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/fmdb-and-swift",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/cordova-vs-react-native",
             "title": "Cordova vs. React Native: A Detailed Analysis | Waldo Blog",
             "link": "https://www.waldo.com/blog/cordova-vs-react-native",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/native-vs-cross-platform-mobile-app-development",
             "title": "Native vs Cross-Platform Mobile App Development: How to Pick | Waldo Blog",
             "link": "https://www.waldo.com/blog/native-vs-cross-platform-mobile-app-development",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/kotlin-maps-five-essential-functions",
             "title": "Kotlin Maps: Five Essential Functions | Waldo Blog",
             "link": "https://www.waldo.com/blog/kotlin-maps-five-essential-functions",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-app-development-experiences-to-build-waldo",
             "title": "4 mobile developer experiences that led us to build Waldo | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-app-development-experiences-to-build-waldo",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-improve-code-swift-extensions",
             "title": "3 Ways to Improve Your Code With Swift Extensions | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-improve-code-swift-extensions",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/manage-swiftui-state",
             "title": "A Guide to Managing State in SwiftUI | Waldo Blog",
             "link": "https://www.waldo.com/blog/manage-swiftui-state",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/soap-vs-rest",
             "title": "SOAP vs REST: Key Differences and When to Use Each | Waldo Blog",
             "link": "https://www.waldo.com/blog/soap-vs-rest",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swiftui-toggle",
             "title": "How to Use Toggle in SwiftUI | Waldo Blog",
             "link": "https://www.waldo.com/blog/swiftui-toggle",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-use-uitableviewcell",
             "title": "How to Use UITableViewCell: A Detailed Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-use-uitableviewcell",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/using-appium-cucumber",
             "title": "Appium With Cucumber: Using Them Together | Waldo Blog",
             "link": "https://www.waldo.com/blog/using-appium-cucumber",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-split-string",
             "title": "How to Split a String in Swift: 4 Useful Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-split-string",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-card",
             "title": "How Do I Create a Flutter Card? Examples and Use Cases | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-card",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/eslint-react-native",
             "title": "ESLint in React Native Made Easy: A Step-by-Step Tutorial | Waldo Blog",
             "link": "https://www.waldo.com/blog/eslint-react-native",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/guide-to-xcodebenchmark",
             "title": "Guide to Using XcodeBenchmark and Benchmarking XCode Builds | Waldo Blog",
             "link": "https://www.waldo.com/blog/guide-to-xcodebenchmark",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/web-vs-mobile-app-development",
             "title": "Web vs. Mobile App Development: How to Choose Between Them | Waldo Blog",
             "link": "https://www.waldo.com/blog/web-vs-mobile-app-development",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-struct",
             "title": "How to Use Swift Structs: The Ultimate Guide With Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-struct",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-implement-promisekit",
             "title": "How to Implement PromiseKit in Swift Apps | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-implement-promisekit",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-futurebuilder-example-async",
             "title": "Flutter FutureBuilder Example: Async Done Right | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-futurebuilder-example-async",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/understanding-map-filter-reduce-in-swift",
             "title": "Understanding map, filter, reduce and other higher order functions in Swift | Waldo Blog",
             "link": "https://www.waldo.com/blog/understanding-map-filter-reduce-in-swift",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-enums",
             "title": "Level Up Your Code With Swift Enums | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-enums",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-dialog",
             "title": "How to Implement Flutter Material Dialogs in Your App | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-dialog",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/xctest-guide",
             "title": "An Introductory Guide to Using XCTest | Waldo Blog",
             "link": "https://www.waldo.com/blog/xctest-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/web-service-vs-rest-api",
             "title": "Web Service vs. REST API, Compared In Depth with Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/web-service-vs-rest-api",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-fs",
             "title": "React Native fs: How to Use fs to Read and Write Files | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-fs",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-singleton",
             "title": "Singletons in Swift: The Definitive Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-singleton",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/android-ui-automator",
             "title": "How to Write 3 Types of UI Tests With UIAutomator | Waldo Blog",
             "link": "https://www.waldo.com/blog/android-ui-automator",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/2022-in-review",
             "title": "2022 in Review | Waldo Blog",
             "link": "https://www.waldo.com/blog/2022-in-review",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/cypress-vs-webdriverio-a-comparison",
             "title": "Cypress Vs. WebdriverIO: A Comparison | Waldo Blog",
             "link": "https://www.waldo.com/blog/cypress-vs-webdriverio-a-comparison",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-we-manage-expectations-and-communication-as-a-remote-team",
             "title": "How we manage expectations and communication as a remote team | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-we-manage-expectations-and-communication-as-a-remote-team",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-splash-screen",
             "title": "How to Make a React Native Splash Screen | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-splash-screen",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-colors",
             "title": "React Native Color: Everything You Need to Know | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-colors",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-create-an-api-endpoint",
             "title": "How to Create an API Endpoint in 4 Quick Steps | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-create-an-api-endpoint",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/where-does-content-get-stored-with-mobile-app-development",
             "title": "Where Does Content Get Stored With Mobile App Development? A Beginner's Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/where-does-content-get-stored-with-mobile-app-development",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-regression-testing-vs-unit-testing",
             "title": "Mobile Regression Testing vs Unit Testing Explained | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-regression-testing-vs-unit-testing",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/black-box-testing-techniques",
             "title": "What the heck is black box testing? | Waldo Blog",
             "link": "https://www.waldo.com/blog/black-box-testing-techniques",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-clear-cache",
             "title": "Cache Clearing in React Native: A Handy Cheat Sheet | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-clear-cache",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-card",
             "title": "The Best React Native Card Libraries: A Comprehensive Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-card",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-side-menu-guide",
             "title": "React Native Side Menu: Step by Step Guide With Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-side-menu-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/asserting-an-exception-in-xunit-guide",
             "title": "Asserting an Exception in XUnit: A Detailed Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/asserting-an-exception-in-xunit-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/spek-test",
             "title": "How to Start Using Spek As a Testing Platform | Waldo Blog",
             "link": "https://www.waldo.com/blog/spek-test",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-vs-ionic",
             "title": "Flutter vs. Ionic: Choosing the Best Hybrid App Framework | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-vs-ionic",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/android-mobile-qa-square-app-interview-part-2",
             "title": "QA @ Square: Mobile QA processes that scale (Part 2) | Waldo Blog",
             "link": "https://www.waldo.com/blog/android-mobile-qa-square-app-interview-part-2",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-create-an-ios-app-id",
             "title": "How to Create an iOS App ID: 2 Quick and Easy Methods | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-create-an-ios-app-id",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/testing-appium-xpath-locators",
             "title": "Testing With Appium: How to Use XPath Locators | Waldo Blog",
             "link": "https://www.waldo.com/blog/testing-appium-xpath-locators",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-version-mismatch",
             "title": "How to Fix a React Native Version Mismatch Quickly | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-version-mismatch",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/building-accessible-react-native-apps",
             "title": "Building accessible React Native Apps | Waldo Blog",
             "link": "https://www.waldo.com/blog/building-accessible-react-native-apps",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/inside-our-product-process",
             "title": "Inside Waldo's product process | Waldo Blog",
             "link": "https://www.waldo.com/blog/inside-our-product-process",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/string-index-in-swift",
             "title": "How to Get a String's Index in Swift: 3 Helpful Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/string-index-in-swift",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-struct-vs-class",
             "title": "Swift Struct vs. Class: Here\u2019s How to Decide Which to Use | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-struct-vs-class",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/flutter-hide-widget",
             "title": "The Flutter Visibility Widget: Show and Hide Content | Waldo Blog",
             "link": "https://www.waldo.com/blog/flutter-hide-widget",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mbprogresshud-in-swift-guide",
             "title": "How to Use MBProgressHUD in Swift: A Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/mbprogresshud-in-swift-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/emulator-vs-simulator",
             "title": "Emulator vs Simulator: How They Differ and Which to Use | Waldo Blog",
             "link": "https://www.waldo.com/blog/emulator-vs-simulator",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/snapkit-introductory-guide",
             "title": "An Introductory Guide to SnapKit | Waldo Blog",
             "link": "https://www.waldo.com/blog/snapkit-introductory-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-carousel",
             "title": "React Native Carousels: A Practical Guide With Tests | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-carousel",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/xctassertequal-a-guide",
             "title": "A Guide to Using XCTAssertEqual in Tests | Waldo Blog",
             "link": "https://www.waldo.com/blog/xctassertequal-a-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-swiper",
             "title": "Build a Swiper in React Native: A Step-by-Step Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-swiper",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/monkeyrunner-alternatives",
             "title": "Should You Still Use Monkeyrunner? Alternative Options | Waldo Blog",
             "link": "https://www.waldo.com/blog/monkeyrunner-alternatives",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/using-firebase-with-kotlin",
             "title": "An Android Developer's Guide to Using Firebase With Kotlin | Waldo Blog",
             "link": "https://www.waldo.com/blog/using-firebase-with-kotlin",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/waldo-slack-integration",
             "title": "Get your mobile app test results sent straight to Slack! | Waldo Blog",
             "link": "https://www.waldo.com/blog/waldo-slack-integration",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/infinite-scrolling-react-native",
             "title": "Infinite scrolling React Native Apps for performance optimization | Waldo Blog",
             "link": "https://www.waldo.com/blog/infinite-scrolling-react-native",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/waiting-in-xctest-guide",
             "title": "Waiting in XCTest: A Detailed Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/waiting-in-xctest-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/appium-vs-espresso",
             "title": "Appium vs. Espresso: How to Choose | Waldo Blog",
             "link": "https://www.waldo.com/blog/appium-vs-espresso",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/ios-regression-testing-guide",
             "title": "iOS Regression Testing Tools: A Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/ios-regression-testing-guide",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/best-flutter-example-apps",
             "title": "The 3 Best Flutter Example Apps: Learn By Example | Waldo Blog",
             "link": "https://www.waldo.com/blog/best-flutter-example-apps",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/what-computer-specs-are-important-for-mobile-app-development",
             "title": "What Computer Specs Are Important for Mobile App Development? | Waldo Blog",
             "link": "https://www.waldo.com/blog/what-computer-specs-are-important-for-mobile-app-development",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/uiselectors-testing-with-appium",
             "title": "How to Use UISelector in Tests With Appium | Waldo Blog",
             "link": "https://www.waldo.com/blog/uiselectors-testing-with-appium",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-border-radius",
             "title": "React Native Border Radius in Action: borderRadius Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-border-radius",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/introducing-uxarchive-our-gift-to-the-mobile-community",
             "title": "Introducing UXArchive: Our gift to the mobile community | Waldo Blog",
             "link": "https://www.waldo.com/blog/introducing-uxarchive-our-gift-to-the-mobile-community",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swiftui-vs-uikit",
             "title": "SwiftUI vs. UIkit: A Mobile Developer's Perspective | Waldo Blog",
             "link": "https://www.waldo.com/blog/swiftui-vs-uikit",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/native-vs-hybrid-app",
             "title": "Should You Build a Native vs Hybrid App? How to Decide | Waldo Blog",
             "link": "https://www.waldo.com/blog/native-vs-hybrid-app",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/mobile-app-testing-platforms",
             "title": "Mobile App Testing Tools: 6 Top Solutions and Which Is Best | Waldo Blog",
             "link": "https://www.waldo.com/blog/mobile-app-testing-platforms",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/test-your-app-concurrently-on-android-10-11",
             "title": "Test your app concurrently on Android 10 & 11! | Waldo Blog",
             "link": "https://www.waldo.com/blog/test-your-app-concurrently-on-android-10-11",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/integrating-sentry-for-android",
             "title": "Integrating Sentry for Android | Waldo Blog",
             "link": "https://www.waldo.com/blog/integrating-sentry-for-android",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swift-string-length",
             "title": "String Length in Swift: 5 Different Ways With Examples | Waldo Blog",
             "link": "https://www.waldo.com/blog/swift-string-length",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/calabash-ios-legacy-code",
             "title": "Working With Legacy Code in Calabash for iOS | Waldo Blog",
             "link": "https://www.waldo.com/blog/calabash-ios-legacy-code",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-stripe",
             "title": "Stripe + React Native: An Integration How-To Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-stripe",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/tidying-up-your-product-process-marie-kondo-style",
             "title": "Tidying up your product process, Marie Kondo style | Waldo Blog",
             "link": "https://www.waldo.com/blog/tidying-up-your-product-process-marie-kondo-style",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/swiftui-form-101",
             "title": "SwiftUI Forms 101: A Breakdown for Mobile Developers | Waldo Blog",
             "link": "https://www.waldo.com/blog/swiftui-form-101",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-to-use-kluent",
             "title": "Kluent: What It Is and How to Use It | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-to-use-kluent",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/how-waldo-addresses-flaky-tests",
             "title": "Detecting flaky tests might be the hardest part | Waldo Blog",
             "link": "https://www.waldo.com/blog/how-waldo-addresses-flaky-tests",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-table",
             "title": "Making Tables in React Native: A Helpful Guide | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-table",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/five-tips-to-write-better-test-cases-for-your-code",
             "title": "Five Tips to Write Better Test Cases for Your Code | Waldo Blog",
             "link": "https://www.waldo.com/blog/five-tips-to-write-better-test-cases-for-your-code",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/announcing-sessions-replays",
             "title": "Announcing Sessions + Replays: Time travel debugging for mobile apps | Waldo Blog",
             "link": "https://www.waldo.com/blog/announcing-sessions-replays",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/react-native-transforms",
             "title": "React Native Transforms: Learn by Example | Waldo Blog",
             "link": "https://www.waldo.com/blog/react-native-transforms",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         },
         {
             "id": "https://www.waldo.com/blog/ide-best-react-native",
             "title": "Which IDE Is Best for React Native? | Waldo Blog",
             "link": "https://www.waldo.com/blog/ide-best-react-native",
             "updated": 1681827250,
-            "site_name": "The Waldo Blog"
+            "site_url": "https://www.waldo.com/blog"
         }
     ]
 }

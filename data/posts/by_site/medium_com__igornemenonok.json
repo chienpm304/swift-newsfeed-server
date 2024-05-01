@@ -1,33 +1,33 @@
 {
-    "updated": 1714471064,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/6afe873ea586",
             "title": "Implementing design system components on iOS",
             "link": "https://medium.com/chili-labs/implementing-design-system-components-on-ios-6afe873ea586?source=rss-e761add2025------2",
             "updated": 1663648018,
-            "site_name": "Igor Nemenonok on Medium"
-        },
-        {
-            "id": "https://medium.com/p/c1cd910b3801",
-            "title": "ToTheRescue\u200a\u2014\u200aGlobal platform that saves lives",
-            "link": "https://medium.com/chili-labs/totherescue-global-platform-that-saves-lives-c1cd910b3801?source=rss-e761add2025------2",
-            "updated": 1663640913,
-            "site_name": "Igor Nemenonok on Medium"
-        },
-        {
-            "id": "https://medium.com/p/97604926a495",
-            "title": "Handling cell actions with Swift generics",
-            "link": "https://medium.com/chili-labs/handling-cell-actions-with-swift-generics-97604926a495?source=rss-e761add2025------2",
-            "updated": 1663641076,
-            "site_name": "Igor Nemenonok on Medium"
+            "site_url": "https://medium.com/@igornemenonok"
         },
         {
             "id": "https://medium.com/p/dcd5e209ba16",
             "title": "Configuring multiple cells with generics in Swift",
             "link": "https://medium.com/chili-labs/configuring-multiple-cells-with-generics-in-swift-dcd5e209ba16?source=rss-e761add2025------2",
             "updated": 1663647263,
-            "site_name": "Igor Nemenonok on Medium"
+            "site_url": "https://medium.com/@igornemenonok"
+        },
+        {
+            "id": "https://medium.com/p/97604926a495",
+            "title": "Handling cell actions with Swift generics",
+            "link": "https://medium.com/chili-labs/handling-cell-actions-with-swift-generics-97604926a495?source=rss-e761add2025------2",
+            "updated": 1663641076,
+            "site_url": "https://medium.com/@igornemenonok"
+        },
+        {
+            "id": "https://medium.com/p/c1cd910b3801",
+            "title": "ToTheRescue\u200a\u2014\u200aGlobal platform that saves lives",
+            "link": "https://medium.com/chili-labs/totherescue-global-platform-that-saves-lives-c1cd910b3801?source=rss-e761add2025------2",
+            "updated": 1663640913,
+            "site_url": "https://medium.com/@igornemenonok"
         }
     ]
 }

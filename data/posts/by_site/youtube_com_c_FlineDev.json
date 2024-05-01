@@ -1,110 +1,110 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "6608da44f047360001a5ffe1",
             "title": "Reacting to Pricing Backlash: Lessons Learned",
             "link": "https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/",
             "updated": 1713247204,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65f062bc8e45480001614cdf",
             "title": "2 New Vision Pro Apps: \"Guided Guest Mode\" & \"FocusBeats: Pomodoro + Music\"",
             "link": "https://www.fline.dev/2-new-vision-pro-apps-guided-guest-mode-focusbeats-pomodoro-music/",
             "updated": 1713155627,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "66157d7db855a00001e3e35e",
             "title": "Introducing FreelanceKit: Time Tracking for all \uf8ff Platforms!",
             "link": "https://www.fline.dev/introducing-freelancekit/",
             "updated": 1712663758,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "660ad649f047360001a60140",
             "title": "My Top 10 Wishes for WWDC24",
             "link": "https://www.fline.dev/my-top-10-wishes-for-wwdc24/",
             "updated": 1712322561,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "66009b243d4d380001a17cc5",
             "title": "Introducing HandySwift 4.0",
             "link": "https://www.fline.dev/introducing-handyswift-4/",
             "updated": 1711295870,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65e2ea63be232200015bd58c",
             "title": "Migrating my SwiftUI App to VisionOS in 2 Hours",
             "link": "https://www.fline.dev/migrating-my-swiftui-app-to-visionos/",
             "updated": 1709389327,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65d9125578fa930001f4df43",
             "title": "Introducing \"Posters\" \u2013 My first Spatial-first app for Vision Pro",
             "link": "https://www.fline.dev/introducing-posters-my-first-spatial-first-app-for-vision-pro/",
             "updated": 1708701242,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65b4ec028fbdce00018b406f",
             "title": "Swift Evolution Monthly: January '24",
             "link": "https://www.fline.dev/swift-evolution-monthly-january-24/",
             "updated": 1707470051,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65b7f2945912c400014707e1",
             "title": "HUGE CrossCraft 2.0 Update: Seven Major New Features!",
             "link": "https://www.fline.dev/huge-crosscraft-update-seven-major-features/",
             "updated": 1706606170,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "64cd265bd07a8a0001b34603",
             "title": "Swift Evolution Monthly: December '23",
             "link": "https://www.fline.dev/swift-evolution-monthly-december-23/",
             "updated": 1703503792,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "65801a787ea9db0001fdf97c",
             "title": "8 Simple Steps to Create Crosswords on Any Topic in Minutes Using ChatGPT",
             "link": "https://www.fline.dev/8-steps-to-create-crosswords-with-chatgpt/",
             "updated": 1702881413,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "657c65ed7ea9db0001fdf7d8",
             "title": "Introducing CrossCraft: Custom Crosswords",
             "link": "https://www.fline.dev/introducing-crosscraft/",
             "updated": 1702653231,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "646bb0e211040e0001581da9",
             "title": "Learnings from Analyzing 20 Successful Mobile Paywalls",
             "link": "https://www.fline.dev/freemiumkit-learnings-from-analyzing-mobile-paywalls/",
             "updated": 1694315949,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "649be854fb01ed000137bf4a",
             "title": "The Missing String Catalogs FAQ for Localization in Xcode 15",
             "link": "https://www.fline.dev/the-missing-string-catalogs-faq-for-xcode-15/",
             "updated": 1688437754,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "64a2b6c55e2e3e0001ba6064",
             "title": "Swift Evolution Monthly: June '23",
             "link": "https://www.fline.dev/swift-evolution-monthly-june-23/",
             "updated": 1688377679,
-            "site_name": "FlineDev"
+            "site_url": "https://www.youtube.com/c/FlineDev"
         }
     ]
 }

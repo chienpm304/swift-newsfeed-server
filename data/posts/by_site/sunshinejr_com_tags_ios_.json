@@ -1,47 +1,47 @@
 {
-    "updated": 1714470956,
+    "updated": 1714537271,
     "posts": [
         {
             "id": "https://sunshinejr.com/2020/04/30/different-approach-to-attributed-strings-in-swift/",
             "title": "Different approach to Attributed Strings in Swift",
             "link": "https://sunshinejr.com/2020/04/30/different-approach-to-attributed-strings-in-swift/",
             "updated": 1588248061,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         },
         {
             "id": "https://sunshinejr.com/2019/10/23/stop-using-iboutlets-today/",
             "title": "Stop force unwrapping IBOutlets with @Delayed",
             "link": "https://sunshinejr.com/2019/10/23/stop-using-iboutlets-today/",
             "updated": 1571821921,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         },
         {
             "id": "https://sunshinejr.com/2019/05/01/swifty-user-defaults-reborn/",
             "title": "SwiftyUserDefaults 4.0",
             "link": "https://sunshinejr.com/2019/05/01/swifty-user-defaults-reborn/",
             "updated": 1556708470,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         },
         {
             "id": "https://sunshinejr.com/2019/03/05/open-source-adventures-harvey/",
             "title": "Open Source Adventures #4 - Harvey",
             "link": "https://sunshinejr.com/2019/03/05/open-source-adventures-harvey/",
             "updated": 1551790211,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         },
         {
             "id": "https://sunshinejr.com/2018/05/08/open-source-adventures-carthage/",
             "title": "Open Source Adventures #3 - Carthage",
             "link": "https://sunshinejr.com/2018/05/08/open-source-adventures-carthage/",
             "updated": 1525774150,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         },
         {
             "id": "https://sunshinejr.com/2018/04/11/scaling-moya-in-production/",
             "title": "Scaling Moya in production",
             "link": "https://sunshinejr.com/2018/04/11/scaling-moya-in-production/",
             "updated": 1523440861,
-            "site_name": "Sunshinejr\u2019s Blog"
+            "site_url": "https://sunshinejr.com/tags/ios/"
         }
     ]
 }

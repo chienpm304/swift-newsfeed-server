@@ -1,47 +1,47 @@
 {
-    "updated": 1714470978,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://szulctomasz.com/programming-blog/2018/09/add-fireworks-and-sparks-to-a-uiview/",
             "title": "Add fireworks and sparks to a UIView",
             "link": "http://szulctomasz.com/programming-blog/2018/09/add-fireworks-and-sparks-to-a-uiview/",
             "updated": 1537405200,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         },
         {
             "id": "http://szulctomasz.com/programming-blog/2016/07/how-do-i-build-a-network-layer/",
             "title": "How do I build a Network Layer",
             "link": "http://szulctomasz.com/programming-blog/2016/07/how-do-i-build-a-network-layer/",
             "updated": 1469880000,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         },
         {
             "id": "http://szulctomasz.com/programming-blog/2016/05/custom-view-controller-transition-by-expanding-view/",
             "title": "Custom View Controller transition by expanding view",
             "link": "http://szulctomasz.com/programming-blog/2016/05/custom-view-controller-transition-by-expanding-view/",
             "updated": 1463227200,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         },
         {
             "id": "http://szulctomasz.com/programming-blog/2015/08/initialization-process-of-a-view-loaded-from-a-storyboard/",
             "title": "Initialization process of a view loaded from a storyboard",
             "link": "http://szulctomasz.com/programming-blog/2015/08/initialization-process-of-a-view-loaded-from-a-storyboard/",
             "updated": 1440158400,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         },
         {
             "id": "http://szulctomasz.com/programming-blog/2015/08/i-wrote-a-copy-of-2048-game-in-10-hours-and-submitted-to-the-app-store/",
             "title": "I wrote a copy of 2048 game in 10 hours and submitted to the App Store",
             "link": "http://szulctomasz.com/programming-blog/2015/08/i-wrote-a-copy-of-2048-game-in-10-hours-and-submitted-to-the-app-store/",
             "updated": 1438689600,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         },
         {
             "id": "http://szulctomasz.com/programming-blog/2015/08/uiviewcontrollers-view-loading-process-demystified/",
             "title": "UIViewController's view loading process demystified",
             "link": "http://szulctomasz.com/programming-blog/2015/08/uiviewcontrollers-view-loading-process-demystified/",
             "updated": 1438603200,
-            "site_name": "Tomasz Szulc\u2019s Blog"
+            "site_url": "http://szulctomasz.com/programming-blog/"
         }
     ]
 }

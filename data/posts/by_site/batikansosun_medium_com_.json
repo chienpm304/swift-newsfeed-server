@@ -1,75 +1,75 @@
 {
-    "updated": 1714470872,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/5508ea5eb779",
             "title": "What\u2019s New in Xcode 15",
             "link": "https://betterprogramming.pub/whats-new-in-xcode-15-5508ea5eb779?source=rss-a0e19a28a49a------2",
             "updated": 1686533229,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/9f54823e15a6",
             "title": "Managing Navigation Between Multiple Modules in an iOS App Using Dependency Injection Containers",
             "link": "https://betterprogramming.pub/managing-navigation-between-multiple-modules-in-an-ios-app-using-dependency-injection-containers-9f54823e15a6?source=rss-a0e19a28a49a------2",
             "updated": 1683032394,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/4766a347035b",
             "title": "Create Live Activities and Dynamic Island With ActivityKit on iOS 16",
             "link": "https://betterprogramming.pub/create-live-activities-with-activitykit-on-ios-16-beta-4766a347035b?source=rss-a0e19a28a49a------2",
             "updated": 1669527409,
-            "site_name": "Batikan\u2019s iOS Blog"
-        },
-        {
-            "id": "https://medium.com/p/f6b56c33a8b3",
-            "title": "What\u2019s New in Xcode 14",
-            "link": "https://betterprogramming.pub/whats-new-in-xcode-14-f6b56c33a8b3?source=rss-a0e19a28a49a------2",
-            "updated": 1656380418,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/89392a309532",
             "title": "Dependency Injection Container in Swift",
             "link": "https://medium.com/sahibinden-technology/dependency-injection-container-in-swift-89392a309532?source=rss-a0e19a28a49a------2",
             "updated": 1658392537,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/11756a07a064",
             "title": "Dependency Injection in Swift",
             "link": "https://medium.com/sahibinden-technology/dependency-injection-in-swift-11756a07a064?source=rss-a0e19a28a49a------2",
             "updated": 1658392518,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
+        },
+        {
+            "id": "https://medium.com/p/f6b56c33a8b3",
+            "title": "What\u2019s New in Xcode 14",
+            "link": "https://betterprogramming.pub/whats-new-in-xcode-14-f6b56c33a8b3?source=rss-a0e19a28a49a------2",
+            "updated": 1656380418,
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/c5547003478f",
             "title": "Bitwise Enum Values with the OptionSet in Swift",
             "link": "https://medium.com/sahibinden-technology/bitwise-enum-values-with-the-optionset-in-swift-c5547003478f?source=rss-a0e19a28a49a------2",
             "updated": 1650847228,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/402053854e8b",
             "title": "Equatable Protocol in Swift",
             "link": "https://medium.com/sahibinden-technology/equatable-protocol-in-swift-402053854e8b?source=rss-a0e19a28a49a------2",
             "updated": 1649210868,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/71081a5a9ee0",
             "title": "Become an iOS Simulator Master-Part 2",
             "link": "https://medium.com/sahibinden-technology/become-an-ios-simulator-master-part-2-71081a5a9ee0?source=rss-a0e19a28a49a------2",
             "updated": 1648516701,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         },
         {
             "id": "https://medium.com/p/c239b7b2e7fa",
             "title": "Become an iOS Simulator Master-Part 1",
             "link": "https://medium.com/sahibinden-technology/become-an-ios-simulator-master-part-1-c239b7b2e7fa?source=rss-a0e19a28a49a------2",
             "updated": 1648457043,
-            "site_name": "Batikan\u2019s iOS Blog"
+            "site_url": "https://batikansosun.medium.com/"
         }
     ]
 }

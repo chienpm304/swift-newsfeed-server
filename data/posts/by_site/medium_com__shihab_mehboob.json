@@ -1,19 +1,19 @@
 {
-    "updated": 1714470930,
+    "updated": 1714537256,
     "posts": [
         {
             "id": "https://medium.com/p/a161630575b1",
             "title": "Cosmicast 2.0: This Post Should\u2019ve Been a Podcast Episode",
             "link": "https://medium.com/@shihab.mehboob/cosmicast-2-0-this-post-shouldve-been-a-podcast-episode-a161630575b1?source=rss-8b9318255609------2",
             "updated": 1586248881,
-            "site_name": "Shihab Mehboob (JPEGuin) on Medium"
+            "site_url": "https://medium.com/@shihab.mehboob"
         },
         {
             "id": "https://medium.com/p/88a8b0f425dc",
             "title": "Zero to App in One Month",
             "link": "https://medium.com/@shihab.mehboob/zero-to-app-in-one-month-88a8b0f425dc?source=rss-8b9318255609------2",
             "updated": 1580810540,
-            "site_name": "Shihab Mehboob (JPEGuin) on Medium"
+            "site_url": "https://medium.com/@shihab.mehboob"
         }
     ]
 }

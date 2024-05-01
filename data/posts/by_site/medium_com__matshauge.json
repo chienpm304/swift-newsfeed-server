@@ -1,26 +1,26 @@
 {
-    "updated": 1714471032,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/653b33626329",
             "title": "\u270c\ufe0f Rethinking the iOS switch controller",
             "link": "https://uxdesign.cc/%EF%B8%8F-rethinking-the-ios-switch-controller-653b33626329?source=rss-ad988765198b------2",
             "updated": 1559061936,
-            "site_name": "Mats Hauge on Medium"
+            "site_url": "https://medium.com/@matshauge"
         },
         {
             "id": "https://medium.com/p/dbc6c0198c04",
             "title": "Make body language of your design by using Animation",
             "link": "https://uxdesign.cc/animation-dbc6c0198c04?source=rss-ad988765198b------2",
             "updated": 1557719419,
-            "site_name": "Mats Hauge on Medium"
+            "site_url": "https://medium.com/@matshauge"
         },
         {
             "id": "https://medium.com/p/8302c95939fb",
             "title": "Fluid Interfaces",
             "link": "https://uxdesign.cc/fluid-interfaces-8302c95939fb?source=rss-ad988765198b------2",
             "updated": 1557062031,
-            "site_name": "Mats Hauge on Medium"
+            "site_url": "https://medium.com/@matshauge"
         }
     ]
 }

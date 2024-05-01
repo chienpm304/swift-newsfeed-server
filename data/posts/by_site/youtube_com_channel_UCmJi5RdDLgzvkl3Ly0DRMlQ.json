@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:SneL19Jp1iE",
-            "title": "What it's like attending WWDC in Cupertino",
-            "link": "https://www.youtube.com/watch?v=SneL19Jp1iE",
-            "updated": 1712774888,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:oGPLjXgWqj8",
-            "title": "Hiding and grouping accessibility data \u2013 Accessibility SwiftUI Tutorial 2/7",
-            "link": "https://www.youtube.com/watch?v=oGPLjXgWqj8",
-            "updated": 1712423374,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:S6GLrIDMKiA",
-            "title": "Using generics to load any kind of Codable data \u2013 Moonshot SwiftUI Tutorial 7/11",
-            "link": "https://www.youtube.com/watch?v=S6GLrIDMKiA",
-            "updated": 1712775132,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:ezAEgfiHeJg",
-            "title": "Loading a specific kind of Codable data \u2013 Moonshot SwiftUI Tutorial 6/11",
-            "link": "https://www.youtube.com/watch?v=ezAEgfiHeJg",
-            "updated": 1712807829,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:FKUBspZLZb8",
-            "title": "Letting the user mark favorites \u2013 SnowSeeker SwiftUI Tutorial 12/12",
-            "link": "https://www.youtube.com/watch?v=FKUBspZLZb8",
-            "updated": 1714078090,
-            "site_name": "Paul Hudson on YouTube"
+            "id": "yt:video:QKUBGEMcbAY",
+            "title": "Using alert() and sheet() with optionals \u2013 SnowSeeker SwiftUI Tutorial 2/12",
+            "link": "https://www.youtube.com/watch?v=QKUBGEMcbAY",
+            "updated": 1714171073,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
         },
         {
             "id": "yt:video:Ea3dl2gy3QY",
             "title": "Binding an alert to an optional string \u2013 SnowSeeker SwiftUI Tutorial 11/12",
             "link": "https://www.youtube.com/watch?v=Ea3dl2gy3QY",
             "updated": 1714146242,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:-ErGf0_iqrw",
-            "title": "Changing a view\u2019s layout in response to size classes \u2013 SnowSeeker SwiftUI Tutorial 10/12",
-            "link": "https://www.youtube.com/watch?v=-ErGf0_iqrw",
-            "updated": 1711016453,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:oucWBTMOaz0",
-            "title": "Searching for data in a List \u2013 SnowSeeker SwiftUI Tutorial 9/12",
-            "link": "https://www.youtube.com/watch?v=oucWBTMOaz0",
-            "updated": 1711144493,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:TOsqZ5GxeiU",
-            "title": "Using groups as transparent layout containers \u2013 SnowSeeker SwiftUI Tutorial 3/12",
-            "link": "https://www.youtube.com/watch?v=TOsqZ5GxeiU",
-            "updated": 1710946329,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:1m_Ho4ggfMc",
-            "title": "Creating a detail view for resorts \u2013 SnowSeeker SwiftUI Tutorial 8/12",
-            "link": "https://www.youtube.com/watch?v=1m_Ho4ggfMc",
-            "updated": 1714043515,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:r5P1sNUWbJk",
-            "title": "Building a primary list of items \u2013 SnowSeeker SwiftUI Tutorial 6/12",
-            "link": "https://www.youtube.com/watch?v=r5P1sNUWbJk",
-            "updated": 1711148223,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:myLtDcYuE3k",
-            "title": "Sharing @Observable objects through SwiftUI's environment \u2013 SnowSeeker SwiftUI Tutorial 5/12",
-            "link": "https://www.youtube.com/watch?v=myLtDcYuE3k",
-            "updated": 1711124178,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:QKUBGEMcbAY",
-            "title": "Using alert() and sheet() with optionals \u2013 SnowSeeker SwiftUI Tutorial 2/12",
-            "link": "https://www.youtube.com/watch?v=QKUBGEMcbAY",
-            "updated": 1714171073,
-            "site_name": "Paul Hudson on YouTube"
-        },
-        {
-            "id": "yt:video:MKJsFcUIJ2w",
-            "title": "Making a SwiftUI view searchable \u2013 SnowSeeker SwiftUI Tutorial 4/12",
-            "link": "https://www.youtube.com/watch?v=MKJsFcUIJ2w",
-            "updated": 1714084496,
-            "site_name": "Paul Hudson on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
         },
         {
             "id": "yt:video:2rZh-9uPZnI",
             "title": "Presenting a default detail view on iPad \u2013 SnowSeeker SwiftUI Tutorial 7/12",
             "link": "https://www.youtube.com/watch?v=2rZh-9uPZnI",
             "updated": 1714119659,
-            "site_name": "Paul Hudson on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:MKJsFcUIJ2w",
+            "title": "Making a SwiftUI view searchable \u2013 SnowSeeker SwiftUI Tutorial 4/12",
+            "link": "https://www.youtube.com/watch?v=MKJsFcUIJ2w",
+            "updated": 1714084496,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:FKUBspZLZb8",
+            "title": "Letting the user mark favorites \u2013 SnowSeeker SwiftUI Tutorial 12/12",
+            "link": "https://www.youtube.com/watch?v=FKUBspZLZb8",
+            "updated": 1714078090,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:1m_Ho4ggfMc",
+            "title": "Creating a detail view for resorts \u2013 SnowSeeker SwiftUI Tutorial 8/12",
+            "link": "https://www.youtube.com/watch?v=1m_Ho4ggfMc",
+            "updated": 1714043515,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:ezAEgfiHeJg",
+            "title": "Loading a specific kind of Codable data \u2013 Moonshot SwiftUI Tutorial 6/11",
+            "link": "https://www.youtube.com/watch?v=ezAEgfiHeJg",
+            "updated": 1712807829,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:S6GLrIDMKiA",
+            "title": "Using generics to load any kind of Codable data \u2013 Moonshot SwiftUI Tutorial 7/11",
+            "link": "https://www.youtube.com/watch?v=S6GLrIDMKiA",
+            "updated": 1712775132,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:SneL19Jp1iE",
+            "title": "What it's like attending WWDC in Cupertino",
+            "link": "https://www.youtube.com/watch?v=SneL19Jp1iE",
+            "updated": 1712774888,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:oGPLjXgWqj8",
+            "title": "Hiding and grouping accessibility data \u2013 Accessibility SwiftUI Tutorial 2/7",
+            "link": "https://www.youtube.com/watch?v=oGPLjXgWqj8",
+            "updated": 1712423374,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:r5P1sNUWbJk",
+            "title": "Building a primary list of items \u2013 SnowSeeker SwiftUI Tutorial 6/12",
+            "link": "https://www.youtube.com/watch?v=r5P1sNUWbJk",
+            "updated": 1711148223,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:oucWBTMOaz0",
+            "title": "Searching for data in a List \u2013 SnowSeeker SwiftUI Tutorial 9/12",
+            "link": "https://www.youtube.com/watch?v=oucWBTMOaz0",
+            "updated": 1711144493,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:myLtDcYuE3k",
+            "title": "Sharing @Observable objects through SwiftUI's environment \u2013 SnowSeeker SwiftUI Tutorial 5/12",
+            "link": "https://www.youtube.com/watch?v=myLtDcYuE3k",
+            "updated": 1711124178,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:-ErGf0_iqrw",
+            "title": "Changing a view\u2019s layout in response to size classes \u2013 SnowSeeker SwiftUI Tutorial 10/12",
+            "link": "https://www.youtube.com/watch?v=-ErGf0_iqrw",
+            "updated": 1711016453,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
+        },
+        {
+            "id": "yt:video:TOsqZ5GxeiU",
+            "title": "Using groups as transparent layout containers \u2013 SnowSeeker SwiftUI Tutorial 3/12",
+            "link": "https://www.youtube.com/watch?v=TOsqZ5GxeiU",
+            "updated": 1710946329,
+            "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
         }
     ]
 }

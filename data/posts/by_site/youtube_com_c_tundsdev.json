@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:p9Oi8uOBoBo",
-            "title": "Discover SwiftUI Observation Framework: A Complete Guide! | Part 0",
-            "link": "https://www.youtube.com/watch?v=p9Oi8uOBoBo",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:ZUlWVUYpmB4",
-            "title": "Using User Defaults In Observation Framework | Build Your Own Language Switcher | Part 5",
-            "link": "https://www.youtube.com/watch?v=ZUlWVUYpmB4",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:rAGcktj_Y4w",
-            "title": "Migrating To The Observation Framework In SwiftUI | Part 2",
-            "link": "https://www.youtube.com/watch?v=rAGcktj_Y4w",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:ICVcxrBNNoo",
-            "title": "Environment In The Observation Framework | Build Your Own Theme Switcher | Part 3",
-            "link": "https://www.youtube.com/watch?v=ICVcxrBNNoo",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:AiP7KGFvZ6Q",
-            "title": "New Observation Framework In SwiftUI Explained | Part 1",
-            "link": "https://www.youtube.com/watch?v=AiP7KGFvZ6Q",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:GfIuIJ3cPM0",
-            "title": "Binding vs Bindable in Observation Framework | What\u2019s the difference? | Part 4",
-            "link": "https://www.youtube.com/watch?v=GfIuIJ3cPM0",
-            "updated": 1713475661,
-            "site_name": "tundsdev on YouTube"
+            "id": "yt:video:z6vB6pZV5-s",
+            "title": "SwiftData & CloudKit: See How To Add Syncing In Your Apps | SwiftData Tutorial | #15",
+            "link": "https://www.youtube.com/watch?v=z6vB6pZV5-s",
+            "updated": 1714134918,
+            "site_url": "https://www.youtube.com/c/tundsdev"
         },
         {
             "id": "yt:video:9U0MBbvHWug",
             "title": "Use Observation Framework & Swift Concurrency To Build An Affirmations App | Part 6",
             "link": "https://www.youtube.com/watch?v=9U0MBbvHWug",
             "updated": 1713490269,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:ArZAYhtO_A0",
-            "title": "Efficient Sorting In SwiftData | SwiftData Tutorial | #17",
-            "link": "https://www.youtube.com/watch?v=ArZAYhtO_A0",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:V4kHAKmC53Y",
-            "title": "A Better Way To Add Dynamic Filtering In SwiftData | SwiftData Tutorial | #16",
-            "link": "https://www.youtube.com/watch?v=V4kHAKmC53Y",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:z6vB6pZV5-s",
-            "title": "SwiftData & CloudKit: See How To Add Syncing In Your Apps | SwiftData Tutorial | #15",
-            "link": "https://www.youtube.com/watch?v=z6vB6pZV5-s",
-            "updated": 1714134918,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:BAIIaAdt0NI",
-            "title": "How To Save A Struct In SwiftData | SwiftData Tutorial | #14",
-            "link": "https://www.youtube.com/watch?v=BAIIaAdt0NI",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:JzC3qFFs6Is",
-            "title": "How To Use Transient In SwiftData | SwiftData Tutorial | #13",
-            "link": "https://www.youtube.com/watch?v=JzC3qFFs6Is",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
-        },
-        {
-            "id": "yt:video:B3JSgcXjsL8",
-            "title": "SwiftData Background Tasks: Massively Improve Your Apps Performance | SwiftData Tutorial | #12",
-            "link": "https://www.youtube.com/watch?v=B3JSgcXjsL8",
-            "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
+            "site_url": "https://www.youtube.com/c/tundsdev"
         },
         {
             "id": "yt:video:jS1Grzd2Kt0",
             "title": "SwiftData Debugging The Easy Way | SwiftData Tutorial | #11",
             "link": "https://www.youtube.com/watch?v=jS1Grzd2Kt0",
             "updated": 1713475778,
-            "site_name": "tundsdev on YouTube"
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:GfIuIJ3cPM0",
+            "title": "Binding vs Bindable in Observation Framework | What\u2019s the difference? | Part 4",
+            "link": "https://www.youtube.com/watch?v=GfIuIJ3cPM0",
+            "updated": 1713475661,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:p9Oi8uOBoBo",
+            "title": "Discover SwiftUI Observation Framework: A Complete Guide! | Part 0",
+            "link": "https://www.youtube.com/watch?v=p9Oi8uOBoBo",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:ZUlWVUYpmB4",
+            "title": "Using User Defaults In Observation Framework | Build Your Own Language Switcher | Part 5",
+            "link": "https://www.youtube.com/watch?v=ZUlWVUYpmB4",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:rAGcktj_Y4w",
+            "title": "Migrating To The Observation Framework In SwiftUI | Part 2",
+            "link": "https://www.youtube.com/watch?v=rAGcktj_Y4w",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:ICVcxrBNNoo",
+            "title": "Environment In The Observation Framework | Build Your Own Theme Switcher | Part 3",
+            "link": "https://www.youtube.com/watch?v=ICVcxrBNNoo",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:AiP7KGFvZ6Q",
+            "title": "New Observation Framework In SwiftUI Explained | Part 1",
+            "link": "https://www.youtube.com/watch?v=AiP7KGFvZ6Q",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:ArZAYhtO_A0",
+            "title": "Efficient Sorting In SwiftData | SwiftData Tutorial | #17",
+            "link": "https://www.youtube.com/watch?v=ArZAYhtO_A0",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:V4kHAKmC53Y",
+            "title": "A Better Way To Add Dynamic Filtering In SwiftData | SwiftData Tutorial | #16",
+            "link": "https://www.youtube.com/watch?v=V4kHAKmC53Y",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:BAIIaAdt0NI",
+            "title": "How To Save A Struct In SwiftData | SwiftData Tutorial | #14",
+            "link": "https://www.youtube.com/watch?v=BAIIaAdt0NI",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:JzC3qFFs6Is",
+            "title": "How To Use Transient In SwiftData | SwiftData Tutorial | #13",
+            "link": "https://www.youtube.com/watch?v=JzC3qFFs6Is",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
+        },
+        {
+            "id": "yt:video:B3JSgcXjsL8",
+            "title": "SwiftData Background Tasks: Massively Improve Your Apps Performance | SwiftData Tutorial | #12",
+            "link": "https://www.youtube.com/watch?v=B3JSgcXjsL8",
+            "updated": 1713475304,
+            "site_url": "https://www.youtube.com/c/tundsdev"
         },
         {
             "id": "yt:video:PDKaZpWuH1I",
             "title": "SwiftData Migrations | SwiftData Tutorial | #11",
             "link": "https://www.youtube.com/watch?v=PDKaZpWuH1I",
             "updated": 1713475304,
-            "site_name": "tundsdev on YouTube"
+            "site_url": "https://www.youtube.com/c/tundsdev"
         }
     ]
 }

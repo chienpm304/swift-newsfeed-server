@@ -1,19 +1,19 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "yt:video:K2oWAn76tUw",
             "title": "Demystifying Machine Learning: A Different Kind of Software",
             "link": "https://www.youtube.com/watch?v=K2oWAn76tUw",
             "updated": 1714088514,
-            "site_name": "Deep Dojo"
+            "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ"
         },
         {
             "id": "yt:video:qf-icotKDo4",
             "title": "Demystifying Machine Learning: An Unlikely Robot Apocalypse",
             "link": "https://www.youtube.com/watch?v=qf-icotKDo4",
             "updated": 1711179298,
-            "site_name": "Deep Dojo"
+            "site_url": "https://www.youtube.com/channel/UCpHWi_dxxTReXW6Bxab-ikQ"
         }
     ]
 }

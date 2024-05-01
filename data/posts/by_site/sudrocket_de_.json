@@ -1,19 +1,19 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://sudrocket.de/blog/2022/05/swiftui-equal-and-ideal-sizes/",
             "title": "SwiftUI equal and ideal sizes",
             "link": "https://sudrocket.de/blog/2022/05/swiftui-equal-and-ideal-sizes/",
             "updated": 1653226695,
-            "site_name": "S\u00fcdRocket"
+            "site_url": "https://sudrocket.de/"
         },
         {
             "id": "https://sudrocket.de/blog/2022/01/using-awk-for-project-hygiene/",
             "title": "Using awk for project hygiene",
             "link": "https://sudrocket.de/blog/2022/01/using-awk-for-project-hygiene/",
             "updated": 1641205740,
-            "site_name": "S\u00fcdRocket"
+            "site_url": "https://sudrocket.de/"
         }
     ]
 }

@@ -1,61 +1,61 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "https://medium.com/p/41595f045336",
             "title": "Integrating RxSwift as XCFramework With CocoaPods",
             "link": "https://betterprogramming.pub/integrating-rxswift-as-xcframework-with-cocoapods-41595f045336?source=rss-bc346811239d------2",
             "updated": 1643148369,
-            "site_name": "Pablo Manuelli on Medium"
+            "site_url": "https://medium.com/@pablo.manuelli"
         },
         {
             "id": "https://medium.com/p/a885f38d8ed0",
             "title": "How to Use Swift Functions For Dependency Injection",
             "link": "https://betterprogramming.pub/use-functions-for-dependency-injection-in-swift-a885f38d8ed0?source=rss-bc346811239d------2",
             "updated": 1642882152,
-            "site_name": "Pablo Manuelli on Medium"
-        },
-        {
-            "id": "https://medium.com/p/cb55857baa39",
-            "title": "Why You Should Avoid Using Primitive Types",
-            "link": "https://betterprogramming.pub/why-you-should-avoid-using-primitive-types-cb55857baa39?source=rss-bc346811239d------2",
-            "updated": 1591093746,
-            "site_name": "Pablo Manuelli on Medium"
-        },
-        {
-            "id": "https://medium.com/p/785b13df2873",
-            "title": "Creating Trivia Crack 3D Buttons on iOS",
-            "link": "https://medium.com/etermax-technology/creating-trivia-crack-3d-buttons-on-ios-785b13df2873?source=rss-bc346811239d------2",
-            "updated": 1589950475,
-            "site_name": "Pablo Manuelli on Medium"
-        },
-        {
-            "id": "https://medium.com/p/f9187e745641",
-            "title": "Better iOS Apps with Interaction-Driven Design",
-            "link": "https://levelup.gitconnected.com/better-ios-apps-with-interaction-driven-design-f9187e745641?source=rss-bc346811239d------2",
-            "updated": 1581757974,
-            "site_name": "Pablo Manuelli on Medium"
-        },
-        {
-            "id": "https://medium.com/p/1249cb44d4b3",
-            "title": "Why Model Objects Shouldn\u2019t Implement Swift\u2019s Decodable or Encodable Protocols",
-            "link": "https://betterprogramming.pub/why-model-objects-shouldnt-implement-swift-s-decodable-or-encodable-protocols-1249cb44d4b3?source=rss-bc346811239d------2",
-            "updated": 1584105470,
-            "site_name": "Pablo Manuelli on Medium"
-        },
-        {
-            "id": "https://medium.com/p/39cc71aa7f17",
-            "title": "Changing RxSwift Scheduler Instances on Unit Testing",
-            "link": "https://medium.com/swlh/changing-rxswift-scheduler-instances-on-unit-testing-39cc71aa7f17?source=rss-bc346811239d------2",
-            "updated": 1567364652,
-            "site_name": "Pablo Manuelli on Medium"
+            "site_url": "https://medium.com/@pablo.manuelli"
         },
         {
             "id": "https://medium.com/p/74b2697557ce",
             "title": "Dealing with Massive View Models using MVVM on iOS",
             "link": "https://medium.com/etermax-technology/dealing-with-massive-view-models-using-mvvm-on-ios-74b2697557ce?source=rss-bc346811239d------2",
             "updated": 1600613553,
-            "site_name": "Pablo Manuelli on Medium"
+            "site_url": "https://medium.com/@pablo.manuelli"
+        },
+        {
+            "id": "https://medium.com/p/cb55857baa39",
+            "title": "Why You Should Avoid Using Primitive Types",
+            "link": "https://betterprogramming.pub/why-you-should-avoid-using-primitive-types-cb55857baa39?source=rss-bc346811239d------2",
+            "updated": 1591093746,
+            "site_url": "https://medium.com/@pablo.manuelli"
+        },
+        {
+            "id": "https://medium.com/p/785b13df2873",
+            "title": "Creating Trivia Crack 3D Buttons on iOS",
+            "link": "https://medium.com/etermax-technology/creating-trivia-crack-3d-buttons-on-ios-785b13df2873?source=rss-bc346811239d------2",
+            "updated": 1589950475,
+            "site_url": "https://medium.com/@pablo.manuelli"
+        },
+        {
+            "id": "https://medium.com/p/1249cb44d4b3",
+            "title": "Why Model Objects Shouldn\u2019t Implement Swift\u2019s Decodable or Encodable Protocols",
+            "link": "https://betterprogramming.pub/why-model-objects-shouldnt-implement-swift-s-decodable-or-encodable-protocols-1249cb44d4b3?source=rss-bc346811239d------2",
+            "updated": 1584105470,
+            "site_url": "https://medium.com/@pablo.manuelli"
+        },
+        {
+            "id": "https://medium.com/p/f9187e745641",
+            "title": "Better iOS Apps with Interaction-Driven Design",
+            "link": "https://levelup.gitconnected.com/better-ios-apps-with-interaction-driven-design-f9187e745641?source=rss-bc346811239d------2",
+            "updated": 1581757974,
+            "site_url": "https://medium.com/@pablo.manuelli"
+        },
+        {
+            "id": "https://medium.com/p/39cc71aa7f17",
+            "title": "Changing RxSwift Scheduler Instances on Unit Testing",
+            "link": "https://medium.com/swlh/changing-rxswift-scheduler-instances-on-unit-testing-39cc71aa7f17?source=rss-bc346811239d------2",
+            "updated": 1567364652,
+            "site_url": "https://medium.com/@pablo.manuelli"
         }
     ]
 }

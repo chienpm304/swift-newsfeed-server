@@ -1,516 +1,516 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jasdev.me/remarkable-quick-print",
             "title": "Quickly printing to reMarkable",
             "link": "https://jasdev.me/remarkable-quick-print",
             "updated": 1616173200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/prime-monomials",
             "title": "Finding prime monomials",
             "link": "https://jasdev.me/prime-monomials",
             "updated": 1614445200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/generating-captions",
             "title": "Generating captions",
             "link": "https://jasdev.me/generating-captions",
             "updated": 1612544400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/prefix-inclusive",
             "title": "An inclusive overload of Publisher.prefix(while:)",
             "link": "https://jasdev.me/prefix-inclusive",
             "updated": 1610816400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/multiple-truths",
             "title": "Holding multiple truths",
             "link": "https://jasdev.me/multiple-truths",
             "updated": 1600362000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/sequence-to-publisher",
             "title": "A screencast on deriving Publisher from Swift\u2019s Sequence protocol",
             "link": "https://jasdev.me/sequence-to-publisher",
             "updated": 1590339600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/publisher-temperature-primer",
             "title": "A publisher temperature primer",
             "link": "https://jasdev.me/publisher-temperature-primer",
             "updated": 1588093200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/prefix-duration-notes",
             "title": "A screencast on time-based prefixing in Combine",
             "link": "https://jasdev.me/prefix-duration-notes",
             "updated": 1587834000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/multicasting",
             "title": "Multicasting, Publisher.share(replay:), and ReplaySubject",
             "link": "https://jasdev.me/multicasting",
             "updated": 1587315600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/materialization-primer",
             "title": "A materialization primer",
             "link": "https://jasdev.me/materialization-primer",
             "updated": 1586365200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/set-output-type",
             "title": "setFailureType, setOutputType, and initial objects",
             "link": "https://jasdev.me/set-output-type",
             "updated": 1586106000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/fusion-primer",
             "title": "An operator fusion primer",
             "link": "https://jasdev.me/fusion-primer",
             "updated": 1585674000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/zip-many",
             "title": "Writing a Combine operator: variadic zipping",
             "link": "https://jasdev.me/zip-many",
             "updated": 1584982800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/conditional-flatmap",
             "title": "Conditional flatMap\u2019ing",
             "link": "https://jasdev.me/conditional-flatmap",
             "updated": 1584118800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/operators",
             "title": "Operator etymology",
             "link": "https://jasdev.me/operators",
             "updated": 1572627600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/duals",
             "title": "Deriving reactive from imperative: an introduction to duals",
             "link": "https://jasdev.me/duals",
             "updated": 1564074000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/substrate",
             "title": "Introducing substrate",
             "link": "https://jasdev.me/substrate",
             "updated": 1551891600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/bodies-of-work",
             "title": "Bodies of work",
             "link": "https://jasdev.me/bodies-of-work",
             "updated": 1549731600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/to-my-unread-books",
             "title": "To my unread books",
             "link": "https://jasdev.me/to-my-unread-books",
             "updated": 1546621200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/injuries",
             "title": "Invisible badges: handling long-term injuries",
             "link": "https://jasdev.me/injuries",
             "updated": 1533747600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/slowing-down-the-web",
             "title": "Slowing down the web",
             "link": "https://jasdev.me/slowing-down-the-web",
             "updated": 1530378000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/ladder-construction",
             "title": "Ladder construction",
             "link": "https://jasdev.me/ladder-construction",
             "updated": 1527440400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/seek-perspectives",
             "title": "Seek perspectives, not mentors",
             "link": "https://jasdev.me/seek-perspectives",
             "updated": 1525107600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/slowing-down-time",
             "title": "Slowing down time",
             "link": "https://jasdev.me/slowing-down-time",
             "updated": 1522688400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/alone-in-parallel",
             "title": "Alone in parallel",
             "link": "https://jasdev.me/alone-in-parallel",
             "updated": 1521565200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/digital-drift",
             "title": "Digital drift",
             "link": "https://jasdev.me/digital-drift",
             "updated": 1520182800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/planting-memories",
             "title": "Planting memories",
             "link": "https://jasdev.me/planting-memories",
             "updated": 1518973200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/time-under-tension",
             "title": "Time under tension",
             "link": "https://jasdev.me/time-under-tension",
             "updated": 1518440400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/ambient-intimacy",
             "title": "Ambient social intimacy",
             "link": "https://jasdev.me/ambient-intimacy",
             "updated": 1517763600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/handing-off-public-extension",
             "title": "Handing off public extension",
             "link": "https://jasdev.me/handing-off-public-extension",
             "updated": 1512493200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/emotional-ranges",
             "title": "Emotional ranges: a way to think about empathy",
             "link": "https://jasdev.me/emotional-ranges",
             "updated": 1510506000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/crafting-space",
             "title": "Crafting space to be ourselves",
             "link": "https://jasdev.me/crafting-space",
             "updated": 1508432400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/peeling-labels",
             "title": "Peeling off labels",
             "link": "https://jasdev.me/peeling-labels",
             "updated": 1507309200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/no-response-needed",
             "title": "No response needed",
             "link": "https://jasdev.me/no-response-needed",
             "updated": 1507309200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/thinking-about-thinking",
             "title": "Thinking about thinking",
             "link": "https://jasdev.me/thinking-about-thinking",
             "updated": 1506790800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/earned-fatigue",
             "title": "Chasing earned fatigue",
             "link": "https://jasdev.me/earned-fatigue",
             "updated": 1504890000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/high-cadence-versus-well-formed",
             "title": "The interplay between high-cadence and well-formed thoughts",
             "link": "https://jasdev.me/high-cadence-versus-well-formed",
             "updated": 1501261200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/content-givers",
             "title": "Content givers",
             "link": "https://jasdev.me/content-givers",
             "updated": 1498928400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/moving-too-fast",
             "title": "Are we moving too fast?",
             "link": "https://jasdev.me/moving-too-fast",
             "updated": 1498842000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/group-dynamics",
             "title": "A couple of thoughts on groups",
             "link": "https://jasdev.me/group-dynamics",
             "updated": 1498842000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/digital-attics",
             "title": "Digital attics and service shutdowns",
             "link": "https://jasdev.me/digital-attics",
             "updated": 1485104400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/whole-self",
             "title": "Pouring my whole self into work",
             "link": "https://jasdev.me/whole-self",
             "updated": 1483981200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/memory-reconsolidation",
             "title": "Why I\u2019m glad Twitter doesn\u2019t allow editing",
             "link": "https://jasdev.me/memory-reconsolidation",
             "updated": 1483203600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/utility-apps",
             "title": "Utility apps",
             "link": "https://jasdev.me/utility-apps",
             "updated": 1482944400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/infinite-feeds",
             "title": "Finite steps in infinite feeds: my story with information overload",
             "link": "https://jasdev.me/infinite-feeds",
             "updated": 1477155600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/commuting",
             "title": "257 hours on the F Line",
             "link": "https://jasdev.me/commuting",
             "updated": 1476896400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/monthly-checkins",
             "title": "Monthly check-ins",
             "link": "https://jasdev.me/monthly-checkins",
             "updated": 1471453200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/open-enums",
             "title": "Case closed: a dive into open enumerations",
             "link": "https://jasdev.me/open-enums",
             "updated": 1471021200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/nostalgia",
             "title": "Nostalgia and upper bounds",
             "link": "https://jasdev.me/nostalgia",
             "updated": 1470589200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/thoughts-on-wwdc",
             "title": "Thoughts on WWDC",
             "link": "https://jasdev.me/thoughts-on-wwdc",
             "updated": 1467824400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/nonmutating",
             "title": "Swift\u2019s nonmutating Keyword",
             "link": "https://jasdev.me/nonmutating",
             "updated": 1462035600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/private-selector-methods",
             "title": "Hiding selector methods",
             "link": "https://jasdev.me/private-selector-methods",
             "updated": 1458579600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/when-to-use-nonobjc",
             "title": "TIL about @nonobjc",
             "link": "https://jasdev.me/when-to-use-nonobjc",
             "updated": 1456506000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/x-at-y-previously-a-b-c",
             "title": "X at Y. Previously A, B, and C.",
             "link": "https://jasdev.me/x-at-y-previously-a-b-c",
             "updated": 1452963600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/24-hour-time",
             "title": "One surprise from using the 24-hour format",
             "link": "https://jasdev.me/24-hour-time",
             "updated": 1451494800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/value-of-conferences",
             "title": "The value of conferences",
             "link": "https://jasdev.me/value-of-conferences",
             "updated": 1447693200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/lets-get-meta",
             "title": "Let\u2019s get meta: Swift metatypes and cell reuse",
             "link": "https://jasdev.me/lets-get-meta",
             "updated": 1447606800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/anchors",
             "title": "Anchors",
             "link": "https://jasdev.me/anchors",
             "updated": 1445619600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/tracking-as-a-catalyst-for-change",
             "title": "Tracking as a catalyst for change",
             "link": "https://jasdev.me/tracking-as-a-catalyst-for-change",
             "updated": 1444150800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/made-beds-and-cold-showers",
             "title": "Made beds and cold showers",
             "link": "https://jasdev.me/made-beds-and-cold-showers",
             "updated": 1443200400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/xcode-plugins-and-tweaks",
             "title": "My favorite Xcode plugins and tweaks",
             "link": "https://jasdev.me/xcode-plugins-and-tweaks",
             "updated": 1442941200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/always-on-conversations",
             "title": "Always-on conversations",
             "link": "https://jasdev.me/always-on-conversations",
             "updated": 1442595600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/one-month-at-recurse-center",
             "title": "One month at Recurse Center",
             "link": "https://jasdev.me/one-month-at-recurse-center",
             "updated": 1441990800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/ios-interactive-notifications",
             "title": "A tour of iOS interactive notifications",
             "link": "https://jasdev.me/ios-interactive-notifications",
             "updated": 1441386000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/lessons-after-college",
             "title": "Lessons after college",
             "link": "https://jasdev.me/lessons-after-college",
             "updated": 1440954000,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/remote-work-and-loneliness",
             "title": "Remote work and loneliness",
             "link": "https://jasdev.me/remote-work-and-loneliness",
             "updated": 1440176400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/managing-my-pocket-queue",
             "title": "Managing my Pocket queue",
             "link": "https://jasdev.me/managing-my-pocket-queue",
             "updated": 1439053200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/tips-for-pair-programming",
             "title": "Tips for pair programming",
             "link": "https://jasdev.me/tips-for-pair-programming",
             "updated": 1438448400,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/intercepting-ios-traffic",
             "title": "Intercepting iOS network traffic",
             "link": "https://jasdev.me/intercepting-ios-traffic",
             "updated": 1436547600,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/daily-list",
             "title": "Daily list",
             "link": "https://jasdev.me/daily-list",
             "updated": 1412269200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/small-moments",
             "title": "Small moments",
             "link": "https://jasdev.me/small-moments",
             "updated": 1405702800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/growing-up-with-facebook",
             "title": "Growing up with Facebook",
             "link": "https://jasdev.me/growing-up-with-facebook",
             "updated": 1378141200,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         },
         {
             "id": "https://jasdev.me/on-forming-habits",
             "title": "On forming habits",
             "link": "https://jasdev.me/on-forming-habits",
             "updated": 1376326800,
-            "site_name": "Jasdev Singh\u2019s Blog"
+            "site_url": "https://jasdev.me"
         }
     ]
 }

@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://silverhammermba.github.io/blog/2024/01/06/stack-overflow",
             "title": "Stack Overflow is working as intended",
             "link": "https://silverhammermba.github.io/blog/2024/01/06/stack-overflow",
             "updated": 1704474000,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2023/11/14/string-length",
             "title": "A universal definition of string length",
             "link": "https://silverhammermba.github.io/blog/2023/11/14/string-length",
             "updated": 1699894800,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2023/10/02/android-versions",
             "title": "Android Versions",
             "link": "https://silverhammermba.github.io/blog/2023/10/02/android-versions",
             "updated": 1696179600,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2023/02/08/animation",
             "title": "Easy Animations in DragonRuby with Enumerators",
             "link": "https://silverhammermba.github.io/blog/2023/02/08/animation",
             "updated": 1675789200,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2023/01/06/gradle",
             "title": "Gradle still sucks",
             "link": "https://silverhammermba.github.io/blog/2023/01/06/gradle",
             "updated": 1672938000,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2022/07/22/language",
             "title": "Required features in your new programming language",
             "link": "https://silverhammermba.github.io/blog/2022/07/22/language",
             "updated": 1658422800,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2022/07/10/ui",
             "title": "Every programmer should care about UI design",
             "link": "https://silverhammermba.github.io/blog/2022/07/10/ui",
             "updated": 1657386000,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2022/05/31/child-paradox",
             "title": "A Paradoxical Error",
             "link": "https://silverhammermba.github.io/blog/2022/05/31/child-paradox",
             "updated": 1653930000,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2022/04/13/plans",
             "title": "Software Designs",
             "link": "https://silverhammermba.github.io/blog/2022/04/13/plans",
             "updated": 1649782800,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         },
         {
             "id": "https://silverhammermba.github.io/blog/2022/02/19/dragonruby",
             "title": "Thoughts on DragonRuby Game Toolkit",
             "link": "https://silverhammermba.github.io/blog/2022/02/19/dragonruby",
             "updated": 1645203600,
-            "site_name": "Floating little leaves of code"
+            "site_url": "https://silverhammermba.github.io/blog/"
         }
     ]
 }

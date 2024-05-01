@@ -1,131 +1,131 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://grantisom.micro.blog/2023/07/19/accessibility-testing-in.html",
             "title": "Accessibility Testing in Maestro",
             "link": "https://grantisom.com/2023/07/19/accessibility-testing-in.html",
             "updated": 1689734027,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2023/05/15/using-act-to.html",
             "title": "Using Act to Run Github Actions Locally",
             "link": "https://grantisom.com/2023/05/15/using-act-to.html",
             "updated": 1684141618,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2023/01/31/expo-app-config.html",
             "title": "Expo App Config Setup for Multiple Environments",
             "link": "https://grantisom.com/2023/01/31/expo-app-config.html",
             "updated": 1675178545,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2023/01/14/notion-for-software.html",
             "title": "Notion 101 for Software Engineers: How to Use it to Stay Organized and Productive",
             "link": "https://grantisom.com/2023/01/14/notion-for-software.html",
             "updated": 1673681338,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2023/01/02/mustread-books-for.html",
             "title": "9 Must-Read Books for Software Engineers in 2023",
             "link": "https://grantisom.com/2023/01/02/mustread-books-for.html",
             "updated": 1672656236,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2022/11/07/years-at-illuminate.html",
             "title": "2 Years at Illuminate, A Retrospective",
             "link": "https://grantisom.com/2022/11/07/years-at-illuminate.html",
             "updated": 1667818266,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2020/09/28/next-chapter.html",
             "title": "Next Chapter",
             "link": "https://grantisom.com/2020/09/27/next-chapter.html",
             "updated": 1601204400,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2020/05/29/using-safari-to.html",
             "title": "Using Safari to Inspect Web Views in iOS Simulators & Devices",
             "link": "https://grantisom.com/2020/05/28/using-safari-to.html",
             "updated": 1590663600,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2020/05/23/my-top-apps.html",
             "title": "My Top 17 Apps for Mobile Developers in 2020",
             "link": "https://grantisom.com/2020/05/22/my-top-apps.html",
             "updated": 1590145200,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2020/02/10/playlists.html",
             "title": "2019 Playlists",
             "link": "https://grantisom.com/2020/02/09/playlists.html",
             "updated": 1581246000,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/06/09/wwdc-in-review.html",
             "title": "WWDC 2019, In Review",
             "link": "https://grantisom.com/2019/06/08/wwdc-in-review.html",
             "updated": 1559991600,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/06/08/wwdc-day.html",
             "title": "WWDC Day 4",
             "link": "https://grantisom.com/2019/06/07/wwdc-day.html",
             "updated": 1559905200,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/06/07/wwdc-day.html",
             "title": "WWDC Day 3",
             "link": "https://grantisom.com/2019/06/06/wwdc-day.html",
             "updated": 1559818800,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/06/06/wwdc-day.html",
             "title": "WWDC Day 2",
             "link": "https://grantisom.com/2019/06/05/wwdc-day.html",
             "updated": 1559732400,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/06/04/wwdc-day.html",
             "title": "WWDC Day 1",
             "link": "https://grantisom.com/2019/06/03/wwdc-day.html",
             "updated": 1559559600,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2019/05/30/listwithme-creating-an.html",
             "title": "ListWithMe, Creating an iMessage-only Application",
             "link": "https://grantisom.com/2019/05/29/listwithme-creating-an.html",
             "updated": 1559127600,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2018/11/27/playlists-for-the.html",
             "title": "Playlists for the Seasons",
             "link": "https://grantisom.com/2018/11/26/playlists-for-the.html",
             "updated": 1543230000,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         },
         {
             "id": "http://grantisom.micro.blog/2018/04/02/reading-list-for.html",
             "title": "Reading List for 2018",
             "link": "https://grantisom.com/2018/04/01/reading-list-for.html",
             "updated": 1522580400,
-            "site_name": "Grant Isom's Blog"
+            "site_url": "https://grantisom.com"
         }
     ]
 }

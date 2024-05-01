@@ -1,75 +1,75 @@
 {
-    "updated": 1714471071,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://objectbox.io/?p=256956",
             "title": "Edge AI: The era of on-device AI",
             "link": "https://objectbox.io/on-device-vector-databases-and-edge-ai/",
             "updated": 1713849725,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226856",
             "title": "In-Memory Database Use Cases",
             "link": "https://objectbox.io/in-memory-database-use-cases/",
             "updated": 1707963076,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226632",
             "title": "Data Viewer for Objects \u2013 announcing ObjectBox Admin",
             "link": "https://objectbox.io/data-viewer-for-objects-announcing-objectbox-admin/",
             "updated": 1699950311,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226395",
             "title": "Vector Databases for Edge AI",
             "link": "https://objectbox.io/vector-databases-for-edge-ai/",
             "updated": 1691569119,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226334",
             "title": "Vector Database Release for Flutter / Dart + Python",
             "link": "https://objectbox.io/vector-database-flutter/",
             "updated": 1686635822,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "http://objectbox.io/?p=31173",
             "title": "SQLite and SQLite alternatives \u2013 a comprehensive overview",
             "link": "https://objectbox.io/sqlite-alternatives/",
             "updated": 1686122478,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226178",
             "title": "Vector types (aka arrays) added with ObjectBox Java 3.6 release",
             "link": "https://objectbox.io/vector-embeddings-support-local-java-database/",
             "updated": 1685590586,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=226084",
             "title": "Vector databases \u2013 a look at the AI database market with a comprehensive comparison matrix",
             "link": "https://objectbox.io/vector-database/",
             "updated": 1685420118,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=222692",
             "title": "What is an Edge Database, and why do you need one?",
             "link": "https://objectbox.io/what-is-an-edge-database-and-why-do-you-need-one/",
             "updated": 1685420043,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         },
         {
             "id": "https://objectbox.io/?p=49882",
             "title": "Why do we need Edge Computing for a sustainable future?",
             "link": "https://objectbox.io/why-do-we-need-edge-computing-for-a-sustainable-future/",
             "updated": 1685021436,
-            "site_name": "ObjectBox database blog"
+            "site_url": "https://objectbox.io/blog/"
         }
     ]
 }

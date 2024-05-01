@@ -1,40 +1,40 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
-        {
-            "id": "https://medium.com/p/fb5110ed4bb7",
-            "title": "8 Tidbits from WWDC23",
-            "link": "https://medium.com/@fraancessco/8-tidbits-from-wwdc23-fb5110ed4bb7?source=rss-c87a8bf31dbc------2",
-            "updated": 1687778707,
-            "site_name": "Francesco Marisaldi on Medium"
-        },
         {
             "id": "https://medium.com/p/f17b865fbdbc",
             "title": "10 Tips on Developing iOS 14 Widgets",
             "link": "https://medium.com/swlh/10-tips-on-developing-ios-14-widgets-f17b865fbdbc?source=rss-c87a8bf31dbc------2",
             "updated": 1690861182,
-            "site_name": "Francesco Marisaldi on Medium"
+            "site_url": "https://medium.com/@fraancessco"
         },
         {
             "id": "https://medium.com/p/5dba158e2903",
             "title": "10 Code Snippets  from WWDC20",
             "link": "https://medium.com/swlh/10-code-snippets-from-wwdc20-5dba158e2903?source=rss-c87a8bf31dbc------2",
             "updated": 1690861141,
-            "site_name": "Francesco Marisaldi on Medium"
+            "site_url": "https://medium.com/@fraancessco"
         },
         {
-            "id": "https://medium.com/p/39bf168be8f",
-            "title": "The Evolution of Swift Playgrounds",
-            "link": "https://medium.com/swlh/the-evolution-of-swift-playgrounds-39bf168be8f?source=rss-c87a8bf31dbc------2",
-            "updated": 1617794157,
-            "site_name": "Francesco Marisaldi on Medium"
+            "id": "https://medium.com/p/fb5110ed4bb7",
+            "title": "8 Tidbits from WWDC23",
+            "link": "https://medium.com/@fraancessco/8-tidbits-from-wwdc23-fb5110ed4bb7?source=rss-c87a8bf31dbc------2",
+            "updated": 1687778707,
+            "site_url": "https://medium.com/@fraancessco"
         },
         {
             "id": "https://medium.com/p/d8b01c3a0d8c",
             "title": "Dark Mode Tips for iOS",
             "link": "https://levelup.gitconnected.com/dark-mode-one-year-later-d8b01c3a0d8c?source=rss-c87a8bf31dbc------2",
             "updated": 1675498690,
-            "site_name": "Francesco Marisaldi on Medium"
+            "site_url": "https://medium.com/@fraancessco"
+        },
+        {
+            "id": "https://medium.com/p/39bf168be8f",
+            "title": "The Evolution of Swift Playgrounds",
+            "link": "https://medium.com/swlh/the-evolution-of-swift-playgrounds-39bf168be8f?source=rss-c87a8bf31dbc------2",
+            "updated": 1617794157,
+            "site_url": "https://medium.com/@fraancessco"
         }
     ]
 }

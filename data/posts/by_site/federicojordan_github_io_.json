@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://federicojordan.github.io/2022/07/07/using-schemes-and--xcconfig-files-to-organize-build-deliveries-in-ios",
             "title": "Using Schemes and\u00a0.xcconfig Files to Organize Build Deliveries in iOS",
             "link": "https://federicojordan.github.io/2022/07/07/using-schemes-and-xcconfig-files-to-organize-build-deliveries-in-ios.html",
             "updated": 1657126800,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/2021/09/07/creating-a-fastlane-action-to-publish-code-coverage-on-github",
             "title": "Creating a Fastlane action to publish code coverage on Github",
             "link": "https://federicojordan.github.io/2021/09/07/creating-a-fastlane-action-to-publish-code-coverage-on-github.html",
             "updated": 1630947600,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2020/09/22/simplertapp--how-to-use-heroku-scheduler-to-run-cron-jobs-3ff1c0c1e1f7",
             "title": "SimpleRTApp: How to use Heroku Scheduler to run cron jobs",
             "link": "https://federicojordan.github.io/blog/2020/09/22/simplertapp-how-to-use-heroku-scheduler-to-run-cron-jobs-3ff1c0c1e1f7.html",
             "updated": 1600707600,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2020/09/16/simplertapp--deploying-a-node-js-app-to-heroku-fa47197309aa",
             "title": "SimpleRTApp: Deploying a Node.js app to Heroku",
             "link": "https://federicojordan.github.io/blog/2020/09/16/simplertapp-deploying-a-node-js-app-to-heroku-fa47197309aa.html",
             "updated": 1600189200,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2020/09/10/simplertapp--posting-tweets-thought-notifications-with-ios-custom-actions-ccdb7818d898",
             "title": "SimpleRTApp: Posting tweets thought notifications with iOS custom actions",
             "link": "https://federicojordan.github.io/blog/2020/09/10/simplertapp-posting-tweets-thought-notifications-with-ios-custom-actions-ccdb7818d898.html",
             "updated": 1599670800,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2020/09/07/simplertapp--using-apn-to-send-ios-pushes-from-a-node-js-api-c01fec726cc",
             "title": "SimpleRTApp: Using APN to send iOS pushes from a Node.js API",
             "link": "https://federicojordan.github.io/blog/2020/09/07/simplertapp-using-apn-to-send-ios-pushes-from-a-node-js-api-c01fec726cc.html",
             "updated": 1599411600,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2019/08/04/simplertapp--c-mo-usar-heroku-scheduler-para-ejecutar-crones-651235a2a153",
             "title": "SimpleRTApp: C\u00f3mo usar Heroku Scheduler para ejecutar crones",
             "link": "https://federicojordan.github.io/blog/2019/08/04/simplertapp-c-mo-usar-heroku-scheduler-para-ejecutar-crones-651235a2a153.html",
             "updated": 1564851600,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2019/04/09/simplertapp--deploy-de-una-app-en-node-js-a-heroku-b367df39f185",
             "title": "SimpleRTApp: Deploy de una app en Node.js a Heroku",
             "link": "https://federicojordan.github.io/blog/2019/04/09/simplertapp-deploy-de-una-app-en-node-js-a-heroku-b367df39f185.html",
             "updated": 1554742800,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2018/12/06/simplertapp--env-o-de-tweets-mediante-notifications-con-custom-actions-para-ios-e6859c835567",
             "title": "SimpleRTApp: Env\u00edo de tweets mediante notifications con custom actions para iOS",
             "link": "https://federicojordan.github.io/blog/2018/12/06/simplertapp-env-o-de-tweets-mediante-notifications-con-custom-actions-para-ios-e6859c835567.html",
             "updated": 1544029200,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         },
         {
             "id": "https://federicojordan.github.io/blog/2018/11/12/simplertapp--api-rest-usage-on-swift-with-alamofire-codable-ce4421027f5f",
             "title": "SimpleRTApp: API REST usage on Swift with Alamofire+Codable",
             "link": "https://federicojordan.github.io/blog/2018/11/12/simplertapp-api-rest-usage-on-swift-with-alamofire-codable-ce4421027f5f.html",
             "updated": 1541955600,
-            "site_name": "Federico Jordan\u2019s Blog"
+            "site_url": "https://federicojordan.github.io/"
         }
     ]
 }

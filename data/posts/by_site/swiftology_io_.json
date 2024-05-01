@@ -1,40 +1,40 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://swiftology.io/articles/tydd-part-3",
             "title": "Witness pattern \u2014 type-safe access control",
             "link": "https://swiftology.io/articles/tydd-part-3",
             "updated": 1708308000,
-            "site_name": "Swiftology.io"
+            "site_url": "https://swiftology.io/"
         },
         {
             "id": "https://swiftology.io/articles/tydd-part-2",
             "title": "Type-safe validation",
             "link": "https://swiftology.io/articles/tydd-part-2",
             "updated": 1708304400,
-            "site_name": "Swiftology.io"
+            "site_url": "https://swiftology.io/"
         },
         {
             "id": "https://swiftology.io/articles/tydd-part-1-fundamentals",
             "title": "Fundamentals of type-driven code",
             "link": "https://swiftology.io/articles/tydd-part-1-fundamentals",
             "updated": 1708300800,
-            "site_name": "Swiftology.io"
+            "site_url": "https://swiftology.io/"
         },
         {
             "id": "https://swiftology.io/articles/typestate",
             "title": "Typestate - the new Design Pattern in Swift 5.9",
             "link": "https://swiftology.io/articles/typestate",
             "updated": 1702605600,
-            "site_name": "Swiftology.io"
+            "site_url": "https://swiftology.io/"
         },
         {
             "id": "https://swiftology.io/articles/structural-typing",
             "title": "Greater type safety with Structural Typing in Swift",
             "link": "https://swiftology.io/articles/structural-typing",
             "updated": 1699236000,
-            "site_name": "Swiftology.io"
+            "site_url": "https://swiftology.io/"
         }
     ]
 }

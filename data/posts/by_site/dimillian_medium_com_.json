@@ -1,75 +1,75 @@
 {
-    "updated": 1714470976,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/04511be7fbd1",
             "title": "How to do pagination in SwiftUI",
             "link": "https://medium.engineering/how-to-do-pagination-in-swiftui-04511be7fbd1?source=rss-b067c9115d59------2",
             "updated": 1712817184,
-            "site_name": "Thomas Ricouard on Medium"
-        },
-        {
-            "id": "https://medium.com/p/0ae26881e76e",
-            "title": "My own five steps for getting into something new",
-            "link": "https://dimillian.medium.com/my-own-five-steps-for-getting-into-something-new-0ae26881e76e?source=rss-b067c9115d59------2",
-            "updated": 1712627825,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/a58b239e9e3e",
             "title": "Removing the M from MVVM with SwiftUI",
             "link": "https://blog.stackademic.com/removing-the-m-from-mvvm-with-swiftui-a58b239e9e3e?source=rss-b067c9115d59------2",
             "updated": 1712699079,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
+        },
+        {
+            "id": "https://medium.com/p/0ae26881e76e",
+            "title": "My own five steps for getting into something new",
+            "link": "https://dimillian.medium.com/my-own-five-steps-for-getting-into-something-new-0ae26881e76e?source=rss-b067c9115d59------2",
+            "updated": 1712627825,
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/a199ee296cff",
             "title": "A year of Ice Cubes",
             "link": "https://dimillian.medium.com/a-year-of-ice-cubes-a199ee296cff?source=rss-b067c9115d59------2",
             "updated": 1703840506,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/c4e7990a5915",
             "title": "Adding AI-generated image description to Ice Cubes",
             "link": "https://dimillian.medium.com/adding-ai-generated-image-description-to-ice-cubes-c4e7990a5915?source=rss-b067c9115d59------2",
             "updated": 1702026932,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/6e6973b44bf9",
             "title": "Migrating a simple structure from UserDefault to SwiftData",
             "link": "https://dimillian.medium.com/migrating-a-simple-structure-from-userdefault-to-swiftdata-6e6973b44bf9?source=rss-b067c9115d59------2",
             "updated": 1702009234,
-            "site_name": "Thomas Ricouard on Medium"
-        },
-        {
-            "id": "https://medium.com/p/9cefb8353beb",
-            "title": "How to use the new inspector SwiftUI view modifier",
-            "link": "https://dimillian.medium.com/how-to-use-the-new-inspector-swiftui-view-modifier-9cefb8353beb?source=rss-b067c9115d59------2",
-            "updated": 1695268433,
-            "site_name": "Thomas Ricouard on Medium"
-        },
-        {
-            "id": "https://medium.com/p/9c924296a434",
-            "title": "The sad state of @AppStorage and the Observable framework",
-            "link": "https://dimillian.medium.com/the-sad-state-of-appstorage-and-the-observable-framework-9c924296a434?source=rss-b067c9115d59------2",
-            "updated": 1695714674,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/821f90deebee",
             "title": "Migrating Ice Cubes to the SwiftUI Observation framework",
             "link": "https://dimillian.medium.com/migrating-ice-cubes-to-the-swiftui-observation-framework-821f90deebee?source=rss-b067c9115d59------2",
             "updated": 1701761448,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
+        },
+        {
+            "id": "https://medium.com/p/9c924296a434",
+            "title": "The sad state of @AppStorage and the Observable framework",
+            "link": "https://dimillian.medium.com/the-sad-state-of-appstorage-and-the-observable-framework-9c924296a434?source=rss-b067c9115d59------2",
+            "updated": 1695714674,
+            "site_url": "https://dimillian.medium.com/"
+        },
+        {
+            "id": "https://medium.com/p/9cefb8353beb",
+            "title": "How to use the new inspector SwiftUI view modifier",
+            "link": "https://dimillian.medium.com/how-to-use-the-new-inspector-swiftui-view-modifier-9cefb8353beb?source=rss-b067c9115d59------2",
+            "updated": 1695268433,
+            "site_url": "https://dimillian.medium.com/"
         },
         {
             "id": "https://medium.com/p/6813b59e4b24",
             "title": "Building a ChatGPT Plugin for Medium",
             "link": "https://medium.engineering/building-a-chatgpt-plugin-for-medium-6813b59e4b24?source=rss-b067c9115d59------2",
             "updated": 1681973458,
-            "site_name": "Thomas Ricouard on Medium"
+            "site_url": "https://dimillian.medium.com/"
         }
     ]
 }

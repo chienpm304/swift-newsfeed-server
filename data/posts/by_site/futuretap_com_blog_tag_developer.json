@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.futuretap.com/?p=9229",
             "title": "InAppSettingsKit 3.0",
             "link": "https://www.futuretap.com/blog/inappsettingskit-3-0",
             "updated": 1589473338,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=7861",
             "title": "Fix for the missing network activity indicator on iPhone X",
             "link": "https://www.futuretap.com/blog/fix-for-the-missing-network-activity-indicator-on-iphone-x",
             "updated": 1515124848,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=7233",
             "title": "The iMessage App Store: First Thoughts & Observations",
             "link": "https://www.futuretap.com/blog/the-imessage-app-store-first-thoughts-observations",
             "updated": 1473848867,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=6234",
             "title": "9% Apple Watch users",
             "link": "https://www.futuretap.com/blog/9-percent-apple-watch-users",
             "updated": 1438586599,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=4313",
             "title": "Retrieve iOS device colors",
             "link": "https://www.futuretap.com/blog/device-colors",
             "updated": 1381488077,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=3493",
             "title": "Revised App Store Featured Entry Scraper",
             "link": "https://www.futuretap.com/blog/revised-app-store-featured-entry-scraper",
             "updated": 1341815938,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=1969",
             "title": "Simulating Core Location",
             "link": "https://www.futuretap.com/blog/simulating-core-location",
             "updated": 1286520349,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=1873",
             "title": "PatentGate \u2014 Apple responded, resolved amicably",
             "link": "https://www.futuretap.com/blog/patentgate-apple-responded",
             "updated": 1281515539,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=1854",
             "title": "The patent case we haven\u2019t called",
             "link": "https://www.futuretap.com/blog/the-patent-case-we-havent-called",
             "updated": 1281027397,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         },
         {
             "id": "http://www.futuretap.com/?p=1315",
             "title": "InAppSettingsKit: open settings framework",
             "link": "https://www.futuretap.com/blog/inappsettingskit",
             "updated": 1263265184,
-            "site_name": "The FutureBlog"
+            "site_url": "https://www.futuretap.com/blog?tag=developer"
         }
     ]
 }

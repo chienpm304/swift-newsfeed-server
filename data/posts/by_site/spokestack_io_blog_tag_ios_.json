@@ -1,278 +1,278 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.spokestack.io/blog/learn-to-use-custom-wake-word-and-text-to-speech-on-a-raspberry-pi",
             "title": "Learn to Use Custom Wake Word and Text-to-Speech on a Raspberry Pi",
             "link": "https://www.spokestack.io/blog/learn-to-use-custom-wake-word-and-text-to-speech-on-a-raspberry-pi",
             "updated": 1624381200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/whats-a-keyword-model",
             "title": "What's a Keyword Model, and Why Would I Use One?",
             "link": "https://www.spokestack.io/blog/whats-a-keyword-model",
             "updated": 1623603600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/keyword-recognizer-python-tutorial",
             "title": "A Swear Jar in 100 Lines of Python",
             "link": "https://www.spokestack.io/blog/keyword-recognizer-python-tutorial",
             "updated": 1623258000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/what-are-personal-ai-models",
             "title": "What Are Personal AI Models?",
             "link": "https://www.spokestack.io/blog/what-are-personal-ai-models",
             "updated": 1623258000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/how-to-change-alexas-voice",
             "title": "How to Change Alexa's Voice",
             "link": "https://www.spokestack.io/blog/how-to-change-alexas-voice",
             "updated": 1622998800,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/introducing-spokestack-maker",
             "title": "Introducing Spokestack Maker - AutoML Personal Voice for Creators",
             "link": "https://www.spokestack.io/blog/introducing-spokestack-maker",
             "updated": 1621962000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/killer-voice-app",
             "title": "Why Haven't We Seen a Killer Voice App?",
             "link": "https://www.spokestack.io/blog/killer-voice-app",
             "updated": 1620579600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/tfjs-conversion-in-python",
             "title": "Converting a TensorFlow Model to TensorFlow.js in Python",
             "link": "https://www.spokestack.io/blog/tfjs-conversion-in-python",
             "updated": 1618160400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/building-a-question-answering-bot-with-python",
             "title": "Question Answering With Spokestack and Transformers",
             "link": "https://www.spokestack.io/blog/building-a-question-answering-bot-with-python",
             "updated": 1610470800,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-in-android",
             "title": "Integrating Spokestack in Android",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-in-android",
             "updated": 1608138000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-3",
             "title": "Integrating Spokestack with Google App Actions, Part 3",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-3",
             "updated": 1607965200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-2",
             "title": "Integrating Spokestack with Google App Actions, Part 2",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-2",
             "updated": 1606669200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-1",
             "title": "Integrating Spokestack with Google App Actions, Part 1",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-google-app-actions/part-1",
             "updated": 1606064400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/introducing-the-spokestack-python-library",
             "title": "Spokestack Python Library",
             "link": "https://www.spokestack.io/blog/introducing-the-spokestack-python-library",
             "updated": 1601917200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-python-using-spokestack",
             "title": "Porting the Alexa Minecraft Skill to Python Using Spokestack",
             "link": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-python-using-spokestack",
             "updated": 1601830800,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/why-we-built-spokestack-tray",
             "title": "Why We Built Spokestack Tray",
             "link": "https://www.spokestack.io/blog/why-we-built-spokestack-tray",
             "updated": 1600880400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/introducing-spokestack-tray",
             "title": "Introducing Spokestack Tray \u2013 a Turnkey Voice Interface for Mobile Apps",
             "link": "https://www.spokestack.io/blog/introducing-spokestack-tray",
             "updated": 1600621200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-in-ios",
             "title": "Integrating Spokestack in iOS",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-in-ios",
             "updated": 1600362000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/integrating-spokestack-in-react-native",
             "title": "Integrating Spokestack in React Native",
             "link": "https://www.spokestack.io/blog/integrating-spokestack-in-react-native",
             "updated": 1598893200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/what-if-youre-the-product",
             "title": "What If You're the Product?",
             "link": "https://www.spokestack.io/blog/what-if-youre-the-product",
             "updated": 1595955600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/jovo-support-for-spokestack-enables-mobile-app-voice-assistants",
             "title": "Jovo Support for Spokestack Enables Mobile App Voice Assistants",
             "link": "https://www.spokestack.io/blog/jovo-support-for-spokestack-enables-mobile-app-voice-assistants",
             "updated": 1594746000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/wakewords-for-mobile-apps",
             "title": "Wake Words for Mobile Apps",
             "link": "https://www.spokestack.io/blog/wakewords-for-mobile-apps",
             "updated": 1594227600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/today-we-export-to-independence",
             "title": "Today, we export to independence!",
             "link": "https://www.spokestack.io/blog/today-we-export-to-independence",
             "updated": 1593363600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/choosing-the-right-ios-wakeword-service",
             "title": "Choosing the Right iOS Wake Word Service",
             "link": "https://www.spokestack.io/blog/choosing-the-right-ios-wakeword-service",
             "updated": 1592240400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/announcing-the-export-to-independence-contest",
             "title": "Announcing the Export to Independence Contest",
             "link": "https://www.spokestack.io/blog/announcing-the-export-to-independence-contest",
             "updated": 1592154000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/implementing-reprompts-with-spokestack",
             "title": "Implementing Reprompts with Spokestack",
             "link": "https://www.spokestack.io/blog/implementing-reprompts-with-spokestack",
             "updated": 1591653600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-android-using-spokestack",
             "title": "Porting the Alexa Minecraft Skill to Android Using Spokestack",
             "link": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-android-using-spokestack",
             "updated": 1591635600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-ios-using-spokestack",
             "title": "Porting the Alexa Minecraft Skill to iOS Using Spokestack",
             "link": "https://www.spokestack.io/blog/porting-the-alexa-minecraft-skill-to-ios-using-spokestack",
             "updated": 1591549204,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-3",
             "title": "Porting a Smart Speaker Voice App - Part 3",
             "link": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-3",
             "updated": 1591549202,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-2",
             "title": "Porting a Smart Speaker Voice App - Part 2",
             "link": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-2",
             "updated": 1591549201,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-1",
             "title": "Porting a Smart Speaker Voice App to Mobile - Part 1",
             "link": "https://www.spokestack.io/blog/porting-a-smart-speaker-voice-app-to-mobile/part-1",
             "updated": 1591549200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/test-your-voice-assistant-with-real-people",
             "title": "Test Your Voice Assistant with Real People",
             "link": "https://www.spokestack.io/blog/test-your-voice-assistant-with-real-people",
             "updated": 1591290000,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/what-to-include-in-a-survey",
             "title": "What to Include in a Survey",
             "link": "https://www.spokestack.io/blog/what-to-include-in-a-survey",
             "updated": 1590685200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/tts-outside-the-black-box",
             "title": "TTS, Outside the (Black) Box",
             "link": "https://www.spokestack.io/blog/tts-outside-the-black-box",
             "updated": 1590512400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/tools-and-tips-for-mapping-multimodal-products-remotely",
             "title": "Tools and Tips for Mapping Multimodal Products Remotely",
             "link": "https://www.spokestack.io/blog/tools-and-tips-for-mapping-multimodal-products-remotely",
             "updated": 1589821200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/user-research-for-voice-experiences",
             "title": "User Research for Voice Experiences",
             "link": "https://www.spokestack.io/blog/user-research-for-voice-experiences",
             "updated": 1589475600,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/what-is-an-independent-voice-assistant",
             "title": "What Is an Independent Voice Assistant?",
             "link": "https://www.spokestack.io/blog/what-is-an-independent-voice-assistant",
             "updated": 1589216400,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/keeping-perspective",
             "title": "Keeping Perspective",
             "link": "https://www.spokestack.io/blog/keeping-perspective",
             "updated": 1584637200,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         },
         {
             "id": "https://www.spokestack.io/blog/why-were-building-spokestack",
             "title": "Why We\u2019re Building Spokestack",
             "link": "https://www.spokestack.io/blog/why-were-building-spokestack",
             "updated": 1575910800,
-            "site_name": "Spokestack, Voice for iOS Blog"
+            "site_url": "https://www.spokestack.io/blog/tag/ios/"
         }
     ]
 }

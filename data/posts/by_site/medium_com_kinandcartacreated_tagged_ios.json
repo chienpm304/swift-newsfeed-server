@@ -1,68 +1,68 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://medium.com/p/fade83927c51",
             "title": "Build a custom Push Notification layout for iOS Apps",
             "link": "https://medium.com/kinandcartacreated/build-a-custom-push-notification-layout-for-ios-apps-fade83927c51?source=rss----22c4451bb0c1--ios",
             "updated": 1695367639,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
             "id": "https://medium.com/p/d1b2f238819e",
             "title": "How to build iOS Live Activity",
             "link": "https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e?source=rss----22c4451bb0c1--ios",
             "updated": 1694747987,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
             "id": "https://medium.com/p/9f427b0ce805",
             "title": "Basics of Testing in Xcode",
             "link": "https://medium.com/kinandcartacreated/basics-of-testing-in-xcode-9f427b0ce805?source=rss----22c4451bb0c1--ios",
             "updated": 1674991778,
-            "site_name": "Kin + Carta Create Medium (iOS)"
-        },
-        {
-            "id": "https://medium.com/p/60ada571bcb6",
-            "title": "Getting Started with Face Tracking in ARKit on iOS",
-            "link": "https://medium.com/kinandcartacreated/getting-started-with-face-tracking-in-arkit-on-ios-60ada571bcb6?source=rss----22c4451bb0c1--ios",
-            "updated": 1668409966,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
             "id": "https://medium.com/p/fea06fdad2a0",
             "title": "My Big 5 takeaways from iOS Unit Testing by Example",
             "link": "https://medium.com/kinandcartacreated/my-big-5-takeaways-from-ios-unit-testing-by-example-fea06fdad2a0?source=rss----22c4451bb0c1--ios",
             "updated": 1668420228,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
-            "id": "https://medium.com/p/3138b14a4ea9",
-            "title": "iOS Architecture\u200a\u2014\u200aThe VaMPiRe: Part 3",
-            "link": "https://medium.com/kinandcartacreated/ios-architecture-the-vampire-part-3-3138b14a4ea9?source=rss----22c4451bb0c1--ios",
-            "updated": 1655956254,
-            "site_name": "Kin + Carta Create Medium (iOS)"
-        },
-        {
-            "id": "https://medium.com/p/821da920a4c8",
-            "title": "iOS Architecture\u200a\u2014\u200aThe VaMPiRe: Part 2",
-            "link": "https://medium.com/kinandcartacreated/ios-architecture-the-vampire-part-2-821da920a4c8?source=rss----22c4451bb0c1--ios",
-            "updated": 1655956240,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "id": "https://medium.com/p/60ada571bcb6",
+            "title": "Getting Started with Face Tracking in ARKit on iOS",
+            "link": "https://medium.com/kinandcartacreated/getting-started-with-face-tracking-in-arkit-on-ios-60ada571bcb6?source=rss----22c4451bb0c1--ios",
+            "updated": 1668409966,
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
             "id": "https://medium.com/p/78e14b1cbb8",
             "title": "iOS Architecture\u200a\u2014\u200aThe VaMPiRe: Part 1",
             "link": "https://medium.com/kinandcartacreated/ios-architecture-the-vampire-part-1-78e14b1cbb8?source=rss----22c4451bb0c1--ios",
             "updated": 1656474620,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
+        },
+        {
+            "id": "https://medium.com/p/3138b14a4ea9",
+            "title": "iOS Architecture\u200a\u2014\u200aThe VaMPiRe: Part 3",
+            "link": "https://medium.com/kinandcartacreated/ios-architecture-the-vampire-part-3-3138b14a4ea9?source=rss----22c4451bb0c1--ios",
+            "updated": 1655956254,
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
+        },
+        {
+            "id": "https://medium.com/p/821da920a4c8",
+            "title": "iOS Architecture\u200a\u2014\u200aThe VaMPiRe: Part 2",
+            "link": "https://medium.com/kinandcartacreated/ios-architecture-the-vampire-part-2-821da920a4c8?source=rss----22c4451bb0c1--ios",
+            "updated": 1655956240,
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         },
         {
             "id": "https://medium.com/p/c6ac29dc0feb",
             "title": "Host and Automate your DocC documentation",
             "link": "https://medium.com/kinandcartacreated/host-and-automate-your-docc-documentation-c6ac29dc0feb?source=rss----22c4451bb0c1--ios",
             "updated": 1655383191,
-            "site_name": "Kin + Carta Create Medium (iOS)"
+            "site_url": "https://medium.com/kinandcartacreated/tagged/ios"
         }
     ]
 }

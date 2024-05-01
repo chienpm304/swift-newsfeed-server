@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://marcpalmer.net/?p=332",
             "title": "iPad Pros Podcast Ep.177 \u2014 Tim and I talk subtitling videos on iPad",
             "link": "https://marcpalmer.net/ipad-pros-podcast-ep-177-tim-and-i-talk-subtitling-videos-on-ipad/",
             "updated": 1691053843,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=274",
             "title": "Beware the cancelled interactive dismiss of SwiftUI popovers",
             "link": "https://marcpalmer.net/beware-the-cancelled-interactive-dismiss-of-swiftui-popovers/",
             "updated": 1605957056,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=271",
             "title": "Popovers on iPad in SwiftUI render ugly corner aliasing when forcing a colorScheme",
             "link": "https://marcpalmer.net/popovers-on-ipad-in-swiftui-render-ugly-corner-aliasing-when-forcing-a-colorscheme/",
             "updated": 1605872895,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=268",
             "title": "Using SwiftUI .hoverEffect modifier on iPad causes doubling of visuals",
             "link": "https://marcpalmer.net/using-swiftui-hovereffect-modifier-on-ipad-causes-doubling-of-visuals/",
             "updated": 1605785800,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=264",
             "title": "Sheets in SwiftUI on iPhone do not make the presenting view shrink behind",
             "link": "https://marcpalmer.net/sheets-in-swiftui-on-iphone-do-not-make-the-presenting-view-shrink-behind/",
             "updated": 1605698894,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=263",
             "title": "Are you seeing a weird change in text and image styles when you dismiss a SwiftUI popover?",
             "link": "https://marcpalmer.net/are-you-seeing-a-weird-change-in-text-and-image-styles-when-you-dismiss-a-swiftui-popover/",
             "updated": 1605612110,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=262",
             "title": "SwiftUI Popover replaces existing popover without moving it or pointing it at the correct view",
             "link": "https://marcpalmer.net/swiftui-popover-replaces-existing-popover-without-moving-it-or-pointing-it-at-the-correct-view/",
             "updated": 1605525494,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=260",
             "title": "SwiftUI adaptive Popover swipe-to-dismiss is broken",
             "link": "https://marcpalmer.net/swiftui-adaptive-popover-swipe-to-dismiss-is-broken/",
             "updated": 1605438825,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=259",
             "title": "Colouring the arrow of a Popover in SwiftUI",
             "link": "https://marcpalmer.net/colouring-the-arrow-of-a-popover-in-swiftui/",
             "updated": 1605351925,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         },
         {
             "id": "https://marcpalmer.net/?p=258",
             "title": "Me: \u201cWhy is my SwiftUI view not updating when the model changes?\u201d",
             "link": "https://marcpalmer.net/me-why-is-my-swiftui-view-not-updating-when-the-model-changes/",
             "updated": 1605268635,
-            "site_name": "Marc Palmer\u2019s Blog"
+            "site_url": "https://marcpalmer.net/category/ios/"
         }
     ]
 }

@@ -1,68 +1,68 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://devetc.org/code/2015/10/14/no-parameters.html",
             "title": "No parameters",
             "link": "http://devetc.org/code/2015/10/14/no-parameters.html",
             "updated": 1444812527,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2015/01/11/dependent-key-paths.html",
             "title": "Dependent Key Paths",
             "link": "http://devetc.org/code/2015/01/11/dependent-key-paths.html",
             "updated": 1420979159,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/11/08/mutable-return-values.html",
             "title": "Mutable Return Values",
             "link": "http://devetc.org/code/2014/11/08/mutable-return-values.html",
             "updated": 1415447878,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/07/07/auto-layout-and-views-that-wrap.html",
             "title": "Auto Layout and Views that Wrap",
             "link": "http://devetc.org/code/2014/07/07/auto-layout-and-views-that-wrap.html",
             "updated": 1404708902,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/05/24/tail-recursion-objc-and-arc.html",
             "title": "Tail Recursion, Objective-C, and ARC",
             "link": "http://devetc.org/code/2014/05/24/tail-recursion-objc-and-arc.html",
             "updated": 1400948775,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/05/17/safe-and-sane-key-paths.html",
             "title": "Compile-time checking plain key path strings",
             "link": "http://devetc.org/code/2014/05/17/safe-and-sane-key-paths.html",
             "updated": 1400323834,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/03/02/subclassing-delegates.html",
             "title": "Subclassing Delegates",
             "link": "http://devetc.org/code/2014/03/02/subclassing-delegates.html",
             "updated": 1393775722,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/02/16/strong-feelings-on-weak-outlets.html",
             "title": "Strong Feelings on Weak Outlets",
             "link": "http://devetc.org/code/2014/02/16/strong-feelings-on-weak-outlets.html",
             "updated": 1392523376,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         },
         {
             "id": "http://devetc.org/code/2014/01/21/timers-clocks-and-cocoa.html",
             "title": "Timers, Clocks, and Cocoa",
             "link": "http://devetc.org/code/2014/01/21/timers-clocks-and-cocoa.html",
             "updated": 1390284229,
-            "site_name": "dev etc"
+            "site_url": "http://devetc.org"
         }
     ]
 }

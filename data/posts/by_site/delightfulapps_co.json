@@ -1,19 +1,19 @@
 {
-    "updated": 1714471051,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://delightfulapps.co/swiftui/authentication/2020/03/09/authentication",
             "title": "Authenticating with a web service",
             "link": "https://delightfulapps.co/swiftui/authentication/2020/03/09/authentication.html",
             "updated": 1583712000,
-            "site_name": "Delightful Apps"
+            "site_url": "https://delightfulapps.co"
         },
         {
             "id": "https://delightfulapps.co/swiftui/animations/transitions/2020/03/07/transitions",
             "title": "Transitions in SwiftUI",
             "link": "https://delightfulapps.co/swiftui/animations/transitions/2020/03/07/transitions.html",
             "updated": 1583539200,
-            "site_name": "Delightful Apps"
+            "site_url": "https://delightfulapps.co"
         }
     ]
 }

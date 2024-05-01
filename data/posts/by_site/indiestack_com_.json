@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://indiestack.com/?p=1026",
             "title": "Conditional Xcode Build Settings",
             "link": "https://indiestack.com/2023/10/conditional-xcode-build-settings/",
             "updated": 1696409491,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=1024",
             "title": "Xcode 15 Duplicate Library Linker Warnings",
             "link": "https://indiestack.com/2023/10/xcode-15-duplicate-library-linker-warnings/",
             "updated": 1696409453,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=1018",
             "title": "View Clipping Changes in macOS 14 Sonoma",
             "link": "https://indiestack.com/2023/06/view-clipping-sonoma/",
             "updated": 1687850320,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=1015",
             "title": "Xcode Build Script Sandboxing",
             "link": "https://indiestack.com/2023/06/xcode-build-script-sandboxing/",
             "updated": 1686490863,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=1004",
             "title": "Magic Loading Property Wrappers",
             "link": "https://indiestack.com/2023/04/magic-loading-property-wrappers/",
             "updated": 1681724973,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=999",
             "title": "Inline AppleScript Documentation",
             "link": "https://indiestack.com/2023/01/inline-applescript-documentation/",
             "updated": 1672650937,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=989",
             "title": "Opting Out of TextKit\u00a02 in NSTextView",
             "link": "https://indiestack.com/2022/11/opting-out-of-textkit2-in-nstextview/",
             "updated": 1667980622,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=979",
             "title": "Designing macOS Menu Bar Extras",
             "link": "https://indiestack.com/2022/04/designing-macos-menu-bar-extras/",
             "updated": 1650956419,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=976",
             "title": "Quieting CVDisplayLink Logging",
             "link": "https://indiestack.com/2022/03/quieting-cvdisplaylink-logging/",
             "updated": 1647500899,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         },
         {
             "id": "https://indiestack.com/?p=963",
             "title": "Hacking NSAlert Button Appearance",
             "link": "https://indiestack.com/2022/02/hacking-nsalert-button-appearance/",
             "updated": 1645173071,
-            "site_name": "Indie Stack"
+            "site_url": "https://indiestack.com/"
         }
     ]
 }

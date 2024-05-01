@@ -1,117 +1,117 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://yoswift.dev/swift/forward-declaration",
             "title": "Forward declaring protocols",
             "link": "https://yoswift.dev/swift/forward-declaration",
             "updated": 1620192900,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/dependency-injection-swiftui-2",
             "title": "Declarative dependency injection in SwiftUI - 2",
             "link": "https://yoswift.dev/swiftui/dependency-injection-swiftui-2",
             "updated": 1595300700,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/dependency-injection-swiftui-1",
             "title": "Declarative dependency injection in SwiftUI - 1",
             "link": "https://yoswift.dev/swiftui/dependency-injection-swiftui-1",
             "updated": 1595214300,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/Xcode12_beta1",
             "title": "Playing around with Xcode 12 Beta1",
             "link": "https://yoswift.dev/swiftui/Xcode12_beta1",
             "updated": 1593840900,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/pinnedScrollableViews",
             "title": "Use PinnedScrollableViews to make sticky headers",
             "link": "https://yoswift.dev/swiftui/pinnedScrollableViews",
             "updated": 1592967900,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/computed-state",
             "title": "Computed State in SwiftUI view",
             "link": "https://yoswift.dev/swiftui/computed-state",
             "updated": 1592276700,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swift/recursive_objects",
             "title": "Recursive Objects",
             "link": "https://yoswift.dev/swift/recursive_objects",
             "updated": 1590785280,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/combine/parallel-download-using-combine",
             "title": "Multiple simultaneous network requests",
             "link": "https://yoswift.dev/combine/parallel-download-using-combine",
             "updated": 1590171900,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/combine/advanced-swift-quiz",
             "title": "Advanced Swift Quiz",
             "link": "https://yoswift.dev/combine/advanced-swift-quiz",
             "updated": 1589599800,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swift/Tree%20in%20Swift",
             "title": "Tree in Swift",
             "link": "https://yoswift.dev/swift/Tree%20in%20Swift",
             "updated": 1589085120,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/swiftui-twitter-basics",
             "title": "My Twitter SwiftUI collection",
             "link": "https://yoswift.dev/swiftui/swiftui-twitter-basics",
             "updated": 1588644000,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/statusbar-style",
             "title": "SwiftUI View and status bar style",
             "link": "https://yoswift.dev/swiftui/statusbar-style",
             "updated": 1588492800,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/swiftui-conditional-view",
             "title": "Conditionally render a different View",
             "link": "https://yoswift.dev/swiftui/swiftui-conditional-view",
             "updated": 1588484100,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swift/readonly-property",
             "title": "Readonly properties",
             "link": "https://yoswift.dev/swift/readonly-property",
             "updated": 1588397700,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/swiftui/swiftui-with-uilabel",
             "title": "Using UILabel in SwiftUI",
             "link": "https://yoswift.dev/swiftui/swiftui-with-uilabel",
             "updated": 1588397700,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         },
         {
             "id": "https://yoswift.dev/combine/keyboard-height",
             "title": "Keyboard handling using combine",
             "link": "https://yoswift.dev/combine/keyboard-height",
             "updated": 1588397700,
-            "site_name": "YoSwift"
+            "site_url": "https://yoswift.dev"
         }
     ]
 }

@@ -4,7 +4,7 @@ from utils import *
 slugs = ["development", "updates", "packages", "design", "marketing", "companies", "podcasts", "newsletters", "youtube", "twitch"]
 unsupported_site_urls = load_txt_lines("unsupported_site_urls.txt")
 IS_DEBUG = True
-LIMIT_NUMBER_OF_POST_PER_SITE = 1000
+LIMIT_NUMBER_OF_POST_PER_SITE = 50
 LIMIT_NUMBER_OF_POST_PER_SLUG = 1000
 
 def rebuild_sites():
@@ -74,6 +74,7 @@ def generate_posts_by_sites(sites):
             if not posts:
                 raise Exception("empty posts")
             else:
+                posts.sort(reverse=True, key=lambda t: t["updated"])
                 posts_result = {
                     "updated": current_timestamp(),
                     "posts": posts
@@ -90,7 +91,11 @@ def generate_posts_by_slugs(sites):
             file_path = "./posts/by_site/" + simplifized_url(site["site_url"]) + ".json"
             if not site["slug"] == slug or not os.path.isfile(file_path):
                 continue
+
             site_posts = load_json(file_path)["posts"]
+            # site_posts = list(filter(lambda t: (t["updated"] > 1525062600), site_posts))
+            # site_posts = site_posts[slice(LIMIT_NUMBER_OF_POST_PER_SITE)]
+            
             for post in site_posts:
                 slug_posts.append(post)
         
@@ -114,10 +119,15 @@ save_json(blogs, "blogs.json")
 sites = rebuild_sites()
 
 # 3. Generate `posts/by_site/{simplifized_site_url}_posts.json`s
+# TODO: multithread this method
 generate_posts_by_sites(sites)
 
 # 4. Generate `posts/by_slug/{slug}.json}
 generate_posts_by_slugs(sites)
+
+# 5. Get new posts for notification
+
+# 6. Get recent posts 
 
 # print(all_feeds)
 

@@ -1,26 +1,26 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/2b3e3c28a194",
             "title": "Bringing Zeplin Mobile to iPadOS",
             "link": "https://medium.com/snapp-mobile/bringing-zeplin-mobile-to-ipados-2b3e3c28a194?source=rss-5f805460b514------2",
             "updated": 1593076612,
-            "site_name": "Ilian Konchev on Medium"
+            "site_url": "https://medium.com/@iliankonchev"
         },
         {
             "id": "https://medium.com/p/def2c3d07cd2",
             "title": "Building our first SwiftUI-only app\u200a\u2014\u200aLearnCyrillic",
             "link": "https://medium.com/snapp-mobile/building-our-first-swiftui-only-app-learncyrillic-def2c3d07cd2?source=rss-5f805460b514------2",
             "updated": 1592304628,
-            "site_name": "Ilian Konchev on Medium"
+            "site_url": "https://medium.com/@iliankonchev"
         },
         {
             "id": "https://medium.com/p/9e481bc42c5a",
             "title": "On project dependencies",
             "link": "https://medium.com/snapp-mobile/on-project-dependencies-9e481bc42c5a?source=rss-5f805460b514------2",
             "updated": 1561533221,
-            "site_name": "Ilian Konchev on Medium"
+            "site_url": "https://medium.com/@iliankonchev"
         }
     ]
 }

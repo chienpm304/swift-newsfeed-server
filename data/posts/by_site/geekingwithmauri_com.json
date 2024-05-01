@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://geekingwithmauri.com/swift/swiftable2023",
             "title": "Swiftable 2023 - My First talk",
             "link": "https://geekingwithmauri.com/swift/swiftable2023.html",
             "updated": 1701882000,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/swift/sharingWithSwift",
             "title": "Tracking down effectiveness regarding the sharing feature on Swift",
             "link": "https://geekingwithmauri.com/swift/sharingWithSwift.html",
             "updated": 1666630800,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/swift/localizationWithSwiftUI",
             "title": "Guarantee localization with SwitfUI",
             "link": "https://geekingwithmauri.com/swift/localizationWithSwiftUI.html",
             "updated": 1636304400,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/work/testing",
             "title": "Unit tests are not silver bullets",
             "link": "https://geekingwithmauri.com/work/testing.html",
             "updated": 1632848400,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/work/refactoring",
             "title": "What refactoring is not",
             "link": "https://geekingwithmauri.com/work/refactoring.html",
             "updated": 1631379600,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/books/drivingTechChange",
             "title": "Books I\u2019ve read: Driving Technical Change (by Terrence Ryan)",
             "link": "https://geekingwithmauri.com/books/drivingTechChange.html",
             "updated": 1627405200,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/work/succeedingAtDevelopment",
             "title": "Skills for succeeding on software development",
             "link": "https://geekingwithmauri.com/work/succeedingAtDevelopment.html",
             "updated": 1621962000,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/swift/documentation-in-practice",
             "title": "Documentation in practice for Swift",
             "link": "https://geekingwithmauri.com/swift/documentation-in-practice.html",
             "updated": 1620234000,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/work/thinkingBeforeCoding",
             "title": "Think before you code",
             "link": "https://geekingwithmauri.com/work/thinkingBeforeCoding.html",
             "updated": 1616605200,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         },
         {
             "id": "https://geekingwithmauri.com/swift/serverSideVapor",
             "title": "Building a mock server using Swift\u2019s Vapor",
             "link": "https://geekingwithmauri.com/swift/serverSideVapor.html",
             "updated": 1614963600,
-            "site_name": "Geeking with Mauri"
+            "site_url": "https://geekingwithmauri.com"
         }
     ]
 }

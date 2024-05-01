@@ -1,75 +1,75 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.avanderlee.com/?p=202424",
             "title": "Using @Environment in SwiftUI to link Swift Package dependencies",
             "link": "https://www.avanderlee.com/swiftui/environment-property-wrapper/",
             "updated": 1713846215,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202408",
             "title": "Bar Chart creation using Swift Charts",
             "link": "https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/",
             "updated": 1713233748,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202404",
             "title": "Statistical significance and its importance with app experiments",
             "link": "https://www.avanderlee.com/general/statistical-significance-app-experiments/",
             "updated": 1712620800,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202397",
             "title": "Identifiable protocol in SwiftUI explained with code examples",
             "link": "https://www.avanderlee.com/swiftui/identifiable-protocol-object-identifier/",
             "updated": 1712020062,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202392",
             "title": "Key press events detection in SwiftUI",
             "link": "https://www.avanderlee.com/swiftui/key-press-events-detection/",
             "updated": 1711417297,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202383",
             "title": "The power of consistency in side projects",
             "link": "https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/",
             "updated": 1710810000,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202377",
             "title": "Test-Driven Development (TDD) for bug fixes in Swift",
             "link": "https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/",
             "updated": 1710209948,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=2296",
             "title": "Optionals in Swift explained: 5 things you should know",
             "link": "https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/",
             "updated": 1709624722,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202367",
             "title": "Third-party libraries acknowledgments using a Settings bundle",
             "link": "https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/",
             "updated": 1709003122,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         },
         {
             "id": "https://www.avanderlee.com/?p=202361",
             "title": "Extensions in Swift: How and when to use them",
             "link": "https://www.avanderlee.com/swift/extensions/",
             "updated": 1708412392,
-            "site_name": "SwiftLee"
+            "site_url": "https://www.avanderlee.com"
         }
     ]
 }

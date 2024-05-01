@@ -1,75 +1,75 @@
 {
-    "updated": 1714470898,
+    "updated": 1714537239,
     "posts": [
         {
             "id": "http://blog.huenaerts.be/2021/05/17/testing-your-app-url-scheme",
             "title": "Testing your app\u2019s URL scheme the easy way",
             "link": "http://blog.huenaerts.be/2021/05/17/testing-your-app-url-scheme.html",
             "updated": 1621184400,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2021/02/21/typed-translations",
             "title": "Typed translation constants, a missing core iOS feature",
             "link": "http://blog.huenaerts.be/2021/02/21/typed-translations.html",
             "updated": 1613840400,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/12/27/avoid-default-case-for-enums-likely-to-change",
             "title": "Avoid default case for enums that are likely to change in future",
             "link": "http://blog.huenaerts.be/2020/12/27/avoid-default-case-for-enums-likely-to-change.html",
             "updated": 1609002000,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/08/23/datetime-parsing-timezone",
             "title": "ISO8601 DateTime parsing and formatting",
             "link": "http://blog.huenaerts.be/2020/08/23/datetime-parsing-timezone.html",
             "updated": 1598115600,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/08/14/merge-request-vs-pull-request",
             "title": "Merge request versus Pull request",
             "link": "http://blog.huenaerts.be/2020/08/14/merge-request-vs-pull-request.html",
             "updated": 1597338000,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/08/08/farmers-pattern",
             "title": "Introducing the farmers pattern",
             "link": "http://blog.huenaerts.be/2020/08/08/farmers-pattern.html",
             "updated": 1596819600,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/07/29/one-year-git-at-terminal",
             "title": "One year using git from terminal",
             "link": "http://blog.huenaerts.be/2020/07/29/one-year-git-at-terminal.html",
             "updated": 1595955600,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/05/24/swift-module-health",
             "title": "Swift module health",
             "link": "http://blog.huenaerts.be/2020/05/24/swift-module-health.html",
             "updated": 1590253200,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/05/06/speed-up-development-pipeline",
             "title": "Speed up your development pipeline",
             "link": "http://blog.huenaerts.be/2020/05/06/speed-up-development-pipeline.html",
             "updated": 1588698000,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         },
         {
             "id": "http://blog.huenaerts.be/2020/02/16/optimize-commute-trip",
             "title": "Optimize your commute trip",
             "link": "http://blog.huenaerts.be/2020/02/16/optimize-commute-trip.html",
             "updated": 1581786000,
-            "site_name": "NSMutableString"
+            "site_url": "http://blog.huenaerts.be/"
         }
     ]
 }

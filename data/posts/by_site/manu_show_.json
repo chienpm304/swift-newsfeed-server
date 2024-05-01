@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://manu.show/new-app-os-log",
             "title": "New App - OSLog Console Logger",
             "link": "https://manu.show/2024-03-19-new-app-os-log/",
             "updated": 1710802800,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/unit-tests-gha-with-private-dependencies",
             "title": "GHA: Cloning Private Dependencies",
             "link": "https://manu.show/2024-03-12-unit-tests-gha-with-private-dependencies/",
             "updated": 1710198000,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/ace-the-interview-process",
             "title": "How to: Ace the interview process",
             "link": "https://manu.show/2024-03-07-ace-the-interview-process/",
             "updated": 1709762400,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/centralized-dependencies",
             "title": "Centralized Dependencies",
             "link": "https://manu.show/2024-02-29-centralized-dependencies/",
             "updated": 1709157600,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/image-picker-modifier",
             "title": "ViewModifiers: Image Picker",
             "link": "https://manu.show/2024-01-30-image-picker-modifier/",
             "updated": 1706565600,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/streamlining-life",
             "title": "Streamlining My Life",
             "link": "https://manu.show/2023-11-26-streamlining-life/",
             "updated": 1700949600,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/oreo",
             "title": "Raising Oreo",
             "link": "https://manu.show/2023-11-07-oreo/",
             "updated": 1699308000,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/shrink-modifiers",
             "title": "ViewModifiers: Shrinking views",
             "link": "https://manu.show/2023-10-22-shrink-modifiers/",
             "updated": 1697929200,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/adaptable-stack",
             "title": "SwiftUI: Adaptable Stack",
             "link": "https://manu.show/2023-10-07-adaptable-stack/",
             "updated": 1696633200,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         },
         {
             "id": "https://manu.show/force-update-mechanism",
             "title": "Force Update Mechanism",
             "link": "https://manu.show/2023-09-29-force-update-mechanism/",
             "updated": 1695942000,
-            "site_name": "manu.show"
+            "site_url": "https://www.manu.show/"
         }
     ]
 }

@@ -1,61 +1,61 @@
 {
-    "updated": 1714470951,
+    "updated": 1714537270,
     "posts": [
         {
             "id": "https://medium.com/p/24a9ec44d438",
             "title": "Pie Chart in SwiftUI",
             "link": "https://medium.com/stepup-development/pie-chart-in-swiftui-24a9ec44d438?source=rss----1ece39e3c702---4",
             "updated": 1617973607,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/5962e689b5f0",
             "title": "How to use multiple users with git",
             "link": "https://medium.com/stepup-development/how-to-use-multiple-users-with-git-5962e689b5f0?source=rss----1ece39e3c702---4",
             "updated": 1613037554,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/f72e63aa6e5c",
             "title": "Interface Builder tips and tricks",
             "link": "https://medium.com/stepup-development/interface-builder-tips-and-tricks-f72e63aa6e5c?source=rss----1ece39e3c702---4",
             "updated": 1611737435,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/18f9077a7a0c",
             "title": "Write and maintain custom git commands",
             "link": "https://medium.com/stepup-development/write-and-maintain-custom-git-commands-18f9077a7a0c?source=rss----1ece39e3c702---4",
             "updated": 1610684749,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/22307d81c866",
             "title": "Prototyping Instagram\u2018s login screen using UIStackView",
             "link": "https://medium.com/stepup-development/prototyping-instagram-s-login-screen-using-uistackview-22307d81c866?source=rss----1ece39e3c702---4",
             "updated": 1609301916,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/99356b2e8a2a",
             "title": "Simplify your developer life with Boop",
             "link": "https://medium.com/stepup-development/simplify-your-developer-life-with-boop-99356b2e8a2a?source=rss----1ece39e3c702---4",
             "updated": 1598762918,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/2e9a73d99cd7",
             "title": "Handling multiple sheets in SwiftUI",
             "link": "https://medium.com/stepup-development/handling-multiple-sheets-in-swiftui-2e9a73d99cd7?source=rss----1ece39e3c702---4",
             "updated": 1591784077,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         },
         {
             "id": "https://medium.com/p/4d4fd2bc123f",
             "title": "Building iOS frameworks with bitrise",
             "link": "https://medium.com/stepup-development/building-ios-frameworks-with-bitrise-4d4fd2bc123f?source=rss----1ece39e3c702---4",
             "updated": 1591597003,
-            "site_name": "StepUp Development"
+            "site_url": "https://medium.com/stepup-development"
         }
     ]
 }

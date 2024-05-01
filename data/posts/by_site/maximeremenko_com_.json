@@ -1,33 +1,33 @@
 {
-    "updated": 1714470958,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://maximeremenko.com/benchmarking-xcode-performance-using-swift-imac-macbook-comparison",
             "title": "Benchmarking Xcode Performance on a large Swift Project. iMac, MacBook, iMac Pro compared",
             "link": "https://maximeremenko.com/benchmarking-xcode-performance-using-swift-imac-macbook-comparison",
             "updated": 1599411600,
-            "site_name": "Swift Notes"
+            "site_url": "https://maximeremenko.com/"
         },
         {
             "id": "https://maximeremenko.com/how-improve-software-engineering-skills-swift",
             "title": "Become a Productive Swift Developer through the Daily Habits",
             "link": "https://maximeremenko.com/how-improve-software-engineering-skills-swift",
             "updated": 1573491600,
-            "site_name": "Swift Notes"
+            "site_url": "https://maximeremenko.com/"
         },
         {
             "id": "https://maximeremenko.com/swift-arc-weak-references",
             "title": "Discover Side Tables - Weak Reference Management Concept in Swift",
             "link": "https://maximeremenko.com/swift-arc-weak-references",
             "updated": 1571850000,
-            "site_name": "Swift Notes"
+            "site_url": "https://maximeremenko.com/"
         },
         {
             "id": "https://maximeremenko.com/string-random-access",
             "title": "Efficient Random Access on Swift String",
             "link": "https://maximeremenko.com/string-random-access",
             "updated": 1571590800,
-            "site_name": "Swift Notes"
+            "site_url": "https://maximeremenko.com/"
         }
     ]
 }

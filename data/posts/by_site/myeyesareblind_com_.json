@@ -1,19 +1,19 @@
 {
-    "updated": 1714470891,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "http://myeyesareblind.com/2020/06/28/webrtc-catalyst/",
             "title": "How to build WebRTC for Mac-Catalyst or Ninja intro for Apple-developers | myeyesareblind",
             "link": "http://myeyesareblind.com/2020/06/28/webrtc-catalyst/",
             "updated": 1593277200,
-            "site_name": "myeyesareblind's Blog"
+            "site_url": "http://myeyesareblind.com/"
         },
         {
             "id": "http://myeyesareblind.com/2017/02/06/Combine-hash-values/",
             "title": "Combining hash values | myeyesareblind",
             "link": "http://myeyesareblind.com/2017/02/06/Combine-hash-values/",
             "updated": 1486314000,
-            "site_name": "myeyesareblind's Blog"
+            "site_url": "http://myeyesareblind.com/"
         }
     ]
 }

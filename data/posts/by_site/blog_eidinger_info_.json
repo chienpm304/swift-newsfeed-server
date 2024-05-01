@@ -1,355 +1,355 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator",
             "title": "Get the biometric authentication prompt for protected keychain items in the iOS simulator",
             "link": "https://blog.eidinger.info/get-the-biometric-authentication-prompt-for-protected-keychain-items-in-the-ios-simulator",
             "updated": 1708328235,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/a-new-access-modifier-in-swift-package",
             "title": "A new access modifier in Swift: package",
             "link": "https://blog.eidinger.info/a-new-access-modifier-in-swift-package",
             "updated": 1705875797,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/how-to-verify-a-signed-xcframework-programmatically",
             "title": "How to verify a signed xcframework programmatically",
             "link": "https://blog.eidinger.info/how-to-verify-a-signed-xcframework-programmatically",
             "updated": 1705308403,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/ensure-safe-code-in-your-ios-app-extensions",
             "title": "Ensure safe code in your iOS app extensions",
             "link": "https://blog.eidinger.info/ensure-safe-code-in-your-ios-app-extensions",
             "updated": 1704697893,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024",
             "title": "Awesome newsletters for iOS and Swift developers in 2024",
             "link": "https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024",
             "updated": 1704218706,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/develop-and-test-opticid-for-vision-pro",
             "title": "Develop and test OpticID for Vision Pro",
             "link": "https://blog.eidinger.info/develop-and-test-opticid-for-vision-pro",
             "updated": 1693812173,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api",
             "title": "How to check if you use a required reason API",
             "link": "https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api",
             "updated": 1692646550,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/github-embraces-swift-and-provides-code-analysis-security-alerts-and-dependency-updates-for-swift-projects",
             "title": "GitHub embraces Swift and provides code analysis, security alerts and dependency updates for Swift projects",
             "link": "https://blog.eidinger.info/github-embraces-swift-and-provides-code-analysis-security-alerts-and-dependency-updates-for-swift-projects",
             "updated": 1691064320,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/url-extraction-for-hostname-domain-subdomain-and-tld-in-swift",
             "title": "URL extraction for hostname, domain, subdomain and tld in Swift",
             "link": "https://blog.eidinger.info/url-extraction-for-hostname-domain-subdomain-and-tld-in-swift",
             "updated": 1690147835,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/why-is-it-so-damn-difficult-to-create-a-binary-framework-for-your-swift-package",
             "title": "Why is it so damn difficult to create a binary framework for your Swift Package",
             "link": "https://blog.eidinger.info/why-is-it-so-damn-difficult-to-create-a-binary-framework-for-your-swift-package",
             "updated": 1689543009,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/inspect-web-content-on-ios-164",
             "title": "Inspect Web Content on iOS 16.4+",
             "link": "https://blog.eidinger.info/inspect-web-content-on-ios-164",
             "updated": 1688442010,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/using-swift-packages-with-authentication-in-xcode-cloud",
             "title": "Using Swift packages with authentication in Xcode Cloud",
             "link": "https://blog.eidinger.info/using-swift-packages-with-authentication-in-xcode-cloud",
             "updated": 1688324514,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/generate-restful-apis-with-swift-in-2023",
             "title": "Generate RESTful APIs with Swift in 2023",
             "link": "https://blog.eidinger.info/generate-restful-apis-with-swift-in-2023",
             "updated": 1687717085,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc23",
             "title": "All new frameworks presented at WWDC23",
             "link": "https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc23",
             "updated": 1685986468,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/skip-code-during-debugging-in-xcode",
             "title": "Skip code during debugging in Xcode",
             "link": "https://blog.eidinger.info/skip-code-during-debugging-in-xcode",
             "updated": 1685369802,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/uiviewrepresentables-must-be-value-types",
             "title": "UIViewRepresentables must be value types",
             "link": "https://blog.eidinger.info/uiviewrepresentables-must-be-value-types",
             "updated": 1683141482,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/efficient-data-transfer-in-ios-apps-exploring-http-compression",
             "title": "Efficient Data Transfer in iOS Apps: Exploring HTTP Compression",
             "link": "https://blog.eidinger.info/efficient-data-transfer-in-ios-apps-exploring-http-compression",
             "updated": 1681761625,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/giving-back-to-the-developer-community-a-guide-to-sponsoring-swift-and-ios-developers",
             "title": "Giving Back to the Developer Community: A Guide to Sponsoring Swift and iOS Developers",
             "link": "https://blog.eidinger.info/giving-back-to-the-developer-community-a-guide-to-sponsoring-swift-and-ios-developers",
             "updated": 1680623746,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/mirror-your-apple-watch-to-your-iphone",
             "title": "Mirror your Apple Watch to your iPhone",
             "link": "https://blog.eidinger.info/mirror-your-apple-watch-to-your-iphone",
             "updated": 1680535564,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/sdk-conditional-code-with-canimportmodule-version-1234",
             "title": "SDK conditional code with canImport(module, _version: \"1.2.3.4\")",
             "link": "https://blog.eidinger.info/sdk-conditional-code-with-canimportmodule-version-1234",
             "updated": 1679952742,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/follow-up-swiftui-limitations-for-mobile-analytics",
             "title": "Follow-up: SwiftUI limitations for Mobile Analytics",
             "link": "https://blog.eidinger.info/follow-up-swiftui-limitations-for-mobile-analytics",
             "updated": 1679590539,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/debugging-aswebauthenticationsession",
             "title": "Debugging ASWebAuthenticationSession",
             "link": "https://blog.eidinger.info/debugging-aswebauthenticationsession",
             "updated": 1679333229,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming",
             "title": "Keep your CoreData store small by vacuuming",
             "link": "https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming",
             "updated": 1678737637,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/pimp-my-docc-documentation",
             "title": "Pimp My DocC Documentation",
             "link": "https://blog.eidinger.info/pimp-my-docc-documentation",
             "updated": 1678069842,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code",
             "title": "The visual reference guide for documenting your Swift code",
             "link": "https://blog.eidinger.info/the-visual-reference-guide-for-documenting-your-swift-code",
             "updated": 1677488531,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line",
             "title": "swift -e runs code directly from the command line",
             "link": "https://blog.eidinger.info/swift-e-runs-code-directly-from-the-command-line",
             "updated": 1676842676,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/transforming-the-case-of-strings-in-swift",
             "title": "Transforming the Case of Strings in Swift",
             "link": "https://blog.eidinger.info/transforming-the-case-of-strings-in-swift",
             "updated": 1676323015,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/ios-jailbreak-detection-in-2023",
             "title": "iOS Jailbreak Detection in 2023",
             "link": "https://blog.eidinger.info/ios-jailbreak-detection-in-2023",
             "updated": 1675669670,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/automatically-run-swift-code-when-your-framework-gets-initialized",
             "title": "Automatically run Swift code when your framework gets initialized",
             "link": "https://blog.eidinger.info/automatically-run-swift-code-when-your-framework-gets-initialized",
             "updated": 1675116015,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/save-money-when-using-github-actions-for-ios-cicd",
             "title": "Save money when using GitHub Actions for iOS CI/CD",
             "link": "https://blog.eidinger.info/save-money-when-using-github-actions-for-ios-cicd",
             "updated": 1674682309,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/prevent-your-apps-files-from-being-included-in-icloud-backup",
             "title": "Prevent your app's files from being included in iCloud Backup",
             "link": "https://blog.eidinger.info/prevent-your-apps-files-from-being-included-in-icloud-backup",
             "updated": 1674422467,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/make-your-apps-files-user-visible-on-the-iphone",
             "title": "Make your app's files user-visible on the iPhone",
             "link": "https://blog.eidinger.info/make-your-apps-files-user-visible-on-the-iphone",
             "updated": 1673809673,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps",
             "title": "Prevent copy & paste into other iOS apps",
             "link": "https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps",
             "updated": 1673299681,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/how-to-disable-custom-keyboards-in-ios-swiftui-based-applications",
             "title": "How to disable custom keyboards in iOS SwiftUI-based applications",
             "link": "https://blog.eidinger.info/how-to-disable-custom-keyboards-in-ios-swiftui-based-applications",
             "updated": 1672693222,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/my-swiftytech-2022-recap",
             "title": "My SwiftyTech 2022 Recap",
             "link": "https://blog.eidinger.info/my-swiftytech-2022-recap",
             "updated": 1671398361,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/swift-enum-with-labeled-associated-values",
             "title": "Swift Enum With Labeled Associated Values",
             "link": "https://blog.eidinger.info/swift-enum-with-labeled-associated-values",
             "updated": 1670793432,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/http3-support-for-urlsession",
             "title": "HTTP/3 support for URLSession",
             "link": "https://blog.eidinger.info/http3-support-for-urlsession",
             "updated": 1670444641,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/cross-platform-api-to-determine-os-version-and-name-in-swift",
             "title": "Cross-platform API to determine OS version and name in Swift",
             "link": "https://blog.eidinger.info/cross-platform-api-to-determine-os-version-and-name-in-swift",
             "updated": 1670187670,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/test-your-command-line-tool-in-xcode",
             "title": "Test Your Command-Line Tool In Xcode",
             "link": "https://blog.eidinger.info/test-your-command-line-tool-in-xcode",
             "updated": 1669062619,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/a-critical-look-at-swift-snippets-swift-57",
             "title": "A critical look at Swift Snippets (Swift 5.7)",
             "link": "https://blog.eidinger.info/a-critical-look-at-swift-snippets-swift-57",
             "updated": 1668456606,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/share-files-between-your-ios-app-widget-and-watchkit-extensions",
             "title": "Share files between your iOS app, Widget and WatchKit extensions",
             "link": "https://blog.eidinger.info/share-files-between-your-ios-app-widget-and-watchkit-extensions",
             "updated": 1667739665,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/apple-wallet-supported-barcode-types-and-workarounds",
             "title": "Apple Wallet: supported barcode types and workarounds",
             "link": "https://blog.eidinger.info/apple-wallet-supported-barcode-types-and-workarounds",
             "updated": 1667334052,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/convert-celsius-to-fahrenheit-and-back-in-swift",
             "title": "Convert Celsius to Fahrenheit and back in Swift",
             "link": "https://blog.eidinger.info/convert-celsius-to-fahrenheit-and-back-in-swift",
             "updated": 1666902209,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/how-to-handle-popups-and-alerts-in-wkwebview",
             "title": "How to handle popups and alerts in WKWebView",
             "link": "https://blog.eidinger.info/how-to-handle-popups-and-alerts-in-wkwebview",
             "updated": 1666556869,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/why-and-how-to-adopt-actionscheckoutv3-in-your-github-action-workflow",
             "title": "Why and how to adopt actions/checkout@v3 in your GitHub Action workflow",
             "link": "https://blog.eidinger.info/why-and-how-to-adopt-actionscheckoutv3-in-your-github-action-workflow",
             "updated": 1666246602,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/swift-package-manager-supports-git-submodules",
             "title": "Swift Package Manager supports Git Submodules",
             "link": "https://blog.eidinger.info/swift-package-manager-supports-git-submodules",
             "updated": 1665957363,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/subclassing-an-open-swift-class-is-not-always-possible",
             "title": "Subclassing an open Swift class is not always possible",
             "link": "https://blog.eidinger.info/subclassing-an-open-swift-class-is-not-always-possible",
             "updated": 1665379782,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained",
             "title": "System Programming Interfaces (SPI) in Swift Explained",
             "link": "https://blog.eidinger.info/system-programming-interfaces-spi-in-swift-explained",
             "updated": 1664740844,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/using-identifiable-in-swiftui",
             "title": "Using Identifiable in SwiftUI",
             "link": "https://blog.eidinger.info/using-identifiable-in-swiftui",
             "updated": 1664216188,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         },
         {
             "id": "https://blog.eidinger.info/why-your-xcode-version-still-matters-with-module-stability",
             "title": "Why your Xcode version still matters with Module Stability",
             "link": "https://blog.eidinger.info/why-your-xcode-version-still-matters-with-module-stability",
             "updated": 1663707642,
-            "site_name": "Marco Eidinger\u2019s Blog (Swifty Tech)"
+            "site_url": "https://blog.eidinger.info/"
         }
     ]
 }

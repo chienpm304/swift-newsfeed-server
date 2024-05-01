@@ -1,47 +1,47 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "http://kylebashour.com/posts/context-menu-guide",
             "title": "The Comprehensive Guide to iOS Context Menus",
             "link": "http://kylebashour.com/posts/context-menu-guide",
             "updated": 1566406800,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         },
         {
             "id": "http://kylebashour.com/posts/ios-13-context-menus",
             "title": "How to Implement iOS 13 Context Menus",
             "link": "http://kylebashour.com/posts/ios-13-context-menus",
             "updated": 1559840400,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         },
         {
             "id": "http://kylebashour.com/posts/custom-view-controller-presentation-tips",
             "title": "Custom View Controller Presentation Tips & Tricks",
             "link": "http://kylebashour.com/posts/custom-view-controller-presentation-tips",
             "updated": 1549645200,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         },
         {
             "id": "http://kylebashour.com/posts/finding-the-real-iphone-x-corner-radius",
             "title": "Finding the Real iPhone X Corner Radius",
             "link": "http://kylebashour.com/posts/finding-the-real-iphone-x-corner-radius",
             "updated": 1530723600,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         },
         {
             "id": "http://kylebashour.com/posts/subclassing-and-delegates",
             "title": "Subclass API Superpowers",
             "link": "http://kylebashour.com/posts/subclassing-and-delegates",
             "updated": 1505667600,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         },
         {
             "id": "http://kylebashour.com/posts/3d-touch-with-mkmapview",
             "title": "3D Touch with MKMapView",
             "link": "http://kylebashour.com/posts/3d-touch-with-mkmapview",
             "updated": 1462122000,
-            "site_name": "Kyle Bashour\u2019s Blog"
+            "site_url": "https://kylebashour.com/"
         }
     ]
 }

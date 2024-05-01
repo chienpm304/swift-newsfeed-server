@@ -1,47 +1,47 @@
 {
-    "updated": 1714470978,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "5e39dfceb5030a00385c725f",
             "title": "How to use Xcode debugging tools on a cold app start",
             "link": "https://tim.engineering/xcode-debugging-tools-app-start/",
             "updated": 1581948225,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         },
         {
             "id": "5d644d4f23873700385baeae",
             "title": "Kick your 3rd party networking library to the curb",
             "link": "https://tim.engineering/360idev-talk-2019/",
             "updated": 1566830826,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         },
         {
             "id": "5c9e47284eab1500c057931f",
             "title": "Use the Ladder of Errors to improve your code quality",
             "link": "https://tim.engineering/improve-code-quality-with-error-ladder/",
             "updated": 1556168400,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         },
         {
             "id": "5c91c4d5d66e3300cc37541c",
             "title": "It's time to break up with your networking library for URLSession",
             "link": "https://tim.engineering/break-up-third-party-networking-urlsession/",
             "updated": 1553734800,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         },
         {
             "id": "5c858dd27ed2b300c01b8126",
             "title": "How to find memory leaks in an iOS app",
             "link": "https://tim.engineering/how-to-find-memory-leaks-in-ios-app/",
             "updated": 1552518000,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         },
         {
             "id": "5c80284a7ed2b300c01b805a",
             "title": "A detailed explanation of memory leaks in iOS apps",
             "link": "https://tim.engineering/detailed-explanation-memory-leaks-ios-apps/",
             "updated": 1552004700,
-            "site_name": "Tim Miko\u2019s Blog"
+            "site_url": "https://tim.engineering"
         }
     ]
 }

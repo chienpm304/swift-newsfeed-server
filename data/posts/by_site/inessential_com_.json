@@ -1,40 +1,40 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://inessential.com/2024/02/08/reruns.html",
             "title": "Reruns",
             "link": "https://inessential.com/2024/02/08/reruns.html",
             "updated": 1707354960,
-            "site_name": "Inessential"
+            "site_url": "https://inessential.com/"
         },
         {
             "id": "https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro.html",
             "title": "Why NetNewsWire Isn\u2019t Available for Vision Pro",
             "link": "https://inessential.com/2024/02/04/why_netnewswire_isnt_available_for_vision_pro.html",
             "updated": 1707061149,
-            "site_name": "Inessential"
+            "site_url": "https://inessential.com/"
         },
         {
             "id": "https://inessential.com/2024/01/17/corporations_are_not_to_be_loved.html",
             "title": "Corporations Are Not To Be Loved",
             "link": "https://inessential.com/2024/01/17/corporations_are_not_to_be_loved.html",
             "updated": 1705461956,
-            "site_name": "Inessential"
+            "site_url": "https://inessential.com/"
         },
         {
             "id": "https://inessential.com/2023/12/17/on_mastodon_support_in_netnewswire.html",
             "title": "On Mastodon Support in NetNewsWire",
             "link": "https://inessential.com/2023/12/17/on_mastodon_support_in_netnewswire.html",
             "updated": 1702814195,
-            "site_name": "Inessential"
+            "site_url": "https://inessential.com/"
         },
         {
             "id": "https://inessential.com/2023/06/27/seattle_xcoders_this_thursday.html",
             "title": "Seattle Xcoders this Thursday",
             "link": "https://inessential.com/2023/06/27/seattle_xcoders_this_thursday.html",
             "updated": 1687851129,
-            "site_name": "Inessential"
+            "site_url": "https://inessential.com/"
         }
     ]
 }

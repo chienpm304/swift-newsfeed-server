@@ -1,75 +1,75 @@
 {
-    "updated": 1714471041,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.futuretap.com/?p=8029",
             "title": "Where To? turns 10",
             "link": "https://www.futuretap.com/blog/where-to-turns-10",
             "updated": 1531058938,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=7233",
             "title": "The iMessage App Store: First Thoughts & Observations",
             "link": "https://www.futuretap.com/blog/the-imessage-app-store-first-thoughts-observations",
             "updated": 1473848867,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=6234",
             "title": "9% Apple Watch users",
             "link": "https://www.futuretap.com/blog/9-percent-apple-watch-users",
             "updated": 1438586599,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=3493",
             "title": "Revised App Store Featured Entry Scraper",
             "link": "https://www.futuretap.com/blog/revised-app-store-featured-entry-scraper",
             "updated": 1341815938,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=2814",
             "title": "Where To? \u2013 Three exciting years",
             "link": "https://www.futuretap.com/blog/whereto-three-exciting-years",
             "updated": 1313394899,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=1366",
             "title": "One year after the acquisition: was it all worth it?",
             "link": "https://www.futuretap.com/blog/one-year",
             "updated": 1262592854,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=1274",
             "title": "Semi-reject: a new measure in the App Store Review process?",
             "link": "https://www.futuretap.com/blog/semi-reject-a-new-measure-in-the-app-store-review-process",
             "updated": 1260288074,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=802",
             "title": "Transferring an iPhone app: last episode",
             "link": "https://www.futuretap.com/blog/transferring-an-iphone-app-last-episode",
             "updated": 1245736653,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=695",
             "title": "Scraping App Store Featured Entries",
             "link": "https://www.futuretap.com/blog/scraping-app-store-featured-entries",
             "updated": 1241023382,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         },
         {
             "id": "http://www.futuretap.com/?p=520",
             "title": "Carved in Stone: Transferring an iPhone App",
             "link": "https://www.futuretap.com/blog/carved-in-stone-transferring-an-iphone-app",
             "updated": 1232438552,
-            "site_name": "The FutureBlog \u2013 For App Marketers"
+            "site_url": "https://www.futuretap.com/blog?tag=app-marketing"
         }
     ]
 }

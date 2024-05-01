@@ -1,61 +1,61 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://desiatov.com/swift-structured-concurrency-introduction/",
             "title": "Introduction to structured concurrency in Swift: continuations, tasks, and cancellation",
             "link": "https://desiatov.com/swift-structured-concurrency-introduction/",
             "updated": 1610602832,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/swift-webassembly-2020/",
             "title": "The state of Swift for WebAssembly in 2020 (and earlier)",
             "link": "https://desiatov.com/swift-webassembly-2020/",
             "updated": 1600234832,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/why-webassembly/",
             "title": "How WebAssembly changes software distribution",
             "link": "https://desiatov.com/why-webassembly/",
             "updated": 1599630032,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/swift-reference-cycles/",
             "title": "Unbreakable reference cycles in Swift no one is talking about",
             "link": "https://desiatov.com/swift-reference-cycles/",
             "updated": 1545025232,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/swift-codable-xlsx/",
             "title": "Easy parsing of Excel spreadsheet format with Swift's Codable protocols",
             "link": "https://desiatov.com/swift-codable-xlsx/",
             "updated": 1542001232,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/event-loops/",
             "title": "Event loops, building smooth UIs, and handling high server load",
             "link": "https://desiatov.com/event-loops/",
             "updated": 1534398032,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/closures/",
             "title": "How do closures and callbacks work? It's turtles all the way down",
             "link": "https://desiatov.com/closures/",
             "updated": 1529991632,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         },
         {
             "id": "https://desiatov.com/why-graphql/",
             "title": "Why I use GraphQL and avoid REST APIs",
             "link": "https://desiatov.com/why-graphql/",
             "updated": 1527486032,
-            "site_name": "Max Desiatov\u2019s Blog"
+            "site_url": "https://desiatov.com/"
         }
     ]
 }

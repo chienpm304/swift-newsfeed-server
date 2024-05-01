@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jogendra.dev/writing-maintainable-go-code",
             "title": "Writing maintainable Go code",
             "link": "https://jogendra.dev/writing-maintainable-go-code",
             "updated": 1641920400,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them",
             "title": "Import Cycles in Golang: How To Deal With Them",
             "link": "https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them",
             "updated": 1609606800,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/implementing-launch-at-login-feature-in-macos-apps",
             "title": "Implementing Launch at Login Feature in MacOS Apps",
             "link": "https://jogendra.dev/implementing-launch-at-login-feature-in-macos-apps",
             "updated": 1600534800,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/using-vim-for-go-development",
             "title": "Using Vim for Go Development",
             "link": "https://jogendra.dev/using-vim-for-go-development",
             "updated": 1595869200,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/building-command-line-tools-in-go",
             "title": "Building Command Line Tools in Go",
             "link": "https://jogendra.dev/building-command-line-tools-in-go",
             "updated": 1593882000,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/i-do-dotfiles",
             "title": "I do Dotfiles!",
             "link": "https://jogendra.dev/i-do-dotfiles",
             "updated": 1591722000,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/how-to-use-multiple-github-accounts-on-single-machine",
             "title": "How to use multiple GitHub accounts on single machine",
             "link": "https://jogendra.dev/how-to-use-multiple-github-accounts-on-single-machine",
             "updated": 1586019600,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/how-to-write-proposal-for-google-summer-of-code",
             "title": "How to write proposal for Google Summer of Code",
             "link": "https://jogendra.dev/how-to-write-proposal-for-google-summer-of-code",
             "updated": 1551027600,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/my-google-summer-of-code-blogs",
             "title": "My Google Summer of Code Project Blogs",
             "link": "https://jogendra.dev/my-google-summer-of-code-blogs",
             "updated": 1550854800,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         },
         {
             "id": "https://jogendra.dev/changing-my-github-username",
             "title": "Changing My GitHub Username",
             "link": "https://jogendra.dev/changing-my-github-username",
             "updated": 1536080400,
-            "site_name": "Jogendra\u2019s Blog"
+            "site_url": "https://jogendra.dev/"
         }
     ]
 }

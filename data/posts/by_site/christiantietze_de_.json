@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "tag:christiantietze.de,2024-04-22:/posts/2024/04/nstableviewcell-from-nib-change-nib-data-and-how-loading-works/",
             "title": "Table View Cells from Nib: How to Change the Blueprint Data to Affect New Cells",
             "link": "https://christiantietze.de/posts/2024/04/nstableviewcell-from-nib-change-nib-data-and-how-loading-works/",
             "updated": 1713917085,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-19:/posts/2024/04/dynamic-actor-isolation-help-transition/",
             "title": "Dynamic Actor Isolation Can Help During the Transitional Phase",
             "link": "https://christiantietze.de/posts/2024/04/dynamic-actor-isolation-help-transition/",
             "updated": 1713494486,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-18:/posts/2024/04/niki-tonsky-hardest-problem-in-computer-science-centering-things/",
             "title": "Niki Tonsky: Hardest Problem in Computer Science: Centering Things",
             "link": "https://christiantietze.de/posts/2024/04/niki-tonsky-hardest-problem-in-computer-science-centering-things/",
             "updated": 1713421411,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-17:/posts/2024/04/always-be-changing-existing-code/",
             "title": "Always Be Changing Existing Code",
             "link": "https://christiantietze.de/posts/2024/04/always-be-changing-existing-code/",
             "updated": 1713344219,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-16:/posts/2024/04/swiftui-kata-recreating-debuginfo-viewer/",
             "title": "SwiftUI Kata: Recreating DebugInfo Viewer",
             "link": "https://christiantietze.de/posts/2024/04/swiftui-kata-recreating-debuginfo-viewer/",
             "updated": 1713259800,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-15:/posts/2024/04/enable-swiftui-button-click-through-inactive-windows/",
             "title": "Enable SwiftUI Button Click-Through for Inactive Windows on macOS",
             "link": "https://christiantietze.de/posts/2024/04/enable-swiftui-button-click-through-inactive-windows/",
             "updated": 1713143527,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-06:/posts/2024/04/programming-is-a-soulslike/",
             "title": "\u201cSoulslike\u201d",
             "link": "https://christiantietze.de/posts/2024/04/programming-is-a-soulslike/",
             "updated": 1712412117,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-04-01:/posts/2024/04/masterclass-of-decoupling-diablo-ii-resurrected/",
             "title": "Masterclass of Decoupling: Diablo II Resurrected",
             "link": "https://christiantietze.de/posts/2024/04/masterclass-of-decoupling-diablo-ii-resurrected/",
             "updated": 1711942415,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-30:/posts/2024/03/negate-keypath-bool-values-with-not/",
             "title": "Negate KeyPath Values with not()",
             "link": "https://christiantietze.de/posts/2024/03/negate-keypath-bool-values-with-not/",
             "updated": 1711789020,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-27:/posts/2024/03/disable-xelatex-mappings-inverted-question-and-exclamation-mark/",
             "title": "Disable XeLaTeX Character Sequence Mappings for Inverted Question Mark and Inverted Exclamation Mark",
             "link": "https://christiantietze.de/posts/2024/03/disable-xelatex-mappings-inverted-question-and-exclamation-mark/",
             "updated": 1711508594,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-26:/posts/2024/03/you-absolutely-do-not-need-comments/",
             "title": "You Absolutely (Do Not) Need to Comment Your Code",
             "link": "https://christiantietze.de/posts/2024/03/you-absolutely-do-not-need-comments/",
             "updated": 1711442820,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-25:/posts/2024/03/ship-custom-fonts-within-a-swift-package/",
             "title": "Ship Custom Fonts within a Swift Package",
             "link": "https://christiantietze.de/posts/2024/03/ship-custom-fonts-within-a-swift-package/",
             "updated": 1711372043,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-18:/posts/2024/03/easing-into-language-environment-week-3-php/",
             "title": "Easing Into a Language and Environment: Week 3 with PHP",
             "link": "https://christiantietze.de/posts/2024/03/easing-into-language-environment-week-3-php/",
             "updated": 1710732634,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-11:/posts/2024/03/confuse-app-dev-with-platform/",
             "title": "Oh, You're Making Apps, So You Are Working for Apple/Google/...?",
             "link": "https://christiantietze.de/posts/2024/03/confuse-app-dev-with-platform/",
             "updated": 1710289318,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-07:/posts/2024/03/swiftui-challenge-port-from-auto-layout-to-swiftui/",
             "title": "SwiftUI Challenge: Can You Port this from Auto Layout to SwiftUI?",
             "link": "https://christiantietze.de/posts/2024/03/swiftui-challenge-port-from-auto-layout-to-swiftui/",
             "updated": 1709856868,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-04:/posts/2024/03/fastspring-storefronts/",
             "title": "3 Types of FastSpring Storefronts",
             "link": "https://christiantietze.de/posts/2024/03/fastspring-storefronts/",
             "updated": 1709555292,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-04:/posts/2024/03/disallow-gptbot-in-robots-txt/",
             "title": "How to Disallow GPTBot Crawling in robots.txt",
             "link": "https://christiantietze.de/posts/2024/03/disallow-gptbot-in-robots-txt/",
             "updated": 1709542367,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-04:/posts/2024/03/developer-voices-on-property-based-testing/",
             "title": "Developer Voices on Property-Based Testing Made Me Realize PBT\u2019s Value",
             "link": "https://christiantietze.de/posts/2024/03/developer-voices-on-property-based-testing/",
             "updated": 1709523555,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-03-02:/posts/2024/03/tableflip-v1-6-0-json-support-font-resizing/",
             "title": "TableFlip v1.6.0: JSON Support and Font Resizing",
             "link": "https://christiantietze.de/posts/2024/03/tableflip-v1-6-0-json-support-font-resizing/",
             "updated": 1709347528,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         },
         {
             "id": "tag:christiantietze.de,2024-02-26:/posts/2024/02/portable-every-day-carry-paper-kanban/",
             "title": "Portable Every-Day-Carry Paper Kanban",
             "link": "https://christiantietze.de/posts/2024/02/portable-every-day-carry-paper-kanban/",
             "updated": 1708937092,
-            "site_name": "Christian Tietze\u2019s Blog"
+            "site_url": "https://christiantietze.de/"
         }
     ]
 }

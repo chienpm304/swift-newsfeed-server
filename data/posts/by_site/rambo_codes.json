@@ -1,180 +1,180 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://rambo.codes/posts/2023-04-04-macos-security-bugs-exposed-safari-history-and-device-location-to-unauthorized-apps",
             "title": "macOS Security Bugs Exposed Safari History and Device Location to Unauthorized Apps",
             "link": "https://rambo.codes/posts/2023-04-04-macos-security-bugs-exposed-safari-history-and-device-location-to-unauthorized-apps",
             "updated": 1680595200,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop",
             "title": "SiriSpy - iOS bug allowed apps to eavesdrop on your conversations with Siri",
             "link": "https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop",
             "updated": 1666764000,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2022-06-27-creating-custom-extension-points-with-extensionkit",
             "title": "Creating custom extension points for Mac apps with ExtensionKit",
             "link": "https://rambo.codes/posts/2022-06-27-creating-custom-extension-points-with-extensionkit",
             "updated": 1656324000,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users",
             "title": "How a macOS bug could have allowed for a serious phishing attack against users",
             "link": "https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users",
             "updated": 1647244800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2021-03-02-maskeraid-by-casey-liss",
             "title": "MaskerAid by Casey Liss",
             "link": "https://rambo.codes/posts/2021-03-02-maskeraid-by-casey-liss",
             "updated": 1646283600,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2022-01-04-encoding-and-decoding-references-to-other-types-with-codable",
             "title": "Encoding and decoding references to other types with Codable",
             "link": "https://rambo.codes/posts/2022-01-04-encoding-and-decoding-references-to-other-types-with-codable",
             "updated": 1641283200,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2021-12-28-a-document-based-app-in-swift-playgrounds-for-ipad",
             "title": "A document-based app in Swift Playgrounds for iPad",
             "link": "https://rambo.codes/posts/2021-12-28-a-document-based-app-in-swift-playgrounds-for-ipad",
             "updated": 1640674800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2021-12-06-using-cloudkit-for-content-hosting-and-feature-flags",
             "title": "Using CloudKit for content hosting and feature flags",
             "link": "https://rambo.codes/posts/2021-12-06-using-cloudkit-for-content-hosting-and-feature-flags",
             "updated": 1638766800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2021-02-16-programming-the-esp8266-on-an-m1-mac",
             "title": "Programming the ESP8266 on an M1 Mac",
             "link": "https://rambo.codes/posts/2021-02-16-programming-the-esp8266-on-an-m1-mac",
             "updated": 1613460600,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store",
             "title": "Distributing Mac apps outside the App Store, a quick start guide",
             "link": "https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store",
             "updated": 1610074800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-09-08-creating-configurable-widgets-for-macos-big-sur",
             "title": "Creating configurable widgets for Big Sur (UPDATED)",
             "link": "https://rambo.codes/posts/2020-09-08-creating-configurable-widgets-for-macos-big-sur",
             "updated": 1599530400,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-08-29-turning-the-chibistudio-canvas-into-an-app-clip",
             "title": "Turning the ChibiStudio canvas into an App Clip for iOS 14",
             "link": "https://rambo.codes/posts/2020-08-29-turning-the-chibistudio-canvas-into-an-app-clip",
             "updated": 1598670000,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-05-07-the-big-facebook-crash",
             "title": "The big Facebook crash of 2020 and the problem of third-party SDK creep",
             "link": "https://rambo.codes/posts/2020-05-07-the-big-facebook-crash",
             "updated": 1588816800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-03-19-implementing-mouse-interactions-on-ipad",
             "title": "Implementing mouse pointer interactions on iPad",
             "link": "https://rambo.codes/posts/2020-03-19-implementing-mouse-interactions-on-ipad",
             "updated": 1585047600,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-03-01-writing-command-line-interfaces-for-ios-apps",
             "title": "Writing command line interfaces for iOS apps",
             "link": "https://rambo.codes/posts/2020-03-01-writing-command-line-interfaces-for-ios-apps",
             "updated": 1583060400,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-02-25-cloudkit-101",
             "title": "CloudKit 101",
             "link": "https://rambo.codes/posts/2020-02-25-cloudkit-101",
             "updated": 1582570800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-02-20-mvc-with-sugar",
             "title": "MVC: Many View Controllers",
             "link": "https://rambo.codes/posts/2020-02-20-mvc-with-sugar",
             "updated": 1582185600,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-01-16-common-pitfalls-when-using-keychain-sharing-on-ios",
             "title": "Common pitfalls when using Keychain Sharing on iOS",
             "link": "https://rambo.codes/posts/2020-01-16-common-pitfalls-when-using-keychain-sharing-on-ios",
             "updated": 1579147200,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2020-01-03-you-can-use-swiftui-today",
             "title": "You can use SwiftUI today",
             "link": "https://rambo.codes/posts/2020-01-03-you-can-use-swiftui-today",
             "updated": 1578070200,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2019-12-09-clearing-your-apps-launch-screen-cache-on-ios",
             "title": "Quick tip: clearing your app\u2019s launch screen cache on iOS",
             "link": "https://rambo.codes/posts/2019-12-09-clearing-your-apps-launch-screen-cache-on-ios",
             "updated": 1575878400,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2019-11-05-apple-has-locked-me-out-of-my-developer-account",
             "title": "Apple has locked me out of my developer account (UPDATED)",
             "link": "https://rambo.codes/posts/2019-11-05-apple-has-locked-me-out-of-my-developer-account",
             "updated": 1574218800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2019-01-11-hacking-with-private-apis-on-ipad",
             "title": "Hacking with private APIs on iPad",
             "link": "https://rambo.codes/posts/2019-01-11-hacking-with-private-apis-on-ipad",
             "updated": 1547182800,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2018-11-09-animations-are-assets",
             "title": "Animations are assets: using Core Animation archives on iOS",
             "link": "https://rambo.codes/posts/2018-11-09-animations-are-assets",
             "updated": 1541912400,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2018-10-22-airpower",
             "title": "An incredibly nerdy deep-dive into the AirPower charging animation",
             "link": "https://rambo.codes/posts/2018-10-22-airpower",
             "updated": 1540184400,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         },
         {
             "id": "https://rambo.codes/posts/2018-10-03-unleashing-the-power-of-asset-catalogs-and-bundles-on-ios",
             "title": "Unleashing the power of asset catalogs and bundles on iOS",
             "link": "https://rambo.codes/posts/2018-10-03-unleashing-the-power-of-asset-catalogs-and-bundles-on-ios",
             "updated": 1538580120,
-            "site_name": "Guilherme Rambo\u2019s Blog"
+            "site_url": "https://rambo.codes"
         }
     ]
 }

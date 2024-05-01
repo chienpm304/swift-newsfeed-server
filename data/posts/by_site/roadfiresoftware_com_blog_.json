@@ -1,75 +1,75 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://roadfiresoftware.com/?p=1128",
             "title": "Unit Testing Pro Tip: Verify that your tests make assertions about the method under test and nothing else",
             "link": "https://roadfiresoftware.com/2020/07/unit-testing-pro-tip-verify-that-your-tests-make-assertions-about-the-method-under-test-and-nothing-else/",
             "updated": 1596181863,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1126",
             "title": "Detect Displays on macOS",
             "link": "https://roadfiresoftware.com/2019/06/detect-displays-on-macos/",
             "updated": 1560769532,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1123",
             "title": "Running unit tests from the command line with xcodebuild",
             "link": "https://roadfiresoftware.com/2018/12/running-unit-tests-from-the-command-line-with-xcodebuild/",
             "updated": 1545038891,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1121",
             "title": "Xcode 9.4.1 cannot run unit tests for Frameworks on macOS Mojave",
             "link": "https://roadfiresoftware.com/2018/10/xcode-9-4-1-cannot-run-unit-tests-for-frameworks-on-macos-mojave/",
             "updated": 1538480110,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1119",
             "title": "WWDC 2018 What\u2019s New in Testing Recap",
             "link": "https://roadfiresoftware.com/2018/06/wwdc-2018-whats-new-in-testing-recap/",
             "updated": 1528379740,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1118",
             "title": "WWDC 2018 What\u2019s New in Swift Recap",
             "link": "https://roadfiresoftware.com/2018/06/wwdc-2018-whats-new-in-swift-recap/",
             "updated": 1528354057,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1117",
             "title": "WWDC 2018 What\u2019s new in Cocoa Touch Recap",
             "link": "https://roadfiresoftware.com/2018/06/wwdc-2018-whats-new-in-cocoa-touch-recap/",
             "updated": 1528279819,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1116",
             "title": "WWDC 2018 Platforms State of the Union Recap",
             "link": "https://roadfiresoftware.com/2018/06/wwdc-2018-platforms-state-of-the-union-recap/",
             "updated": 1528205291,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1114",
             "title": "WWDC 2018 Keynote Recap",
             "link": "https://roadfiresoftware.com/2018/06/wwdc-2018-keynote-recap/",
             "updated": 1528118086,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         },
         {
             "id": "http://roadfiresoftware.com/?p=1113",
             "title": "When to unit test private methods",
             "link": "https://roadfiresoftware.com/2018/05/when-to-unit-test-private-methods/",
             "updated": 1527572696,
-            "site_name": "Roadfire Software"
+            "site_url": "https://roadfiresoftware.com/blog/"
         }
     ]
 }

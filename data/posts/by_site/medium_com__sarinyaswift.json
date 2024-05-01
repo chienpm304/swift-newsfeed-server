@@ -1,75 +1,75 @@
 {
-    "updated": 1714470926,
+    "updated": 1714537254,
     "posts": [
+        {
+            "id": "https://medium.com/p/baa755abe16a",
+            "title": "Memory Management in Swift: Heaps & Stacks",
+            "link": "https://heartbeat.comet.ml/memory-management-in-swift-heaps-stacks-baa755abe16a?source=rss-ed60eee1cd58------2",
+            "updated": 1633349224,
+            "site_url": "https://medium.com/@sarinyaswift"
+        },
         {
             "id": "https://medium.com/p/6718517f94a8",
             "title": "PanGesture Slidable View\u200a\u2014\u200aSwift 5",
             "link": "https://medium.com/@sarinyaswift/pangesture-slidable-view-swift-5-6718517f94a8?source=rss-ed60eee1cd58------2",
             "updated": 1593767439,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/9c908926528b",
             "title": "Heaps and Stacks Data Structure in Swift",
             "link": "https://medium.com/@sarinyaswift/heaps-and-stacks-data-structure-in-swift-9c908926528b?source=rss-ed60eee1cd58------2",
             "updated": 1575724182,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/a8277c6a2ad9",
             "title": "Intro To The Graph Data Structure",
             "link": "https://medium.com/@sarinyaswift/intro-to-the-graph-data-structure-a8277c6a2ad9?source=rss-ed60eee1cd58------2",
             "updated": 1566035560,
-            "site_name": "Sarin Swift on Medium"
-        },
-        {
-            "id": "https://medium.com/p/baa755abe16a",
-            "title": "Memory Management in Swift: Heaps & Stacks",
-            "link": "https://heartbeat.comet.ml/memory-management-in-swift-heaps-stacks-baa755abe16a?source=rss-ed60eee1cd58------2",
-            "updated": 1633349224,
-            "site_name": "Sarin Swift on Medium"
-        },
-        {
-            "id": "https://medium.com/p/f6d5c093817e",
-            "title": "Easy Google Maps Setup Tutorial\u2014 Swift 5",
-            "link": "https://betterprogramming.pub/easy-google-maps-setup-tutorial-swift-4-f6d5c093817e?source=rss-ed60eee1cd58------2",
-            "updated": 1559290083,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/ae3cf8a5b975",
             "title": "Doubly Linked Lists\u200a\u2014\u200aSwift 4",
             "link": "https://medium.com/@sarinyaswift/doubly-linked-lists-swift-4-ae3cf8a5b975?source=rss-ed60eee1cd58------2",
             "updated": 1560849591,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
+        },
+        {
+            "id": "https://medium.com/p/f6d5c093817e",
+            "title": "Easy Google Maps Setup Tutorial\u2014 Swift 5",
+            "link": "https://betterprogramming.pub/easy-google-maps-setup-tutorial-swift-4-f6d5c093817e?source=rss-ed60eee1cd58------2",
+            "updated": 1559290083,
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/caea34cbdada",
             "title": "Linked List Implementation in Swift 4",
             "link": "https://medium.com/@sarinyaswift/linked-list-implementation-in-swift-4-caea34cbdada?source=rss-ed60eee1cd58------2",
             "updated": 1559048467,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/ad48ec4cbd45",
             "title": "Easy TableView Setup Tutorial\u200a\u2014\u200aSwift 4",
             "link": "https://medium.com/@sarinyaswift/easy-tableview-setup-tutorial-swift-4-ad48ec4cbd45?source=rss-ed60eee1cd58------2",
             "updated": 1556621580,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/d4fbcc7dc67b",
             "title": "Software Product Development",
             "link": "https://uxdesign.cc/software-product-development-d4fbcc7dc67b?source=rss-ed60eee1cd58------2",
             "updated": 1544650213,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         },
         {
             "id": "https://medium.com/p/cfed04bb1a2e",
             "title": "Helping health and fitness with tech",
             "link": "https://uxdesign.cc/spd1-1-health-and-diet-cfed04bb1a2e?source=rss-ed60eee1cd58------2",
             "updated": 1540061535,
-            "site_name": "Sarin Swift on Medium"
+            "site_url": "https://medium.com/@sarinyaswift"
         }
     ]
 }

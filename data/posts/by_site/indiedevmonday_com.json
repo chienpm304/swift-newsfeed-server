@@ -1,75 +1,75 @@
 {
-    "updated": 1714471121,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://indiedevmonday.com/issue-140",
             "title": "Issue #140 - Justin Bianco",
             "link": "https://indiedevmonday.com/issue-140",
             "updated": 1706500800,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-139",
             "title": "Issue #139 - Kyle Bashour",
             "link": "https://indiedevmonday.com/issue-139",
             "updated": 1705896000,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-138",
             "title": "Issue #138 - Manuel Kehl",
             "link": "https://indiedevmonday.com/issue-138",
             "updated": 1705291200,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-137",
             "title": "Issue #137 - Joe Fabisevich",
             "link": "https://indiedevmonday.com/issue-137",
             "updated": 1681099200,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-136",
             "title": "Issue #136 - Naftali Antebi",
             "link": "https://indiedevmonday.com/issue-136",
             "updated": 1678075200,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-135",
             "title": "Issue #135 - Sen",
             "link": "https://indiedevmonday.com/issue-135",
             "updated": 1677470400,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-134",
             "title": "Issue #134 - Stewart Lynch",
             "link": "https://indiedevmonday.com/issue-134",
             "updated": 1676865600,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-133",
             "title": "Issue #133 - Lena Mattea Stoxen",
             "link": "https://indiedevmonday.com/issue-133",
             "updated": 1676260800,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-132",
             "title": "Issue #132 - No-op",
             "link": "https://indiedevmonday.com/issue-132",
             "updated": 1675051200,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         },
         {
             "id": "https://indiedevmonday.com/issue-131",
             "title": "Issue #131 - Marin Todorov",
             "link": "https://indiedevmonday.com/issue-131",
             "updated": 1674446400,
-            "site_name": "Indie Dev Monday"
+            "site_url": "https://indiedevmonday.com"
         }
     ]
 }

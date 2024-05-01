@@ -1,299 +1,299 @@
 {
-    "updated": 1714471096,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://contravariance.rocks/episodes/406_show_notes.html",
             "title": "406: Index out of Bounds",
             "link": "https://contravariance.rocks/episodes/406_show_notes.html",
             "updated": 1646053200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/405_show_notes.html",
             "title": "405: Because 404 Not Found",
             "link": "https://contravariance.rocks/episodes/405_show_notes.html",
             "updated": 1634220000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/403_show_notes.html",
             "title": "403: A Surprise Guest",
             "link": "https://contravariance.rocks/episodes/403_show_notes.html",
             "updated": 1629381600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/402_show_notes.html",
             "title": "402: Platform Teams",
             "link": "https://contravariance.rocks/episodes/402_show_notes.html",
             "updated": 1621342800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/401_show_notes.html",
             "title": "401: Hello Management, Goodbye Coding",
             "link": "https://contravariance.rocks/episodes/401_show_notes.html",
             "updated": 1614258000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/316_show_notes.html",
             "title": "316: A Jolly SwiftUI Christmas Special",
             "link": "https://contravariance.rocks/episodes/316_show_notes.html",
             "updated": 1608642000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/315_show_notes.html",
             "title": "315: A Special Episode Looking Forward",
             "link": "https://contravariance.rocks/episodes/315_show_notes.html",
             "updated": 1603976400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/314_show_notes.html",
             "title": "314: iPhone 12 & Apple Silicon",
             "link": "https://contravariance.rocks/episodes/314_show_notes.html",
             "updated": 1603371600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/313_show_notes.html",
             "title": "313: Bas leaves XING",
             "link": "https://contravariance.rocks/episodes/313_show_notes.html",
             "updated": 1602162000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/312_show_notes.html",
             "title": "312: Windows, Apple Event and ARM Macs",
             "link": "https://contravariance.rocks/episodes/312_show_notes.html",
             "updated": 1601557200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/311_show_notes.html",
             "title": "311: The History of NSSpain",
             "link": "https://contravariance.rocks/episodes/311_show_notes.html",
             "updated": 1600952400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/310_show_notes.html",
             "title": "310: iOS is Hard",
             "link": "https://contravariance.rocks/episodes/310_show_notes.html",
             "updated": 1600347600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/309_show_notes.html",
             "title": "309: CodeConf",
             "link": "https://contravariance.rocks/episodes/309_show_notes.html",
             "updated": 1599742800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/308_show_notes.html",
             "title": "308: WWDC 2020",
             "link": "https://contravariance.rocks/episodes/308_show_notes.html",
             "updated": 1595336400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/307_show_notes.html",
             "title": "307: Revealing Benedikt's Side Project",
             "link": "https://contravariance.rocks/episodes/307_show_notes.html",
             "updated": 1591882200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/306_show_notes.html",
             "title": "306: The Star Wars Babka Computer Delivery",
             "link": "https://contravariance.rocks/episodes/306_show_notes.html",
             "updated": 1589461200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/305_show_notes.html",
             "title": "305: Clearly my home screen is better than yours",
             "link": "https://contravariance.rocks/episodes/305_show_notes.html",
             "updated": 1587040200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/304_show_notes.html",
             "title": "304: What is a CNAME Again?",
             "link": "https://contravariance.rocks/episodes/304_show_notes.html",
             "updated": 1584624600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/303_show_notes.html",
             "title": "303: Chocolate, Time, and Swift Scripts. Your Move, Elon.",
             "link": "https://contravariance.rocks/episodes/303_show_notes.html",
             "updated": 1583413200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/302_show_notes.html",
             "title": "302: Ink, Plot, Publish and More - With Special Guest John \"Paul Hudson\" Sundell",
             "link": "https://contravariance.rocks/episodes/302_show_notes.html",
             "updated": 1581685200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/301_show_notes.html",
             "title": "301: Live from CocoaHeads Hamburg",
             "link": "https://contravariance.rocks/episodes/301_show_notes.html",
             "updated": 1579006800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/214_show_notes.html",
             "title": "214: Donny Wals' Advent of Swift, Disney+ and other things - A special Christmas Episode",
             "link": "https://contravariance.rocks/episodes/214_show_notes.html",
             "updated": 1576760400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/213_show_notes.html",
             "title": "213: MacBooks, AirPods Pro, GitHub Mobile & SwiftUI",
             "link": "https://contravariance.rocks/episodes/213_show_notes.html",
             "updated": 1574344800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/212_show_notes.html",
             "title": "212: SwiftConf, NSSpain, mobiconf, and FrenchKit - With Special Guest Antoine van der Lee",
             "link": "https://contravariance.rocks/episodes/212_show_notes.html",
             "updated": 1571317200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/211_show_notes.html",
             "title": "211: Our thoughts on Xcode 11",
             "link": "https://contravariance.rocks/episodes/211_show_notes.html",
             "updated": 1567177200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/210_show_notes.html",
             "title": "210: Implementing SwiftUI on top of UIKit in iOS 12",
             "link": "https://contravariance.rocks/episodes/210_show_notes.html",
             "updated": 1565701200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/209_show_notes.html",
             "title": "209: Hackintoshes, new Apple Hardware, and an explanation of why VIM is cool",
             "link": "https://contravariance.rocks/episodes/209_show_notes.html",
             "updated": 1565269200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/208_show_notes.html",
             "title": "208: The Static Catalyst iPad Window Refactoring Project Conference",
             "link": "https://contravariance.rocks/episodes/208_show_notes.html",
             "updated": 1562850000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/207_show_notes.html",
             "title": "207: WWDC: Better Late Than Never",
             "link": "https://contravariance.rocks/episodes/207_show_notes.html",
             "updated": 1561035600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/206_show_notes.html",
             "title": "206: Not Work",
             "link": "https://contravariance.rocks/episodes/206_show_notes.html",
             "updated": 1558702800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/205_show_notes.html",
             "title": "205: WWDC Tips and Rumors",
             "link": "https://contravariance.rocks/episodes/205_show_notes.html",
             "updated": 1557446400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/204_show_notes.html",
             "title": "204: let substring = string[string.index(string.startIndex, offsetBy: 5) ..< string.index(string.startIndex, offsetBy: 15)]",
             "link": "https://contravariance.rocks/episodes/204_show_notes.html",
             "updated": 1554382800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/203_show_notes.html",
             "title": "203: Technical Writing",
             "link": "https://contravariance.rocks/episodes/203_show_notes.html",
             "updated": 1553173200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/202_show_notes.html",
             "title": "202: Putting Pieces in Place",
             "link": "https://contravariance.rocks/episodes/202_show_notes.html",
             "updated": 1551963600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/201_show_notes.html",
             "title": "201: application(_:willContinueUserActivityWithType:)",
             "link": "https://contravariance.rocks/episodes/201_show_notes.html",
             "updated": 1550757600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/107_show_notes.html",
             "title": "107: Xcode 10.2 beta 1 and the Swift Community Podcast",
             "link": "https://contravariance.rocks/episodes/107_show_notes.html",
             "updated": 1548939600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/106_show_notes.html",
             "title": "106: Refactoring Across a Large Code Base",
             "link": "https://contravariance.rocks/episodes/106_show_notes.html",
             "updated": 1541682000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/105_show_notes.html",
             "title": "105: Paul \"John Sundell\" Hudson",
             "link": "https://contravariance.rocks/episodes/105_show_notes.html",
             "updated": 1539867600,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/104_show_notes.html",
             "title": "104: Conferences",
             "link": "https://contravariance.rocks/episodes/104_show_notes.html",
             "updated": 1538658000,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/103_show_notes.html",
             "title": "103: A Philosophical Treatise on the Definition of Pro",
             "link": "https://contravariance.rocks/episodes/103_show_notes.html",
             "updated": 1536238800,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/102_show_notes.html",
             "title": "102: The Most Awful Static Site Engine",
             "link": "https://contravariance.rocks/episodes/102_show_notes.html",
             "updated": 1535029200,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         },
         {
             "id": "https://contravariance.rocks/episodes/101_show_notes.html",
             "title": "101: applicationDidFinishLaunching:",
             "link": "https://contravariance.rocks/episodes/101_show_notes.html",
             "updated": 1534154400,
-            "site_name": "Contravariance"
+            "site_url": "https://contravariance.rocks/"
         }
     ]
 }

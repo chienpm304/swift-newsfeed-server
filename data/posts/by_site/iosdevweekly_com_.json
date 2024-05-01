@@ -1,75 +1,75 @@
 {
-    "updated": 1714471128,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://iosdevweekly.com/issues/658",
             "title": "iOS Dev Weekly - Issue 658 - Apr 26th 2024",
             "link": "https://iosdevweekly.com/issues/658",
             "updated": 1714125141,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/657",
             "title": "iOS Dev Weekly - Issue 657 - Apr 19th 2024",
             "link": "https://iosdevweekly.com/issues/657",
             "updated": 1713519000,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/656",
             "title": "iOS Dev Weekly - Issue 656 - Apr 12th 2024",
             "link": "https://iosdevweekly.com/issues/656",
             "updated": 1712919654,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/655",
             "title": "iOS Dev Weekly - Issue 655 - Apr 5th 2024",
             "link": "https://iosdevweekly.com/issues/655",
             "updated": 1712307600,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/654",
             "title": "iOS Dev Weekly - Issue 654 - Mar 29th 2024",
             "link": "https://iosdevweekly.com/issues/654",
             "updated": 1711699200,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/653",
             "title": "iOS Dev Weekly - Issue 653 - Mar 22nd 2024",
             "link": "https://iosdevweekly.com/issues/653",
             "updated": 1711101277,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/652",
             "title": "iOS Dev Weekly - Issue 652 - Mar 15th 2024",
             "link": "https://iosdevweekly.com/issues/652",
             "updated": 1710509381,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/651",
             "title": "iOS Dev Weekly - Issue 651 - Mar 8th 2024",
             "link": "https://iosdevweekly.com/issues/651",
             "updated": 1709897491,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/650",
             "title": "iOS Dev Weekly - Issue 650 - Mar 1st 2024",
             "link": "https://iosdevweekly.com/issues/650",
             "updated": 1709286510,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         },
         {
             "id": "https://iosdevweekly.com/issues/649",
             "title": "iOS Dev Weekly - Issue 649 - Feb 23rd 2024",
             "link": "https://iosdevweekly.com/issues/649",
             "updated": 1708690649,
-            "site_name": "iOS Dev Weekly"
+            "site_url": "https://iosdevweekly.com/"
         }
     ]
 }

@@ -1,75 +1,75 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "https://paulpeelen.com/SimpleCalendar",
             "title": "Create a calendar view in SwiftUI",
             "link": "https://paulpeelen.com/SimpleCalendar",
             "updated": 1695693600,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/MultiTypeChart",
             "title": "SwiftUI Multi data-type chart",
             "link": "https://paulpeelen.com/MultiTypeChart",
             "updated": 1676253600,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/SetupSlackWithXcodeCloud",
             "title": "Post notification to Slack from Xcode Cloud",
             "link": "https://paulpeelen.com/SetupSlackWithXcodeCloud",
             "updated": 1655121600,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/GettingStartedWithXcodeCloud",
             "title": "Getting started with Xcode Cloud",
             "link": "https://paulpeelen.com/GettingStartedWithXcodeCloud",
             "updated": 1654603200,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/GHA-m1",
             "title": "Setup GitHub Actions Runner on M1 Mac",
             "link": "https://paulpeelen.com/GHA-m1",
             "updated": 1652878800,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/SettingUpCarPlay",
             "title": "Setting up your first CarPlay \"app\"",
             "link": "https://paulpeelen.com/SettingUpCarPlay",
             "updated": 1652875200,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/CoreMLAPI",
             "title": "Creating an API serving CoreML results",
             "link": "https://paulpeelen.com/CoreMLAPI",
             "updated": 1631548801,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/SwiftNetworkManager",
             "title": "A simple network manager in Swift",
             "link": "https://paulpeelen.com/SwiftNetworkManager",
             "updated": 1623753000,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/FailingSafely",
             "title": "Failing safely in iOS Development",
             "link": "https://paulpeelen.com/FailingSafely",
             "updated": 1622548800,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         },
         {
             "id": "https://paulpeelen.com/NewSite",
             "title": "New & Refreshed!",
             "link": "https://paulpeelen.com/NewSite",
             "updated": 1622520000,
-            "site_name": "Paul Peelen.com"
+            "site_url": "https://paulpeelen.com/tag/ios"
         }
     ]
 }

@@ -1,47 +1,47 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/c1e69635c7b5",
             "title": "Resilient deserialization in swift",
             "link": "https://medium.com/@_myrddin_/resilient-deserialization-in-swift-c1e69635c7b5?source=rss-aae4165d399------2",
             "updated": 1580822804,
-            "site_name": "Gwenn Guihal on Medium"
+            "site_url": "https://medium.com/@_myrddin_"
         },
         {
             "id": "https://medium.com/p/1372b3a04687",
             "title": "TableView Datasource with SwiftUI-style syntax",
             "link": "https://medium.com/@_myrddin_/tableview-datasource-with-swiftui-style-syntax-1372b3a04687?source=rss-aae4165d399------2",
             "updated": 1574739598,
-            "site_name": "Gwenn Guihal on Medium"
+            "site_url": "https://medium.com/@_myrddin_"
         },
         {
             "id": "https://medium.com/p/d13aea5ae642",
             "title": "Create your own UICollectionView API",
             "link": "https://medium.com/@_myrddin_/create-your-own-uicollectionview-api-d13aea5ae642?source=rss-aae4165d399------2",
             "updated": 1574739585,
-            "site_name": "Gwenn Guihal on Medium"
-        },
-        {
-            "id": "https://medium.com/p/62bdd8eef3de",
-            "title": "Troisix \u2014 the hungry Ogre (media kit)",
-            "link": "https://medium.com/@_myrddin_/troisix-the-hungry-ogre-media-kit-62bdd8eef3de?source=rss-aae4165d399------2",
-            "updated": 1543888118,
-            "site_name": "Gwenn Guihal on Medium"
+            "site_url": "https://medium.com/@_myrddin_"
         },
         {
             "id": "https://medium.com/p/8f37064de388",
             "title": "UICollectionView: How to easily deal with updates",
             "link": "https://medium.com/@_myrddin_/uicollectionview-how-to-easily-deal-with-updates-8f37064de388?source=rss-aae4165d399------2",
             "updated": 1574739571,
-            "site_name": "Gwenn Guihal on Medium"
+            "site_url": "https://medium.com/@_myrddin_"
         },
         {
             "id": "https://medium.com/p/b55e73d81a59",
             "title": "Collor: a MVVM data-oriented framework for UICollectionView",
             "link": "https://medium.com/@_myrddin_/collor-a-mvvm-data-oriented-framework-for-uicollectionview-b55e73d81a59?source=rss-aae4165d399------2",
             "updated": 1574739557,
-            "site_name": "Gwenn Guihal on Medium"
+            "site_url": "https://medium.com/@_myrddin_"
+        },
+        {
+            "id": "https://medium.com/p/62bdd8eef3de",
+            "title": "Troisix \u2014 the hungry Ogre (media kit)",
+            "link": "https://medium.com/@_myrddin_/troisix-the-hungry-ogre-media-kit-62bdd8eef3de?source=rss-aae4165d399------2",
+            "updated": 1543888118,
+            "site_url": "https://medium.com/@_myrddin_"
         }
     ]
 }

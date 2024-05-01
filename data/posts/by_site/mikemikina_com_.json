@@ -1,40 +1,40 @@
 {
-    "updated": 1714470889,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://mikemikina.com/blog/tutorial-building-a-facebook-bot-with-vapor-3-and-swift-part-1",
             "title": "Tutorial: Building a Facebook bot with Vapor 3 and Swift, part I",
             "link": "https://mikemikina.com/blog/tutorial-building-a-facebook-bot-with-vapor-3-and-swift-part-1/",
             "updated": 1561467692,
-            "site_name": "Mike Mikina\u2019s Blog"
+            "site_url": "https://mikemikina.com/"
         },
         {
             "id": "https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift",
             "title": "Using the dependency injection framework for testing in Vapor 3 and Swift",
             "link": "https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/",
             "updated": 1554901932,
-            "site_name": "Mike Mikina\u2019s Blog"
+            "site_url": "https://mikemikina.com/"
         },
         {
             "id": "https://mikemikina.com/blog/testing",
             "title": "How to test controllers by mocking dependencies in Vapor 3 and Swift",
             "link": "https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/",
             "updated": 1553001065,
-            "site_name": "Mike Mikina\u2019s Blog"
+            "site_url": "https://mikemikina.com/"
         },
         {
             "id": "https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux",
             "title": "Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux",
             "link": "https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/",
             "updated": 1544092056,
-            "site_name": "Mike Mikina\u2019s Blog"
+            "site_url": "https://mikemikina.com/"
         },
         {
             "id": "https://mikemikina.com/blog/today-i-started-my-blog-but-why",
             "title": "Today I started my blog. But why?",
             "link": "https://mikemikina.com/blog/today-i-started-my-blog-but-why/",
             "updated": 1523287046,
-            "site_name": "Mike Mikina\u2019s Blog"
+            "site_url": "https://mikemikina.com/"
         }
     ]
 }

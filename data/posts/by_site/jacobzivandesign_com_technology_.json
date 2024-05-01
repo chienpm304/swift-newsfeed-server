@@ -1,124 +1,124 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://JacobZivanDesign.com/foresight/urgency",
             "title": "Goals are\u2026 hard.",
             "link": "https://JacobZivanDesign.com/foresight/urgency",
             "updated": 1676117580,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/navigation-stack-wwdc-2022",
             "title": "Intelligent Navigation with SwiftUI",
             "link": "https://JacobZivanDesign.com/technology/navigation-stack-wwdc-2022",
             "updated": 1659852780,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/deep-linking-in-swift-ui",
             "title": "Deep Links",
             "link": "https://JacobZivanDesign.com/technology/deep-linking-in-swift-ui",
             "updated": 1659161580,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/making-logs-more-useful",
             "title": "When Stack Traces Aren't Useful\u2026",
             "link": "https://JacobZivanDesign.com/technology/making-logs-more-useful",
             "updated": 1658988780,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/polymorphic-serialization-in-swift",
             "title": "Polymorphic Serialization in Swift",
             "link": "https://JacobZivanDesign.com/technology/polymorphic-serialization-in-swift",
             "updated": 1637388780,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/dependency-injection-in-swift-ui",
             "title": "Dependency Injection",
             "link": "https://JacobZivanDesign.com/technology/dependency-injection-in-swift-ui",
             "updated": 1635376380,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/custom-fonts-from-swift-package",
             "title": "Packaging your Custom Fonts in Swift Packages",
             "link": "https://JacobZivanDesign.com/technology/custom-fonts-from-swift-package",
             "updated": 1632957180,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/presenter-patterns",
             "title": "The Presenter Pattern",
             "link": "https://JacobZivanDesign.com/technology/presenter-patterns",
             "updated": 1628644380,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/dark_mode_swift_ui",
             "title": "Handling Dark Mode Elegantly in SwiftUI",
             "link": "https://JacobZivanDesign.com/technology/dark_mode_swift_ui",
             "updated": 1615079580,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/mockingbird",
             "title": "Auto-Magically generate mocks using Mockingbird",
             "link": "https://JacobZivanDesign.com/technology/mockingbird",
             "updated": 1614827580,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/mocking_and_stubbing",
             "title": "What's Mocking and Stubbing?",
             "link": "https://JacobZivanDesign.com/technology/mocking_and_stubbing",
             "updated": 1614741180,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/mirroring-kotlins-elvis-operator",
             "title": "Mirroring Kotlin's Elvis Operator in Swift",
             "link": "https://JacobZivanDesign.com/technology/mirroring-kotlins-elvis-operator",
             "updated": 1609722780,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/custom-dynamic-fonts-in-swift-ui",
             "title": "Scalable Custom Fonts in SwiftUI",
             "link": "https://JacobZivanDesign.com/technology/custom-dynamic-fonts-in-swift-ui",
             "updated": 1609643580,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/responding-to-accessible-font-sizes-swiftui",
             "title": "Responsive View Components",
             "link": "https://JacobZivanDesign.com/technology/responding-to-accessible-font-sizes-swiftui",
             "updated": 1609625400,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/why-we-work-matters",
             "title": "Why We Work Matters",
             "link": "https://JacobZivanDesign.com/technology/why-we-work-matters",
             "updated": 1609467000,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/small-prs",
             "title": "Small Pull Requests",
             "link": "https://JacobZivanDesign.com/technology/small-prs",
             "updated": 1609456380,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         },
         {
             "id": "https://JacobZivanDesign.com/technology/five-star-rating",
             "title": "A Precise 5 Star Rating with\u00a0SwiftUI",
             "link": "https://JacobZivanDesign.com/technology/five-star-rating",
             "updated": 1600477980,
-            "site_name": "Jacob Zivan Design"
+            "site_url": "https://jacobzivandesign.com/technology/"
         }
     ]
 }

@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
-            "id": "https://medium.com/p/7314d0c51318",
-            "title": "All you never wanted to know about state in SwiftUI",
-            "link": "https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318?source=rss-30f43bddcaef------2",
-            "updated": 1575880168,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/941ecfff8dc3",
-            "title": "Adding Advanced Features to your Network Stack in Swift",
-            "link": "https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3?source=rss-30f43bddcaef------2",
-            "updated": 1567063183,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/e2f5d9ab3ea9",
-            "title": "Writing an Elegant and Extensible Network Stack in Swift",
-            "link": "https://medium.com/device-blogs/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9?source=rss-30f43bddcaef------2",
-            "updated": 1567063082,
-            "site_name": "Device Blogs"
+            "id": "https://medium.com/p/aed0872251e8",
+            "title": "The Game Theory of \u2018Bullshit\u2019",
+            "link": "https://medium.com/game-of-theories/the-game-theory-of-bullshit-aed0872251e8?source=rss-30f43bddcaef------2",
+            "updated": 1590149664,
+            "site_url": "https://medium.com/@peterlivesey"
         },
         {
             "id": "https://medium.com/p/2922c9b3bff3",
             "title": "The Many Offline Options for iOS Apps",
             "link": "https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3?source=rss-30f43bddcaef------2",
             "updated": 1576865755,
-            "site_name": "Device Blogs"
+            "site_url": "https://medium.com/@peterlivesey"
         },
         {
-            "id": "https://medium.com/p/aed0872251e8",
-            "title": "The Game Theory of \u2018Bullshit\u2019",
-            "link": "https://medium.com/game-of-theories/the-game-theory-of-bullshit-aed0872251e8?source=rss-30f43bddcaef------2",
-            "updated": 1590149664,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/e587fef5bfbc",
-            "title": "Assertions in Production",
-            "link": "https://medium.com/device-blogs/assertions-in-production-e587fef5bfbc?source=rss-30f43bddcaef------2",
-            "updated": 1542184572,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/3f7d18f92c17",
-            "title": "Pirates with PhDs",
-            "link": "https://medium.com/game-of-theories/pirates-with-phds-3f7d18f92c17?source=rss-30f43bddcaef------2",
-            "updated": 1538760745,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/11945f0b8abf",
-            "title": "5 Steps to a Better Onboarding Experience",
-            "link": "https://medium.com/device-blogs/5-steps-to-a-better-onboarding-experience-11945f0b8abf?source=rss-30f43bddcaef------2",
-            "updated": 1537522566,
-            "site_name": "Device Blogs"
-        },
-        {
-            "id": "https://medium.com/p/bc2e547f4c54",
-            "title": "The Game Theory of HORSE",
-            "link": "https://medium.com/game-of-theories/the-game-theory-of-horse-bc2e547f4c54?source=rss-30f43bddcaef------2",
-            "updated": 1533449609,
-            "site_name": "Device Blogs"
+            "id": "https://medium.com/p/7314d0c51318",
+            "title": "All you never wanted to know about state in SwiftUI",
+            "link": "https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318?source=rss-30f43bddcaef------2",
+            "updated": 1575880168,
+            "site_url": "https://medium.com/@peterlivesey"
         },
         {
             "id": "https://medium.com/p/e154d1c28aaf",
             "title": "Advanced Swift debugging for UIKit",
             "link": "https://medium.com/superhuman-co/advanced-swift-debugging-for-uikit-e154d1c28aaf?source=rss-30f43bddcaef------2",
             "updated": 1570744926,
-            "site_name": "Device Blogs"
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/941ecfff8dc3",
+            "title": "Adding Advanced Features to your Network Stack in Swift",
+            "link": "https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3?source=rss-30f43bddcaef------2",
+            "updated": 1567063183,
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/e2f5d9ab3ea9",
+            "title": "Writing an Elegant and Extensible Network Stack in Swift",
+            "link": "https://medium.com/device-blogs/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9?source=rss-30f43bddcaef------2",
+            "updated": 1567063082,
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/e587fef5bfbc",
+            "title": "Assertions in Production",
+            "link": "https://medium.com/device-blogs/assertions-in-production-e587fef5bfbc?source=rss-30f43bddcaef------2",
+            "updated": 1542184572,
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/3f7d18f92c17",
+            "title": "Pirates with PhDs",
+            "link": "https://medium.com/game-of-theories/pirates-with-phds-3f7d18f92c17?source=rss-30f43bddcaef------2",
+            "updated": 1538760745,
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/11945f0b8abf",
+            "title": "5 Steps to a Better Onboarding Experience",
+            "link": "https://medium.com/device-blogs/5-steps-to-a-better-onboarding-experience-11945f0b8abf?source=rss-30f43bddcaef------2",
+            "updated": 1537522566,
+            "site_url": "https://medium.com/@peterlivesey"
+        },
+        {
+            "id": "https://medium.com/p/bc2e547f4c54",
+            "title": "The Game Theory of HORSE",
+            "link": "https://medium.com/game-of-theories/the-game-theory-of-horse-bc2e547f4c54?source=rss-30f43bddcaef------2",
+            "updated": 1533449609,
+            "site_url": "https://medium.com/@peterlivesey"
         }
     ]
 }

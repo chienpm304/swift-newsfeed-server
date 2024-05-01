@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://dasdom.dev/hot-reloading-in-swiftui",
             "title": "Hot Reloading In SwiftUI",
             "link": "https://dasdom.dev/hot-reloading-in-swiftui/",
             "updated": 1714345200,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/renaming-a-widget-extension",
             "title": "Renaming a widget extension",
             "link": "https://dasdom.dev/renaming-a-widget-extension/",
             "updated": 1659834000,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/minimize-number-of-test-assertions",
             "title": "Minimize the number of test assertions",
             "link": "https://dasdom.dev/minimize-number-of-test-assertions/",
             "updated": 1654909200,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/move-focus",
             "title": "Xcode - Move Focus",
             "link": "https://dasdom.dev/move-focus/",
             "updated": 1643936400,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/the-view-debugger-in-xcode",
             "title": "The View Debugger in Xcode",
             "link": "https://dasdom.dev/the-view-debugger-in-xcode/",
             "updated": 1642899600,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/environment-overrides",
             "title": "Environment Overrides",
             "link": "https://dasdom.dev/environment-overrides/",
             "updated": 1631422800,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/contextual-action-menu",
             "title": "The Contextual Action Menu",
             "link": "https://dasdom.dev/contextual-action-menu/",
             "updated": 1630558800,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/find-a-view-in-view-debugger",
             "title": "Find A Problematic View In The View Debugger",
             "link": "https://dasdom.dev/find-a-view-in-view-debugger/",
             "updated": 1629781200,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/accessibility-inspector",
             "title": "The Accessibility Inspector",
             "link": "https://dasdom.dev/accessibility-inspector/",
             "updated": 1629090000,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         },
         {
             "id": "https://dasdom.dev/snippet-library",
             "title": "The Snippet Library In Xcode",
             "link": "https://dasdom.dev/snippet-library/",
             "updated": 1628312400,
-            "site_name": "Dasdom Dev Blog"
+            "site_url": "https://dasdom.dev"
         }
     ]
 }

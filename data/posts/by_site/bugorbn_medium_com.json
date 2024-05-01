@@ -1,75 +1,75 @@
 {
-    "updated": 1714471128,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/023970d80c75",
             "title": "Structure Oriented Programming VS Protocol Oriented Programming in Swift",
             "link": "https://itnext.io/structure-oriented-programming-vs-protocol-oriented-programming-in-swift-023970d80c75?source=rss-53da94055385------2",
             "updated": 1700175929,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/b2afc10ec775",
             "title": "Optimizing work in iOS runtime",
             "link": "https://itnext.io/optimizing-work-in-ios-runtime-b2afc10ec775?source=rss-53da94055385------2",
             "updated": 1697500188,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/d383848e8ba4",
             "title": "OperationQueue + Asynchronous Code",
             "link": "https://betterprogramming.pub/operationqueue-asynchronous-code-d383848e8ba4?source=rss-53da94055385------2",
             "updated": 1695651172,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/a66ff9638a02",
             "title": "Unsafe Memory Access in Swift",
             "link": "https://bugorbn.medium.com/unsafe-memory-access-in-swift-a66ff9638a02?source=rss-53da94055385------2",
             "updated": 1694221941,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/51793eb5aa8b",
             "title": "Scrollable lists using Protocol-Oriented Programming and UICollectionViewCompositionalLayout",
             "link": "https://bugorbn.medium.com/scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewcompositionallayout-51793eb5aa8b?source=rss-53da94055385------2",
             "updated": 1693052932,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/6e5225661cc4",
             "title": "Scrollable lists using Protocol-Oriented Programming and UICollectionViewFlowLayout",
             "link": "https://bugorbn.medium.com/scrollable-lists-using-protocol-oriented-programming-and-uicollectionviewflowlayout-6e5225661cc4?source=rss-53da94055385------2",
             "updated": 1692437951,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/7caaba7ff477",
             "title": "Share data across devices without internet access. iOS Multipeer Connectivity",
             "link": "https://bugorbn.medium.com/share-data-between-devices-without-internet-access-ios-multipeer-connectivity-7caaba7ff477?source=rss-53da94055385------2",
             "updated": 1691245781,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/bf0010a8f43",
             "title": "Creating and Modifying UIKit Components Like in SwiftUI",
             "link": "https://betterprogramming.pub/creating-and-modifying-uikit-components-like-in-swiftui-bf0010a8f43?source=rss-53da94055385------2",
             "updated": 1690901026,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/4c33bd290ff1",
             "title": "State Management Using Protocol-Oriented Programming + Generics",
             "link": "https://betterprogramming.pub/state-management-using-protocol-oriented-programming-generics-4c33bd290ff1?source=rss-53da94055385------2",
             "updated": 1690792160,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         },
         {
             "id": "https://medium.com/p/251a6581c03",
             "title": "UIViewController lifecycle under the hood",
             "link": "https://bugorbn.medium.com/uiviewcontroller-lifecycle-under-the-hood-251a6581c03?source=rss-53da94055385------2",
             "updated": 1689341739,
-            "site_name": "iOS Development Tips and Tricks"
+            "site_url": "https://bugorbn.medium.com"
         }
     ]
 }

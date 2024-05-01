@@ -1,47 +1,47 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://fullytyped.com/2019/03/03/multi-project-strings-with-twine-and-r/",
             "title": "Multi project strings With Twine and R.swift",
             "link": "http://fullytyped.com/2019/03/03/multi-project-strings-with-twine-and-r/",
             "updated": 1551607964,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         },
         {
             "id": "http://fullytyped.com/2019/01/07/on-screen-unit-tests/",
             "title": "Unit testing views and view controllers on screen",
             "link": "http://fullytyped.com/2019/01/07/on-screen-unit-tests/",
             "updated": 1546872637,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         },
         {
             "id": "http://fullytyped.com/2019/01/06/unit-test-without-entire-app/",
             "title": "How To: Unit Test Without Running The Entire App",
             "link": "http://fullytyped.com/2019/01/06/unit-test-without-entire-app/",
             "updated": 1546788249,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         },
         {
             "id": "http://fullytyped.com/2018/12/12/custom-modal-animations/",
             "title": "Animating Modal View Controller Transitions",
             "link": "http://fullytyped.com/2018/12/12/custom-modal-animations/",
             "updated": 1544622098,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         },
         {
             "id": "http://fullytyped.com/2017/08/01/updating-xcode-managed-provisioning-profiles/",
             "title": "Updating Xcode Managed Provisioning Profiles",
             "link": "http://fullytyped.com/2017/08/01/updating-xcode-managed-provisioning-profiles/",
             "updated": 1501592991,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         },
         {
             "id": "http://fullytyped.com/about/",
             "title": "About",
             "link": "http://fullytyped.com/about/",
             "updated": 1500731475,
-            "site_name": "FullyTyped"
+            "site_url": "http://fullytyped.com"
         }
     ]
 }

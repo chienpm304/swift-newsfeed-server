@@ -1,26 +1,26 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://newcombe.io/?p=105",
             "title": "Validation with SwiftUI & Combine \u2013 Part 2",
             "link": "https://newcombe.io/2020/06/08/validation-with-swiftui-combine-part-2/",
             "updated": 1591621707,
-            "site_name": "Jack Newcombe's Blog"
+            "site_url": "https://newcombe.io/tag/ios/"
         },
         {
             "id": "https://newcombe.io/?p=73",
             "title": "Validation with SwiftUI & Combine \u2013 Part 1",
             "link": "https://newcombe.io/2020/03/05/validation-with-swiftui-combine-part-1/",
             "updated": 1583418708,
-            "site_name": "Jack Newcombe's Blog"
+            "site_url": "https://newcombe.io/tag/ios/"
         },
         {
             "id": "https://newcombe.io/?p=61",
             "title": "Using Swift\u2019s CombineLatest Effectively",
             "link": "https://newcombe.io/2020/01/28/using-swifts-combinelatest-effectively/",
             "updated": 1580207668,
-            "site_name": "Jack Newcombe's Blog"
+            "site_url": "https://newcombe.io/tag/ios/"
         }
     ]
 }

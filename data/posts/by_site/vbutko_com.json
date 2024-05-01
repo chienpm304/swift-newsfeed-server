@@ -1,82 +1,82 @@
 {
-    "updated": 1714470982,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.vbutko.com/articles/how-to-customize-enum-decoding",
             "title": "How to customize Enum Decoding in Swift with code samples",
             "link": "https://www.vbutko.com/articles/how-to-customize-enum-decoding",
             "updated": 1697475600,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-improve-uitableview-and-uicollectionview-cell-deselection",
             "title": "How to Improve UITableView and UICollectionView Cell Deselection with Swift Code Examples",
             "link": "https://www.vbutko.com/articles/how-to-improve-uitableview-and-uicollectionview-cell-deselection",
             "updated": 1684947600,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-preserve-user-preferred-window-size-in-mac-catalyst-apps",
             "title": "How to Preserve User-Preferred Window Size in Mac Catalyst Apps",
             "link": "https://www.vbutko.com/articles/how-to-preserve-user-preferred-window-size-in-mac-catalyst-apps",
             "updated": 1681750800,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-create-uicollectionview-list-with-compositional-layout",
             "title": "How to create a UICollectionView List with Compositional Layout and UIDiffableDataSource in Swift",
             "link": "https://www.vbutko.com/articles/how-to-create-uicollectionview-list-with-compositional-layout",
             "updated": 1649005200,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-show-multiple-windows-catalyst",
             "title": "How to show multiple windows in Mac Catalyst and iPad apps",
             "link": "https://www.vbutko.com/articles/how-to-show-multiple-windows-catalyst",
             "updated": 1642870800,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-manage-swiftui-focus-state-in-ios14-and-before",
             "title": "How to manage SwiftUI Focus State in iOS14 and before?",
             "link": "https://www.vbutko.com/articles/how-to-manage-swiftui-focus-state-in-ios14-and-before",
             "updated": 1638118800,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-manage-focus-state-using-focusstate-in-swiftui",
             "title": "How to manage Focus State using @FocusState in SwiftUI",
             "link": "https://www.vbutko.com/articles/how-to-manage-focus-state-using-focusstate-in-swiftui",
             "updated": 1636909200,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-dismiss-swiftui-modal-view-embedded-in-a-uihostingcontroller",
             "title": "How to dismiss SwiftUI modal View embedded in a UIHostingController",
             "link": "https://www.vbutko.com/articles/how-to-dismiss-swiftui-modal-view-embedded-in-a-uihostingcontroller",
             "updated": 1636304400,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-dismiss-swiftui-modal-view",
             "title": "How to dismiss SwiftUI modal view",
             "link": "https://www.vbutko.com/articles/how-to-dismiss-swiftui-modal-view",
             "updated": 1635699600,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-add-a-shadow-to-uicollectionviewcell-with-compositional-layout",
             "title": "How to add a shadow to UICollectionViewCell with Compositional Layout?",
             "link": "https://www.vbutko.com/articles/how-to-add-a-shadow-to-uicollectionviewcell-with-compositional-layout",
             "updated": 1634490000,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         },
         {
             "id": "https://www.vbutko.com/articles/how-to-enable-self-sizing-cells-in-uicollectionviewcompositionallayout",
             "title": "How to enable self-sizing cells in UICollectionViewCompositionalLayout",
             "link": "https://www.vbutko.com/articles/how-to-enable-self-sizing-cells-in-uicollectionviewcompositionallayout",
             "updated": 1633885200,
-            "site_name": "Vlad Butko's Blog"
+            "site_url": "https://www.vbutko.com"
         }
     ]
 }

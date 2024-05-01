@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://alisoftware.github.io/yaml/2021/08/19/yaml-part2-strings/",
             "title": "YAML Superpowers, part 2: Multiline Strings",
             "link": "https://alisoftware.github.io/yaml/2021/08/19/yaml-part2-strings/",
             "updated": 1629306000,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/yaml/2021/08/17/yaml-part1-json/",
             "title": "YAML Superpowers, part 1: JSON is YAML",
             "link": "https://alisoftware.github.io/yaml/2021/08/17/yaml-part1-json/",
             "updated": 1629133200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/swift/2018/12/16/swift5-stringinterpolation-part2/",
             "title": "StringInterpolation in Swift 5 \u2014 AttributedStrings",
             "link": "https://alisoftware.github.io/swift/2018/12/16/swift5-stringinterpolation-part2/",
             "updated": 1544893200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/swift/2018/12/15/swift5-stringinterpolation-part1/",
             "title": "StringInterpolation in Swift 5 \u2014 Introduction",
             "link": "https://alisoftware.github.io/swift/2018/12/15/swift5-stringinterpolation-part1/",
             "updated": 1544806800,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/",
             "title": "Private properties in protocols",
             "link": "https://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/",
             "updated": 1535821200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/",
             "title": "Exploring @dynamicMemberLookup",
             "link": "https://alisoftware.github.io/swift/exploration/2018/06/14/exploring-dynamicmemberlookup/",
             "updated": 1528909200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/architecture/2018/05/20/dedicated-datasources/",
             "title": "Using Dedicated Objects as Delegates & Datasources",
             "link": "https://alisoftware.github.io/architecture/2018/05/20/dedicated-datasources/",
             "updated": 1526749200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/news/oss/2017/02/19/swiftgen-4-2-and-other-news/",
             "title": "SwiftGen 4.2 and other news",
             "link": "https://alisoftware.github.io/news/oss/2017/02/19/swiftgen-4-2-and-other-news/",
             "updated": 1487437200,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/news/2016/11/27/still-alive/",
             "title": "Still Alive",
             "link": "https://alisoftware.github.io/news/2016/11/27/still-alive/",
             "updated": 1480179600,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         },
         {
             "id": "https://alisoftware.github.io/news/conferences/2016/09/06/conferences/",
             "title": "Talking at conferences",
             "link": "https://alisoftware.github.io/news/conferences/2016/09/06/conferences/",
             "updated": 1473094800,
-            "site_name": "Crunchy Development"
+            "site_url": "https://alisoftware.github.io/"
         }
     ]
 }

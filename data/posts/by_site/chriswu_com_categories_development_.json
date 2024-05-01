@@ -1,215 +1,215 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://chriswu.com/pdr_press/",
             "title": "Please Don't Rain Press Kit",
             "link": "https://chriswu.com/pdr_press/",
             "updated": 1709601288,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/goldenapple/",
             "title": "Thoughts And Tips After My App Was nominated For A Golden Apple Award From AppleVis",
             "link": "https://chriswu.com/posts/swiftui/goldenapple/",
             "updated": 1705405109,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/ramblings/analog/",
             "title": "Apple, Please Just Let Me Use Digital Clocks",
             "link": "https://chriswu.com/posts/ramblings/analog/",
             "updated": 1697248068,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/wwdc/designlab2023/",
             "title": "A WWDC Design Lab Made My App So Much Better",
             "link": "https://chriswu.com/posts/wwdc/designlab2023/",
             "updated": 1690174372,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/disbelief/",
             "title": "I Still Can't Believe That I Wrote A Weather App",
             "link": "https://chriswu.com/posts/swiftui/disbelief/",
             "updated": 1683085986,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/appstore/yolo/",
             "title": "YOLO (You Only Launch Once)",
             "link": "https://chriswu.com/posts/appstore/yolo/",
             "updated": 1682559755,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/terms/",
             "title": "Terms",
             "link": "https://chriswu.com/terms/",
             "updated": 1675239961,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/wwdc/a11ylab2022/",
             "title": "My first WWDC accessibility lab",
             "link": "https://chriswu.com/posts/wwdc/a11ylab2022/",
             "updated": 1664414158,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/selfimprovement/oneyear/",
             "title": "One year ago I launched an iOS dev blog. I'm glad that I did.",
             "link": "https://chriswu.com/posts/selfimprovement/oneyear/",
             "updated": 1657669355,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/uicalendarview/",
             "title": "Getting UIKit's UICalendarView from iOS 16 fully functioning in a SwiftUI app",
             "link": "https://chriswu.com/posts/swiftui/uicalendarview/",
             "updated": 1656356962,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/wwdc/myfirst/",
             "title": "Bucket List Item Checked: My First WWDC",
             "link": "https://chriswu.com/posts/wwdc/myfirst/",
             "updated": 1655281638,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/devtools/awkvi2/",
             "title": "Vim, awk, and iOS translation files: Part 2",
             "link": "https://chriswu.com/posts/devtools/awkvi2/",
             "updated": 1648428054,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/secondapp/",
             "title": "I made my second app!!",
             "link": "https://chriswu.com/posts/swiftui/secondapp/",
             "updated": 1646529924,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/support/",
             "title": "Support",
             "link": "https://chriswu.com/support/",
             "updated": 1646219969,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/privacy/",
             "title": "Privacy",
             "link": "https://chriswu.com/privacy/",
             "updated": 1644149362,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/computedtuple/",
             "title": "Swift computed properties can be tuples",
             "link": "https://chriswu.com/posts/swiftui/computedtuple/",
             "updated": 1641689468,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/appstoragepicker/",
             "title": "Using AppStorage with complex objects and SwiftUI Pickers",
             "link": "https://chriswu.com/posts/swiftui/appstoragepicker/",
             "updated": 1641101753,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/xcode/vimtotd/",
             "title": "The Vim \"tip of the day\" for Xcode Collection",
             "link": "https://chriswu.com/posts/xcode/vimtotd/",
             "updated": 1640215958,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/ramblings/garmin/",
             "title": "It's almost 2022 and I miss my Garmin GPS unit",
             "link": "https://chriswu.com/posts/ramblings/garmin/",
             "updated": 1637986358,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/emojipicker2/",
             "title": "Building a SwiftUI Emoji picker part 2",
             "link": "https://chriswu.com/posts/swiftui/emojipicker2/",
             "updated": 1637408459,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/intandloc/",
             "title": "Adventures in Internationalization and localization with SwiftUI",
             "link": "https://chriswu.com/posts/swiftui/intandloc/",
             "updated": 1634726542,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/devtools/awkvi/",
             "title": "Vim, awk, and iOS translation files",
             "link": "https://chriswu.com/posts/devtools/awkvi/",
             "updated": 1632964469,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/disclosure1/",
             "title": "Working with DisclosureGroup in SwiftUI for iOS 15",
             "link": "https://chriswu.com/posts/swiftui/disclosure1/",
             "updated": 1632536536,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/selfimprovement/tenpercent/",
             "title": "Sleep deprivation and meditation",
             "link": "https://chriswu.com/posts/selfimprovement/tenpercent/",
             "updated": 1631670355,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/emojipicker1/",
             "title": "Building a SwiftUI Emoji picker part 1",
             "link": "https://chriswu.com/posts/swiftui/emojipicker1/",
             "updated": 1629453600,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/appstore/myfirstfeature/",
             "title": "Being featured in the App Store for the first time",
             "link": "https://chriswu.com/posts/appstore/myfirstfeature/",
             "updated": 1627861821,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/xcode/xcodelab2021/",
             "title": "Xcode tips from my first WWDC 2021 lab",
             "link": "https://chriswu.com/posts/xcode/xcodelab2021/",
             "updated": 1627259591,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/myfirstlab/",
             "title": "My Very First WWDC Lab",
             "link": "https://chriswu.com/posts/myfirstlab/",
             "updated": 1626669034,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/posts/swiftui/multiplelistmove/",
             "title": "Moving items in multiple sections of a SwiftUI List",
             "link": "https://chriswu.com/posts/swiftui/multiplelistmove/",
             "updated": 1626143843,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         },
         {
             "id": "https://chriswu.com/about/",
             "title": "About",
             "link": "https://chriswu.com/about/",
             "updated": 1626013430,
-            "site_name": "Chris Wu's Blog"
+            "site_url": "https://chriswu.com/categories/development/"
         }
     ]
 }

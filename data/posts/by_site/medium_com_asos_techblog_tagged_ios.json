@@ -1,19 +1,19 @@
 {
-    "updated": 1714471044,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/7e64c03e84a9",
             "title": "Android and iOS config-driven experiments that don\u2019t require releases (Droidcon London talk)",
             "link": "https://medium.com/asos-techblog/android-and-ios-config-driven-experiments-that-dont-require-releases-droidcon-london-talk-7e64c03e84a9?source=rss----6757df096022--ios",
             "updated": 1637654638,
-            "site_name": "The ASOS Tech Blog"
+            "site_url": "https://medium.com/asos-techblog/tagged/ios"
         },
         {
             "id": "https://medium.com/p/35dded0650be",
             "title": "Using generics and descriptors to standardise icons, images and placeholders on iOS",
             "link": "https://medium.com/asos-techblog/using-generics-and-descriptors-to-standardise-icons-images-and-placeholders-on-ios-35dded0650be?source=rss----6757df096022--ios",
             "updated": 1537583035,
-            "site_name": "The ASOS Tech Blog"
+            "site_url": "https://medium.com/asos-techblog/tagged/ios"
         }
     ]
 }

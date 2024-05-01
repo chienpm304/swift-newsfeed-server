@@ -1,75 +1,75 @@
 {
-    "updated": 1714470930,
+    "updated": 1714537256,
     "posts": [
         {
             "id": "https://www.sicpers.info/?p=3041",
             "title": "Non-standard components",
             "link": "https://www.sicpers.info/2024/04/non-standard-components/",
             "updated": 1714098440,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3039",
             "title": "Specific physical phenomena",
             "link": "https://www.sicpers.info/2024/04/specific-physical-phenomena/",
             "updated": 1713835540,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3035",
             "title": "Related methods and tools",
             "link": "https://www.sicpers.info/2024/04/related-methods-and-tools/",
             "updated": 1712804634,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3033",
             "title": "YX problem",
             "link": "https://www.sicpers.info/2024/03/yx-problem/",
             "updated": 1709864071,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3029",
             "title": "Floating point numbers aren\u2019t weird",
             "link": "https://www.sicpers.info/2024/02/floating-point-numbers-arent-weird/",
             "updated": 1708426239,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3027",
             "title": "Still no silver bullet?",
             "link": "https://www.sicpers.info/2024/02/still-no-silver-bullet/",
             "updated": 1706969967,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3025",
             "title": "On whiteboard coding",
             "link": "https://www.sicpers.info/2024/02/on-whiteboard-coding/",
             "updated": 1706752498,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3023",
             "title": "On software engineering hermeneutics",
             "link": "https://www.sicpers.info/2023/12/on-software-engineering-hermeneutics/",
             "updated": 1702448419,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3021",
             "title": "On rational myths",
             "link": "https://www.sicpers.info/2023/11/on-rational-myths/",
             "updated": 1700888307,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         },
         {
             "id": "https://www.sicpers.info/?p=3018",
             "title": "We shall return one day",
             "link": "https://www.sicpers.info/2023/11/we-shall-return-one-day/",
             "updated": 1700100235,
-            "site_name": "SICPERS"
+            "site_url": "https://www.sicpers.info/"
         }
     ]
 }

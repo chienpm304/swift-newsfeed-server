@@ -1,201 +1,201 @@
 {
-    "updated": 1714470982,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.vapor.codes/posts/jwtkit-v5",
             "title": "JWTKit is no longer Boring!",
             "link": "https://blog.vapor.codes/posts/jwtkit-v5",
             "updated": 1709110800,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp",
             "title": "Vapor URI Parsing Security Vulnerability",
             "link": "https://blog.vapor.codes/posts/security-advisory-GHSA-r6r4-5pr8-gjcp",
             "updated": 1704272400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/security-advisory-GHSA-3mwq-h3g6-ffhm",
             "title": "Vapor HTTP Error Handling Security Vulnerability",
             "link": "https://blog.vapor.codes/posts/security-advisory-GHSA-3mwq-h3g6-ffhm",
             "updated": 1696478400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/upcoming-sendable-changes",
             "title": "Upcoming changes to Vapor with Sendable",
             "link": "https://blog.vapor.codes/posts/upcoming-sendable-changes",
             "updated": 1684904400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/penny-update",
             "title": "Penny Update - Keep Up With Swift's Evolution and More",
             "link": "https://blog.vapor.codes/posts/penny-update",
             "updated": 1684242000,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/security-advisory-GHSA-9cfh-vx93-84vv",
             "title": "PostgresNIO Security Vulnerability",
             "link": "https://blog.vapor.codes/posts/security-advisory-GHSA-9cfh-vx93-84vv",
             "updated": 1683700200,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/async-template-updates",
             "title": "Updating Vapor's Templates for Swift 5.8",
             "link": "https://blog.vapor.codes/posts/async-template-updates",
             "updated": 1683694800,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/working-on-march-2023",
             "title": "What We're Working On: March 2023",
             "link": "https://blog.vapor.codes/posts/working-on-march-2023",
             "updated": 1677999600,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/finalsing-our-migration-aws",
             "title": "API and Infrastructure Updates",
             "link": "https://blog.vapor.codes/posts/finalsing-our-migration-aws",
             "updated": 1677654000,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/rolling-out-the-new-design",
             "title": "New Year, New Me",
             "link": "https://blog.vapor.codes/posts/rolling-out-the-new-design",
             "updated": 1672916400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/api-docs-are-changing",
             "title": "Vapor's API Docs Are Changing",
             "link": "https://blog.vapor.codes/posts/api-docs-are-changing",
             "updated": 1668423600,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/async-next-steps",
             "title": "Vapor's Next Steps with async/await",
             "link": "https://blog.vapor.codes/posts/async-next-steps",
             "updated": 1660647600,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/error-while-loading-shared-libs",
             "title": "Dockerfile makes adding optional Swift dependencies easier",
             "link": "https://blog.vapor.codes/posts/error-while-loading-shared-libs",
             "updated": 1658368800,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/contributing-guide",
             "title": "Vapor's Contributing Guide",
             "link": "https://blog.vapor.codes/posts/contributing-guide",
             "updated": 1657996200,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/enable-db-query-logging",
             "title": "Enable SQL Query Logging",
             "link": "https://blog.vapor.codes/posts/enable-db-query-logging",
             "updated": 1657695600,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/security-advisory-GHSA-qvxg-wjxc-r4gg",
             "title": "Vapor URLEncodedFormDecoder Security Vulnerability",
             "link": "https://blog.vapor.codes/posts/security-advisory-GHSA-qvxg-wjxc-r4gg",
             "updated": 1654510920,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/internship-benny",
             "title": "An internship of working on Vapor",
             "link": "https://blog.vapor.codes/posts/internship-benny",
             "updated": 1654063200,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/security-advisory-GHSA-vj2m-9f5j-mpr5",
             "title": "Vapor FileMiddleware Security Vulnerability",
             "link": "https://blog.vapor.codes/posts/security-advisory-GHSA-vj2m-9f5j-mpr5",
             "updated": 1653967320,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/we-need-you",
             "title": "Vapor Users - We Need You!",
             "link": "https://blog.vapor.codes/posts/we-need-you",
             "updated": 1652752800,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/adding-db-table-index",
             "title": "Adding a database table index",
             "link": "https://blog.vapor.codes/posts/adding-db-table-index",
             "updated": 1652248500,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/documentation-changes",
             "title": "Vapor Documentation Changes",
             "link": "https://blog.vapor.codes/posts/documentation-changes",
             "updated": 1651947360,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/vapor-swift-versions-update",
             "title": "Updating Vapor's Supported Swift Versions",
             "link": "https://blog.vapor.codes/posts/vapor-swift-versions-update",
             "updated": 1651226400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/first-issue-board-available",
             "title": "The beginner issues project board is here",
             "link": "https://blog.vapor.codes/posts/first-issue-board-available",
             "updated": 1650614400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/listening-on-both-ipv6-ipv4",
             "title": "How to listen to connections from both IPv4 and IPv6 addresses",
             "link": "https://blog.vapor.codes/posts/listening-on-both-ipv6-ipv4",
             "updated": 1649498400,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/were-looking-for-a-designer",
             "title": "We're looking for a designer!",
             "link": "https://blog.vapor.codes/posts/were-looking-for-a-designer",
             "updated": 1646820000,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/common-templates-available",
             "title": "Commonly used templates available",
             "link": "https://blog.vapor.codes/posts/common-templates-available",
             "updated": 1646373300,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/updating-template-to-async-await",
             "title": "Updating Vapor's Template To Use async/await",
             "link": "https://blog.vapor.codes/posts/updating-template-to-async-await",
             "updated": 1645500120,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         },
         {
             "id": "https://blog.vapor.codes/posts/vapor-next-steps",
             "title": "The next steps for Vapor",
             "link": "https://blog.vapor.codes/posts/vapor-next-steps",
             "updated": 1645413720,
-            "site_name": "Vapor Blog"
+            "site_url": "https://blog.vapor.codes"
         }
     ]
 }

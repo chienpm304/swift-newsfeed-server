@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://kairadiagne.com/2020/11/04/adopting-the-new-photo-picker",
             "title": "Adopting the new PHPicker",
             "link": "https://kairadiagne.com/2020/11/04/adopting-the-new-photo-picker.html",
             "updated": 1604422800,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2020/01/13/nssecurecoding-and-transformable-properties-in-core-data",
             "title": "NSSecureCoding and transformable properties in Core Data",
             "link": "https://kairadiagne.com/2020/01/13/nssecurecoding-and-transformable-properties-in-core-data.html",
             "updated": 1578848400,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/11/20/state-restoration-with-nsuseractivity",
             "title": "State restoration in iOS 13",
             "link": "https://kairadiagne.com/2019/11/20/state-restoration-with-nsuseractivity.html",
             "updated": 1574182800,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/11/19/adding-support-for-multiple-windows",
             "title": "Adding support for multiple windows to your iPad app",
             "link": "https://kairadiagne.com/2019/11/19/adding-support-for-multiple-windows.html",
             "updated": 1574096400,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/11/18/Adopting-the-new-scene-delegate",
             "title": "Adopting the new scene delegate api in your app",
             "link": "https://kairadiagne.com/2019/11/18/Adopting-the-new-scene-delegate.html",
             "updated": 1574010000,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/08/04/creating-a-master-detail-interface-with-uisplitViewController",
             "title": "Creating a master detail interface with UISplitViewController",
             "link": "https://kairadiagne.com/2019/08/04/creating-a-master-detail-interface-with-uisplitViewController.html",
             "updated": 1564851600,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/07/03/getting-started-with-swift-package-manager-in-xcode",
             "title": "Getting started with Swift package manager in Xcode",
             "link": "https://kairadiagne.com/2019/07/03/getting-started-with-swift-package-manager-in-xcode.html",
             "updated": 1562086800,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/06/10/getting-started-with-diffable-data-sources-for-uicollectionview",
             "title": "Getting started with diffable data sources for UICollectionView",
             "link": "https://kairadiagne.com/2019/06/10/getting-started-with-diffable-data-sources-for-uicollectionview.html",
             "updated": 1560099600,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/05/31/iOS-testing-tips-and-tricks",
             "title": "Tips and tricks on unit testing iOS apps",
             "link": "https://kairadiagne.com/2019/05/31/iOS-testing-tips-and-tricks.html",
             "updated": 1559235600,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         },
         {
             "id": "https://kairadiagne.com/2019/04/27/getting-up-to-speed-with-uicollectionviewlayout",
             "title": "Getting up to speed with UICollectionView layouts",
             "link": "https://kairadiagne.com/2019/04/27/getting-up-to-speed-with-uicollectionviewlayout.html",
             "updated": 1556298000,
-            "site_name": "Kaira Diagne\u2019s Blog"
+            "site_url": "https://www.kairadiagne.com/"
         }
     ]
 }

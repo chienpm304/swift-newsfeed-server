@@ -1,33 +1,33 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.codingwithjeff.org/blog/swiftui-modifiers/",
             "title": "SwiftUI Modifiers",
             "link": "https://www.codingwithjeff.org/blog/swiftui-modifiers/",
             "updated": 1600132800,
-            "site_name": "Coding with Jeff"
+            "site_url": "https://www.codingwithjeff.org"
         },
         {
             "id": "https://www.codingwithjeff.org/blog/renaming-your-project/",
             "title": "Quick Tip: Renaming your project",
             "link": "https://www.codingwithjeff.org/blog/renaming-your-project/",
             "updated": 1599824230,
-            "site_name": "Coding with Jeff"
+            "site_url": "https://www.codingwithjeff.org"
         },
         {
             "id": "https://www.codingwithjeff.org/blog/flowing-grid-layout-swiftui/",
             "title": "Flowing Grid Layout in SwiftUI",
             "link": "https://www.codingwithjeff.org/blog/flowing-grid-layout-swiftui/",
             "updated": 1599670800,
-            "site_name": "Coding with Jeff"
+            "site_url": "https://www.codingwithjeff.org"
         },
         {
             "id": "https://www.codingwithjeff.org/blog/introducing-coding-with-jeff/",
             "title": "Introducing Coding with Jeff \ud83c\udf89",
             "link": "https://www.codingwithjeff.org/blog/introducing-coding-with-jeff/",
             "updated": 1599670800,
-            "site_name": "Coding with Jeff"
+            "site_url": "https://www.codingwithjeff.org"
         }
     ]
 }

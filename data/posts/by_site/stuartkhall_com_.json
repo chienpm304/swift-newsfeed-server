@@ -1,145 +1,145 @@
 {
-    "updated": 1714470954,
+    "updated": 1714537270,
     "posts": [
         {
             "id": "http://stuartkhall.com/blogs/new-blog",
             "title": "New Blog",
             "link": "http://stuartkhall.com/blogs/new-blog",
             "updated": 1502643600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/i-m-writing-a-book",
             "title": "I'm writing a book!",
             "link": "http://stuartkhall.com/blogs/i-m-writing-a-book",
             "updated": 1442163600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/an-app-store-experiment-part-5-the-finale",
             "title": "An App Store Experiment Part 5 - The Finale",
             "link": "http://stuartkhall.com/blogs/an-app-store-experiment-part-5-the-finale",
             "updated": 1423414800,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/app-store-rings-in-2015-with-new-records",
             "title": "App Store Rings in 2015 with New Records",
             "link": "http://stuartkhall.com/blogs/app-store-rings-in-2015-with-new-records",
             "updated": 1421082000,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/you-can-ignore-your-competitors-but-don-t-ignore-their-customers",
             "title": "You Can Ignore Your Competitors, But Don\u2019t Ignore Their Customers",
             "link": "http://stuartkhall.com/blogs/you-can-ignore-your-competitors-but-don-t-ignore-their-customers",
             "updated": 1420822800,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/how-not-to-treat-your-customers",
             "title": "How Not to Treat Your Customers",
             "link": "http://stuartkhall.com/blogs/how-not-to-treat-your-customers",
             "updated": 1417366800,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/the-best-ios-libraries",
             "title": "The Best iOS Libraries",
             "link": "http://stuartkhall.com/blogs/the-best-ios-libraries",
             "updated": 1407862800,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/why-60-percent-of-your-users-opt-out-of-push-notifications-and-what-to-do-about-it",
             "title": "Why 60 percent of your users opt-out of push notifications, and what to do about it",
             "link": "http://stuartkhall.com/blogs/why-60-percent-of-your-users-opt-out-of-push-notifications-and-what-to-do-about-it",
             "updated": 1407344400,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/an-app-store-experiment-part-4",
             "title": "An App Store Experiment - Part 4",
             "link": "http://stuartkhall.com/blogs/an-app-store-experiment-part-4",
             "updated": 1407171600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/what-makes-a-successful-app-store-name",
             "title": "What Makes A Successful App Store Name?",
             "link": "http://stuartkhall.com/blogs/what-makes-a-successful-app-store-name",
             "updated": 1406480400,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/developer-economics-q3-2014-state-of-the-developer-nation",
             "title": "Developer Economics Q3 2014: State of the Developer Nation",
             "link": "http://stuartkhall.com/blogs/developer-economics-q3-2014-state-of-the-developer-nation",
             "updated": 1406307600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/appbotx-your-mobile-app-customers-deserve-better-communication",
             "title": "AppbotX - Your Mobile App Customers Deserve Better Communication.",
             "link": "http://stuartkhall.com/blogs/appbotx-your-mobile-app-customers-deserve-better-communication",
             "updated": 1405530000,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/app-review-word-clouds",
             "title": "App Review Word Clouds",
             "link": "http://stuartkhall.com/blogs/app-review-word-clouds",
             "updated": 1404752400,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/which-languages-should-i-localize-my-app-into",
             "title": "Which Languages Should I Localize My App Into?",
             "link": "http://stuartkhall.com/blogs/which-languages-should-i-localize-my-app-into",
             "updated": 1404666000,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/ios-8-app-reviews",
             "title": "iOS 8 App Reviews",
             "link": "http://stuartkhall.com/blogs/ios-8-app-reviews",
             "updated": 1404579600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/surviving-working-from-home-even-with-kids",
             "title": "Surviving Working From Home (Even With Kids)",
             "link": "http://stuartkhall.com/blogs/surviving-working-from-home-even-with-kids",
             "updated": 1398186000,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/lean-canvas",
             "title": "Lean Canvas",
             "link": "http://stuartkhall.com/blogs/lean-canvas",
             "updated": 1394902800,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/android-development-tips-for-ios-devs",
             "title": "Android Development Tips For iOS Devs",
             "link": "http://stuartkhall.com/blogs/android-development-tips-for-ios-devs",
             "updated": 1394557200,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/difference",
             "title": "Difference",
             "link": "http://stuartkhall.com/blogs/difference",
             "updated": 1391619600,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         },
         {
             "id": "http://stuartkhall.com/blogs/an-app-store-experiment-part-3",
             "title": "An App Store Experiment - Part 3",
             "link": "http://stuartkhall.com/blogs/an-app-store-experiment-part-3",
             "updated": 1390842000,
-            "site_name": "Stuart Hall\u2019s Blog"
+            "site_url": "http://stuartkhall.com/"
         }
     ]
 }

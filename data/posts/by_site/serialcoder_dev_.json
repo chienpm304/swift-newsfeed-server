@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://serialcoder.dev/?p=15338",
             "title": "The ContentUnavailableView In SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/",
             "updated": 1714099500,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=15253",
             "title": "Defining Custom Errors With Advanced Descriptions In Swift",
             "link": "https://serialcoder.dev/text-tutorials/swift-tutorials/defining-custom-errors-with-advanced-descriptions-in-swift/",
             "updated": 1709258400,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=15245",
             "title": "Self vs self in Swift \u2013 Find out the differences with practical examples",
             "link": "https://serialcoder.dev/text-tutorials/swift-tutorials/self-vs-self-in-swift-find-out-the-differences-with-practical-examples/",
             "updated": 1707876900,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=15111",
             "title": "Integrating Haptic Feedback In SwiftUI Projects",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/integrating-haptic-feedback-in-swiftui-projects/",
             "updated": 1702861200,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=15026",
             "title": "Understanding Text Case And Capitalization In SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/understanding-text-case-and-capitalization-in-swiftui/",
             "updated": 1698926400,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=14894",
             "title": "Dismissing Presented Content in SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/dismissing-presented-content-in-swiftui/",
             "updated": 1696823700,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=14351",
             "title": "WWDC23 & SwiftUI: The debut of the ButtonRepeatBehavior view modifier",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/wwdc23-swiftui-the-debut-of-the-buttonrepeatbehavior-view-modifier/",
             "updated": 1687252800,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=14285",
             "title": "Creating Forms in SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/creating-forms-in-swiftui/",
             "updated": 1685322000,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=14215",
             "title": "Presenting Content In Pages Using SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/presenting-content-in-pages-using-swiftui/",
             "updated": 1684111800,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         },
         {
             "id": "https://serialcoder.dev/?p=14066",
             "title": "Picking Photos With The PhotosPicker View In SwiftUI",
             "link": "https://serialcoder.dev/text-tutorials/swiftui/picking-photos-with-the-photospicker-view-in-swiftui/",
             "updated": 1682901900,
-            "site_name": "Gabriel Theodoropoulos\u2019 Blog"
+            "site_url": "https://serialcoder.dev/"
         }
     ]
 }

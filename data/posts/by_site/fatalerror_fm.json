@@ -1,670 +1,670 @@
 {
-    "updated": 1714471109,
+    "updated": 1714537272,
     "posts": [
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5b1e692f88251b8e2e42570c",
-            "title": "Teaser: 70. The Finale",
-            "link": "https://fatalerror.fm/episodes/2018/6/11/teaser-70-the-finale",
-            "updated": 1528696800,
-            "site_name": "Fatal Error"
-        },
         {
             "id": "342D8BEB-37A6-4AFD-AF65-5B91A573F069",
             "title": "70. The Finale",
             "link": "https://fatalerror.fm/episodes/2018/6/11/70-the-finale",
             "updated": 1528696860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5b1e692f88251b8e2e42570c",
+            "title": "Teaser: 70. The Finale",
+            "link": "https://fatalerror.fm/episodes/2018/6/11/teaser-70-the-finale",
+            "updated": 1528696800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5b020dbc0e2e7216afcfd127",
             "title": "69. (null)",
             "link": "https://fatalerror.fm/episodes/2018/5/25/69-the-billion-dollar-mistake",
             "updated": 1527224400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5b0595392b6a287c58f9f70d",
             "title": "Episode 70 will be a live show at WWDC",
             "link": "https://fatalerror.fm/episodes/2018/5/23/episode-70-will-be-a-live-show-at-wwdc",
             "updated": 1527008400,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5af5abb91ae6cf4b30f27a4d",
-            "title": "Teaser: 68. Negotiating",
-            "link": "https://fatalerror.fm/episodes/2018/5/11/teaser-68-negotiating",
-            "updated": 1526024662,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "910E4060-F60D-4267-856D-D098A4AE1C9A",
             "title": "68. Negotiating",
             "link": "https://fatalerror.fm/episodes/2018/5/11/68-negotiating",
             "updated": 1526024700,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5af5abb91ae6cf4b30f27a4d",
+            "title": "Teaser: 68. Negotiating",
+            "link": "https://fatalerror.fm/episodes/2018/5/11/teaser-68-negotiating",
+            "updated": 1526024662,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5aec6dc2758d462d642bddc5",
             "title": "67. The Whatever Planet From The Sun",
             "link": "https://fatalerror.fm/episodes/2018/5/4/67-the-whatever-planet-from-the-sun",
             "updated": 1525418911,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ae3275d88251b99ffdd155b",
-            "title": "Teaser: 66. Sequence and Collection and Iterator, Oh My",
-            "link": "https://fatalerror.fm/episodes/2018/4/27/teaser-66-sequence-and-collection-and-iterator-oh-my",
-            "updated": 1524810984,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "B7ADB43E-0358-478B-AD5D-289D37A1BF84",
             "title": "66. Sequence and Collection and Iterator, Oh My",
             "link": "https://fatalerror.fm/episodes/2018/4/27/66-sequence-and-collection-and-iterator-oh-my",
             "updated": 1524811020,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ae3275d88251b99ffdd155b",
+            "title": "Teaser: 66. Sequence and Collection and Iterator, Oh My",
+            "link": "https://fatalerror.fm/episodes/2018/4/27/teaser-66-sequence-and-collection-and-iterator-oh-my",
+            "updated": 1524810984,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ad95f06f950b76753137387",
             "title": "65. Times That Do Not Exist",
             "link": "https://fatalerror.fm/episodes/2018/4/20/65-times-that-do-not-exist",
             "updated": 1524204000,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ad0c6d970a6adbfd896f85b",
-            "title": "Teaser: 64. AI Apoptosis",
-            "link": "https://fatalerror.fm/episodes/2018/4/13/teaser-64-ai-apoptosis",
-            "updated": 1523606719,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "C3DCFA01-ED1B-47DB-B1D0-C78F12C5BD5B",
             "title": "64. AI Apoptosis",
             "link": "https://fatalerror.fm/episodes/2018/4/13/64-ai-apoptosis",
             "updated": 1523606760,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ad0c6d970a6adbfd896f85b",
+            "title": "Teaser: 64. AI Apoptosis",
+            "link": "https://fatalerror.fm/episodes/2018/4/13/teaser-64-ai-apoptosis",
+            "updated": 1523606719,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ac6a85d2b6a28519cd3b137",
             "title": "63. Two People Who Like Type Systems",
             "link": "https://fatalerror.fm/episodes/2018/4/6/63-two-people-who-like-type-systems",
             "updated": 1522994400,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ab8fe4403ce644c1c8cf199",
-            "title": "Teaser: 62. Convergent Swift Evolution",
-            "link": "https://fatalerror.fm/episodes/2018/3/30/teaser-62-convergent-swift-evolution",
-            "updated": 1522389600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "510B1875-B8C8-4980-9F1E-85B1E8F334D4",
             "title": "62. Convergent Swift Evolution",
             "link": "https://fatalerror.fm/episodes/2018/3/30/62-convergent-swift-evolution",
             "updated": 1522389660,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5ab8fe4403ce644c1c8cf199",
+            "title": "Teaser: 62. Convergent Swift Evolution",
+            "link": "https://fatalerror.fm/episodes/2018/3/30/teaser-62-convergent-swift-evolution",
+            "updated": 1522389600,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5aa99fa30852291a681bdb54",
             "title": "61. Hypothetical Testing Tricks",
             "link": "https://fatalerror.fm/episodes/2018/3/16/61-hypothetical-testing-tricks",
             "updated": 1521180000,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5aa13ed8ec212dcf8e75daed",
-            "title": "Teaser: 60. Soroush in the Standard Library",
-            "link": "https://fatalerror.fm/episodes/2018/3/9/teaser-60-soroush-in-the-standard-library",
-            "updated": 1520578800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "10C79AC7-CFEF-45E3-871B-61B17F5922C7",
             "title": "60. Soroush in the Standard Library",
             "link": "https://fatalerror.fm/episodes/2018/3/9/60-soroush-in-the-standard-library",
             "updated": 1520578860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5aa13ed8ec212dcf8e75daed",
+            "title": "Teaser: 60. Soroush in the Standard Library",
+            "link": "https://fatalerror.fm/episodes/2018/3/9/teaser-60-soroush-in-the-standard-library",
+            "updated": 1520578800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a98377de4966b8234398e41",
             "title": "59. Why did they even hire Chris??",
             "link": "https://fatalerror.fm/episodes/2018/3/2/59-why-did-they-even-hire-chris",
             "updated": 1519974000,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a8e0333e2c4835a7f6c16cb",
-            "title": "Teaser: 58. Pi, Delicious Pi",
-            "link": "https://fatalerror.fm/episodes/2018/2/23/teaser-58-pi-delicious-pi",
-            "updated": 1519369200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "783CC132-60F4-4401-8E56-3793AAFD8869",
             "title": "58. Pi, Delicious Pi",
             "link": "https://fatalerror.fm/episodes/2018/2/23/58-pi-delicious-pi",
             "updated": 1519369260,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a8e0333e2c4835a7f6c16cb",
+            "title": "Teaser: 58. Pi, Delicious Pi",
+            "link": "https://fatalerror.fm/episodes/2018/2/23/teaser-58-pi-delicious-pi",
+            "updated": 1519369200,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a86dfdfe2c48398a11db01e",
             "title": "57. Lattnerianly In-Depth",
             "link": "https://fatalerror.fm/episodes/2018/2/16/57-lattnerianly-in-depth",
             "updated": 1518763509,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a7d2a3d652dea7a02461d67",
-            "title": "Teaser: 56. A Chris-Shaped Scream",
-            "link": "https://fatalerror.fm/episodes/2018/2/9/56-teaser-a-chris-shaped-scream",
-            "updated": 1518159600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "4B82DB54-46BA-43B7-9DF6-AD573EC442C0",
             "title": "56. A Chris-Shaped Scream",
             "link": "https://fatalerror.fm/episodes/2018/2/9/56-a-chris-shaped-scream",
             "updated": 1518159660,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a7d2a3d652dea7a02461d67",
+            "title": "Teaser: 56. A Chris-Shaped Scream",
+            "link": "https://fatalerror.fm/episodes/2018/2/9/56-teaser-a-chris-shaped-scream",
+            "updated": 1518159600,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a73a6cd8165f5be3a6c396c",
             "title": "55. Fired Up about Firebase",
             "link": "https://fatalerror.fm/episodes/2018/2/2/55-fired-up-about-firebase",
             "updated": 1517554800,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a693704085229668114bc8d",
-            "title": "Teaser: 54. Ecstatic about Enums",
-            "link": "https://fatalerror.fm/episodes/2018/1/26/teaser-54-ecstatic-about-enums",
-            "updated": 1516950000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "E094002F-97BF-4E2F-9B65-2D47A49AB096",
             "title": "54. Ecstatic about Enums",
             "link": "https://fatalerror.fm/episodes/2018/1/26/54-ecstatic-about-enums",
             "updated": 1516950060,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a693704085229668114bc8d",
+            "title": "Teaser: 54. Ecstatic about Enums",
+            "link": "https://fatalerror.fm/episodes/2018/1/26/teaser-54-ecstatic-about-enums",
+            "updated": 1516950000,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a61088e652deae249d28945",
             "title": "53. Amped about Android",
             "link": "https://fatalerror.fm/episodes/2018/1/19/53-amped-about-android",
             "updated": 1516345200,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a58292971c10baff7159d17",
-            "title": "Teaser: 52. Spooked about Spectre",
-            "link": "https://fatalerror.fm/episodes/2018/1/12/teaser-52-spooked-about-spectre",
-            "updated": 1515740400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "26FC17F5-6375-446B-956D-A5DA65C6DF4D",
             "title": "52. Spooked about Spectre",
             "link": "https://fatalerror.fm/episodes/2018/1/12/52-spooked-about-spectre",
             "updated": 1515740460,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a4692a071c10bd7b3efccf3",
-            "title": "51. Ticks and Trips",
-            "link": "https://fatalerror.fm/episodes/2018/1/5/51-ticks-and-trips",
-            "updated": 1515135600,
-            "site_name": "Fatal Error"
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a58292971c10baff7159d17",
+            "title": "Teaser: 52. Spooked about Spectre",
+            "link": "https://fatalerror.fm/episodes/2018/1/12/teaser-52-spooked-about-spectre",
+            "updated": 1515740400,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "76B6D1FA-FDCD-4484-9BEF-5BCE1DFC845A",
             "title": "51. Ticks and Trips - Aftershow",
             "link": "https://fatalerror.fm/episodes/2018/1/5/51-ticks-and-trips-aftershow",
             "updated": 1515135660,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a0709f724a6942e84b67098",
-            "title": "Teaser: 50. Internet of Things",
-            "link": "https://fatalerror.fm/episodes/2017/11/13/teaser-50-internet-of-things",
-            "updated": 1510556400,
-            "site_name": "Fatal Error"
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a4692a071c10bd7b3efccf3",
+            "title": "51. Ticks and Trips",
+            "link": "https://fatalerror.fm/episodes/2018/1/5/51-ticks-and-trips",
+            "updated": 1515135600,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "ED880FD3-A2F8-4767-869D-1C97A3CB2300",
             "title": "50. Internet of Things",
             "link": "https://fatalerror.fm/episodes/2017/11/13/50-internet-of-things",
             "updated": 1510556460,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5a0709f724a6942e84b67098",
+            "title": "Teaser: 50. Internet of Things",
+            "link": "https://fatalerror.fm/episodes/2017/11/13/teaser-50-internet-of-things",
+            "updated": 1510556400,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59f3d3af64265f811b2445af",
             "title": "49. Chris Writes Python",
             "link": "https://fatalerror.fm/episodes/2017/11/6/49-chris-writes-python",
             "updated": 1509951600,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59ed1db62278e7362b399f2e",
-            "title": "Teaser: 48. Productivity",
-            "link": "https://fatalerror.fm/episodes/2017/10/30/teaser-48-productivity",
-            "updated": 1509343200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "0396D6B7-133C-4256-BFEF-943691755182",
             "title": "48. Productivity",
             "link": "https://fatalerror.fm/episodes/2017/10/30/48-productivity",
             "updated": 1509343320,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59ed1db62278e7362b399f2e",
+            "title": "Teaser: 48. Productivity",
+            "link": "https://fatalerror.fm/episodes/2017/10/30/teaser-48-productivity",
+            "updated": 1509343200,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59ebd81ba8b2b06ac3a38978",
             "title": "47. Strange Loop",
             "link": "https://fatalerror.fm/episodes/2017/10/23/47-strange-loop",
             "updated": 1508738400,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59d18a892994ca305e75b9a1",
-            "title": "Teaser: 46. Reflecting on Swift and Objective-C",
-            "link": "https://fatalerror.fm/episodes/2017/10/9/teaser-46-reflecting-on-swift-and-objective-c",
-            "updated": 1507528800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "22E9B6C1-9728-4231-90B7-BC0693227E38",
             "title": "46. Reflecting on Swift and Objective-C",
             "link": "https://fatalerror.fm/episodes/2017/10/9/46-reflecting-on-swift-and-objective-c",
             "updated": 1507528860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59d18a892994ca305e75b9a1",
+            "title": "Teaser: 46. Reflecting on Swift and Objective-C",
+            "link": "https://fatalerror.fm/episodes/2017/10/9/teaser-46-reflecting-on-swift-and-objective-c",
+            "updated": 1507528800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59d118ad37c5819421edbbdc",
             "title": "45. Fault Tolerance with Actors",
             "link": "https://fatalerror.fm/episodes/2017/10/2/45-fault-tolerance-with-actors",
             "updated": 1506924000,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59c81b7cedaed88dfdfe67c4",
-            "title": "Teaser: 44. Grab Bag",
-            "link": "https://fatalerror.fm/episodes/2017/9/25/teaser-44-grab-bag",
-            "updated": 1506319200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "A9D7A258-8763-4B57-9747-1004951CFA64",
             "title": "44. Grab Bag",
             "link": "https://fatalerror.fm/episodes/2017/9/25/44-grag-bag",
             "updated": 1506319260,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59c81b7cedaed88dfdfe67c4",
+            "title": "Teaser: 44. Grab Bag",
+            "link": "https://fatalerror.fm/episodes/2017/9/25/teaser-44-grab-bag",
+            "updated": 1506319200,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59bbe78fe9bfdf77aeeb4752",
             "title": "43. Jason Brennan on Beach",
             "link": "https://fatalerror.fm/episodes/2017/9/18/43-jason-brennan-on-beach",
             "updated": 1505714400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "E1F9EAC4-EE95-41D2-ACAC-E153AF3EBAE5",
             "title": "Patron Bonus: Apple Event Sept. 12",
             "link": "https://fatalerror.fm/episodes/2017/9/14/patron-bonus-apple-event-sept-12",
             "updated": 1505368800,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59b023d4c027d8fc8f92a2e7",
-            "title": "Teaser: 42. Actors",
-            "link": "https://fatalerror.fm/episodes/2017/9/11/teaser-42-actors",
-            "updated": 1505109600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "E0371C45-8280-4149-B35F-D0043BDF4DCA",
             "title": "42. Actors",
             "link": "https://fatalerror.fm/episodes/2017/9/11/42-actors",
             "updated": 1505109660,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59b023d4c027d8fc8f92a2e7",
+            "title": "Teaser: 42. Actors",
+            "link": "https://fatalerror.fm/episodes/2017/9/11/teaser-42-actors",
+            "updated": 1505109600,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59ab4843be42d6564ffe546d",
             "title": "41. Talking Swift-Evolution with Kelvin",
             "link": "https://fatalerror.fm/episodes/2017/9/4/41-talking-swift-evolution-with-kelvin",
             "updated": 1504504800,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59a1b61049fc2b116e6a37b4",
-            "title": "Teaser: 40. Async/Await",
-            "link": "https://fatalerror.fm/episodes/2017/8/28/teaser-40-asyncawait",
-            "updated": 1503900000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "A47372CC-04FC-4716-BB8B-A4F03FDBB3ED",
             "title": "40. Async/Await",
             "link": "https://fatalerror.fm/episodes/2017/8/28/40-asyncawait",
             "updated": 1503900060,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59a1b61049fc2b116e6a37b4",
+            "title": "Teaser: 40. Async/Await",
+            "link": "https://fatalerror.fm/episodes/2017/8/28/teaser-40-asyncawait",
+            "updated": 1503900000,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59963ede7131a532de4bafcf",
             "title": "39. Our First Apps",
             "link": "https://fatalerror.fm/episodes/2017/8/21/39-our-first-apps",
             "updated": 1503295200,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59910f5ed7bdce2890e56bef",
-            "title": "Teaser: 38. Third-Party Dependencies",
-            "link": "https://fatalerror.fm/episodes/2017/8/14/teaser-38-third-party-dependencies",
-            "updated": 1502690400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "14A7B711-7DE5-4487-9578-B3348994700B",
             "title": "38. Third-Party Dependencies",
             "link": "https://fatalerror.fm/episodes/2017/8/14/38-third-party-dependencies",
             "updated": 1502690460,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59910f5ed7bdce2890e56bef",
+            "title": "Teaser: 38. Third-Party Dependencies",
+            "link": "https://fatalerror.fm/episodes/2017/8/14/teaser-38-third-party-dependencies",
+            "updated": 1502690400,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5987a5c23a0411d18210046e",
             "title": "37. Soroush\u2019s Swift Evolution Proposal",
             "link": "https://fatalerror.fm/episodes/2017/8/7/37-soroushs-swift-evolution-proposal",
             "updated": 1502085600,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:597e94e6a5790a1f46ae7573",
-            "title": "Teaser: 36. Conferences & Talks (& Blogging)",
-            "link": "https://fatalerror.fm/episodes/2017/7/31/teaser-36-conferences-talks-blogging",
-            "updated": 1501480800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "5F3B35B7-BABF-4688-8688-1AFE1FB6CCE9",
             "title": "36. Conferences & Talks (& Blogging)",
             "link": "https://fatalerror.fm/episodes/2017/7/31/36-conferences-talks-blogging",
             "updated": 1501480860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:597e94e6a5790a1f46ae7573",
+            "title": "Teaser: 36. Conferences & Talks (& Blogging)",
+            "link": "https://fatalerror.fm/episodes/2017/7/31/teaser-36-conferences-talks-blogging",
+            "updated": 1501480800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:597562fb20099e96a39b3733",
             "title": "35. The Ownership Manifesto",
             "link": "https://fatalerror.fm/episodes/2017/7/24/35-the-ownership-manifesto",
             "updated": 1500876000,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:596bf7d6440243ae7ec7b243",
-            "title": "Teaser: 34. Promises \u2026 in Objective-C",
-            "link": "https://fatalerror.fm/episodes/2017/7/17/teaser-34-promises-in-objective-c",
-            "updated": 1500271200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "15B0920D-62B1-4F38-A0E6-A379CCB0DA37",
             "title": "34. Promises \u2026 in Objective-C",
             "link": "https://fatalerror.fm/episodes/2017/7/17/34-promises-in-objective-c",
             "updated": 1500271260,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:596bf7d6440243ae7ec7b243",
+            "title": "Teaser: 34. Promises \u2026 in Objective-C",
+            "link": "https://fatalerror.fm/episodes/2017/7/17/teaser-34-promises-in-objective-c",
+            "updated": 1500271200,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5962ea6d4f14bcdf1322c951",
             "title": "33. Server-Side Swift in Practice",
             "link": "https://fatalerror.fm/episodes/2017/7/10/33-server-side-swift-in-practice",
             "updated": 1499666400,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5959788d17bffc97b3b8912d",
-            "title": "Teaser: 32. Getting Started in a New Codebase",
-            "link": "https://fatalerror.fm/episodes/2017/7/3/teaser-32-getting-started-in-a-new-codebase",
-            "updated": 1499061600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "2200A459-616A-4208-AC75-7B84F0A07DDF",
             "title": "32. Getting Started in a New Codebase",
             "link": "https://fatalerror.fm/episodes/2017/7/3/32-getting-started-in-a-new-codebase",
             "updated": 1499061660,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:595044041b10e30c09a45779",
-            "title": "31. Swift 4",
-            "link": "https://fatalerror.fm/episodes/2017/6/26/31-swift-4",
-            "updated": 1498456800,
-            "site_name": "Fatal Error"
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5959788d17bffc97b3b8912d",
+            "title": "Teaser: 32. Getting Started in a New Codebase",
+            "link": "https://fatalerror.fm/episodes/2017/7/3/teaser-32-getting-started-in-a-new-codebase",
+            "updated": 1499061600,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "D9E83B18-6199-4449-8018-ECD7C0126F61",
             "title": "30. Server-Side Swift",
             "link": "https://fatalerror.fm/episodes/2017/5/15/30-server-side-swift",
             "updated": 1498456860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:595044041b10e30c09a45779",
+            "title": "31. Swift 4",
+            "link": "https://fatalerror.fm/episodes/2017/6/26/31-swift-4",
+            "updated": 1498456800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:590b530c29687f2f54f2ac35",
             "title": "29. Protocols with Associated Types",
             "link": "https://fatalerror.fm/episodes/2017/5/8/29-protocols-with-associated-types",
             "updated": 1494223200,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59062db1414fb57e0f07707d",
-            "title": "Teaser: 28. The String Manifesto",
-            "link": "https://fatalerror.fm/episodes/2017/5/1/teaser-28-the-string-manifesto",
-            "updated": 1493618400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "FE9404AB-98E5-42FB-BB0D-7C33AC864213",
             "title": "28. The String Manifesto",
             "link": "https://fatalerror.fm/episodes/2017/5/1/28-the-string-manifesto",
             "updated": 1493618460,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:59062db1414fb57e0f07707d",
+            "title": "Teaser: 28. The String Manifesto",
+            "link": "https://fatalerror.fm/episodes/2017/5/1/teaser-28-the-string-manifesto",
+            "updated": 1493618400,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58fd528b1b10e3ec058e38df",
             "title": "27. Core Data",
             "link": "https://fatalerror.fm/episodes/2017/4/24/27-core-data",
             "updated": 1493013600,
-            "site_name": "Fatal Error"
-        },
-        {
-            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58f427866a4963096664afba",
-            "title": "Teaser: 26. Persistence",
-            "link": "https://fatalerror.fm/episodes/2017/4/17/teaser-26-persistence",
-            "updated": 1492408800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "C9AF5142-407B-4671-906A-C947882DB222",
             "title": "26. Persistence",
             "link": "https://fatalerror.fm/episodes/2017/4/17/26-persistence",
             "updated": 1492408860,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
+        },
+        {
+            "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58f427866a4963096664afba",
+            "title": "Teaser: 26. Persistence",
+            "link": "https://fatalerror.fm/episodes/2017/4/17/teaser-26-persistence",
+            "updated": 1492408800,
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58eab4a82994ca304acee658",
             "title": "25. Interviewing, with Erica and Sara",
             "link": "https://fatalerror.fm/episodes/2017/4/10/25-interviewing-with-erica-and-sara",
             "updated": 1491804000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "5816A798-F267-4A17-BA80-4378DC640F5D",
             "title": "24. The fileprivate kerfuffle",
             "link": "https://fatalerror.fm/episodes/2017/4/3/24-the-fileprivate-kerfuffle",
             "updated": 1491199200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58d8173137c581212ac1a076",
             "title": "23. Metaprogramming (Objective-C vs Swift)",
             "link": "https://fatalerror.fm/episodes/2017/3/27/23-metaprogramming-objective-c-vs-swift",
             "updated": 1490594400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "09D6984C-300D-4C5A-91C5-D0BADBEB111A",
             "title": "22. Optional Properties",
             "link": "https://fatalerror.fm/episodes/2017/3/20/22-optional-properties",
             "updated": 1489989600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58c5e51b440243602d514c26",
             "title": "21. try! Swift Tokyo",
             "link": "https://fatalerror.fm/episodes/2017/3/13/21-try-swift-tokyo",
             "updated": 1489384800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "6DEECB80-9945-4BF1-80F6-253D0CB1AD94",
             "title": "20. Simple Made Easy",
             "link": "https://fatalerror.fm/episodes/2017/3/6/20-simple-made-easy",
             "updated": 1488783600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58b37303cd0f681d20c948b5",
             "title": "19. Playgrounds Conference",
             "link": "https://fatalerror.fm/episodes/2017/2/27/19-playgrounds-conference",
             "updated": 1488178800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "963D87DD-63B9-4504-88CF-1AC46E610F20",
             "title": "18. Code Review",
             "link": "https://fatalerror.fm/episodes/2017/2/20/18-code-review",
             "updated": 1487574000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:589fba3e579fb379a706a1c4",
             "title": "17. Testing your Network Layer",
             "link": "https://fatalerror.fm/episodes/2017/2/13/17-testing-your-network-layer",
             "updated": 1486969200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "3B91571E-6F55-4C5A-8E83-8A94B855CD80",
             "title": "16. Swifty Error Handling",
             "link": "https://fatalerror.fm/episodes/2017/2/6/16-swifty-error-handling",
             "updated": 1486364400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:588e48ec29687f77160edd17",
             "title": "15. Not Invented Here",
             "link": "https://fatalerror.fm/episodes/2017/1/30/15-not-invented-here",
             "updated": 1485759600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "152AB684-92BF-4C8F-ABBC-A59E42B2E061",
             "title": "14. Tests and Types",
             "link": "https://fatalerror.fm/episodes/2017/1/23/14-tests-and-types",
             "updated": 1485154800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5872e9f0bebafb70ccef2170",
             "title": "13. The Law of Demeter",
             "link": "https://fatalerror.fm/episodes/2017/1/16/13-the-law-of-demeter",
             "updated": 1484550000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "7ba0b9c3-7129-46a8-92cb-90efdf8d4749",
             "title": "12. Swift 3 Migration",
             "link": "https://fatalerror.fm/episodes/2017/1/9/12-swift-3-migration",
             "updated": 1483945200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58683745d482e9c930ec1b91",
             "title": "11. Codegen",
             "link": "https://fatalerror.fm/episodes/2017/1/2/11-codegen",
             "updated": 1483340400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5844ee3ed482e9a1a5b8ee42",
             "title": "10. Why This All Matters",
             "link": "https://fatalerror.fm/episodes/2016/12/5/10-why-this-all-matters",
             "updated": 1480921200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5832483ce3df28d681ddd707",
             "title": "9. Getting Started with Testing",
             "link": "https://fatalerror.fm/episodes/2016/11/21/9-getting-started-with-testing",
             "updated": 1479711600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:581df2c59de4bb43a9b15d46",
             "title": "8. Domain-Driven Design",
             "link": "https://fatalerror.fm/episodes/2016/11/7/8-domain-driven-design",
             "updated": 1478502000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:58024e9e6a4963d46b4d14c9",
             "title": "7. The Single Responsibility Principle",
             "link": "https://fatalerror.fm/episodes/2016/10/24/7-the-single-responsibility-principle",
             "updated": 1477288800,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:57faf6b66a496306c83e8c5e",
             "title": "6. Singletons",
             "link": "https://fatalerror.fm/episodes/2016/10/10/6-singletons",
             "updated": 1476079200,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:57e850cbf5e23123e59da769",
             "title": "5. Reactive Programming",
             "link": "https://fatalerror.fm/episodes/2016/9/26/5-reactive-programming",
             "updated": 1474869600,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:57d459d403596e4e5be63834",
             "title": "4. Promises",
             "link": "https://fatalerror.fm/episodes/2016/9/12/4-promises",
             "updated": 1473660000,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:57c20b4003596ec73f1ca86a",
             "title": "3. View Models, Again",
             "link": "https://fatalerror.fm/episodes/2016/8/29/3-view-models-again",
             "updated": 1472450400,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:57af374820099e650edf9c88",
             "title": "2. View Models",
             "link": "https://fatalerror.fm/episodes/2016/8/15/2-view-models",
             "updated": 1471241100,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         },
         {
             "id": "578d8d3bf5e231fc9f850e55:578d8eaebe65944d662e0687:5792f03b1b631bb1324e1148",
             "title": "1. Coordinators",
             "link": "https://fatalerror.fm/episodes/2016/7/23/1-coordinators",
             "updated": 1469222440,
-            "site_name": "Fatal Error"
+            "site_url": "https://fatalerror.fm"
         }
     ]
 }

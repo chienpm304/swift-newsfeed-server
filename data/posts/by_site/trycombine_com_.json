@@ -1,334 +1,334 @@
 {
-    "updated": 1714470981,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/",
             "title": "Unxippity - fast Xcode unxipping, is open source",
             "link": "https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/",
             "updated": 1703782800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/marin-side-projects-2023/",
             "title": "Marin's Side Projects 2023",
             "link": "https://trycombine.com/posts/marin-side-projects-2023/",
             "updated": 1701709200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/a-fun-swiftui-package-for-creating-walkthroughs/",
             "title": "Easy app walkthroughs with MarkWalkthrough",
             "link": "https://trycombine.com/posts/a-fun-swiftui-package-for-creating-walkthroughs/",
             "updated": 1701622800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/an-example-of-using-arbitrary-code-in-result-builders/",
             "title": "Injecting code in result builders",
             "link": "https://trycombine.com/posts/an-example-of-using-arbitrary-code-in-result-builders/",
             "updated": 1701277200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/an-example-docc-documentation-for-an-ios-app/",
             "title": "DocC: Project documentation structure",
             "link": "https://trycombine.com/posts/an-example-docc-documentation-for-an-ios-app/",
             "updated": 1695142800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/code-samples-on-how-to-approach-debugging-swift-and-uikit-apps/",
             "title": "Automate debugging SwiftUI and UIKit with dataFude",
             "link": "https://trycombine.com/posts/code-samples-on-how-to-approach-debugging-swift-and-uikit-apps/",
             "updated": 1672678800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/datafude-for-simulator-is-on-the-appstore-now/",
             "title": "dataFude for Simulator launches today! \ud83d\ude80",
             "link": "https://trycombine.com/posts/datafude-for-simulator-is-on-the-appstore-now/",
             "updated": 1672678800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/using-markcodable-to-generate-reports/",
             "title": "Automation tooling using MarkCodable for reports",
             "link": "https://trycombine.com/posts/using-markcodable-to-generate-reports/",
             "updated": 1670432400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/custom-view-modifier-to-handle-features-that-are-only-enabled-in-the-pro-version-of-the-app/",
             "title": "Custom SwiftUI view modifier for paid app features",
             "link": "https://trycombine.com/posts/custom-view-modifier-to-handle-features-that-are-only-enabled-in-the-pro-version-of-the-app/",
             "updated": 1670173200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/datafude-for-simulator-public-beta-on-testflight-now/",
             "title": "dataFude for Simulator - public beta on TestFlight now!",
             "link": "https://trycombine.com/posts/datafude-for-simulator-public-beta-on-testflight-now/",
             "updated": 1669654800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/12-of-my-favorite-side-projects-in-2022/",
             "title": "My favorite 12 side projects in 2022",
             "link": "https://trycombine.com/posts/12-of-my-favorite-side-projects-in-2022/",
             "updated": 1667754000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/introducing-got-jobs/",
             "title": "Introducing: Got Jobs?",
             "link": "https://trycombine.com/posts/introducing-got-jobs/",
             "updated": 1667667600,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/introducing-markcodable/",
             "title": "Introducing MarkCodable",
             "link": "https://trycombine.com/posts/introducing-markcodable/",
             "updated": 1662397200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/introducing-timeui/",
             "title": "Introducing timeui",
             "link": "https://trycombine.com/posts/introducing-timeui/",
             "updated": 1647709200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-performance-concurrency-4/",
             "title": "Optimization in Swift, part 4",
             "link": "https://trycombine.com/posts/swift-performance-concurrency-4/",
             "updated": 1647190800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-performance-concurrency-3/",
             "title": "Optimization in Swift, part 3",
             "link": "https://trycombine.com/posts/swift-performance-concurrency-3/",
             "updated": 1646845200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-performance-concurrency-2/",
             "title": "Optimization in Swift, part 2",
             "link": "https://trycombine.com/posts/swift-performance-concurrency-2/",
             "updated": 1646758800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-performance-concurrency-1/",
             "title": "Optimization in Swift, part 1",
             "link": "https://trycombine.com/posts/swift-performance-concurrency-1/",
             "updated": 1646240400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-concurrency-task-group-workflow/",
             "title": "TaskGroup as a workflow design tool",
             "link": "https://trycombine.com/posts/swift-concurrency-task-group-workflow/",
             "updated": 1645376400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-concurrency-task-group/",
             "title": "The issue with task groups or how I discovered a solved problem",
             "link": "https://trycombine.com/posts/swift-concurrency-task-group/",
             "updated": 1644944400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-light-ide-update-jan/",
             "title": "Swift Light IDE update, Jan 31st",
             "link": "https://trycombine.com/posts/swift-light-ide-update-jan/",
             "updated": 1643562000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-read-modify-coroutines/",
             "title": "Yielding accessors in Swift",
             "link": "https://trycombine.com/posts/swift-read-modify-coroutines/",
             "updated": 1643043600,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-async-sequence-extensions-2/",
             "title": "Swift Async Sequence extensions (part 2)",
             "link": "https://trycombine.com/posts/swift-async-sequence-extensions-2/",
             "updated": 1642698000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-async-sequence-extensions-1/",
             "title": "Swift Async Sequence extensions (part 1)",
             "link": "https://trycombine.com/posts/swift-async-sequence-extensions-1/",
             "updated": 1642525200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/xcode-powerups/",
             "title": "Extending Xcode with power-ups",
             "link": "https://trycombine.com/posts/xcode-powerups/",
             "updated": 1639933200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/announcing-modern-swift-concurrency-book/",
             "title": "Announcing: \u201cModern Concurrency in Swift\u201d",
             "link": "https://trycombine.com/posts/announcing-modern-swift-concurrency-book/",
             "updated": 1635872400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-actor-dispatch-queues-concurrency/",
             "title": "Actors, the cooperative pool and concurrency",
             "link": "https://trycombine.com/posts/swift-actor-dispatch-queues-concurrency/",
             "updated": 1633453200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/performance-actor-queue-lock-benchmark/",
             "title": "Performance: Actor vs queue vs lock",
             "link": "https://trycombine.com/posts/performance-actor-queue-lock-benchmark/",
             "updated": 1632934800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/thread-task-sleep/",
             "title": "The difference between Thread.sleep() and Task.sleep()",
             "link": "https://trycombine.com/posts/thread-task-sleep/",
             "updated": 1631466000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/combine-async-sequence-2/",
             "title": "Bridge from Combine to AsyncSequence - the code (p. 2)",
             "link": "https://trycombine.com/posts/combine-async-sequence-2/",
             "updated": 1626109200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/combine-async-sequence-1/",
             "title": "Bridge from Combine to AsyncSequence - the plan (p. 1)",
             "link": "https://trycombine.com/posts/combine-async-sequence-1/",
             "updated": 1626022800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-actors-combine/",
             "title": "Swift Actors: A practical example, part 2",
             "link": "https://trycombine.com/posts/swift-actors-combine/",
             "updated": 1620752400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/swift-actors/",
             "title": "Swift Actors: A practical example, part 1",
             "link": "https://trycombine.com/posts/swift-actors/",
             "updated": 1620579600,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/self-weak-unowned/",
             "title": "Using self, weak, and unowned in Combine",
             "link": "https://trycombine.com/posts/self-weak-unowned/",
             "updated": 1614704400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/cancellor/",
             "title": "Owning AnyCancellable with Cancellor",
             "link": "https://trycombine.com/posts/cancellor/",
             "updated": 1612458000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/timelane-nsspain-2020/",
             "title": "5 Stranger Things you can do with Timelane at NSSpain",
             "link": "https://trycombine.com/posts/timelane-nsspain-2020/",
             "updated": 1605805200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/how-to-create-custom-instrument/",
             "title": "How to create a custom instrument on top of Timelane!",
             "link": "https://trycombine.com/posts/how-to-create-custom-instrument/",
             "updated": 1587229200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/timelane-combine-update/",
             "title": "Timelane - the first two weeks!",
             "link": "https://trycombine.com/posts/timelane-combine-update/",
             "updated": 1584032400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/announcing-timelane-combine/",
             "title": "Announcing: Timelane",
             "link": "https://trycombine.com/posts/announcing-timelane-combine/",
             "updated": 1582822800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/combine-property-wrappers/",
             "title": "Property Wrappers with Combine",
             "link": "https://trycombine.com/posts/combine-property-wrappers/",
             "updated": 1568134800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/subscribe-on-receive-on/",
             "title": "subscribe(on:) vs receive(on:)",
             "link": "https://trycombine.com/posts/subscribe-on-receive-on/",
             "updated": 1567962000,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/combinedatasources-multiple-sections/",
             "title": "Binding a list with multiple sections and different cells",
             "link": "https://trycombine.com/posts/combinedatasources-multiple-sections/",
             "updated": 1567789200,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/combinedatasources-simple-static-list/",
             "title": "Binding a simple list to a UITableView",
             "link": "https://trycombine.com/posts/combinedatasources-simple-static-list/",
             "updated": 1567443600,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/assert-max-subscriptions/",
             "title": "An assert operator: assertMaxSubscriptions()",
             "link": "https://trycombine.com/posts/assert-max-subscriptions/",
             "updated": 1567011600,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/debug-logging-combineprintout/",
             "title": "Debug logging with CombinePrintout",
             "link": "https://trycombine.com/posts/debug-logging-combineprintout/",
             "updated": 1565888400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/more-simple-custom-combine-operators-with-sample/",
             "title": "Building a custom `sample` operator",
             "link": "https://trycombine.com/posts/more-simple-custom-combine-operators-with-sample/",
             "updated": 1565024400,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         },
         {
             "id": "https://trycombine.com/posts/simple-custom-combine-operators/",
             "title": "Simple custom Combine operators",
             "link": "https://trycombine.com/posts/simple-custom-combine-operators/",
             "updated": 1564678800,
-            "site_name": "try Combine"
+            "site_url": "https://trycombine.com/"
         }
     ]
 }

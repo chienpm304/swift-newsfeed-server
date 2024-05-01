@@ -1,110 +1,110 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
-        {
-            "id": "yt:video:XwRmbFsP2bs",
-            "title": "Creating The DVD Screensaver In SwiftUI | Step-by-Step Coding Tutorial | The Office",
-            "link": "https://www.youtube.com/watch?v=XwRmbFsP2bs",
-            "updated": 1712829653,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
         {
             "id": "yt:video:VL8PuOPjVjY",
             "title": "How To Find Edges In Images: Sobel Operators & Full Implementation",
             "link": "https://www.youtube.com/watch?v=VL8PuOPjVjY",
             "updated": 1714178367,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:7ty6eUM-3uM",
-            "title": "Build Switcher: Local Build Caching for Xcode",
-            "link": "https://www.youtube.com/watch?v=7ty6eUM-3uM",
-            "updated": 1714115456,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:lbzyHb4vVPU",
-            "title": "Indie Watch: iOS and Mac OS App Development Newsletter",
-            "link": "https://www.youtube.com/watch?v=lbzyHb4vVPU",
-            "updated": 1709656514,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:ZM4VHOvPdQU",
-            "title": "EditKit Pro - Supercharge Your Xcode Workflow [Xcode Editor Extension]",
-            "link": "https://www.youtube.com/watch?v=ZM4VHOvPdQU",
-            "updated": 1709402549,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:xYngwS1OVU0",
-            "title": "Code Replay for Xcode [Demo Video]",
-            "link": "https://www.youtube.com/watch?v=xYngwS1OVU0",
-            "updated": 1714032004,
-            "site_name": "Aryaman Sharda on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
         },
         {
             "id": "yt:video:H7xpAlYnrek",
             "title": "Implementing Force App Updates In Swift 5",
             "link": "https://www.youtube.com/watch?v=H7xpAlYnrek",
             "updated": 1714175358,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:lKbieW-sZf0",
-            "title": "Overloading & Creating New Operators In Swift 5",
-            "link": "https://www.youtube.com/watch?v=lKbieW-sZf0",
-            "updated": 1711088397,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:RDIIHpHiuVM",
-            "title": "Deep Link Testing on iOS - free macOS tool!",
-            "link": "https://www.youtube.com/watch?v=RDIIHpHiuVM",
-            "updated": 1714086766,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:Dssjju2fkX4",
-            "title": "Pull Request Checklist for iOS Developers | GitHub Repo #shorts",
-            "link": "https://www.youtube.com/watch?v=Dssjju2fkX4",
-            "updated": 1714087875,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:lZHNi5PZr4E",
-            "title": "Mock iOS Interview | My Favorite iOS Interview Question",
-            "link": "https://www.youtube.com/watch?v=lZHNi5PZr4E",
-            "updated": 1710974611,
-            "site_name": "Aryaman Sharda on YouTube"
-        },
-        {
-            "id": "yt:video:0sNBAzKN4NQ",
-            "title": "How to Implement Feature Flagging in iOS",
-            "link": "https://www.youtube.com/watch?v=0sNBAzKN4NQ",
-            "updated": 1711709562,
-            "site_name": "Aryaman Sharda on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
         },
         {
             "id": "yt:video:ENR-UaG-q1A",
             "title": "Advanced Data Sources [UITableView | UICollectionView] in iOS",
             "link": "https://www.youtube.com/watch?v=ENR-UaG-q1A",
             "updated": 1714156597,
-            "site_name": "Aryaman Sharda on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
         },
         {
-            "id": "yt:video:gl34v0skFGg",
-            "title": "iOS Interview Questions #1 [Swift 5 | 2021]",
-            "link": "https://www.youtube.com/watch?v=gl34v0skFGg",
-            "updated": 1707776549,
-            "site_name": "Aryaman Sharda on YouTube"
+            "id": "yt:video:7ty6eUM-3uM",
+            "title": "Build Switcher: Local Build Caching for Xcode",
+            "link": "https://www.youtube.com/watch?v=7ty6eUM-3uM",
+            "updated": 1714115456,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
         },
         {
             "id": "yt:video:yok5XfEnJXA",
             "title": "How To Make iPhone Apps Faster | My Custom Workflow [Swift 5, Xcode 12]",
             "link": "https://www.youtube.com/watch?v=yok5XfEnJXA",
             "updated": 1714089070,
-            "site_name": "Aryaman Sharda on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:Dssjju2fkX4",
+            "title": "Pull Request Checklist for iOS Developers | GitHub Repo #shorts",
+            "link": "https://www.youtube.com/watch?v=Dssjju2fkX4",
+            "updated": 1714087875,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:RDIIHpHiuVM",
+            "title": "Deep Link Testing on iOS - free macOS tool!",
+            "link": "https://www.youtube.com/watch?v=RDIIHpHiuVM",
+            "updated": 1714086766,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:xYngwS1OVU0",
+            "title": "Code Replay for Xcode [Demo Video]",
+            "link": "https://www.youtube.com/watch?v=xYngwS1OVU0",
+            "updated": 1714032004,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:XwRmbFsP2bs",
+            "title": "Creating The DVD Screensaver In SwiftUI | Step-by-Step Coding Tutorial | The Office",
+            "link": "https://www.youtube.com/watch?v=XwRmbFsP2bs",
+            "updated": 1712829653,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:0sNBAzKN4NQ",
+            "title": "How to Implement Feature Flagging in iOS",
+            "link": "https://www.youtube.com/watch?v=0sNBAzKN4NQ",
+            "updated": 1711709562,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:lKbieW-sZf0",
+            "title": "Overloading & Creating New Operators In Swift 5",
+            "link": "https://www.youtube.com/watch?v=lKbieW-sZf0",
+            "updated": 1711088397,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:lZHNi5PZr4E",
+            "title": "Mock iOS Interview | My Favorite iOS Interview Question",
+            "link": "https://www.youtube.com/watch?v=lZHNi5PZr4E",
+            "updated": 1710974611,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:lbzyHb4vVPU",
+            "title": "Indie Watch: iOS and Mac OS App Development Newsletter",
+            "link": "https://www.youtube.com/watch?v=lbzyHb4vVPU",
+            "updated": 1709656514,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:ZM4VHOvPdQU",
+            "title": "EditKit Pro - Supercharge Your Xcode Workflow [Xcode Editor Extension]",
+            "link": "https://www.youtube.com/watch?v=ZM4VHOvPdQU",
+            "updated": 1709402549,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
+        },
+        {
+            "id": "yt:video:gl34v0skFGg",
+            "title": "iOS Interview Questions #1 [Swift 5 | 2021]",
+            "link": "https://www.youtube.com/watch?v=gl34v0skFGg",
+            "updated": 1707776549,
+            "site_url": "https://www.youtube.com/channel/UCOaGxMc7zD9vpjBwluVgP2w"
         }
     ]
 }

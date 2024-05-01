@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:QfMnd6mOR84",
-            "title": "What is the Nil Coalescing Operator in the Swift language?  #swiftui #bigmountainstudio #swiftcode",
-            "link": "https://www.youtube.com/watch?v=QfMnd6mOR84",
-            "updated": 1714150486,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:o_Vu1RyCsR4",
-            "title": "How to Remove List Row Separators in a SwiftUI List  #swiftui #swiftdata  #bigmountainstudio",
-            "link": "https://www.youtube.com/watch?v=o_Vu1RyCsR4",
-            "updated": 1708783117,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:qXPNycFSDwc",
-            "title": "How To Have AI Create Endless Mock Data for SwiftData #swiftui #swiftdata  #bigmountainstudio",
-            "link": "https://www.youtube.com/watch?v=qXPNycFSDwc",
-            "updated": 1711072063,
-            "site_name": "Mark Moeykens on YouTube"
+            "id": "yt:video:TshpcKZmma8",
+            "title": "SwiftUI Search & Filter with Combine - Part 3 (iOS, Xcode 13, SwiftUI, 2022)",
+            "link": "https://www.youtube.com/watch?v=TshpcKZmma8",
+            "updated": 1714172588,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
             "id": "yt:video:NFyqdxGFkiY",
             "title": "Are SwiftUI previews impossible with SwiftData? #swiftui #swiftdata  #bigmountainstudio",
             "link": "https://www.youtube.com/watch?v=NFyqdxGFkiY",
             "updated": 1714164070,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:srtsPC09-U4",
-            "title": "\ud83d\udcd5SwiftData Mastery Book Includes... #bigmountainstudio #swiftui #swiftdata",
-            "link": "https://www.youtube.com/watch?v=srtsPC09-U4",
-            "updated": 1714006277,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:tvhuRV20b1U",
-            "title": "SwiftData Models for Charts (\ud83d\udcd5 SwiftData Book)  #swiftui #swiftdata",
-            "link": "https://www.youtube.com/watch?v=tvhuRV20b1U",
-            "updated": 1712166552,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:cVmAZky-sCc",
-            "title": "Store these 2 things in SwiftData for Maps",
-            "link": "https://www.youtube.com/watch?v=cVmAZky-sCc",
-            "updated": 1710925705,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:Vu1Qa8gMHbQ",
-            "title": "Perfectionism Can Paralyze You",
-            "link": "https://www.youtube.com/watch?v=Vu1Qa8gMHbQ",
-            "updated": 1709755650,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:PKUHmlG_76g",
-            "title": "Unlock your coding potential with VISUAL references",
-            "link": "https://www.youtube.com/watch?v=PKUHmlG_76g",
-            "updated": 1714152136,
-            "site_name": "Mark Moeykens on YouTube"
-        },
-        {
-            "id": "yt:video:MPtAHRn3Mg8",
-            "title": "You Can't Sort Related Models in SwiftData",
-            "link": "https://www.youtube.com/watch?v=MPtAHRn3Mg8",
-            "updated": 1714152376,
-            "site_name": "Mark Moeykens on YouTube"
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
             "id": "yt:video:A_wOCkbLUoM",
             "title": "Casual Hangout: Working on SwiftData Mastery Book",
             "link": "https://www.youtube.com/watch?v=A_wOCkbLUoM",
             "updated": 1714156347,
-            "site_name": "Mark Moeykens on YouTube"
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
-            "id": "yt:video:AhTS-gj6v7k",
-            "title": "(iOS, Xcode 13, SwiftUI, 2022)",
-            "link": "https://www.youtube.com/watch?v=AhTS-gj6v7k",
-            "updated": 1713910578,
-            "site_name": "Mark Moeykens on YouTube"
+            "id": "yt:video:MPtAHRn3Mg8",
+            "title": "You Can't Sort Related Models in SwiftData",
+            "link": "https://www.youtube.com/watch?v=MPtAHRn3Mg8",
+            "updated": 1714152376,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
-            "id": "yt:video:xXAskEJYaBU",
-            "title": "30 Seconds for AI to Create Mock Data",
-            "link": "https://www.youtube.com/watch?v=xXAskEJYaBU",
-            "updated": 1712175672,
-            "site_name": "Mark Moeykens on YouTube"
+            "id": "yt:video:PKUHmlG_76g",
+            "title": "Unlock your coding potential with VISUAL references",
+            "link": "https://www.youtube.com/watch?v=PKUHmlG_76g",
+            "updated": 1714152136,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:QfMnd6mOR84",
+            "title": "What is the Nil Coalescing Operator in the Swift language?  #swiftui #bigmountainstudio #swiftcode",
+            "link": "https://www.youtube.com/watch?v=QfMnd6mOR84",
+            "updated": 1714150486,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
             "id": "yt:video:Fq1th6hXqL8",
             "title": "Don't fall for this SwiftUI @AppStorage Mistake",
             "link": "https://www.youtube.com/watch?v=Fq1th6hXqL8",
             "updated": 1714091469,
-            "site_name": "Mark Moeykens on YouTube"
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         },
         {
-            "id": "yt:video:TshpcKZmma8",
-            "title": "SwiftUI Search & Filter with Combine - Part 3 (iOS, Xcode 13, SwiftUI, 2022)",
-            "link": "https://www.youtube.com/watch?v=TshpcKZmma8",
-            "updated": 1714172588,
-            "site_name": "Mark Moeykens on YouTube"
+            "id": "yt:video:srtsPC09-U4",
+            "title": "\ud83d\udcd5SwiftData Mastery Book Includes... #bigmountainstudio #swiftui #swiftdata",
+            "link": "https://www.youtube.com/watch?v=srtsPC09-U4",
+            "updated": 1714006277,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:AhTS-gj6v7k",
+            "title": "(iOS, Xcode 13, SwiftUI, 2022)",
+            "link": "https://www.youtube.com/watch?v=AhTS-gj6v7k",
+            "updated": 1713910578,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:xXAskEJYaBU",
+            "title": "30 Seconds for AI to Create Mock Data",
+            "link": "https://www.youtube.com/watch?v=xXAskEJYaBU",
+            "updated": 1712175672,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:tvhuRV20b1U",
+            "title": "SwiftData Models for Charts (\ud83d\udcd5 SwiftData Book)  #swiftui #swiftdata",
+            "link": "https://www.youtube.com/watch?v=tvhuRV20b1U",
+            "updated": 1712166552,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:qXPNycFSDwc",
+            "title": "How To Have AI Create Endless Mock Data for SwiftData #swiftui #swiftdata  #bigmountainstudio",
+            "link": "https://www.youtube.com/watch?v=qXPNycFSDwc",
+            "updated": 1711072063,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:cVmAZky-sCc",
+            "title": "Store these 2 things in SwiftData for Maps",
+            "link": "https://www.youtube.com/watch?v=cVmAZky-sCc",
+            "updated": 1710925705,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:Vu1Qa8gMHbQ",
+            "title": "Perfectionism Can Paralyze You",
+            "link": "https://www.youtube.com/watch?v=Vu1Qa8gMHbQ",
+            "updated": 1709755650,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:o_Vu1RyCsR4",
+            "title": "How to Remove List Row Separators in a SwiftUI List  #swiftui #swiftdata  #bigmountainstudio",
+            "link": "https://www.youtube.com/watch?v=o_Vu1RyCsR4",
+            "updated": 1708783117,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
         }
     ]
 }

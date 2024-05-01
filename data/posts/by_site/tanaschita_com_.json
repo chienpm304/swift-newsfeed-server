@@ -1,1027 +1,1027 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://tanaschita.com/graphql-essentials-for-ios",
             "title": "GraphQL essentials for iOS development",
             "link": "https://tanaschita.com/graphql-essentials-for-ios",
             "updated": 1713711600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/xcode-shortcuts",
             "title": "My favorite Xcode keyboard shortcuts to be more productive",
             "link": "https://tanaschita.com/xcode-shortcuts",
             "updated": 1713106800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/xcode-quicktip-learning-shortcuts",
             "title": "Quick tip on how to learn Xcode keyboard shortcuts efficiently",
             "link": "https://tanaschita.com/xcode-quicktip-learning-shortcuts",
             "updated": 1712502000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/swiftui-how-to-avoid-using-anyview",
             "title": "How to avoid using AnyView in SwiftUI",
             "link": "https://tanaschita.com/swiftui-how-to-avoid-using-anyview",
             "updated": 1711897200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/swift-logging-api",
             "title": "How to use Swift's logging API",
             "link": "https://tanaschita.com/swift-logging-api",
             "updated": 1711296000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/supporting-dark-mode-programmatically",
             "title": "How to support dark mode in SwiftUI programmatically",
             "link": "https://tanaschita.com/supporting-dark-mode-programmatically",
             "updated": 1710691200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20240311-draggable-sheet-with-scroll-view",
             "title": "How to build a draggable bottom sheet with a scroll view in SwiftUI",
             "link": "https://tanaschita.com/20240311-draggable-sheet-with-scroll-view",
             "updated": 1710086400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20240304-tipkit-feature-hints",
             "title": "How to use TipKit to create tool tips in SwiftUI",
             "link": "https://tanaschita.com/20240304-tipkit-feature-hints",
             "updated": 1709481600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20240226-delay-swiftui-animation",
             "title": "How to delay an animation in SwiftUI",
             "link": "https://tanaschita.com/20240226-delay-swiftui-animation",
             "updated": 1708876800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20240219-swiftdata-relationships",
             "title": "How to define one-to-many relationships in SwiftData",
             "link": "https://tanaschita.com/20240219-swiftdata-relationships",
             "updated": 1708272000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/graphql-apollo-for-ios",
             "title": "Getting started with Apollo iOS for GraphQL in Swift",
             "link": "https://tanaschita.com/graphql-apollo-for-ios",
             "updated": 1707667200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20240205-new-book-version",
             "title": "New book version release of preparing for a technical iOS job interview",
             "link": "https://tanaschita.com/20240205-new-book-version",
             "updated": 1707062400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231218-small-break",
             "title": "A short break for tanaschita.com",
             "link": "https://tanaschita.com/20231218-small-break",
             "updated": 1702828800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231211-auto-renewable-subscriptions",
             "title": "Get started with auto\u2011renewable subscriptions for iOS",
             "link": "https://tanaschita.com/20231211-auto-renewable-subscriptions",
             "updated": 1702224000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231205-kotlin-for-swift-developers-part-3",
             "title": "Introduction to Kotlin for Swift developers - protocols, extensions & generics",
             "link": "https://tanaschita.com/20231205-kotlin-for-swift-developers-part-3",
             "updated": 1701446400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231127-swift-data-images",
             "title": "How to store images in SwiftData",
             "link": "https://tanaschita.com/20231127-swift-data-images",
             "updated": 1701014400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231120-migration-with-swiftdata",
             "title": "How to migrate to a new schema with SwiftData in iOS",
             "link": "https://tanaschita.com/20231120-migration-with-swiftdata",
             "updated": 1700409600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231113-subscriptions-introductory-offers",
             "title": "How to implemet a free trial period for StoreKit 2 subscriptions in iOS",
             "link": "https://tanaschita.com/20231113-subscriptions-introductory-offers",
             "updated": 1699804800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231106-migration-to-string-catalogs",
             "title": "How to migrate from Localizable.strings to String Catalogs",
             "link": "https://tanaschita.com/20231106-migration-to-string-catalogs",
             "updated": 1699200000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231030-swiftdata-swiftui",
             "title": "How to get a SwiftData model container and context in SwiftUI",
             "link": "https://tanaschita.com/20231030-swiftdata-swiftui",
             "updated": 1698595200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231023-bash-scripting-for-ios-devs",
             "title": "Introduction to bash scripting for iOS developers",
             "link": "https://tanaschita.com/20231023-bash-scripting-for-ios-devs",
             "updated": 1697986800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231016-quick-dev-guide-swift-data",
             "title": "Quick developer guide on SwiftData for iOS",
             "link": "https://tanaschita.com/20231016-quick-dev-guide-swift-data",
             "updated": 1697382000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231009-restore-in-app-purchases-storekit",
             "title": "How to restore in-app purchases with StoreKit 2 for iOS",
             "link": "https://tanaschita.com/20231009-restore-in-app-purchases-storekit",
             "updated": 1696777200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20231002-storekit-2-overview",
             "title": "Get started with StoreKit 2 for iOS",
             "link": "https://tanaschita.com/20231002-storekit-2-overview",
             "updated": 1696172400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230925-kotlin-for-swift-developers-part-2",
             "title": "Introduction to Kotlin for Swift developers - classes, structs & enums",
             "link": "https://tanaschita.com/20230925-kotlin-for-swift-developers-part-2",
             "updated": 1695567600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230918-proxyman-how-to-change-request",
             "title": "How to intercept and edit a server response with Proxyman for iOS",
             "link": "https://tanaschita.com/20230918-proxyman-how-to-change-request",
             "updated": 1694962800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230911-html-in-swiftui",
             "title": "How to present a local html file in SwiftUI",
             "link": "https://tanaschita.com/20230911-html-in-swiftui",
             "updated": 1694358000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230904-storekit-testing-in-xcode",
             "title": "Get started with StoreKit Testing in Xcode",
             "link": "https://tanaschita.com/20230904-storekit-testing-in-xcode",
             "updated": 1693753200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230828-pagination-in-swiftui-list",
             "title": "How to implement pagination with SwiftUI's List view",
             "link": "https://tanaschita.com/20230828-pagination-in-swiftui-list",
             "updated": 1693148400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230822-observation-framework-subscribe-to-changes",
             "title": "How to manually subscribe to changes of SwiftUI's @Observable objects",
             "link": "https://tanaschita.com/20230822-observation-framework-subscribe-to-changes",
             "updated": 1692630000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230815-kotlin-for-swift-developers-part-1",
             "title": "Introduction to Kotlin for Swift developers - variables, functions & control flow",
             "link": "https://tanaschita.com/20230815-kotlin-for-swift-developers-part-1",
             "updated": 1692025200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230807-migrating-to-observation",
             "title": "Migrating to the Observation framework in SwiftUI",
             "link": "https://tanaschita.com/20230807-migrating-to-observation",
             "updated": 1691334000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230731-stateobject-observedobject-swiftui",
             "title": "The difference between @StateObject and @ObservedObject in SwiftUI",
             "link": "https://tanaschita.com/20230731-stateobject-observedobject-swiftui",
             "updated": 1690729200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230724-fastlane-screenshots-ios",
             "title": "How to automate taking screenshots with fastlane for iOS",
             "link": "https://tanaschita.com/20230724-fastlane-screenshots-ios",
             "updated": 1690124400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230717-flutter-for-ios-developers",
             "title": "Beginner's guide on Flutter for iOS developers",
             "link": "https://tanaschita.com/20230717-flutter-for-ios-developers",
             "updated": 1689519600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230710-pluralization-with-string-catalogs",
             "title": "How to use String Catalogs for pluralization in Swift",
             "link": "https://tanaschita.com/20230710-pluralization-with-string-catalogs",
             "updated": 1688914800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230703-reusable-toolbar-swiftui",
             "title": "How to create a custom reusable toolbar in SwiftUI",
             "link": "https://tanaschita.com/20230703-reusable-toolbar-swiftui",
             "updated": 1688310000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230626-string-catalogs",
             "title": "How to use String Catalogs for localization in Swift",
             "link": "https://tanaschita.com/20230626-string-catalogs",
             "updated": 1687705200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230619-tokenizing-words-with-natural-language-framework",
             "title": "Quick tip on how to split text into words with the Natural Language framework in Swift.",
             "link": "https://tanaschita.com/20230619-tokenizing-words-with-natural-language-framework",
             "updated": 1687100400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230612-find-similar-words-natural-language-framework-ios",
             "title": "How to find synonyms with the Natural Language framework for iOS",
             "link": "https://tanaschita.com/20230612-find-similar-words-natural-language-framework-ios",
             "updated": 1686495600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230605-swiftui-state-binding-different-types",
             "title": "How to map a SwiftUI state to a binding of a different type",
             "link": "https://tanaschita.com/20230605-swiftui-state-binding-different-types",
             "updated": 1685890800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230529-continuous-integration-and-delivery-for-ios",
             "title": "Continuous integration and delivery for iOS",
             "link": "https://tanaschita.com/20230529-continuous-integration-and-delivery-for-ios",
             "updated": 1685286000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230521-developer-guide-on-push-notifications-for-ios",
             "title": "Developer guide on push notifications for iOS",
             "link": "https://tanaschita.com/20230521-developer-guide-on-push-notifications-for-ios",
             "updated": 1684594800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230515-natural-language-framework-linguistic-tags",
             "title": "How to identify parts of speech and names in a text with Swift",
             "link": "https://tanaschita.com/20230515-natural-language-framework-linguistic-tags",
             "updated": 1684076400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230508-coordinators-in-swiftui",
             "title": "How to implement a UIViewController delegate when working with SwiftUI",
             "link": "https://tanaschita.com/20230508-coordinators-in-swiftui",
             "updated": 1683471600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230501-detect-language-with-natural-language-framework",
             "title": "How to detect the language of a text with the Natural Language framework in Swift",
             "link": "https://tanaschita.com/20230501-detect-language-with-natural-language-framework",
             "updated": 1682866800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230424-app-clips",
             "title": "Developer guide on App Clips for iOS",
             "link": "https://tanaschita.com/20230424-app-clips",
             "updated": 1682262000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230417-cheatsheet-for-anatomy-of-ios-push-notifications",
             "title": "Cheatsheet for the JSON payload of an iOS push notification",
             "link": "https://tanaschita.com/20230417-cheatsheet-for-anatomy-of-ios-push-notifications",
             "updated": 1681657200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230410-how-to-scan-qr-codes-with-visionkit-for-ios",
             "title": "How to scan QR codes with VisionKit for iOS",
             "link": "https://tanaschita.com/20230410-how-to-scan-qr-codes-with-visionkit-for-ios",
             "updated": 1681052400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230403-train-ml-model-with-create-ml-ios",
             "title": "Get started with Create ML to train a machine learning model in iOS",
             "link": "https://tanaschita.com/20230403-train-ml-model-with-create-ml-ios",
             "updated": 1680447600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230327-json-custom-decoding-encoding",
             "title": "How to change JSON keys by using Swift's CodingKey protocol",
             "link": "https://tanaschita.com/20230327-json-custom-decoding-encoding",
             "updated": 1679842800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230320-cheatsheet-nspredicate-fetchrequest-core-data",
             "title": "Get started with NSPredicate to filter NSFetchRequest in Core Data",
             "link": "https://tanaschita.com/20230320-cheatsheet-nspredicate-fetchrequest-core-data",
             "updated": 1679241600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230313-machine-learning-ios-core-ml",
             "title": "Developer guide on machine learning for iOS with Core ML",
             "link": "https://tanaschita.com/20230313-machine-learning-ios-core-ml",
             "updated": 1678636800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230306-xctunwrap-quick-tip",
             "title": "Quick tip on how to unit test Swift optionals with XCTUnwrap",
             "link": "https://tanaschita.com/20230306-xctunwrap-quick-tip",
             "updated": 1678032000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230227-passkeys-ios-developer-guide",
             "title": "Developer guide on passkeys for iOS",
             "link": "https://tanaschita.com/20230227-passkeys-ios-developer-guide",
             "updated": 1677427200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230220-json-codingkey-protocol",
             "title": "How to use custom names for Swift properties when decoding JSON data",
             "link": "https://tanaschita.com/20230220-json-codingkey-protocol",
             "updated": 1676822400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230213-fastlane-ios-developer-guide",
             "title": "Quick guide on fastlane for iOS development",
             "link": "https://tanaschita.com/20230213-fastlane-ios-developer-guide",
             "updated": 1676217600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230206-the-available-attribute-in-ios",
             "title": "How to use the @available attribute in Swift",
             "link": "https://tanaschita.com/20230206-the-available-attribute-in-ios",
             "updated": 1675612800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230130-nullability-declarations-objective-c",
             "title": "How to import Objective-C types as optionals or non-optionals into Swift",
             "link": "https://tanaschita.com/20230130-nullability-declarations-objective-c",
             "updated": 1675008000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230123-securely-store-data-in-ios-applications-by-using-keychain",
             "title": "Developer guide on keychain for iOS",
             "link": "https://tanaschita.com/20230123-securely-store-data-in-ios-applications-by-using-keychain",
             "updated": 1674403200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230116-animations-in-swiftui",
             "title": "Understanding basic animations in SwiftUI",
             "link": "https://tanaschita.com/20230116-animations-in-swiftui",
             "updated": 1673798400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230109-user-defaults-storing-swift-structs",
             "title": "How to store a Swift struct in UserDefaults",
             "link": "https://tanaschita.com/20230109-user-defaults-storing-swift-structs",
             "updated": 1673193600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20230102-ios-interview-questions-and-answers-book-preview",
             "title": "Preparing for a technical iOS job interview with questions and answers",
             "link": "https://tanaschita.com/20230102-ios-interview-questions-and-answers-book-preview",
             "updated": 1672588800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221226-authorizing-app-store-connect-api-requests",
             "title": "Authorizing App Store Connect API requests",
             "link": "https://tanaschita.com/20221226-authorizing-app-store-connect-api-requests",
             "updated": 1671984000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221219-how-to-perform-a-lightweight-migration-in-core-data",
             "title": "How to perform a lightweight migration in Core Data",
             "link": "https://tanaschita.com/20221219-how-to-perform-a-lightweight-migration-in-core-data",
             "updated": 1671379200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221212-code-signing-and-provisioning-for-ios",
             "title": "Developer guide on iOS code signing & provisioning",
             "link": "https://tanaschita.com/20221212-code-signing-and-provisioning-for-ios",
             "updated": 1670774400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221205-async-await-swift-continuations",
             "title": "How to bridge completions handlers to Swift's async/await",
             "link": "https://tanaschita.com/20221205-async-await-swift-continuations",
             "updated": 1670169600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221128-app-store-connect-api-quide",
             "title": "Developer guide on the App Store Connect API",
             "link": "https://tanaschita.com/20221128-app-store-connect-api-quide",
             "updated": 1669564800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221121-cheatsheet-combine-operators",
             "title": "Cheat sheet on Combine operators for iOS development",
             "link": "https://tanaschita.com/20221121-cheatsheet-combine-operators",
             "updated": 1668960000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221114-json-date-decoding-encoding",
             "title": "Understanding date decoding strategies when working with JSON in Swift",
             "link": "https://tanaschita.com/20221114-json-date-decoding-encoding",
             "updated": 1668355200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221114-how-to-handle-non-optional-core-data-values-in-swift",
             "title": "How to handle non-optional Core Data properties in Swift",
             "link": "https://tanaschita.com/20221114-how-to-handle-non-optional-core-data-values-in-swift",
             "updated": 1667750400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221031-managing-cache-when-working-with-urlsession-in-ios",
             "title": "Understanding different cache policies when working with URLRequest in Swift",
             "link": "https://tanaschita.com/20221031-managing-cache-when-working-with-urlsession-in-ios",
             "updated": 1667145600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221024-how-to-create-a-managed-object-subclass-xcode-core-data",
             "title": "How to create NSManagedObject subsclasses for Core Data entities in Xcode",
             "link": "https://tanaschita.com/20221024-how-to-create-a-managed-object-subclass-xcode-core-data",
             "updated": 1666537200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221017-using-urlsession-with-async-await",
             "title": "Using URLSession with async/await in Swift",
             "link": "https://tanaschita.com/20221017-using-urlsession-with-async-await",
             "updated": 1665932400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221010-quick-guide-on-the-ios-file-system",
             "title": "Developer guide on the iOS file system",
             "link": "https://tanaschita.com/20221010-quick-guide-on-the-ios-file-system",
             "updated": 1665327600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20221003-memory-management-for-async-await",
             "title": "Memory management for async/await and tasks in Swift",
             "link": "https://tanaschita.com/20221003-memory-management-for-async-await",
             "updated": 1664722800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220926-live-cycle-of-a-swiftui-view",
             "title": "How to manage lifecycle events in SwiftUI iOS applications",
             "link": "https://tanaschita.com/20220926-live-cycle-of-a-swiftui-view",
             "updated": 1664118000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220919-understanding-the-main-aspects-of-core-data",
             "title": "iOS developer guide on the main aspects of Core Data",
             "link": "https://tanaschita.com/20220919-understanding-the-main-aspects-of-core-data",
             "updated": 1663513200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220912-memory-management-in-combine",
             "title": "Memory management in Combine",
             "link": "https://tanaschita.com/20220912-memory-management-in-combine",
             "updated": 1662908400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220905-how-to-build-a-configurable-widget-with-widgetkit-and-swiftui",
             "title": "How to build a configurable widget with WidgetKit and SwiftUI",
             "link": "https://tanaschita.com/20220905-how-to-build-a-configurable-widget-with-widgetkit-and-swiftui",
             "updated": 1662303600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220905-building-widgets-for-ios-applications-with-widgetkit-and-swiftui",
             "title": "Building widgets for iOS applications with WidgetKit and SwiftUI",
             "link": "https://tanaschita.com/20220905-building-widgets-for-ios-applications-with-widgetkit-and-swiftui",
             "updated": 1661698800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220822-bridge-async-await-to-combine-future",
             "title": "How to bridge async/await functions to Combine's Future type in Swift",
             "link": "https://tanaschita.com/20220822-bridge-async-await-to-combine-future",
             "updated": 1661094000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220815-supporting-password-autofill-for-ios-appilcations",
             "title": "Implementing Password AutoFill for an iOS application",
             "link": "https://tanaschita.com/20220815-supporting-password-autofill-for-ios-appilcations",
             "updated": 1660489200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220808-cheat-sheet-on-voice-over-gestures-for-ios",
             "title": "Cheat sheet on VoiceOver gestures for iOS",
             "link": "https://tanaschita.com/20220808-cheat-sheet-on-voice-over-gestures-for-ios",
             "updated": 1659884400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220801-supporting-universal-links-in-a-swiftui-application",
             "title": "Supporting universal links in a SwiftUI application",
             "link": "https://tanaschita.com/20220801-supporting-universal-links-in-a-swiftui-application",
             "updated": 1659279600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220725-quick-guide-on-associated-domains-in-ios",
             "title": "Quick guide on associated domain files for iOS development",
             "link": "https://tanaschita.com/20220725-quick-guide-on-associated-domains-in-ios",
             "updated": 1658674800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220718-changing-variables-while-debugging-with-lldb",
             "title": "How to change a variable's state while debugging an iOS application",
             "link": "https://tanaschita.com/20220718-changing-variables-while-debugging-with-lldb",
             "updated": 1658070000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220711-understanding-lldb-print-commands-for-ios-debugging-with-xcode",
             "title": "Understanding LLDB print commands for iOS debugging with Xcode",
             "link": "https://tanaschita.com/20220711-understanding-lldb-print-commands-for-ios-debugging-with-xcode",
             "updated": 1657465200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220704-quick-guide-on-proxyman",
             "title": "Quick guide on Proxyman for iOS development",
             "link": "https://tanaschita.com/20220704-quick-guide-on-proxyman",
             "updated": 1656860400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220627-understanding-swiftuis-viewthatfits-container",
             "title": "Understanding SwiftUI's ViewThatFits container",
             "link": "https://tanaschita.com/20220627-understanding-swiftuis-viewthatfits-container",
             "updated": 1656255600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui",
             "title": "Quick guide on the Grid container in SwiftUI",
             "link": "https://tanaschita.com/20220620-quick-quide-on-the-grid-container-in-swiftui",
             "updated": 1655650800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220613-understanding-the-some-keyword-with-generic-protocols-in-swift",
             "title": "Understanding the some keyword when working with generic protocols in Swift 5.7",
             "link": "https://tanaschita.com/20220613-understanding-the-some-keyword-with-generic-protocols-in-swift",
             "updated": 1655046000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220606-quick-guide-on-accessibility-in-swiftui",
             "title": "Quick guide on accessibility for SwiftUI",
             "link": "https://tanaschita.com/20220606-quick-guide-on-accessibility-in-swiftui",
             "updated": 1654441200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220530-getting-started-with-ui-testing-for-swiftui-with-xctest-framework",
             "title": "Getting started with UI testing for SwiftUI",
             "link": "https://tanaschita.com/20220530-getting-started-with-ui-testing-for-swiftui-with-xctest-framework",
             "updated": 1653836400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220523-customizing-buttons-in-swiftui-with-buttonstyle",
             "title": "Customizing buttons in SwiftUI with the ButtonStyle protocol",
             "link": "https://tanaschita.com/20220523-customizing-buttons-in-swiftui-with-buttonstyle",
             "updated": 1653231600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220516-customizing-navigationview-title-in-swiftui",
             "title": "Customizing the appearance of the NavigationView title in SwiftUI",
             "link": "https://tanaschita.com/20220516-customizing-navigationview-title-in-swiftui",
             "updated": 1652626800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220509-quick-quide-on-toolbars-in-swiftui",
             "title": "Quick guide on toolbars in SwiftUI",
             "link": "https://tanaschita.com/20220509-quick-quide-on-toolbars-in-swiftui",
             "updated": 1652022000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220502-quick-guide-on-local-notifications-for-ios",
             "title": "Quick guide on local notifications for iOS",
             "link": "https://tanaschita.com/20220502-quick-guide-on-local-notifications-for-ios",
             "updated": 1651417200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220425-testing-remote-push-notifications-in-ios-simulator",
             "title": "Testing remote iOS push notifications in a simulator with simctl",
             "link": "https://tanaschita.com/20220425-testing-remote-push-notifications-in-ios-simulator",
             "updated": 1650812400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220418-quick-guide-on-home-screen-quick-actions-for-ios",
             "title": "Quick guide on home screen quick actions for iOS",
             "link": "https://tanaschita.com/20220418-quick-guide-on-home-screen-quick-actions-for-ios",
             "updated": 1650207600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220411-debugging-ios-features-that-require-quitting-the-app",
             "title": "Debugging iOS features that require restarting the app in Xcode",
             "link": "https://tanaschita.com/20220411-debugging-ios-features-that-require-quitting-the-app",
             "updated": 1649602800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220404-understanding-the-difference-between-appdelegate-scenedelegate-and-swiftui-app-protocol",
             "title": "Understanding the difference between AppDelegate, SceneDelegate and SwiftUI's App protocol",
             "link": "https://tanaschita.com/20220404-understanding-the-difference-between-appdelegate-scenedelegate-and-swiftui-app-protocol",
             "updated": 1648998000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220328-how-to-add-textinput-to-ios-notifications",
             "title": "How to add text input actions to iOS push and local notifications",
             "link": "https://tanaschita.com/20220328-how-to-add-textinput-to-ios-notifications",
             "updated": 1648393200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220321-how-to-add-and-handle-actions-for-ios-notifications",
             "title": "How to add custom actions for iOS push and local notifications",
             "link": "https://tanaschita.com/20220321-how-to-add-and-handle-actions-for-ios-notifications",
             "updated": 1647792000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220314-using-await-async-in-synchronious-swift-code",
             "title": "How to use async/await in synchronous Swift code with tasks",
             "link": "https://tanaschita.com/20220314-using-await-async-in-synchronious-swift-code",
             "updated": 1647187200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220307-manipulating-network-requests-and-responses-with-charles",
             "title": "Manipulating networking requests and responses with Charles",
             "link": "https://tanaschita.com/20220307-manipulating-network-requests-and-responses-with-charles",
             "updated": 1646582400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220228-quick-guide-on-charles-proxy-for-ios",
             "title": "Quick guide on Charles Proxy for iOS development",
             "link": "https://tanaschita.com/20220228-quick-guide-on-charles-proxy-for-ios",
             "updated": 1645977600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220221-xcode-configuration-files",
             "title": "Working with Xcode configuration files",
             "link": "https://tanaschita.com/20220221-xcode-configuration-files",
             "updated": 1645372800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220214-managing-different-ios-environments-in-xcode",
             "title": "Managing different iOS build configurations in Xcode",
             "link": "https://tanaschita.com/20220214-managing-different-ios-environments-in-xcode",
             "updated": 1644768000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220206-understanding-opaque-types-in-swift",
             "title": "Understanding opaque types in Swift",
             "link": "https://tanaschita.com/20220206-understanding-opaque-types-in-swift",
             "updated": 1644163200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220131-sf-symbols-ios-guide",
             "title": "SF Symbols guide for SwiftUI and UIKit",
             "link": "https://tanaschita.com/20220131-sf-symbols-ios-guide",
             "updated": 1643558400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220124-quick-guide-on-local-authentication",
             "title": "Quick guide on Local Authentication for iOS",
             "link": "https://tanaschita.com/20220124-quick-guide-on-local-authentication",
             "updated": 1642953600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220120-symmetric-key-cryptography-with-cryptokit",
             "title": "Symmetric-key cryptography with CryptoKit for iOS",
             "link": "https://tanaschita.com/20220120-symmetric-key-cryptography-with-cryptokit",
             "updated": 1642348800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220105-using-hash-functions-in-swift",
             "title": "Cryptographic hash functions in CryptoKit for iOS",
             "link": "https://tanaschita.com/20220105-using-hash-functions-in-swift",
             "updated": 1641744000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20220105-public-key-cryptography-with-cryptokit",
             "title": "Public-key cryptography with CryptoKit for iOS",
             "link": "https://tanaschita.com/20220105-public-key-cryptography-with-cryptokit",
             "updated": 1641139200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211220-how-to-position-and-size-spritekit-nodes",
             "title": "How to position and size SpriteKit nodes",
             "link": "https://tanaschita.com/20211220-how-to-position-and-size-spritekit-nodes",
             "updated": 1640534400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211220-creating-particles-snow-effect-in-spritekit",
             "title": "Creating a particles snow effect with SpriteKit and SwiftUI",
             "link": "https://tanaschita.com/20211220-creating-particles-snow-effect-in-spritekit",
             "updated": 1639929600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211205-combine-connectable-publisher",
             "title": "How to use a Connectable publisher in Combine",
             "link": "https://tanaschita.com/20211205-combine-connectable-publisher",
             "updated": 1639324800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211205-back-pressure-in-combine",
             "title": "Backpressure in Combine",
             "link": "https://tanaschita.com/20211205-back-pressure-in-combine",
             "updated": 1638720000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211108-preview-swiftui-views-in-dark-mode",
             "title": "How to preview SwiftUI views in dark mode",
             "link": "https://tanaschita.com/20211108-preview-swiftui-views-in-dark-mode",
             "updated": 1636300800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211108-dynamic-colors-in-swiftui",
             "title": "Dynamic colors in SwiftUI",
             "link": "https://tanaschita.com/20211108-dynamic-colors-in-swiftui",
             "updated": 1636300800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211014-how-to-localize-a-swiftui-ios-app",
             "title": "Quick guide to SwiftUI localization",
             "link": "https://tanaschita.com/20211014-how-to-localize-a-swiftui-ios-app",
             "updated": 1634137200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20211014-identify-foreach-list-swiftui",
             "title": "How to identify objects when using SwiftUI's List and ForEach",
             "link": "https://tanaschita.com/20211014-identify-foreach-list-swiftui",
             "updated": 1634137200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210912-how-to-use-async-await-in-swiftui",
             "title": "How to use async/await in SwiftUI",
             "link": "https://tanaschita.com/20210912-how-to-use-async-await-in-swiftui",
             "updated": 1631372400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210912-understanding-swift-actors",
             "title": "Understanding actors in Swift",
             "link": "https://tanaschita.com/20210912-understanding-swift-actors",
             "updated": 1631372400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210720-how-to-unit-test-async-await-functions",
             "title": "How to unit test async/await functions in Swift",
             "link": "https://tanaschita.com/20210720-how-to-unit-test-async-await-functions",
             "updated": 1626706800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210701-async-await-in-swift",
             "title": "Quick guide on async/await in Swift",
             "link": "https://tanaschita.com/20210701-async-await-in-swift",
             "updated": 1625065200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210630-how-to-call-async-await-functions-concurrently",
             "title": "How to call async/await functions concurrently in Swift",
             "link": "https://tanaschita.com/20210630-how-to-call-async-await-functions-concurrently",
             "updated": 1624978800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210605-understanding-swift-strings",
             "title": "Working with Strings in Swift",
             "link": "https://tanaschita.com/20210605-understanding-swift-strings",
             "updated": 1622818800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210516-extending-optionals-in-swift",
             "title": "Extending optionals in Swift",
             "link": "https://tanaschita.com/20210516-extending-optionals-in-swift",
             "updated": 1621090800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210514-understanding-optionals-in-swift",
             "title": "Understanding Swift Optionals",
             "link": "https://tanaschita.com/20210514-understanding-optionals-in-swift",
             "updated": 1620918000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210417-how-to-add-local-swift-package-to-ios-project",
             "title": "How to add local Swift Packages to an iOS project",
             "link": "https://tanaschita.com/20210417-how-to-add-local-swift-package-to-ios-project",
             "updated": 1618585200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210417-quick-guide-on-swift-package-manager-for-ios",
             "title": "Quick Guide on Swift Package Manager for iOS",
             "link": "https://tanaschita.com/20210417-quick-guide-on-swift-package-manager-for-ios",
             "updated": 1618585200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210416-how-to-add-public-library-with-swift-package-manager-for-ios",
             "title": "How to add public libraries as Swift Packages to an iOS project",
             "link": "https://tanaschita.com/20210416-how-to-add-public-library-with-swift-package-manager-for-ios",
             "updated": 1618498800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210320-swiftui-fetchrequest-property-wrapper",
             "title": "The @FetchRequest property wrapper in SwiftUI",
             "link": "https://tanaschita.com/20210320-swiftui-fetchrequest-property-wrapper",
             "updated": 1616169600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210320-using-core-data-with-swiftui",
             "title": "Quick guide to using Core Data with SwiftUI",
             "link": "https://tanaschita.com/20210320-using-core-data-with-swiftui",
             "updated": 1616169600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210206-how-to-create-custom-environment-values-in-swiftui",
             "title": "How to create custom @Environment values in SwiftUI",
             "link": "https://tanaschita.com/20210206-how-to-create-custom-environment-values-in-swiftui",
             "updated": 1615478400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210312-swiftui-environment-property-wrapper",
             "title": "The @Environment property wrapper in SwiftUI",
             "link": "https://tanaschita.com/20210312-swiftui-environment-property-wrapper",
             "updated": 1615478400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20210206-objective-c-for-swift-developers",
             "title": "Objective-C basics for Swift developers",
             "link": "https://tanaschita.com/20210206-objective-c-for-swift-developers",
             "updated": 1612540800,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20201214-working-with-bits-in-swift",
             "title": "How to solve problems with bitwise operators in Swift",
             "link": "https://tanaschita.com/20201214-working-with-bits-in-swift",
             "updated": 1607875200,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20201115-quick-guide-on-combine-essentials",
             "title": "Quick guide on Combine essentials",
             "link": "https://tanaschita.com/20201115-quick-guide-on-combine-essentials",
             "updated": 1605369600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20201017-quick-guide-on-swiftui-essentials",
             "title": "Quick guide on SwiftUI essentials",
             "link": "https://tanaschita.com/20201017-quick-guide-on-swiftui-essentials",
             "updated": 1602860400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20200801-plurals-localization-in-ios",
             "title": "Step-by-step guide for localizing plurals in iOS",
             "link": "https://tanaschita.com/20200801-plurals-localization-in-ios",
             "updated": 1596207600,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/swift-basics-safe-array-subscription",
             "title": "Safe array subscription in Swift",
             "link": "https://tanaschita.com/swift-basics-safe-array-subscription",
             "updated": 1589036400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/20200215-adding-childview-controller",
             "title": "Quick tip on adding child view controllers programmatically",
             "link": "https://tanaschita.com/20200215-adding-childview-controller",
             "updated": 1581696000,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         },
         {
             "id": "https://tanaschita.com/combine-for-rxswift-devs",
             "title": "Introduction to Combine for iOS developers with RxSwift experience",
             "link": "https://tanaschita.com/combine-for-rxswift-devs",
             "updated": 1566140400,
-            "site_name": "Tanaschita"
+            "site_url": "https://tanaschita.com/"
         }
     ]
 }

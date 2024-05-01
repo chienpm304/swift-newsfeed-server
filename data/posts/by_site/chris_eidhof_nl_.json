@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "http://chris.eidhof.nl/post/2024-16",
             "title": "Weeknotes \u2116 16",
             "link": "http://chris.eidhof.nl/post/2024-16",
             "updated": 1713718800,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-15",
             "title": "Weeknotes \u2116 14-15",
             "link": "http://chris.eidhof.nl/post/2024-15",
             "updated": 1713200400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-13",
             "title": "Weeknotes \u2116 12-13",
             "link": "http://chris.eidhof.nl/post/2024-13",
             "updated": 1711904400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-11",
             "title": "Weeknotes \u2116 10-11",
             "link": "http://chris.eidhof.nl/post/2024-11",
             "updated": 1710694800,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-09",
             "title": "Weeknotes \u2116 9",
             "link": "http://chris.eidhof.nl/post/2024-09",
             "updated": 1709485200,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-08",
             "title": "Weeknotes \u2116 8",
             "link": "http://chris.eidhof.nl/post/2024-08",
             "updated": 1708880400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-07",
             "title": "Weeknotes \u2116 5-7",
             "link": "http://chris.eidhof.nl/post/2024-07",
             "updated": 1708362000,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-04",
             "title": "Weeknotes \u2116 4",
             "link": "http://chris.eidhof.nl/post/2024-04",
             "updated": 1706461200,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-03",
             "title": "Weeknotes \u2116 3",
             "link": "http://chris.eidhof.nl/post/2024-03",
             "updated": 1705856400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-02",
             "title": "Weeknotes \u2116 2",
             "link": "http://chris.eidhof.nl/post/2024-02",
             "updated": 1705251600,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2024-01",
             "title": "Weeknotes \u2116 1",
             "link": "http://chris.eidhof.nl/post/2024-01",
             "updated": 1704646800,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/swiftui-binding-tricks",
             "title": "SwiftUI Binding Tips",
             "link": "http://chris.eidhof.nl/post/swiftui-binding-tricks",
             "updated": 1704560400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-52",
             "title": "Weeknotes \u2116 51-52",
             "link": "http://chris.eidhof.nl/post/2023-52",
             "updated": 1703955600,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-50",
             "title": "Weeknotes \u2116 49-50",
             "link": "http://chris.eidhof.nl/post/2023-50",
             "updated": 1702832400,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-48",
             "title": "Weeknotes \u2116 48",
             "link": "http://chris.eidhof.nl/post/2023-48",
             "updated": 1701622800,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-47",
             "title": "Weeknotes \u2116 46-47",
             "link": "http://chris.eidhof.nl/post/2023-47",
             "updated": 1701018000,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-44",
             "title": "Weeknotes \u2116 44",
             "link": "http://chris.eidhof.nl/post/2023-44",
             "updated": 1699203600,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-45",
             "title": "Weeknotes \u2116 45",
             "link": "http://chris.eidhof.nl/post/2023-45",
             "updated": 1699203600,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-43",
             "title": "Weeknotes \u2116 43",
             "link": "http://chris.eidhof.nl/post/2023-43",
             "updated": 1698598800,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         },
         {
             "id": "http://chris.eidhof.nl/post/2023-42",
             "title": "Weeknotes \u2116 42",
             "link": "http://chris.eidhof.nl/post/2023-42",
             "updated": 1697994000,
-            "site_name": "Chris Eidhof\u2019s Blog"
+            "site_url": "https://chris.eidhof.nl/"
         }
     ]
 }

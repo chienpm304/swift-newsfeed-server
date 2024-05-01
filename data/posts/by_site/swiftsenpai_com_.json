@@ -1,75 +1,75 @@
 {
-    "updated": 1714470958,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://swiftsenpai.com/?p=6636",
             "title": "My Journey to the Stage of iOS Conf SG 2024",
             "link": "https://swiftsenpai.com/development/ios-conf-sg-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ios-conf-sg-2024",
             "updated": 1707094800,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=6444",
             "title": "Understanding Container Background for Widget in iOS 17",
             "link": "https://swiftsenpai.com/development/widget-container-background/?utm_source=rss&utm_medium=rss&utm_campaign=widget-container-background",
             "updated": 1694480400,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=6103",
             "title": "How to Create Callback-like Behavior Using AsyncStream in Swift",
             "link": "https://swiftsenpai.com/swift/asyncstream-callback/?utm_source=rss&utm_medium=rss&utm_campaign=asyncstream-callback",
             "updated": 1689642000,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=6041",
             "title": "How to Handle Empty States Using UIContentUnavailableConfiguration",
             "link": "https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/?utm_source=rss&utm_medium=rss&utm_campaign=using-uicontentunavailableconfiguration",
             "updated": 1686531600,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5867",
             "title": "5 Simple Steps to Find Slow Code Using Xcode Time Profiler",
             "link": "https://swiftsenpai.com/xcode/using-time-profiler/?utm_source=rss&utm_medium=rss&utm_campaign=using-time-profiler",
             "updated": 1686015000,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5684",
             "title": "Handling WebP Images When Using PHPickerViewController",
             "link": "https://swiftsenpai.com/development/webp-phpickerviewcontroller/?utm_source=rss&utm_medium=rss&utm_campaign=webp-phpickerviewcontroller",
             "updated": 1684803600,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5638",
             "title": "How to Define Custom URL Actions for SwiftUI Text Views",
             "link": "https://swiftsenpai.com/development/swiftui-custom-url-action/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-custom-url-action",
             "updated": 1683590400,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5626",
             "title": "How to Use UIHostingConfiguration to Integrate SwiftUI Views into UIKit Apps",
             "link": "https://swiftsenpai.com/development/uihostingconfiguration-subview/?utm_source=rss&utm_medium=rss&utm_campaign=uihostingconfiguration-subview",
             "updated": 1682380800,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5600",
             "title": "How to Create Custom Redacted Effects on Widgets?",
             "link": "https://swiftsenpai.com/development/widget-custom-redacted-effects/?utm_source=rss&utm_medium=rss&utm_campaign=widget-custom-redacted-effects",
             "updated": 1681171200,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         },
         {
             "id": "https://swiftsenpai.com/?p=5562",
             "title": "How to Hide Sensitive Widget Data When Device Is Locked?",
             "link": "https://swiftsenpai.com/development/hide-sensitive-widget-data/?utm_source=rss&utm_medium=rss&utm_campaign=hide-sensitive-widget-data",
             "updated": 1679961600,
-            "site_name": "Swift Senpai"
+            "site_url": "https://swiftsenpai.com/"
         }
     ]
 }

@@ -1,26 +1,26 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://blog.mazur.me/playground-driven-development-and-carthage",
             "title": "How to get Playground Driven Development working with Carthage",
             "link": "https://blog.mazur.me/playground-driven-development-and-carthage/",
             "updated": 1549645200,
-            "site_name": "Karol S. Mazur\u2019s Blog"
+            "site_url": "https://blog.mazur.me"
         },
         {
             "id": "https://blog.mazur.me/DEPENDENCIES.md",
             "title": "Tracking dependencies with DEPENDENCIES.md",
             "link": "https://blog.mazur.me/DEPENDENCIES.md/",
             "updated": 1549126800,
-            "site_name": "Karol S. Mazur\u2019s Blog"
+            "site_url": "https://blog.mazur.me"
         },
         {
             "id": "https://blog.mazur.me/hello-world",
             "title": "Hello, World!",
             "link": "https://blog.mazur.me/hello-world/",
             "updated": 1546621200,
-            "site_name": "Karol S. Mazur\u2019s Blog"
+            "site_url": "https://blog.mazur.me"
         }
     ]
 }

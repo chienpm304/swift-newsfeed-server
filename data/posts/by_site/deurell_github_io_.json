@@ -1,96 +1,96 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://deurell.github.io/posts/from-prototype-to-the-next-phase/",
             "title": "From Prototype to the Next Phase",
             "link": "https://deurell.github.io/posts/from-prototype-to-the-next-phase/",
             "updated": 1692947124,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/adventure/",
             "title": "Crafting a Text-Based Adventure Game in Swift",
             "link": "https://deurell.github.io/posts/adventure/",
             "updated": 1692515978,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/pencilkit/",
             "title": "RealityKit <3 PencilKit",
             "link": "https://deurell.github.io/posts/pencilkit/",
             "updated": 1676001246,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/roomplan-swiftui/",
             "title": "RoomPlan using SwiftUI",
             "link": "https://deurell.github.io/posts/roomplan-swiftui/",
             "updated": 1675825504,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/realitykit-interaction/",
             "title": "Controlling AR-entities with an iPhone",
             "link": "https://deurell.github.io/posts/realitykit-interaction/",
             "updated": 1675748836,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/bezier-fish/",
             "title": "Adding Bezier animations to RealityKit",
             "link": "https://deurell.github.io/posts/bezier-fish/",
             "updated": 1673925335,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/realitykit-anchorentity/",
             "title": "Using the RealityKit AnchorEntity",
             "link": "https://deurell.github.io/posts/realitykit-anchorentity/",
             "updated": 1673583308,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/realitykit-surface-detection/",
             "title": "Realitykit Surface Detection",
             "link": "https://deurell.github.io/posts/realitykit-surface-detection/",
             "updated": 1672741420,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/playground-shaders/",
             "title": "Metal shader development on an iPad",
             "link": "https://deurell.github.io/posts/playground-shaders/",
             "updated": 1556020396,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/beatlazers/",
             "title": "Recreating Beat Saber lazers with unicorns",
             "link": "https://deurell.github.io/posts/beatlazers/",
             "updated": 1555232187,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/scenekit-setup/",
             "title": "Setting up ShaderModifiers in SceneKit",
             "link": "https://deurell.github.io/posts/scenekit-setup/",
             "updated": 1555069531,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/starfield/",
             "title": "Teaching your teen to code a starfield in PICO-8",
             "link": "https://deurell.github.io/posts/starfield/",
             "updated": 1554890361,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         },
         {
             "id": "https://deurell.github.io/posts/crazy-comets/",
             "title": "Teaching kids game development with PICO-8",
             "link": "https://deurell.github.io/posts/crazy-comets/",
             "updated": 1554738300,
-            "site_name": "Deurell Labs Blog"
+            "site_url": "https://deurell.github.io/"
         }
     ]
 }

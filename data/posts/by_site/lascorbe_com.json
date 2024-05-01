@@ -1,33 +1,33 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://lascorbe.com/posts/2020-04-29-MVPCoordinators-SwiftUI-part3",
             "title": "MVP + Coordinators in SwiftUI (part 3)",
             "link": "https://lascorbe.com/posts/2020-04-29-MVPCoordinators-SwiftUI-part3",
             "updated": 1588140000,
-            "site_name": "Luis Ascorbe's Blog"
+            "site_url": "https://lascorbe.com"
         },
         {
             "id": "https://lascorbe.com/posts/2020-04-28-MVPCoordinators-SwiftUI-part2",
             "title": "MVP + Coordinators in SwiftUI (part 2)",
             "link": "https://lascorbe.com/posts/2020-04-28-MVPCoordinators-SwiftUI-part2",
             "updated": 1588053600,
-            "site_name": "Luis Ascorbe's Blog"
+            "site_url": "https://lascorbe.com"
         },
         {
             "id": "https://lascorbe.com/posts/2020-04-27-MVPCoordinators-SwiftUI-part1",
             "title": "MVP + Coordinators in SwiftUI (part 1)",
             "link": "https://lascorbe.com/posts/2020-04-27-MVPCoordinators-SwiftUI-part1",
             "updated": 1587963600,
-            "site_name": "Luis Ascorbe's Blog"
+            "site_url": "https://lascorbe.com"
         },
         {
             "id": "https://lascorbe.com/posts/2020-04-21-hello-world",
             "title": "Hello world!",
             "link": "https://lascorbe.com/posts/2020-04-21-hello-world",
             "updated": 1587448800,
-            "site_name": "Luis Ascorbe's Blog"
+            "site_url": "https://lascorbe.com"
         }
     ]
 }

@@ -1,75 +1,75 @@
 {
-    "updated": 1714470981,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://dmtopolog.com/protocol-paradigm-shift",
             "title": "Shift in the protocol paradigm",
             "link": "http://dmtopolog.com/protocol-paradigm-shift/",
             "updated": 1673283600,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/modularity-3-problems",
             "title": "Modularity. What problem does it solve?",
             "link": "http://dmtopolog.com/modularity-3-problems",
             "updated": 1664730000,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/do-protocols-break-srp",
             "title": "Do protocols break Single Responsibility Principle?",
             "link": "http://dmtopolog.com/do-protocols-break-srp/",
             "updated": 1601917200,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/pitfalls-of-protocol-extensions",
             "title": "Pitfalls of protocol extensions",
             "link": "http://dmtopolog.com/pitfalls-of-protocol-extensions/",
             "updated": 1601312400,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/protocol-extensions",
             "title": "Protocol extensions",
             "link": "http://dmtopolog.com/protocol-extensions/",
             "updated": 1600707600,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/dark-side-of-extensions",
             "title": "Dark side of extensions in Swift",
             "link": "http://dmtopolog.com/dark-side-of-extensions/",
             "updated": 1600016400,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/protocol-faces",
             "title": "Several faces of protocols",
             "link": "http://dmtopolog.com/protocol-faces/",
             "updated": 1598979600,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/modularity-2-encapsulation",
             "title": "Modularity. Encapsulation",
             "link": "http://dmtopolog.com/modularity-2-encapsulation",
             "updated": 1596387600,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/modularity-1-boundaries",
             "title": "Modularity. Boundaries",
             "link": "http://dmtopolog.com/modularity-1-boundaries",
             "updated": 1591549200,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         },
         {
             "id": "http://dmtopolog.com/fb-rewriting-messenger",
             "title": "Thoughts on rewriting the Messenger App by Facebook.",
             "link": "http://dmtopolog.com/fb-rewriting-messenger/",
             "updated": 1583254800,
-            "site_name": "Topolog\u2019s tech blog"
+            "site_url": "https://dmtopolog.com"
         }
     ]
 }

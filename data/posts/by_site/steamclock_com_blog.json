@@ -1,40 +1,40 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://steamclock.com/blog/2024/04/nice-architecture",
             "title": "A NiceArchitecture for SwiftUI",
             "link": "https://steamclock.com/blog/2024/04/nice-architecture",
             "updated": 1712260800,
-            "site_name": "Steamclock Software Blog"
+            "site_url": "https://steamclock.com/blog"
         },
         {
             "id": "https://steamclock.com/blog/2023/12/assembling-the-feedback-wizard",
             "title": "Assembling The Feedback Wizard",
             "link": "https://steamclock.com/blog/2023/12/assembling-the-feedback-wizard",
             "updated": 1703012400,
-            "site_name": "Steamclock Software Blog"
+            "site_url": "https://steamclock.com/blog"
         },
         {
             "id": "https://steamclock.com/blog/2023/08/feedback-wizard",
             "title": "The Feedback Wizard",
             "link": "https://steamclock.com/blog/2023/08/feedback-wizard",
             "updated": 1693166400,
-            "site_name": "Steamclock Software Blog"
+            "site_url": "https://steamclock.com/blog"
         },
         {
             "id": "https://steamclock.com/blog/2023/07/ridwell-case-study",
             "title": "Case Study: Ridwell",
             "link": "https://steamclock.com/blog/2023/07/ridwell-case-study",
             "updated": 1690142400,
-            "site_name": "Steamclock Software Blog"
+            "site_url": "https://steamclock.com/blog"
         },
         {
             "id": "https://steamclock.com/blog/2023/01/nice-components",
             "title": "Introducing: NiceComponents",
             "link": "https://steamclock.com/blog/2023/01/nice-components",
             "updated": 1675018800,
-            "site_name": "Steamclock Software Blog"
+            "site_url": "https://steamclock.com/blog"
         }
     ]
 }

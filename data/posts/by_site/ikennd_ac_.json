@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "tag:ikennd.ac,2024-02-12:/blog/2024/02/swift-on-windows-with-swifttoclr/",
             "title": "Proof of Concept Project: Combining Swift and C# on Windows with SwiftToCLR",
             "link": "http://ikennd.ac/blog/2024/02/swift-on-windows-with-swifttoclr/",
             "updated": 1707724800,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2023-09-05:/blog/2023/09/swift-on-the-server-talk-additional-reading/",
             "title": "Server-Side Swift For Small Startup Success: Additional Reading",
             "link": "http://ikennd.ac/blog/2023/09/swift-on-the-server-talk-additional-reading/",
             "updated": 1693893600,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2023-02-09:/blog/2023/02/introducing-photo-scout/",
             "title": "Introducing Photo Scout!",
             "link": "http://ikennd.ac/blog/2023/02/introducing-photo-scout/",
             "updated": 1675929600,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2023-01-13:/blog/2023/01/identity-crisis/",
             "title": "Identity Crisis",
             "link": "http://ikennd.ac/blog/2023/01/identity-crisis/",
             "updated": 1673611200,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2020-07-05:/blog/2020/07/vacation-in-saudi-arabia/",
             "title": "Vacation In Saudi Arabia",
             "link": "http://ikennd.ac/blog/2020/07/vacation-in-saudi-arabia/",
             "updated": 1593918900,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2020-04-05:/blog/2020/04/boundaries-when-working-from-home/",
             "title": "Successfully Working From Home: It's All About Boundaries!",
             "link": "http://ikennd.ac/blog/2020/04/boundaries-when-working-from-home/",
             "updated": 1586077200,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2019-04-02:/blog/2019/04/when-should-i-head-home-from-wwdc/",
             "title": "When Should I Head Home From WWDC?",
             "link": "http://ikennd.ac/blog/2019/04/when-should-i-head-home-from-wwdc/",
             "updated": 1554210000,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2019-02-04:/blog/2019/02/nanoc-on-ipad/",
             "title": "Editing, Previewing and Deploying Nanoc Sites Using An iPad",
             "link": "http://ikennd.ac/blog/2019/02/nanoc-on-ipad/",
             "updated": 1549288800,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2019-02-02:/blog/2019/02/despair-thy-name-is-app-store/",
             "title": "Despair, Thy Name is App Store",
             "link": "http://ikennd.ac/blog/2019/02/despair-thy-name-is-app-store/",
             "updated": 1549044000,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2018-12-20:/blog/2018/12/audioblog/",
             "title": "Introducing the iKennd.ac Audioblog!",
             "link": "http://ikennd.ac/blog/2018/12/audioblog/",
             "updated": 1545300000,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2018-11-02:/blog/2018/11/lantmateriet-lookup/",
             "title": "Why Publishing Some Nice Autumnal Photos Online Made Me Write An App",
             "link": "http://ikennd.ac/blog/2018/11/lantmateriet-lookup/",
             "updated": 1541149200,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2018-04-06:/blog/2018/04/app-store-subscriptions-and-you/",
             "title": "App Store Subscriptions And You",
             "link": "http://ikennd.ac/blog/2018/04/app-store-subscriptions-and-you/",
             "updated": 1523008800,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2017-01-16:/blog/2017/01/excuse-me-sir-can-i-rattle-your-macbooks/",
             "title": "Excuse Me Sir, But Can I Rattle Your MacBooks?",
             "link": "http://ikennd.ac/blog/2017/01/excuse-me-sir-can-i-rattle-your-macbooks/",
             "updated": 1484553600,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2016-10-28:/blog/2016/10/launching-cascable-2/",
             "title": "Launching Cascable 2.0",
             "link": "http://ikennd.ac/blog/2016/10/launching-cascable-2/",
             "updated": 1477652400,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2016-04-12:/blog/2016/04/secret-diary-of-a-side-project-part-7/",
             "title": "Secret Diary of a Side Project: No Longer Alone",
             "link": "http://ikennd.ac/blog/2016/04/secret-diary-of-a-side-project-part-7/",
             "updated": 1460446200,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2016-01-03:/blog/2016/01/garmin-virb-xe-review-updated/",
             "title": "Garmin VIRB XE Review Updated",
             "link": "http://ikennd.ac/blog/2016/01/garmin-virb-xe-review-updated/",
             "updated": 1451815800,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2015-12-06:/blog/2015/12/sprucing-up-indoor-training-with-simulated-power-data/",
             "title": "Sprucing Up Indoor Training with Simulated Power Data",
             "link": "http://ikennd.ac/blog/2015/12/sprucing-up-indoor-training-with-simulated-power-data/",
             "updated": 1449393300,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2015-08-16:/blog/2015/08/garmin-virb-xe-review/",
             "title": "Garmin VIRB XE for Automotive and Track Days: A First Impressions Review",
             "link": "http://ikennd.ac/blog/2015/08/garmin-virb-xe-review/",
             "updated": 1439721000,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2015-06-21:/blog/2015/06/secret-diary-of-a-side-project-part-6/",
             "title": "Secret Diary of a Side Project: In Reality, I've Only Just Started",
             "link": "http://ikennd.ac/blog/2015/06/secret-diary-of-a-side-project-part-6/",
             "updated": 1434870000,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         },
         {
             "id": "tag:ikennd.ac,2015-05-01:/blog/2015/05/build-time-cfbundleversion-values-in-watchkit-apps/",
             "title": "Build-Time CFBundleVersion Values in WatchKit Apps",
             "link": "http://ikennd.ac/blog/2015/05/build-time-cfbundleversion-values-in-watchkit-apps/",
             "updated": 1430488800,
-            "site_name": "Daniel Kennett\u2019s Blog"
+            "site_url": "https://ikennd.ac/"
         }
     ]
 }

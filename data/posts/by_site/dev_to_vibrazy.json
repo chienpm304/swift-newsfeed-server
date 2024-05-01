@@ -1,40 +1,40 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://dev.to/vibrazy/if-let-shorthand-project-wide-refactoring-using-xcode-regex-search-replace-enh",
             "title": "If let shorthand project wide refactoring using Xcode regex search & replace.",
             "link": "https://dev.to/vibrazy/if-let-shorthand-project-wide-refactoring-using-xcode-regex-search-replace-enh",
             "updated": 1654754891,
-            "site_name": "Daniel Tavares\u2019s Blog"
+            "site_url": "https://dev.to/vibrazy"
         },
         {
             "id": "https://dev.to/vibrazy/easier-swiftui-animations-with-animatedstate-property-wrapper-gdi",
             "title": "Easier SwiftUI animations with AnimatedState property wrapper.",
             "link": "https://dev.to/vibrazy/easier-swiftui-animations-with-animatedstate-property-wrapper-gdi",
             "updated": 1622515286,
-            "site_name": "Daniel Tavares\u2019s Blog"
+            "site_url": "https://dev.to/vibrazy"
         },
         {
             "id": "https://dev.to/vibrazy/creating-a-swift-command-line-app-to-dynamically-generate-previewdevice-simulators-for-swiftui-5geh",
             "title": "Creating a MacOS  command line tool to dynamically generate PreviewDevice devices for SwiftUI",
             "link": "https://dev.to/vibrazy/creating-a-swift-command-line-app-to-dynamically-generate-previewdevice-simulators-for-swiftui-5geh",
             "updated": 1621215466,
-            "site_name": "Daniel Tavares\u2019s Blog"
+            "site_url": "https://dev.to/vibrazy"
         },
         {
             "id": "https://dev.to/vibrazy/simpler-way-to-deal-with-hardcoded-viewmodifers-values-in-swiftui-e6m",
             "title": "Simpler way to deal with hardcoded ViewModifers values in SwiftUI",
             "link": "https://dev.to/vibrazy/simpler-way-to-deal-with-hardcoded-viewmodifers-values-in-swiftui-e6m",
             "updated": 1620619468,
-            "site_name": "Daniel Tavares\u2019s Blog"
+            "site_url": "https://dev.to/vibrazy"
         },
         {
             "id": "https://dev.to/vibrazy/easy-swiftui-view-bindings-using-optionset-and-sourcery-4edb",
             "title": "Easy SwiftUI View bindings Using OptionSet and Sourcery",
             "link": "https://dev.to/vibrazy/easy-swiftui-view-bindings-using-optionset-and-sourcery-4edb",
             "updated": 1620351136,
-            "site_name": "Daniel Tavares\u2019s Blog"
+            "site_url": "https://dev.to/vibrazy"
         }
     ]
 }

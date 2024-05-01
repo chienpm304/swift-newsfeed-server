@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.iamsim.me/the-parting/",
             "title": "The Parting",
             "link": "https://www.iamsim.me/the-parting/",
             "updated": 1668438780,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/composable-architecture-and-uikit-collection-views/",
             "title": "Composable Architecture and UIKit: Collection Views",
             "link": "https://www.iamsim.me/composable-architecture-and-uikit-collection-views/",
             "updated": 1608120224,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/microblog/32/",
             "title": "untitled",
             "link": "https://www.iamsim.me/microblog/32/",
             "updated": 1608088424,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/composable-architecture-and-uikit-the-view-controller/",
             "title": "Composable Architecture and UIKit: The View Controller",
             "link": "https://www.iamsim.me/composable-architecture-and-uikit-the-view-controller/",
             "updated": 1608086097,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/black-lives-matter/",
             "title": "Black Lives Matter",
             "link": "https://www.iamsim.me/black-lives-matter/",
             "updated": 1591888365,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/clicking-background-windows/",
             "title": "Clicking Background Windows",
             "link": "https://www.iamsim.me/clicking-background-windows/",
             "updated": 1588147726,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/microblog/31/",
             "title": "untitled",
             "link": "https://www.iamsim.me/microblog/31/",
             "updated": 1587830008,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/efficient-text-navigation-on-macos/",
             "title": "Efficient Text Navigation on macOS",
             "link": "https://www.iamsim.me/efficient-text-navigation-on-macos/",
             "updated": 1587813014,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/microblog/30/",
             "title": "untitled",
             "link": "https://www.iamsim.me/microblog/30/",
             "updated": 1587735208,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/link/tangerine-habit-tracker/",
             "title": "Tangerine Habit Tracker",
             "link": "https://www.iamsim.me/link/tangerine-habit-tracker/",
             "updated": 1580643120,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/using-self-executing-closures-to-run-code-in-swiftui/",
             "title": "Using Self Executing Closures to Run Code in SwiftUI",
             "link": "https://www.iamsim.me/using-self-executing-closures-to-run-code-in-swiftui/",
             "updated": 1580376644,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/uicollectionview-ergonomics/",
             "title": "UICollectionView Ergonomics",
             "link": "https://www.iamsim.me/uicollectionview-ergonomics/",
             "updated": 1577277180,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/combines-sequence-publisher-missing-first-element/",
             "title": "Combine's Sequence Publisher Missing First Element",
             "link": "https://www.iamsim.me/combines-sequence-publisher-missing-first-element/",
             "updated": 1570079048,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/plantry-3.4-search/",
             "title": "Plantry 3.4: Search",
             "link": "https://www.iamsim.me/plantry-3.4-search/",
             "updated": 1569979544,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/using-combine-to-supplement-delegates-with-publishers/",
             "title": "Using Combine to Supplement Delegates With Publishers",
             "link": "https://www.iamsim.me/using-combine-to-supplement-delegates-with-publishers/",
             "updated": 1569911767,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/plantry-goes-dark-mode/",
             "title": "Plantry Goes Dark Mode",
             "link": "https://www.iamsim.me/plantry-goes-dark-mode/",
             "updated": 1568808544,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/plantry-2.8/",
             "title": "Plantry 2.8",
             "link": "https://www.iamsim.me/plantry-2.8/",
             "updated": 1551105161,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/microblog/29/",
             "title": "untitled",
             "link": "https://www.iamsim.me/microblog/29/",
             "updated": 1551104838,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/microblog/28/",
             "title": "untitled",
             "link": "https://www.iamsim.me/microblog/28/",
             "updated": 1551064374,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         },
         {
             "id": "https://www.iamsim.me/lita-2.3/",
             "title": "Lita 2.3",
             "link": "https://www.iamsim.me/lita-2.3/",
             "updated": 1539310036,
-            "site_name": "I Am Simme"
+            "site_url": "https://www.iamsim.me/"
         }
     ]
 }

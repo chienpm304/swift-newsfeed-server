@@ -1,75 +1,75 @@
 {
-    "updated": 1714470889,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://mobidevtalk.com/?p=2064",
             "title": "Swift Test Doubles Spy Stub Dummy Fake Mock",
             "link": "https://mobidevtalk.com/swift-test-doubles-spy-stub-dummy-fake-mock/",
             "updated": 1700675238,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=2066",
             "title": "Certificates Identifiers Devices Profiles in iOS app distribution",
             "link": "https://mobidevtalk.com/certificates-identifiers-devices-profiles-in-ios-app-distribution/",
             "updated": 1696872473,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "http://mobidevtalk.com/?p=1859",
             "title": "associatedtype on Protocol, making Protocol  Generic",
             "link": "https://mobidevtalk.com/associatedtype-on-protocol/",
             "updated": 1627356622,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "http://mobidevtalk.com/?p=1813",
             "title": "Swift Generic & Protocol",
             "link": "https://mobidevtalk.com/swift-generic-protocol/",
             "updated": 1572374804,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1444",
             "title": "Swift Protocol Hub",
             "link": "https://mobidevtalk.com/swift-protocol-hub/",
             "updated": 1568829412,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1399",
             "title": "Swift Generic introduction",
             "link": "https://mobidevtalk.com/swift-generic-introduction/",
             "updated": 1568569826,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1323",
             "title": "Xcode Shortcuts the iOS Cheat Sheet",
             "link": "https://mobidevtalk.com/xcode-shortcuts-cheat-sheet/",
             "updated": 1564747986,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1289",
             "title": "Swift Enum Hub",
             "link": "https://mobidevtalk.com/swift-enum-hub/",
             "updated": 1562958456,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1245",
             "title": "Dependency Injection in Swift",
             "link": "https://mobidevtalk.com/swift-dependency-injection-through-protocol/",
             "updated": 1562472275,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         },
         {
             "id": "https://mobidevtalk.com/?p=1116",
             "title": "Swift Dependency Inversion through Protocol",
             "link": "https://mobidevtalk.com/swift-dependency-inversion-through-protocol/",
             "updated": 1559052044,
-            "site_name": "mobidevtalk, Learning through case study"
+            "site_url": "https://mobidevtalk.com/"
         }
     ]
 }

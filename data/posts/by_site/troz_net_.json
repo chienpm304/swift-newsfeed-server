@@ -1,880 +1,880 @@
 {
-    "updated": 1714470981,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://troz.net/post/2023/manreader2/",
             "title": "Man Reader 2",
             "link": "https://troz.net/post/2023/manreader2/",
             "updated": 1697186798,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/manreader/",
             "title": "Man Reader 2",
             "link": "https://troz.net/manreader/",
             "updated": 1697186787,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2023/swiftui-data-flow-2023/",
             "title": "SwiftUI Data Flow 2023",
             "link": "https://troz.net/post/2023/swiftui-data-flow-2023/",
             "updated": 1688955774,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2023/macos_book_2/",
             "title": "macOS Apprentice",
             "link": "https://troz.net/post/2023/macos_book_2/",
             "updated": 1688006917,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2023/sparkle/",
             "title": "Sparkle",
             "link": "https://troz.net/post/2023/sparkle/",
             "updated": 1681188518,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2023/to-day/",
             "title": "To-Day",
             "link": "https://troz.net/post/2023/to-day/",
             "updated": 1678262281,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2022/new_links/",
             "title": "New Links",
             "link": "https://troz.net/post/2022/new_links/",
             "updated": 1671241655,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2022/swiftui-mac-2022/",
             "title": "SwiftUI for Mac 2022",
             "link": "https://troz.net/post/2022/swiftui-mac-2022/",
             "updated": 1655450312,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2022/setup/",
             "title": "Writing Setup",
             "link": "https://troz.net/post/2022/setup/",
             "updated": 1655449726,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2022/wwdc_wishlist/",
             "title": "WWDC 2022 Wishlist",
             "link": "https://troz.net/post/2022/wwdc_wishlist/",
             "updated": 1650888036,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2022/macos_book/",
             "title": "macOS Book",
             "link": "https://troz.net/post/2022/macos_book/",
             "updated": 1649476423,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2021/site_search/",
             "title": "Site Search",
             "link": "https://troz.net/post/2021/site_search/",
             "updated": 1635130632,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2021/apple_dtk_gamble/",
             "title": "The Apple DTK Gamble",
             "link": "https://troz.net/post/2021/apple_dtk_gamble/",
             "updated": 1612439841,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2021/swiftui_mac_menus/",
             "title": "SwifUI Mac Menus",
             "link": "https://troz.net/post/2021/swiftui_mac_menus/",
             "updated": 1611476657,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/swiftui-data-flow/",
             "title": "SwiftUI Data Flow",
             "link": "https://troz.net/post/2019/swiftui-data-flow/",
             "updated": 1611476234,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/crossfix/",
             "title": "Crossfix",
             "link": "https://troz.net/post/2020/crossfix/",
             "updated": 1606096785,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/crossfix/",
             "title": "Crossfix",
             "link": "https://troz.net/crossfix/",
             "updated": 1606036989,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/wow-stats/",
             "title": "Stats for WoW",
             "link": "https://troz.net/wow-stats/",
             "updated": 1602650583,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/swiftui_mac_big_sur/",
             "title": "SwiftUI for Mac on Big Sur",
             "link": "https://troz.net/post/2020/swiftui_mac_big_sur/",
             "updated": 1594212016,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/swiftui_snapshots/",
             "title": "SwiftUI Snapshot Testing",
             "link": "https://troz.net/post/2020/swiftui_snapshots/",
             "updated": 1589716209,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/name_this_app/",
             "title": "Name This App",
             "link": "https://troz.net/post/2020/name_this_app/",
             "updated": 1588998381,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/swiftui-color/",
             "title": "SwiftUI Color",
             "link": "https://troz.net/post/2020/swiftui-color/",
             "updated": 1588998368,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/custom-fonts/",
             "title": "Custom Fonts in iOS & macOS apps",
             "link": "https://troz.net/post/2020/custom-fonts/",
             "updated": 1585711679,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2020/swiftui_for-mac-extras/",
             "title": "SwiftUI for Mac Extras",
             "link": "https://troz.net/post/2020/swiftui_for-mac-extras/",
             "updated": 1580099577,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/swiftui-for-mac-3/",
             "title": "SwiftUI for Mac - Part 3",
             "link": "https://troz.net/post/2019/swiftui-for-mac-3/",
             "updated": 1576405700,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/swiftui-for-mac-2/",
             "title": "SwiftUI for Mac - Part 2",
             "link": "https://troz.net/post/2019/swiftui-for-mac-2/",
             "updated": 1576405690,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/swiftui-for-mac-1/",
             "title": "SwiftUI for Mac - Part 1",
             "link": "https://troz.net/post/2019/swiftui-for-mac-1/",
             "updated": 1576405680,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/swiftui_first-thoughts/",
             "title": "SwiftUI First Thoughts",
             "link": "https://troz.net/post/2019/swiftui_first-thoughts/",
             "updated": 1566115205,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/marktime/",
             "title": "Marktime",
             "link": "https://troz.net/marktime/",
             "updated": 1549266533,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2019/learning-swift-tuples/",
             "title": "Learning Swift  - Tuples",
             "link": "https://troz.net/post/2019/learning-swift-tuples/",
             "updated": 1549198131,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/thanks/",
             "title": "Thanks",
             "link": "https://troz.net/thanks/",
             "updated": 1547611153,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/the-end-of-picapod/",
             "title": "The End of Pic-a-POD",
             "link": "https://troz.net/post/2018/the-end-of-picapod/",
             "updated": 1538793500,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/moving-to-the-dark-side-2/",
             "title": "Moving to the Dark Side - Part 2",
             "link": "https://troz.net/post/2018/moving-to-the-dark-side-2/",
             "updated": 1538789375,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/moving-to-the-dark-side/",
             "title": "Moving to the Dark Side",
             "link": "https://troz.net/post/2018/moving-to-the-dark-side/",
             "updated": 1537955383,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/swift-strings-helper/",
             "title": "Swift Strings Helper",
             "link": "https://troz.net/post/2018/swift-strings-helper/",
             "updated": 1529567159,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/functional-programming/",
             "title": "Functional Programming in Swift",
             "link": "https://troz.net/post/2018/functional-programming/",
             "updated": 1528960733,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/world-time-in-words-ios-update/",
             "title": "World Time in Words iOS Update",
             "link": "https://troz.net/post/2018/world-time-in-words-ios-update/",
             "updated": 1528947706,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/privacy-policy/",
             "title": "Privacy Policy",
             "link": "https://troz.net/post/2018/privacy-policy/",
             "updated": 1527303116,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/app-updates/",
             "title": "App Updates",
             "link": "https://troz.net/post/2018/app-updates/",
             "updated": 1527301377,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/manreader1/",
             "title": "Man Reader",
             "link": "https://troz.net/manreader1/",
             "updated": 1525971600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/berio/",
             "title": "Berio's Sequenza VII",
             "link": "https://troz.net/berio/",
             "updated": 1524416400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/swiftlint/",
             "title": "Consistent Swift Style",
             "link": "https://troz.net/post/2018/swiftlint/",
             "updated": 1522463721,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2018/icon-builder-5/",
             "title": "Icon Builder 5",
             "link": "https://troz.net/post/2018/icon-builder-5/",
             "updated": 1518923958,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/ncss2018/",
             "title": "NCSS 2018",
             "link": "https://troz.net/ncss2018/",
             "updated": 1515126815,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/apps/",
             "title": "Apps",
             "link": "https://troz.net/apps/",
             "updated": 1513937158,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/marktime/",
             "title": "Mark Time",
             "link": "https://troz.net/post/2017/marktime/",
             "updated": 1513044847,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/moving-to-hugo/",
             "title": "Moving to Hugo",
             "link": "https://troz.net/post/2017/moving-to-hugo/",
             "updated": 1511952177,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/contact/",
             "title": "Contact",
             "link": "https://troz.net/contact/",
             "updated": 1511670138,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/json-parsing-in-swift-4/",
             "title": "JSON Parsing in Swift 4",
             "link": "https://troz.net/post/2017/json-parsing-in-swift-4/",
             "updated": 1497718800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/posting-from-my-new-ipad/",
             "title": "Posting from my new iPad",
             "link": "https://troz.net/post/2017/posting-from-my-new-ipad/",
             "updated": 1497632400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/json-feed-for-trozware/",
             "title": "JSON Feed for TrozWare",
             "link": "https://troz.net/post/2017/json-feed-for-trozware/",
             "updated": 1495213200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2017/blackmail-marketing/",
             "title": "Blackmail Marketing",
             "link": "https://troz.net/post/2017/blackmail-marketing/",
             "updated": 1488906000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/ncss2017/",
             "title": "NCSS 2017",
             "link": "https://troz.net/ncss2017/",
             "updated": 1483635600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/looking-for-beta-testers/",
             "title": "Looking for beta testers",
             "link": "https://troz.net/post/2016/looking-for-beta-testers/",
             "updated": 1479315600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/another-man-reader-update/",
             "title": "Another Man Reader Update...",
             "link": "https://troz.net/post/2016/another-man-reader-update/",
             "updated": 1478278800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/man-reader-update/",
             "title": "Man Reader Update",
             "link": "https://troz.net/post/2016/man-reader-update/",
             "updated": 1476205200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/podcasting/",
             "title": "Podcasting",
             "link": "https://troz.net/post/2016/podcasting/",
             "updated": 1476118800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/dice-pass-updated/",
             "title": "Dice Pass Updated",
             "link": "https://troz.net/post/2016/dice-pass-updated/",
             "updated": 1474045200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/how-much-work-does-icon-builder-save-you/",
             "title": "How much work does Icon Builder save you?",
             "link": "https://troz.net/post/2016/how-much-work-does-icon-builder-save-you/",
             "updated": 1474045200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/retiring-old-apps/",
             "title": "Retiring old apps",
             "link": "https://troz.net/post/2016/retiring-old-apps/",
             "updated": 1473872400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/man-reader-updated-to-1.6/",
             "title": "Man Reader updated to 1.6",
             "link": "https://troz.net/post/2016/man-reader-updated-to-1.6/",
             "updated": 1468602000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/dice-pass-mac-update/",
             "title": "Dice Pass Mac Update",
             "link": "https://troz.net/post/2016/dice-pass-mac-update/",
             "updated": 1467478800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/learning-swift-sets/",
             "title": "Learning Swift - Sets",
             "link": "https://troz.net/post/2016/learning-swift-sets/",
             "updated": 1464368400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/19th-hole-golf-scorer-3.1/",
             "title": "19th Hole Golf Scorer 3.1",
             "link": "https://troz.net/post/2016/19th-hole-golf-scorer-3.1/",
             "updated": 1462554000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/my-year-with-apple-watch/",
             "title": "My Year With Apple Watch",
             "link": "https://troz.net/post/2016/my-year-with-apple-watch/",
             "updated": 1461776400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/how-to-confuse-testflight/",
             "title": "How To Confuse TestFlight",
             "link": "https://troz.net/post/2016/how-to-confuse-testflight/",
             "updated": 1461430800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/what-is-my-speed/",
             "title": "What Is My Speed?",
             "link": "https://troz.net/what-is-my-speed/",
             "updated": 1460826000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/road-trip-apps/",
             "title": "Road Trip Apps",
             "link": "https://troz.net/post/2016/road-trip-apps/",
             "updated": 1459962000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/structs-vs-classes/",
             "title": "Structs vs Classes",
             "link": "https://troz.net/post/2016/structs-vs-classes/",
             "updated": 1459270800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/learning-swift-optionals/",
             "title": "Learning Swift - Optionals",
             "link": "https://troz.net/post/2016/learning-swift-optionals/",
             "updated": 1457767440,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/learning-swift-for-loops/",
             "title": "Learning Swift - For-Loops",
             "link": "https://troz.net/post/2016/learning-swift-for-loops/",
             "updated": 1457715600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/learning-swift-generics/",
             "title": "Learning Swift - Generics",
             "link": "https://troz.net/post/2016/learning-swift-generics/",
             "updated": 1456678800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/singleton-to-protocol/",
             "title": "Singleton to Protocol",
             "link": "https://troz.net/post/2016/singleton-to-protocol/",
             "updated": 1456419600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/three-rules-for-writing-better-swift/",
             "title": "Three Rules for Writing Better Swift",
             "link": "https://troz.net/post/2016/three-rules-for-writing-better-swift/",
             "updated": 1456246800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/configuring-xcode/",
             "title": "Configuring Xcode",
             "link": "https://troz.net/post/2016/configuring-xcode/",
             "updated": 1455642000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/how-do-i-start-to-learn-swift/",
             "title": "How do I start to learn Swift?",
             "link": "https://troz.net/post/2016/how-do-i-start-to-learn-swift/",
             "updated": 1455555600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/icon-builder-32-released/",
             "title": "Icon Builder 3.2 Released",
             "link": "https://troz.net/post/2016/icon-builder-32-released/",
             "updated": 1455037200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/why-is-swift-so-great/",
             "title": "Why is Swift so great?",
             "link": "https://troz.net/post/2016/why-is-swift-so-great/",
             "updated": 1455037200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/learning-swift-an-introduction/",
             "title": "Learning Swift - An Introduction",
             "link": "https://troz.net/post/2016/learning-swift-an-introduction/",
             "updated": 1454950800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/new-twitter-account/",
             "title": "New Twitter account",
             "link": "https://troz.net/post/2016/new-twitter-account/",
             "updated": 1454950800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/possible-issues-with-iconbuilder/",
             "title": "Possible issues with Icon Builder & Watch icons",
             "link": "https://troz.net/post/2016/possible-issues-with-iconbuilder/",
             "updated": 1454691600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2016/man-reader-1.5/",
             "title": "Man Reader 1.5",
             "link": "https://troz.net/post/2016/man-reader-1.5/",
             "updated": 1454173200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/using-19th-hole-on-the-apple-watch/",
             "title": "Using 19th Hole on the Apple Watch",
             "link": "https://troz.net/post/2015/using-19th-hole-on-the-apple-watch/",
             "updated": 1449853200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/dice-pass-for-mac/",
             "title": "Dice Pass for Mac",
             "link": "https://troz.net/post/2015/dice-pass-for-mac/",
             "updated": 1432918800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/apple-watch-first-impressions/",
             "title": "Apple Watch First Impressions",
             "link": "https://troz.net/post/2015/apple-watch-first-impressions/",
             "updated": 1430240400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/time-in-words-4.0/",
             "title": "Time In Words 4.0",
             "link": "https://troz.net/post/2015/time-in-words-4.0/",
             "updated": 1429030800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/apple-watch-rejected-then-accepted/",
             "title": "Apple Watch App - Rejected, then Accepted",
             "link": "https://troz.net/post/2015/apple-watch-rejected-then-accepted/",
             "updated": 1428685200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/my-first-apple-watch-app/",
             "title": "My First Apple Watch App",
             "link": "https://troz.net/post/2015/my-first-apple-watch-app/",
             "updated": 1427907600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/livecode-stacks/",
             "title": "LiveCode stacks",
             "link": "https://troz.net/post/2015/livecode-stacks/",
             "updated": 1426611600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/icon-builder-3.0.1/",
             "title": "Icon Builder 3.0.1",
             "link": "https://troz.net/post/2015/icon-builder-3.0.1/",
             "updated": 1426525200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/app-store-preview-videos/",
             "title": "App Store Preview Videos",
             "link": "https://troz.net/post/2015/app-store-preview-videos/",
             "updated": 1426438800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/testing-automation/",
             "title": "Testing automation",
             "link": "https://troz.net/post/2015/testing-automation/",
             "updated": 1426093200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/workflow-for-writing-a-post/",
             "title": "Workflow for writing a post",
             "link": "https://troz.net/post/2015/workflow-for-writing-a-post/",
             "updated": 1425920400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2015/new-site-for-trozware/",
             "title": "New Site for TrozWare",
             "link": "https://troz.net/post/2015/new-site-for-trozware/",
             "updated": 1425747600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2014/man-reader-1-4-now-available/",
             "title": "Man Reader 1.4 Now Available",
             "link": "https://troz.net/post/2014/man-reader-1-4-now-available/",
             "updated": 1396458000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2014/email-clients-for-mac-ios/",
             "title": "Email clients for Mac and iOS",
             "link": "https://troz.net/post/2014/email-clients-for-mac-ios/",
             "updated": 1395680400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/berio-sequenza-vii/",
             "title": "Berio Sequenza VII",
             "link": "https://troz.net/post/2013/berio-sequenza-vii/",
             "updated": 1383757200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/icon-builder-ios-7/",
             "title": "Icon Builder & iOS 7",
             "link": "https://troz.net/post/2013/icon-builder-ios-7/",
             "updated": 1379869200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/icon-apps-updated/",
             "title": "Icon apps updated",
             "link": "https://troz.net/post/2013/icon-apps-updated/",
             "updated": 1379523600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/markdown/",
             "title": "Markdown",
             "link": "https://troz.net/post/2013/markdown/",
             "updated": 1364749200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/a-knights-move-1-3/",
             "title": "A Knight's Move 1.3",
             "link": "https://troz.net/post/2013/a-knights-move-1-3/",
             "updated": 1361898000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/man-reader-no-sb/",
             "title": "Man Reader (no SB)",
             "link": "https://troz.net/post/2013/man-reader-no-sb/",
             "updated": 1360083600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/sand-boxing-man-reader/",
             "title": "Sand-Boxing Man Reader",
             "link": "https://troz.net/post/2013/sand-boxing-man-reader/",
             "updated": 1360083600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/icns-maker-icon-builder-updated/",
             "title": "Icns Maker & Icon Builder updated",
             "link": "https://troz.net/post/2013/icns-maker-icon-builder-updated/",
             "updated": 1358528400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2013/icon-makers-retina-macs/",
             "title": "Icon Makers & Retina Macs",
             "link": "https://troz.net/post/2013/icon-makers-retina-macs/",
             "updated": 1358096400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/a-knights-move-updates/",
             "title": "A Knight's Move updates",
             "link": "https://troz.net/post/2012/a-knights-move-updates/",
             "updated": 1350234000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/app-store-review-times/",
             "title": "App Store Review Times",
             "link": "https://troz.net/post/2012/app-store-review-times/",
             "updated": 1350234000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/icon-makers-for-mac-ios-apps/",
             "title": "Icon makers for Mac & iOS apps",
             "link": "https://troz.net/post/2012/icon-makers-for-mac-ios-apps/",
             "updated": 1350234000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/updating-apps-for-iphone-5/",
             "title": "Updating apps for iPhone 5",
             "link": "https://troz.net/post/2012/updating-apps-for-iphone-5/",
             "updated": 1348419600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/a-knights-move-for-ios-1-1/",
             "title": "A Knight's Move for iOS 1.1",
             "link": "https://troz.net/post/2012/a-knights-move-for-ios-1-1/",
             "updated": 1347469200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/man-reader-1-1-released/",
             "title": "Man Reader 1.1 Released",
             "link": "https://troz.net/post/2012/man-reader-1-1-released/",
             "updated": 1344877200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/sandboxing-and-the-mac-app-store/",
             "title": "Sandboxing and the Mac App Store",
             "link": "https://troz.net/post/2012/sandboxing-and-the-mac-app-store/",
             "updated": 1343408400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/update-to-time-in-words-screen-saver/",
             "title": "Update to Time In Words screen saver",
             "link": "https://troz.net/post/2012/update-to-time-in-words-screen-saver/",
             "updated": 1343322000,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/a-knights-move-released/",
             "title": "A Knight's Move Released",
             "link": "https://troz.net/post/2012/a-knights-move-released/",
             "updated": 1341766800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/easy-access-to-the-library-folder/",
             "title": "Easy access to the Library folder",
             "link": "https://troz.net/post/2012/easy-access-to-the-library-folder/",
             "updated": 1337101200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/man-reader-update-coming-soon/",
             "title": "Man Reader update coming soon",
             "link": "https://troz.net/post/2012/man-reader-update-coming-soon/",
             "updated": 1336669200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/pic-a-pod-2-0-4-for-mac/",
             "title": "Pic-a-POD 2.0.4 for Mac",
             "link": "https://troz.net/post/2012/pic-a-pod-2-0-4-for-mac/",
             "updated": 1336669200,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/making-a-mac-screen-saver/",
             "title": "Making a Mac Screen Saver",
             "link": "https://troz.net/post/2012/making-a-mac-screen-saver/",
             "updated": 1336496400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/support-for-older-operating-systems/",
             "title": "Support for older operating systems",
             "link": "https://troz.net/post/2012/support-for-older-operating-systems/",
             "updated": 1335891600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/time-in-words-the-new-ipad/",
             "title": "Time In Words & the new iPad",
             "link": "https://troz.net/post/2012/time-in-words-the-new-ipad/",
             "updated": 1333990800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/iphone-4-home-button/",
             "title": "iPhone 4 Home Button",
             "link": "https://troz.net/post/2012/iphone-4-home-button/",
             "updated": 1332867600,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/time-in-words-for-mac-now-available/",
             "title": "Time In Words for Mac now available",
             "link": "https://troz.net/post/2012/time-in-words-for-mac-now-available/",
             "updated": 1332176400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/interface-options-for-selecting-time-zones/",
             "title": "Interface options for selecting time zones",
             "link": "https://troz.net/post/2012/interface-options-for-selecting-time-zones/",
             "updated": 1330102800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/scroll-bars-in-mac-ox-10-6-and-10-7/",
             "title": "Scroll bars in Mac OX 10.6 and 10.7",
             "link": "https://troz.net/post/2012/scroll-bars-in-mac-ox-10-6-and-10-7/",
             "updated": 1330102800,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         },
         {
             "id": "https://troz.net/post/2012/time-in-words-available-in-the-app-store/",
             "title": "Time In Words available in the App Store",
             "link": "https://troz.net/post/2012/time-in-words-available-in-the-app-store/",
             "updated": 1328720400,
-            "site_name": "TrozWare"
+            "site_url": "https://troz.net/"
         }
     ]
 }

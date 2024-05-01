@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/a6240b512b0b",
             "title": "Create a Swifty Command-Line Tool With ArgumentParser",
             "link": "https://betterprogramming.pub/creating-a-swifty-command-line-tool-with-argumentparser-a6240b512b0b?source=rss-e4ec23bc86d1------2",
             "updated": 1667548302,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/e43e048840cd",
             "title": "Advanced Audio Graphs in Swift",
             "link": "https://betterprogramming.pub/advanced-audio-graphs-in-swift-e43e048840cd?source=rss-e4ec23bc86d1------2",
             "updated": 1641809503,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/7502979494f6",
             "title": "Getting Started With Audio Graphs in Swift and iOS 15",
             "link": "https://betterprogramming.pub/getting-started-with-audio-graphs-in-swift-7502979494f6?source=rss-e4ec23bc86d1------2",
             "updated": 1641205308,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/db244281ec51",
             "title": "5 amazing Tools for every iOS Developer",
             "link": "https://heydavethedev.medium.com/5-amazing-tools-for-every-ios-developer-db244281ec51?source=rss-e4ec23bc86d1------2",
             "updated": 1630918863,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/c39dcb6f595d",
             "title": "Creating a Tag Cloud for macOS",
             "link": "https://heydavethedev.medium.com/creating-a-tag-cloud-for-macos-c39dcb6f595d?source=rss-e4ec23bc86d1------2",
             "updated": 1626324557,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/e9b1d22307e3",
             "title": "Implementing Undo and Redo with the Command Design Pattern in Swift",
             "link": "https://heydavethedev.medium.com/implementing-undo-and-redo-with-the-command-design-pattern-in-swift-e9b1d22307e3?source=rss-e4ec23bc86d1------2",
             "updated": 1621822791,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/99ff43d19428",
             "title": "Analyze the Contents of Swift Files With SourceKitten",
             "link": "https://betterprogramming.pub/analysing-swift-code-with-sourcekitten-99ff43d19428?source=rss-e4ec23bc86d1------2",
             "updated": 1586861279,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/4bc754483242",
             "title": "Drawing in a UIView",
             "link": "https://betterprogramming.pub/drawing-in-an-uiview-4bc754483242?source=rss-e4ec23bc86d1------2",
             "updated": 1585500205,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/7c6be4a25586",
             "title": "Unit and Measurement in Swift",
             "link": "https://betterprogramming.pub/unit-and-measurement-in-swift-7c6be4a25586?source=rss-e4ec23bc86d1------2",
             "updated": 1584445495,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         },
         {
             "id": "https://medium.com/p/2cf29adf042c",
             "title": "How to Build Better Password Entry in SwiftUI",
             "link": "https://betterprogramming.pub/providing-a-convenient-way-to-enter-a-password-in-swiftui-2cf29adf042c?source=rss-e4ec23bc86d1------2",
             "updated": 1583190032,
-            "site_name": "David Piper on Medium"
+            "site_url": "https://heydavethedev.medium.com/"
         }
     ]
 }

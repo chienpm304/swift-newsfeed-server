@@ -1,75 +1,75 @@
 {
-    "updated": 1714471075,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.justtact.com/cloudkit-reference-queries",
             "title": "Some scenarios for CloudKit queries based on CKReference fields",
             "link": "https://blog.justtact.com/cloudkit-reference-queries/",
             "updated": 1713753300,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/canopy",
             "title": "CloudKit code from Tact is now available as Canopy open-source library",
             "link": "https://blog.justtact.com/canopy/",
             "updated": 1681184100,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/advanced-data-protection",
             "title": "What Advanced Data Protection for iCloud means for Tact and other apps that use CloudKit",
             "link": "https://blog.justtact.com/advanced-data-protection/",
             "updated": 1671006900,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/cloudkit-share-permissions",
             "title": "How CloudKit share permissions and participants work",
             "link": "https://blog.justtact.com/cloudkit-share-permissions/",
             "updated": 1662521700,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/ios-macos-testflight",
             "title": "Tact now requires iOS 15 and macOS 12 Monterey, and macOS TestFlight",
             "link": "https://blog.justtact.com/ios-macos-testflight/",
             "updated": 1659411300,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/private-rename",
             "title": "Private rename",
             "link": "https://blog.justtact.com/private-rename/",
             "updated": 1645022100,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/tact-is-now-available-as-public-beta",
             "title": "Tact is now available as public beta",
             "link": "https://blog.justtact.com/tact-is-now-available-as-public-beta/",
             "updated": 1640079300,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/outlines-of-wwdc21-keynote-and-platforms-state-of-the-union",
             "title": "Outlines of WWDC21 Keynote and Platforms State of the Union",
             "link": "https://blog.justtact.com/outlines-of-wwdc21-keynote-and-platforms-state-of-the-union/",
             "updated": 1623148500,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/three-methods-of-retrieving-records-from-cloudkit",
             "title": "Three methods of retrieving records from CloudKit",
             "link": "https://blog.justtact.com/three-methods-of-retrieving-records-from-cloudkit/",
             "updated": 1617964500,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         },
         {
             "id": "https://blog.justtact.com/one-month-in",
             "title": "One month in",
             "link": "https://blog.justtact.com/one-month-in/",
             "updated": 1614764100,
-            "site_name": "Tact engineering blog"
+            "site_url": "https://blog.justtact.com/"
         }
     ]
 }

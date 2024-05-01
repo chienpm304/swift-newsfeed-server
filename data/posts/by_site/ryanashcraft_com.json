@@ -1,103 +1,103 @@
 {
-    "updated": 1714470922,
+    "updated": 1714537252,
     "posts": [
         {
             "id": "66106ee783348e0001236381",
             "title": "Splitting Up a Monolith: From 1 to 25 Swift Packages",
             "link": "https://ryanashcraft.com/splitting-up-a-monolithic-swift-package/",
             "updated": 1712568597,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "647a2dfcd7b9cb000199f104",
             "title": "Growth Design Retrospective \u2013 Driving Users to Sign Into the Community Database",
             "link": "https://ryanashcraft.com/driving-users-to-sign-into-the-community-database/",
             "updated": 1685721722,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6436e34cf793a5003de07c1e",
             "title": "What I Learned Writing My Own CloudKit Syncing Library",
             "link": "https://ryanashcraft.com/what-i-learned-writing-my-own-cloudkit-sync-library/",
             "updated": 1681382400,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "63b5d1ecd2b7e6003d35decd",
             "title": "Dev Notes #7 \u2013 Inevitable Complexity",
             "link": "https://ryanashcraft.com/dev-notes-7-inevitable-complexity/",
             "updated": 1672836549,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "63a72a533562a0003d8db24d",
             "title": "Dev Notes #6 \u2013 VoiceOver Audit",
             "link": "https://ryanashcraft.com/dev-notes-6-voiceover-audit/",
             "updated": 1671896907,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "63a48dc73562a0003d8db14a",
             "title": "Dev Notes #5 \u2013 The Initial Wave of Feedback",
             "link": "https://ryanashcraft.com/dev-notes-5-the-initial-wave-of-feedback/",
             "updated": 1671707507,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "63a1f6cd3562a0003d8db067",
             "title": "Dev Notes #4 \u2013 Scaling the Beta",
             "link": "https://ryanashcraft.com/dev-notes-4-scaling-the-beta/",
             "updated": 1671535432,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "639bb46d266d34003dd9eadd",
             "title": "Dev Notes #3 \u2013 HealthKit Hiccups",
             "link": "https://ryanashcraft.com/dev-notes-3-healthkit-hiccups/",
             "updated": 1671185208,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6399edbe014a41003d560fe0",
             "title": "Dev Notes #2 \u2013 Gearing Up for Launch",
             "link": "https://ryanashcraft.com/dev-notes-2-gearing-up-for-launch/",
             "updated": 1671011227,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6398aaf2f946a7003d86a6ad",
             "title": "Dev Notes #1 \u2013 Feature Parity",
             "link": "https://ryanashcraft.com/dev-notes-1-feature-parity/",
             "updated": 1670928873,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6397eb9b14449b003dfe3cbe",
             "title": "iOS Apps on M1 Macs",
             "link": "https://ryanashcraft.com/ios-apps-on-m1-macs/",
             "updated": 1606327407,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6397eb9b14449b003dfe3cb3",
             "title": "Using WebSockets to Build a Realtime iOS Model Inspector",
             "link": "https://ryanashcraft.com/realtime-ios-model-inspector/",
             "updated": 1579438800,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6397eb9b14449b003dfe3cb2",
             "title": "How to Programmatically Push and Pop Views in SwiftUI with NavigationDestinationLink",
             "link": "https://ryanashcraft.com/swiftui-programmatic-navigation/",
             "updated": 1562760000,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         },
         {
             "id": "6397eb9b14449b003dfe3cb1",
             "title": "Early SwiftUI Impressions and Wish List from a React Developer",
             "link": "https://ryanashcraft.com/early-swiftui-impressions/",
             "updated": 1562673600,
-            "site_name": "Ryan Ashcraft's Blog"
+            "site_url": "https://ryanashcraft.com"
         }
     ]
 }

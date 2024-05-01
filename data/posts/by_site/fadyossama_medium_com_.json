@@ -1,26 +1,26 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/cb717ef0ff92",
             "title": "Software task lifecycle",
             "link": "https://medium.com/swiftcairo/software-task-lifecycle-cb717ef0ff92?source=rss-58c5886a5df0------2",
             "updated": 1618015526,
-            "site_name": "Fadi Ossama on Medium"
+            "site_url": "https://fadyossama.medium.com/"
         },
         {
             "id": "https://medium.com/p/482f17f5c7c6",
             "title": "iOS Code Review Checklist",
             "link": "https://medium.com/swiftcairo/ios-code-review-checklist-482f17f5c7c6?source=rss-58c5886a5df0------2",
             "updated": 1613513802,
-            "site_name": "Fadi Ossama on Medium"
+            "site_url": "https://fadyossama.medium.com/"
         },
         {
             "id": "https://medium.com/p/25a4a31e06f5",
             "title": "All About Swift Optional",
             "link": "https://medium.com/swiftcairo/all-about-swift-optional-25a4a31e06f5?source=rss-58c5886a5df0------2",
             "updated": 1572222013,
-            "site_name": "Fadi Ossama on Medium"
+            "site_url": "https://fadyossama.medium.com/"
         }
     ]
 }

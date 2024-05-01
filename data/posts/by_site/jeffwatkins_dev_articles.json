@@ -1,82 +1,82 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jeffwatkins.dev/articles/building-an-adaptive-button",
             "title": "Building an adaptive button",
             "link": "https://jeffwatkins.dev/articles/building-an-adaptive-button",
             "updated": 1589043600,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/constraints-and-uibutton",
             "title": "Constraints and UIButton",
             "link": "https://jeffwatkins.dev/articles/constraints-and-uibutton",
             "updated": 1586365200,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/dressing-up-your-uibutton",
             "title": "Dressing up your UIButton",
             "link": "https://jeffwatkins.dev/articles/dressing-up-your-uibutton",
             "updated": 1585760400,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/nobody-loves-uibutton",
             "title": "Nobody loves UIButton",
             "link": "https://jeffwatkins.dev/articles/nobody-loves-uibutton",
             "updated": 1585587600,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/native-server-driven-ui",
             "title": "A Native Server-driven UI",
             "link": "https://jeffwatkins.dev/articles/native-server-driven-ui",
             "updated": 1584205200,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/misusing-appearance-selectors",
             "title": "Misusing Appearance Selectors",
             "link": "https://jeffwatkins.dev/articles/misusing-appearance-selectors",
             "updated": 1581008400,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/considerate-apps-sample-code",
             "title": "Considerate Apps Sample Code",
             "link": "https://jeffwatkins.dev/articles/considerate-apps-sample-code",
             "updated": 1578934800,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/dynamic-type",
             "title": "Considerate Apps Use Dynamic Type",
             "link": "https://jeffwatkins.dev/articles/dynamic-type",
             "updated": 1578330000,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/voice-over",
             "title": "Considerate Apps Sound Good",
             "link": "https://jeffwatkins.dev/articles/voice-over",
             "updated": 1578243600,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/case-for-considerate-apps",
             "title": "The Case for Considerate Apps",
             "link": "https://jeffwatkins.dev/articles/case-for-considerate-apps",
             "updated": 1578157200,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         },
         {
             "id": "https://jeffwatkins.dev/articles/introducing-considerate-apps",
             "title": "Introducing Considerate Apps",
             "link": "https://jeffwatkins.dev/articles/introducing-considerate-apps",
             "updated": 1578070800,
-            "site_name": "Jeff Watkins\u2019 Blog"
+            "site_url": "https://jeffwatkins.dev/articles"
         }
     ]
 }

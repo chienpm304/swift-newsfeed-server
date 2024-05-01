@@ -1,110 +1,110 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "662329a60fa05dc7700325ec",
             "title": "Converting Codable Models To CSV",
             "link": "https://digitalbunker.dev/converting-codable-models-to-csv/",
             "updated": 1713730391,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "661361086e8abcfca6e998eb",
             "title": "Everything You Need To Know About The Apple App Site Association File",
             "link": "https://digitalbunker.dev/apple-app-site-association/",
             "updated": 1712954674,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "65ffa19ed6cd890c7ba8b08a",
             "title": "Exploring ABI stability, @frozen, and library evolution mode",
             "link": "https://digitalbunker.dev/understanding-frozen-in-swift/",
             "updated": 1711668431,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "65fe49bad6cd890c7ba8aa8b",
             "title": "Recreating The DVD Screensaver In SwiftUI",
             "link": "https://digitalbunker.dev/dvd-screensaver-swiftui/",
             "updated": 1711216228,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "65f9b1fbd6cd890c7ba8aa4d",
             "title": "How To Read Resistor Band Colors (4, 5, and 6 Bands)",
             "link": "https://digitalbunker.dev/how-to-read-resistor-band-colors-app/",
             "updated": 1710837871,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "65c85735d6cd890c7ba8a2e1",
             "title": "Week In The Life Of A Staff Software Engineer",
             "link": "https://digitalbunker.dev/day-in-the-life-staff-software-engineer/",
             "updated": 1708344651,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "657fd5f3d6cd890c7ba8a232",
             "title": "Launching news.digitalbunker.dev \ud83d\ude80",
             "link": "https://digitalbunker.dev/launching-news-digitalbunker-dev/",
             "updated": 1702852209,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "65250b519934237c2b9f37c6",
             "title": "Working With XcodeKit <> SwiftLeeds",
             "link": "https://digitalbunker.dev/swift-leeds-working-with-xcodekit/",
             "updated": 1696901407,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "650206d39934237c2b9f2edc",
             "title": "Bresenham's Line Algorithm",
             "link": "https://digitalbunker.dev/bresenhams-line-algorithm/",
             "updated": 1695300541,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "64fba2929934237c2b9f270f",
             "title": "Exploring Animation Curves",
             "link": "https://digitalbunker.dev/exploring-animation-curves/",
             "updated": 1694586650,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "64f247aeeb0d020c18913e88",
             "title": "Introducing BuildSwitcher: Local Build Caching in Xcode \ud83d\ude80",
             "link": "https://digitalbunker.dev/buildswitcher-local-build-caching-in-xcode/",
             "updated": 1693574655,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "64e962352e8ca6104f4e68f0",
             "title": "Introducing Pickleball Score Tracker",
             "link": "https://digitalbunker.dev/pickleball-score-tracker/",
             "updated": 1692992558,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "647fead22e8ca6104f4e6862",
             "title": "Resistor Color Band Calculator: Your Go-To App for Effortless Resistor Calculations",
             "link": "https://digitalbunker.dev/resistor-color-bands-calculator-app/",
             "updated": 1686080692,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "647540722e8ca6104f4e6819",
             "title": "Manage Simulator Screenshots with Screen Purge",
             "link": "https://digitalbunker.dev/managing-simulator-screenshots/",
             "updated": 1685380987,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         },
         {
             "id": "646596582e8ca6104f4e67ea",
             "title": "StickerSpot Shutdown Announcement",
             "link": "https://digitalbunker.dev/stickerspot-shutdown-announcement/",
             "updated": 1684354306,
-            "site_name": "digital bunker"
+            "site_url": "https://digitalbunker.dev/"
         }
     ]
 }

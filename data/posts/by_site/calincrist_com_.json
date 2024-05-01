@@ -1,11 +1,18 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
-            "id": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
-            "title": "How to Reset the Git History: Back to \"Initial commit\"",
-            "link": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
-            "updated": 1712284720,
+            "id": "https://calincrist.com/how-to-use-analytics-in-your-react-native-app-with-firebase",
+            "title": "How to Use Analytics in Your React Native App With\u00a0Firebase",
+            "link": "https://calincrist.com/how-to-use-analytics-in-your-react-native-app-with-firebase",
+            "updated": 1712284760,
+            "site_url": "https://calincrist.com/"
+        },
+        {
+            "id": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
+            "title": "3 Ways to React to @State Changes in\u00a0SwiftUI",
+            "link": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
+            "updated": 1712284751,
             "site_url": "https://calincrist.com/"
         },
         {
@@ -13,6 +20,13 @@
             "title": "A Step-by-Step Guide to Syncing a Private Repository to a Public one with Fastlane",
             "link": "https://calincrist.com/a-step-by-step-guide-to-syncing-a-private-repository-to-a-public-one-with-fastlane",
             "updated": 1712284729,
+            "site_url": "https://calincrist.com/"
+        },
+        {
+            "id": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
+            "title": "How to Reset the Git History: Back to \"Initial commit\"",
+            "link": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
+            "updated": 1712284720,
             "site_url": "https://calincrist.com/"
         },
         {
@@ -34,20 +48,6 @@
             "title": "Mastering Dependency Injection in React Native using Context API",
             "link": "https://calincrist.com/mastering-dependency-injection-in-react-native-using-context-api",
             "updated": 1711511335,
-            "site_url": "https://calincrist.com/"
-        },
-        {
-            "id": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
-            "title": "3 Ways to React to @State Changes in\u00a0SwiftUI",
-            "link": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
-            "updated": 1712284751,
-            "site_url": "https://calincrist.com/"
-        },
-        {
-            "id": "https://calincrist.com/how-to-use-analytics-in-your-react-native-app-with-firebase",
-            "title": "How to Use Analytics in Your React Native App With\u00a0Firebase",
-            "link": "https://calincrist.com/how-to-use-analytics-in-your-react-native-app-with-firebase",
-            "updated": 1712284760,
             "site_url": "https://calincrist.com/"
         }
     ]

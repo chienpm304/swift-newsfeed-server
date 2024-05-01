@@ -1,47 +1,47 @@
 {
-    "updated": 1714470915,
+    "updated": 1714537248,
     "posts": [
         {
             "id": "https://medium.com/p/c73072bf65a8",
             "title": "Mentions in UITextView using Proton Editor",
             "link": "https://medium.com/@rkwatra/mentions-in-uitextview-using-proton-editor-c73072bf65a8?source=rss-cee883b2eeac------2",
             "updated": 1661474766,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         },
         {
             "id": "https://medium.com/p/79f11f0de6c0",
             "title": "Editable Grid in iOS",
             "link": "https://medium.com/@rkwatra/editable-grid-in-ios-79f11f0de6c0?source=rss-cee883b2eeac------2",
             "updated": 1660183414,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         },
         {
             "id": "https://medium.com/p/1c095c708d14",
             "title": "Background with rounded corners in UITextView",
             "link": "https://levelup.gitconnected.com/background-with-rounded-corners-in-uitextview-1c095c708d14?source=rss-cee883b2eeac------2",
             "updated": 1595176472,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         },
         {
             "id": "https://medium.com/p/968ff9bc6e0c",
             "title": "Building a native editor for iOS",
             "link": "https://levelup.gitconnected.com/building-a-native-editor-for-ios-968ff9bc6e0c?source=rss-cee883b2eeac------2",
             "updated": 1594963937,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         },
         {
             "id": "https://medium.com/p/756fe2b1407a",
             "title": "Lists in UITextView",
             "link": "https://blog.devgenius.io/lists-in-uitextview-756fe2b1407a?source=rss-cee883b2eeac------2",
             "updated": 1594094171,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         },
         {
             "id": "https://medium.com/p/7ef567d7acae",
             "title": "Multiple shadows on UIView",
             "link": "https://medium.com/@rkwatra/multiple-shadows-on-uiview-7ef567d7acae?source=rss-cee883b2eeac------2",
             "updated": 1553036343,
-            "site_name": "Rajdeep Kwatra on Medium"
+            "site_url": "https://medium.com/@rkwatra"
         }
     ]
 }

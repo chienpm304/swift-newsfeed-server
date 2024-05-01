@@ -1,26 +1,26 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/30b23ed44ee6",
             "title": "How to configure Xcode projects for different environments?",
             "link": "https://kocyigityunus.medium.com/how-to-configure-xcode-projects-for-different-environments-30b23ed44ee6?source=rss-65881dbca53b------2",
             "updated": 1607345955,
-            "site_name": "Yunus Ko\u00e7yi\u011fit - Medium"
+            "site_url": "https://kocyigityunus.medium.com"
         },
         {
             "id": "https://medium.com/p/eabacd9879e7",
             "title": "CharacterSet\u2019s and How to Use Them in Swift?",
             "link": "https://kocyigityunus.medium.com/charactersets-and-how-to-use-them-in-swift-eabacd9879e7?source=rss-65881dbca53b------2",
             "updated": 1566200412,
-            "site_name": "Yunus Ko\u00e7yi\u011fit - Medium"
+            "site_url": "https://kocyigityunus.medium.com"
         },
         {
             "id": "https://medium.com/p/6526143dd5a6",
             "title": "How to create a ListView in React Native with Section Headers",
             "link": "https://kocyigityunus.medium.com/how-to-create-a-listview-in-react-native-with-section-headers-6526143dd5a6?source=rss-65881dbca53b------2",
             "updated": 1566183737,
-            "site_name": "Yunus Ko\u00e7yi\u011fit - Medium"
+            "site_url": "https://kocyigityunus.medium.com"
         }
     ]
 }

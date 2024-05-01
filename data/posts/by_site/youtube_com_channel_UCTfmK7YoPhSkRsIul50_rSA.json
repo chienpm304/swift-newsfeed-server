@@ -1,705 +1,705 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
             "title": "SwiftUI views versus modifiers",
             "link": "https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers",
             "updated": 1677470700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
             "title": "Observing the content offset of a SwiftUI ScrollView",
             "link": "https://www.swiftbysundell.com/articles/observing-swiftui-scrollview-content-offset",
             "updated": 1675057800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/123",
             "title": "Podcast: \u201cThe evolution of Swift\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/123",
             "updated": 1671440700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/122",
             "title": "Podcast: \u201cSwift concurrency in practice\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/122",
             "updated": 1668778200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/opaque-return-types-primary-associated-types",
             "title": "Combining opaque return types with primary associated types",
             "link": "https://www.swiftbysundell.com/articles/opaque-return-types-primary-associated-types",
             "updated": 1668235800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/121",
             "title": "Podcast: \u201cResponsive and smooth UIs\u201d, with special guest Adam Bell",
             "link": "https://www.swiftbysundell.com/podcast/121",
             "updated": 1667216700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/120",
             "title": "Podcast: \u201cFreelancing and WWDC22 highlights\u201d, with special guest Donny Wals",
             "link": "https://www.swiftbysundell.com/podcast/120",
             "updated": 1663410900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/119",
             "title": "Podcast: \u201cThe role of system design\u201d, with special guest Gui Rambo",
             "link": "https://www.swiftbysundell.com/podcast/119",
             "updated": 1661948100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/essential-developer-july-2022",
             "title": "Sponsored: Essential Developer",
             "link": "https://www.swiftbysundell.com/sponsor/essential-developer-july-2022",
             "updated": 1657688400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/118",
             "title": "Podcast: \u201cWhat\u2019s new in SwiftUI in iOS 16?\u201d, with special guest Natalia Panferova",
             "link": "https://www.swiftbysundell.com/podcast/118",
             "updated": 1657528200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/switching-between-swiftui-hstack-vstack",
             "title": "Switching between SwiftUI\u2019s HStack and VStack",
             "link": "https://www.swiftbysundell.com/articles/switching-between-swiftui-hstack-vstack",
             "updated": 1657270200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/117",
             "title": "Podcast: \u201cSwift 5.7, generics, and the road to Swift 6\u201d, with special guest Ben Cohen",
             "link": "https://www.swiftbysundell.com/podcast/117",
             "updated": 1654855800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/referencing-generic-protocols-with-some-and-any-keywords",
             "title": "Using the \u2018some\u2019 and \u2018any\u2019 keywords to reference generic protocols in Swift 5.7",
             "link": "https://www.swiftbysundell.com/articles/referencing-generic-protocols-with-some-and-any-keywords",
             "updated": 1654708800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/swifts-new-shorthand-optional-unwrapping-syntax",
             "title": "Swift 5.7\u2019s new optional unwrapping syntax",
             "link": "https://www.swiftbysundell.com/articles/swifts-new-shorthand-optional-unwrapping-syntax",
             "updated": 1654615200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/rendering-swiftui-views-within-uitableview-or-uicollectionview",
             "title": "Rendering SwiftUI views within UITableView or UICollectionView cells on iOS 16",
             "link": "https://www.swiftbysundell.com/articles/rendering-swiftui-views-within-uitableview-or-uicollectionview",
             "updated": 1654581600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/116",
             "title": "Podcast: \u201cThe evolution of SwiftUI\u201d, with special guest Chris Eidhof",
             "link": "https://www.swiftbysundell.com/podcast/116",
             "updated": 1652860500,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/special/five-years",
             "title": "Swift by Sundell turns five years old today! Here\u2019s what\u2019s next for the website and the podcast",
             "link": "https://www.swiftbysundell.com/special/five-years",
             "updated": 1651743600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/115",
             "title": "Podcast: \u201cA framework and an app\u201d, with special guest Simon St\u00f8vring",
             "link": "https://www.swiftbysundell.com/podcast/115",
             "updated": 1651321200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/type-placeholders-in-swift",
             "title": "Type placeholders in Swift",
             "link": "https://www.swiftbysundell.com/articles/type-placeholders-in-swift",
             "updated": 1649915700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/114",
             "title": "Podcast: \u201cAccessibility on Apple\u2019s platforms\u201d, with special guest Sommer Panage",
             "link": "https://www.swiftbysundell.com/podcast/114",
             "updated": 1647867300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/abstract-types-and-methods",
             "title": "Abstract types and methods in Swift",
             "link": "https://www.swiftbysundell.com/articles/abstract-types-and-methods",
             "updated": 1647338400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/judo-march-2022",
             "title": "Sponsor: Judo",
             "link": "https://www.swiftbysundell.com/sponsor/judo-march-2022",
             "updated": 1646721600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/basics/equality",
             "title": "Basics: Equality",
             "link": "https://www.swiftbysundell.com/basics/equality",
             "updated": 1646380800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/113",
             "title": "Podcast: \u201cWhere is Swift headed in 2022?\u201d, with special guest JP Simard",
             "link": "https://www.swiftbysundell.com/podcast/113",
             "updated": 1645955100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui",
             "title": "Writing testable code when using SwiftUI",
             "link": "https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui",
             "updated": 1645098600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/combining-protocols-in-swift",
             "title": "Combining protocols in Swift",
             "link": "https://www.swiftbysundell.com/articles/combining-protocols-in-swift",
             "updated": 1644388800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/memory-management-when-using-async-await",
             "title": "Memory management when using async/await in Swift",
             "link": "https://www.swiftbysundell.com/articles/memory-management-when-using-async-await",
             "updated": 1643872500,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/retrying-an-async-swift-task",
             "title": "Automatically retrying an asynchronous Swift Task",
             "link": "https://www.swiftbysundell.com/articles/retrying-an-async-swift-task",
             "updated": 1643107800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/backgrounds-and-overlays-in-swiftui",
             "title": "Backgrounds and overlays in SwiftUI",
             "link": "https://www.swiftbysundell.com/articles/backgrounds-and-overlays-in-swiftui",
             "updated": 1642666800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/basics/loops",
             "title": "Basics: Loops",
             "link": "https://www.swiftbysundell.com/basics/loops",
             "updated": 1642061400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/creating-combine-compatible-versions-of-async-await-apis",
             "title": "Creating Combine-compatible versions of async/await-based APIs",
             "link": "https://www.swiftbysundell.com/articles/creating-combine-compatible-versions-of-async-await-apis",
             "updated": 1641384300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/two-ways-of-capturing-self-strongly",
             "title": "Two ways of capturing self strongly within a closure",
             "link": "https://www.swiftbysundell.com/articles/two-ways-of-capturing-self-strongly",
             "updated": 1641126900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/112",
             "title": "Podcast: \u201cThe 2021 Season Finale\u201d",
             "link": "https://www.swiftbysundell.com/podcast/112",
             "updated": 1640877000,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/building-an-async-swiftui-button",
             "title": "Building an asynchronous SwiftUI button",
             "link": "https://www.swiftbysundell.com/articles/building-an-async-swiftui-button",
             "updated": 1640170320,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/111",
             "title": "Podcast: \u201cCustom rendering\u201d, with special guest James Thomson",
             "link": "https://www.swiftbysundell.com/podcast/111",
             "updated": 1640000400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "swiftbysundell/links/-discover-concurrency",
             "title": "New Discover page: Concurrency",
             "link": "https://www.swiftbysundell.com/discover/concurrency",
             "updated": 1639654800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/delaying-an-async-swift-task",
             "title": "Delaying an asynchronous Swift Task",
             "link": "https://www.swiftbysundell.com/articles/delaying-an-async-swift-task",
             "updated": 1639384200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/dependency-injection-and-unit-testing-using-async-await",
             "title": "Lightweight dependency injection and unit testing using async functions",
             "link": "https://www.swiftbysundell.com/articles/dependency-injection-and-unit-testing-using-async-await",
             "updated": 1639031400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/110",
             "title": "Podcast: \u201cConcurrency beyond app development\u201d, with special guest Tim Condon",
             "link": "https://www.swiftbysundell.com/podcast/110",
             "updated": 1638780900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/the-role-tasks-play-in-swift-concurrency",
             "title": "What role do Tasks play within Swift\u2019s concurrency system?",
             "link": "https://www.swiftbysundell.com/articles/the-role-tasks-play-in-swift-concurrency",
             "updated": 1638440400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/swift-actors",
             "title": "Swift actors: How do they work, and what kinds of problems do they solve?",
             "link": "https://www.swiftbysundell.com/articles/swift-actors",
             "updated": 1637752800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/109",
             "title": "Podcast: \u201cCode maintenance\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/109",
             "updated": 1637579400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/unit-testing-code-that-uses-async-await",
             "title": "Unit testing Swift code that uses async/await",
             "link": "https://www.swiftbysundell.com/articles/unit-testing-code-that-uses-async-await",
             "updated": 1637042400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/count-vs-isEmpty",
             "title": "Using count vs isEmpty to check whether a collection contains any elements",
             "link": "https://www.swiftbysundell.com/articles/count-vs-isEmpty",
             "updated": 1636614300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/async-and-concurrent-forEach-and-map",
             "title": "Building async and concurrent versions of forEach and map",
             "link": "https://www.swiftbysundell.com/articles/async-and-concurrent-forEach-and-map",
             "updated": 1636534800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/108",
             "title": "Podcast: \u201cConcurrency and Swift-DocC\u201d, with special guest Marin Todorov",
             "link": "https://www.swiftbysundell.com/podcast/108",
             "updated": 1636029300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/swift-concurrency-multiple-tasks-in-parallel",
             "title": "Using Swift\u2019s concurrency system to run multiple tasks in parallel",
             "link": "https://www.swiftbysundell.com/articles/swift-concurrency-multiple-tasks-in-parallel",
             "updated": 1635925800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/107",
             "title": "Podcast: \u201cUIKit in 2021\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/107",
             "updated": 1635582000,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/making-async-system-apis-backward-compatible",
             "title": "Making async system APIs backward compatible",
             "link": "https://www.swiftbysundell.com/articles/making-async-system-apis-backward-compatible",
             "updated": 1635422400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/special/swift-concurrency-backward-compatibility",
             "title": "Swift\u2019s new concurrency system gains backward compatibility in Xcode 13.2",
             "link": "https://www.swiftbysundell.com/special/swift-concurrency-backward-compatibility",
             "updated": 1635345900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "swiftbysundell/links/-discover-generics",
             "title": "New Discover page: Generics",
             "link": "https://www.swiftbysundell.com/discover/generics",
             "updated": 1635156600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/specialized-extensions-using-generic-type-constraints",
             "title": "Specialized extensions using generic type constraints",
             "link": "https://www.swiftbysundell.com/articles/specialized-extensions-using-generic-type-constraints",
             "updated": 1634814600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/building-editable-swiftui-lists",
             "title": "Building editable lists with SwiftUI",
             "link": "https://www.swiftbysundell.com/articles/building-editable-swiftui-lists",
             "updated": 1634211600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/swiftui-ios15-backward-compatibility",
             "title": "Which of the SwiftUI APIs introduced in iOS 15 are backward compatible?",
             "link": "https://www.swiftbysundell.com/articles/swiftui-ios15-backward-compatibility",
             "updated": 1633864500,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/106",
             "title": "Podcast: \u201cOpportunities for optimization\u201d, with special guest Christian Selig",
             "link": "https://www.swiftbysundell.com/podcast/106",
             "updated": 1633592400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/swiftui-programmatic-navigation",
             "title": "Programmatic navigation in SwiftUI",
             "link": "https://www.swiftbysundell.com/articles/swiftui-programmatic-navigation",
             "updated": 1633081200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/105",
             "title": "Podcast: \u201cBuilding various kinds of editors\u201d, with special guest Marcin Krzyzanowski",
             "link": "https://www.swiftbysundell.com/podcast/105",
             "updated": 1632832800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/previewing-swiftui-views-in-landscape",
             "title": "Previewing SwiftUI views in landscape",
             "link": "https://www.swiftbysundell.com/articles/previewing-swiftui-views-in-landscape",
             "updated": 1632566700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work",
             "title": "Using Combine\u2019s share operator to avoid duplicate work",
             "link": "https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work",
             "updated": 1631872800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "swiftbysundell/links/-discover-codable",
             "title": "New Discover page: Codable",
             "link": "https://www.swiftbysundell.com/discover/codable",
             "updated": 1631780100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/codable-synthesis-for-swift-enums",
             "title": "Codable synthesis for Swift enums",
             "link": "https://www.swiftbysundell.com/articles/codable-synthesis-for-swift-enums",
             "updated": 1631184300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/paste-september-2021",
             "title": "Sponsor: Paste",
             "link": "https://www.swiftbysundell.com/sponsor/paste-september-2021",
             "updated": 1630911000,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
             "title": "Conditional compilation within Swift expressions",
             "link": "https://www.swiftbysundell.com/articles/conditional-compilation-within-swift-expressions",
             "updated": 1630645200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/104",
             "title": "Podcast: \u201cThe magic of Augmented Reality\u201d, with special guest Roxana Jula",
             "link": "https://www.swiftbysundell.com/podcast/104",
             "updated": 1630586100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine",
             "title": "Async sequences, streams, and Combine",
             "link": "https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine",
             "updated": 1629965700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/103",
             "title": "Podcast: \u201cWhat\u2019s new in Swift 5.5\u201d, with special guest Antoine van der Lee",
             "link": "https://www.swiftbysundell.com/podcast/103",
             "updated": 1629708900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances",
             "title": "Using static protocol APIs to create conforming instances",
             "link": "https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances",
             "updated": 1629457500,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift",
             "title": "Defining dynamic colors in Swift",
             "link": "https://www.swiftbysundell.com/articles/defining-dynamic-colors-in-swift",
             "updated": 1629003600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
             "title": "Using \u2018@unknown default\u2019 within switch statements",
             "link": "https://www.swiftbysundell.com/articles/using-an-unknown-default-case-within-a-switch-statement",
             "updated": 1628241120,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/102",
             "title": "Podcast: \u201cWWDC21, two months later\u201d, with special guest Jordan Morgan",
             "link": "https://www.swiftbysundell.com/podcast/102",
             "updated": 1627903800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/throwing-async-properties",
             "title": "Throwing and asynchronous Swift properties",
             "link": "https://www.swiftbysundell.com/articles/throwing-async-properties",
             "updated": 1627383000,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments",
             "title": "Attaching property wrappers to function arguments",
             "link": "https://www.swiftbysundell.com/tips/attaching-property-wrappers-to-function-arguments",
             "updated": 1627021800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/101",
             "title": "Podcast: \u201cCross-platform SwiftUI\u201d, with special guest Malin Sundberg",
             "link": "https://www.swiftbysundell.com/podcast/101",
             "updated": 1626347700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/stroking-and-filling-a-swiftui-shape-at-the-same-time",
             "title": "Stroking and filling a SwiftUI shape at the same time",
             "link": "https://www.swiftbysundell.com/articles/stroking-and-filling-a-swiftui-shape-at-the-same-time",
             "updated": 1626170400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts",
             "title": "Mutating and non-mutating Swift contexts",
             "link": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts",
             "updated": 1625654100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/vire-july-2021",
             "title": "Sponsor: ViRE",
             "link": "https://www.swiftbysundell.com/sponsor/vire-july-2021",
             "updated": 1625463900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/100",
             "title": "Podcast: \u201cA tower of capabilities\u201d, with special guest Chris Lattner",
             "link": "https://www.swiftbysundell.com/podcast/100",
             "updated": 1625222100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/dismissing-swiftui-modal-and-detail-views",
             "title": "Dismissing a SwiftUI modal or detail view",
             "link": "https://www.swiftbysundell.com/articles/dismissing-swiftui-modal-and-detail-views",
             "updated": 1624950600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/calling-async-functions-within-a-combine-pipeline",
             "title": "Calling async functions within a Combine pipeline",
             "link": "https://www.swiftbysundell.com/articles/calling-async-functions-within-a-combine-pipeline",
             "updated": 1624600200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/making-swiftui-views-refreshable",
             "title": "Making SwiftUI views refreshable",
             "link": "https://www.swiftbysundell.com/articles/making-swiftui-views-refreshable",
             "updated": 1624519800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/basics/availability",
             "title": "Basics: Availability checks",
             "link": "https://www.swiftbysundell.com/basics/availability",
             "updated": 1624443120,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/customizing-how-a-type-is-encoded-or-decoded",
             "title": "Customizing how an external Swift type is encoded or decoded",
             "link": "https://www.swiftbysundell.com/articles/customizing-how-a-type-is-encoded-or-decoded",
             "updated": 1624351200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/connecting-async-await-with-other-swift-code",
             "title": "Connecting async/await to other Swift code",
             "link": "https://www.swiftbysundell.com/articles/connecting-async-await-with-other-swift-code",
             "updated": 1624278900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/tips/double-cgfloat-auto-conversions",
             "title": "Automatic conversions between Double and CGFloat values in Swift 5.5",
             "link": "https://www.swiftbysundell.com/tips/double-cgfloat-auto-conversions",
             "updated": 1623751200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/the-main-actor-attribute",
             "title": "Using the MainActor attribute to automatically dispatch UI updates on the main queue",
             "link": "https://www.swiftbysundell.com/articles/the-main-actor-attribute",
             "updated": 1623577500,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/99",
             "title": "Podcast: \u201cStructured concurrency\u201d, with special guest Doug Gregor",
             "link": "https://www.swiftbysundell.com/podcast/99",
             "updated": 1623405600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "swiftbysundell/links/wwdc-by-sundell-and-friends-2021",
             "title": "First looks at the new APIs and frameworks announced at WWDC21 on WWDC by Sundell & Friends",
             "link": "https://wwdcbysundell.com",
             "updated": 1623305700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/a-swift-developers-wwdc-dreams-2021",
             "title": "A Swift developer\u2019s WWDC dreams - 2021 edition",
             "link": "https://www.swiftbysundell.com/articles/a-swift-developers-wwdc-dreams-2021",
             "updated": 1622731200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/98",
             "title": "Podcast: \u201cAn entire spectrum of apps\u201d, with special guest Sean Allen",
             "link": "https://www.swiftbysundell.com/podcast/98",
             "updated": 1622460900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/avoiding-problematic-enum-cases-in-swift",
             "title": "Avoiding problematic cases when using Swift enums",
             "link": "https://www.swiftbysundell.com/articles/avoiding-problematic-enum-cases-in-swift",
             "updated": 1622107200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/97",
             "title": "Podcast: \u201cAnything can happen during WWDC\u201d, with special guest Ish ShaBazz",
             "link": "https://www.swiftbysundell.com/podcast/97",
             "updated": 1621599600,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/avoiding-swiftui-value-recomputation",
             "title": "Avoiding having to recompute values within SwiftUI views",
             "link": "https://www.swiftbysundell.com/articles/avoiding-swiftui-value-recomputation",
             "updated": 1621514700,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/tips/rendering-a-swiftui-view-in-a-playground",
             "title": "Three ways to render a SwiftUI view in a playground",
             "link": "https://www.swiftbysundell.com/tips/rendering-a-swiftui-view-in-a-playground",
             "updated": 1621428300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/essential-developer-may-2021",
             "title": "Sponsor: Essential Developer",
             "link": "https://www.swiftbysundell.com/sponsor/essential-developer-may-2021",
             "updated": 1621242300,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/tips/same-name-assignments",
             "title": "Assigning an expression to a variable with the same name",
             "link": "https://www.swiftbysundell.com/tips/same-name-assignments",
             "updated": 1620986400,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/introducing-plot-components",
             "title": "Introducing Plot Components: A new way to build HTML pages using Swift",
             "link": "https://www.swiftbysundell.com/articles/introducing-plot-components",
             "updated": 1620730200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/sponsor/matteo-manferdini-may-2021",
             "title": "Sponsor: Architecting SwiftUI apps with MVC and MVVM",
             "link": "https://www.swiftbysundell.com/sponsor/matteo-manferdini-may-2021",
             "updated": 1620625200,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/deciding-what-queue-to-run-a-completion-handler-on",
             "title": "Deciding what DispatchQueue to run a completion handler on",
             "link": "https://www.swiftbysundell.com/articles/deciding-what-queue-to-run-a-completion-handler-on",
             "updated": 1620291900,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/articles/controlling-the-timing-of-a-combine-pipeline",
             "title": "Controlling the timing of a Combine pipeline",
             "link": "https://www.swiftbysundell.com/articles/controlling-the-timing-of-a-combine-pipeline",
             "updated": 1619785800,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/96",
             "title": "Podcast: \u201cGesture-driven animations\u201d, with special guest Adam Bell",
             "link": "https://www.swiftbysundell.com/podcast/96",
             "updated": 1619702100,
-            "site_name": "Swift by Sundell"
+            "site_url": "https://www.youtube.com/channel/UCTfmK7YoPhSkRsIul50_rSA"
         }
     ]
 }

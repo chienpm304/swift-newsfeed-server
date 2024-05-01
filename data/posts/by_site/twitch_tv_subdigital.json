@@ -1,12 +1,12 @@
 {
-    "updated": 1714471160,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "1682541515",
             "title": "Advent of Code 2022 in Swift!",
             "link": "https://www.twitch.tv/videos/1682541515",
             "updated": 1671362516,
-            "site_name": "subdigital on Twitch"
+            "site_url": "https://www.twitch.tv/subdigital"
         }
     ]
 }

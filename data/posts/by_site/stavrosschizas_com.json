@@ -1,12 +1,12 @@
 {
-    "updated": 1714470951,
+    "updated": 1714537270,
     "posts": [
         {
             "id": "https://stavrosschizas.com/post/encrypt-dns-in-ios-14-applications/",
             "title": "Encrypt DNS in iOS 14 applications",
             "link": "https://stavrosschizas.com/post/encrypt-dns-in-ios-14-applications/",
             "updated": 1614186000,
-            "site_name": "Stavros Schizas' Blog"
+            "site_url": "https://stavrosschizas.com"
         }
     ]
 }

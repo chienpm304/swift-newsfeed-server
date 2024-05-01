@@ -1,33 +1,33 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/21384ea18659",
             "title": "The iPad as a fast, precise tool for creativity",
             "link": "https://medium.com/@hirodusk/the-ipad-as-a-fast-precise-tool-for-creativity-21384ea18659?source=rss-5dc35b8eb9c4------2",
             "updated": 1565684796,
-            "site_name": "Adam Wiggins\u2019 Blog"
-        },
-        {
-            "id": "https://medium.com/p/6f076d8c7e08",
-            "title": "Mobile syncing with Couchbase",
-            "link": "https://medium.com/wandering-cto/mobile-syncing-with-couchbase-6f076d8c7e08?source=rss-5dc35b8eb9c4------2",
-            "updated": 1392899012,
-            "site_name": "Adam Wiggins\u2019 Blog"
+            "site_url": "https://medium.com/@hirodusk"
         },
         {
             "id": "https://medium.com/p/4dc8faecd305",
             "title": "My journey into the Berlin startup scene",
             "link": "https://medium.com/wandering-cto/my-journey-into-the-berlin-startup-scene-4dc8faecd305?source=rss-5dc35b8eb9c4------2",
             "updated": 1401685011,
-            "site_name": "Adam Wiggins\u2019 Blog"
+            "site_url": "https://medium.com/@hirodusk"
+        },
+        {
+            "id": "https://medium.com/p/6f076d8c7e08",
+            "title": "Mobile syncing with Couchbase",
+            "link": "https://medium.com/wandering-cto/mobile-syncing-with-couchbase-6f076d8c7e08?source=rss-5dc35b8eb9c4------2",
+            "updated": 1392899012,
+            "site_url": "https://medium.com/@hirodusk"
         },
         {
             "id": "https://medium.com/p/5367171478b7",
             "title": "End-user computing",
             "link": "https://medium.com/the-truant-haruspex/end-user-computing-5367171478b7?source=rss-5dc35b8eb9c4------2",
             "updated": 1357645989,
-            "site_name": "Adam Wiggins\u2019 Blog"
+            "site_url": "https://medium.com/@hirodusk"
         }
     ]
 }

@@ -1,54 +1,54 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "61d9ff1236024d003bf10775",
             "title": "The 3 best business models for a consumer company",
             "link": "https://www.mronge.com/the-3-best-business-models-for-a-consumer-company/",
             "updated": 1641651597,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "618b2a9cdfcb12003bfe4911",
             "title": "How NOT to screw up switching your app to subscriptions",
             "link": "https://www.mronge.com/how-not-to-screw-up-when-switching-your-app-to-subscriptions/",
             "updated": 1636485557,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "618c7584f8cbe600483ab386",
             "title": "Why I support the Open App Markets Act",
             "link": "https://www.mronge.com/open-app-markets-act/",
             "updated": 1629222480,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "6188873698ea49003b4b7817",
             "title": "Why you should charge more for your app subscriptions",
             "link": "https://www.mronge.com/why-you-should-charge-more-for-your-app-subscriptions/",
             "updated": 1599157200,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "61888eef98ea49003b4b7885",
             "title": "How churn can limit your subscription business",
             "link": "https://www.mronge.com/how-churn-can-limit-your-subscription-business/",
             "updated": 1506031200,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "618b2c5edfcb12003bfe4936",
             "title": "Managing your psychology as a founder",
             "link": "https://www.mronge.com/managing-your-psychology-as-an-indie-dev/",
             "updated": 1430431200,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         },
         {
             "id": "618b2cd8dfcb12003bfe4948",
             "title": "Mac apps are harder than iOS apps",
             "link": "https://www.mronge.com/mac-apps-are-harder/",
             "updated": 1394402400,
-            "site_name": "Matt Ronge's Blog"
+            "site_url": "https://www.mronge.com/"
         }
     ]
 }

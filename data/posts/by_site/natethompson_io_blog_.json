@@ -1,12 +1,12 @@
 {
-    "updated": 1714470891,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://www.natethompson.io/2019/03/23/nstableview-drag-and-drop.html",
             "title": "Using Drag and Drop with NSTableView",
             "link": "https://www.natethompson.io/2019/03/23/nstableview-drag-and-drop.html",
             "updated": 1553274000,
-            "site_name": "Nate Thompson\u2019s Blog"
+            "site_url": "https://www.natethompson.io/blog/"
         }
     ]
 }

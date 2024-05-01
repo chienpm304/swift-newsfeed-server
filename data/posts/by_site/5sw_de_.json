@@ -1,61 +1,61 @@
 {
-    "updated": 1714470956,
+    "updated": 1714537271,
     "posts": [
         {
             "id": "http://5sw.de/2022/01/unknown-enum-cases",
             "title": "Handling unknown enum cases",
             "link": "http://5sw.de/2022/01/unknown-enum-cases/",
             "updated": 1643436929,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2022/01/enum-or-struct",
             "title": "Enum or struct?",
             "link": "http://5sw.de/2022/01/enum-or-struct/",
             "updated": 1642910500,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2021/07/automatic-builders",
             "title": "Automatic builders",
             "link": "http://5sw.de/2021/07/automatic-builders/",
             "updated": 1626842015,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2021/07/new-attributed-strings",
             "title": "New attributed strings",
             "link": "http://5sw.de/2021/07/new-attributed-strings/",
             "updated": 1626750493,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2019/08/attributed-strings",
             "title": "Attributed Strings",
             "link": "http://5sw.de/2019/08/attributed-strings/",
             "updated": 1566305399,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2017/04/factories-and-protocol-composition-di",
             "title": "Factories and Protocol Composition DI",
             "link": "http://5sw.de/2017/04/factories-and-protocol-composition-di/",
             "updated": 1492922244,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2017/04/protocol-composition-and-dependency-injection",
             "title": "Protocol Composition and Dependency Injection",
             "link": "http://5sw.de/2017/04/protocol-composition-and-dependency-injection/",
             "updated": 1492416192,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         },
         {
             "id": "http://5sw.de/2017/04/hello-world",
             "title": "Hello world!",
             "link": "http://5sw.de/2017/04/hello-world/",
             "updated": 1492402079,
-            "site_name": "Sven Weidauer\u2019s Blog"
+            "site_url": "https://5sw.de/"
         }
     ]
 }

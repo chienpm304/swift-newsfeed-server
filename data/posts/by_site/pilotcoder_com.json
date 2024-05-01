@@ -1,19 +1,19 @@
 {
-    "updated": 1714470915,
+    "updated": 1714537248,
     "posts": [
         {
             "id": "https://pilotcoder.com/?p=215",
             "title": "Take Control of Your Window AC Unit",
             "link": "https://pilotcoder.com/take-control-of-your-window-ac-unit/",
             "updated": 1597385464,
-            "site_name": "Pilot Coder"
+            "site_url": "https://pilotcoder.com"
         },
         {
             "id": "https://pilotcoder.com/?page_id=185",
             "title": "Why You Should Learn Server-Side Swift",
             "link": "https://pilotcoder.com/why-learn-server-side-swift/",
             "updated": 1596270076,
-            "site_name": "Pilot Coder"
+            "site_url": "https://pilotcoder.com"
         }
     ]
 }

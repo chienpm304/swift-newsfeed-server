@@ -1,75 +1,75 @@
 {
-    "updated": 1714470922,
+    "updated": 1714537252,
     "posts": [
-        {
-            "id": "https://medium.com/p/92ee050bbaf1",
-            "title": "When Will The Web Replace Native Mobile Apps? (Part II)",
-            "link": "https://medium.com/kinandcartacreated/when-will-the-web-replace-native-mobile-apps-part-ii-92ee050bbaf1?source=rss-195b086ce5f4------2",
-            "updated": 1592966610,
-            "site_name": "Sam Dods\u2019s Blog"
-        },
         {
             "id": "https://medium.com/p/5408c895c8a6",
             "title": "When Will The Web Replace Native Mobile Apps?",
             "link": "https://medium.com/kinandcartacreated/when-will-the-web-replace-native-mobile-apps-5408c895c8a6?source=rss-195b086ce5f4------2",
             "updated": 1592977795,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
+        },
+        {
+            "id": "https://medium.com/p/92ee050bbaf1",
+            "title": "When Will The Web Replace Native Mobile Apps? (Part II)",
+            "link": "https://medium.com/kinandcartacreated/when-will-the-web-replace-native-mobile-apps-part-ii-92ee050bbaf1?source=rss-195b086ce5f4------2",
+            "updated": 1592966610,
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/74be33b76da",
             "title": "iOS Pro: Pull-to-Search",
             "link": "https://medium.com/kinandcartacreated/ios-pro-pull-to-search-74be33b76da?source=rss-195b086ce5f4------2",
             "updated": 1571451096,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/f375a3f40a8d",
             "title": "iOS Pro: Getting to Grips with One Hand",
             "link": "https://medium.com/kinandcartacreated/ios-pro-getting-to-grips-with-one-hand-f375a3f40a8d?source=rss-195b086ce5f4------2",
             "updated": 1571191003,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/5f3d5c342df4",
             "title": "Making UILabel Accessible",
             "link": "https://medium.com/kinandcartacreated/making-uilabel-accessible-5f3d5c342df4?source=rss-195b086ce5f4------2",
             "updated": 1570592933,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/177b2fcce86c",
             "title": "The Inner Workings of Server-side Swift",
             "link": "https://medium.com/kinandcartacreated/the-inner-workings-of-server-side-swift-177b2fcce86c?source=rss-195b086ce5f4------2",
             "updated": 1554942695,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/3a798a421dcf",
             "title": "Switching App Environment at Runtime\u2014A Counterargument",
             "link": "https://medium.com/kinandcartacreated/switching-app-environment-at-runtime-a-counterargument-3a798a421dcf?source=rss-195b086ce5f4------2",
             "updated": 1552277590,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/7da963c3a40d",
             "title": "I followed these 7 simple steps and became an iOS coding test BOSS!",
             "link": "https://medium.com/kinandcartacreated/i-followed-these-7-simple-steps-and-became-an-ios-coding-test-boss-7da963c3a40d?source=rss-195b086ce5f4------2",
             "updated": 1540965827,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/1c3d8c8c1d25",
             "title": "Making the Most of Swift.KeyPath",
             "link": "https://medium.com/kinandcartacreated/making-the-most-of-swift-keypath-1c3d8c8c1d25?source=rss-195b086ce5f4------2",
             "updated": 1538534917,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         },
         {
             "id": "https://medium.com/p/38573eeedb67",
             "title": "User Notifications in iOS \u2014 bringing the app out of the app",
             "link": "https://medium.com/kinandcartacreated/user-notifications-in-ios-bringing-the-app-out-of-the-app-38573eeedb67?source=rss-195b086ce5f4------2",
             "updated": 1530236958,
-            "site_name": "Sam Dods\u2019s Blog"
+            "site_url": "https://medium.com/@sdods"
         }
     ]
 }

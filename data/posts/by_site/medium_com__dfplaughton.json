@@ -1,47 +1,47 @@
 {
-    "updated": 1714470982,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/9e155c6d6a3d",
             "title": "UITextField Obscura",
             "link": "https://medium.com/@dfplaughton/uitextfield-obscura-9e155c6d6a3d?source=rss-e9bb96b29f78------2",
             "updated": 1558254071,
-            "site_name": "Two Minute iOS"
+            "site_url": "https://medium.com/@dfplaughton"
         },
         {
             "id": "https://medium.com/p/9560cc211697",
             "title": "When tickets go bad",
             "link": "https://medium.com/@dfplaughton/when-tickets-go-bad-9560cc211697?source=rss-e9bb96b29f78------2",
             "updated": 1537261831,
-            "site_name": "Two Minute iOS"
+            "site_url": "https://medium.com/@dfplaughton"
         },
         {
             "id": "https://medium.com/p/f55d7f057e4a",
             "title": "iOS Springboard Security [Revisited]",
             "link": "https://medium.com/@dfplaughton/ios-springboard-security-revisited-f55d7f057e4a?source=rss-e9bb96b29f78------2",
             "updated": 1524809616,
-            "site_name": "Two Minute iOS"
-        },
-        {
-            "id": "https://medium.com/p/93dbe1b5d366",
-            "title": "Kerning \u2014 pardon?",
-            "link": "https://medium.com/@dfplaughton/kerning-pardon-93dbe1b5d366?source=rss-e9bb96b29f78------2",
-            "updated": 1522995264,
-            "site_name": "Two Minute iOS"
-        },
-        {
-            "id": "https://medium.com/p/cd5f0dec392b",
-            "title": "NSManagedObject + Auto Date Stamping",
-            "link": "https://medium.com/@dfplaughton/nsmanagedobject-auto-date-stamping-cd5f0dec392b?source=rss-e9bb96b29f78------2",
-            "updated": 1522717380,
-            "site_name": "Two Minute iOS"
+            "site_url": "https://medium.com/@dfplaughton"
         },
         {
             "id": "https://medium.com/p/5ca735f09cef",
             "title": "UIAccessorizedTextField",
             "link": "https://medium.com/@dfplaughton/uiaccessorytextfield-5ca735f09cef?source=rss-e9bb96b29f78------2",
             "updated": 1524217738,
-            "site_name": "Two Minute iOS"
+            "site_url": "https://medium.com/@dfplaughton"
+        },
+        {
+            "id": "https://medium.com/p/93dbe1b5d366",
+            "title": "Kerning \u2014 pardon?",
+            "link": "https://medium.com/@dfplaughton/kerning-pardon-93dbe1b5d366?source=rss-e9bb96b29f78------2",
+            "updated": 1522995264,
+            "site_url": "https://medium.com/@dfplaughton"
+        },
+        {
+            "id": "https://medium.com/p/cd5f0dec392b",
+            "title": "NSManagedObject + Auto Date Stamping",
+            "link": "https://medium.com/@dfplaughton/nsmanagedobject-auto-date-stamping-cd5f0dec392b?source=rss-e9bb96b29f78------2",
+            "updated": 1522717380,
+            "site_url": "https://medium.com/@dfplaughton"
         }
     ]
 }

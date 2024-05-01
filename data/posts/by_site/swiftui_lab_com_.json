@@ -1,180 +1,180 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://swiftui-lab.com/?p=4427",
             "title": "Advanced SwiftUI Animations \u2013 Part 7: PhaseAnimator",
             "link": "https://swiftui-lab.com/swiftui-animations-part7/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-animations-part7",
             "updated": 1698655314,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=4180",
             "title": "Advanced SwiftUI Animations \u2013 Part 6: CustomAnimation",
             "link": "https://swiftui-lab.com/swiftui-animations-part6/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-animations-part6",
             "updated": 1696406961,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3960",
             "title": "The SwiftUI Layout Protocol \u2013 Part 2",
             "link": "https://swiftui-lab.com/layout-protocol-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=layout-protocol-part-2",
             "updated": 1662965027,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3857",
             "title": "The SwiftUI Layout Protocol \u2013 Part 1",
             "link": "https://swiftui-lab.com/layout-protocol-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=layout-protocol-part-1",
             "updated": 1662447687,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3679",
             "title": "Eager Grids with SwiftUI",
             "link": "https://swiftui-lab.com/eager-grids/?utm_source=rss&utm_medium=rss&utm_campaign=eager-grids",
             "updated": 1658989800,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3583",
             "title": "SwiftUI Renderers and Their Tricks",
             "link": "https://swiftui-lab.com/swiftui-renders/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-renders",
             "updated": 1656399793,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3338",
             "title": "\uf8ffWWDC 2022: Lessons from the SwiftUI Digital Lounges",
             "link": "https://swiftui-lab.com/digital-lounges-2022/?utm_source=rss&utm_medium=rss&utm_campaign=digital-lounges-2022",
             "updated": 1655452310,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3485",
             "title": "SwiftUI \u201922 in Numbers (and a few Charts)",
             "link": "https://swiftui-lab.com/swiftui-22-in-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-22-in-numbers",
             "updated": 1655187073,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=3175",
             "title": "Advanced SwiftUI Animations \u2013 Part 5: Canvas",
             "link": "https://swiftui-lab.com/swiftui-animations-part5/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-animations-part5",
             "updated": 1631257737,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2841",
             "title": "Advanced SwiftUI Animations \u2014 Part 4: TimelineView",
             "link": "https://swiftui-lab.com/swiftui-animations-part4/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-animations-part4",
             "updated": 1624865265,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2590",
             "title": "Random Lessons from the SwiftUI Digital Lounge",
             "link": "https://swiftui-lab.com/random-lessons/?utm_source=rss&utm_medium=rss&utm_campaign=random-lessons",
             "updated": 1624261150,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2576",
             "title": "SwiftUI \u201921 in Numbers",
             "link": "https://swiftui-lab.com/swiftui-21-in-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-21-in-numbers",
             "updated": 1623140007,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2458",
             "title": "Attributed Strings with SwiftUI",
             "link": "https://swiftui-lab.com/attributed-strings-with-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=attributed-strings-with-swiftui",
             "updated": 1604912441,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2438",
             "title": "NSUserActivity with SwiftUI",
             "link": "https://swiftui-lab.com/nsuseractivity-with-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=nsuseractivity-with-swiftui",
             "updated": 1599718883,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2178",
             "title": "Impossible Grids with SwiftUI",
             "link": "https://swiftui-lab.com/impossible-grids/?utm_source=rss&utm_medium=rss&utm_campaign=impossible-grids",
             "updated": 1595834489,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=2041",
             "title": "MatchedGeometryEffect \u2013 Part 2",
             "link": "https://swiftui-lab.com/matchedgeometryeffect-part2/?utm_source=rss&utm_medium=rss&utm_campaign=matchedgeometryeffect-part2",
             "updated": 1594623952,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1987",
             "title": "MatchedGeometryEffect \u2013 Part 1 (Hero Animations)",
             "link": "https://swiftui-lab.com/matchedgeometryeffect-part1/?utm_source=rss&utm_medium=rss&utm_campaign=matchedgeometryeffect-part1",
             "updated": 1594021217,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1890",
             "title": "Backward Compatibility with SwiftUI",
             "link": "https://swiftui-lab.com/backward-compatibility/?utm_source=rss&utm_medium=rss&utm_campaign=backward-compatibility",
             "updated": 1593585918,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1868",
             "title": "WWDC 2020 Has Come and Gone",
             "link": "https://swiftui-lab.com/wwdc-2020-is-here/?utm_source=rss&utm_medium=rss&utm_campaign=wwdc-2020-is-here",
             "updated": 1592970476,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1718",
             "title": "Working with Focus on SwiftUI Views",
             "link": "https://swiftui-lab.com/working-with-focus-on-swiftui-views/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-focus-on-swiftui-views",
             "updated": 1591266249,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1736",
             "title": "The Power of the Hosting+Representable Combo",
             "link": "https://swiftui-lab.com/a-powerful-combo/?utm_source=rss&utm_medium=rss&utm_campaign=a-powerful-combo",
             "updated": 1583305459,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1670",
             "title": "Drag & Drop with SwiftUI",
             "link": "https://swiftui-lab.com/drag-drop-with-swiftui/?utm_source=rss&utm_medium=rss&utm_campaign=drag-drop-with-swiftui",
             "updated": 1581927946,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1613",
             "title": "The Mystery Behind View Equality",
             "link": "https://swiftui-lab.com/equatableview/?utm_source=rss&utm_medium=rss&utm_campaign=equatableview",
             "updated": 1576480927,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1474",
             "title": "id(_): Identifying SwiftUI Views",
             "link": "https://swiftui-lab.com/swiftui-id/?utm_source=rss&utm_medium=rss&utm_campaign=swiftui-id",
             "updated": 1575444636,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         },
         {
             "id": "https://swiftui-lab.com/?p=1405",
             "title": "Safely Updating The View State",
             "link": "https://swiftui-lab.com/state-changes/?utm_source=rss&utm_medium=rss&utm_campaign=state-changes",
             "updated": 1574321717,
-            "site_name": "The SwiftUI Lab"
+            "site_url": "https://swiftui-lab.com/"
         }
     ]
 }

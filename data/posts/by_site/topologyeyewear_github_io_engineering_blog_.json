@@ -1,47 +1,47 @@
 {
-    "updated": 1714471082,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2018/07/03/drone/",
             "title": "The Future of Eyewear Delivery Is Here",
             "link": "https://topologyeyewear.github.io/engineering-blog/2018/07/03/drone/",
             "updated": 1530638890,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         },
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2018/05/21/playgrounds/",
             "title": "Developing UIViews in Xcode Playgrounds",
             "link": "https://topologyeyewear.github.io/engineering-blog/2018/05/21/playgrounds/",
             "updated": 1527176254,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         },
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2018/03/19/heap_corruption_followup/",
             "title": "Heap Corruption Follow-up: Size, Alignment, and Crashing Collections",
             "link": "https://topologyeyewear.github.io/engineering-blog/2018/03/19/heap_corruption_followup/",
             "updated": 1526567009,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         },
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2018/03/07/heap_corruption/",
             "title": "Solving a Mysterious Heap Corruption Crash",
             "link": "https://topologyeyewear.github.io/engineering-blog/2018/03/07/heap_corruption/",
             "updated": 1526567009,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         },
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2018/01/30/autolayout/",
             "title": "Five Steps to Auto Layout Heaven",
             "link": "https://topologyeyewear.github.io/engineering-blog/2018/01/30/autolayout/",
             "updated": 1526567009,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         },
         {
             "id": "https://topologyeyewear.github.io/engineering-blog/2017/11/20/background_transfer/",
             "title": "iOS Background Transfer",
             "link": "https://topologyeyewear.github.io/engineering-blog/2017/11/20/background_transfer/",
             "updated": 1526567009,
-            "site_name": "Topology Engineering Blog"
+            "site_url": "https://topologyeyewear.github.io/engineering-blog/"
         }
     ]
 }

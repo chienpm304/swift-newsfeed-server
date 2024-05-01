@@ -1,75 +1,75 @@
 {
-    "updated": 1714471044,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://bignerdranch.com/?p=9547",
             "title": "Swift Regex Deep Dive",
             "link": "https://bignerdranch.com/blog/swift-regex/",
             "updated": 1666272048,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bignerdranch.com/?p=9505",
             "title": "Custom Operators in Swift Combine",
             "link": "https://bignerdranch.com/blog/custom-operators-in-swift-combine/",
             "updated": 1662692412,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bnr2021.wpengine.com/?p=7548",
             "title": "Navigation in SwiftUI 4: NavigationView, NavigationLink, NavigationStack, and NavigationSplitView",
             "link": "https://bignerdranch.com/blog/the-different-forms-of-navigation-in-swiftui/",
             "updated": 1654605295,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://nerdranchighq.wpengine.com/blog/mocking-with-protocols-in-swift/",
             "title": "Mocking With Protocols in Swift",
             "link": "https://bignerdranch.com/blog/mocking-with-protocols-in-swift/",
             "updated": 1639722600,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bignerdranch.com/?p=9124",
             "title": "Getting started with computer vision using CoreML and CreateML",
             "link": "https://bignerdranch.com/blog/getting-started-with-computer-vision-using-coreml-and-createml/",
             "updated": 1635735653,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bnr2021.wpengine.com/?p=7550",
             "title": "WWDC21 Round Up",
             "link": "https://bignerdranch.com/blog/wwdc21-round-up/",
             "updated": 1623414661,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bnr2021.wpengine.com/?p=7440",
             "title": "Learning how to think in pipelines with Combine",
             "link": "https://bignerdranch.com/blog/learning-how-to-think-in-pipelines-with-combine/",
             "updated": 1621320482,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://bnr2021.wpengine.com/blog/be-a-square-create-custom-shapes-with-swiftui/",
             "title": "Be a square \u2013 create custom shapes with SwiftUI",
             "link": "https://bignerdranch.com/blog/be-a-square-create-custom-shapes-with-swiftui/",
             "updated": 1619595147,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://www.bignerdranch.com/?p=4737",
             "title": "Auditing Your App for Accessibility",
             "link": "https://bignerdranch.com/blog/auditing-your-app-for-accessibility/",
             "updated": 1615281619,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         },
         {
             "id": "https://www.bignerdranch.com/?p=4729",
             "title": "SwiftUI or UIKit: Which is Right For You?",
             "link": "https://bignerdranch.com/blog/learning-apples-swiftui-or-uikit-which-one-is-right-for-you-right-now/",
             "updated": 1614682476,
-            "site_name": "Big Nerd Ranch"
+            "site_url": "https://bignerdranch.com/blog/category/ios/"
         }
     ]
 }

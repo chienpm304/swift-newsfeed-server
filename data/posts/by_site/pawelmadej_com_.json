@@ -1,26 +1,26 @@
 {
-    "updated": 1714470911,
+    "updated": 1714537247,
     "posts": [
         {
             "id": "https://www.pawelmadej.com/post/introducing-twitter-text-swift-library/",
             "title": "Introducing TwitterText Swift library",
             "link": "https://www.pawelmadej.com/post/introducing-twitter-text-swift-library/",
             "updated": 1600777800,
-            "site_name": "Pawe\u0142 Madej's Blog"
+            "site_url": "https://www.pawelmadej.com/"
         },
         {
             "id": "https://www.pawelmadej.com/post/code-conf-the-long-journey/",
             "title": "Code Conf - The long journey",
             "link": "https://www.pawelmadej.com/post/code-conf-the-long-journey/",
             "updated": 1594695600,
-            "site_name": "Pawe\u0142 Madej's Blog"
+            "site_url": "https://www.pawelmadej.com/"
         },
         {
             "id": "https://www.pawelmadej.com/post/mlrecommender-in-practice/",
             "title": "MLRecommender in practice",
             "link": "https://www.pawelmadej.com/post/mlrecommender-in-practice/",
             "updated": 1594198800,
-            "site_name": "Pawe\u0142 Madej's Blog"
+            "site_url": "https://www.pawelmadej.com/"
         }
     ]
 }

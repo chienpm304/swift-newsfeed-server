@@ -1,110 +1,110 @@
 {
-    "updated": 1714471146,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:y4nPSAaX14s",
-            "title": "visionOS Tutorial: Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit",
-            "link": "https://www.youtube.com/watch?v=y4nPSAaX14s",
-            "updated": 1714028176,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:o0Y69NLOXxU",
-            "title": "Bring 3D to your App: Developing Native iOS Apps with Spline",
-            "link": "https://www.youtube.com/watch?v=o0Y69NLOXxU",
-            "updated": 1712139131,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:GXW0OpU3TqE",
-            "title": "Your First ML App with Decision Trees - Machine Learning for Beginners Tutorial",
-            "link": "https://www.youtube.com/watch?v=GXW0OpU3TqE",
-            "updated": 1711154516,
-            "site_name": "Brian Advent on YouTube"
+            "id": "yt:video:Ot-LdjivqEY",
+            "title": "iOS Swift Tutorial: Amazing Animations with Lottie and SwiftUI",
+            "link": "https://www.youtube.com/watch?v=Ot-LdjivqEY",
+            "updated": 1714165829,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         },
         {
             "id": "yt:video:RCTKgi3CTXk",
             "title": "iOS Swift Tutorial: Face Detection with Vision Framework",
             "link": "https://www.youtube.com/watch?v=RCTKgi3CTXk",
             "updated": 1714142520,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:NWKObIdi9ec",
-            "title": "I can\u2019t do this with SwiftUI\u2026 now what?! - SwiftUI Introspect & SwiftUIX - Brian Advent",
-            "link": "https://www.youtube.com/watch?v=NWKObIdi9ec",
-            "updated": 1714094220,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:ZSHdZSwZy7w",
-            "title": "iOS Swift Tutorial: Swift Concurrency (await/async) and how to Use Web APIs and JSON Data in 2021",
-            "link": "https://www.youtube.com/watch?v=ZSHdZSwZy7w",
-            "updated": 1711796490,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:Ot-LdjivqEY",
-            "title": "iOS Swift Tutorial: Amazing Animations with Lottie and SwiftUI",
-            "link": "https://www.youtube.com/watch?v=Ot-LdjivqEY",
-            "updated": 1714165829,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:YoKlTbYdFPs",
-            "title": "iOS Swift Tutorial: GraphQL with Apollo, Xcode 12 & SwiftUI",
-            "link": "https://www.youtube.com/watch?v=YoKlTbYdFPs",
-            "updated": 1709529105,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:44APgBnapag",
-            "title": "iOS Swift Tutorial: Use APIs with Swift UI & Build a Book Barcode Scanner",
-            "link": "https://www.youtube.com/watch?v=44APgBnapag",
-            "updated": 1714007039,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:Z1CfF6ou1ac",
-            "title": "iOS 14 SwiftUI Tutorial: Unsplash Photo Viewer with Lazy Stacks, iPad Sidebar...",
-            "link": "https://www.youtube.com/watch?v=Z1CfF6ou1ac",
-            "updated": 1710379110,
-            "site_name": "Brian Advent on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         },
         {
             "id": "yt:video:KSgXCDwkxLo",
             "title": "5 Best Xcode 12 Features - WWDC 2020 | Brian Advent",
             "link": "https://www.youtube.com/watch?v=KSgXCDwkxLo",
             "updated": 1714113004,
-            "site_name": "Brian Advent on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         },
         {
-            "id": "yt:video:iBWKxMBg4TE",
-            "title": "Q&A: Privacy & iOS Development Discussion with Sebastian Zimmeck",
-            "link": "https://www.youtube.com/watch?v=iBWKxMBg4TE",
-            "updated": 1711094625,
-            "site_name": "Brian Advent on YouTube"
+            "id": "yt:video:NWKObIdi9ec",
+            "title": "I can\u2019t do this with SwiftUI\u2026 now what?! - SwiftUI Introspect & SwiftUIX - Brian Advent",
+            "link": "https://www.youtube.com/watch?v=NWKObIdi9ec",
+            "updated": 1714094220,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:y4nPSAaX14s",
+            "title": "visionOS Tutorial: Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit",
+            "link": "https://www.youtube.com/watch?v=y4nPSAaX14s",
+            "updated": 1714028176,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:44APgBnapag",
+            "title": "iOS Swift Tutorial: Use APIs with Swift UI & Build a Book Barcode Scanner",
+            "link": "https://www.youtube.com/watch?v=44APgBnapag",
+            "updated": 1714007039,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         },
         {
             "id": "yt:video:3d1HNBpqvuM",
             "title": "Simple Drawing App with PencilKit | iOS Swift Tutorial | Brian Advent",
             "link": "https://www.youtube.com/watch?v=3d1HNBpqvuM",
             "updated": 1714002225,
-            "site_name": "Brian Advent on YouTube"
-        },
-        {
-            "id": "yt:video:DKbpkdfLb8g",
-            "title": "iOS Swift Tutorial: Pull to Refresh with SwiftUI and UIViewRepresentable (2020) | Brian Advent",
-            "link": "https://www.youtube.com/watch?v=DKbpkdfLb8g",
-            "updated": 1712278520,
-            "site_name": "Brian Advent on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         },
         {
             "id": "yt:video:FEpXiG2EX3Q",
             "title": "Why Privacy Matters, How Data Shapes Our Lives & What Developers Can Do | Brian Advent",
             "link": "https://www.youtube.com/watch?v=FEpXiG2EX3Q",
             "updated": 1713000023,
-            "site_name": "Brian Advent on YouTube"
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:DKbpkdfLb8g",
+            "title": "iOS Swift Tutorial: Pull to Refresh with SwiftUI and UIViewRepresentable (2020) | Brian Advent",
+            "link": "https://www.youtube.com/watch?v=DKbpkdfLb8g",
+            "updated": 1712278520,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:o0Y69NLOXxU",
+            "title": "Bring 3D to your App: Developing Native iOS Apps with Spline",
+            "link": "https://www.youtube.com/watch?v=o0Y69NLOXxU",
+            "updated": 1712139131,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:ZSHdZSwZy7w",
+            "title": "iOS Swift Tutorial: Swift Concurrency (await/async) and how to Use Web APIs and JSON Data in 2021",
+            "link": "https://www.youtube.com/watch?v=ZSHdZSwZy7w",
+            "updated": 1711796490,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:GXW0OpU3TqE",
+            "title": "Your First ML App with Decision Trees - Machine Learning for Beginners Tutorial",
+            "link": "https://www.youtube.com/watch?v=GXW0OpU3TqE",
+            "updated": 1711154516,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:iBWKxMBg4TE",
+            "title": "Q&A: Privacy & iOS Development Discussion with Sebastian Zimmeck",
+            "link": "https://www.youtube.com/watch?v=iBWKxMBg4TE",
+            "updated": 1711094625,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:Z1CfF6ou1ac",
+            "title": "iOS 14 SwiftUI Tutorial: Unsplash Photo Viewer with Lazy Stacks, iPad Sidebar...",
+            "link": "https://www.youtube.com/watch?v=Z1CfF6ou1ac",
+            "updated": 1710379110,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "yt:video:YoKlTbYdFPs",
+            "title": "iOS Swift Tutorial: GraphQL with Apollo, Xcode 12 & SwiftUI",
+            "link": "https://www.youtube.com/watch?v=YoKlTbYdFPs",
+            "updated": 1709529105,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
         }
     ]
 }

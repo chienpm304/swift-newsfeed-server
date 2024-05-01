@@ -1,229 +1,229 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.danijelavrzan.com/posts/2024/02/labeled-content",
             "title": "LabeledContent in SwiftUI",
             "link": "https://www.danijelavrzan.com/posts/2024/02/labeled-content",
             "updated": 1708479900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2024/02/year-wrap-2023",
             "title": "2023: Year in Review",
             "link": "https://www.danijelavrzan.com/posts/2024/02/year-wrap-2023",
             "updated": 1707356700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/12/content-unavailable-view",
             "title": "Handle empty views in SwiftUI with ContentUnavailableView",
             "link": "https://www.danijelavrzan.com/posts/2023/12/content-unavailable-view",
             "updated": 1702518300,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/12/custom-dark-mode-color",
             "title": "Add custom dark mode color to your app",
             "link": "https://www.danijelavrzan.com/posts/2023/12/custom-dark-mode-color",
             "updated": 1701913500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/11/create-tabview-with-enums",
             "title": "Handle TabView data in a type-safe way with Enums",
             "link": "https://www.danijelavrzan.com/posts/2023/11/create-tabview-with-enums",
             "updated": 1699926300,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/11/review-pull-requests",
             "title": "Effective pull request reviews",
             "link": "https://www.danijelavrzan.com/posts/2023/11/review-pull-requests",
             "updated": 1698803100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts",
             "title": "Combine charts to create stunning designs with Swift Charts",
             "link": "https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts",
             "updated": 1697593500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/10/swift-algorithms-chunked",
             "title": "Split your data easily and efficiently with .chunked()",
             "link": "https://www.danijelavrzan.com/posts/2023/10/swift-algorithms-chunked",
             "updated": 1696383900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/06/string-catalog",
             "title": "Localize your app with String Catalog",
             "link": "https://www.danijelavrzan.com/posts/2023/06/string-catalog",
             "updated": 1686707100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/05/one-year-of-writing",
             "title": "Looking back: One year of writing about Swift",
             "link": "https://www.danijelavrzan.com/posts/2023/05/one-year-of-writing",
             "updated": 1685497500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/05/deep-dish-swift-2023",
             "title": "DeepDishSwift 2023: That's a Wrap",
             "link": "https://www.danijelavrzan.com/posts/2023/05/deep-dish-swift-2023",
             "updated": 1683596700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/04/login-xcode-breakpoint",
             "title": "Skip typing your login credentials manually with Xcode breakpoints",
             "link": "https://www.danijelavrzan.com/posts/2023/04/login-xcode-breakpoint",
             "updated": 1681868700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/04/start-new-job",
             "title": "10 Things to do when starting a new job",
             "link": "https://www.danijelavrzan.com/posts/2023/04/start-new-job",
             "updated": 1680572700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/03/in-app-safari-view",
             "title": "Display in-app web content with SFSafariViewController in SwiftUI",
             "link": "https://www.danijelavrzan.com/posts/2023/03/in-app-safari-view",
             "updated": 1679363100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/02/card-view-swiftui",
             "title": "SwiftUI Design: Create a card view",
             "link": "https://www.danijelavrzan.com/posts/2023/02/card-view-swiftui",
             "updated": 1677030300,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/02/create-pull-request",
             "title": "5 Tips to creating a (good) pull request",
             "link": "https://www.danijelavrzan.com/posts/2023/02/create-pull-request",
             "updated": 1675734300,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2023/01/completion-handler-async-function",
             "title": "How to use async/await with completion handlers",
             "link": "https://www.danijelavrzan.com/posts/2023/01/completion-handler-async-function",
             "updated": 1674524700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/12/year-wrap",
             "title": "2022: Year in Review",
             "link": "https://www.danijelavrzan.com/posts/2022/12/year-wrap",
             "updated": 1672099200,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/12/reusable-button",
             "title": "How to create a reusable button in SwiftUI",
             "link": "https://www.danijelavrzan.com/posts/2022/12/reusable-button",
             "updated": 1670895900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/11/xcode-configuration",
             "title": "How to manage build settings using Xcode configuration files",
             "link": "https://www.danijelavrzan.com/posts/2022/11/xcode-configuration",
             "updated": 1669686300,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/11/publish-cname-record",
             "title": "Publish: Persist CNAME record when deploying with GitHub Pages",
             "link": "https://www.danijelavrzan.com/posts/2022/11/publish-cname-record",
             "updated": 1668476700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/11/network-connection-alert-swiftui",
             "title": "How to check for network connection and present an alert in SwiftUI",
             "link": "https://www.danijelavrzan.com/posts/2022/11/network-connection-alert-swiftui",
             "updated": 1667267100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/10/publish-automatic-local-changes",
             "title": "Publish: How to Preview Local Changes on Your Website Instantly",
             "link": "https://www.danijelavrzan.com/posts/2022/10/publish-automatic-local-changes",
             "updated": 1666057500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/10/class-diagram",
             "title": "How to create a class diagram",
             "link": "https://www.danijelavrzan.com/posts/2022/10/class-diagram",
             "updated": 1664847900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/09/publish-get-started-custom-theme",
             "title": "Publish: Getting Started with Custom Themes",
             "link": "https://www.danijelavrzan.com/posts/2022/09/publish-get-started-custom-theme",
             "updated": 1662428700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/08/publish-deploy-to-github",
             "title": "Publish: Deploying your website on GitHub Pages",
             "link": "https://www.danijelavrzan.com/posts/2022/08/publish-deploy-to-github",
             "updated": 1661219100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/08/get-a-job-as-junior",
             "title": "Getting your first job as a junior developer",
             "link": "https://www.danijelavrzan.com/posts/2022/08/get-a-job-as-junior",
             "updated": 1660009500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/07/how-to-test-custom-codable",
             "title": "How to test custom Codable initializer",
             "link": "https://www.danijelavrzan.com/posts/2022/07/how-to-test-custom-codable",
             "updated": 1658799900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/06/publish-creating-content-with-markdown",
             "title": "Publish: Creating Website Content with Markdown",
             "link": "https://www.danijelavrzan.com/posts/2022/06/publish-creating-content-with-markdown",
             "updated": 1656380700,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/06/create-portfolio-website-using-publish",
             "title": "How to Create a Personal Website in Swift using Publish",
             "link": "https://www.danijelavrzan.com/posts/2022/06/create-portfolio-website-using-publish",
             "updated": 1655171100,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/05/why-speak-at-conferences",
             "title": "Why speak at conferences and how to apply",
             "link": "https://www.danijelavrzan.com/posts/2022/05/why-speak-at-conferences",
             "updated": 1653961500,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         },
         {
             "id": "https://www.danijelavrzan.com/posts/2022/05/how-to-test-published-property",
             "title": "How to test @Published property with XCTest",
             "link": "https://www.danijelavrzan.com/posts/2022/05/how-to-test-published-property",
             "updated": 1652751900,
-            "site_name": "Danijela Vrzan's Blog"
+            "site_url": "https://www.danijelavrzan.com/"
         }
     ]
 }

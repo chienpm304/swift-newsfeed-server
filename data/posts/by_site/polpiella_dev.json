@@ -1,677 +1,677 @@
 {
-    "updated": 1714470915,
+    "updated": 1714537248,
     "posts": [
         {
             "id": "https://polpiella.dev/app-store-connect-like-picker-with-swiftui/",
             "title": "Creating an App Store Connect-like picker for macOS with SwiftUI",
             "link": "https://polpiella.dev/app-store-connect-like-picker-with-swiftui/",
             "updated": 1714150800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/swift-6-import-access-level/",
             "title": "Swift 6: Access level on import statements",
             "link": "https://polpiella.dev/swift-6-import-access-level/",
             "updated": 1713286800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/recursive-search-glob-and-regex/",
             "title": "Use Swift to recursively search for content in a directory's files with Glob patterns and Regular Expressions",
             "link": "https://polpiella.dev/recursive-search-glob-and-regex/",
             "updated": 1712768400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/mastering-the-reduce-operator-in-swift/",
             "title": "Master the reduce operator in Swift and make your code more performant",
             "link": "https://polpiella.dev/mastering-the-reduce-operator-in-swift/",
             "updated": 1712077200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/multi-platform-swift-package-releases-with-github-actions/",
             "title": "Multi-platform Swift Package releases with GitHub Actions",
             "link": "https://polpiella.dev/multi-platform-swift-package-releases-with-github-actions/",
             "updated": 1711472400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/analytics-reports-api-app-store-connect/",
             "title": "Generate and read analytics reports from the App Store Connect API",
             "link": "https://polpiella.dev/analytics-reports-api-app-store-connect/",
             "updated": 1710867600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/staged-migrations/",
             "title": "Core Data staged migrations",
             "link": "https://polpiella.dev/staged-migrations/",
             "updated": 1710435600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-to-generate-swift-interfaces-from-pkl-files-with-spm-plugins/",
             "title": "How to generate Swift interfaces from Pkl configuration files using SPM plugins",
             "link": "https://polpiella.dev/how-to-generate-swift-interfaces-from-pkl-files-with-spm-plugins/",
             "updated": 1709658000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/validate-your-xctest-utilities-with-unit-tests/",
             "title": "Validate your XCTest utilities and extensions with unit tests",
             "link": "https://polpiella.dev/validate-your-xctest-utilities-with-unit-tests/",
             "updated": 1709139600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/custom-core-data-migrations/",
             "title": "Custom Core Data migrations",
             "link": "https://polpiella.dev/custom-core-data-migrations/",
             "updated": 1708448400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/cross-platform-app-releases-with-xcode-cloud/",
             "title": "Automating app releases for multiple platforms with Xcode Cloud",
             "link": "https://polpiella.dev/cross-platform-app-releases-with-xcode-cloud/",
             "updated": 1707843600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/setting-up-shareplay-on-an-ios-app-from-scratch/",
             "title": "Setting up SharePlay on an iOS app",
             "link": "https://polpiella.dev/setting-up-shareplay-on-an-ios-app-from-scratch/",
             "updated": 1707238800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/generating-beautiful-open-graph-images-dynamically/",
             "title": "Generating beautiful open-graph images dynamically",
             "link": "https://polpiella.dev/generating-beautiful-open-graph-images-dynamically/",
             "updated": 1706029200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/",
             "title": "Image to image local Stable Diffusion pipelines with ControlNet in Swift",
             "link": "https://polpiella.dev/image-to-image-local-stable-diffusion-pipelines-with-controlnet-and-core-ml/",
             "updated": 1705424400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/stay-up-to-date-as-a-software-developer/",
             "title": "How I stay up to date as a software developer",
             "link": "https://polpiella.dev/stay-up-to-date-as-a-software-developer/",
             "updated": 1704819600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/stable-diffusion-swift-apps/",
             "title": "How to use Stable Diffusion models in a Swift app",
             "link": "https://polpiella.dev/stable-diffusion-swift-apps/",
             "updated": 1704214800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/looking-back-at-my-2023/",
             "title": "Looking back at my 2023",
             "link": "https://polpiella.dev/looking-back-at-my-2023/",
             "updated": 1703523600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/most-played-apple-music/",
             "title": "How to get the most played Apple Music songs and albums using Swift",
             "link": "https://polpiella.dev/most-played-apple-music/",
             "updated": 1703005200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/enable-upcoming-swift-features-in-spm/",
             "title": "Enable upcoming Swift features",
             "link": "https://polpiella.dev/enable-upcoming-swift-features-in-spm/",
             "updated": 1702400400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/cocoapods-swift-macros/",
             "title": "Distributing a Swift Macro using CocoaPods",
             "link": "https://polpiella.dev/cocoapods-swift-macros/",
             "updated": 1701795600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/binary-swift-macros/",
             "title": "How to import Swift macros without using Swift Package Manager",
             "link": "https://polpiella.dev/binary-swift-macros/",
             "updated": 1701190800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/swift-sdks/",
             "title": "Using Swift SDKs to cross-compile Swift packages to Linux",
             "link": "https://polpiella.dev/swift-sdks/",
             "updated": 1700758800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/core-data-migration-app-group/",
             "title": "Migrating a Core Data store to an App Group shared container",
             "link": "https://polpiella.dev/core-data-migration-app-group/",
             "updated": 1699981200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/swift-testing/",
             "title": "An early look at the future of testing with swift-testing",
             "link": "https://polpiella.dev/swift-testing/",
             "updated": 1699376400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/running-swift-on-widnows-with-gha/",
             "title": "Building and testing Swift packages on Windows using GitHub Actions",
             "link": "https://polpiella.dev/running-swift-on-widnows-with-gha/",
             "updated": 1698771600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/launching-a-swiftui-view-from-the-terminal/",
             "title": "Launching a SwiftUI view from the terminal",
             "link": "https://polpiella.dev/launching-a-swiftui-view-from-the-terminal/",
             "updated": 1697562000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/info-plist-swift-cli/",
             "title": "Adding an Info.plist file to a Swift executable",
             "link": "https://polpiella.dev/info-plist-swift-cli/",
             "updated": 1696957200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/core-data-and-swift-data/",
             "title": "Using Core Data and Swift Data side by side",
             "link": "https://polpiella.dev/core-data-and-swift-data/",
             "updated": 1696438800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/musickit-and-app-clips/",
             "title": "MusicKit and App Clips",
             "link": "https://polpiella.dev/musickit-and-app-clips/",
             "updated": 1695747600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/create-app-clips/",
             "title": "How to create an App Clip for your app",
             "link": "https://polpiella.dev/create-app-clips/",
             "updated": 1695142800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/",
             "title": "Swift on Linux CI/CD using swiftly",
             "link": "https://polpiella.dev/setting-up-swift-on-linux-ci-cd-using-swiftly/",
             "updated": 1694538000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/xcode-15-automated-accessibility-audits/",
             "title": "Xcode 15: Automated accessibility audits",
             "link": "https://polpiella.dev/xcode-15-automated-accessibility-audits/",
             "updated": 1693328400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/",
             "title": "Named capture groups in Swift regular expressions",
             "link": "https://polpiella.dev/named-capture-groups-in-swift-regular-expressions/",
             "updated": 1692723600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/mapkit-and-swiftui-searchable-map/",
             "title": "Building a searchable map with SwiftUI and MapKit",
             "link": "https://polpiella.dev/mapkit-and-swiftui-searchable-map/",
             "updated": 1692118800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/qreate-drag-and-drop/",
             "title": "Delightful SwiftUI image drag & drop for a macOS app",
             "link": "https://polpiella.dev/qreate-drag-and-drop/",
             "updated": 1691514000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/scheduled-swift-aws-lambdas/",
             "title": "Scheduled Swift AWS lambdas",
             "link": "https://polpiella.dev/scheduled-swift-aws-lambdas/",
             "updated": 1690909200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/show-app-icon-and-version-in-a-swiftui-view/",
             "title": "How to show the app icon and version in a SwiftUI view",
             "link": "https://polpiella.dev/show-app-icon-and-version-in-a-swiftui-view/",
             "updated": 1690304400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/",
             "title": "Load custom fonts into your app using Swift Package Plugins",
             "link": "https://polpiella.dev/load-custom-fonts-with-no-code-using-swift-package-plugins/",
             "updated": 1688490000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/configuring-swiftdata-in-a-swiftui-app/",
             "title": "Configuring SwiftData in a SwiftUI app",
             "link": "https://polpiella.dev/configuring-swiftdata-in-a-swiftui-app/",
             "updated": 1687885200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/understanding-mergeable-libraries/",
             "title": "Understanding mergeable libraries",
             "link": "https://polpiella.dev/understanding-mergeable-libraries/",
             "updated": 1687280400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/version-specific-package-manifests/",
             "title": "Version-specific Package.swift files",
             "link": "https://polpiella.dev/version-specific-package-manifests/",
             "updated": 1686675600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/setting-testflight-test-notes-for-xcode-cloud-builds/",
             "title": "Xcode Cloud: Generating and translating TestFlight test notes automatically",
             "link": "https://polpiella.dev/setting-testflight-test-notes-for-xcode-cloud-builds/",
             "updated": 1686243600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/automatic-deployment-of-swift-aws-lambdas-on-ci-cd/",
             "title": "Automatic deployment of Swift AWS lambdas on CI/CD",
             "link": "https://polpiella.dev/automatic-deployment-of-swift-aws-lambdas-on-ci-cd/",
             "updated": 1685466000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/private-swift-packages-on-ci-cd/",
             "title": "Private Swift packages on CI/CD",
             "link": "https://polpiella.dev/private-swift-packages-on-ci-cd/",
             "updated": 1684861200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-we-avoided-a-big-refactor-with-the-exported-attribute/",
             "title": "How to avoid a big refactor with the @_exported attribute",
             "link": "https://polpiella.dev/how-we-avoided-a-big-refactor-with-the-exported-attribute/",
             "updated": 1684256400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-to-launch-an-app-from-a-safari-extension/",
             "title": "How to launch a macOS SwiftUI app from a Safari extension",
             "link": "https://polpiella.dev/how-to-launch-an-app-from-a-safari-extension/",
             "updated": 1683651600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-to-save-swiftui-views-as-images-in-macos/",
             "title": "Export SwiftUI views as images in macOS",
             "link": "https://polpiella.dev/how-to-save-swiftui-views-as-images-in-macos/",
             "updated": 1683046800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/github-action-workflows-side-effects/",
             "title": "GitHub Actions workflows side effects",
             "link": "https://polpiella.dev/github-action-workflows-side-effects/",
             "updated": 1682442000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/scheduling-app-releases-with-xcode-cloud/",
             "title": "Scheduling app releases with Xcode Cloud",
             "link": "https://polpiella.dev/scheduling-app-releases-with-xcode-cloud/",
             "updated": 1681837200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-to-deploy-beta-versions-of-your-app-to-testflight-and-appcenter-with-xcode-cloud/",
             "title": "Deploying beta versions of your app to TestFlight and AppCenter using Xcode Cloud",
             "link": "https://polpiella.dev/how-to-deploy-beta-versions-of-your-app-to-testflight-and-appcenter-with-xcode-cloud/",
             "updated": 1681232400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/automating-swift-package-releases-with-github-actions/",
             "title": "Automating Swift command line tool releases with GitHub Actions",
             "link": "https://polpiella.dev/automating-swift-package-releases-with-github-actions/",
             "updated": 1680627600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/xcode-cloud-webhooks/",
             "title": "Collecting Xcode Cloud metrics using webhooks",
             "link": "https://polpiella.dev/xcode-cloud-webhooks/",
             "updated": 1680022800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/swiftui-editable-list-text-items/",
             "title": "Making macOS SwiftUI text views editable on click",
             "link": "https://polpiella.dev/swiftui-editable-list-text-items/",
             "updated": 1679418000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/github-webhooks-and-xcode-cloud/",
             "title": "GitHub webhooks \ud83e\udd1d Xcode Cloud",
             "link": "https://polpiella.dev/github-webhooks-and-xcode-cloud/",
             "updated": 1678813200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/",
             "title": "How to make an interactive picker for a Swift command-line tool",
             "link": "https://polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/",
             "updated": 1678208400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/managing-xcode-installs-using-fastlane/",
             "title": "Managing multiple Xcode versions on CI using Fastlane",
             "link": "https://polpiella.dev/managing-xcode-installs-using-fastlane/",
             "updated": 1677603600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/network-requests-in-swift-package-plugins/",
             "title": "Coming in Swift 5.9: Network requests in Swift package plugins",
             "link": "https://polpiella.dev/network-requests-in-swift-package-plugins/",
             "updated": 1676998800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/",
             "title": "Safely pinning SPM dependencies to exact versions",
             "link": "https://polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/",
             "updated": 1676394000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/",
             "title": "Using App Store Connect API to trigger Xcode Cloud workflows",
             "link": "https://polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/",
             "updated": 1675789200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/",
             "title": "Changing orientation for a single screen in SwiftUI",
             "link": "https://polpiella.dev/changing-orientation-for-a-single-screen-in-swiftui/",
             "updated": 1675184400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/",
             "title": "Scheduling tweets with GitHub Actions and Swift",
             "link": "https://polpiella.dev/scheduling-tweets-with-github-actions-and-swift/",
             "updated": 1674579600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/making-a-serverless-swift-function-with-fastly-and-upstash/",
             "title": "Making a serverless Swift function with Fastly and Upstash",
             "link": "https://polpiella.dev/making-a-serverless-swift-function-with-fastly-and-upstash/",
             "updated": 1673974800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/fastlane-appstore-connect-api-and-github-actions/",
             "title": "Fastlane and App Store Connect API keys",
             "link": "https://polpiella.dev/fastlane-appstore-connect-api-and-github-actions/",
             "updated": 1673370000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/",
             "title": "Xcode Cloud scripts: Fastlane and Cocoapods",
             "link": "https://polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/",
             "updated": 1672765200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/looking-back-at-my-2022/",
             "title": "Looking back at my 2022",
             "link": "https://polpiella.dev/looking-back-at-my-2022/",
             "updated": 1672160400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/managing-multiple-swift-versions-locally/",
             "title": "Managing multiple versions of Swift locally",
             "link": "https://polpiella.dev/managing-multiple-swift-versions-locally/",
             "updated": 1671555600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/configuring-ui-tests-with-launch-arguments/",
             "title": "Configuring UI tests with launch arguments",
             "link": "https://polpiella.dev/configuring-ui-tests-with-launch-arguments/",
             "updated": 1670950800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/swift-async-await-in-aws-lambdas/",
             "title": "Swift async/await in AWS lambdas",
             "link": "https://polpiella.dev/swift-async-await-in-aws-lambdas/",
             "updated": 1670346000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/collecting-gihub-actions-workflow-metrics-with-swift/",
             "title": "Collecting GitHub Action workflow metrics using Swift",
             "link": "https://polpiella.dev/collecting-gihub-actions-workflow-metrics-with-swift/",
             "updated": 1669741200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/testing-your-release-pipeline-using-fastlane/",
             "title": "Testing your release pipeline using Fastlane",
             "link": "https://polpiella.dev/testing-your-release-pipeline-using-fastlane/",
             "updated": 1668790800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/a-menu-bar-only-macos-app-using-appkit/",
             "title": "A menu bar only macOS app using AppKit",
             "link": "https://polpiella.dev/a-menu-bar-only-macos-app-using-appkit/",
             "updated": 1666717200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/platform-specific-code-in-swift-packages/",
             "title": "Platform specific code in Swift Packages",
             "link": "https://polpiella.dev/platform-specific-code-in-swift-packages/",
             "updated": 1664989200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/handling-multiple-git-ssh-keys/",
             "title": "Handling multiple git SSH keys",
             "link": "https://polpiella.dev/handling-multiple-git-ssh-keys/",
             "updated": 1664211600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/sourcery-swift-package-command-plugin/",
             "title": "Sourcery Swift Package command plugin",
             "link": "https://polpiella.dev/sourcery-swift-package-command-plugin/",
             "updated": 1661878800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/my-new-swift-package-reading-time/",
             "title": "My new Swift Package: ReadingTime",
             "link": "https://polpiella.dev/my-new-swift-package-reading-time/",
             "updated": 1660669200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/from-nsregular-expression-to-swift-regex/",
             "title": "From NSRegularExpression to SwiftRegex",
             "link": "https://polpiella.dev/from-nsregular-expression-to-swift-regex/",
             "updated": 1660150800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/advances-in-swift-package-access-control/",
             "title": "Advances in Swift Package Manager's dependency access control",
             "link": "https://polpiella.dev/advances-in-swift-package-access-control/",
             "updated": 1659459600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/modularised-app-localisation/",
             "title": "Localising a modularised application",
             "link": "https://polpiella.dev/modularised-app-localisation/",
             "updated": 1658854800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/code-generation-using-swift-package-plugins/",
             "title": "Code generation using Swift Package Plugins",
             "link": "https://polpiella.dev/code-generation-using-swift-package-plugins/",
             "updated": 1656954000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/my-first-contribution-to-fastlane/",
             "title": "My first contribution to Fastlane",
             "link": "https://polpiella.dev/my-first-contribution-to-fastlane/",
             "updated": 1654102800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/scripting-in-swift-git-hooks/",
             "title": "Scripting in Swift: Git Hooks",
             "link": "https://polpiella.dev/scripting-in-swift-git-hooks/",
             "updated": 1652461200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/binary-targets-in-modern-swift-packages/",
             "title": "Binary targets in modern Swift packages",
             "link": "https://polpiella.dev/binary-targets-in-modern-swift-packages/",
             "updated": 1651856400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/building-layouts-with-accessibility-in-mind-part-2/",
             "title": "Building layouts with accessibility in mind - Part 2",
             "link": "https://polpiella.dev/building-layouts-with-accessibility-in-mind-part-2/",
             "updated": 1648659600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/building-layouts-with-accessibility-in-mind-part-1/",
             "title": "Building layouts with accessibility in mind - Part 1",
             "link": "https://polpiella.dev/building-layouts-with-accessibility-in-mind-part-1/",
             "updated": 1647277200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/embedding-a-dylib-in-a-swift-package/",
             "title": "Embedding a dylib in a Swift Package",
             "link": "https://polpiella.dev/embedding-a-dylib-in-a-swift-package/",
             "updated": 1644598800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/an-early-look-at-swift-extensible-build-tools/",
             "title": "An early look at Swift extensible build tools",
             "link": "https://polpiella.dev/an-early-look-at-swift-extensible-build-tools/",
             "updated": 1642784400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/asserting-errors-from-throwing-functions/",
             "title": "Asserting errors from throwing functions",
             "link": "https://polpiella.dev/asserting-errors-from-throwing-functions/",
             "updated": 1642266000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/writing-my-personal-blog-site/",
             "title": "Why I wrote my personal blog site",
             "link": "https://polpiella.dev/writing-my-personal-blog-site/",
             "updated": 1640106000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/cancelling-unnecessary-github-actions-automatically/",
             "title": "Cancelling unnecessary GitHub actions automatically",
             "link": "https://polpiella.dev/cancelling-unnecessary-github-actions-automatically/",
             "updated": 1637859600,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/custom-key-decoding-strategies-in-swift/",
             "title": "Custom key decoding strategies in Swift",
             "link": "https://polpiella.dev/custom-key-decoding-strategies-in-swift/",
             "updated": 1635872400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/avoiding-code-repetition-with-property-wrappers/",
             "title": "Using Property Wrappers to avoid code repetition",
             "link": "https://polpiella.dev/avoiding-code-repetition-with-property-wrappers/",
             "updated": 1629824400,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern/",
             "title": "Hiding implementation details using the adapter pattern in Swift",
             "link": "https://polpiella.dev/hide-implementation-details-using-the-adapter-pattern/",
             "updated": 1627750800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/updating-your-profile-readme-with-github-actions/",
             "title": "How I use GitHub Actions to update my GitHub profile",
             "link": "https://polpiella.dev/updating-your-profile-readme-with-github-actions/",
             "updated": 1626282000,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/testing-dates-consistently/",
             "title": "Testing dates consistently",
             "link": "https://polpiella.dev/testing-dates-consistently/",
             "updated": 1625158800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/clean-architecture-a-feature-flag-provider/",
             "title": "Clean Architecture: A Feature Flag Manager",
             "link": "https://polpiella.dev/clean-architecture-a-feature-flag-provider/",
             "updated": 1620925200,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         },
         {
             "id": "https://polpiella.dev/the-power-of-the-switchtolatest-operator/",
             "title": "Using .switchToLatest()",
             "link": "https://polpiella.dev/the-power-of-the-switchtolatest-operator/",
             "updated": 1619542800,
-            "site_name": "Pol Piella's Blog"
+            "site_url": "https://www.polpiella.dev"
         }
     ]
 }

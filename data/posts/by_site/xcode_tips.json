@@ -1,75 +1,75 @@
 {
-    "updated": 1714471027,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://xcode.tips/select-next-occurrence",
             "title": "Select Next Occurrence",
             "link": "https://xcode.tips/select-next-occurrence/",
             "updated": 1708300800,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/mark-bookmark-as-complete",
             "title": "Mark Bookmark As Complete",
             "link": "https://xcode.tips/mark-bookmark-as-complete/",
             "updated": 1705881600,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/quickly-open-bookmark",
             "title": "Quickly Open Bookmark",
             "link": "https://xcode.tips/quickly-open-bookmark/",
             "updated": 1705276800,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/bookmark-description",
             "title": "Bookmark Description",
             "link": "https://xcode.tips/bookmark-description/",
             "updated": 1701129600,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/line-bookmark",
             "title": "Line Bookmark",
             "link": "https://xcode.tips/line-bookmark/",
             "updated": 1698109200,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/find-ancestor-types",
             "title": "Find Ancestor Types",
             "link": "https://xcode.tips/find-ancestor-types/",
             "updated": 1697418000,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/format-to-multiple-lines",
             "title": "Format to Multiple Lines",
             "link": "https://xcode.tips/format-to-multiple-lines/",
             "updated": 1696813200,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/quick-actions",
             "title": "Quick Actions",
             "link": "https://xcode.tips/quick-actions/",
             "updated": 1696294800,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/show-only-errors",
             "title": "Show Only Errors",
             "link": "https://xcode.tips/show-only-errors/",
             "updated": 1692579600,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         },
         {
             "id": "https://xcode.tips/simulator-dynamic-type",
             "title": "Simulator: Dynamic Type",
             "link": "https://xcode.tips/simulator-dynamic-type/",
             "updated": 1691974800,
-            "site_name": "Xcode.tips"
+            "site_url": "https://xcode.tips"
         }
     ]
 }

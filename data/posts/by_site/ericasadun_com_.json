@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://ericasadun.com/?p=6930",
             "title": "Piping stdout and stderr to Preview",
             "link": "https://ericasadun.com/2021/08/19/piping-stdout-and-stderr-to-preview/",
             "updated": 1629378170,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6922",
             "title": "Xcode: Vimpocalypse Now",
             "link": "https://ericasadun.com/2021/06/08/xcode-vimpocalypse-now/",
             "updated": 1623147202,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6913",
             "title": "Controlling Screen Sharing from the command line",
             "link": "https://ericasadun.com/2021/05/13/controlling-screen-sharing-from-the-command-line/",
             "updated": 1620908976,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6904",
             "title": "Crafting a custom word count service",
             "link": "https://ericasadun.com/2021/04/14/crafting-a-custom-word-count-service/",
             "updated": 1618395360,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6885",
             "title": "Pasting quoted code perfectly",
             "link": "https://ericasadun.com/2020/07/20/pasting-quoted-code-perfectly/",
             "updated": 1595274069,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6875",
             "title": "Executing command-line directly from Xcode",
             "link": "https://ericasadun.com/2020/07/15/executing-command-line-directly-from-xcode/",
             "updated": 1594803273,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6859",
             "title": "A different way to develop SwiftPM Packages inside Xcode projects",
             "link": "https://ericasadun.com/2020/07/08/a-different-way-to-develop-swiftpm-packages-inside-xcode-projects/",
             "updated": 1594237120,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6849",
             "title": "The (Switch) Case of the Missing Binding",
             "link": "https://ericasadun.com/2020/07/07/the-switch-case-of-the-missing-binding/",
             "updated": 1594118099,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6847",
             "title": "Well that was a surprisingly bad Apple Store experience\u2026",
             "link": "https://ericasadun.com/2020/07/03/well-that-was-a-surprisingly-bad-apple-store-experience/",
             "updated": 1593793368,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         },
         {
             "id": "https://ericasadun.com/?p=6843",
             "title": "Importing Web-based SwiftPM packages to your Xcode Playground",
             "link": "https://ericasadun.com/2020/07/03/importing-web-based-swiftpm-packages-to-your-xcode-playground/",
             "updated": 1593776806,
-            "site_name": "Erica Sadun\u2019s Blog"
+            "site_url": "https://ericasadun.com/"
         }
     ]
 }

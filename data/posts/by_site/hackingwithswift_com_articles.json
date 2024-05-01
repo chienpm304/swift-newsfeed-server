@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch",
             "title": "Shipping a visionOS app for launch",
             "link": "https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch",
             "updated": 1706704512,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/264/take-on-visionos-at-unwrap-live-2024",
             "title": "Take on visionOS at Unwrap Live 2024",
             "link": "https://www.hackingwithswift.com/articles/264/take-on-visionos-at-unwrap-live-2024",
             "updated": 1704696048,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata",
             "title": "Build your first app with SwiftUI and SwiftData",
             "link": "https://www.hackingwithswift.com/articles/263/build-your-first-app-with-swiftui-and-swiftdata",
             "updated": 1703346078,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/262/introducing-inferno-metal-shaders-for-swiftui",
             "title": "Introducing Inferno: Metal shaders for SwiftUI",
             "link": "https://www.hackingwithswift.com/articles/262/introducing-inferno-metal-shaders-for-swiftui",
             "updated": 1700113618,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/261/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better",
             "title": "I screwed up one key accessibility behavior, and now I'm on a mission to do better",
             "link": "https://www.hackingwithswift.com/articles/261/i-screwed-up-one-key-accessibility-behavior-and-now-i-m-on-a-mission-to-do-better",
             "updated": 1687487576,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/260/whats-new-in-swiftui-for-ios-17",
             "title": "What\u2019s new in SwiftUI for iOS 17",
             "link": "https://www.hackingwithswift.com/articles/260/whats-new-in-swiftui-for-ios-17",
             "updated": 1686878794,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/259/hacking-with-swift-live-2023",
             "title": "Hacking with Swift Live 2023",
             "link": "https://www.hackingwithswift.com/articles/259/hacking-with-swift-live-2023",
             "updated": 1686810449,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9",
             "title": "What\u2019s new in Swift 5.9?",
             "link": "https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9",
             "updated": 1685742769,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/257/now-available-to-pre-order-swift-against-humanity",
             "title": "Now available to pre-order: Swift Against Humanity",
             "link": "https://www.hackingwithswift.com/articles/257/now-available-to-pre-order-swift-against-humanity",
             "updated": 1680322247,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8",
             "title": "What's new in Swift 5.8",
             "link": "https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8",
             "updated": 1678247761,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/255/swiftui-by-example-now-updated-for-ios-16",
             "title": "SwiftUI by Example: Now updated for iOS 16",
             "link": "https://www.hackingwithswift.com/articles/255/swiftui-by-example-now-updated-for-ios-16",
             "updated": 1669905696,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/254/wwdc22-wrap-up-and-recommended-talks",
             "title": "WWDC22: Wrap up and recommended talks",
             "link": "https://www.hackingwithswift.com/articles/254/wwdc22-wrap-up-and-recommended-talks",
             "updated": 1655998047,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/253/how-to-use-inner-shadows-to-simulate-depth-with-swiftui-and-core-motion",
             "title": "How to use inner shadows to simulate depth with SwiftUI and Core Motion",
             "link": "https://www.hackingwithswift.com/articles/253/how-to-use-inner-shadows-to-simulate-depth-with-swiftui-and-core-motion",
             "updated": 1655974940,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/252/8-things-i-wish-i-knew-when-i-started-programming",
             "title": "8 Things I Wish I Knew When I Started Programming",
             "link": "https://www.hackingwithswift.com/articles/252/8-things-i-wish-i-knew-when-i-started-programming",
             "updated": 1655436528,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14",
             "title": "What\u2019s new in Xcode 14?",
             "link": "https://www.hackingwithswift.com/articles/251/whats-new-in-xcode-14",
             "updated": 1655220001,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16",
             "title": "What\u2019s new in SwiftUI for iOS 16",
             "link": "https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16",
             "updated": 1654568863,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/249/whats-new-in-swift-5-7",
             "title": "What\u2019s new in Swift 5.7",
             "link": "https://www.hackingwithswift.com/articles/249/whats-new-in-swift-5-7",
             "updated": 1654508132,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/248/swift-core-team-to-swift-bloggers-please-for-the-love-of-all-things-holy-find-a-different-color-than-orange",
             "title": "Swift Core Team to Swift bloggers: \u201cPlease, for the love of all things holy, find a different color than orange\u201d",
             "link": "https://www.hackingwithswift.com/articles/248/swift-core-team-to-swift-bloggers-please-for-the-love-of-all-things-holy-find-a-different-color-than-orange",
             "updated": 1648777939,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/247/whats-new-in-swift-5-6",
             "title": "What\u2019s new in Swift 5.6?",
             "link": "https://www.hackingwithswift.com/articles/247/whats-new-in-swift-5-6",
             "updated": 1646206626,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         },
         {
             "id": "https://www.hackingwithswift.com/articles/246/special-effects-with-swiftui",
             "title": "Special Effects with SwiftUI",
             "link": "https://www.hackingwithswift.com/articles/246/special-effects-with-swiftui",
             "updated": 1643189452,
-            "site_name": "Hacking with Swift"
+            "site_url": "https://www.hackingwithswift.com/articles"
         }
     ]
 }

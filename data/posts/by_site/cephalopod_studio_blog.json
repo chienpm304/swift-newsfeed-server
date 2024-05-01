@@ -1,138 +1,138 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:63f004b7326a897b2256de5a",
             "title": "Neural Networks from Scratch: A Gentle-Yet-Thorough Explanation with Swift, SwiftUI & Charts (+ a Surprise at the End)",
             "link": "https://www.cephalopod.studio/blog/a-casual-yet-thorough-amp-hands-on-explanation-of-neural-networks-with-swift-swiftui-and-charts",
             "updated": 1678694241,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:6396934300144c289d4aed6a",
             "title": "Adventures in AI Ethics Part 2: Stable Diffusion v2 and the Curse of Scale",
             "link": "https://www.cephalopod.studio/blog/adventures-in-ai-ethics-part-2-stable-diffusion-v2-and-the-curse-of-scale",
             "updated": 1670788145,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:6363cd37a2a94049d6326b09",
             "title": "On Creating an On-Device Stable Diffusion App, & Deciding Not to Release It: Adventures in AI Ethics",
             "link": "https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics",
             "updated": 1667463019,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:62abd4d50ce94e0f2ab942cd",
             "title": "The Secret iOS Database Syncing Option You Didn\u2019t Know About, for iPad on Swift Playgrounds & Beyond",
             "link": "https://www.cephalopod.studio/blog/the-secret-ios-database-syncing-option-you-didnt-know-about-for-ipad-on-swift-playgrounds-amp-beyond",
             "updated": 1655461475,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:62520a6f02394d1878e27623",
             "title": "How to create in-App Purchases in Apps made on iPad w/ Swift Playgrounds",
             "link": "https://www.cephalopod.studio/blog/making-money-by-developing-apps-on-ipads-swift-playgrounds-the-code-part-",
             "updated": 1649703371,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:61cf4a70687d811f422188cd",
             "title": "Lessons from Developing an App on the iPad in Swift Playgrounds from Start to Finish (Including Publishing on the App Store)",
             "link": "https://www.cephalopod.studio/blog/lessons-from-developing-an-app-on-the-ipad-from-start-to-finish-on-the-app-store",
             "updated": 1641332430,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:61ba99d20a5a5d647b072d4f",
             "title": "Build an App on iPad with Swift Playgrounds and Core Data",
             "link": "https://www.cephalopod.studio/blog/build-an-app-on-ipad-with-swift-playgrounds-and-core-data",
             "updated": 1639595724,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:60cabbaa43e0a637d8427e08",
             "title": "Introducing Pearl: Wellness Reminders",
             "link": "https://www.cephalopod.studio/blog/introducing-pearl-wellness-reminders",
             "updated": 1623874582,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:60c165adf5075a24b527f91e",
             "title": "Make your own 3D models: WWDC 2021 Photogrammetry (I am legit surprised it actually worked)",
             "link": "https://www.cephalopod.studio/blog/wwdc-2021-photogrammetry-make-your-own-3d-models-and-somehow-it-actually-worked",
             "updated": 1623269887,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:60a15fe547784213e05eb704",
             "title": "PDF Capture App Part 7: Summary & Epilogue",
             "link": "https://www.cephalopod.studio/blog/pdf-capture-app-part-7-summary-amp-epilogue",
             "updated": 1621165347,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:609dd9e96456e909485cc6d4",
             "title": "Making a PDF Capture App Part 6: The OCR Endgame",
             "link": "https://www.cephalopod.studio/blog/making-a-pdf-capture-app-part-6-endgame",
             "updated": 1621069693,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:6071f863e7d4c31b0d3b8a93",
             "title": "Refining Accessibility: Lessons Learned",
             "link": "https://www.cephalopod.studio/blog/refining-accessibility-lessons-learned",
             "updated": 1618170511,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:6068e18ee86fd05efdf8b943",
             "title": "PDF Capture App Part 5: Defeating the Boss",
             "link": "https://www.cephalopod.studio/blog/pdf-capture-app-part-5-defeating-the-boss",
             "updated": 1617472810,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:6060b92a4f9237430a106c1f",
             "title": "SwiftUI Aurora Background Animation",
             "link": "https://www.cephalopod.studio/blog/swiftui-aurora-background-animation",
             "updated": 1616933793,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:60560491552222411a030d41",
             "title": "PDF Capture App - Part 4: SwiftUI Pro tip & PDF editing.",
             "link": "https://www.cephalopod.studio/blog/pdf-capture-app-part-4-swiftui-pro-tip-amp-pdf-editing",
             "updated": 1616356756,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:603b0ea08946b51eb2d84651",
             "title": "Making PDF Capture App - Part 3",
             "link": "https://www.cephalopod.studio/blog/making-pdf-capture-app-part-3",
             "updated": 1615836317,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:603afa56cff2a6488706223a",
             "title": "Making a PDF Capture App - Part 2",
             "link": "https://www.cephalopod.studio/blog/making-a-pdf-capture-app-part-2",
             "updated": 1615316816,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:603ae8242d7e382fa9f4718c",
             "title": "Making a PDF Capture App - Part 1",
             "link": "https://www.cephalopod.studio/blog/making-a-pdf-capture-app-part-1",
             "updated": 1614450746,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         },
         {
             "id": "5ff86ecddd4cdc650b260a12:5ff86ff260ca1365b35be746:5ff87008d88d0c4f572e0d64",
             "title": "Let\u2019s get started",
             "link": "https://www.cephalopod.studio/blog/lets-get-started",
             "updated": 1610091979,
-            "site_name": "Cephalopod Studio"
+            "site_url": "https://www.cephalopod.studio/blog"
         }
     ]
 }

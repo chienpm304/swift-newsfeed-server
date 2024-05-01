@@ -1,278 +1,278 @@
 {
-    "updated": 1714471111,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "9b216c90-91ea-49a6-8e35-8d6b0d57f733",
             "title": "43: Now I\u2019m worried our metrics aren\u2019t correct! with special guest Holly Borla",
             "link": "https://share.transistor.fm/s/2d4b1ba7",
             "updated": 1714032000,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "3aeec73d-5e90-442d-a36c-613e501235f7",
             "title": "42: We need a \u201cNo one expects the Spanish inquisition\u201c sound effect",
             "link": "https://share.transistor.fm/s/c118cc9c",
             "updated": 1712822400,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "ac08314d-9c6d-4785-8cab-2b866fb0472f",
             "title": "41: Breaking our \u201cskipping episodes\u201d streak",
             "link": "https://share.transistor.fm/s/861890bb",
             "updated": 1711008000,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "5cb6c0bc-79fa-4891-9540-07de1296a7fe",
             "title": "40: This downtime was a joint effort",
             "link": "https://share.transistor.fm/s/a452cfcd",
             "updated": 1706169600,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "5092932a-f0bb-45f7-bf43-ebfbfc0894f9",
             "title": "39: Stress testing dependency management",
             "link": "https://share.transistor.fm/s/f4e9d9fc",
             "updated": 1704969459,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "b32b5486-030d-49e8-a21f-c42a675b6812",
             "title": "38: This is the least researched podcast in the history of podcasting",
             "link": "https://share.transistor.fm/s/f744b457",
             "updated": 1701936000,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "da467555-99c3-416a-b22c-5a8543f9482f",
             "title": "37: With praise, you can include me, but any blame goes to Dave",
             "link": "https://share.transistor.fm/s/de52cb62",
             "updated": 1700133013,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "bf6a8423-a980-4dd3-9091-47874894185f",
             "title": "36: Even though the bug is fixed, it's not over!",
             "link": "https://share.transistor.fm/s/b443c944",
             "updated": 1698324562,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "1e05eedb-65c3-4e41-beec-0d5ca71391bb",
             "title": "35: It\u2019s like a broccoli-eating competition. You can cheat by eating more broccoli, but you just end up more healthy",
             "link": "https://share.transistor.fm/s/1ebf272b",
             "updated": 1696492800,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "18bea151-4556-4c53-b106-05ee34ace8d2",
             "title": "34: Here are some packages. They may do interesting things",
             "link": "https://share.transistor.fm/s/744ced7d",
             "updated": 1695283200,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "48832ea5-6918-493e-adc3-101fdf232770",
             "title": "33: We had some success, but it never saw the light of day",
             "link": "https://share.transistor.fm/s/079cdc38",
             "updated": 1693468800,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "4688a562-92e0-4c63-b6f3-a3c5fb22afc6",
             "title": "32: Which of your dependencies are load-bearing?",
             "link": "https://share.transistor.fm/s/661ad422",
             "updated": 1691663415,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "45987c77-b378-4c37-bb69-4266ea04d3f4",
             "title": "31: Recommended by the Ministry of \"How hard can it be?\"",
             "link": "https://share.transistor.fm/s/49376459",
             "updated": 1690444800,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "cd628589-2a42-49ed-95ce-24619eb2ce09",
             "title": "30: I saw the rabbit hole you went down, and I hope you came out the other side of it",
             "link": "https://share.transistor.fm/s/30ab7287",
             "updated": 1689235200,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "648503d2-8fea-40e2-8365-d33f7438fa5e",
             "title": "29: Are you saying that visionOS is more important than my sitemap?",
             "link": "https://share.transistor.fm/s/28f3d453",
             "updated": 1688030660,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "ab799e60-64cd-4c25-8a3c-0d20cec5df70",
             "title": "28: Your secrets are safe with us, we\u2019ll forget them immediately!",
             "link": "https://share.transistor.fm/s/ea18ec7b",
             "updated": 1686816000,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "df6aacfb-348e-421f-a3c9-7d5666648215",
             "title": "27: Swift 5.9, WWDC, AR/VR/MR, and package recommendations",
             "link": "https://share.transistor.fm/s/400d0291",
             "updated": 1685612481,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "3e19a064-844c-4076-82bd-0639dde38536",
             "title": "26: Swift on Windows, Wasm, SPI source code quiz, and package recommendations",
             "link": "https://share.transistor.fm/s/4d58ccbd",
             "updated": 1684396800,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "38eed0ea-286b-4472-a3ee-659887bbc33d",
             "title": "25: ChatGPT API exploration, SPI Playgrounds, Manifest validation, and package recommendations",
             "link": "https://share.transistor.fm/s/fdc10878",
             "updated": 1683198273,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "0b6a134b-69ab-46e9-b595-b8546af25ef5",
             "title": "24: Apple sponsorship Q&A and our package recommendations",
             "link": "https://share.transistor.fm/s/193dca6d",
             "updated": 1681977600,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "4a8d8274-d952-49ab-8f9d-3221216aa4b0",
             "title": "23: Site availability testing, Linux-only packages, and package recommendations",
             "link": "https://share.transistor.fm/s/dcf3bd5a",
             "updated": 1679558400,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "06bd77ab-299c-4c6c-8810-4033d2a1f8b1",
             "title": "22: Search ranking, building documentation on Linux, OpenAI, and package recommendations",
             "link": "https://share.transistor.fm/s/6ee97394",
             "updated": 1678349631,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "679c99f0-0402-4faa-ba8c-9754455c35ce",
             "title": "21: Swift Charts, over 300 documented packages, collaborative Markdown editors, and package recommendations",
             "link": "https://share.transistor.fm/s/8d32259b",
             "updated": 1677139200,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "bcc0e35d-5997-4498-bf11-7876e660132a",
             "title": "20: SPI in 2049, new \u201cSupporters\u201d page, and MacWhisper audio transcription",
             "link": "https://share.transistor.fm/s/536a0925",
             "updated": 1675941121,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "97c43b85-4355-4087-944d-2ad5a35abb9c",
             "title": "19: The SPI project is growing up, DocC uploading with AWS Lambda, and Are we server yet?",
             "link": "https://share.transistor.fm/s/9c8cada4",
             "updated": 1674781200,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "7152ca9b-0ca3-4b98-9a5e-92a3d13991bd",
             "title": "Episode 18",
             "link": "https://share.transistor.fm/s/d01d6184",
             "updated": 1673509217,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "4263a2c1-4663-453b-8cc4-54f89bbc688a",
             "title": "Episode 17",
             "link": "https://share.transistor.fm/s/3b59a19f",
             "updated": 1671696000,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "dab2fe05-8d82-4410-b7f9-bb95b93bfc85",
             "title": "Episode 16",
             "link": "https://share.transistor.fm/s/12314f50",
             "updated": 1670486400,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "ee207e79-0c22-4e1b-8408-26530f654c61",
             "title": "Episode 15",
             "link": "https://share.transistor.fm/s/c3a7e147",
             "updated": 1669619204,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "88f287eb-d796-48f3-a433-6e753ba34b94",
             "title": "Episode 14",
             "link": "https://share.transistor.fm/s/6b377449",
             "updated": 1668076860,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "0bdb62ce-1d3c-4644-96c6-dffc38fc3b9d",
             "title": "Episode 13",
             "link": "https://share.transistor.fm/s/137cb672",
             "updated": 1666262460,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "f75a5792-0007-44be-85f8-fd01979afe98",
             "title": "Episode 12",
             "link": "https://share.transistor.fm/s/0960f954",
             "updated": 1665052860,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "fe60cf8b-9bef-459d-b9af-eca0b678d3cf",
             "title": "Episode 11",
             "link": "https://share.transistor.fm/s/e6ee2a5d",
             "updated": 1663238460,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "b1772c75-1b75-42f1-9d7f-7975161009ab",
             "title": "Episode 10",
             "link": "https://share.transistor.fm/s/e11d3e61",
             "updated": 1662028860,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "1a6623a0-c3c5-4491-875a-6772b25b29af",
             "title": "Episode 9",
             "link": "https://share.transistor.fm/s/420102c7",
             "updated": 1660819260,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "c4abb22b-8010-428f-9a20-b4bf180fa11a",
             "title": "Episode 8",
             "link": "https://share.transistor.fm/s/d755d233",
             "updated": 1659609660,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "86063123-7e65-4198-8cb9-2e918c36e7ee",
             "title": "Episode 3",
             "link": "https://share.transistor.fm/s/9282fd61",
             "updated": 1653561660,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "b6561228-0d10-4d90-a210-d8ae6d29311f",
             "title": "Episode 2",
             "link": "https://share.transistor.fm/s/92156f6a",
             "updated": 1652352060,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         },
         {
             "id": "b8f496c6-09b1-4f09-8d72-496f3247f8bc",
             "title": "Episode 1",
             "link": "https://share.transistor.fm/s/0715c8ff",
             "updated": 1651142460,
-            "site_name": "Swift Package Indexing"
+            "site_url": "https://swiftpackageindexing.transistor.fm"
         }
     ]
 }

@@ -1,327 +1,327 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jasdev.me/notes/merging-dictionaries-anonymous-arguments",
             "title": "A bug with Swift shorthand arguments",
             "link": "https://jasdev.me/notes/merging-dictionaries-anonymous-arguments",
             "updated": 1645290000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/implementations-of-delay-subscription",
             "title": "Two implementations of delaySubscription",
             "link": "https://jasdev.me/notes/implementations-of-delay-subscription",
             "updated": 1618592400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/free-variables-in-tca-dependencies",
             "title": "Free variables in TCA dependencies",
             "link": "https://jasdev.me/notes/free-variables-in-tca-dependencies",
             "updated": 1618074000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/with-latest-from",
             "title": "withLatestFrom as a composed operator",
             "link": "https://jasdev.me/notes/with-latest-from",
             "updated": 1617987600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/iverson-brackets-swiftui-modifiers",
             "title": "Iverson brackets and SwiftUI modifiers",
             "link": "https://jasdev.me/notes/iverson-brackets-swiftui-modifiers",
             "updated": 1616259600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/collection-rotation",
             "title": "Party Parrot waves and Collection rotations",
             "link": "https://jasdev.me/notes/collection-rotation",
             "updated": 1615654800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/anyequatable",
             "title": "Implementing AnyEquatable",
             "link": "https://jasdev.me/notes/anyequatable",
             "updated": 1614790800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/atan-versus-atan2",
             "title": "atan versus atan2",
             "link": "https://jasdev.me/notes/atan-versus-atan2",
             "updated": 1614531600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/pairwise-with-duplicated-start",
             "title": "Modifying the pairwise operator with a duplicated start",
             "link": "https://jasdev.me/notes/pairwise-with-duplicated-start",
             "updated": 1612976400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/anycancellable-storage-thread-safety",
             "title": "AnyCancellable.store(in:) thread safety",
             "link": "https://jasdev.me/notes/anycancellable-storage-thread-safety",
             "updated": 1612026000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/mapping-over-operators",
             "title": "Mapping over the range and pattern matching operators",
             "link": "https://jasdev.me/notes/mapping-over-operators",
             "updated": 1611939600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/constant-bindings",
             "title": "Constant bindings as placeholders",
             "link": "https://jasdev.me/notes/constant-bindings",
             "updated": 1611680400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/zip-completions",
             "title": "Publisher.zip completions",
             "link": "https://jasdev.me/notes/zip-completions",
             "updated": 1611334800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/buffer-and-batch-subscriptions",
             "title": "Buffered and batched subscriptions in Combine",
             "link": "https://jasdev.me/notes/buffer-and-batch-subscriptions",
             "updated": 1611334800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/little-self-big-self",
             "title": "little self, Big Self",
             "link": "https://jasdev.me/notes/little-self-big-self",
             "updated": 1610902800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/map-result",
             "title": "Simultaneously mapping over publisher values and errors",
             "link": "https://jasdev.me/notes/map-result",
             "updated": 1609347600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/assigning-errors",
             "title": "Redirecting Publisher errors",
             "link": "https://jasdev.me/notes/assigning-errors",
             "updated": 1608310800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/parser-map",
             "title": "Mapping with parsers",
             "link": "https://jasdev.me/notes/parser-map",
             "updated": 1606150800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/empty-combine-latest",
             "title": "combineLatest\u2019ing an empty collection",
             "link": "https://jasdev.me/notes/empty-combine-latest",
             "updated": 1605891600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/parsing-operators",
             "title": "From parsing operators to methods",
             "link": "https://jasdev.me/notes/parsing-operators",
             "updated": 1605718800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/empty-reducer",
             "title": "Empty reducers and the monoidal unit",
             "link": "https://jasdev.me/notes/empty-reducer",
             "updated": 1599498000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/conditional-gestures",
             "title": "Conditional gestures in SwiftUI",
             "link": "https://jasdev.me/notes/conditional-gestures",
             "updated": 1597424400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/swimming-past-intuition",
             "title": "Swimming out past intuition",
             "link": "https://jasdev.me/notes/swimming-past-intuition",
             "updated": 1595696400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/endo-composition",
             "title": "Why folks use  for same-type composition",
             "link": "https://jasdev.me/notes/endo-composition",
             "updated": 1595091600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/binding-functor",
             "title": "Pausing with Binding\u2019s dynamic member subscript",
             "link": "https://jasdev.me/notes/binding-functor",
             "updated": 1595091600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/variadic-zip-cash",
             "title": "Stress testing variadic zip",
             "link": "https://jasdev.me/notes/variadic-zip-cash",
             "updated": 1590166800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/why-sink",
             "title": "Why \u201csink?\u201d",
             "link": "https://jasdev.me/notes/why-sink",
             "updated": 1587747600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/profuctors-generalize-relations",
             "title": "Profunctors generalize relations",
             "link": "https://jasdev.me/notes/profuctors-generalize-relations",
             "updated": 1587747600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/lawvere-metric-spaces",
             "title": "All metric spaces are Lawvere metric spaces",
             "link": "https://jasdev.me/notes/lawvere-metric-spaces",
             "updated": 1587142800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/cancellable-storage",
             "title": "Easing AnyCancellable storage",
             "link": "https://jasdev.me/notes/cancellable-storage",
             "updated": 1586451600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/weak-assignment",
             "title": "Weak assignment in Combine",
             "link": "https://jasdev.me/notes/weak-assignment",
             "updated": 1586278800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/result-publisher",
             "title": "There\u2019s sliced bread, and then Result.publisher",
             "link": "https://jasdev.me/notes/result-publisher",
             "updated": 1586192400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/postfix-erasure",
             "title": "Postfix type erasure",
             "link": "https://jasdev.me/notes/postfix-erasure",
             "updated": 1585069200,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/parity-arity",
             "title": "Parity and arity",
             "link": "https://jasdev.me/notes/parity-arity",
             "updated": 1584378000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/iso-equiv-adjunction",
             "title": "Contrasting isomorphisms, equivalencies, and adjunctions",
             "link": "https://jasdev.me/notes/iso-equiv-adjunction",
             "updated": 1577811600,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/why-optics",
             "title": "Why optics?",
             "link": "https://jasdev.me/notes/why-optics",
             "updated": 1576342800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/merge-many",
             "title": "TIL about Publishers.MergeMany.init",
             "link": "https://jasdev.me/notes/merge-many",
             "updated": 1576170000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/naturality-condition",
             "title": "Naturality condition",
             "link": "https://jasdev.me/notes/naturality-condition",
             "updated": 1572541200,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/applicatives-monoidal",
             "title": "Why applicatives are monoidal",
             "link": "https://jasdev.me/notes/applicatives-monoidal",
             "updated": 1572109200,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/type-erasure-forgetful-functor",
             "title": "Type erasure and forgetful functors",
             "link": "https://jasdev.me/notes/type-erasure-forgetful-functor",
             "updated": 1571850000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/variance",
             "title": "Co-, contra-, and invariance",
             "link": "https://jasdev.me/notes/variance",
             "updated": 1571504400,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/natural-transformations",
             "title": "What makes natural transformations, natural?",
             "link": "https://jasdev.me/notes/natural-transformations",
             "updated": 1571418000,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/morphisms",
             "title": "\u201cOh, the morphisms you\u2019ll see!\u201d",
             "link": "https://jasdev.me/notes/morphisms",
             "updated": 1571245200,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/contramap-pullback",
             "title": "Getting an intuition around why we can call contramap a pullback",
             "link": "https://jasdev.me/notes/contramap-pullback",
             "updated": 1571245200,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/zurry-unzurry",
             "title": "(un)zurry",
             "link": "https://jasdev.me/notes/zurry-unzurry",
             "updated": 1571158800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         },
         {
             "id": "https://jasdev.me/notes/do-subscribe",
             "title": "ObservableType.do\u200c or .subscribe (Publisher.handleEvents or .sink)?",
             "link": "https://jasdev.me/notes/do-subscribe",
             "updated": 1571158800,
-            "site_name": "Jasdev Singh\u2019s technical diary"
+            "site_url": "https://jasdev.me/notes/"
         }
     ]
 }

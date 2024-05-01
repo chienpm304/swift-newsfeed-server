@@ -1,75 +1,75 @@
 {
-    "updated": 1714470908,
+    "updated": 1714537246,
     "posts": [
         {
             "id": "https://medium.com/p/7c57f422a4c2",
             "title": "How to draw on iPad with help of AI?",
             "link": "https://medium.com/@ozgurs/how-to-draw-on-ipad-with-help-of-ai-7c57f422a4c2?source=rss-32c3e42a9823------2",
             "updated": 1701657657,
-            "site_name": "Ozgur Sahin on Medium"
+            "site_url": "https://medium.com/@ozgurs"
         },
         {
             "id": "https://medium.com/p/46a26b7b1f17",
             "title": "Train a Face-Mask Detection Model in Under 5 Minutes using Lobe.ai",
             "link": "https://heartbeat.comet.ml/train-face-mask-detection-model-under-5-minutes-using-lobe-ai-46a26b7b1f17?source=rss-32c3e42a9823------2",
             "updated": 1633937544,
-            "site_name": "Ozgur Sahin on Medium"
-        },
-        {
-            "id": "https://medium.com/p/8e4b4f9cf676",
-            "title": "How to Run and Test Core ML Models in Swift Playgrounds",
-            "link": "https://heartbeat.comet.ml/how-to-run-and-test-core-ml-models-in-swift-playgrounds-8e4b4f9cf676?source=rss-32c3e42a9823------2",
-            "updated": 1633084004,
-            "site_name": "Ozgur Sahin on Medium"
-        },
-        {
-            "id": "https://medium.com/p/860b5d4fb289",
-            "title": "Figma ile App Store Ekran G\u00f6r\u00fcnt\u00fcs\u00fc Nas\u0131l Olu\u015fturulur?",
-            "link": "https://medium.com/nsistanbul/figma-ile-app-store-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-nas%C4%B1l-olu%C5%9Fturulur-860b5d4fb289?source=rss-32c3e42a9823------2",
-            "updated": 1589762309,
-            "site_name": "Ozgur Sahin on Medium"
-        },
-        {
-            "id": "https://medium.com/p/cfccf4a40c79",
-            "title": "H\u0131zl\u0131 \u015eekilde Resim Dataseti Olu\u015fturma",
-            "link": "https://medium.com/@ozgurs/h%C4%B1zl%C4%B1-%C5%9Fekilde-resim-dataseti-olu%C5%9Fturma-cfccf4a40c79?source=rss-32c3e42a9823------2",
-            "updated": 1589783506,
-            "site_name": "Ozgur Sahin on Medium"
-        },
-        {
-            "id": "https://medium.com/p/be0a3edba91d",
-            "title": "Bu ay\u0131n ProductHunt\u2019\u0131 Mardinden \u00c7\u0131kt\u0131",
-            "link": "https://medium.com/bili%C5%9Fim-hareketi/bu-ay%C4%B1n-producthunt%C4%B1-mardinden-%C3%A7%C4%B1kt%C4%B1-be0a3edba91d?source=rss-32c3e42a9823------2",
-            "updated": 1583330695,
-            "site_name": "Ozgur Sahin on Medium"
+            "site_url": "https://medium.com/@ozgurs"
         },
         {
             "id": "https://medium.com/p/7bfcd5da9d20",
             "title": "4 Techniques You Must Know for Natural Language Processing on iOS",
             "link": "https://heartbeat.comet.ml/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?source=rss-32c3e42a9823------2",
             "updated": 1633603136,
-            "site_name": "Ozgur Sahin on Medium"
-        },
-        {
-            "id": "https://medium.com/p/f71d7191404a",
-            "title": "Text Classification on iOS Using Create ML",
-            "link": "https://heartbeat.comet.ml/text-classification-on-ios-using-create-ml-f71d7191404a?source=rss-32c3e42a9823------2",
-            "updated": 1632994177,
-            "site_name": "Ozgur Sahin on Medium"
+            "site_url": "https://medium.com/@ozgurs"
         },
         {
             "id": "https://medium.com/p/5a14829a03f1",
             "title": "How to Capture the Best Frame in an iOS Image Processing App",
             "link": "https://heartbeat.comet.ml/how-to-capture-the-best-frame-in-an-ios-image-processing-app-5a14829a03f1?source=rss-32c3e42a9823------2",
             "updated": 1633590499,
-            "site_name": "Ozgur Sahin on Medium"
+            "site_url": "https://medium.com/@ozgurs"
+        },
+        {
+            "id": "https://medium.com/p/8e4b4f9cf676",
+            "title": "How to Run and Test Core ML Models in Swift Playgrounds",
+            "link": "https://heartbeat.comet.ml/how-to-run-and-test-core-ml-models-in-swift-playgrounds-8e4b4f9cf676?source=rss-32c3e42a9823------2",
+            "updated": 1633084004,
+            "site_url": "https://medium.com/@ozgurs"
+        },
+        {
+            "id": "https://medium.com/p/f71d7191404a",
+            "title": "Text Classification on iOS Using Create ML",
+            "link": "https://heartbeat.comet.ml/text-classification-on-ios-using-create-ml-f71d7191404a?source=rss-32c3e42a9823------2",
+            "updated": 1632994177,
+            "site_url": "https://medium.com/@ozgurs"
+        },
+        {
+            "id": "https://medium.com/p/cfccf4a40c79",
+            "title": "H\u0131zl\u0131 \u015eekilde Resim Dataseti Olu\u015fturma",
+            "link": "https://medium.com/@ozgurs/h%C4%B1zl%C4%B1-%C5%9Fekilde-resim-dataseti-olu%C5%9Fturma-cfccf4a40c79?source=rss-32c3e42a9823------2",
+            "updated": 1589783506,
+            "site_url": "https://medium.com/@ozgurs"
+        },
+        {
+            "id": "https://medium.com/p/860b5d4fb289",
+            "title": "Figma ile App Store Ekran G\u00f6r\u00fcnt\u00fcs\u00fc Nas\u0131l Olu\u015fturulur?",
+            "link": "https://medium.com/nsistanbul/figma-ile-app-store-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-nas%C4%B1l-olu%C5%9Fturulur-860b5d4fb289?source=rss-32c3e42a9823------2",
+            "updated": 1589762309,
+            "site_url": "https://medium.com/@ozgurs"
         },
         {
             "id": "https://medium.com/p/12f5aa89ec93",
             "title": "Atat\u00fcrk Videosunu Nas\u0131l Renklendirdim?",
             "link": "https://medium.com/bili%C5%9Fim-hareketi/atat%C3%BCrk-videosunu-nas%C4%B1l-renklendirdim-12f5aa89ec93?source=rss-32c3e42a9823------2",
             "updated": 1583330716,
-            "site_name": "Ozgur Sahin on Medium"
+            "site_url": "https://medium.com/@ozgurs"
+        },
+        {
+            "id": "https://medium.com/p/be0a3edba91d",
+            "title": "Bu ay\u0131n ProductHunt\u2019\u0131 Mardinden \u00c7\u0131kt\u0131",
+            "link": "https://medium.com/bili%C5%9Fim-hareketi/bu-ay%C4%B1n-producthunt%C4%B1-mardinden-%C3%A7%C4%B1kt%C4%B1-be0a3edba91d?source=rss-32c3e42a9823------2",
+            "updated": 1583330695,
+            "site_url": "https://medium.com/@ozgurs"
         }
     ]
 }

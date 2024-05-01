@@ -1,467 +1,467 @@
 {
-    "updated": 1714470978,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://blog.timac.org/2023/1128-state-of-appkit-catalyst-swift-swiftui-mac/",
             "title": "Apple\u2019s use of AppKit, Catalyst, Swift and SwiftUI in macOS Sonoma",
             "link": "https://blog.timac.org/2023/1128-state-of-appkit-catalyst-swift-swiftui-mac/",
             "updated": 1701140400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/",
             "title": "Apple\u2019s use of Swift and SwiftUI in iOS 17",
             "link": "https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/",
             "updated": 1697684400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2023/0627-charts-in-markdown-using-apache-echarts/",
             "title": "Charts in Markdown using Apache ECharts",
             "link": "https://blog.timac.org/2023/0627-charts-in-markdown-using-apache-echarts/",
             "updated": 1687820400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/",
             "title": "Apple\u2019s use of Swift and SwiftUI in iOS 16",
             "link": "https://blog.timac.org/2022/1005-state-of-swift-and-swiftui-ios16/",
             "updated": 1664938800,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/",
             "title": "Apple\u2019s use of AppKit, Mac Catalyst and SwiftUI in macOS",
             "link": "https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/",
             "updated": 1660791600,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/",
             "title": "Apple\u2019s use of Swift and SwiftUI in iOS 15",
             "link": "https://blog.timac.org/2021/1219-state-of-swift-and-swiftui-ios15/",
             "updated": 1639882800,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2021/1003-swiftlint-for-swift-packages/",
             "title": "SwiftLint for Swift Packages",
             "link": "https://blog.timac.org/2021/1003-swiftlint-for-swift-packages/",
             "updated": 1633230000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2021/0516-mac-app-store-embedding-a-command-line-tool-using-paths-as-arguments/",
             "title": "Mac App Store: Embedding a Command Line tool using paths as arguments",
             "link": "https://blog.timac.org/2021/0516-mac-app-store-embedding-a-command-line-tool-using-paths-as-arguments/",
             "updated": 1621134000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2020/1122-comparing-iphone-os-with-ios-14-using-tree-maps/",
             "title": "Comparing iPhone OS 1.0 with iOS 14 using tree maps",
             "link": "https://blog.timac.org/2020/1122-comparing-iphone-os-with-ios-14-using-tree-maps/",
             "updated": 1606014000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2020/1019-evolution-of-the-programming-languages-from-iphone-os-to-ios-14/",
             "title": "Evolution of the programming languages from iPhone\u00a0OS\u00a01.0 to iOS\u00a014",
             "link": "https://blog.timac.org/2020/1019-evolution-of-the-programming-languages-from-iphone-os-to-ios-14/",
             "updated": 1603076400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2020/0927-state-of-swift-ios14/",
             "title": "Apple\u2019s use of Swift and SwiftUI in iOS 14",
             "link": "https://blog.timac.org/2020/0927-state-of-swift-ios14/",
             "updated": 1601175600,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2020/0204-introducing-clatters-for-ios/",
             "title": "Introducing Clatters for iOS",
             "link": "https://blog.timac.org/2020/0204-introducing-clatters-for-ios/",
             "updated": 1580958000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2019/0926-state-of-swift-ios13/",
             "title": "Apple\u2019s use of Swift in iOS 13",
             "link": "https://blog.timac.org/2019/0926-state-of-swift-ios13/",
             "updated": 1569466800,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2019/0428-your-own-vpn-server/",
             "title": "Your own VPN server for 3\u20ac/month with built-in iOS and macOS support",
             "link": "https://blog.timac.org/2019/0428-your-own-vpn-server/",
             "updated": 1556413200,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/1211-analysis-of-the-nest-app-for-ios/",
             "title": "Analysis of the Nest app for iOS",
             "link": "https://blog.timac.org/2018/1211-analysis-of-the-nest-app-for-ios/",
             "updated": 1544490000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/1126-deobfuscated-libmobilegestalt-keys-ios-12/",
             "title": "Deobfuscated libMobileGestalt keys (iOS 12)",
             "link": "https://blog.timac.org/2018/1126-deobfuscated-libmobilegestalt-keys-ios-12/",
             "updated": 1543194000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/1119-constraints-on-quicklook-plugins/",
             "title": "Constraints on QuickLook plugins",
             "link": "https://blog.timac.org/2018/1119-constraints-on-quicklook-plugins/",
             "updated": 1542582000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/1112-quicklook-plugin-to-visualize-car-files/",
             "title": "QuickLook plugin to visualize .car files (compiled Asset Catalogs)",
             "link": "https://blog.timac.org/2018/1112-quicklook-plugin-to-visualize-car-files/",
             "updated": 1541984400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/1018-reverse-engineering-the-car-file-format/",
             "title": "Reverse engineering the .car file format (compiled Asset Catalogs)",
             "link": "https://blog.timac.org/2018/1018-reverse-engineering-the-car-file-format/",
             "updated": 1539824400,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/0924-state-of-swift-ios12/",
             "title": "Apple\u2019s use of Swift in iOS 12",
             "link": "https://blog.timac.org/2018/0924-state-of-swift-ios12/",
             "updated": 1537758000,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/0719-vpnstatus/",
             "title": "VPNStatus, a replacement for macOS builtin VPN Status",
             "link": "https://blog.timac.org/2018/0719-vpnstatus/",
             "updated": 1532001600,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2018/0717-macos-vpn-architecture/",
             "title": "macOS VPN architecture from System Preferences down to nesessionmanager",
             "link": "https://blog.timac.org/2018/0717-macos-vpn-architecture/",
             "updated": 1531828800,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2017/1115-state-of-swift-ios11-1-macos10-13/",
             "title": "Apple\u2019s use of Swift in iOS 11.1 and macOS 10.13.1",
             "link": "https://blog.timac.org/2017/1115-state-of-swift-ios11-1-macos10-13/",
             "updated": 1510707600,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2017/0628-swift-banning-force-unwrapping-optionals/",
             "title": "Swift: Banning force unwrapping optionals",
             "link": "https://blog.timac.org/2017/0628-swift-banning-force-unwrapping-optionals/",
             "updated": 1498655703,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2017/0415-facebook-app-for-ios-v-88-0-cleans-up-duplicates/",
             "title": "Facebook.app for iOS [v. 88.0] cleans up duplicates",
             "link": "https://blog.timac.org/2017/0415-facebook-app-for-ios-v-88-0-cleans-up-duplicates/",
             "updated": 1492213028,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2017/0410-analysis-of-the-facebook-app-for-ios-v-87-0/",
             "title": "Analysis of the Facebook.app for iOS [v. 87.0]",
             "link": "https://blog.timac.org/2017/0410-analysis-of-the-facebook-app-for-ios-v-87-0/",
             "updated": 1491778584,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2017/0124-deobfuscating-libmobilegestalt-keys/",
             "title": "Deobfuscating libMobileGestalt keys",
             "link": "https://blog.timac.org/2017/0124-deobfuscating-libmobilegestalt-keys/",
             "updated": 1485261408,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/1221-mach_portal-improve-amfid-patch-to-support-fat-binaries/",
             "title": "mach_portal: Improve amfid patch to support fat binaries",
             "link": "https://blog.timac.org/2016/1221-mach_portal-improve-amfid-patch-to-support-fat-binaries/",
             "updated": 1482323221,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/",
             "title": "Testing if an arbitrary pointer is a valid Objective-C object",
             "link": "https://blog.timac.org/2016/1124-testing-if-an-arbitrary-pointer-is-a-valid-objective-c-object/",
             "updated": 1479991718,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/1101-apples-use-of-swift-in-ios-10-1-and-macos-10-12/",
             "title": "Apple\u2019s use of Swift in iOS 10.1 and macOS 10.12",
             "link": "https://blog.timac.org/2016/1101-apples-use-of-swift-in-ios-10-1-and-macos-10-12/",
             "updated": 1478002061,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/1018-analysis-of-the-facebook-app-for-ios/",
             "title": "Analysis of the Facebook.app for iOS",
             "link": "https://blog.timac.org/2016/1018-analysis-of-the-facebook-app-for-ios/",
             "updated": 1476793670,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0926-accessing-temperature-unit-setting-in-ios-10/",
             "title": "Accessing the Temperature Unit setting in iOS 10",
             "link": "https://blog.timac.org/2016/0926-accessing-temperature-unit-setting-in-ios-10/",
             "updated": 1474889284,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0804-dump-decrypted-mach-o-files/",
             "title": "Dump decrypted mach-o apps",
             "link": "https://blog.timac.org/2016/0804-dump-decrypted-mach-o-files/",
             "updated": 1470316924,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0727-mail-app-plugin-compatibility-for-macos-sierra-10-12/",
             "title": "Mail.app plugin compatibility for macOS Sierra (10.12)",
             "link": "https://blog.timac.org/2016/0727-mail-app-plugin-compatibility-for-macos-sierra-10-12/",
             "updated": 1469624714,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0723-cryptedhelloworld-app-with-encrypted-mach-o-sections/",
             "title": "CryptedHelloWorld: App with encrypted mach-o sections",
             "link": "https://blog.timac.org/2016/0723-cryptedhelloworld-app-with-encrypted-mach-o-sections/",
             "updated": 1469246943,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0716-constructor-and-destructor-attributes/",
             "title": "constructor and destructor attributes",
             "link": "https://blog.timac.org/2016/0716-constructor-and-destructor-attributes/",
             "updated": 1468670140,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0710-blowfish-operations-with-key-size-longer-than-448-bits-in-macos-10-11-5-ios-9-3-2/",
             "title": "Blowfish operations with key size longer than 448 bits in macOS 10.11.5 / iOS 9.3.2",
             "link": "https://blog.timac.org/2016/0710-blowfish-operations-with-key-size-longer-than-448-bits-in-macos-10-11-5-ios-9-3-2/",
             "updated": 1468123815,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0708-state-preservation-and-restoration-debug-logs/",
             "title": "State Preservation and Restoration Debug Logs",
             "link": "https://blog.timac.org/2016/0708-state-preservation-and-restoration-debug-logs/",
             "updated": 1467983314,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0623-identifying-the-type-of-build-build-archive-at-compile-time-in-xcode/",
             "title": "Identifying the type of build (Build, Archive) at compile time in Xcode",
             "link": "https://blog.timac.org/2016/0623-identifying-the-type-of-build-build-archive-at-compile-time-in-xcode/",
             "updated": 1466684611,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0605-programmatically-lock-the-screen/",
             "title": "Programmatically lock the screen",
             "link": "https://blog.timac.org/2016/0605-programmatically-lock-the-screen/",
             "updated": 1465132165,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2016/0510-disable-swipe-to-delete-in-mail-app-on-os-x-10-11/",
             "title": "Disable swipe to delete in Mail.app on OS X 10.11",
             "link": "https://blog.timac.org/2016/0510-disable-swipe-to-delete-in-mail-app-on-os-x-10-11/",
             "updated": 1462881874,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2014/0520-checking-if-reduced-motion-is-enabled-on-ios-7/",
             "title": "Checking if Reduced Motion is enabled on iOS 7",
             "link": "https://blog.timac.org/2014/0520-checking-if-reduced-motion-is-enabled-on-ios-7/",
             "updated": 1400591045,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2014/0325-quicklook-plugin-to-preview-strings-files/",
             "title": "QuickLook plugin to preview .strings files",
             "link": "https://blog.timac.org/2014/0325-quicklook-plugin-to-preview-strings-files/",
             "updated": 1395755498,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2013/1009-detecting-the-ios-device-hardware-architecture-32-bit64-bit/",
             "title": "Detecting the iOS device hardware architecture (32-bit/64-bit)",
             "link": "https://blog.timac.org/2013/1009-detecting-the-ios-device-hardware-architecture-32-bit64-bit/",
             "updated": 1381320210,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2013/1001-detecting-if-an-app-runs-in-a-32-bit-or-64-bit-ios-simulator/",
             "title": "Detecting if an app runs in a 32-bit or 64-bit iOS Simulator",
             "link": "https://blog.timac.org/2013/1001-detecting-if-an-app-runs-in-a-32-bit-or-64-bit-ios-simulator/",
             "updated": 1380628343,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2013/0410-using-addresssanitizer-with-xcode-4-6-1/",
             "title": "Using AddressSanitizer with Xcode 4.6.1",
             "link": "https://blog.timac.org/2013/0410-using-addresssanitizer-with-xcode-4-6-1/",
             "updated": 1365594672,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/",
             "title": "Simple code injection using DYLD_INSERT_LIBRARIES",
             "link": "https://blog.timac.org/2012/1218-simple-code-injection-using-dyld_insert_libraries/",
             "updated": 1355826328,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2012/0330-marre-detre-inscrit-aux-newsletters-car-sur-les-listes-electorales-consulaires/",
             "title": "Marre d\u2019\u00eatre inscrit aux newsletters car sur les listes \u00e9lectorales consulaires ?",
             "link": "https://blog.timac.org/2012/0330-marre-detre-inscrit-aux-newsletters-car-sur-les-listes-electorales-consulaires/",
             "updated": 1333078474,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0921-stuffit-contextualmenu-for-macosx-10-6/",
             "title": "StuffIt ContextualMenu for MacOSX 10.6",
             "link": "https://blog.timac.org/2010/0921-stuffit-contextualmenu-for-macosx-10-6/",
             "updated": 1285028519,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0727-implementing-a-service-on-10-6/",
             "title": "Implementing a Service on 10.6",
             "link": "https://blog.timac.org/2010/0727-implementing-a-service-on-10-6/",
             "updated": 1280193063,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0317-cornichon/",
             "title": "Cornichon",
             "link": "https://blog.timac.org/2010/0317-cornichon/",
             "updated": 1268782019,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0306-determining-the-running-kernel-mode-on-10-6/",
             "title": "Determining the running kernel mode on 10.6",
             "link": "https://blog.timac.org/2010/0306-determining-the-running-kernel-mode-on-10-6/",
             "updated": 1267845685,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0130-open-in-32-bit-mode-open-using-rosetta/",
             "title": "\u2018Open in 32-bit mode\u2019 \u2013 \u2018Open using Rosetta\u2019",
             "link": "https://blog.timac.org/2010/0130-open-in-32-bit-mode-open-using-rosetta/",
             "updated": 1264838598,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0120-pict-support-in-64-bit-app/",
             "title": "PICT support in 64-bit app",
             "link": "https://blog.timac.org/2010/0120-pict-support-in-64-bit-app/",
             "updated": 1263950164,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0108-intel-64-bit-summary/",
             "title": "Intel 64-bit summary",
             "link": "https://blog.timac.org/2010/0108-intel-64-bit-summary/",
             "updated": 1262959426,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2010/0103-enigme-deinstein-et-erreur-de-traduction/",
             "title": "Enigme d\u2019Einstein et erreur de traduction",
             "link": "https://blog.timac.org/2010/0103-enigme-deinstein-et-erreur-de-traduction/",
             "updated": 1262491978,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2009/0927-embedded-computers-in-aircrafts/",
             "title": "Embedded computers in aircrafts",
             "link": "https://blog.timac.org/2009/0927-embedded-computers-in-aircrafts/",
             "updated": 1254043480,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2009/0906-automatic-backtraces/",
             "title": "Automatic Backtraces",
             "link": "https://blog.timac.org/2009/0906-automatic-backtraces/",
             "updated": 1252228866,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2009/0806-getrlimit-and-randomness/",
             "title": "getrlimit and randomness",
             "link": "https://blog.timac.org/2009/0806-getrlimit-and-randomness/",
             "updated": 1249563056,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2009/0527-finder-no-comment/",
             "title": "Finder \u2013 No Comment",
             "link": "https://blog.timac.org/2009/0527-finder-no-comment/",
             "updated": 1243405637,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2009/0214-newmoviedontinteractwithuser-flag/",
             "title": "\u2018newMovieDontInteractWithUser\u2019 flag",
             "link": "https://blog.timac.org/2009/0214-newmoviedontinteractwithuser-flag/",
             "updated": 1234583540,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2008/1120-major-issue-in-simpleping/",
             "title": "Major issue in SimplePing",
             "link": "https://blog.timac.org/2008/1120-major-issue-in-simpleping/",
             "updated": 1227144320,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2008/0824-programmatically-break-into-gdb/",
             "title": "Programmatically break into GDB",
             "link": "https://blog.timac.org/2008/0824-programmatically-break-into-gdb/",
             "updated": 1219585361,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2008/0808-breakpoint-conditions-with-gdb/",
             "title": "Breakpoint conditions with GDB",
             "link": "https://blog.timac.org/2008/0808-breakpoint-conditions-with-gdb/",
             "updated": 1218154428,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2008/0723-ignoring-a-ssl-certificate-when-using-a-webserver/",
             "title": "Ignoring a SSL certificate when using a webserver",
             "link": "https://blog.timac.org/2008/0723-ignoring-a-ssl-certificate-when-using-a-webserver/",
             "updated": 1216815247,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         },
         {
             "id": "https://blog.timac.org/2008/0719-libmallocdebug/",
             "title": "libMallocDebug",
             "link": "https://blog.timac.org/2008/0719-libmallocdebug/",
             "updated": 1216460360,
-            "site_name": "Timac"
+            "site_url": "https://blog.timac.org"
         }
     ]
 }

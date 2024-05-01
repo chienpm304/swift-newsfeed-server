@@ -1,40 +1,40 @@
 {
-    "updated": 1714470984,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://wanlutfi.dev/?p=234",
             "title": "Ensuring App UI Correctness Using Snapshot Tests",
             "link": "https://wanlutfi.dev/2023/11/20/ensuring-app-ui-correctness-using-snapshot-tests/",
             "updated": 1700451983,
-            "site_name": "Wan Ahmad Lutfi's blog"
+            "site_url": "https://wanlutfi.dev/blog/"
         },
         {
             "id": "https://wanlutfi.dev/?p=153",
             "title": "Apple Maps or Google Maps? Designing iOS Code for Seamless Switching Between Different Map Providers",
             "link": "https://wanlutfi.dev/2023/10/17/apple-maps-or-google-maps-designing-ios-code-for-seamless-switching-between-different-map-providers/",
             "updated": 1697496268,
-            "site_name": "Wan Ahmad Lutfi's blog"
+            "site_url": "https://wanlutfi.dev/blog/"
         },
         {
             "id": "https://wanlutfi.dev/?p=143",
             "title": "Importance of dependency injection and dependency inversion in iOS Development Swift",
             "link": "https://wanlutfi.dev/2023/08/06/importance-of-dependency-injection-and-dependency-inversion-in-ios-development-swift/",
             "updated": 1691259381,
-            "site_name": "Wan Ahmad Lutfi's blog"
+            "site_url": "https://wanlutfi.dev/blog/"
         },
         {
             "id": "https://wanlutfi.dev/?p=105",
             "title": "Efficient Data Composition in iOS: Design Patterns, Swift Combine, Fetching from Multiple Sources, and Real-time Updates with Websockets",
             "link": "https://wanlutfi.dev/2023/07/17/efficient-data-composition-in-ios-design-patterns-swift-combine-fetching-from-multiple-sources-and-real-time-updates-with-websockets/",
             "updated": 1689565426,
-            "site_name": "Wan Ahmad Lutfi's blog"
+            "site_url": "https://wanlutfi.dev/blog/"
         },
         {
             "id": "https://wanlutfi.dev/?p=1",
             "title": "Hello world!",
             "link": "https://wanlutfi.dev/2023/04/16/hello-world/",
             "updated": 1681607062,
-            "site_name": "Wan Ahmad Lutfi's blog"
+            "site_url": "https://wanlutfi.dev/blog/"
         }
     ]
 }

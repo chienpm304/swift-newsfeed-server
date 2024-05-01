@@ -1,663 +1,663 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://jeremywsherman.com/blog/2022/03/25/turning-a-pdf-into-a-coptic-bound-book/",
             "title": "Turning a PDF into a Coptic-bound book",
             "link": "https://jeremywsherman.com/blog/2022/03/25/turning-a-pdf-into-a-coptic-bound-book/",
             "updated": 1648198471,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2021/02/04/improving-a-testing-library-test/",
             "title": "Improving a testing-library test",
             "link": "https://jeremywsherman.com/blog/2021/02/04/improving-a-testing-library-test/",
             "updated": 1612419151,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/",
             "title": "A Month of Terraform",
             "link": "https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/",
             "updated": 1605952543,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2020/10/10/collected-tils/",
             "title": "Collected TILs",
             "link": "https://jeremywsherman.com/blog/2020/10/10/collected-tils/",
             "updated": 1602338739,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2018/12/01/google-room-and-the-definitive-guide-to-sqlite/",
             "title": "Google Room and The Definitive Guide to SQLite",
             "link": "https://jeremywsherman.com/blog/2018/12/01/google-room-and-the-definitive-guide-to-sqlite/",
             "updated": 1543681659,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2018/09/27/what-could-mpis-evolution-say-about-when-to-use-csp-style-channels/",
             "title": "What could MPI's evolution say about when to use CSP-style channels?",
             "link": "https://jeremywsherman.com/blog/2018/09/27/what-could-mpis-evolution-say-about-when-to-use-csp-style-channels/",
             "updated": 1538032631,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2018/05/07/mixed-language-testing-fixing-fatal-error-app-swift.h-file-not-found/",
             "title": "Mixed-Language Testing: Fixing \"fatal error: 'App-Swift.h' file not found\"",
             "link": "https://jeremywsherman.com/blog/2018/05/07/mixed-language-testing-fixing-fatal-error-app-swift.h-file-not-found/",
             "updated": 1525691121,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2018/05/01/downtime-recovery-bludgeoning-digitalocean-arch-into-working-again/",
             "title": "Downtime & Recovery: Bludgeoning DigitalOcean Arch into Working Again",
             "link": "https://jeremywsherman.com/blog/2018/05/01/downtime-recovery-bludgeoning-digitalocean-arch-into-working-again/",
             "updated": 1525162150,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2017/05/20/cards-closing-out-a-wikipedia-crawl/",
             "title": "Cards: Closing Out a Wikipedia Crawl",
             "link": "https://jeremywsherman.com/blog/2017/05/20/cards-closing-out-a-wikipedia-crawl/",
             "updated": 1495213200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2017/03/08/microservices-vs-distributed-objects/",
             "title": "Microservices vs Distributed Objects",
             "link": "https://jeremywsherman.com/blog/2017/03/08/microservices-vs-distributed-objects/",
             "updated": 1488906000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2017/01/14/the-gist-of-regex/",
             "title": "The Gist of Regex",
             "link": "https://jeremywsherman.com/blog/2017/01/14/the-gist-of-regex/",
             "updated": 1484326800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2017/01/14/iterative-development/",
             "title": "Iterative Development",
             "link": "https://jeremywsherman.com/blog/2017/01/14/iterative-development/",
             "updated": 1484326800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/11/28/how-to-work-around-an-empty-zenfolio-zip-file/",
             "title": "How to Work Around an Empty Zenfolio Zip File",
             "link": "https://jeremywsherman.com/blog/2016/11/28/how-to-work-around-an-empty-zenfolio-zip-file/",
             "updated": 1480266000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/09/22/a-practical-example-of-flatmap/",
             "title": "A Practical Example of FlatMap",
             "link": "https://jeremywsherman.com/blog/2016/09/22/a-practical-example-of-flatmap/",
             "updated": 1474477200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/09/20/the-internet-speaks-testing-fp-code/",
             "title": "The Internet Speaks: Testing FP Code",
             "link": "https://jeremywsherman.com/blog/2016/09/20/the-internet-speaks-testing-fp-code/",
             "updated": 1474304400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/07/23/why-im-meh-about-json-api/",
             "title": "Why I'm Meh About JSON API",
             "link": "https://jeremywsherman.com/blog/2016/07/23/why-im-meh-about-json-api/",
             "updated": 1469206800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/06/17/fathers-day-happy-hurricane/",
             "title": "Father's Day: Happy Hurricane",
             "link": "https://jeremywsherman.com/blog/2016/06/17/fathers-day-happy-hurricane/",
             "updated": 1466096400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/05/05/types-complement-tests-complement-types/",
             "title": "Types Complement Tests Complement Types",
             "link": "https://jeremywsherman.com/blog/2016/05/05/types-complement-tests-complement-types/",
             "updated": 1462381200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/05/05/beyond-type-wars-types-can-be-tests-too/",
             "title": "Beyond Type Wars: Types Can Be Tests Too",
             "link": "https://jeremywsherman.com/blog/2016/05/05/beyond-type-wars-types-can-be-tests-too/",
             "updated": 1462381200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/05/05/beyond-our-ken/",
             "title": "Beyond Our Ken",
             "link": "https://jeremywsherman.com/blog/2016/05/05/beyond-our-ken/",
             "updated": 1462381200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/04/06/heres-to-ios-apps-in-f/",
             "title": "Here's to iOS apps in F#",
             "link": "https://jeremywsherman.com/blog/2016/04/06/heres-to-ios-apps-in-f/",
             "updated": 1459875600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/03/19/xctestexpectation-gotchas/",
             "title": "XCTestExpectation Gotchas",
             "link": "https://jeremywsherman.com/blog/2016/03/19/xctestexpectation-gotchas/",
             "updated": 1458320400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/03/06/embedded-content-contains-swift/",
             "title": "Embedded Content Contains Swift",
             "link": "https://jeremywsherman.com/blog/2016/03/06/embedded-content-contains-swift/",
             "updated": 1457197200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/02/29/review-se-0026-abstract-classes-and-methods/",
             "title": "Review: SE-0026: Abstract classes and methods",
             "link": "https://jeremywsherman.com/blog/2016/02/29/review-se-0026-abstract-classes-and-methods/",
             "updated": 1456678800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/02/24/go-versions-and-the-open-closed-principle/",
             "title": "Go Versions and the Open-Closed Principle",
             "link": "https://jeremywsherman.com/blog/2016/02/24/go-versions-and-the-open-closed-principle/",
             "updated": 1456246800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2016/01/07/housekeeping/",
             "title": "Housekeeping",
             "link": "https://jeremywsherman.com/blog/2016/01/07/housekeeping/",
             "updated": 1452099600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/11/21/do-more-of-less/",
             "title": "Do more of less",
             "link": "https://jeremywsherman.com/blog/2015/11/21/do-more-of-less/",
             "updated": 1448038800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/11/13/agile/",
             "title": "Agile",
             "link": "https://jeremywsherman.com/blog/2015/11/13/agile/",
             "updated": 1447347600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/11/08/updating-plex-on-synology-nas/",
             "title": "Updating Plex on Synology NAS",
             "link": "https://jeremywsherman.com/blog/2015/11/08/updating-plex-on-synology-nas/",
             "updated": 1446915600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/10/10/an-idris-metaprogramming-hello-world/",
             "title": "An Idris metaprogramming \"hello world\"",
             "link": "https://jeremywsherman.com/blog/2015/10/10/an-idris-metaprogramming-hello-world/",
             "updated": 1444410000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/10/02/when-is-a-proof-not-a-proof/",
             "title": "When is a proof not a proof?",
             "link": "https://jeremywsherman.com/blog/2015/10/02/when-is-a-proof-not-a-proof/",
             "updated": 1443773999,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/10/02/what-if-you-get-your-dependent-type-backwards/",
             "title": "What if you get your dependent type backwards?",
             "link": "https://jeremywsherman.com/blog/2015/10/02/what-if-you-get-your-dependent-type-backwards/",
             "updated": 1443718800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/08/26/read-why-dependent-types-matter/",
             "title": "Read: Why dependent types matter",
             "link": "https://jeremywsherman.com/blog/2015/08/26/read-why-dependent-types-matter/",
             "updated": 1440522000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/08/18/read-a-tutorial-on-the-universality-and-expressiveness-of-fold/",
             "title": "Read: A tutorial on the universality and expressiveness of fold",
             "link": "https://jeremywsherman.com/blog/2015/08/18/read-a-tutorial-on-the-universality-and-expressiveness-of-fold/",
             "updated": 1439830800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/08/10/read-towards-native-higher-order-remote-procedure-calls/",
             "title": "Read: Towards native higher-order remote procedure calls",
             "link": "https://jeremywsherman.com/blog/2015/08/10/read-towards-native-higher-order-remote-procedure-calls/",
             "updated": 1439139600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/08/02/listened-se-radio-joe-armstrong/",
             "title": "Listened: SE Radio: Joe Armstrong",
             "link": "https://jeremywsherman.com/blog/2015/08/02/listened-se-radio-joe-armstrong/",
             "updated": 1438448400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/07/28/using-rbenv-with-fish/",
             "title": "Using rbenv with fish",
             "link": "https://jeremywsherman.com/blog/2015/07/28/using-rbenv-with-fish/",
             "updated": 1438016400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/07/15/dodging-state/",
             "title": "Dodging State",
             "link": "https://jeremywsherman.com/blog/2015/07/15/dodging-state/",
             "updated": 1436893200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/07/14/should-dry-entail-call-by-need-evaluation/",
             "title": "Should DRY entail call-by-need evaluation?",
             "link": "https://jeremywsherman.com/blog/2015/07/14/should-dry-entail-call-by-need-evaluation/",
             "updated": 1436806800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/07/10/crc-cards/",
             "title": "CRC Cards",
             "link": "https://jeremywsherman.com/blog/2015/07/10/crc-cards/",
             "updated": 1436461200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/06/17/using-swift-throws-with-completion-callbacks/",
             "title": "Using Swift Throws with Completion Callbacks",
             "link": "https://jeremywsherman.com/blog/2015/06/17/using-swift-throws-with-completion-callbacks/",
             "updated": 1434474000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2015/03/08/functor-amp-friends-protocol-tests/",
             "title": "Functor &amp; Friends: Protocol + Tests",
             "link": "https://jeremywsherman.com/blog/2015/03/08/functor-amp-friends-protocol-tests/",
             "updated": 1425747600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/10/24/no-single-swift-style/",
             "title": "No Single Swift Style",
             "link": "https://jeremywsherman.com/blog/2014/10/24/no-single-swift-style/",
             "updated": 1414083600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/07/25/radar-tip-shell-one-liners-to-dump-configuration-info/",
             "title": "Radar tip: Shell one-liners to dump configuration info",
             "link": "https://jeremywsherman.com/blog/2014/07/25/radar-tip-shell-one-liners-to-dump-configuration-info/",
             "updated": 1406221200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/07/09/pervasive-use-of-optional-in-swift-is-penance-for-nil/",
             "title": "Pervasive use of Optional in Swift is penance for nil",
             "link": "https://jeremywsherman.com/blog/2014/07/09/pervasive-use-of-optional-in-swift-is-penance-for-nil/",
             "updated": 1404838800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/06/05/intuition-behind-the-swift-external/local-parameter-system/",
             "title": "Intuition behind the Swift external/local parameter system",
             "link": "https://jeremywsherman.com/blog/2014/06/05/intuition-behind-the-swift-external/local-parameter-system/",
             "updated": 1401901200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/05/28/vdm-amp-the-agile-spec-problem/",
             "title": "VDM &amp; The \u201cAgile Spec\u201d Problem",
             "link": "https://jeremywsherman.com/blog/2014/05/28/vdm-amp-the-agile-spec-problem/",
             "updated": 1401210000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/05/25/distributed-programming-amp-calm/",
             "title": "Distributed Programming &amp; CALM",
             "link": "https://jeremywsherman.com/blog/2014/05/25/distributed-programming-amp-calm/",
             "updated": 1400950800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/04/02/use-jsonlint-to-debug-bogus-json-data/",
             "title": "Use jsonlint to debug bogus JSON data",
             "link": "https://jeremywsherman.com/blog/2014/04/02/use-jsonlint-to-debug-bogus-json-data/",
             "updated": 1396371600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/03/14/optionbits-and-bool-gonna-bite-you-one-day/",
             "title": "OptionBits and BOOL gonna bite you one day",
             "link": "https://jeremywsherman.com/blog/2014/03/14/optionbits-and-bool-gonna-bite-you-one-day/",
             "updated": 1394730000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/02/21/testflight-tos-amp-privacy-changes/",
             "title": "TestFlight TOS &amp; Privacy Changes",
             "link": "https://jeremywsherman.com/blog/2014/02/21/testflight-tos-amp-privacy-changes/",
             "updated": 1392915600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/02/09/installing-and-using-euterpea-under-os-x-10.9/",
             "title": "Installing and using Euterpea under OS X 10.9",
             "link": "https://jeremywsherman.com/blog/2014/02/09/installing-and-using-euterpea-under-os-x-10.9/",
             "updated": 1391878800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2014/01/19/self-initiating-into-smalltalk/",
             "title": "Self-initiating into Smalltalk",
             "link": "https://jeremywsherman.com/blog/2014/01/19/self-initiating-into-smalltalk/",
             "updated": 1390064400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/12/20/clarified-cqrs-reading-notes/",
             "title": "Clarified CQRS - Reading Notes",
             "link": "https://jeremywsherman.com/blog/2013/12/20/clarified-cqrs-reading-notes/",
             "updated": 1387472400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/09/26/arithmetic-will-bite-you-one-day/",
             "title": "Arithmetic Will Bite You One Day",
             "link": "https://jeremywsherman.com/blog/2013/09/26/arithmetic-will-bite-you-one-day/",
             "updated": 1380128400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/09/12/why-a-64-bit-iphone/",
             "title": "Why a 64-bit iPhone?",
             "link": "https://jeremywsherman.com/blog/2013/09/12/why-a-64-bit-iphone/",
             "updated": 1378918800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/08/26/compatibility-basics/",
             "title": "Compatibility Basics",
             "link": "https://jeremywsherman.com/blog/2013/08/26/compatibility-basics/",
             "updated": 1377450000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/08/07/retain-still-matters/",
             "title": "Retain Still Matters",
             "link": "https://jeremywsherman.com/blog/2013/08/07/retain-still-matters/",
             "updated": 1375808400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/08/06/missingm-ansible-and-salt-a-detailed-comparison/",
             "title": "MissingM: Ansible and Salt: A detailed comparison",
             "link": "https://jeremywsherman.com/blog/2013/08/06/missingm-ansible-and-salt-a-detailed-comparison/",
             "updated": 1375722000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/08/05/go-reflection-codex/",
             "title": "Go Reflection Codex",
             "link": "https://jeremywsherman.com/blog/2013/08/05/go-reflection-codex/",
             "updated": 1375635600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/08/05/var/log/bhs-golang-impressions/",
             "title": "/var/log/bhs: golang impressions",
             "link": "https://jeremywsherman.com/blog/2013/08/05/var/log/bhs-golang-impressions/",
             "updated": 1375635600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/07/25/surfing-with-ctags/",
             "title": "Surfing with ctags",
             "link": "https://jeremywsherman.com/blog/2013/07/25/surfing-with-ctags/",
             "updated": 1374685200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/07/21/intruder-alert/",
             "title": "Intruder Alert",
             "link": "https://jeremywsherman.com/blog/2013/07/21/intruder-alert/",
             "updated": 1374339600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/07/19/moving-house/",
             "title": "Moving House",
             "link": "https://jeremywsherman.com/blog/2013/07/19/moving-house/",
             "updated": 1374166800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/06/19/farewell-google-reader/",
             "title": "Farewell, Google Reader",
             "link": "https://jeremywsherman.com/blog/2013/06/19/farewell-google-reader/",
             "updated": 1371574800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/06/16/big-data/",
             "title": "Big Data",
             "link": "https://jeremywsherman.com/blog/2013/06/16/big-data/",
             "updated": 1371315600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/06/09/clean-code-is-not-enough/",
             "title": "Clean Code Is Not Enough",
             "link": "https://jeremywsherman.com/blog/2013/06/09/clean-code-is-not-enough/",
             "updated": 1370710800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/05/27/notes-on-quickcheck/",
             "title": "Notes on QuickCheck",
             "link": "https://jeremywsherman.com/blog/2013/05/27/notes-on-quickcheck/",
             "updated": 1369587600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/05/25/http-library-survey/",
             "title": "HTTP Library Survey",
             "link": "https://jeremywsherman.com/blog/2013/05/25/http-library-survey/",
             "updated": 1369414800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/04/23/key-reordering-mongodbs-achilles-heel/",
             "title": "Key Reordering: MongoDB's Achilles' Heel",
             "link": "https://jeremywsherman.com/blog/2013/04/23/key-reordering-mongodbs-achilles-heel/",
             "updated": 1366650000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/04/10/clojure/west-2013/",
             "title": "Clojure/West 2013",
             "link": "https://jeremywsherman.com/blog/2013/04/10/clojure/west-2013/",
             "updated": 1365526800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/02/27/leak-free-recursive-blocks/",
             "title": "Leak-Free Recursive Blocks",
             "link": "https://jeremywsherman.com/blog/2013/02/27/leak-free-recursive-blocks/",
             "updated": 1361898000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/02/16/dollars-not-donuts/",
             "title": "Dollars, Not Donuts",
             "link": "https://jeremywsherman.com/blog/2013/02/16/dollars-not-donuts/",
             "updated": 1360947600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/01/29/toll-free-__bridging/",
             "title": "Toll-Free __bridging",
             "link": "https://jeremywsherman.com/blog/2013/01/29/toll-free-__bridging/",
             "updated": 1359392400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/01/21/the-otherwise-operator/",
             "title": "The Otherwise Operator",
             "link": "https://jeremywsherman.com/blog/2013/01/21/the-otherwise-operator/",
             "updated": 1358701200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/01/19/queue-specific-data/",
             "title": "Queue-Specific Data",
             "link": "https://jeremywsherman.com/blog/2013/01/19/queue-specific-data/",
             "updated": 1358528400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/01/08/using-debugdescription-with-gcd-and-xpc-objects/",
             "title": "Using debugDescription with GCD and XPC objects",
             "link": "https://jeremywsherman.com/blog/2013/01/08/using-debugdescription-with-gcd-and-xpc-objects/",
             "updated": 1357578000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2013/01/01/introducing-os-object/",
             "title": "Introducing OS\u00a0Object",
             "link": "https://jeremywsherman.com/blog/2013/01/01/introducing-os-object/",
             "updated": 1356973200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2012/09/08/reconsidering-new/",
             "title": "Reconsidering +new",
             "link": "https://jeremywsherman.com/blog/2012/09/08/reconsidering-new/",
             "updated": 1347037200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2012/08/27/migrating-to-obj-c-literals/",
             "title": "Migrating to Obj-C Literals",
             "link": "https://jeremywsherman.com/blog/2012/08/27/migrating-to-obj-c-literals/",
             "updated": 1346000400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2012/08/04/prefix-notation/",
             "title": "Prefix Notation",
             "link": "https://jeremywsherman.com/blog/2012/08/04/prefix-notation/",
             "updated": 1344013200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2012/07/29/visualizing-consequences/",
             "title": "Visualizing Consequences",
             "link": "https://jeremywsherman.com/blog/2012/07/29/visualizing-consequences/",
             "updated": 1343494800,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/blog/2012/07/23/behavioral-programming/",
             "title": "Behavioral Programming",
             "link": "https://jeremywsherman.com/blog/2012/07/23/behavioral-programming/",
             "updated": 1342976400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/02/29/whats-this-about-at-import/",
             "title": "What's this about @import?",
             "link": "https://jeremywsherman.com/2012/02/29/whats-this-about-at-import/",
             "updated": 1330448400,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/02/28/memory-allocation-in-sam/",
             "title": "Memory Allocation in <tt>sam</tt>",
             "link": "https://jeremywsherman.com/2012/02/28/memory-allocation-in-sam/",
             "updated": 1330362000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/02/27/sam-s-structural-regular-expressions/",
             "title": "<tt>sam</tt>'s Structural Regular Expressions",
             "link": "https://jeremywsherman.com/2012/02/27/sam-s-structural-regular-expressions/",
             "updated": 1330275600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/02/08/pasting-html-into-markdown/",
             "title": "Pasting HTML into Markdown",
             "link": "https://jeremywsherman.com/2012/02/08/pasting-html-into-markdown/",
             "updated": 1328634000,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/02/06/the-artful-edit/",
             "title": "The Artful Edit",
             "link": "https://jeremywsherman.com/2012/02/06/the-artful-edit/",
             "updated": 1328461200,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2012/01/28/enjoy-a-simpler-ifmud-experience-with-this-tintin-plus-plus-script/",
             "title": "Enjoy a simpler ifMUD experience with this tintin++ script",
             "link": "https://jeremywsherman.com/2012/01/28/enjoy-a-simpler-ifmud-experience-with-this-tintin-plus-plus-script/",
             "updated": 1327683600,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2011/10/30/amazon-enhancing-your-library/",
             "title": "Amazon-enhancing your library",
             "link": "https://jeremywsherman.com/2011/10/30/amazon-enhancing-your-library/",
             "updated": 1319965217,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2011/09/26/absolute-and-relative-paths/",
             "title": "Absolute and relative paths",
             "link": "https://jeremywsherman.com/2011/09/26/absolute-and-relative-paths/",
             "updated": 1316991638,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2011/09/09/browsing-files-from-the-commandline/",
             "title": "Browsing files from the commandline",
             "link": "https://jeremywsherman.com/2011/09/09/browsing-files-from-the-commandline/",
             "updated": 1315580478,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2011/08/05/get-more-done-with-terminal-app/",
             "title": "Get more done with Terminal.app",
             "link": "https://jeremywsherman.com/2011/08/05/get-more-done-with-terminal-app/",
             "updated": 1312488197,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         },
         {
             "id": "https://jeremywsherman.com/2011/08/02/how-to-give-lion-a-new-voice/",
             "title": "How to give Lion a new voice",
             "link": "https://jeremywsherman.com/2011/08/02/how-to-give-lion-a-new-voice/",
             "updated": 1312222236,
-            "site_name": "Jeremy W. Sherman\u2019s Blog"
+            "site_url": "https://jeremywsherman.com/"
         }
     ]
 }

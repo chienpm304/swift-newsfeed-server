@@ -1,75 +1,75 @@
 {
-    "updated": 1714471050,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://medium.com/p/8fc999387a8a",
             "title": "The Future of NetNewsWire",
             "link": "https://medium.com/bpxl-craft/the-future-of-netnewswire-8fc999387a8a?source=rss----f87ae297f7fa---4",
             "updated": 1535714372,
-            "site_name": "BPXL Craft"
+            "site_url": "https://medium.com/bpxl-craft"
         },
         {
             "id": "https://medium.com/p/9be3461accf6",
             "title": "Bringing Seakart to Life Everywhere",
             "link": "https://medium.com/bpxl-craft/bringing-seakart-to-life-everywhere-9be3461accf6?source=rss----f87ae297f7fa---4",
             "updated": 1529564392,
-            "site_name": "BPXL Craft"
+            "site_url": "https://medium.com/bpxl-craft"
         },
         {
             "id": "https://medium.com/p/a84ec0acc4c1",
             "title": "Announcing IAPKit",
             "link": "https://medium.com/bpxl-craft/announcing-iapkit-a84ec0acc4c1?source=rss----f87ae297f7fa---4",
             "updated": 1529404303,
-            "site_name": "BPXL Craft"
-        },
-        {
-            "id": "https://medium.com/p/d0dc0daf81f3",
-            "title": "Analyzing the Ampersand",
-            "link": "https://medium.com/bpxl-craft/analyzing-the-ampersand-d0dc0daf81f3?source=rss----f87ae297f7fa---4",
-            "updated": 1522839156,
-            "site_name": "BPXL Craft"
+            "site_url": "https://medium.com/bpxl-craft"
         },
         {
             "id": "https://medium.com/p/c5e75a958f9f",
             "title": "Working with 3D Models in SceneKit",
             "link": "https://medium.com/bpxl-craft/working-with-3d-models-in-scenekit-c5e75a958f9f?source=rss----f87ae297f7fa---4",
             "updated": 1527837590,
-            "site_name": "BPXL Craft"
+            "site_url": "https://medium.com/bpxl-craft"
         },
         {
-            "id": "https://medium.com/p/41e64a6ae958",
-            "title": "Perceptrons in Swift",
-            "link": "https://medium.com/bpxl-craft/perceptrons-in-swift-41e64a6ae958?source=rss----f87ae297f7fa---4",
-            "updated": 1518004611,
-            "site_name": "BPXL Craft"
-        },
-        {
-            "id": "https://medium.com/p/a3f36940199f",
-            "title": "Smart Strokes Interface Iteration",
-            "link": "https://medium.com/bpxl-craft/smart-strokes-interface-iteration-a3f36940199f?source=rss----f87ae297f7fa---4",
-            "updated": 1516716333,
-            "site_name": "BPXL Craft"
-        },
-        {
-            "id": "https://medium.com/p/ab1166eeaf6b",
-            "title": "Welcome to the New \u2018This American Life\u2019",
-            "link": "https://medium.com/bpxl-craft/welcome-to-the-new-this-american-life-ab1166eeaf6b?source=rss----f87ae297f7fa---4",
-            "updated": 1515753693,
-            "site_name": "BPXL Craft"
-        },
-        {
-            "id": "https://medium.com/p/afefb79aa42e",
-            "title": "The Best of 2017",
-            "link": "https://medium.com/bpxl-craft/the-best-of-2017-afefb79aa42e?source=rss----f87ae297f7fa---4",
-            "updated": 1515416634,
-            "site_name": "BPXL Craft"
+            "id": "https://medium.com/p/d0dc0daf81f3",
+            "title": "Analyzing the Ampersand",
+            "link": "https://medium.com/bpxl-craft/analyzing-the-ampersand-d0dc0daf81f3?source=rss----f87ae297f7fa---4",
+            "updated": 1522839156,
+            "site_url": "https://medium.com/bpxl-craft"
         },
         {
             "id": "https://medium.com/p/aa1728697e2",
             "title": "Importing 3D Models for ARKit",
             "link": "https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2?source=rss----f87ae297f7fa---4",
             "updated": 1522236185,
-            "site_name": "BPXL Craft"
+            "site_url": "https://medium.com/bpxl-craft"
+        },
+        {
+            "id": "https://medium.com/p/41e64a6ae958",
+            "title": "Perceptrons in Swift",
+            "link": "https://medium.com/bpxl-craft/perceptrons-in-swift-41e64a6ae958?source=rss----f87ae297f7fa---4",
+            "updated": 1518004611,
+            "site_url": "https://medium.com/bpxl-craft"
+        },
+        {
+            "id": "https://medium.com/p/a3f36940199f",
+            "title": "Smart Strokes Interface Iteration",
+            "link": "https://medium.com/bpxl-craft/smart-strokes-interface-iteration-a3f36940199f?source=rss----f87ae297f7fa---4",
+            "updated": 1516716333,
+            "site_url": "https://medium.com/bpxl-craft"
+        },
+        {
+            "id": "https://medium.com/p/ab1166eeaf6b",
+            "title": "Welcome to the New \u2018This American Life\u2019",
+            "link": "https://medium.com/bpxl-craft/welcome-to-the-new-this-american-life-ab1166eeaf6b?source=rss----f87ae297f7fa---4",
+            "updated": 1515753693,
+            "site_url": "https://medium.com/bpxl-craft"
+        },
+        {
+            "id": "https://medium.com/p/afefb79aa42e",
+            "title": "The Best of 2017",
+            "link": "https://medium.com/bpxl-craft/the-best-of-2017-afefb79aa42e?source=rss----f87ae297f7fa---4",
+            "updated": 1515416634,
+            "site_url": "https://medium.com/bpxl-craft"
         }
     ]
 }

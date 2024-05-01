@@ -1,12 +1,12 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://heberti.com/posts/filewrapper",
             "title": "A Type-Safe FileWrapper",
             "link": "https://heberti.com/posts/filewrapper",
             "updated": 1591117200,
-            "site_name": "Heberti Almeida\u2019s Blog"
+            "site_url": "https://heberti.com/"
         }
     ]
 }

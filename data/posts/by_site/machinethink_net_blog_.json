@@ -1,110 +1,110 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537237,
     "posts": [
         {
             "id": "https://machinethink.net/blog/new-synth-plugin-book/",
             "title": "New book: Code Your Own Synth Plug-Ins With C++ and JUCE",
             "link": "https://machinethink.net/blog/new-synth-plugin-book/",
             "updated": 1663167600,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-survival-guide/",
             "title": "Retiring the Core ML Survival Guide",
             "link": "https://machinethink.net/blog/coreml-survival-guide/",
             "updated": 1630494000,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/sefr-classifier-in-swift/",
             "title": "The SEFR classifier",
             "link": "https://machinethink.net/blog/sefr-classifier-in-swift/",
             "updated": 1610374920,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/bounding-boxes/",
             "title": "How to display Vision bounding boxes",
             "link": "https://machinethink.net/blog/bounding-boxes/",
             "updated": 1606311000,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/new-in-apple-machine-learning-2020/",
             "title": "Apple machine learning in 2020: What's new?",
             "link": "https://machinethink.net/blog/new-in-apple-machine-learning-2020/",
             "updated": 1593427500,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/mobile-architectures/",
             "title": "New mobile neural network architectures",
             "link": "https://machinethink.net/blog/mobile-architectures/",
             "updated": 1586332800,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-upsampling/",
             "title": "Upsampling in Core ML",
             "link": "https://machinethink.net/blog/coreml-upsampling/",
             "updated": 1581001500,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-image-mlmultiarray/",
             "title": "How to convert images to MLMultiArray",
             "link": "https://machinethink.net/blog/coreml-image-mlmultiarray/",
             "updated": 1575907200,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-training-part4/",
             "title": "On-device training with Core ML - part 4",
             "link": "https://machinethink.net/blog/coreml-training-part4/",
             "updated": 1575216000,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-and-combine/",
             "title": "Core ML and Combine",
             "link": "https://machinethink.net/blog/coreml-and-combine/",
             "updated": 1573655400,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-training-part3/",
             "title": "On-device training with Core ML - part 3",
             "link": "https://machinethink.net/blog/coreml-training-part3/",
             "updated": 1568466900,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-training-part2/",
             "title": "On-device training with Core ML - part 2",
             "link": "https://machinethink.net/blog/coreml-training-part2/",
             "updated": 1565427600,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/coreml-training-part1/",
             "title": "On-device training with Core ML - part 1",
             "link": "https://machinethink.net/blog/coreml-training-part1/",
             "updated": 1563516000,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/new-in-coreml3/",
             "title": "An in-depth look at Core ML 3",
             "link": "https://machinethink.net/blog/new-in-coreml3/",
             "updated": 1559989800,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         },
         {
             "id": "https://machinethink.net/blog/mobilenet-ssdlite-coreml/",
             "title": "MobileNetV2 + SSDLite with Core ML",
             "link": "https://machinethink.net/blog/mobilenet-ssdlite-coreml/",
             "updated": 1545049200,
-            "site_name": "Machine Think"
+            "site_url": "https://machinethink.net/blog/"
         }
     ]
 }

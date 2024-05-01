@@ -1,866 +1,866 @@
 {
-    "updated": 1714471111,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "https://www.swiftbysundell.com/podcast/123",
             "title": "123: \u201cThe evolution of Swift\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/123",
             "updated": 1671440700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/122",
             "title": "122: \u201cSwift concurrency in practice\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/122",
             "updated": 1668778200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/121",
             "title": "121: \u201cResponsive and smooth UIs\u201d, with special guest Adam Bell",
             "link": "https://www.swiftbysundell.com/podcast/121",
             "updated": 1667216700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/120",
             "title": "120: \u201cFreelancing and WWDC22 highlights\u201d, with special guest Donny Wals",
             "link": "https://www.swiftbysundell.com/podcast/120",
             "updated": 1663410900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/119",
             "title": "119: \u201cThe role of system design\u201d, with special guest Gui Rambo",
             "link": "https://www.swiftbysundell.com/podcast/119",
             "updated": 1661948100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/118",
             "title": "118: \u201cWhat\u2019s new in SwiftUI in iOS 16?\u201d, with special guest Natalia Panferova",
             "link": "https://www.swiftbysundell.com/podcast/118",
             "updated": 1657528200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/117",
             "title": "117: \u201cSwift 5.7, generics, and the road to Swift 6\u201d, with special guest Ben Cohen",
             "link": "https://www.swiftbysundell.com/podcast/117",
             "updated": 1654855800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/116",
             "title": "116: \u201cThe evolution of SwiftUI\u201d, with special guest Chris Eidhof",
             "link": "https://www.swiftbysundell.com/podcast/116",
             "updated": 1652860500,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/115",
             "title": "115: \u201cA framework and an app\u201d, with special guest Simon St\u00f8vring",
             "link": "https://www.swiftbysundell.com/podcast/115",
             "updated": 1651321200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/114",
             "title": "114: \u201cAccessibility on Apple\u2019s platforms\u201d, with special guest Sommer Panage",
             "link": "https://www.swiftbysundell.com/podcast/114",
             "updated": 1647867300,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/113",
             "title": "113: \u201cWhere is Swift headed in 2022?\u201d, with special guest JP Simard",
             "link": "https://www.swiftbysundell.com/podcast/113",
             "updated": 1645955100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/112",
             "title": "112: \u201cThe 2021 Season Finale\u201d",
             "link": "https://www.swiftbysundell.com/podcast/112",
             "updated": 1640877000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/111",
             "title": "111: \u201cCustom rendering\u201d, with special guest James Thomson",
             "link": "https://www.swiftbysundell.com/podcast/111",
             "updated": 1640000400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/110",
             "title": "110: \u201cConcurrency beyond app development\u201d, with special guest Tim Condon",
             "link": "https://www.swiftbysundell.com/podcast/110",
             "updated": 1638780900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/109",
             "title": "109: \u201cCode maintenance\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/109",
             "updated": 1637579400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/108",
             "title": "108: \u201cConcurrency and Swift-DocC\u201d, with special guest Marin Todorov",
             "link": "https://www.swiftbysundell.com/podcast/108",
             "updated": 1636029300,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/107",
             "title": "107: \u201cUIKit in 2021\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/107",
             "updated": 1635582000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/106",
             "title": "106: \u201cOpportunities for optimization\u201d, with special guest Christian Selig",
             "link": "https://www.swiftbysundell.com/podcast/106",
             "updated": 1633592400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/105",
             "title": "105: \u201cBuilding various kinds of editors\u201d, with special guest Marcin Krzyzanowski",
             "link": "https://www.swiftbysundell.com/podcast/105",
             "updated": 1632832800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/104",
             "title": "104: \u201cThe magic of Augmented Reality\u201d, with special guest Roxana Jula",
             "link": "https://www.swiftbysundell.com/podcast/104",
             "updated": 1630586100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/103",
             "title": "103: \u201cWhat\u2019s new in Swift 5.5\u201d, with special guest Antoine van der Lee",
             "link": "https://www.swiftbysundell.com/podcast/103",
             "updated": 1629708900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/102",
             "title": "102: \u201cWWDC21, two months later\u201d, with special guest Jordan Morgan",
             "link": "https://www.swiftbysundell.com/podcast/102",
             "updated": 1627903800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/101",
             "title": "101: \u201cCross-platform SwiftUI\u201d, with special guest Malin Sundberg",
             "link": "https://www.swiftbysundell.com/podcast/101",
             "updated": 1626347700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/100",
             "title": "100: \u201cA tower of capabilities\u201d, with special guest Chris Lattner",
             "link": "https://www.swiftbysundell.com/podcast/100",
             "updated": 1625222100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/99",
             "title": "99: \u201cStructured concurrency\u201d, with special guest Doug Gregor",
             "link": "https://www.swiftbysundell.com/podcast/99",
             "updated": 1623405600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/98",
             "title": "98: \u201cAn entire spectrum of apps\u201d, with special guest Sean Allen",
             "link": "https://www.swiftbysundell.com/podcast/98",
             "updated": 1622460900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/97",
             "title": "97: \u201cAnything can happen during WWDC\u201d, with special guest Ish ShaBazz",
             "link": "https://www.swiftbysundell.com/podcast/97",
             "updated": 1621599600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/96",
             "title": "96: \u201cGesture-driven animations\u201d, with special guest Adam Bell",
             "link": "https://www.swiftbysundell.com/podcast/96",
             "updated": 1619702100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/95",
             "title": "95: \u201cConcurrency orchestration\u201d, with special guest Brent Simmons",
             "link": "https://www.swiftbysundell.com/podcast/95",
             "updated": 1618497300,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/94",
             "title": "94: \u201cA Mac-like Mac app\u201d, with special guest Benedikt Terhechte",
             "link": "https://www.swiftbysundell.com/podcast/94",
             "updated": 1617109200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/93",
             "title": "93: \u201cCombine and Core Data\u201d, with special guest Donny Wals",
             "link": "https://www.swiftbysundell.com/podcast/93",
             "updated": 1615713000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/92",
             "title": "92: \u201cAll of our wildest Swift dreams\u201d, with special guest Kaitlin Mahar",
             "link": "https://www.swiftbysundell.com/podcast/92",
             "updated": 1614423600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/91",
             "title": "91: \u201cIs SwiftUI ready for production?\u201d, with special guest David Smith",
             "link": "https://www.swiftbysundell.com/podcast/91",
             "updated": 1613384100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/90",
             "title": "90: \u201cThe essence of app architecture\u201d, with special guest Matt Gallagher",
             "link": "https://www.swiftbysundell.com/podcast/90",
             "updated": 1611839700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/89",
             "title": "89: \u201cFramework and SDK development\u201d, with special guest Ellen Shapiro",
             "link": "https://www.swiftbysundell.com/podcast/89",
             "updated": 1610976900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/88",
             "title": "88: \u201cThe 2020 Holiday Special\u201d",
             "link": "https://www.swiftbysundell.com/podcast/88",
             "updated": 1608556200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/87",
             "title": "87: \u201cThe SwiftUI layout system\u201d, with special guest Chris Eidhof",
             "link": "https://www.swiftbysundell.com/podcast/87",
             "updated": 1606982400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/86",
             "title": "86: \u201cMap is a design pattern\u201d, with special guest Daniel Steinberg",
             "link": "https://www.swiftbysundell.com/podcast/86",
             "updated": 1605795600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/85",
             "title": "85: \u201cCross-Apple platform development\u201d, with special guest James Thomson",
             "link": "https://www.swiftbysundell.com/podcast/85",
             "updated": 1604581800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/84",
             "title": "84: \u201cKey paths, functions and closures\u201d, with special guest Vincent Pradeilles",
             "link": "https://www.swiftbysundell.com/podcast/84",
             "updated": 1603374900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/83",
             "title": "83: \u201cAdventure into widgets\u201d, with Scriptable developer Simon St\u00f8vring",
             "link": "https://www.swiftbysundell.com/podcast/83",
             "updated": 1602164700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/82",
             "title": "82: \u201cTranslating designs into code\u201d, with special guest Jordan Singer",
             "link": "https://www.swiftbysundell.com/podcast/82",
             "updated": 1600934400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/81",
             "title": "81: \u201cHow big iOS teams typically operate\u201d, with special guest Carola Nitz",
             "link": "https://www.swiftbysundell.com/podcast/81",
             "updated": 1599736200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/80",
             "title": "80: \u201cLists and loops\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/80",
             "updated": 1598608500,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/79",
             "title": "79: \u201cAll about UICollectionView\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/79",
             "updated": 1597323000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/78",
             "title": "78: \u201cWhat\u2019s new in Swift 5.3\u201d, with special guest JP Simard",
             "link": "https://www.swiftbysundell.com/podcast/78",
             "updated": 1595948400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/77",
             "title": "77: \u201cAdopting new system features\u201d, with special guest Jordan Morgan",
             "link": "https://www.swiftbysundell.com/podcast/77",
             "updated": 1594900800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/76",
             "title": "76: \u201cA huge year for SwiftUI\u201d, a WWDC20 special with Josh Shaffer and Eliza Block",
             "link": "https://www.swiftbysundell.com/podcast/76",
             "updated": 1593517800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/75",
             "title": "75: \u201cThe Swift package ecosystem\u201d, with special guests Dave Verwer and Sven A. Schmidt",
             "link": "https://www.swiftbysundell.com/podcast/75",
             "updated": 1592538300,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/74",
             "title": "74: \u201cLet\u2019s build a camera app\u201d, a conversation with the Halide and Spectre team",
             "link": "https://www.swiftbysundell.com/podcast/74",
             "updated": 1591268400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/73",
             "title": "73: \u201cTruly a general-purpose language\u201d, with special guest Kilo Loco",
             "link": "https://www.swiftbysundell.com/podcast/73",
             "updated": 1589898000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/72",
             "title": "72: \u201cMany layers of SwiftUI\u201d, with special guest Tobias Due Munk",
             "link": "https://www.swiftbysundell.com/podcast/72",
             "updated": 1588859100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/71",
             "title": "71: \u201cPolymorphic interfaces\u201d, with special guest Dave Abrahams",
             "link": "https://www.swiftbysundell.com/podcast/71",
             "updated": 1587650220,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/70",
             "title": "70: \u201cRisks and rewards\u201d, with special guest Christian Selig",
             "link": "https://www.swiftbysundell.com/podcast/70",
             "updated": 1586439900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/69",
             "title": "69: \u201cSwift Playgrounds\u201d, with special guests Holly Borla and Grace Kendall",
             "link": "https://www.swiftbysundell.com/podcast/69",
             "updated": 1585047600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/68",
             "title": "68: \u201cMVPs and prototypes\u201d, with special guest Leah Culver",
             "link": "https://www.swiftbysundell.com/podcast/68",
             "updated": 1584016200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/67",
             "title": "67: \u201cBuilding for open source\u201d, with special guests Ryan Nystrom and Brian Lovin",
             "link": "https://www.swiftbysundell.com/podcast/67",
             "updated": 1582628400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/66",
             "title": "66: \u201cBridging the gap\u201d, with special guest Meng To",
             "link": "https://www.swiftbysundell.com/podcast/66",
             "updated": 1581598800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/65",
             "title": "65: \u201cTools are just apps\u201d, with special guest Gui Rambo",
             "link": "https://www.swiftbysundell.com/podcast/65",
             "updated": 1580385600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/64",
             "title": "64: \u201cEarning the deeper look\u201d, with special guest Sean Allen",
             "link": "https://www.swiftbysundell.com/podcast/64",
             "updated": 1579098600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/63",
             "title": "63: \u201cIt\u2019s been a wild year\u201d, a Holiday Special with Donny Wals and Antoine van der Lee",
             "link": "https://www.swiftbysundell.com/podcast/63",
             "updated": 1576746900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/62",
             "title": "62: \u201cBackend-driven UIs\u201d, with special guest Kate Castellano",
             "link": "https://www.swiftbysundell.com/podcast/62",
             "updated": 1575556200,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/61",
             "title": "61: \u201cEnd-to-end Swift\u201d, with special guest Tim Condon",
             "link": "https://www.swiftbysundell.com/podcast/61",
             "updated": 1574423100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/60",
             "title": "60: \u201cDeploying SwiftUI in production\u201d, with special guest David Smith",
             "link": "https://www.swiftbysundell.com/podcast/60",
             "updated": 1573137900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/59",
             "title": "59: \u201cA major step forward\u201d, a SwiftUI special with Josh Shaffer",
             "link": "https://www.swiftbysundell.com/podcast/59",
             "updated": 1571740800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/58",
             "title": "58: \u201cSwift for Machine Learning\u201d, with special guests Paige Bailey and Brennan Saeta",
             "link": "https://www.swiftbysundell.com/podcast/58",
             "updated": 1570536000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/57",
             "title": "57: \u201cAudio and Swift\u201d, with special guest Adam Bell",
             "link": "https://www.swiftbysundell.com/podcast/57",
             "updated": 1569317400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "https://www.swiftbysundell.com/podcast/56",
             "title": "56: \u201cThe power of software\u201d, with special guest Ish ShaBazz",
             "link": "https://www.swiftbysundell.com/podcast/56",
             "updated": 1568367600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d692922521bde0001413912",
             "title": "55: \u201cA whole new world\u201d, with special guest Marin Todorov",
             "link": "https://www.swiftbysundell.com/podcast/55",
             "updated": 1567147800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d530ebd9e607f0001da3f06",
             "title": "54: \u201cSwift 5.1, iOS 13 and iPadOS\u201d, with special guests Benedikt Terhechte and Bas Broek",
             "link": "https://www.swiftbysundell.com/podcast/54",
             "updated": 1565700900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d42fa7af92a2d00013a8822",
             "title": "53: \u201cThe Swift Apple\u201d, with special guest Brent Simmons",
             "link": "https://www.swiftbysundell.com/podcast/53",
             "updated": 1564645680,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d3099ceee22fc0001a60daf",
             "title": "52: \u201cDiving into Combine\u201d, with special guest Casey Liss",
             "link": "https://www.swiftbysundell.com/podcast/52",
             "updated": 1563441420,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d1e410102bc40000126d880",
             "title": "51: \u201cAccessibility is for everyone\u201d, with special guest Kaya Thomas",
             "link": "https://www.swiftbysundell.com/podcast/51",
             "updated": 1562238840,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5d0bbae6d223b50001c3edab",
             "title": "50: \u201cSwift\u2019s past, present and future\u201d, with special guest Chris Lattner",
             "link": "https://www.swiftbysundell.com/podcast/50",
             "updated": 1561026120,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5cf97bab81c86c0001cea832",
             "title": "49: \u201cA big buffet of frameworks\u201d, with special guest James Thomson",
             "link": "https://www.swiftbysundell.com/podcast/49",
             "updated": 1559828940,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5ce40f16572bf300019071a0",
             "title": "48: \u201cAutomate all the things\u201d, with special guest Simon St\u00f8vring",
             "link": "https://www.swiftbysundell.com/podcast/48",
             "updated": 1558425720,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5cd42b52ec212d7e181c75c2",
             "title": "47: \u201cYour North Star\u201d, with special guest Mayuko Inoue",
             "link": "https://www.swiftbysundell.com/podcast/47",
             "updated": 1557385620,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5cbf3c3f104c7bdb855143f3",
             "title": "46: \u201cA desire for simplicity and performance\u201d, with special guest Michael Ilseman",
             "link": "https://www.swiftbysundell.com/podcast/46",
             "updated": 1556012580,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5cacdf330d929782cb4eab9e",
             "title": "45: \u201cThat\u2019s why we refactor\u201d, with special guests Chris Eidhof and Matt Gallagher",
             "link": "https://www.swiftbysundell.com/podcast/45",
             "updated": 1554808680,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c9e2cefe5e5f0ada72827a0",
             "title": "44: \u201cPull up the time profiler\u201d, with special guest Janina Kutyn",
             "link": "https://www.swiftbysundell.com/podcast/44",
             "updated": 1553845440,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c8a7d59c8302518f8283a54",
             "title": "43: \u201cThe temporal axis of space-time\u201d, with special guest Dave DeLong",
             "link": "https://www.swiftbysundell.com/podcast/43",
             "updated": 1552555320,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c752d35085229b90051f247",
             "title": "42: \u201cPragmatic priorities\u201d, with special guest Ted Kremenek",
             "link": "https://www.swiftbysundell.com/podcast/42",
             "updated": 1551178260,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c65594be79c702fc136b447",
             "title": "41: \u201cThe ultimate small company\u201d, with special guest Dave Verwer",
             "link": "https://www.swiftbysundell.com/podcast/41",
             "updated": 1550126040,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c46d17eb914435393c5aee6",
             "title": "40: \u201cThrowing a JPEG over a wall\u201d, with special guest Ben Sandofsky",
             "link": "https://www.swiftbysundell.com/podcast/40",
             "updated": 1548748800,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c1bd499b8a045ef68b58abb",
             "title": "39: \u201cSundell by Unwrapped\u201d, a Holiday Special featuring JP Simard and Jesse Squires",
             "link": "https://www.swiftbysundell.com/podcast/39",
             "updated": 1545303180,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5c095fceaa4a993579a20944",
             "title": "38: \u201cDelete derived data in our sleep\u201d, with special guest Kristina Fox",
             "link": "https://www.swiftbysundell.com/podcast/38",
             "updated": 1544093820,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5bf5c0e74ae237ba4c1e78c2",
             "title": "37: \u201cThe test of time\u201d, with special guest Ellen Shapiro",
             "link": "https://www.swiftbysundell.com/podcast/37",
             "updated": 1542807900,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5be4a634cd83661e9f8d95e3",
             "title": "36: \u201cPromises everywhere\u201d, with special guest Max Howell",
             "link": "https://www.swiftbysundell.com/podcast/36",
             "updated": 1541687040,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5bd0cadc9140b720d71a9cff",
             "title": "35: \u201cOnion architecture\u201d, with special guest Rahul Malik",
             "link": "https://www.swiftbysundell.com/podcast/35",
             "updated": 1540386540,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5bc0d77d7817f7b0e23c476f",
             "title": "34: \u201cPure functions\u201d, with special guests Brandon Williams and Stephen Celis",
             "link": "https://www.swiftbysundell.com/podcast/34",
             "updated": 1539340320,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5bad23c5eef1a1e5639b8cf7",
             "title": "33: \u201cEverything is an animation\u201d, with special guest Nick Lockwood",
             "link": "https://www.swiftbysundell.com/podcast/33",
             "updated": 1538049480,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5ba0c729c2241bf257a7ba15",
             "title": "32: \u201cRapid fire interviews\u201d, with special guests Alek, Anastasiia, Janina & JP",
             "link": "https://www.swiftbysundell.com/podcast/32",
             "updated": 1537238820,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b86d92a88251bbfd49649b1",
             "title": "31: \u201cCode signing, but for APIs\u201d, with special guest Felix Krause",
             "link": "https://www.swiftbysundell.com/podcast/31",
             "updated": 1535539980,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b78388bc2241b4f57ad58a3",
             "title": "30: \u201cDo you wanna be my mentee?\u201d, with special guest Sean Allen",
             "link": "https://www.swiftbysundell.com/podcast/30",
             "updated": 1534580940,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b647d8e6d2a738042f62dfe",
             "title": "29: \u201cFlexing your learning muscle\u201d, with special guest Niels van Hoorn",
             "link": "https://www.swiftbysundell.com/podcast/29",
             "updated": 1533287820,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b50ec256d2a73819020a0b1",
             "title": "28: \u201cLong-term code evolution\u201d, with special guest Peter Steinberger",
             "link": "https://www.swiftbysundell.com/podcast/28",
             "updated": 1532012700,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b3ceec88a922db5a53b53f7",
             "title": "27: \u201cExponential open source effect\u201d, with special guest Ryan Nystrom",
             "link": "https://www.swiftbysundell.com/podcast/27",
             "updated": 1530695460,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b2d1cbe2b6a2872d6c8a93e",
             "title": "26: \u201cBootstrap our way there\u201d, with special guest David Hart",
             "link": "https://www.swiftbysundell.com/podcast/26",
             "updated": 1529661000,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b1954088a922d1aeb706143",
             "title": "25: \u201cSegue into Marzipan\u201d, with special guest Ben Scheirman",
             "link": "https://www.swiftbysundell.com/podcast/25",
             "updated": 1528362060,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5b05cb661ae6cf684942dac0",
             "title": "24: \u201cThe definition of debugging\u201d, with special guest Carola Nitz",
             "link": "https://www.swiftbysundell.com/podcast/24",
             "updated": 1527082380,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5af4b12c2b6a289bcc178851",
             "title": "23: \u201cEpic compiler quest\u201d, with special guests Harlan Haskins and Robert Widmann",
             "link": "https://www.swiftbysundell.com/podcast/23",
             "updated": 1525961100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5ae0bdbe562fa744323045ca",
             "title": "22: \u201cA path for learning\u201d, with special guest Meghan Kane",
             "link": "https://www.swiftbysundell.com/podcast/22",
             "updated": 1524654120,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5accb3ed562fa79982d45f86",
             "title": "21: \u201cThe sweeter Mac app\u201d, with special guest Benedikt Terhechte",
             "link": "https://www.swiftbysundell.com/podcast/21",
             "updated": 1523340300,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5ac267e6aa4a99eca658ada7",
             "title": "20: \u201cA dependency injection kind of guy\u201d, with special guest Radek Pietruszewski",
             "link": "https://www.swiftbysundell.com/podcast/20",
             "updated": 1522665480,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5ab01d9c6d2a73c3cdf902ec",
             "title": "19: \u201cProposal tour\u201d, with special guest Erica Sadun",
             "link": "https://www.swiftbysundell.com/podcast/19",
             "updated": 1521467100,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5aa7e52ce4966b2fc5700923",
             "title": "18: \u201cIt\u2019s like The Matrix\u201d, with special guest Tanner Nelson",
             "link": "https://www.swiftbysundell.com/podcast/18",
             "updated": 1520928720,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a9957c79140b7c6b3cd11b6",
             "title": "17: \u201cSquirrel Syndrome\u201d, with special guest Janie Clayton",
             "link": "https://www.swiftbysundell.com/podcast/17",
             "updated": 1519974360,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a735e15085229da3062bd60",
             "title": "16: \u201cBetter than accessible\u201d, with special guest Sommer Panage",
             "link": "https://www.swiftbysundell.com/podcast/16",
             "updated": 1517485500,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a663884ec212dc30da27cb7",
             "title": "15: \u201cMy interpretation of functional programming\u201d, with special guest Chris Eidhof",
             "link": "https://www.swiftbysundell.com/podcast/15",
             "updated": 1516623960,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a3d4723ec212d376f021a80",
             "title": "14: \u201cHoliday Special\u201d, with special guests Tobias Due Munk, Nataliya Patsovska & Patrick Balestra",
             "link": "https://www.swiftbysundell.com/podcast/14",
             "updated": 1513940820,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a3111598165f57be158f521",
             "title": "13: \u201cMy DNA is on GitHub\u201d, with special guest Orta Therox",
             "link": "https://www.swiftbysundell.com/podcast/13",
             "updated": 1513140540,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a1dc6d324a694106d0b34f5",
             "title": "12: \u201cA pretty good job for a view controller\u201d, with special guest Matthias Tretter",
             "link": "https://www.swiftbysundell.com/podcast/12",
             "updated": 1511876400,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a0b5dabf9619a85bc183e1a",
             "title": "11: \u201cDon\u2019t use this for evil\u201d, with special guest Mike Ash",
             "link": "https://www.swiftbysundell.com/podcast/11",
             "updated": 1510669980,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5a0191ae41920244cafc1742",
             "title": "10: \u201cBoy, I have a lot of thoughts on this\u201d, with special guest Soroush Khanlou",
             "link": "https://www.swiftbysundell.com/podcast/10",
             "updated": 1510027620,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59f8db2f24a6946106362add",
             "title": "9: \u201cThe answer is YES\u201d, with special guest Paul Hudson",
             "link": "https://www.swiftbysundell.com/podcast/9",
             "updated": 1509457440,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59e9026890bcce0508db090d",
             "title": "8: \u201cTime traveling is always cool\u201d, with special guests Marin Todorov and Florent Pillet",
             "link": "https://www.swiftbysundell.com/podcast/8",
             "updated": 1508418720,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59ce93c1b1ffb6151943a406",
             "title": "7: \u201cSpelunking the firmware\u201d, with special guest Gui Rambo",
             "link": "https://www.swiftbysundell.com/podcast/7",
             "updated": 1506686340,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59c4e014a8b2b0f5e4f54646",
             "title": "6: \u201cSomewhere between the view and the model\u201d, with special guest Agnes Vasarhelyi",
             "link": "https://www.swiftbysundell.com/podcast/6",
             "updated": 1506049980,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59b16664cd39c3450a246938",
             "title": "5: \u201cEscape into the open source world\u201d, with special guest Louis D'hauwe",
             "link": "https://www.swiftbysundell.com/podcast/5",
             "updated": 1504776960,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59a712cde6f2e1da6ae88e33",
             "title": "4: \u201cFake Canadian\u201d, with special guest Ash Furrow",
             "link": "https://www.swiftbysundell.com/podcast/4",
             "updated": 1504098540,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59972ce34c0dbf1b58f8a715",
             "title": "3: \u201cTalking with the server it\u2019s supposed to\u201d, with special guests Anastasiia Voitova and Marcin Krzyzanowski",
             "link": "https://www.swiftbysundell.com/podcast/3",
             "updated": 1503059040,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:5989bfebe58c6279ad30cfd7",
             "title": "2: \u201cIt\u2019s a lot like cleaning your house\u201d, with special guest Roy Marmelstein",
             "link": "https://www.swiftbysundell.com/podcast/2",
             "updated": 1502175360,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         },
         {
             "id": "590b40b75016e10ca7fbff78:59823ecac534a526009cda28:59823f0e37c58112c25c7810",
             "title": "1: \u201cHello world\u201d",
             "link": "https://www.swiftbysundell.com/podcast/1",
             "updated": 1501689600,
-            "site_name": "Swift by Sundell Podcast"
+            "site_url": "https://www.swiftbysundell.com/podcast/"
         }
     ]
 }

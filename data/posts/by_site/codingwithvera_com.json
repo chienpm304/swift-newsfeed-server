@@ -1,110 +1,110 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "662d0af5d7049d0001a3a24d",
             "title": "What the **** is an App Lifecycle?!",
             "link": "https://codingwithvera.com/what-the-are-app-states/",
             "updated": 1714311690,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "6622a50d01f0e50001e3505a",
             "title": "Review Of iOS Lead Essentials Course",
             "link": "https://codingwithvera.com/review-of-lead-ios-essentials-course/",
             "updated": 1713684971,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "661b8e92bb429600011c12b9",
             "title": "Deep Dive Into Macros",
             "link": "https://codingwithvera.com/deep-dive-into-macros/",
             "updated": 1713171115,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "661273b48d5fe20001e331db",
             "title": "What the **** is an @escaping closure in Swift",
             "link": "https://codingwithvera.com/what-the-is-an-escaping-closure-in-swift/",
             "updated": 1712466407,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "660a854265139000019b2e12",
             "title": "How to Implement Pagination in iOS",
             "link": "https://codingwithvera.com/how-to-implement-pagination-in-swift/",
             "updated": 1711974735,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "6600034e65139000019b2cb9",
             "title": "How to Implement TDD on Existing Code",
             "link": "https://codingwithvera.com/how-to-implement-tdd-on-existing-code/",
             "updated": 1711285090,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65f4a35034b9e400016fa5e8",
             "title": "Struct vs Class: Which One Do I Need?",
             "link": "https://codingwithvera.com/struct-vs-class-which-one-do-i-need/",
             "updated": 1710672452,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65f0982d34b9e400016fa529",
             "title": "Modular Components in Swift UI using TCA",
             "link": "https://codingwithvera.com/modular-components-using-tca-and-swiftui/",
             "updated": 1710316764,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65e7275ba299a300016dca00",
             "title": "What the **** is a Memory Leak?!",
             "link": "https://codingwithvera.com/how-to-test-for-memory-leaks-using-unit-tests/",
             "updated": 1709631354,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65ddf164a299a300016dc907",
             "title": "Stub vs Spy vs Mock: Aren't they all just the same thing?",
             "link": "https://codingwithvera.com/stub-vs-mock-vs-spy-arent-they-all-the-same-thing/",
             "updated": 1709025530,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65d1044da299a300016dc84c",
             "title": "Setup GitHub Actions on Your iOS Project",
             "link": "https://codingwithvera.com/how-to-setup-github-actions-on-your-xcode-project/",
             "updated": 1708342494,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65ca5f57a299a300016dc7ba",
             "title": "Fix Github Actions Error on XCode 14",
             "link": "https://codingwithvera.com/how-to-fix-the-github-action-error/",
             "updated": 1707738597,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65bea8aaa299a300016dc738",
             "title": "Incorporate Zendesk Chat SDK into Your iOS App",
             "link": "https://codingwithvera.com/incorporate-zendesk-chat-sdk-into-your-ios-app/",
             "updated": 1696518986,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65bea8aaa299a300016dc735",
             "title": "How to Customize Switch Toggles in SwiftUI with TCA",
             "link": "https://codingwithvera.com/crafting-custom-colored-switch-toggles-in-swiftui-with-tca/",
             "updated": 1695649740,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         },
         {
             "id": "65bea8aaa299a300016dc736",
             "title": "Tools I Use With My ADHD Brain",
             "link": "https://codingwithvera.com/tools-i-use-with-my-adhd-brain/",
             "updated": 1679238482,
-            "site_name": "Coding With Vera"
+            "site_url": "https://codingwithvera.com"
         }
     ]
 }

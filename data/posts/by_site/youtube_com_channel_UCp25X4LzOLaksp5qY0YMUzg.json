@@ -1,110 +1,110 @@
 {
-    "updated": 1714471148,
+    "updated": 1714537272,
     "posts": [
         {
-            "id": "yt:video:ZJad8eT3Xpk",
-            "title": "Rebuild Netflix in SwiftUI (Part 6/6) | SwiftUI in Practice #17",
-            "link": "https://www.youtube.com/watch?v=ZJad8eT3Xpk",
-            "updated": 1714045329,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:05nHvBhhfow",
-            "title": "Rebuild Netflix in SwiftUI (Part 5/6) | SwiftUI in Practice #16",
-            "link": "https://www.youtube.com/watch?v=05nHvBhhfow",
-            "updated": 1713020845,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:OL6CSivnrqk",
-            "title": "Rebuild Netflix in SwiftUI (Part 4/6) | SwiftUI in Practice #15",
-            "link": "https://www.youtube.com/watch?v=OL6CSivnrqk",
-            "updated": 1712941727,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:6oUDRKMNAuE",
-            "title": "Rebuild Netflix in SwiftUI (Part 3/6) | SwiftUI in Practice #14",
-            "link": "https://www.youtube.com/watch?v=6oUDRKMNAuE",
-            "updated": 1713491259,
-            "site_name": "Swiftful Thinking"
+            "id": "yt:video:mpt6QnbE3o8",
+            "title": "Rebuild Bumble in SwiftUI (Part 5/5) | SwiftUI in Practice #11",
+            "link": "https://www.youtube.com/watch?v=mpt6QnbE3o8",
+            "updated": 1714258354,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:HcM3K7nlpHM",
             "title": "Rebuild Netflix in SwiftUI (Part 2/6) | SwiftUI in Practice #13",
             "link": "https://www.youtube.com/watch?v=HcM3K7nlpHM",
             "updated": 1714210010,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:oK6QwJAp3Pc",
-            "title": "Rebuild Netflix in SwiftUI (Part 1/6) | SwiftUI in Practice #12",
-            "link": "https://www.youtube.com/watch?v=oK6QwJAp3Pc",
-            "updated": 1712793331,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:mpt6QnbE3o8",
-            "title": "Rebuild Bumble in SwiftUI (Part 5/5) | SwiftUI in Practice #11",
-            "link": "https://www.youtube.com/watch?v=mpt6QnbE3o8",
-            "updated": 1714258354,
-            "site_name": "Swiftful Thinking"
-        },
-        {
-            "id": "yt:video:nsklZa80KGU",
-            "title": "Rebuild Bumble in SwiftUI (Part 4/5) | SwiftUI in Practice #10",
-            "link": "https://www.youtube.com/watch?v=nsklZa80KGU",
-            "updated": 1712403023,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:rAZItPC1GIY",
             "title": "Rebuild Bumble in SwiftUI (Part 3/5) | SwiftUI in Practice #9",
             "link": "https://www.youtube.com/watch?v=rAZItPC1GIY",
             "updated": 1714143439,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:ZJad8eT3Xpk",
+            "title": "Rebuild Netflix in SwiftUI (Part 6/6) | SwiftUI in Practice #17",
+            "link": "https://www.youtube.com/watch?v=ZJad8eT3Xpk",
+            "updated": 1714045329,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:6oUDRKMNAuE",
+            "title": "Rebuild Netflix in SwiftUI (Part 3/6) | SwiftUI in Practice #14",
+            "link": "https://www.youtube.com/watch?v=6oUDRKMNAuE",
+            "updated": 1713491259,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:05nHvBhhfow",
+            "title": "Rebuild Netflix in SwiftUI (Part 5/6) | SwiftUI in Practice #16",
+            "link": "https://www.youtube.com/watch?v=05nHvBhhfow",
+            "updated": 1713020845,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:OL6CSivnrqk",
+            "title": "Rebuild Netflix in SwiftUI (Part 4/6) | SwiftUI in Practice #15",
+            "link": "https://www.youtube.com/watch?v=OL6CSivnrqk",
+            "updated": 1712941727,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:oK6QwJAp3Pc",
+            "title": "Rebuild Netflix in SwiftUI (Part 1/6) | SwiftUI in Practice #12",
+            "link": "https://www.youtube.com/watch?v=oK6QwJAp3Pc",
+            "updated": 1712793331,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:nsklZa80KGU",
+            "title": "Rebuild Bumble in SwiftUI (Part 4/5) | SwiftUI in Practice #10",
+            "link": "https://www.youtube.com/watch?v=nsklZa80KGU",
+            "updated": 1712403023,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:VcidT15AeIQ",
             "title": "Rebuild Bumble in SwiftUI (Part 2/5) | SwiftUI in Practice #8",
             "link": "https://www.youtube.com/watch?v=VcidT15AeIQ",
             "updated": 1712198947,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:t6rVT1-aeaw",
             "title": "Rebuild Bumble in SwiftUI (Part 1/5) | SwiftUI in Practice #7",
             "link": "https://www.youtube.com/watch?v=t6rVT1-aeaw",
             "updated": 1712184292,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:c92DfVGGi8M",
             "title": "Rebuild Spotify in SwiftUI (Part 5/5) | SwiftUI in Practice #6",
             "link": "https://www.youtube.com/watch?v=c92DfVGGi8M",
             "updated": 1712062237,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:_fqqRXRG9Bk",
             "title": "Rebuild Spotify in SwiftUI (Part 4/5) | SwiftUI in Practice #5",
             "link": "https://www.youtube.com/watch?v=_fqqRXRG9Bk",
             "updated": 1711913417,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:s7kUGPBVIaU",
             "title": "Rebuild Spotify in SwiftUI (Part 3/5) | SwiftUI in Practice #4",
             "link": "https://www.youtube.com/watch?v=s7kUGPBVIaU",
             "updated": 1711857151,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         },
         {
             "id": "yt:video:nNWSuwFn_fg",
             "title": "Rebuild Spotify in SwiftUI (Part 2/5) | SwiftUI in Practice #3",
             "link": "https://www.youtube.com/watch?v=nNWSuwFn_fg",
             "updated": 1711783990,
-            "site_name": "Swiftful Thinking"
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
         }
     ]
 }

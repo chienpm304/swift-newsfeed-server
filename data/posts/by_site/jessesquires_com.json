@@ -1,215 +1,215 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/",
             "title": "Workaround: Swift scripts importing Cocoa frameworks broken on macOS 14",
             "link": "https://www.jessesquires.com/blog/2024/01/22/swift-scripting-broken-macos-14/",
             "updated": 1705908692,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/22/fastlane-for-indies/",
             "title": "A simple fastlane setup for solo indie developers",
             "link": "https://www.jessesquires.com/blog/2024/01/22/fastlane-for-indies/",
             "updated": 1705895875,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/18/menu-bar-apps-for-sale/",
             "title": "Mac menu bar apps for sale",
             "link": "https://www.jessesquires.com/blog/2024/01/18/menu-bar-apps-for-sale/",
             "updated": 1705552012,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/17/swift-protocol-requirement-quirks/",
             "title": "Swift protocol requirement quirks",
             "link": "https://www.jessesquires.com/blog/2024/01/17/swift-protocol-requirement-quirks/",
             "updated": 1705462834,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/",
             "title": "App Store screenshot requirements need to change",
             "link": "https://www.jessesquires.com/blog/2024/01/16/app-store-screenshot-requirements/",
             "updated": 1705373549,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/",
             "title": "Workaround: Xcode simctl status_bar is still broken for iOS 17 simulators",
             "link": "https://www.jessesquires.com/blog/2024/01/04/simctl-status_bar-still-broken/",
             "updated": 1704347438,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2024/01/03/app-store-rejection/",
             "title": "Another frivolous and frustrating App Store rejection",
             "link": "https://www.jessesquires.com/blog/2024/01/03/app-store-rejection/",
             "updated": 1704281684,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/29/reading-list-2023/",
             "title": "A list of books I read in 2023",
             "link": "https://www.jessesquires.com/blog/2023/12/29/reading-list-2023/",
             "updated": 1703826134,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/29/top-posts-of-2023/",
             "title": "Top posts of 2023",
             "link": "https://www.jessesquires.com/blog/2023/12/29/top-posts-of-2023/",
             "updated": 1703820820,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/16/macbook-notch-and-menu-bar-fixes/",
             "title": "How to fix Mac menu bar icons hidden by the MacBook notch",
             "link": "https://www.jessesquires.com/blog/2023/12/16/macbook-notch-and-menu-bar-fixes/",
             "updated": 1702698495,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/15/mastodon/",
             "title": "Find me on Mastodon",
             "link": "https://www.jessesquires.com/blog/2023/12/15/mastodon/",
             "updated": 1702632517,
-            "site_name": "Jesse Squires\u2019 Blog"
-        },
-        {
-            "id": "https://www.jessesquires.com/blog/2023/12/07/going-indie-4/",
-            "title": "Going Indie: bookkeeping and invoicing",
-            "link": "https://www.jessesquires.com/blog/2023/12/07/going-indie-4/",
-            "updated": 1701914032,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/06/xcode-shell-env/",
             "title": "Xcode does not have access to your shell environment",
             "link": "https://www.jessesquires.com/blog/2023/12/06/xcode-shell-env/",
             "updated": 1702630232,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
+        },
+        {
+            "id": "https://www.jessesquires.com/blog/2023/12/07/going-indie-4/",
+            "title": "Going Indie: bookkeeping and invoicing",
+            "link": "https://www.jessesquires.com/blog/2023/12/07/going-indie-4/",
+            "updated": 1701914032,
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/05/m3-performance/",
             "title": "M3 Max Performance",
             "link": "https://www.jessesquires.com/blog/2023/12/05/m3-performance/",
             "updated": 1701748340,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/12/04/new-m3-mbp/",
             "title": "Setting up a new M3 MacBook Pro",
             "link": "https://www.jessesquires.com/blog/2023/12/04/new-m3-mbp/",
             "updated": 1701662448,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/11/14/fix-airpods-reset/",
             "title": "How to fix malfunctioning AirPods",
             "link": "https://www.jessesquires.com/blog/2023/11/14/fix-airpods-reset/",
             "updated": 1699939301,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/10/30/github-tip-filter-involves/",
             "title": "GitHub Tip: using the involves filter",
             "link": "https://www.jessesquires.com/blog/2023/10/30/github-tip-filter-involves/",
             "updated": 1698638073,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/08/17/swift-url-absolutestring-path/",
             "title": "Swift URL absoluteString versus path",
             "link": "https://www.jessesquires.com/blog/2023/08/17/swift-url-absolutestring-path/",
             "updated": 1692235972,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/08/16/going-indie-3/",
             "title": "Going indie: business structure, taxes, and retirement",
             "link": "https://www.jessesquires.com/blog/2023/08/16/going-indie-3/",
             "updated": 1692215952,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/07/18/navigation-link-accessory-view-swiftui/",
             "title": "How to customize NavigationLink accessory views in SwiftUI",
             "link": "https://www.jessesquires.com/blog/2023/07/18/navigation-link-accessory-view-swiftui/",
             "updated": 1689644998,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/",
             "title": "Stop prefixing your UserDefaults keys",
             "link": "https://www.jessesquires.com/blog/2023/07/17/stop-prefixing-userdefaults-keys/",
             "updated": 1689568632,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/07/11/where-are-xcode-bookmarks-stored/",
             "title": "Where are Xcode bookmarks stored?",
             "link": "https://www.jessesquires.com/blog/2023/07/11/where-are-xcode-bookmarks-stored/",
             "updated": 1689052652,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/07/11/creating-dynamic-colors-in-swiftui/",
             "title": "Creating dynamic colors in SwiftUI",
             "link": "https://www.jessesquires.com/blog/2023/07/11/creating-dynamic-colors-in-swiftui/",
             "updated": 1689041152,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/05/08/going-indie-2/",
             "title": "Going Indie: building a foundation, finding clients, and negotiating rates",
             "link": "https://www.jessesquires.com/blog/2023/05/08/going-indie-2/",
             "updated": 1683513729,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/26/estimating-rss-subscribers/",
             "title": "Estimating RSS subscribers on NearlyFreeSpeech.net",
             "link": "https://www.jessesquires.com/blog/2023/04/26/estimating-rss-subscribers/",
             "updated": 1682475399,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/25/linebreakstrategy-pushout/",
             "title": "How to prevent orphan words in text views on iOS and macOS",
             "link": "https://www.jessesquires.com/blog/2023/04/25/linebreakstrategy-pushout/",
             "updated": 1682392975,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/24/new-app-taxatio/",
             "title": "Introducing Taxatio",
             "link": "https://www.jessesquires.com/blog/2023/04/24/new-app-taxatio/",
             "updated": 1682304379,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/10/going-indie/",
             "title": "Going Independent: My experience and reflections 3 years later",
             "link": "https://www.jessesquires.com/blog/2023/04/10/going-indie/",
             "updated": 1681094842,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/04/exploring-a-new-ios-codebase/",
             "title": "Exploring a new iOS codebase",
             "link": "https://www.jessesquires.com/blog/2023/04/04/exploring-a-new-ios-codebase/",
             "updated": 1680579869,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         },
         {
             "id": "https://www.jessesquires.com/blog/2023/04/02/hardcore-and-karma/",
             "title": "Love for hardcore, and a taste of karma",
             "link": "https://www.jessesquires.com/blog/2023/04/02/hardcore-and-karma/",
             "updated": 1680415626,
-            "site_name": "Jesse Squires\u2019 Blog"
+            "site_url": "https://www.jessesquires.com"
         }
     ]
 }

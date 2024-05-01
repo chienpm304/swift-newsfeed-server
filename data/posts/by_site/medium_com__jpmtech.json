@@ -1,75 +1,75 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://medium.com/p/6f7fb4c3e63e",
             "title": "Using SF Symbols in Your App Designs",
             "link": "https://medium.com/@jpmtech/using-sf-symbols-in-your-app-designs-6f7fb4c3e63e?source=rss-940b7d9329f2------2",
             "updated": 1714195510,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/a38c869f0eaa",
             "title": "Making Your Custom Font Support Dynamic Font Sizes",
             "link": "https://medium.com/@jpmtech/making-your-custom-font-support-dynamic-font-sizes-a38c869f0eaa?source=rss-940b7d9329f2------2",
             "updated": 1713758468,
-            "site_name": "Chase Lewis Blog"
-        },
-        {
-            "id": "https://medium.com/p/8eaaa0f0e04a",
-            "title": "Web View in SwiftUI",
-            "link": "https://medium.com/@jpmtech/web-view-in-swiftui-8eaaa0f0e04a?source=rss-940b7d9329f2------2",
-            "updated": 1713153724,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/b01a3cde8166",
             "title": "Passing One SwiftUI View as a Parameter to Another SwiftUI View",
             "link": "https://medium.com/@jpmtech/passing-one-swiftui-view-as-a-parameter-to-another-swiftui-view-b01a3cde8166?source=rss-940b7d9329f2------2",
             "updated": 1713366988,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
+        },
+        {
+            "id": "https://medium.com/p/8eaaa0f0e04a",
+            "title": "Web View in SwiftUI",
+            "link": "https://medium.com/@jpmtech/web-view-in-swiftui-8eaaa0f0e04a?source=rss-940b7d9329f2------2",
+            "updated": 1713153724,
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/37cbffeba459",
             "title": "Level Up Your Career by Adding UI Tests to Your SwiftUI App",
             "link": "https://medium.com/@jpmtech/level-up-your-career-by-adding-ui-tests-to-your-swiftui-app-37cbffeba459?source=rss-940b7d9329f2------2",
             "updated": 1712849592,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/d6655d4e557e",
             "title": "React Native vs Dual Native: I Learned Both So You Don\u2019t Have To",
             "link": "https://medium.com/@jpmtech/react-native-vs-dual-native-i-learned-both-so-you-dont-have-to-d6655d4e557e?source=rss-940b7d9329f2------2",
             "updated": 1711886108,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/cd85f1d286b6",
             "title": "Test iOS Apps with Limited or No Network Connectivity",
             "link": "https://medium.com/@jpmtech/test-ios-apps-with-limited-or-no-network-connectivity-cd85f1d286b6?source=rss-940b7d9329f2------2",
             "updated": 1710734534,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/0644fd3993b8",
             "title": "Using Apple\u2019s OpenAPI Generator to Make and Mock Network Calls in SwiftUI",
             "link": "https://medium.com/@jpmtech/using-apples-openapi-generator-to-make-and-mock-network-calls-in-swiftui-0644fd3993b8?source=rss-940b7d9329f2------2",
             "updated": 1710694228,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/c3c9ee6b39ce",
             "title": "Building an Onboarding Flow with SwiftData",
             "link": "https://medium.com/@jpmtech/building-an-onboarding-flow-with-swiftdata-c3c9ee6b39ce?source=rss-940b7d9329f2------2",
             "updated": 1708923712,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         },
         {
             "id": "https://medium.com/p/11ad83404f76",
             "title": "Using SwiftData to Store Large Files from an API call",
             "link": "https://medium.com/@jpmtech/using-swiftdata-to-store-large-files-from-an-api-call-11ad83404f76?source=rss-940b7d9329f2------2",
             "updated": 1704690133,
-            "site_name": "Chase Lewis Blog"
+            "site_url": "https://medium.com/@jpmtech"
         }
     ]
 }

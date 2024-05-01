@@ -1,75 +1,75 @@
 {
-    "updated": 1714470926,
+    "updated": 1714537254,
     "posts": [
         {
             "id": "https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/",
             "title": "How to get/set keypath using string",
             "link": "https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/",
             "updated": 1711959900,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2024/01/26/app-store-changes-in-eu-allowing-alternative-marketplace/",
             "title": "App Store changes in EU, allowing alternative marketplace",
             "link": "https://samwize.com/2024/01/26/app-store-changes-in-eu-allowing-alternative-marketplace/",
             "updated": 1706209020,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/",
             "title": "My Talk at iOS Conf SG 2024",
             "link": "https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/",
             "updated": 1705541400,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/",
             "title": "SwiftUI Observable in iOS 17",
             "link": "https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/",
             "updated": 1705300320,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2024/01/10/macos-safari-keeps-require-re-login-bug/",
             "title": "macOS Safari keeps require re-login bug",
             "link": "https://samwize.com/2024/01/10/macos-safari-keeps-require-re-login-bug/",
             "updated": 1704831060,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2023/12/29/swfit-public-vs-final-vs-open/",
             "title": "Swift public vs final vs open",
             "link": "https://samwize.com/2023/12/29/swfit-public-vs-final-vs-open/",
             "updated": 1703791200,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/",
             "title": "Should you add final to all your Swift classes?",
             "link": "https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/",
             "updated": 1702609620,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/",
             "title": "PITFALL: Removing arranged subview in UIStackView",
             "link": "https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/",
             "updated": 1698634080,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2023/10/01/how-to-use-the-new-regex-with-literal-slash-syntax/",
             "title": "How to use the new Regex with literal slash syntax",
             "link": "https://samwize.com/2023/10/01/how-to-use-the-new-regex-with-literal-slash-syntax/",
             "updated": 1696122240,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         },
         {
             "id": "https://samwize.com/2023/07/25/why-you-should-use-oslog-in-2023/",
             "title": "Why you should use OSLog in 2023",
             "link": "https://samwize.com/2023/07/25/why-you-should-use-oslog-in-2023/",
             "updated": 1690241460,
-            "site_name": "samwize\u2019s Blog"
+            "site_url": "https://samwize.com"
         }
     ]
 }

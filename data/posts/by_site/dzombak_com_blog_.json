@@ -1,145 +1,145 @@
 {
-    "updated": 1714470874,
+    "updated": 1714537236,
     "posts": [
         {
             "id": "https://www.dzombak.com/blog/2024/04/Some-recent-bird-photos",
             "title": "Some recent bird photos",
             "link": "https://www.dzombak.com/blog/2024/04/Some-recent-bird-photos.html",
             "updated": 1711949449,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/04/Pi-Reliability-Reduce-writes-to-your-SD-card",
             "title": "Pi Reliability: Reduce writes to your SD card",
             "link": "https://www.dzombak.com/blog/2024/04/Pi-Reliability-Reduce-writes-to-your-SD-card.html",
             "updated": 1711949445,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/04/The-12v-portable-power-supply-Ego-needs-to-make",
             "title": "The 12v portable power supply Ego needs to make",
             "link": "https://www.dzombak.com/blog/2024/04/The-12v-portable-power-supply-Ego-needs-to-make.html",
             "updated": 1711945292,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem",
             "title": "Running a Raspberry Pi with a read-only root filesystem",
             "link": "https://www.dzombak.com/blog/2024/03/Running-a-Raspberry-Pi-with-a-read-only-root-filesystem.html",
             "updated": 1711707376,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/03/Setting-net-netfilter-nf-conntrack-max-on-Ubuntu-22-04",
             "title": "Setting net.netfilter.nf_conntrack_max on Ubuntu 22.04",
             "link": "https://www.dzombak.com/blog/2024/03/Setting-net-netfilter-nf-conntrack-max-on-Ubuntu-22-04.html",
             "updated": 1711507948,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/03/Pi-Reliability-over-WiFi-Temporary-failure-in-name-resolution",
             "title": "Pi Reliability over WiFi: 'Temporary failure in name resolution'",
             "link": "https://www.dzombak.com/blog/2024/03/Pi-Reliability-over-WiFi-Temporary-failure-in-name-resolution.html",
             "updated": 1711439496,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/03/Keeping-a-SMB-share-mounted-on-macOS-and-alerting-when-it-does-down",
             "title": "Keeping a SMB share mounted on macOS (and alerting when it does down)",
             "link": "https://www.dzombak.com/blog/2024/03/Keeping-a-SMB-share-mounted-on-macOS-and-alerting-when-it-does-down.html",
             "updated": 1710137156,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/More-Koyaanisqatsi-desktop-wallpaper-sunrise-clouds-this-time",
             "title": "More Koyaanisqatsi desktop wallpaper (sunrise clouds this time)",
             "link": "https://www.dzombak.com/blog/2024/02/More-Koyaanisqatsi-desktop-wallpaper-sunrise-clouds-this-time.html",
             "updated": 1708584642,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Socket-organizers-end-caps-and-3D-printed-friction-fits",
             "title": "Socket organizers, end caps, and 3D-printed friction fits",
             "link": "https://www.dzombak.com/blog/2024/02/Socket-organizers-end-caps-and-3D-printed-friction-fits.html",
             "updated": 1708414277,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Making-3D-printed-end-caps-for-sharp-aluminum-extrusions",
             "title": "Making 3D-printed end caps for sharp aluminum extrusions",
             "link": "https://www.dzombak.com/blog/2024/02/Making-3D-printed-end-caps-for-sharp-aluminum-extrusions.html",
             "updated": 1708078805,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Blocking-disposable-email-domains-in-Mastodon",
             "title": "Blocking disposable email domains in Mastodon",
             "link": "https://www.dzombak.com/blog/2024/02/Blocking-disposable-email-domains-in-Mastodon.html",
             "updated": 1708057149,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Reliable-WiFi-for-the-Bambu-X1C-3D-printer",
             "title": "Reliable WiFi for the Bambu X1C 3D printer",
             "link": "https://www.dzombak.com/blog/2024/02/Reliable-WiFi-for-the-Bambu-X1C-3D-printer.html",
             "updated": 1707982295,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Desert-stills-from-Koyaanisqatsi-as-desktop-wallpaper",
             "title": "Desert stills from Koyaanisqatsi as desktop wallpaper",
             "link": "https://www.dzombak.com/blog/2024/02/Desert-stills-from-Koyaanisqatsi-as-desktop-wallpaper.html",
             "updated": 1707803792,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Automated-generator-load-shedding-for-the-house",
             "title": "Automated generator load-shedding for the house",
             "link": "https://www.dzombak.com/blog/2024/02/Automated-generator-load-shedding-for-the-house.html",
             "updated": 1707725295,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Fixing-bad-design-with-a-label-maker",
             "title": "Fixing bad design with a label maker",
             "link": "https://www.dzombak.com/blog/2024/02/Fixing-bad-design-with-a-label-maker.html",
             "updated": 1707714079,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/OpenList-is-no-longer-available-in-the-Chrome-Web-Store",
             "title": "OpenList is no longer available in the Chrome Web Store",
             "link": "https://www.dzombak.com/blog/2024/02/OpenList-is-no-longer-available-in-the-Chrome-Web-Store.html",
             "updated": 1707370720,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Recycling-a-pallet-into-an-Adirondack-ish-style-footrest",
             "title": "Recycling a pallet into an Adirondack-ish-style footrest",
             "link": "https://www.dzombak.com/blog/2024/02/Recycling-a-pallet-into-an-Adirondack-ish-style-footrest.html",
             "updated": 1707210162,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network",
             "title": "Setting up a secondary Pi-Hole on my home network",
             "link": "https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html",
             "updated": 1707209081,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/02/Setting-up-KVM-virtual-machines-using-a-bridged-network",
             "title": "Setting up KVM virtual machines using a bridge network on an Ubuntu host",
             "link": "https://www.dzombak.com/blog/2024/02/Setting-up-KVM-virtual-machines-using-a-bridged-network.html",
             "updated": 1706869898,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         },
         {
             "id": "https://www.dzombak.com/blog/2024/01/How-to-move-Docker-s-data-directory-from-var-lib",
             "title": "How to move Docker's data directory from /var/lib",
             "link": "https://www.dzombak.com/blog/2024/01/How-to-move-Docker-s-data-directory-from-var-lib.html",
             "updated": 1705372247,
-            "site_name": "Chris Dzombak\u2019s Blog"
+            "site_url": "https://www.dzombak.com/blog/"
         }
     ]
 }

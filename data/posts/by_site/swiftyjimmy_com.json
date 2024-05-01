@@ -1,75 +1,75 @@
 {
-    "updated": 1714470971,
+    "updated": 1714537272,
     "posts": [
         {
             "id": "http://swiftyjimmy.com/?p=1132",
             "title": "Server-side Swift with Vapor 3 \u2013 backend set up",
             "link": "http://swiftyjimmy.com/server-side-swift-vapor/",
             "updated": 1553588996,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=1064",
             "title": "Unit testing RxSwift application with XCTest framework",
             "link": "http://swiftyjimmy.com/unit-testing-rxswift/",
             "updated": 1538794257,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=976",
             "title": "Network request with RxSwift example",
             "link": "http://swiftyjimmy.com/network-request-with-rxswift/",
             "updated": 1537662973,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=991",
             "title": "How to use RxSwift with MVVM pattern part 2",
             "link": "http://swiftyjimmy.com/rxswift-with-mvvm-part-2/",
             "updated": 1535687692,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=955",
             "title": "How to use RxSwift with MVVM pattern",
             "link": "http://swiftyjimmy.com/rxswift-with-mvvm-part1/",
             "updated": 1531871592,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=917",
             "title": "How to use Swift playgrounds to help with UI development",
             "link": "http://swiftyjimmy.com/swift-playgrounds-ui-development/",
             "updated": 1520423076,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=890",
             "title": "How to run your application in Swift playground",
             "link": "http://swiftyjimmy.com/run-application-swift-playground/",
             "updated": 1518474556,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=841",
             "title": "iOS development tools checklist \u2013 Project work made easy",
             "link": "http://swiftyjimmy.com/ios-development-tools-checklist/",
             "updated": 1517353159,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=727",
             "title": "Higher-order functions, Functor and Monad in Swift",
             "link": "http://swiftyjimmy.com/higher-order-functions-functor-monad/",
             "updated": 1511781492,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         },
         {
             "id": "http://swiftyjimmy.com/?p=797",
             "title": "Mock UIApplication for unit tests in Swift",
             "link": "http://swiftyjimmy.com/mock-uiapplication-swift/",
             "updated": 1510574164,
-            "site_name": "SwiftyJimmy"
+            "site_url": "http://swiftyjimmy.com"
         }
     ]
 }
