@@ -1,9 +1,8 @@
 from utils import * 
 
 # Constants
-slugs = ["development", "updates", "packages", "design", "marketing", "companies", "podcasts", "newsletters", "youtube", "twitch"]
-large_slugs = ["development"]
-unsupported_site_urls = load_txt_lines("unsupported_site_urls.txt")
+SUPPORTED_SLUGS = ["development", "updates", "packages", "design", "marketing", "companies", "podcasts", "newsletters", "youtube", "twitch"]
+UNSUPPORTED_SITE_URLS = load_txt_lines("unsupported_site_urls.txt")
 IS_DEBUG = True
 LIMIT_NUMBER_OF_POST_PER_SITE = 50
 LIMIT_NUMBER_OF_POST_PER_SLUG = 1000
@@ -20,7 +19,7 @@ def rebuild_sites():
         
         sites = category.get("sites", [])
         for site in sites:
-            if site["site_url"] in unsupported_site_urls:
+            if site["site_url"] in UNSUPPORTED_SITE_URLS:
                 continue
             site_dict = {
                 "title": site.get("title", ""),
@@ -43,7 +42,7 @@ def parse_feed(site):
     site_url = site["site_url"]
     feed_url = site["feed_url"]
 
-    if site_url in unsupported_site_urls:
+    if site_url in UNSUPPORTED_SITE_URLS:
         raise Exception("Unsupported site_url")
 
     print(f"> Parsing {feed_url}...")
@@ -102,7 +101,7 @@ def generate_posts_by_sites(sites):
                 log_file.write(f"{site['site_url']}\n")
 
 def generate_posts_by_slugs(sites):
-    for slug in slugs:
+    for slug in SUPPORTED_SLUGS:
         slug_posts = []
         for site in sites:
             file_path = "./posts/by_site/" + simplifized_url(site["site_url"]) + ".json"
@@ -131,7 +130,7 @@ def generate_posts_by_slugs(sites):
 
 def generate_recent_posts():
     all_posts = []
-    for slug in slugs:
+    for slug in SUPPORTED_SLUGS:
         input_file_path = "./posts/by_slug/" + slug + ".json"
         if not os.path.isfile(input_file_path):
             print(f"❌ Slug posts not found: {slug}")
@@ -148,7 +147,7 @@ def generate_recent_posts():
         "posts": all_posts
     }
     save_json(all_posts_result, "./posts/recent_posts.json")
-    print(f"> Generated {len(all_posts)} posts!")
+    print(f"> Recent posts: {len(all_posts)}")
 
 
 # main 
