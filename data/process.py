@@ -71,7 +71,9 @@ def generate_posts_by_sites(sites):
 
                 if IS_DEBUG and os.path.isfile(output_file_path):
                     print(f"[debug] Skipped: {output_file_path}")
-                    posts = load_json(output_file_path)["posts"]
+                    cached_posts_info = load_json(output_file_path)
+                    posts = cached_posts_info["posts"]
+                    timestamp = cached_posts_info["updated"]
                 else:
                     posts = parse_feed(site)
                 
@@ -79,8 +81,12 @@ def generate_posts_by_sites(sites):
                     raise Exception("empty posts")
                 else:
                     posts.sort(reverse=True, key=lambda t: t["updated"])
+
+                    if not timestamp:
+                        timestamp = current_timestamp()
+
                     posts_result = {
-                        "updated": current_timestamp(),
+                        "updated": timestamp,
                         "posts": posts
                     }
                     save_json(posts_result, output_file_path)
