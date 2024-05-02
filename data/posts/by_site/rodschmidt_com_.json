@@ -1,0 +1,334 @@
+{
+    "updated": 1714650411,
+    "posts": [
+        {
+            "id": "https://rodschmidt.com/posts/composable-architecture-experience/",
+            "title": "The Composable Architecture: My 3 Year Experience",
+            "link": "https://rodschmidt.com/posts/composable-architecture-experience/",
+            "updated": 1714106137,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/baseball-stl/",
+            "title": "St. Louis Cardinals, My Penultimate Baseball Stadium?",
+            "link": "https://rodschmidt.com/posts/baseball-stl/",
+            "updated": 1695206909,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/from-wordpress-to-hugo/",
+            "title": "From WordPress to Hugo",
+            "link": "https://rodschmidt.com/posts/from-wordpress-to-hugo/",
+            "updated": 1588154100,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/a-tale-of-2-steve-jobses/",
+            "title": "A Tale of 2 Steve Jobses",
+            "link": "https://rodschmidt.com/posts/a-tale-of-2-steve-jobses/",
+            "updated": 1566578203,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/swift-ui-app-architecture-a-new-approach-required/",
+            "title": "Swift UI & App Architecture: A New Approach Required",
+            "link": "https://rodschmidt.com/posts/swift-ui-app-architecture-a-new-approach-required/",
+            "updated": 1564915629,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/two-more-examples-of-clean-architecture/",
+            "title": "Two More Examples of Clean Architecture",
+            "link": "https://rodschmidt.com/posts/two-more-examples-of-clean-architecture/",
+            "updated": 1491045360,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/the-clean-architecture-an-example/",
+            "title": "The Clean Architecture: An Example",
+            "link": "https://rodschmidt.com/posts/the-clean-architecture-an-example/",
+            "updated": 1485700382,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/the-clean-architecture-an-introduction/",
+            "title": "The Clean Architecture: An Introduction",
+            "link": "https://rodschmidt.com/posts/the-clean-architecture-an-introduction/",
+            "updated": 1481218424,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/moving-towards-the-clean-architecture-for-apple-development/",
+            "title": "Moving Towards The Clean Architecture for Apple Development",
+            "link": "https://rodschmidt.com/posts/moving-towards-the-clean-architecture-for-apple-development/",
+            "updated": 1480504170,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/model-view-controller-problems-and-solutions/",
+            "title": "Model View Controller: Problems and Solutions",
+            "link": "https://rodschmidt.com/posts/model-view-controller-problems-and-solutions/",
+            "updated": 1479825679,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/5-ways-to-avoid-force-unwrapping/",
+            "title": "5 Ways to Avoid Force Unwrapping",
+            "link": "https://rodschmidt.com/posts/5-ways-to-avoid-force-unwrapping/",
+            "updated": 1479294173,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/do-you-find-the-whole-planning-process-painful/",
+            "title": "Do You Find The Whole Planning Process Painful?",
+            "link": "https://rodschmidt.com/posts/do-you-find-the-whole-planning-process-painful/",
+            "updated": 1478706687,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/part-4-what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "title": "Part 4: What Are the Downsides to Putting the Core Data MOC in the App Delegate",
+            "link": "https://rodschmidt.com/posts/part-4-what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "updated": 1478011788,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/part-3-what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "title": "Part 3: What Are The Downsides to Putting the Core Data MOC in the App Delegate",
+            "link": "https://rodschmidt.com/posts/part-3-what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "updated": 1477405688,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate-part-2/",
+            "title": "Part 2: What Are The Downsides to Putting the Core Data MOC in the App Delegate",
+            "link": "https://rodschmidt.com/posts/what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate-part-2/",
+            "updated": 1476804829,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/swift-robot-arm/",
+            "title": "Swift Robot Arm",
+            "link": "https://rodschmidt.com/posts/swift-robot-arm/",
+            "updated": 1476200214,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/3-ways-to-fix-your-ios-testing-woes/",
+            "title": "3 Ways To Fix Your iOS Testing Woes",
+            "link": "https://rodschmidt.com/posts/3-ways-to-fix-your-ios-testing-woes/",
+            "updated": 1475488528,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "title": "What are the Downsides to Putting the Core Data MOC in the App Delegate?",
+            "link": "https://rodschmidt.com/posts/what-are-the-downsides-to-putting-the-core-data-moc-in-the-app-delegate/",
+            "updated": 1472133577,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/elixir-robots/",
+            "title": "Elixir Robots",
+            "link": "https://rodschmidt.com/posts/elixir-robots/",
+            "updated": 1432307483,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/robots-robots-robots/",
+            "title": "Robots! Robots! Robots!",
+            "link": "https://rodschmidt.com/posts/robots-robots-robots/",
+            "updated": 1431537685,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/sticky-footers-with-uitableview/",
+            "title": "Sticky Footers with UITableView",
+            "link": "https://rodschmidt.com/posts/sticky-footers-with-uitableview/",
+            "updated": 1424105340,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/back-to-wordpress/",
+            "title": "Back to Wordpress",
+            "link": "https://rodschmidt.com/posts/back-to-wordpress/",
+            "updated": 1423848681,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/app-the-human-story-my-prize/",
+            "title": "App: The Human Story - My Prize",
+            "link": "https://rodschmidt.com/posts/app-the-human-story-my-prize/",
+            "updated": 1421514593,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/app-the-human-story-my-story/",
+            "title": "App: The Human Story - My Story",
+            "link": "https://rodschmidt.com/posts/app-the-human-story-my-story/",
+            "updated": 1404920854,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/a-new-start/",
+            "title": "A New Start",
+            "link": "https://rodschmidt.com/posts/a-new-start/",
+            "updated": 1403883865,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/the-sabbatical-is-over/",
+            "title": "The Sabbatical is Over",
+            "link": "https://rodschmidt.com/posts/the-sabbatical-is-over/",
+            "updated": 1031499430,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-lubbock-again/",
+            "title": "Texas Tour - Lubbock Again",
+            "link": "https://rodschmidt.com/posts/texas-tour-lubbock-again/",
+            "updated": 1029339224,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-jfk/",
+            "title": "Texas Tour - JFK",
+            "link": "https://rodschmidt.com/posts/texas-tour-jfk/",
+            "updated": 1029252436,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-arlington/",
+            "title": "Texas Tour - Arlington",
+            "link": "https://rodschmidt.com/posts/texas-tour-arlington/",
+            "updated": 1029252007,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/dallas/",
+            "title": "Dallas",
+            "link": "https://rodschmidt.com/posts/dallas/",
+            "updated": 1028819711,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/austin/",
+            "title": "Austin",
+            "link": "https://rodschmidt.com/posts/austin/",
+            "updated": 1028646506,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-san-antonio/",
+            "title": "Texas Tour - San Antonio",
+            "link": "https://rodschmidt.com/posts/texas-tour-san-antonio/",
+            "updated": 1028559823,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-lubbock/",
+            "title": "Texas Tour - Lubbock",
+            "link": "https://rodschmidt.com/posts/texas-tour-lubbock/",
+            "updated": 1028386687,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/texas-tour-albuquerque/",
+            "title": "Texas Tour - Albuquerque",
+            "link": "https://rodschmidt.com/posts/texas-tour-albuquerque/",
+            "updated": 1028040847,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/never-say-never-again/",
+            "title": "Never Say Never (Again)",
+            "link": "https://rodschmidt.com/posts/never-say-never-again/",
+            "updated": 1025560757,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/steve-garvey/",
+            "title": "Steve Garvey",
+            "link": "https://rodschmidt.com/posts/steve-garvey/",
+            "updated": 1024610000,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-home/",
+            "title": "West Coast Tour - Home",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-home/",
+            "updated": 1024436893,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-mission-viejo/",
+            "title": "West Coast Tour - Mission Viejo",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-mission-viejo/",
+            "updated": 1024350193,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-san-diego/",
+            "title": "West Coast Tour - San Diego",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-san-diego/",
+            "updated": 1024263371,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-los-angeles/",
+            "title": "West Coast Tour - Los Angeles",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-los-angeles/",
+            "updated": 1024171548,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/zen-and-the-art-of-nothing/",
+            "title": "Zen and the Art of Nothing",
+            "link": "https://rodschmidt.com/posts/zen-and-the-art-of-nothing/",
+            "updated": 1024084841,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-san-francisco/",
+            "title": "West Coast Tour - San Francisco",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-san-francisco/",
+            "updated": 1024084540,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-oregon-coast/",
+            "title": "West Coast Tour - Oregon Coast",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-oregon-coast/",
+            "updated": 1023995353,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-seattle/",
+            "title": "West Coast Tour - Seattle",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-seattle/",
+            "updated": 1023904027,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/west-coast-tour-portland/",
+            "title": "West Coast Tour - Portland",
+            "link": "https://rodschmidt.com/posts/west-coast-tour-portland/",
+            "updated": 1023811723,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/posts/atlanta/",
+            "title": "Atlanta",
+            "link": "https://rodschmidt.com/posts/atlanta/",
+            "updated": 1023454816,
+            "site_url": "https://rodschmidt.com/"
+        },
+        {
+            "id": "https://rodschmidt.com/about/",
+            "title": "About",
+            "link": "https://rodschmidt.com/about/",
+            "updated": 978282000,
+            "site_url": "https://rodschmidt.com/"
+        }
+    ]
+}

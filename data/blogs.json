@@ -3798,6 +3798,14 @@
                         "twitter_url": "https://twitter.com/rekerrsive"
                     },
                     {
+                        "title": "Rod Schmidt: Thoughts on Software Development",
+                        "author": "Rod Schmidt",
+                        "site_url": "https://rodschmidt.com/",
+                        "feed_url": "https://rodschmidt.com/index.xml",
+                        "twitter_url": "https://twitter.com/rodschmidt",
+                        "github_url": "https://github.com/infinitenil"
+                    },
+                    {
                         "title": "Roger Molas\u2019s Blog",
                         "author": "Roger Molas",
                         "site_url": "https://blog.rogermolas.com/",
@@ -5041,18 +5049,20 @@
                         "twitter_url": "https://twitter.com/lmjabreu"
                     },
                     {
+                        "title": "Louie Mantia\u2019s Blog",
+                        "author": "Louie Mantia",
+                        "site_url": "https://lmnt.me/",
+                        "feed_url": "https://lmnt.me/feed.xml",
+                        "github_url": "https://github.com/mantia",
+                        "mastodon_url": "https://pdx.social/@louie",
+                        "twitter_url": "https://twitter.com/Mantia"
+                    },
+                    {
                         "title": "Luke Wroblewski\u2019s Blog",
                         "author": "Luke Wroblewski",
                         "site_url": "https://www.lukew.com/",
                         "feed_url": "http://feeds.feedburner.com/FunctioningForm",
                         "twitter_url": "https://twitter.com/lukew"
-                    },
-                    {
-                        "title": "Mathew Sanders\u2019 Blog",
-                        "author": "Mathew Sanders",
-                        "site_url": "http://mathewsanders.com",
-                        "feed_url": "http://mathewsanders.com/feed.xml",
-                        "twitter_url": "https://twitter.com/permakittens"
                     },
                     {
                         "title": "Mats Hauge on Medium",

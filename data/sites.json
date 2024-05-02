@@ -1,5 +1,5 @@
 {
-    "updated": 1714537212,
+    "updated": 1714650410,
     "sites": [
         {
             "title": "App Store Review Guidelines History",
@@ -12,13 +12,6 @@
             "title": "Apple Platform SDK API Differences",
             "site_url": "http://codeworkshop.net/objc-diff/sdkdiffs/",
             "feed_url": "http://codeworkshop.net/feed",
-            "category": "Platform and SDK Updates",
-            "slug": "updates"
-        },
-        {
-            "title": "Design News",
-            "site_url": "https://developer.apple.com/design/whats-new/",
-            "feed_url": "https://developer.apple.com/design/whats-new/rss/whats-new.rss",
             "category": "Platform and SDK Updates",
             "slug": "updates"
         },
@@ -408,13 +401,6 @@
             "slug": "development"
         },
         {
-            "title": "annema.me",
-            "site_url": "https://annema.me/",
-            "feed_url": "https://annema.me/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "AnSwift - Swift Dev Journey",
             "site_url": "https://antran.app/",
             "feed_url": "https://antran.app/rss/swift.xml",
@@ -432,13 +418,6 @@
             "title": "AnySuggestion",
             "site_url": "https://medium.com/anysuggestion",
             "feed_url": "https://medium.com/feed/anysuggestion",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Apoorva Tyagi\u2019s Blog",
-            "site_url": "https://apoorvatyagi.com/",
-            "feed_url": "https://apoorvatyagi.com/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -471,13 +450,6 @@
             "slug": "development"
         },
         {
-            "title": "Appventure",
-            "site_url": "https://appventure.me/",
-            "feed_url": "https://appventure.me/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "AQBlog",
             "site_url": "https://alanquatermain.me",
             "feed_url": "https://alanquatermain.me/feed.xml",
@@ -492,13 +464,6 @@
             "slug": "development"
         },
         {
-            "title": "Ariel Elkin\u2019s Blog",
-            "site_url": "https://arielelkin.github.io/articles/",
-            "feed_url": "https://arielelkin.github.io/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Arjun Nayini\u2019s Blog",
             "site_url": "https://arjunnayini.com/",
             "feed_url": "https://arjunnayini.com/feed.xml",
@@ -509,13 +474,6 @@
             "title": "Arnaud Joubay's Blog",
             "site_url": "https://sowenjub.me/",
             "feed_url": "https://sowenjub.me/writes/rss/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Arseniy Kuznetsov\u2019s Blog",
-            "site_url": "https://www.akpdev.com/",
-            "feed_url": "https://www.akpdev.com/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -611,13 +569,6 @@
             "slug": "development"
         },
         {
-            "title": "Baking Swift",
-            "site_url": "https://jeroenscode.com",
-            "feed_url": "https://jeroenscode.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Bartosz Ciechanowski\u2019s Blog",
             "site_url": "https://ciechanow.ski/",
             "feed_url": "https://ciechanow.ski/atom.xml",
@@ -656,13 +607,6 @@
             "title": "Becky Hansmeyer\u2019s Blog",
             "site_url": "https://www.beckyhansmeyer.com/",
             "feed_url": "https://www.beckyhansmeyer.com/category/general/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Belle B. Cooper\u2019s Blog",
-            "site_url": "https://bellebcooper.com/blog/",
-            "feed_url": "https://bellebcooper.com/blog/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -726,13 +670,6 @@
             "title": "Bitsplitting",
             "site_url": "https://bitsplitting.org/",
             "feed_url": "https://bitsplitting.org/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "BontoJR",
-            "site_url": "https://www.bonto.ch/",
-            "feed_url": "https://www.bonto.ch/atom.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -828,13 +765,6 @@
             "slug": "development"
         },
         {
-            "title": "Carlos Santos\u2019 Blog",
-            "site_url": "https://crsantos.info",
-            "feed_url": "https://crsantos.info/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "carpeaqua",
             "site_url": "https://carpeaqua.com/",
             "feed_url": "https://carpeaqua.com/rss/",
@@ -901,13 +831,6 @@
             "title": "Chris Eidhof\u2019s Blog",
             "site_url": "https://chris.eidhof.nl/",
             "feed_url": "https://chris.eidhof.nl/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Chris Hefferman's Blog",
-            "site_url": "https://chrishefferman.squarespace.com/blog-landing-page",
-            "feed_url": "https://chrishefferman.squarespace.com/blog?format=rss",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1136,13 +1059,6 @@
             "slug": "development"
         },
         {
-            "title": "Cyndi Chin's Blog",
-            "site_url": "https://cyndichin.github.io/blog/",
-            "feed_url": "https://cyndichin.github.io/blog/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "C\u00e9sar Vargas on Medium",
             "site_url": "https://toupper.medium.com",
             "feed_url": "https://medium.com/feed/@toupper",
@@ -1185,13 +1101,6 @@
             "slug": "development"
         },
         {
-            "title": "Daniel Bernal's Blog",
-            "site_url": "https://danielbernal.co",
-            "feed_url": "https://danielbernal.co/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Daniel Kennett\u2019s Blog",
             "site_url": "https://ikennd.ac/",
             "feed_url": "https://ikennd.ac/atom.xml",
@@ -1223,13 +1132,6 @@
             "title": "Daniel Tull\u2019s Blog",
             "site_url": "https://danieltull.co.uk/blog/",
             "feed_url": "https://danieltull.co.uk/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Daniele Margutti's Blog",
-            "site_url": "https://www.danielemargutti.com/",
-            "feed_url": "https://www.danielemargutti.com/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1286,13 +1188,6 @@
             "title": "David Cordero\u2019s Blog",
             "site_url": "https://dcordero.me/",
             "feed_url": "https://dcordero.me/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "David House\u2019s Blog",
-            "site_url": "https://www.davidahouse.com/",
-            "feed_url": "https://www.davidahouse.com/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1363,13 +1258,6 @@
             "title": "Dean\u2019s blog",
             "site_url": "https://blog.thomasdurand.fr",
             "feed_url": "https://blog.thomasdurand.fr/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Denis Poifol\u2019s Blog",
-            "site_url": "https://denispoifol.github.io/",
-            "feed_url": "https://denispoifol.github.io/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1493,13 +1381,6 @@
             "slug": "development"
         },
         {
-            "title": "Douglas Hill's Blog",
-            "site_url": "https://douglashill.co",
-            "feed_url": "https://douglashill.co/feed.json",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Drawing Your Own Conclusions",
             "site_url": "https://www.drawingyourownconclusions.com",
             "feed_url": "https://www.drawingyourownconclusions.com/feed.xml",
@@ -1584,13 +1465,6 @@
             "slug": "development"
         },
         {
-            "title": "ennioma",
-            "site_url": "http://ww25.ennioma.com/?subid1=20230326-0115-088a-91c0-7a3cb6d6c010",
-            "feed_url": "http://ww25.ennioma.com/rss?subid1=20230326-0115-13aa-9897-4d4d5ba7f4c5",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Erica Sadun\u2019s Blog",
             "site_url": "https://ericasadun.com/",
             "feed_url": "https://ericasadun.com/feed/",
@@ -1601,13 +1475,6 @@
             "title": "Eugene Kazaev\u2019s blog",
             "site_url": "https://eugenenekhoroshiy.medium.com",
             "feed_url": "https://medium.com/feed/@eugenenekhoroshiy",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Fabian Fett's Blog",
-            "site_url": "https://fabianfett.de",
-            "feed_url": "https://fabianfett.de/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1629,13 +1496,6 @@
             "title": "Fady Derias on Medium",
             "site_url": "https://medium.com/@fadiderias",
             "feed_url": "https://medium.com/feed/@fadiderias",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Fai\u00e7al\u2019s Blog",
-            "site_url": "https://faical.dev",
-            "feed_url": "https://rss.app/feeds/tPWkcHnpdDcjdOtB.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1678,13 +1538,6 @@
             "title": "Felizia Bernutz's Blog",
             "site_url": "https://fbernutz.github.io/ios/",
             "feed_url": "https://fbernutz.github.io/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Figure Ink",
-            "site_url": "https://figure.ink/",
-            "feed_url": "https://figure.ink/blog",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1741,13 +1594,6 @@
             "title": "Francesco Marisaldi on Medium",
             "site_url": "https://medium.com/@fraancessco",
             "feed_url": "https://medium.com/feed/@fraancessco",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Fresh Swift",
-            "site_url": "http://survey-smiles.com",
-            "feed_url": "http://survey-smiles.com",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1857,13 +1703,6 @@
             "slug": "development"
         },
         {
-            "title": "Grant Emerson's Blog",
-            "site_url": "https://www.grantemerson.co/blog/",
-            "feed_url": "https://www.grantemerson.co/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Grant Isom's Blog",
             "site_url": "https://grantisom.com",
             "feed_url": "https://grantisom.com/feed.xml",
@@ -1881,13 +1720,6 @@
             "title": "Guilherme Rambo\u2019s Blog",
             "site_url": "https://rambo.codes",
             "feed_url": "https://rambo.codes/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Gurjit Singh's Blog",
-            "site_url": "https://gurjit.co/",
-            "feed_url": "https://gurjit.co/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -1948,13 +1780,6 @@
             "slug": "development"
         },
         {
-            "title": "Hi, I\u2019m Sam",
-            "site_url": "https://soff.es/blog/",
-            "feed_url": "https://soff.es/blog/rss/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "High Caffeine Content",
             "site_url": "https://www.highcaffeinecontent.com",
             "feed_url": "https://www.highcaffeinecontent.com/blog/rss.xml",
@@ -1986,13 +1811,6 @@
             "title": "Huy Pham's Blog",
             "site_url": "https://huypham85.medium.com/",
             "feed_url": "https://medium.com/feed/@huypham85",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Hwee-Boon Yar\u2019s Blog",
-            "site_url": "https://hboon.com/",
-            "feed_url": "https://hboon.com/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2046,13 +1864,6 @@
             "slug": "development"
         },
         {
-            "title": "The Imaginary Road",
-            "site_url": "https://www.michaelfcollins3.me/categories/ios-development/",
-            "feed_url": "https://www.michaelfcollins3.me/categories/ios-development/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Imthath's Swift Journey",
             "site_url": "https://dev.to/imthath_m/",
             "feed_url": "https://dev.to/feed/imthath_m",
@@ -2102,13 +1913,6 @@
             "slug": "development"
         },
         {
-            "title": "iOS Creator",
-            "site_url": "https://www.ioscreator.com/",
-            "feed_url": "https://www.ioscreator.com/tutorials?format=RSS",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "iOS Dev Recipes",
             "site_url": "https://www.iosdev.recipes/",
             "feed_url": "https://www.iosdev.recipes/rss.xml",
@@ -2119,13 +1923,6 @@
             "title": "iOS Development in the Wild",
             "site_url": "https://samst.one/",
             "feed_url": "https://samst.one/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "iOS Divine",
-            "site_url": "https://iosdivin.blog",
-            "feed_url": "https://iosdivin.blog/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2249,13 +2046,6 @@
             "slug": "development"
         },
         {
-            "title": "Jeff Morhous\u2019 Blog",
-            "site_url": "https://jeffmorhous.com",
-            "feed_url": "https://jeffmorhous.com/feed",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Jeff Watkins\u2019 Blog",
             "site_url": "https://jeffwatkins.dev/articles",
             "feed_url": "https://jeffwatkins.dev/articles/feed",
@@ -2368,13 +2158,6 @@
             "slug": "development"
         },
         {
-            "title": "jsorge.net",
-            "site_url": "https://jsorge.net/",
-            "feed_url": "https://jsorge.net/rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Julian Alonso's Blog",
             "site_url": "http://diariodeprogramacion.com/",
             "feed_url": "http://diariodeprogramacion.com/feed.xml",
@@ -2399,13 +2182,6 @@
             "title": "Jury.me",
             "site_url": "http://jury.me/blog/",
             "feed_url": "http://jury.me/blog?format=rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Just Sit And Grin",
-            "site_url": "https://dive.github.io/",
-            "feed_url": "https://dive.github.io/index.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2448,13 +2224,6 @@
             "title": "Karol S. Mazur\u2019s Blog",
             "site_url": "https://blog.mazur.me",
             "feed_url": "https://blog.mazur.me/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Kaya Thomas\u2019 Blog",
-            "site_url": "https://kaya.dev/blog/",
-            "feed_url": "https://kaya.dev/feed.rss",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2522,13 +2291,6 @@
             "slug": "development"
         },
         {
-            "title": "Krzysztof Zab\u0142ocki\u2019s Blog",
-            "site_url": "https://www.merowing.info/post/",
-            "feed_url": "https://www.merowing.info/index.xml/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "KW Codes - an indie iOS journey",
             "site_url": "https://kwcodes.substack.com/",
             "feed_url": "https://kwcodes.substack.com/feed",
@@ -2560,20 +2322,6 @@
             "title": "Landon Fuller\u2019s Blog",
             "site_url": "https://landonf.org/",
             "feed_url": "https://landonf.org/index.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Lars Augustin\u2019s Blog",
-            "site_url": "https://larztech.com/",
-            "feed_url": "https://larztech.com/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Learning Swift",
-            "site_url": "https://learningswift.brightdigit.com",
-            "feed_url": "https://learningswift.brightdigit.com/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2613,20 +2361,6 @@
             "slug": "development"
         },
         {
-            "title": "Little Bites of Cocoa",
-            "site_url": "https://littlebitesofcocoa.com",
-            "feed_url": "https://littlebitesofcocoa.com/rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "LLVS Blog",
-            "site_url": "https://mentalfaculty.github.io/LLVS/",
-            "feed_url": "https://mentalfaculty.github.io/LLVS/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Loopwerk.io",
             "site_url": "https://www.loopwerk.io/",
             "feed_url": "https://www.loopwerk.io/articles/tag/swift/feed.xml",
@@ -2637,20 +2371,6 @@
             "title": "Lord Codes",
             "site_url": "https://www.lordcodes.com/ios/",
             "feed_url": "https://www.lordcodes.com/ios/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Lucas Oliveira dot Tech",
-            "site_url": "https://www.lucasoliveira.tech/",
-            "feed_url": "https://www.lucasoliveira.tech/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Lucas van Dongen dot Dev",
-            "site_url": "https://lucasvandongen.dev",
-            "feed_url": "https://lucasvandongen.dev/rss/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2672,13 +2392,6 @@
             "title": "Luis Recuenco on Medium",
             "site_url": "https://medium.com/@recuenco",
             "feed_url": "https://medium.com/feed/@recuenco",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Luke Smith\u2019s Blog",
-            "site_url": "https://www.lukecsmith.co.uk/",
-            "feed_url": "https://www.lukecsmith.co.uk/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -2907,13 +2620,6 @@
             "slug": "development"
         },
         {
-            "title": "Matt Reagan's Blog",
-            "site_url": "https://mattreagandev.com/",
-            "feed_url": "https://mattreagandev.com/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Matt Ronge's Blog",
             "site_url": "https://www.mronge.com/",
             "feed_url": "https://www.mronge.com/rss/",
@@ -3022,13 +2728,6 @@
             "title": "Miguel Quinones\u2019 Blog",
             "site_url": "https://miqu.me",
             "feed_url": "https://miqu.me/atom.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Mihaela MJ's Blog",
-            "site_url": "https://aleahim.com",
-            "feed_url": "https://aleahim.com/rss/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3166,13 +2865,6 @@
             "slug": "development"
         },
         {
-            "title": "MultiColourPixel",
-            "site_url": "https://multicolourpixel.com/",
-            "feed_url": "https://multicolourpixel.com/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Musa K\u00f6k\u00e7en on Medium",
             "site_url": "https://medium.com/@musakokcen",
             "feed_url": "https://medium.com/feed/@musakokcen",
@@ -3229,13 +2921,6 @@
             "slug": "development"
         },
         {
-            "title": "Neil Smith\u2019s Blog",
-            "site_url": "https://www.neilsmithdesign.com",
-            "feed_url": "https://www.neilsmithdesign.com/dev/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Niamh Power on Medium",
             "site_url": "https://medium.com/@niamhpower",
             "feed_url": "https://medium.com/feed/@niamhpower",
@@ -3253,13 +2938,6 @@
             "title": "Nikita Lazarev-Zubov on Medium",
             "site_url": "https://lazarevzubov.medium.com/",
             "feed_url": "https://medium.com/feed/@lazarevzubov",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Nikita Rodionov on Medium",
-            "site_url": "https://medium.com/@proudofziggy",
-            "feed_url": "https://medium.com/feed/@proudofziggy",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3341,20 +3019,6 @@
             "slug": "development"
         },
         {
-            "title": "Objective-See\u2019s Blog",
-            "site_url": "https://objective-see.org/blog.html",
-            "feed_url": "https://objective-see.org/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Obscured Pixels",
-            "site_url": "https://obscuredpixels.com/",
-            "feed_url": "https://obscuredpixels.com/rss.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Oh my Swift",
             "site_url": "https://ohmyswift.com/blog/",
             "feed_url": "https://ohmyswift.com/blog/feed.xml",
@@ -3372,13 +3036,6 @@
             "title": "Oleg Dreyman\u2019s Blog",
             "site_url": "https://olegdreyman.medium.com",
             "feed_url": "https://medium.com/feed/@olegdreyman",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Oliver Binns\u2019 Blog",
-            "site_url": "https://www.oliverbinns.co.uk/",
-            "feed_url": "https://www.oliverbinns.co.uk/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3509,13 +3166,6 @@
             "slug": "development"
         },
         {
-            "title": "Pavel Zak\u2019s Dev Blog",
-            "site_url": "https://nerdyak.tech/",
-            "feed_url": "https://nerdyak.tech/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Pawe\u0142 Madej's Blog",
             "site_url": "https://www.pawelmadej.com/",
             "feed_url": "https://www.pawelmadej.com/feed.xml",
@@ -3526,13 +3176,6 @@
             "title": "Pedro Carrasco\u2019s Website",
             "site_url": "https://pedrommcarrasco.github.io/",
             "feed_url": "https://pedrommcarrasco.github.io/atom.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Pedro Pi\u00f1era\u2019s Blog",
-            "site_url": "https://ppinera.es/",
-            "feed_url": "https://ppinera.es/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3677,13 +3320,6 @@
             "slug": "development"
         },
         {
-            "title": "Ralf Ebert's Blog",
-            "site_url": "https://www.ralfebert.com/blog/",
-            "feed_url": "https://www.ralfebert.com/blog/index.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Ram Shandilya's Blog",
             "site_url": "https://www.ramshandilya.com/",
             "feed_url": "https://www.ramshandilya.com/feed.rss",
@@ -3729,13 +3365,6 @@
             "title": "The Red Queen Coder",
             "site_url": "https://redqueencoder.com/",
             "feed_url": "https://redqueencoder.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Rens Breur's Blog",
-            "site_url": "https://rensbr.eu/blog/",
-            "feed_url": "https://rensbr.eu/blog/rss.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3792,6 +3421,13 @@
             "title": "Rob Kerr\u2019s Weblog",
             "site_url": "https://robkerr.com/",
             "feed_url": "https://robkerr.com/rss/",
+            "category": "Development Blogs",
+            "slug": "development"
+        },
+        {
+            "title": "Rod Schmidt: Thoughts on Software Development",
+            "site_url": "https://rodschmidt.com/",
+            "feed_url": "https://rodschmidt.com/index.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3873,13 +3509,6 @@
             "slug": "development"
         },
         {
-            "title": "rx_marin",
-            "site_url": "https://rx-marin.com/",
-            "feed_url": "https://rx-marin.com/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Ryan Ashcraft's Blog",
             "site_url": "https://ryanashcraft.com",
             "feed_url": "https://ryanashcraft.com/rss/",
@@ -3904,13 +3533,6 @@
             "title": "Samantha John\u2019s Blog",
             "site_url": "https://samanthajohn.com",
             "feed_url": "https://samanthajohn.com/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Samantha Marshall\u2019s Blog",
-            "site_url": "https://pewpewthespells.com/",
-            "feed_url": "https://pewpewthespells.com/feed.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -3943,23 +3565,9 @@
             "slug": "development"
         },
         {
-            "title": "School of Swift",
-            "site_url": "https://schoolofswift.com/articles",
-            "feed_url": "https://schoolofswift.com/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Scorpios",
             "site_url": "https://scorpios.home.blog/",
             "feed_url": "https://scorpios.home.blog/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Scott Berrevoets\u2019 Blog",
-            "site_url": "https://www.scottberrevoets.com/",
-            "feed_url": "https://www.scottberrevoets.com/feeds/all.rss.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4041,20 +3649,6 @@
             "slug": "development"
         },
         {
-            "title": "Simon Wolf\u2019s Writings",
-            "site_url": "https://swwritings.com/",
-            "feed_url": "https://swwritings.com/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Simple Swift Guide",
-            "site_url": "https://www.simpleswiftguide.com",
-            "feed_url": "https://www.simpleswiftguide.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "SintraWorks Blog",
             "site_url": "https://sintraworks.github.io",
             "feed_url": "https://sintraworks.github.io/feed",
@@ -4065,13 +3659,6 @@
             "title": "skagedal\u2019s oboy",
             "site_url": "https://blog.skagedal.tech",
             "feed_url": "https://blog.skagedal.tech/feed.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Slava Pestov on Medium",
-            "site_url": "https://medium.com/@slavapestov",
-            "feed_url": "https://medium.com/feed/@slavapestov",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4132,13 +3719,6 @@
             "slug": "development"
         },
         {
-            "title": "Speed of Light",
-            "site_url": "http://nearthespeedoflight.com/classic",
-            "feed_url": "http://nearthespeedoflight.com/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Splinter Software",
             "site_url": "http://www.splinter.com.au/",
             "feed_url": "http://www.splinter.com.au/atom.xml",
@@ -4195,13 +3775,6 @@
             "slug": "development"
         },
         {
-            "title": "Stuart Breckenridge\u2019s Blog",
-            "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/index.xml/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Stuart Hall\u2019s Blog",
             "site_url": "http://stuartkhall.com/",
             "feed_url": "http://feeds.feedburner.com/stuartkhall",
@@ -4219,13 +3792,6 @@
             "title": "StuVision an Exploration of Apple Vision Pro",
             "site_url": "https://buttondown.email/varrall/archive",
             "feed_url": "https://buttondown.email/varrall/rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Sunset Lake Software",
-            "site_url": "http://www.sunsetlakesoftware.com/blog/index.html",
-            "feed_url": "http://www.sunsetlakesoftware.com/blog/rss.xml/rss",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4282,13 +3848,6 @@
             "title": "Swift by Sundell",
             "site_url": "https://www.swiftbysundell.com/",
             "feed_url": "https://swiftbysundell.com/feed.rss",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Swift Cloud Blog",
-            "site_url": "https://swift.cloud/blog",
-            "feed_url": "https://offline.ghost.org",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4356,20 +3915,6 @@
             "slug": "development"
         },
         {
-            "title": "Swift Tips",
-            "site_url": "https://swifttips.substack.com/",
-            "feed_url": "https://swifttips.substack.com/feed",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Swift Tom",
-            "site_url": "https://swifttom.com/",
-            "feed_url": "https://swifttom.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Swift Toolkit",
             "site_url": "https://swifttoolkit.dev/",
             "feed_url": "https://swifttoolkit.dev/feed.rss",
@@ -4391,13 +3936,6 @@
             "slug": "development"
         },
         {
-            "title": "Swift with Rohan",
-            "site_url": "https://swiftwithrohan.com/",
-            "feed_url": "https://swiftwithrohan.com/rss.xml/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "SwiftBlade",
             "site_url": "https://medium.com/swiftblade",
             "feed_url": "https://medium.com/feed/swiftblade",
@@ -4408,13 +3946,6 @@
             "title": "SwiftDigest",
             "site_url": "https://tgomareli.medium.com",
             "feed_url": "https://tgomareli.medium.com/feed",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Swifting on Medium",
-            "site_url": "https://medium.com/@iriziya",
-            "feed_url": "https://medium.com/feed/@iriziya",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4517,27 +4048,6 @@
             "slug": "development"
         },
         {
-            "title": "Tedly Codes",
-            "site_url": "https://tedly.codes",
-            "feed_url": "https://tedly.codes/rss/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Testable Apple",
-            "site_url": "https://testableapple.com",
-            "feed_url": "https://testableapple.com/blog.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "that thing in swift",
-            "site_url": "https://thatthinginswift.com/",
-            "feed_url": "https://thatthinginswift.com/index.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "thatvirtualboy",
             "site_url": "https://thatvirtualboy.com/",
             "feed_url": "https://thatvirtualboy.com/feed",
@@ -4597,13 +4107,6 @@
             "title": "Thomas Ricouard on Medium",
             "site_url": "https://dimillian.medium.com/",
             "feed_url": "https://medium.com/feed/@dimillian",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Tiago Henriques' Blog",
-            "site_url": "https://tiagohenriques.vercel.app/",
-            "feed_url": "https://tiagohenriques.vercel.app/rss/feed.json",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4685,13 +4188,6 @@
             "slug": "development"
         },
         {
-            "title": "Tony Arnold\u2019s Blog",
-            "site_url": "https://tonyarnold.com/",
-            "feed_url": "https://tonyarnold.com/atom.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Topolog\u2019s tech blog",
             "site_url": "https://dmtopolog.com",
             "feed_url": "https://dmtopolog.com/feed.xml",
@@ -4716,13 +4212,6 @@
             "title": "trycatchswift",
             "site_url": "https://trycatchswift.com/",
             "feed_url": "https://trycatchswift.com/rss/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "Tuist's blog",
-            "site_url": "https://tuist.io/",
-            "feed_url": "https://tuist.io/rss.xml",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -4825,13 +4314,6 @@
             "slug": "development"
         },
         {
-            "title": "Vojta Stavik\u2019s Blog",
-            "site_url": "https://vojtastavik.com/",
-            "feed_url": "https://vojtastavik.com/atom.xml",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Vojtech Rinik on Medium",
             "site_url": "https://medium.com/@vojto",
             "feed_url": "https://medium.com/feed/@vojto",
@@ -4853,13 +4335,6 @@
             "slug": "development"
         },
         {
-            "title": "We \u2764 Swift",
-            "site_url": "https://www.weheartswift.com",
-            "feed_url": "https://www.weheartswift.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "Weaponized Fluff",
             "site_url": "https://apontious.com",
             "feed_url": "https://apontious.com/feed/",
@@ -4874,13 +4349,6 @@
             "slug": "development"
         },
         {
-            "title": "Will Bishop\u2019s Blog",
-            "site_url": "https://blog.willbish.com/",
-            "feed_url": "https://blog.willbish.com/feed/",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
             "title": "William Boles\u2019s Blog",
             "site_url": "https://williamboles.com/",
             "feed_url": "https://williamboles.com/rss/",
@@ -4891,13 +4359,6 @@
             "title": "Wojciech Kulik\u2019s blog",
             "site_url": "https://wojciechkulik.pl",
             "feed_url": "https://wojciechkulik.pl/feed",
-            "category": "Development Blogs",
-            "slug": "development"
-        },
-        {
-            "title": "WutuSwift",
-            "site_url": "https://wouterdijks.com/",
-            "feed_url": "https://wouterdijks.com/feed/",
             "category": "Development Blogs",
             "slug": "development"
         },
@@ -5042,16 +4503,9 @@
             "slug": "design"
         },
         {
-            "title": "Luke Wroblewski\u2019s Blog",
-            "site_url": "https://www.lukew.com/",
-            "feed_url": "http://feeds.feedburner.com/FunctioningForm",
-            "category": "Design Blogs",
-            "slug": "design"
-        },
-        {
-            "title": "Mathew Sanders\u2019 Blog",
-            "site_url": "http://mathewsanders.com",
-            "feed_url": "http://mathewsanders.com/feed.xml",
+            "title": "Louie Mantia\u2019s Blog",
+            "site_url": "https://lmnt.me/",
+            "feed_url": "https://lmnt.me/feed.xml",
             "category": "Design Blogs",
             "slug": "design"
         },
@@ -5080,13 +4534,6 @@
             "title": "Nathan Gitter on Medium",
             "site_url": "https://medium.com/@nathangitter",
             "feed_url": "https://medium.com/feed/@nathangitter",
-            "category": "Design Blogs",
-            "slug": "design"
-        },
-        {
-            "title": "Nick Babich\u2019s Blog",
-            "site_url": "https://babich.biz/",
-            "feed_url": "https://babich.biz/rss/",
             "category": "Design Blogs",
             "slug": "design"
         },
@@ -5140,13 +4587,6 @@
             "slug": "design"
         },
         {
-            "title": "User Onboarding",
-            "site_url": "https://www.useronboard.com",
-            "feed_url": "http://www.useronboard.com/rss/",
-            "category": "Design Blogs",
-            "slug": "design"
-        },
-        {
             "title": "Appbot",
             "site_url": "https://stories.appbot.co/",
             "feed_url": "https://stories.appbot.co/feed",
@@ -5157,20 +4597,6 @@
             "title": "Appfigures Blog",
             "site_url": "https://blog.appfigures.com/",
             "feed_url": "https://blog.appfigures.com/feed/",
-            "category": "Marketing and Business Blogs",
-            "slug": "marketing"
-        },
-        {
-            "title": "Appfigures Resources",
-            "site_url": "https://appfigures.com/resources",
-            "feed_url": "https://appfigures.com/resources/rss/",
-            "category": "Marketing and Business Blogs",
-            "slug": "marketing"
-        },
-        {
-            "title": "AppManager",
-            "site_url": "https://transporterlab.com",
-            "feed_url": "https://transporterlab.com",
             "category": "Marketing and Business Blogs",
             "slug": "marketing"
         },
@@ -5196,13 +4622,6 @@
             "slug": "marketing"
         },
         {
-            "title": "Hey, I Make Apps!",
-            "site_url": "https://heyimakeapps.com/blog/",
-            "feed_url": "https://heyimakeapps.com/blog?format=rss",
-            "category": "Marketing and Business Blogs",
-            "slug": "marketing"
-        },
-        {
             "title": "Indie Spark",
             "site_url": "https://indiespark.top/tag/app-store/",
             "feed_url": "https://indiespark.top/tag/app-store/feed/",
@@ -5220,13 +4639,6 @@
             "title": "Mobile Ad.ventures",
             "site_url": "https://madv.substack.com/",
             "feed_url": "https://madv.substack.com/feed",
-            "category": "Marketing and Business Blogs",
-            "slug": "marketing"
-        },
-        {
-            "title": "Niels Mouthaan's Blog",
-            "site_url": "https://blog.nielsmouthaan.nl/",
-            "feed_url": "https://blog.nielsmouthaan.nl/rss.xml",
             "category": "Marketing and Business Blogs",
             "slug": "marketing"
         },
@@ -5315,30 +4727,9 @@
             "slug": "companies"
         },
         {
-            "title": "Black Pixel",
-            "site_url": "https://blackpixel.com/writing/",
-            "feed_url": "https://blackpixel.com/writing/atom.xml",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Blueground's Engineering Blog",
-            "site_url": "https://engineering.theblueground.com/categories/ios-development/",
-            "feed_url": "https://engineering.theblueground.com/categories/ios-development/index.xml/",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "BPXL Craft",
             "site_url": "https://medium.com/bpxl-craft",
             "feed_url": "https://medium.com/feed/bpxl-craft",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "BrightDigit",
-            "site_url": "https://brightdigit.com/blog/",
-            "feed_url": "https://brightdigit.com/blog/feed/",
             "category": "Company Blogs",
             "slug": "companies"
         },
@@ -5469,20 +4860,6 @@
             "slug": "companies"
         },
         {
-            "title": "Farfetch Blog: Mobile Apps Development",
-            "site_url": "https://farfetchtechblog.com/en/blog/keyword/mobile-apps-development/",
-            "feed_url": "https://farfetchtechblog.com/en/reader-space/rss/",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Flawless App Stories",
-            "site_url": "https://medium.com/flawless-app-stories",
-            "feed_url": "https://medium.com/feed/flawless-app-stories",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "Fleksy Engineering",
             "site_url": "https://www.fleksy.com/blog/category/engineering/",
             "feed_url": "https://www.fleksy.com/blog/category/engineering/feed/",
@@ -5500,27 +4877,6 @@
             "title": "Flutter Medium",
             "site_url": "https://medium.com/flutter",
             "feed_url": "https://medium.com/feed/flutter",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Foresight Mobile Blog",
-            "site_url": "https://foresightmobile.com/blog",
-            "feed_url": "https://foresightmobile.com/blog?format=rss",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Furnace Creek Software Blog",
-            "site_url": "https://furnacecreek.org/blog/",
-            "feed_url": "https://furnacecreek.org/blog/rss.xml",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "GetStream.io Blog",
-            "site_url": "https://getstream.io/blog/",
-            "feed_url": "https://getstream.io/blog/rss.xml",
             "category": "Company Blogs",
             "slug": "companies"
         },
@@ -5574,23 +4930,9 @@
             "slug": "companies"
         },
         {
-            "title": "Industrial Binaries",
-            "site_url": "https://industrial-binaries.co/articles/",
-            "feed_url": "https://industrial-binaries.co/feed",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "Inside PSPDFKit",
             "site_url": "https://pspdfkit.com/blog/",
             "feed_url": "https://pspdfkit.com/blog/feed.atom",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Instabug Blog",
-            "site_url": "https://www.instabug.com/blog",
-            "feed_url": "https://www.instabug.com/blog/feed",
             "category": "Company Blogs",
             "slug": "companies"
         },
@@ -5714,20 +5056,6 @@
             "slug": "companies"
         },
         {
-            "title": "QuickBird Studios Blog",
-            "site_url": "https://quickbirdstudios.com/blog/",
-            "feed_url": "https://quickbirdstudios.com/blog/feed/",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Quicktype Blog",
-            "site_url": "https://blog.quicktype.io/",
-            "feed_url": "https://blog.quicktype.io/rss/",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "Reveal Blog",
             "site_url": "https://revealapp.com",
             "feed_url": "https://revealapp.com/news/index.xml",
@@ -5833,20 +5161,6 @@
             "slug": "companies"
         },
         {
-            "title": "thoughtbot: iOS posts",
-            "site_url": "https://thoughtbot.com/blog/tags/ios",
-            "feed_url": "https://thoughtbot.com/blog/ios/feed",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "thoughtbot: Swift posts",
-            "site_url": "https://thoughtbot.com/blog/tags/swift",
-            "feed_url": "https://thoughtbot.com/blog/swift/feed",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "Topology Engineering Blog",
             "site_url": "https://topologyeyewear.github.io/engineering-blog/",
             "feed_url": "https://topologyeyewear.github.io/engineering-blog/atom",
@@ -5861,46 +5175,11 @@
             "slug": "companies"
         },
         {
-            "title": "Two Ring Software",
-            "site_url": "https://tworingsoft.com/blog/",
-            "feed_url": "https://tworingsoft.com/feed.xml",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
             "title": "The Waldo Blog",
             "site_url": "https://www.waldo.com/blog",
             "feed_url": "https://www.waldo.com/blog/rss.xml",
             "category": "Company Blogs",
             "slug": "companies"
-        },
-        {
-            "title": "Xmartlabs Blog",
-            "site_url": "https://blog.xmartlabs.com/category/ios-development/",
-            "feed_url": "https://blog.xmartlabs.com/feed.xml",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "Zonneveld Dev Blog",
-            "site_url": "https://zonneveld.dev",
-            "feed_url": "https://zonneveld.dev/feed/",
-            "category": "Company Blogs",
-            "slug": "companies"
-        },
-        {
-            "title": "AppForce1 Podcast",
-            "site_url": "https://appforce1.net/podcast/",
-            "feed_url": "https://feeds.buzzsprout.com/1414396.rss",
-            "category": "Development or Design Podcasts",
-            "slug": "podcasts"
-        },
-        {
-            "title": "CmdSwift",
-            "site_url": "https://cmdswift.com/",
-            "feed_url": "https://feeds.soundcloud.com/users/soundcloud%3Ausers%3A552348081/sounds.rss",
-            "category": "Development or Design Podcasts",
-            "slug": "podcasts"
         },
         {
             "title": "Code Completion",
@@ -5934,13 +5213,6 @@
             "title": "Core Intuition",
             "site_url": "https://coreint.org",
             "feed_url": "https://coreint.org/index.php?feed=podcast",
-            "category": "Development or Design Podcasts",
-            "slug": "podcasts"
-        },
-        {
-            "title": "Design Details",
-            "site_url": "https://spec.fm/podcasts/design-details",
-            "feed_url": "https://simplecast.fm/podcasts/1034/rss",
             "category": "Development or Design Podcasts",
             "slug": "podcasts"
         },
@@ -6029,13 +5301,6 @@
             "slug": "podcasts"
         },
         {
-            "title": "Stacktrace Podcast",
-            "site_url": "https://stacktracepodcast.fm/",
-            "feed_url": "https://stacktracepodcast.fm/podcast?format=RSS",
-            "category": "Development or Design Podcasts",
-            "slug": "podcasts"
-        },
-        {
             "title": "Sub Club Podcast",
             "site_url": "https://subclub.com/",
             "feed_url": "https://feeds.transistor.fm/sub-club",
@@ -6067,13 +5332,6 @@
             "title": "Swift Package Indexing",
             "site_url": "https://swiftpackageindexing.transistor.fm",
             "feed_url": "https://feeds.transistor.fm/swift-package-indexing",
-            "category": "Development or Design Podcasts",
-            "slug": "podcasts"
-        },
-        {
-            "title": "The Swift Teacher Podcast",
-            "site_url": "https://www.swiftteacher.org/podcast/",
-            "feed_url": "https://storage.bhs.cloud.ovh.net/v1/AUTH_624aabcecfc6462c9bf4d7a8820f9997/7212/feeds/72WBK.xml?temp_url_sig=4eb7f18c1d9487505f85d45e89d44d2d6634976d&temp_url_expires=1995114530&inline",
             "category": "Development or Design Podcasts",
             "slug": "podcasts"
         },
@@ -6134,13 +5392,6 @@
             "slug": "newsletters"
         },
         {
-            "title": "iOS Code Review - Curated code improvement tips",
-            "site_url": "https://ioscodereview.com",
-            "feed_url": "https://ioscodereview.com/feed.xml/",
-            "category": "Newsletters",
-            "slug": "newsletters"
-        },
-        {
             "title": "iOS Dev Weekly",
             "site_url": "https://iosdevweekly.com/",
             "feed_url": "https://iosdevweekly.com/issues.rss",
@@ -6151,13 +5402,6 @@
             "title": "iOS Development Tips and Tricks",
             "site_url": "https://bugorbn.medium.com",
             "feed_url": "https://medium.com/feed/@bugorbn",
-            "category": "Newsletters",
-            "slug": "newsletters"
-        },
-        {
-            "title": "iOS Goodies",
-            "site_url": "https://ios-goodies.com/",
-            "feed_url": "https://ios-goodies.com/rss",
             "category": "Newsletters",
             "slug": "newsletters"
         },
@@ -6190,23 +5434,9 @@
             "slug": "newsletters"
         },
         {
-            "title": "Swift Weekly",
-            "site_url": "https://swiftweekly.com",
-            "feed_url": "http://digest.swiftweekly.com/?format=rss",
-            "category": "Newsletters",
-            "slug": "newsletters"
-        },
-        {
             "title": "Swift World",
             "site_url": "https://medium.com/@NilStack",
             "feed_url": "https://medium.com/feed/@NilStack",
-            "category": "Newsletters",
-            "slug": "newsletters"
-        },
-        {
-            "title": "SwiftLee Weekly",
-            "site_url": "https://www.avanderlee.com/swiftlee-weekly/",
-            "feed_url": "https://www.avanderlee.com/sendy/campaigns-rss?a=BsnOknY7S8XzvliyWwb8v741UnHIbq&i=1",
             "category": "Newsletters",
             "slug": "newsletters"
         },
@@ -6361,13 +5591,6 @@
             "title": "How it's Built",
             "site_url": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN0yF6AaJmqiPYXDz0CDfxA",
-            "category": "YouTube Channels",
-            "slug": "youtube"
-        },
-        {
-            "title": "iOS Design's",
-            "site_url": "https://www.youtube.com/channel/UC5tYwLvwlsqXpU4GXgw2chg",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5tYwLvwlsqXpU4GXgw2chg",
             "category": "YouTube Channels",
             "slug": "youtube"
         },
@@ -6610,25 +5833,11 @@
             "slug": "youtube"
         },
         {
-            "title": "Vojta Stavik on YouTube",
-            "site_url": "https://www.youtube.com/channel/UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzHnqIT0Ion6rCVPdgk2cHQ",
-            "category": "YouTube Channels",
-            "slug": "youtube"
-        },
-        {
             "title": "Xcoding with Alfian",
             "site_url": "https://www.youtube.com/channel/UCsi3HmkI4jeUC0e4ELuKKfA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsi3HmkI4jeUC0e4ELuKKfA",
             "category": "YouTube Channels",
             "slug": "youtube"
-        },
-        {
-            "title": "aivars_meijers on Twitch",
-            "site_url": "https://www.twitch.tv/aivars_meijers",
-            "feed_url": "https://twitchrss.appspot.com/vod/aivars_meijers",
-            "category": "Twitch Streams",
-            "slug": "twitch"
         },
         {
             "title": "Alejandro Martinez on Twitch",
@@ -6638,23 +5847,9 @@
             "slug": "twitch"
         },
         {
-            "title": "AphluxLogix on Twitch",
-            "site_url": "https://www.twitch.tv/aphluxlogix",
-            "feed_url": "https://twitchrss.appspot.com/vod/aphluxlogix",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
             "title": "Cocoatype on Twitch",
             "site_url": "https://www.twitch.tv/cocoatype",
             "feed_url": "https://twitchrss.appspot.com/vod/cocoatype",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
-            "title": "CompileSwift on Twitch",
-            "site_url": "https://www.twitch.tv/compileswift",
-            "feed_url": "https://twitchrss.appspot.com/vod/compileswift",
             "category": "Twitch Streams",
             "slug": "twitch"
         },
@@ -6680,37 +5875,9 @@
             "slug": "twitch"
         },
         {
-            "title": "MaeganWilson_ on Twitch",
-            "site_url": "https://www.twitch.tv/maeganwilson_",
-            "feed_url": "https://twitchrss.appspot.com/vod/maeganwilson_",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
-            "title": "MonsieurBee on Twitch",
-            "site_url": "https://www.twitch.tv/monsieurbee",
-            "feed_url": "https://twitchrss.appspot.com/vod/monsieurbee",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
             "title": "nutterfi on Twitch",
             "site_url": "https://www.twitch.tv/nutterfi",
             "feed_url": "https://twitchrss.appspot.com/vod/nutterfi",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
-            "title": "ObjCRetain on Twitch",
-            "site_url": "https://www.twitch.tv/",
-            "feed_url": "https://twitchrss.appspot.com/vod/",
-            "category": "Twitch Streams",
-            "slug": "twitch"
-        },
-        {
-            "title": "pilkycrc on Twitch",
-            "site_url": "https://www.twitch.tv/pilkycrc",
-            "feed_url": "https://twitchrss.appspot.com/vod/pilkycrc",
             "category": "Twitch Streams",
             "slug": "twitch"
         },
