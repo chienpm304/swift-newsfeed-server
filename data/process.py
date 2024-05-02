@@ -6,6 +6,8 @@ large_slugs = ["development"]
 unsupported_site_urls = load_txt_lines("unsupported_site_urls.txt")
 IS_DEBUG = True
 LIMIT_NUMBER_OF_POST_PER_SITE = 50
+LIMIT_NUMBER_OF_POST_PER_SLUG = 1000
+LIMIT_NUMBER_OF_RECENT_POSTS = 1000
 ARCHIVED_TIMESTAMP = 1672531200
 
 def rebuild_sites():
@@ -115,6 +117,8 @@ def generate_posts_by_slugs(sites):
                 slug_posts.append(post)
         
         slug_posts.sort(reverse=True, key=lambda t: t["updated"])
+        slug_posts = slug_posts[slice(LIMIT_NUMBER_OF_POST_PER_SLUG)]
+
         slug_posts_result = {
             "updated": current_timestamp(),
             "posts": slug_posts
@@ -123,6 +127,29 @@ def generate_posts_by_slugs(sites):
         output_file_path = "./posts/by_slug/" + slug + ".json"
         save_json(slug_posts_result, output_file_path)
         print(f"+ slug {slug}: {len(slug_posts)}")
+
+
+def generate_recent_posts():
+    all_posts = []
+    for slug in slugs:
+        input_file_path = "./posts/by_slug/" + slug + ".json"
+        if not os.path.isfile(input_file_path):
+            print(f"❌ Slug posts not found: {slug}")
+            continue
+        slug_posts = load_json(input_file_path)["posts"]
+        for post in slug_posts:
+            all_posts.append(post)
+
+    all_posts.sort(reverse=True, key=lambda t: t["updated"])
+    all_posts = all_posts[slice(LIMIT_NUMBER_OF_RECENT_POSTS)]
+
+    all_posts_result = {
+        "updated": current_timestamp(),
+        "posts": all_posts
+    }
+    save_json(all_posts_result, "./posts/recent_posts.json")
+    print(f"> Generated {len(all_posts)} posts!")
+
 
 # main 
 
@@ -140,9 +167,10 @@ generate_posts_by_sites(sites)
 # 4. Generate `posts/by_slug/{slug}.json}
 generate_posts_by_slugs(sites)
 
-# 5. Get new posts for notification
+# 5. TODO Get new posts for notification
 
 # 6. Get recent posts 
+generate_recent_posts()
 
 # print(all_feeds)
 
