@@ -113,6 +113,10 @@ def generate_posts_by_slugs(sites):
             site_posts = site_posts[slice(LIMIT_NUMBER_OF_POST_PER_SITE)]
             
             for post in site_posts:
+                # Avoid duplicated post_id
+                if any(filter(lambda p: p["id"] == post["id"], slug_posts)):
+                    print(f"❌ > Duplicated post_id: {post['id']}")
+                    continue
                 slug_posts.append(post)
         
         slug_posts.sort(reverse=True, key=lambda t: t["updated"])
@@ -137,6 +141,10 @@ def generate_recent_posts():
             continue
         slug_posts = load_json(input_file_path)["posts"]
         for post in slug_posts:
+            # Avoid duplicated post_id since some site are included in more than 1 slug
+            if any(filter(lambda p: p["id"] == post["id"], all_posts)):
+                print(f"❌ > Duplicated post_id: {post['id']}")
+                continue
             all_posts.append(post)
 
     all_posts.sort(reverse=True, key=lambda t: t["updated"])

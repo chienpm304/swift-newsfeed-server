@@ -1,5 +1,5 @@
 {
-    "updated": 1714659758,
+    "updated": 1714663524,
     "posts": [
         {
             "id": "stackotter/TermKit",
@@ -9,31 +9,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "stackotter/TermKit",
-            "title": "TermKit",
-            "link": "https://swiftpackageindex.com/stackotter/TermKit",
-            "updated": 1714439985,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "objecthub/swift-dynamicjson",
             "title": "DynamicJSON",
             "link": "https://swiftpackageindex.com/objecthub/swift-dynamicjson",
             "updated": 1714431632,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "objecthub/swift-dynamicjson",
-            "title": "DynamicJSON",
-            "link": "https://swiftpackageindex.com/objecthub/swift-dynamicjson",
-            "updated": 1714431632,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "edonv/KeyInputListener",
-            "title": "KeyInputListener",
-            "link": "https://swiftpackageindex.com/edonv/KeyInputListener",
-            "updated": 1714392048,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -55,27 +34,6 @@
             "title": "SwiftSPHINCS",
             "link": "https://swiftpackageindex.com/leif-ibsen/SwiftSPHINCS",
             "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftDilithium",
-            "title": "SwiftDilithium",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftDilithium",
-            "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftSPHINCS",
-            "title": "SwiftSPHINCS",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftSPHINCS",
-            "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftEdDSA",
-            "title": "SwiftEdDSA",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftEdDSA",
-            "updated": 1714377158,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -107,34 +65,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "simonnickel/snap-swift-data",
-            "title": "snap-swift-data",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-swift-data",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-theme",
-            "title": "snap-theme",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-theme",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-template-shared",
-            "title": "snap-template-shared",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-template-shared",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "bryanjclark/SwiftTweaks",
-            "title": "SwiftTweaks",
-            "link": "https://swiftpackageindex.com/bryanjclark/SwiftTweaks",
-            "updated": 1714355731,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "bryanjclark/SwiftTweaks",
             "title": "SwiftTweaks",
             "link": "https://swiftpackageindex.com/bryanjclark/SwiftTweaks",
@@ -146,20 +76,6 @@
             "title": "Publishmon",
             "link": "https://swiftpackageindex.com/supersonicbyte/Publishmon",
             "updated": 1714351736,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "supersonicbyte/Publishmon",
-            "title": "Publishmon",
-            "link": "https://swiftpackageindex.com/supersonicbyte/Publishmon",
-            "updated": 1714351736,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "dafurman/AddPreviews",
-            "title": "AddPreviews",
-            "link": "https://swiftpackageindex.com/dafurman/AddPreviews",
-            "updated": 1714246575,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -184,38 +100,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "Matt54633/SWTools",
-            "title": "SWTools",
-            "link": "https://swiftpackageindex.com/Matt54633/SWTools",
-            "updated": 1714210860,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "jjotaum/SwiftyTree",
-            "title": "SwiftyTree",
-            "link": "https://swiftpackageindex.com/jjotaum/SwiftyTree",
-            "updated": 1714210860,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "ciaranrobrien/SwiftUILazyContainer",
             "title": "SwiftUILazyContainer",
             "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUILazyContainer",
             "updated": 1714190520,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUILazyContainer",
-            "title": "SwiftUILazyContainer",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUILazyContainer",
-            "updated": 1714190520,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "p-x9/swift-cpu-info",
-            "title": "CPUInfo",
-            "link": "https://swiftpackageindex.com/p-x9/swift-cpu-info",
-            "updated": 1714185072,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -233,38 +121,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "ryanslikesocool/MoreWindows",
-            "title": "MoreWindows",
-            "link": "https://swiftpackageindex.com/ryanslikesocool/MoreWindows",
-            "updated": 1714124533,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "SwiftPackageIndex/ReadyForSwift6Test",
             "title": "ReadyForSwift6Test",
             "link": "https://swiftpackageindex.com/SwiftPackageIndex/ReadyForSwift6Test",
             "updated": 1714099109,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "SwiftPackageIndex/ReadyForSwift6Test",
-            "title": "ReadyForSwift6Test",
-            "link": "https://swiftpackageindex.com/SwiftPackageIndex/ReadyForSwift6Test",
-            "updated": 1714099109,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIIndexedList",
-            "title": "SwiftUIIndexedList",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIIndexedList",
-            "updated": 1714095113,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIDelayedGesture",
-            "title": "SwiftUIDelayedGesture",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIDelayedGesture",
-            "updated": 1714095113,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -317,48 +177,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "heckj/DistributedTracer",
-            "title": "DistributedTracer",
-            "link": "https://swiftpackageindex.com/heckj/DistributedTracer",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "alexiscreuzot/SwiftyGif",
-            "title": "SwiftyGif",
-            "link": "https://swiftpackageindex.com/alexiscreuzot/SwiftyGif",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ashvardanian/swift-transformers",
-            "title": "swift-transformers",
-            "link": "https://swiftpackageindex.com/ashvardanian/swift-transformers",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "alexiscreuzot/KAPinField",
-            "title": "KAPinField",
-            "link": "https://swiftpackageindex.com/alexiscreuzot/KAPinField",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "embrace-io/KSCrash",
-            "title": "KSCrash",
-            "link": "https://swiftpackageindex.com/embrace-io/KSCrash",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "embrace-io/embrace-apple-sdk",
-            "title": "EmbraceIO",
-            "link": "https://swiftpackageindex.com/embrace-io/embrace-apple-sdk",
-            "updated": 1714090028,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "embrace-io/embrace-apple-sdk",
             "title": "EmbraceIO",
             "link": "https://swiftpackageindex.com/embrace-io/embrace-apple-sdk",
@@ -373,38 +191,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "unum-cloud/uform",
-            "title": "UForm",
-            "link": "https://swiftpackageindex.com/unum-cloud/uform",
-            "updated": 1714043295,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "automerge/automerge-repo-swift",
             "title": "automerge-repo",
             "link": "https://swiftpackageindex.com/automerge/automerge-repo-swift",
             "updated": 1714038210,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "automerge/automerge-repo-swift",
-            "title": "automerge-repo",
-            "link": "https://swiftpackageindex.com/automerge/automerge-repo-swift",
-            "updated": 1714038210,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "flexjdev/TunnelMonitorKit",
-            "title": "TunnelMonitorKit",
-            "link": "https://swiftpackageindex.com/flexjdev/TunnelMonitorKit",
-            "updated": 1714033852,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "Scandit/datacapture-spm",
-            "title": "Scandit Data Capture SDK",
-            "link": "https://swiftpackageindex.com/Scandit/datacapture-spm",
-            "updated": 1714033852,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -443,41 +233,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "ivnsch/SwiftCharts",
-            "title": "SwiftCharts",
-            "link": "https://swiftpackageindex.com/ivnsch/SwiftCharts",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "akbashev/cluster-event-sourcing",
-            "title": "cluster-event-sourcing",
-            "link": "https://swiftpackageindex.com/akbashev/cluster-event-sourcing",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "akbashev/swift-distributed-actors",
-            "title": "swift-distributed-actors",
-            "link": "https://swiftpackageindex.com/akbashev/swift-distributed-actors",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "Automattic/Gravatar-SDK-iOS",
-            "title": "Gravatar",
-            "link": "https://swiftpackageindex.com/Automattic/Gravatar-SDK-iOS",
-            "updated": 1713853091,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIScrollOffset",
-            "title": "SwiftUIScrollOffset",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIScrollOffset",
-            "updated": 1713853091,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "Automattic/Gravatar-SDK-iOS",
             "title": "Gravatar",
             "link": "https://swiftpackageindex.com/Automattic/Gravatar-SDK-iOS",
@@ -499,31 +254,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "InderKumarRathore/DeviceGuru",
-            "title": "DeviceGuru",
-            "link": "https://swiftpackageindex.com/InderKumarRathore/DeviceGuru",
-            "updated": 1713841478,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "infinitepower18/EmailClientHelper",
             "title": "EmailClientHelper",
             "link": "https://swiftpackageindex.com/infinitepower18/EmailClientHelper",
             "updated": 1713813893,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "infinitepower18/EmailClientHelper",
-            "title": "EmailClientHelper",
-            "link": "https://swiftpackageindex.com/infinitepower18/EmailClientHelper",
-            "updated": 1713813893,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "lovetodream/swift-snappy",
-            "title": "snappy",
-            "link": "https://swiftpackageindex.com/lovetodream/swift-snappy",
-            "updated": 1713749253,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -541,31 +275,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "lovetodream/swift-log-loki",
-            "title": "swift-log-loki",
-            "link": "https://swiftpackageindex.com/lovetodream/swift-log-loki",
-            "updated": 1713706031,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "letvarhq/Gradiente",
             "title": "Gradiente",
             "link": "https://swiftpackageindex.com/letvarhq/Gradiente",
             "updated": 1713665229,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "letvarhq/Gradiente",
-            "title": "Gradiente",
-            "link": "https://swiftpackageindex.com/letvarhq/Gradiente",
-            "updated": 1713665229,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "katsuyax/CBDevice",
-            "title": "CBDevice",
-            "link": "https://swiftpackageindex.com/katsuyax/CBDevice",
-            "updated": 1713648642,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -583,31 +296,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "tareksabry1337/TensorFlowLiteSwift",
-            "title": "TensorFlowLiteSwift",
-            "link": "https://swiftpackageindex.com/tareksabry1337/TensorFlowLiteSwift",
-            "updated": 1713648279,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "ChimeHQ/ThemePark",
             "title": "ThemePark",
             "link": "https://swiftpackageindex.com/ChimeHQ/ThemePark",
             "updated": 1713606506,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ChimeHQ/ThemePark",
-            "title": "ThemePark",
-            "link": "https://swiftpackageindex.com/ChimeHQ/ThemePark",
-            "updated": 1713606506,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leofriskey/UIViewID",
-            "title": "UIViewID",
-            "link": "https://swiftpackageindex.com/leofriskey/UIViewID",
-            "updated": 1713591523,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -632,27 +324,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "davbeck/swift-glob",
-            "title": "swift-glob",
-            "link": "https://swiftpackageindex.com/davbeck/swift-glob",
-            "updated": 1713576993,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "segmentio/JSONSafeEncoding-Swift",
-            "title": "JSONSafeEncoding",
-            "link": "https://swiftpackageindex.com/segmentio/JSONSafeEncoding-Swift",
-            "updated": 1713576993,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "hidden-spectrum/swift-translate",
-            "title": "SwiftTranslate",
-            "link": "https://swiftpackageindex.com/hidden-spectrum/swift-translate",
-            "updated": 1713565354,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "hidden-spectrum/swift-translate",
             "title": "SwiftTranslate",
             "link": "https://swiftpackageindex.com/hidden-spectrum/swift-translate",
@@ -667,31 +338,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "simonnickel/snap-matching-navigation",
-            "title": "snap-matching-navigation",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-matching-navigation",
-            "updated": 1713512299,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "simonnickel/snap-settings-service",
             "title": "snap-settings-service",
             "link": "https://swiftpackageindex.com/simonnickel/snap-settings-service",
             "updated": 1713511935,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-settings-service",
-            "title": "snap-settings-service",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-settings-service",
-            "updated": 1713511935,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "mattmassicotte/Packet",
-            "title": "Packet",
-            "link": "https://swiftpackageindex.com/mattmassicotte/Packet",
-            "updated": 1713510846,
             "site_url": "https://swiftpackageindex.com"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "updated": 1714659758,
+    "updated": 1714663524,
     "posts": [
         {
             "id": "https://lmnt.me/blog/antisocial-club.html",
@@ -27,20 +27,6 @@
             "title": "TermKit",
             "link": "https://swiftpackageindex.com/stackotter/TermKit",
             "updated": 1714439985,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "stackotter/TermKit",
-            "title": "TermKit",
-            "link": "https://swiftpackageindex.com/stackotter/TermKit",
-            "updated": 1714439985,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "objecthub/swift-dynamicjson",
-            "title": "DynamicJSON",
-            "link": "https://swiftpackageindex.com/objecthub/swift-dynamicjson",
-            "updated": 1714431632,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -93,13 +79,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "edonv/KeyInputListener",
-            "title": "KeyInputListener",
-            "link": "https://swiftpackageindex.com/edonv/KeyInputListener",
-            "updated": 1714392048,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "leif-ibsen/SwiftDilithium",
             "title": "SwiftDilithium",
             "link": "https://swiftpackageindex.com/leif-ibsen/SwiftDilithium",
@@ -111,27 +90,6 @@
             "title": "SwiftSPHINCS",
             "link": "https://swiftpackageindex.com/leif-ibsen/SwiftSPHINCS",
             "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftDilithium",
-            "title": "SwiftDilithium",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftDilithium",
-            "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftSPHINCS",
-            "title": "SwiftSPHINCS",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftSPHINCS",
-            "updated": 1714379337,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leif-ibsen/SwiftEdDSA",
-            "title": "SwiftEdDSA",
-            "link": "https://swiftpackageindex.com/leif-ibsen/SwiftEdDSA",
-            "updated": 1714377158,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -160,34 +118,6 @@
             "title": "snap-template-shared",
             "link": "https://swiftpackageindex.com/simonnickel/snap-template-shared",
             "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-swift-data",
-            "title": "snap-swift-data",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-swift-data",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-theme",
-            "title": "snap-theme",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-theme",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-template-shared",
-            "title": "snap-template-shared",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-template-shared",
-            "updated": 1714360089,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "bryanjclark/SwiftTweaks",
-            "title": "SwiftTweaks",
-            "link": "https://swiftpackageindex.com/bryanjclark/SwiftTweaks",
-            "updated": 1714355731,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -203,13 +133,6 @@
             "link": "https://www.twitch.tv/videos/2132617371",
             "updated": 1714352695,
             "site_url": "https://www.twitch.tv/danielsaidi"
-        },
-        {
-            "id": "supersonicbyte/Publishmon",
-            "title": "Publishmon",
-            "link": "https://swiftpackageindex.com/supersonicbyte/Publishmon",
-            "updated": 1714351736,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "supersonicbyte/Publishmon",
@@ -422,13 +345,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "dafurman/AddPreviews",
-            "title": "AddPreviews",
-            "link": "https://swiftpackageindex.com/dafurman/AddPreviews",
-            "updated": 1714246575,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "https://antran.app/2024/mlx_swift_example_cli/",
             "title": "MLX - Day 4: Evaluate LLM Models from CLI with MLX on macOS",
             "link": "https://antran.app/2024/mlx_swift_example_cli/",
@@ -462,20 +378,6 @@
             "link": "https://www.youtube.com/watch?v=dkhaZcL4wnY",
             "updated": 1714219462,
             "site_url": "https://www.youtube.com/channel/UCeJvtSFr3cnnNhYwRlLZoSw"
-        },
-        {
-            "id": "Matt54633/SWTools",
-            "title": "SWTools",
-            "link": "https://swiftpackageindex.com/Matt54633/SWTools",
-            "updated": 1714210860,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "jjotaum/SwiftyTree",
-            "title": "SwiftyTree",
-            "link": "https://swiftpackageindex.com/jjotaum/SwiftyTree",
-            "updated": 1714210860,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "Matt54633/SWTools",
@@ -531,20 +433,6 @@
             "title": "SwiftUILazyContainer",
             "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUILazyContainer",
             "updated": 1714190520,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUILazyContainer",
-            "title": "SwiftUILazyContainer",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUILazyContainer",
-            "updated": 1714190520,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "p-x9/swift-cpu-info",
-            "title": "CPUInfo",
-            "link": "https://swiftpackageindex.com/p-x9/swift-cpu-info",
-            "updated": 1714185072,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -961,13 +849,6 @@
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
         },
         {
-            "id": "yt:video:ETdrsj9Ztz8",
-            "title": "\ud83c\udf31 Living the Creative Act: \"Tuning Out\" S5E11",
-            "link": "https://www.youtube.com/watch?v=ETdrsj9Ztz8",
-            "updated": 1714156319,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
-        },
-        {
             "id": "yt:video:BpJqsjzG-bs",
             "title": "How To Create And Use A Card View in Xcode 15 (SwiftUI)",
             "link": "https://www.youtube.com/watch?v=BpJqsjzG-bs",
@@ -1120,13 +1001,6 @@
             "link": "https://www.youtube.com/watch?v=KZh8GDJFSzc",
             "updated": 1714139431,
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
-        },
-        {
-            "id": "yt:video:KZh8GDJFSzc",
-            "title": "Live-coding and rock'n-roll | Swift, iOS, subways, Vapor, Underway",
-            "link": "https://www.youtube.com/watch?v=KZh8GDJFSzc",
-            "updated": 1714139431,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
         },
         {
             "id": "yt:video:CCQE06_xsBw",
@@ -1302,13 +1176,6 @@
             "link": "https://iosdevweekly.com/issues/658",
             "updated": 1714125141,
             "site_url": "https://iosdevweekly.com/"
-        },
-        {
-            "id": "ryanslikesocool/MoreWindows",
-            "title": "MoreWindows",
-            "link": "https://swiftpackageindex.com/ryanslikesocool/MoreWindows",
-            "updated": 1714124533,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "ryanslikesocool/MoreWindows",
@@ -1507,13 +1374,6 @@
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
         },
         {
-            "id": "yt:video:2nc-MQNLWAI",
-            "title": "\ud83c\udf31 Living the Creative Act: \"Essence\" S5E9",
-            "link": "https://www.youtube.com/watch?v=2nc-MQNLWAI",
-            "updated": 1714109159,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
-        },
-        {
             "id": "yt:video:toE81AHrsYA",
             "title": "How to use SwiftData with Previews - Xcode 15 beta 5 - Preview Container and Sample Data",
             "link": "https://www.youtube.com/watch?v=toE81AHrsYA",
@@ -1696,13 +1556,6 @@
             "site_url": "https://www.learnui.design/blog/"
         },
         {
-            "id": "yt:video:v7NnSibhj7w",
-            "title": "UI Tutorial: Redesigning the Almanack of Naval (in 10 Min)",
-            "link": "https://www.youtube.com/watch?v=v7NnSibhj7w",
-            "updated": 1714099661,
-            "site_url": "https://www.youtube.com/channel/UCakPr8lc7Zcowd8Cp2Uy_Eg"
-        },
-        {
             "id": "yt:video:19ldYDNrR_8",
             "title": "Episode 6 - Continuous Integration Setup with Fastlane",
             "link": "https://www.youtube.com/watch?v=19ldYDNrR_8",
@@ -1722,13 +1575,6 @@
             "link": "https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/",
             "updated": 1714099500,
             "site_url": "https://serialcoder.dev/"
-        },
-        {
-            "id": "SwiftPackageIndex/ReadyForSwift6Test",
-            "title": "ReadyForSwift6Test",
-            "link": "https://swiftpackageindex.com/SwiftPackageIndex/ReadyForSwift6Test",
-            "updated": 1714099109,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "SwiftPackageIndex/ReadyForSwift6Test",
@@ -1791,55 +1637,6 @@
             "title": "SwiftUIDelayedGesture",
             "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIDelayedGesture",
             "updated": 1714095113,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIIndexedList",
-            "title": "SwiftUIIndexedList",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIIndexedList",
-            "updated": 1714095113,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIDelayedGesture",
-            "title": "SwiftUIDelayedGesture",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIDelayedGesture",
-            "updated": 1714095113,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "heckj/DistributedTracer",
-            "title": "DistributedTracer",
-            "link": "https://swiftpackageindex.com/heckj/DistributedTracer",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "alexiscreuzot/SwiftyGif",
-            "title": "SwiftyGif",
-            "link": "https://swiftpackageindex.com/alexiscreuzot/SwiftyGif",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ashvardanian/swift-transformers",
-            "title": "swift-transformers",
-            "link": "https://swiftpackageindex.com/ashvardanian/swift-transformers",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "alexiscreuzot/KAPinField",
-            "title": "KAPinField",
-            "link": "https://swiftpackageindex.com/alexiscreuzot/KAPinField",
-            "updated": 1714094387,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "embrace-io/KSCrash",
-            "title": "KSCrash",
-            "link": "https://swiftpackageindex.com/embrace-io/KSCrash",
-            "updated": 1714094387,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -1948,13 +1745,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "embrace-io/embrace-apple-sdk",
-            "title": "EmbraceIO",
-            "link": "https://swiftpackageindex.com/embrace-io/embrace-apple-sdk",
-            "updated": 1714090028,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "yt:video:Sg0rfYL3utI",
             "title": "SwiftUI: Text Input Field With a Floating Label",
             "link": "https://www.youtube.com/watch?v=Sg0rfYL3utI",
@@ -2030,13 +1820,6 @@
             "link": "https://www.youtube.com/watch?v=OdS7fOS7bTk",
             "updated": 1714087124,
             "site_url": "https://www.learnui.design/blog/"
-        },
-        {
-            "id": "yt:video:OdS7fOS7bTk",
-            "title": "UI Tutorial: Redesigning the Wodify app (in 10 minutes)",
-            "link": "https://www.youtube.com/watch?v=OdS7fOS7bTk",
-            "updated": 1714087124,
-            "site_url": "https://www.youtube.com/channel/UCakPr8lc7Zcowd8Cp2Uy_Eg"
         },
         {
             "id": "yt:video:yD9rfPX2HPs",
@@ -2156,13 +1939,6 @@
             "link": "https://www.youtube.com/watch?v=LHs6vx4QEE4",
             "updated": 1714077620,
             "site_url": "https://www.learnui.design/blog/"
-        },
-        {
-            "id": "yt:video:LHs6vx4QEE4",
-            "title": "UI Tutorial: Redesigning the SpendWeek app (in 10 Min)",
-            "link": "https://www.youtube.com/watch?v=LHs6vx4QEE4",
-            "updated": 1714077620,
-            "site_url": "https://www.youtube.com/channel/UCakPr8lc7Zcowd8Cp2Uy_Eg"
         },
         {
             "id": "yt:video:zz9-d7gKG1o",
@@ -2543,13 +2319,6 @@
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
         },
         {
-            "id": "yt:video:yactcIylm_Y",
-            "title": "Live-coding, Swift, iOS, Xcode, Vapor. I make an indie subway app for NYC",
-            "link": "https://www.youtube.com/watch?v=yactcIylm_Y",
-            "updated": 1714048216,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
-        },
-        {
             "id": "yt:video:yI54JFm96RQ",
             "title": "How to Create 3D App Icons for visionOS | Xcode",
             "link": "https://www.youtube.com/watch?v=yI54JFm96RQ",
@@ -2583,13 +2352,6 @@
             "link": "https://www.youtube.com/watch?v=1m_Ho4ggfMc",
             "updated": 1714043515,
             "site_url": "https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ"
-        },
-        {
-            "id": "unum-cloud/uform",
-            "title": "UForm",
-            "link": "https://swiftpackageindex.com/unum-cloud/uform",
-            "updated": 1714043295,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "unum-cloud/uform",
@@ -2648,13 +2410,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "automerge/automerge-repo-swift",
-            "title": "automerge-repo",
-            "link": "https://swiftpackageindex.com/automerge/automerge-repo-swift",
-            "updated": 1714038210,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "yt:video:2S-BJ7PYrww",
             "title": "Getting Started with SwiftUI - Part 3: View Modifiers",
             "link": "https://www.youtube.com/watch?v=2S-BJ7PYrww",
@@ -2695,20 +2450,6 @@
             "link": "https://www.revenuecat.com/blog/company/series-c-announcement-jacob/",
             "updated": 1714034180,
             "site_url": "https://www.revenuecat.com/blog/"
-        },
-        {
-            "id": "flexjdev/TunnelMonitorKit",
-            "title": "TunnelMonitorKit",
-            "link": "https://swiftpackageindex.com/flexjdev/TunnelMonitorKit",
-            "updated": 1714033852,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "Scandit/datacapture-spm",
-            "title": "Scandit Data Capture SDK",
-            "link": "https://swiftpackageindex.com/Scandit/datacapture-spm",
-            "updated": 1714033852,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "flexjdev/TunnelMonitorKit",
@@ -3040,13 +2781,6 @@
             "site_url": "https://www.learnui.design/blog/"
         },
         {
-            "id": "yt:video:6jiq5g_bXB8",
-            "title": "UI Tutorial: Advanced design tips (in 10 minutes)",
-            "link": "https://www.youtube.com/watch?v=6jiq5g_bXB8",
-            "updated": 1713988414,
-            "site_url": "https://www.youtube.com/channel/UCakPr8lc7Zcowd8Cp2Uy_Eg"
-        },
-        {
             "id": "yt:video:vZuvvgY12lI",
             "title": "Saving tasks to a file - Terminal UI todo app with Swift and ncurses - PART 6",
             "link": "https://www.youtube.com/watch?v=vZuvvgY12lI",
@@ -3187,13 +2921,6 @@
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
         },
         {
-            "id": "yt:video:bCferJmoHcg",
-            "title": "\ud83c\udf31 Living the Creative Act: \"Self-Awareness\" S5E12 video",
-            "link": "https://www.youtube.com/watch?v=bCferJmoHcg",
-            "updated": 1713932596,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
-        },
-        {
             "id": "yt:video:QpNA6Kskdhk",
             "title": "41: Breaking our \u201cskipping episodes\u201d streak",
             "link": "https://www.youtube.com/watch?v=QpNA6Kskdhk",
@@ -3227,27 +2954,6 @@
             "link": "https://blog-proxy.bitrise.io/post/run-bitrise-builds-on-your-own-infrastructure-the-bitrise-runner",
             "updated": 1713924757,
             "site_url": "https://bitrise.io/blog"
-        },
-        {
-            "id": "ivnsch/SwiftCharts",
-            "title": "SwiftCharts",
-            "link": "https://swiftpackageindex.com/ivnsch/SwiftCharts",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "akbashev/cluster-event-sourcing",
-            "title": "cluster-event-sourcing",
-            "link": "https://swiftpackageindex.com/akbashev/cluster-event-sourcing",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "akbashev/swift-distributed-actors",
-            "title": "swift-distributed-actors",
-            "link": "https://swiftpackageindex.com/akbashev/swift-distributed-actors",
-            "updated": 1713922710,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "ivnsch/SwiftCharts",
@@ -3495,20 +3201,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "Automattic/Gravatar-SDK-iOS",
-            "title": "Gravatar",
-            "link": "https://swiftpackageindex.com/Automattic/Gravatar-SDK-iOS",
-            "updated": 1713853091,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "ciaranrobrien/SwiftUIScrollOffset",
-            "title": "SwiftUIScrollOffset",
-            "link": "https://swiftpackageindex.com/ciaranrobrien/SwiftUIScrollOffset",
-            "updated": 1713853091,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "tag:github.com,2008:Grit::Commit/fa26c20271379107190c5c8e268908032b99bb11",
             "title": "Normalize review metadata",
             "link": "https://github.com/apple/swift-evolution/commit/fa26c20271379107190c5c8e268908032b99bb11",
@@ -3551,13 +3243,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "InderKumarRathore/DeviceGuru",
-            "title": "DeviceGuru",
-            "link": "https://swiftpackageindex.com/InderKumarRathore/DeviceGuru",
-            "updated": 1713841478,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "https://www.donnywals.com/?p=2251",
             "title": "Dispatching to the Main thread with MainActor in Swift",
             "link": "https://www.donnywals.com/dispatching-to-the-main-thread-with-mainactor-in-swift/",
@@ -3584,13 +3269,6 @@
             "link": "https://www.rudrank.com/exploring-visionos-creating-toast-notifications-using-ornaments/",
             "updated": 1713831457,
             "site_url": "https://www.rudrank.com/"
-        },
-        {
-            "id": "infinitepower18/EmailClientHelper",
-            "title": "EmailClientHelper",
-            "link": "https://swiftpackageindex.com/infinitepower18/EmailClientHelper",
-            "updated": 1713813893,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "infinitepower18/EmailClientHelper",
@@ -3824,13 +3502,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "lovetodream/swift-snappy",
-            "title": "snappy",
-            "link": "https://swiftpackageindex.com/lovetodream/swift-snappy",
-            "updated": 1713749253,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "yt:video:0XTUzaA2Mqw",
             "title": "How to Use Git with Xcode 15 - 2024",
             "link": "https://www.youtube.com/watch?v=0XTUzaA2Mqw",
@@ -3957,13 +3628,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "lovetodream/swift-log-loki",
-            "title": "swift-log-loki",
-            "link": "https://swiftpackageindex.com/lovetodream/swift-log-loki",
-            "updated": 1713706031,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "yt:video:sCK0W39nVEk",
             "title": "SwiftUI Scrollable Tab Bar - iOS 17",
             "link": "https://www.youtube.com/watch?v=sCK0W39nVEk",
@@ -3999,13 +3663,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "letvarhq/Gradiente",
-            "title": "Gradiente",
-            "link": "https://swiftpackageindex.com/letvarhq/Gradiente",
-            "updated": 1713665229,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "6624a2f82de1270001cf96c0",
             "title": "Exploring visionOS: Creating Side Window for Main Window with Animation",
             "link": "https://www.rudrank.com/exploring-visionos-creating-side-window-for-main-window-with-animation/",
@@ -4017,20 +3674,6 @@
             "title": "CBDevice",
             "link": "https://swiftpackageindex.com/katsuyax/CBDevice",
             "updated": 1713648642,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "katsuyax/CBDevice",
-            "title": "CBDevice",
-            "link": "https://swiftpackageindex.com/katsuyax/CBDevice",
-            "updated": 1713648642,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "tareksabry1337/TensorFlowLiteSwift",
-            "title": "TensorFlowLiteSwift",
-            "link": "https://swiftpackageindex.com/tareksabry1337/TensorFlowLiteSwift",
-            "updated": 1713648279,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -4104,13 +3747,6 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "ChimeHQ/ThemePark",
-            "title": "ThemePark",
-            "link": "https://swiftpackageindex.com/ChimeHQ/ThemePark",
-            "updated": 1713606506,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "tag:github.com,2008:Grit::Commit/9de040cfdab159b7228e640499a821870b6379ff",
             "title": "[SE-0428] accept with modifications (#2412)",
             "link": "https://github.com/apple/swift-evolution/commit/9de040cfdab159b7228e640499a821870b6379ff",
@@ -4129,27 +3765,6 @@
             "title": "UIViewID",
             "link": "https://swiftpackageindex.com/leofriskey/UIViewID",
             "updated": 1713591523,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "leofriskey/UIViewID",
-            "title": "UIViewID",
-            "link": "https://swiftpackageindex.com/leofriskey/UIViewID",
-            "updated": 1713591523,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "davbeck/swift-glob",
-            "title": "swift-glob",
-            "link": "https://swiftpackageindex.com/davbeck/swift-glob",
-            "updated": 1713576993,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "segmentio/JSONSafeEncoding-Swift",
-            "title": "JSONSafeEncoding",
-            "link": "https://swiftpackageindex.com/segmentio/JSONSafeEncoding-Swift",
-            "updated": 1713576993,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -4172,13 +3787,6 @@
             "link": "https://www.youtube.com/watch?v=XBy_BpScVd4",
             "updated": 1713572229,
             "site_url": "https://www.youtube.com/user/PaulSolt"
-        },
-        {
-            "id": "hidden-spectrum/swift-translate",
-            "title": "SwiftTranslate",
-            "link": "https://swiftpackageindex.com/hidden-spectrum/swift-translate",
-            "updated": 1713565354,
-            "site_url": "https://swiftpackageindex.com"
         },
         {
             "id": "hidden-spectrum/swift-translate",
@@ -4272,31 +3880,10 @@
             "site_url": "https://swiftpackageindex.com"
         },
         {
-            "id": "simonnickel/snap-matching-navigation",
-            "title": "snap-matching-navigation",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-matching-navigation",
-            "updated": 1713512299,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
             "id": "simonnickel/snap-settings-service",
             "title": "snap-settings-service",
             "link": "https://swiftpackageindex.com/simonnickel/snap-settings-service",
             "updated": 1713511935,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "simonnickel/snap-settings-service",
-            "title": "snap-settings-service",
-            "link": "https://swiftpackageindex.com/simonnickel/snap-settings-service",
-            "updated": 1713511935,
-            "site_url": "https://swiftpackageindex.com"
-        },
-        {
-            "id": "mattmassicotte/Packet",
-            "title": "Packet",
-            "link": "https://swiftpackageindex.com/mattmassicotte/Packet",
-            "updated": 1713510846,
             "site_url": "https://swiftpackageindex.com"
         },
         {
@@ -5014,13 +4601,6 @@
             "site_url": "https://www.fline.dev/"
         },
         {
-            "id": "6608da44f047360001a5ffe1",
-            "title": "Reacting to Pricing Backlash: Lessons Learned",
-            "link": "https://www.fline.dev/reacting-to-pricing-backlash-lessons-learned/",
-            "updated": 1713247204,
-            "site_url": "https://www.youtube.com/c/FlineDev"
-        },
-        {
             "id": "https://www.netguru.com/blog/android-vs-ios-development",
             "title": "Android vs iOS Development: A Comprehensive Guide for Developers",
             "link": "https://www.netguru.com/blog/android-vs-ios-development",
@@ -5238,13 +4818,6 @@
             "site_url": "https://www.fline.dev/"
         },
         {
-            "id": "65f062bc8e45480001614cdf",
-            "title": "2 New Vision Pro Apps: \"Guided Guest Mode\" & \"FocusBeats: Pomodoro + Music\"",
-            "link": "https://www.fline.dev/2-new-vision-pro-apps-guided-guest-mode-focusbeats-pomodoro-music/",
-            "updated": 1713155627,
-            "site_url": "https://www.youtube.com/c/FlineDev"
-        },
-        {
             "id": "https://medium.com/p/8eaaa0f0e04a",
             "title": "Web View in SwiftUI",
             "link": "https://medium.com/@jpmtech/web-view-in-swiftui-8eaaa0f0e04a?source=rss-940b7d9329f2------2",
@@ -5327,13 +4900,6 @@
             "link": "https://www.youtube.com/watch?v=25tdSFl2MRM",
             "updated": 1713099309,
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
-        },
-        {
-            "id": "yt:video:25tdSFl2MRM",
-            "title": "Live-coding and music! iOS, Swift, Xcode. Part 2, April 7 2024",
-            "link": "https://www.youtube.com/watch?v=25tdSFl2MRM",
-            "updated": 1713099309,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
         },
         {
             "id": "yt:video:0EQwtceuPok",
@@ -5686,13 +5252,6 @@
             "site_url": "https://blog.supereasyapps.com/"
         },
         {
-            "id": "661826bb4d86a80001a20399",
-            "title": "5 Practical Ways to Quickly Overcome a Programming Obstacle",
-            "link": "https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/",
-            "updated": 1712835245,
-            "site_url": "https://blog.supereasyapps.com/"
-        },
-        {
             "id": "https://www.kodeco.com/44888524-kodeco-podcast-v2-s2-e7-favorite-apps-for-mobile-development",
             "title": "Kodeco Podcast V2, S2, E7: Favorite Apps for Mobile Development [FREE]",
             "link": "https://www.kodeco.com/44888524-kodeco-podcast-v2-s2-e7-favorite-apps-for-mobile-development",
@@ -6029,13 +5588,6 @@
             "site_url": "https://www.learnui.design/blog/"
         },
         {
-            "id": "yt:video:ZkiqyA0N71U",
-            "title": "Figma Crash Course 2024 \u2013 Full Website in 60 Minutes",
-            "link": "https://www.youtube.com/watch?v=ZkiqyA0N71U",
-            "updated": 1712695004,
-            "site_url": "https://www.youtube.com/channel/UCakPr8lc7Zcowd8Cp2Uy_Eg"
-        },
-        {
             "id": "yt:video:YkDQpitcxqM",
             "title": "Episode 8 - Periphery + Remove Unused Code",
             "link": "https://www.youtube.com/watch?v=YkDQpitcxqM",
@@ -6092,13 +5644,6 @@
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
         },
         {
-            "id": "yt:video:MKauOwm9OiM",
-            "title": "Live-coding and music! Swift, iOS, Xcode. Part 1, Sunday, April 7, 2024",
-            "link": "https://www.youtube.com/watch?v=MKauOwm9OiM",
-            "updated": 1712676862,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
-        },
-        {
             "id": "https://mailchi.mp/d7af7a91aeea/211-total",
             "title": "Newsletter 211 - Total",
             "link": "https://mailchi.mp/d7af7a91aeea/211-total",
@@ -6111,13 +5656,6 @@
             "link": "https://swiftonserver.com/useful-scripts-for-server-side-swift-libraries/",
             "updated": 1712674800,
             "site_url": "https://swiftonserver.com/"
-        },
-        {
-            "id": "66159bdb70df5600013049a0",
-            "title": "How to migrate from UIActionSheet to UIAlertController in Objective-C",
-            "link": "https://blog.supereasyapps.com/how-to-migrate-from-uiactionsheet-to-uialertcontroller-in-objective-c/",
-            "updated": 1712671897,
-            "site_url": "https://blog.supereasyapps.com/"
         },
         {
             "id": "66159bdb70df5600013049a0",
@@ -6181,13 +5719,6 @@
             "link": "https://www.fline.dev/introducing-freelancekit/",
             "updated": 1712663758,
             "site_url": "https://www.fline.dev/"
-        },
-        {
-            "id": "66157d7db855a00001e3e35e",
-            "title": "Introducing FreelanceKit: Time Tracking for all \uf8ff Platforms!",
-            "link": "https://www.fline.dev/introducing-freelancekit/",
-            "updated": 1712663758,
-            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "https://lapcatsoftware.com/articles/2024/4/3.html",
@@ -6433,13 +5964,6 @@
             "link": "https://www.youtube.com/watch?v=_uS4Szc95fQ",
             "updated": 1712503786,
             "site_url": "https://www.youtube.com/@FullQueueDeveloper"
-        },
-        {
-            "id": "yt:video:_uS4Szc95fQ",
-            "title": "Live-coding and Jazz. iOS, Swift, Xcode.",
-            "link": "https://www.youtube.com/watch?v=_uS4Szc95fQ",
-            "updated": 1712503786,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
         },
         {
             "id": "https://tanaschita.com/xcode-quicktip-learning-shortcuts",
@@ -6713,13 +6237,6 @@
             "link": "https://www.fline.dev/my-top-10-wishes-for-wwdc24/",
             "updated": 1712322561,
             "site_url": "https://www.fline.dev/"
-        },
-        {
-            "id": "660ad649f047360001a60140",
-            "title": "My Top 10 Wishes for WWDC24",
-            "link": "https://www.fline.dev/my-top-10-wishes-for-wwdc24/",
-            "updated": 1712322561,
-            "site_url": "https://www.youtube.com/c/FlineDev"
         },
         {
             "id": "yt:video:ogblzP7rXHg",
@@ -7000,6 +6517,489 @@
             "link": "https://www.createwithswift.com/camera-capture-setup-in-a-swiftui-app/",
             "updated": 1712210412,
             "site_url": "https://www.createwithswift.com/"
+        },
+        {
+            "id": "yt:video:D3-d9flNB7k",
+            "title": "The Easiest Way to Find Keywords for Your Apple Search Ad Campaigns + Live Q&A",
+            "link": "https://www.youtube.com/watch?v=D3-d9flNB7k",
+            "updated": 1712205860,
+            "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg"
+        },
+        {
+            "id": "https://blog-proxy.bitrise.io/post/introducing-connected-apps-for-streamlined-release-management-on-bitrise",
+            "title": "Introducing Connected Apps for Streamlined Release Management on Bitrise - Bitrise Blog",
+            "link": "https://blog-proxy.bitrise.io/post/introducing-connected-apps-for-streamlined-release-management-on-bitrise",
+            "updated": 1712204445,
+            "site_url": "https://bitrise.io/blog"
+        },
+        {
+            "id": "yt:video:VcidT15AeIQ",
+            "title": "Rebuild Bumble in SwiftUI (Part 2/5) | SwiftUI in Practice #8",
+            "link": "https://www.youtube.com/watch?v=VcidT15AeIQ",
+            "updated": 1712198947,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:t6rVT1-aeaw",
+            "title": "Rebuild Bumble in SwiftUI (Part 1/5) | SwiftUI in Practice #7",
+            "link": "https://www.youtube.com/watch?v=t6rVT1-aeaw",
+            "updated": 1712184292,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "yt:video:sG3YkR3kEm0",
+            "title": "Version control allows us software engineers to quickly reduce a feature to its essential",
+            "link": "https://www.youtube.com/watch?v=sG3YkR3kEm0",
+            "updated": 1712184064,
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+        },
+        {
+            "id": "yt:video:--Z8gtA0G2U",
+            "title": "Sometimes the juice just isn't flowing and that's totally okay. It's okay to take a break",
+            "link": "https://www.youtube.com/watch?v=--Z8gtA0G2U",
+            "updated": 1712184062,
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+        },
+        {
+            "id": "yt:video:PBDrJ83Cim4",
+            "title": "We should be using our own strengths and weaknesses to create something that is unique.",
+            "link": "https://www.youtube.com/watch?v=PBDrJ83Cim4",
+            "updated": 1712184062,
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+        },
+        {
+            "id": "yt:video:9Dp9STShgto",
+            "title": "Let's cheer for each other!",
+            "link": "https://www.youtube.com/watch?v=9Dp9STShgto",
+            "updated": 1712184062,
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+        },
+        {
+            "id": "https://blog.kulman.sk/use-openvn-as-proxy/",
+            "title": "Use OpenVPN as a proxy to more comfortably access internal Gitlab",
+            "link": "https://blog.kulman.sk/use-openvn-as-proxy/",
+            "updated": 1712183352,
+            "site_url": "https://blog.kulman.sk"
+        },
+        {
+            "id": "yt:video:zbS_raINcs4",
+            "title": "Coding Clubhouse in 24 hours",
+            "link": "https://www.youtube.com/watch?v=zbS_raINcs4",
+            "updated": 1712180972,
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+        },
+        {
+            "id": "https://danielsaidi.com/blog/2024/04/04/how-to-create-a-custom-label-style-that-only-tints-the-label-icon",
+            "title": "How to create a custom label style that only tints the icon",
+            "link": "https://danielsaidi.com/blog/2024/04/04/how-to-create-a-custom-label-style-that-only-tints-the-label-icon",
+            "updated": 1712178000,
+            "site_url": "https://danielsaidi.com/blog/"
+        },
+        {
+            "id": "yt:video:xzhot7pgo7A",
+            "title": "Setting Up TestFlight: Main, CI, CD",
+            "link": "https://www.youtube.com/watch?v=xzhot7pgo7A",
+            "updated": 1712176996,
+            "site_url": "https://www.youtube.com/c/qualitycoding"
+        },
+        {
+            "id": "yt:video:xXAskEJYaBU",
+            "title": "30 Seconds for AI to Create Mock Data",
+            "link": "https://www.youtube.com/watch?v=xXAskEJYaBU",
+            "updated": 1712175672,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "2110206829",
+            "title": "Swift/iOS App Development",
+            "link": "https://www.twitch.tv/videos/2110206829",
+            "updated": 1712171377,
+            "site_url": "https://www.twitch.tv/cocoatype"
+        },
+        {
+            "id": "yt:video:tvhuRV20b1U",
+            "title": "SwiftData Models for Charts (\ud83d\udcd5 SwiftData Book)  #swiftui #swiftdata",
+            "link": "https://www.youtube.com/watch?v=tvhuRV20b1U",
+            "updated": 1712166552,
+            "site_url": "https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg"
+        },
+        {
+            "id": "yt:video:svx1KfWH9zo",
+            "title": "Organize your SwiftUI - Part 1: Separation",
+            "link": "https://www.youtube.com/watch?v=svx1KfWH9zo",
+            "updated": 1712164110,
+            "site_url": "https://www.youtube.com/scottsmithdev"
+        },
+        {
+            "id": "yt:video:-sw7gvNUboc",
+            "title": "SwiftUI Toggle - Button & Switch Tutorial",
+            "link": "https://www.youtube.com/watch?v=-sw7gvNUboc",
+            "updated": 1712153957,
+            "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw"
+        },
+        {
+            "id": "yt:video:Z1_49kXP5U0",
+            "title": "Instagram Pinch to Zoom | SwiftUI | iOS 17 | Xcode 15",
+            "link": "https://www.youtube.com/watch?v=Z1_49kXP5U0",
+            "updated": 1712153612,
+            "site_url": "https://www.youtube.com/channel/UCsuV4MRk_aB291SrchUVb4w"
+        },
+        {
+            "id": "https://lmnt.me/blog/inconsequential-mistakes.html",
+            "title": "Inconsequential Mistakes",
+            "link": "https://lmnt.me/blog/inconsequential-mistakes.html",
+            "updated": 1712141400,
+            "site_url": "https://lmnt.me/"
+        },
+        {
+            "id": "yt:video:o0Y69NLOXxU",
+            "title": "Bring 3D to your App: Developing Native iOS Apps with Spline",
+            "link": "https://www.youtube.com/watch?v=o0Y69NLOXxU",
+            "updated": 1712139131,
+            "site_url": "https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw"
+        },
+        {
+            "id": "https://www.runway.team/blog/how-to-implement-fastlane-match-using-the-app-store-connect-api",
+            "title": "How to implement fastlane match in Swift using the App Store Connect API",
+            "link": "https://www.runway.team/blog/how-to-implement-fastlane-match-using-the-app-store-connect-api",
+            "updated": 1712136192,
+            "site_url": "https://www.runway.team/blog"
+        },
+        {
+            "id": "https://www.runway.team/blog/guide-to-the-app-store-connect-api-calculate-your-ios-app-rating",
+            "title": "Guide to the App Store Connect API: Calculate your iOS app's average user rating for each version",
+            "link": "https://www.runway.team/blog/guide-to-the-app-store-connect-api-calculate-your-ios-app-rating",
+            "updated": 1712135753,
+            "site_url": "https://www.runway.team/blog"
+        },
+        {
+            "id": "https://medium.com/p/9f373a546579",
+            "title": "Custom Button Styling in SwiftUI",
+            "link": "https://medium.com/@alessandromanilii/custom-button-styling-in-swiftui-9f373a546579?source=rss-71ad5f0d2495------2",
+            "updated": 1712135475,
+            "site_url": "https://medium.com/@alessandromanilii"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/2.html",
+            "title": "Stop The Mac App Store improved for Sonoma and Ventura",
+            "link": "https://lapcatsoftware.com/articles/2024/4/2.html",
+            "updated": 1712128800,
+            "site_url": "http://lapcatsoftware.com/articles/index.html"
+        },
+        {
+            "id": "https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/",
+            "title": "Using your Personal Voice (along with system and novelty voices) in an iOS app",
+            "link": "https://bendodson.com/weblog/2024/04/03/using-your-personal-voice-in-an-ios-app/",
+            "updated": 1712126040,
+            "site_url": "https://bendodson.com/weblog/"
+        },
+        {
+            "id": "https://www.revenuecat.com/blog/growth/marcus-burke-sub-club-podcast/",
+            "title": "\u201cMeta has a very strong algorithm\u2026 They\u2019re good at finding your audience for you\u201d \u2014 Marcus Burke, Independent Consultant",
+            "link": "https://www.revenuecat.com/blog/growth/marcus-burke-sub-club-podcast/",
+            "updated": 1712125362,
+            "site_url": "https://www.revenuecat.com/blog/"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177754",
+            "title": "Decode JSON with Dynamic Keys in Swift [Dictionaries and Arrays]",
+            "link": "https://matteomanferdini.com/swift-decode-json-dynamic-keys/",
+            "updated": 1712125072,
+            "site_url": "https://matteomanferdini.com/blog/"
+        },
+        {
+            "id": "https://infinum.com/?p=52477",
+            "title": "How to Use AI in User Research \u2013 Three Easy Wins",
+            "link": "https://infinum.com/blog/ai-in-user-research/",
+            "updated": 1712118178,
+            "site_url": "https://infinum.com/blog/"
+        },
+        {
+            "id": "0618b39d-0683-4ccc-b46e-93b157818141",
+            "title": "Hacking with Ignite with Paul Hudson",
+            "link": "https://share.transistor.fm/s/1e440a9f",
+            "updated": 1712106900,
+            "site_url": "https://www.empowerapps.show"
+        },
+        {
+            "id": "https://blog.eternalstorms.at/?p=4575",
+            "title": "\u26a1\ufe0f Tameno v1.0.5 now available with more Mac goodness",
+            "link": "https://blog.eternalstorms.at/2024/04/03/%e2%9a%a1%ef%b8%8f-tameno-v1-0-5-now-available-with-more-mac-goodness/",
+            "updated": 1712105083,
+            "site_url": "https://blog.eternalstorms.at"
+        },
+        {
+            "id": "yt:video:jLRNgR8nw-k",
+            "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 2",
+            "link": "https://www.youtube.com/watch?v=jLRNgR8nw-k",
+            "updated": 1712104121,
+            "site_url": "https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA"
+        },
+        {
+            "id": "yt:video:jBs51b60kkI",
+            "title": "The tools I use as an iOS Developer.",
+            "link": "https://www.youtube.com/watch?v=jBs51b60kkI",
+            "updated": 1712102690,
+            "site_url": "https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA"
+        },
+        {
+            "id": "yt:video:iv4gDI88mP4",
+            "title": "This is the Highest Earning App in the World | This Week in Apps",
+            "link": "https://www.youtube.com/watch?v=iv4gDI88mP4",
+            "updated": 1712101045,
+            "site_url": "https://www.youtube.com/channel/UCfvk5lomVsbHBYWciRVNHlg"
+        },
+        {
+            "id": "https://swift.org/blog/embedded-swift-examples/",
+            "title": "Get Started with Embedded Swift on ARM and RISC-V Microcontrollers",
+            "link": "https://swift.org/blog/embedded-swift-examples/",
+            "updated": 1712098800,
+            "site_url": "https://www.swift.org/blog/"
+        },
+        {
+            "id": "50a7b856-b54e-4eb0-be81-d3176a0b366b",
+            "title": "Scaling Your Subscription App with Meta Ads \u2013 Marcus Burke, Independent Consultant",
+            "link": "https://subclub.com/episode/scaling-your-subscription-app-with-meta-ads-marcus-burke-independent-consultant",
+            "updated": 1712095200,
+            "site_url": "https://subclub.com/"
+        },
+        {
+            "id": "yt:video:grna09uBLbk",
+            "title": "Error Handling in SwiftUI - The Matthias iOS Development Show",
+            "link": "https://www.youtube.com/watch?v=grna09uBLbk",
+            "updated": 1712084126,
+            "site_url": "https://www.youtube.com/channel/UCvMdsKesM05bIG0eq7M5z1g"
+        },
+        {
+            "id": "https://fatbobman.com/en/posts/new-frameworks-new-mindset/",
+            "title": "New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks",
+            "link": "https://fatbobman.com/en/posts/new-frameworks-new-mindset/",
+            "updated": 1712077920,
+            "site_url": "https://fatbobman.com/en/"
+        },
+        {
+            "id": "yt:video:vfUalXtwth0",
+            "title": "SwiftUI Grids - LazyVGrid, LazyHGrid, Static Grid",
+            "link": "https://www.youtube.com/watch?v=vfUalXtwth0",
+            "updated": 1712077400,
+            "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw"
+        },
+        {
+            "id": "https://polpiella.dev/mastering-the-reduce-operator-in-swift/",
+            "title": "Master the reduce operator in Swift and make your code more performant",
+            "link": "https://polpiella.dev/mastering-the-reduce-operator-in-swift/",
+            "updated": 1712077200,
+            "site_url": "https://www.polpiella.dev"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024f",
+            "title": "iOS 17.5 beta (21F5048f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024f",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024e",
+            "title": "iPadOS 17.5 beta (21F5048f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024e",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024d",
+            "title": "macOS 14.5 beta (23F5049f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024d",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024c",
+            "title": "tvOS 17.5 beta (21L5543d)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024c",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "https://developer.apple.com/news/releases/?id=04022024a",
+            "title": "watchOS 10.5 beta (21T5545f)",
+            "link": "https://developer.apple.com/news/releases/?id=04022024a",
+            "updated": 1712077200,
+            "site_url": "https://developer.apple.com/news/releases/"
+        },
+        {
+            "id": "http://diggingdeveloper.blog/?p=710",
+            "title": "TIL dynamic libraries are only partially loaded at launch in iOS",
+            "link": "https://diggingdeveloper.blog/2024/04/03/til-dynamic-libraries-are-only-partially-loaded-at-launch-in-ios/",
+            "updated": 1712076840,
+            "site_url": "https://diggingdeveloper.blog"
+        },
+        {
+            "id": "https://swiftonserver.com/async-http-client-by-example/",
+            "title": "AsyncHTTPClient by example",
+            "link": "https://swiftonserver.com/async-http-client-by-example/",
+            "updated": 1712070000,
+            "site_url": "https://swiftonserver.com/"
+        },
+        {
+            "id": "https://mailchi.mp/7e6bc1b11459/210-permanence",
+            "title": "Newsletter 210 - Permanence",
+            "link": "https://mailchi.mp/7e6bc1b11459/210-permanence",
+            "updated": 1712066400,
+            "site_url": "https://dimsumthinking.com"
+        },
+        {
+            "id": "yt:video:c92DfVGGi8M",
+            "title": "Rebuild Spotify in SwiftUI (Part 5/5) | SwiftUI in Practice #6",
+            "link": "https://www.youtube.com/watch?v=c92DfVGGi8M",
+            "updated": 1712062237,
+            "site_url": "https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg"
+        },
+        {
+            "id": "https://lapcatsoftware.com/articles/2024/4/1.html",
+            "title": "Safari Search Settings spacing",
+            "link": "https://lapcatsoftware.com/articles/2024/4/1.html",
+            "updated": 1712060100,
+            "site_url": "http://lapcatsoftware.com/articles/index.html"
+        },
+        {
+            "id": "http://rhonabwy.com/?p=6610",
+            "title": "Distributed Tracing with Testing on iOS and macOS",
+            "link": "https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/",
+            "updated": 1712057901,
+            "site_url": "https://rhonabwy.com/"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177748",
+            "title": "Decoding and Flattening Nested JSON with Codable",
+            "link": "https://matteomanferdini.com/swift-codable-nested-json/",
+            "updated": 1712055017,
+            "site_url": "https://matteomanferdini.com/blog/"
+        },
+        {
+            "id": "https://jacobbartlett.substack.com/p/readmemd-new-readers-start-here",
+            "title": "README.md (new readers start here!)",
+            "link": "https://jacobbartlett.substack.com/p/readmemd-new-readers-start-here",
+            "updated": 1712049352,
+            "site_url": "https://jacobbartlett.substack.com"
+        },
+        {
+            "id": "660c195c0fcd350001b67bac",
+            "title": "Adding Map Controls to a Map view with SwiftUI and MapKit",
+            "link": "https://www.createwithswift.com/adding-map-controls-to-a-map-view-with-swiftui-and-mapkit/",
+            "updated": 1712045713,
+            "site_url": "https://www.createwithswift.com/"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177742",
+            "title": "Coding Keys in Swift with Decodable: How and When to Use Them",
+            "link": "https://matteomanferdini.com/codingkey-swift/",
+            "updated": 1712044647,
+            "site_url": "https://matteomanferdini.com/blog/"
+        },
+        {
+            "id": "https://fatbobman.com/en/weekly/issue-025/",
+            "title": "Fatbobman's Swift Weekly #25 : Let's VisionOS, Let's rock and roll!",
+            "link": "https://fatbobman.com/en/weekly/issue-025/",
+            "updated": 1712041200,
+            "site_url": "https://fatbobman.com/en/"
+        },
+        {
+            "id": "yt:video:7BXertzo8sg",
+            "title": "visionOS 3D content in SwiftUI | Xcode | Spline",
+            "link": "https://www.youtube.com/watch?v=7BXertzo8sg",
+            "updated": 1712039339,
+            "site_url": "https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw"
+        },
+        {
+            "id": "https://christianselig.com/2024/04/waterfield-vision-pro-case/",
+            "title": "Waterfield's weirdly compact Apple Vision Pro Case",
+            "link": "https://christianselig.com/2024/04/waterfield-vision-pro-case/",
+            "updated": 1712037406,
+            "site_url": "https://christianselig.com"
+        },
+        {
+            "id": "https://www.donnywals.com/?p=2220",
+            "title": "Using closures for dependencies instead of protocols",
+            "link": "https://www.donnywals.com/using-closures-for-dependencies-instead-of-protocols/",
+            "updated": 1712033162,
+            "site_url": "https://www.donnywals.com"
+        },
+        {
+            "id": "https://matteomanferdini.com/?p=177734",
+            "title": "Parse JSON from an API URL in Swift [Codable and URLSession]",
+            "link": "https://matteomanferdini.com/swift-parse-json-from-url/",
+            "updated": 1712026242,
+            "site_url": "https://matteomanferdini.com/blog/"
+        },
+        {
+            "id": "https://www.avanderlee.com/?p=202397",
+            "title": "Identifiable protocol in SwiftUI explained with code examples",
+            "link": "https://www.avanderlee.com/swiftui/identifiable-protocol-object-identifier/",
+            "updated": 1712020062,
+            "site_url": "https://www.avanderlee.com"
+        },
+        {
+            "id": "https://www.sketch.com/blog/aeon-studio/",
+            "title": "Aeon Studio: using Sketch to delight clients through design",
+            "link": "https://www.sketch.com/blog/aeon-studio/",
+            "updated": 1712019600,
+            "site_url": "https://www.sketch.com/blog/"
+        },
+        {
+            "id": "https://medium.com/p/0779d5fa25a3",
+            "title": "Mastering the Art of Prompt Engineering: Crafting Engaging and Effective Prompts",
+            "link": "https://medium.com/@paritoshraval100/mastering-the-art-of-prompt-engineering-crafting-engaging-and-effective-prompts-0779d5fa25a3?source=rss-4c5fcfd4c5c4------2",
+            "updated": 1712016108,
+            "site_url": "https://medium.com/@paritoshraval100"
+        },
+        {
+            "id": "https://bugfender.com/?p=11646",
+            "title": "Deploying Microfrontends on AWS: A Guide for Developers",
+            "link": "https://bugfender.com/blog/deploying-microfrontends-on-aws/",
+            "updated": 1712014164,
+            "site_url": "https://bugfender.com/blog/"
+        },
+        {
+            "id": "2108328020",
+            "title": "Swift Development for Playdate + Crime",
+            "link": "https://www.twitch.tv/videos/2108328020",
+            "updated": 1711998142,
+            "site_url": "https://www.twitch.tv/cocoatype"
+        },
+        {
+            "id": "2108322207",
+            "title": "Swift Development for Playdate + Crime",
+            "link": "https://www.twitch.tv/videos/2108322207",
+            "updated": 1711997781,
+            "site_url": "https://www.twitch.tv/cocoatype"
+        },
+        {
+            "id": "https://antran.app/2024/macos_storyboard_commands/",
+            "title": "Fixing Keyboard shortcuts not working for TextFields in macOS apps",
+            "link": "https://antran.app/2024/macos_storyboard_commands/",
+            "updated": 1711990800,
+            "site_url": "https://antran.app/"
+        },
+        {
+            "id": "https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui",
+            "title": "Trigger value pattern in SwiftUI",
+            "link": "https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/",
+            "updated": 1711990800,
+            "site_url": "http://swiftwithmajid.com/"
+        },
+        {
+            "id": "https://vicegax.substack.com/p/nsviewrepresentable-breaks",
+            "title": "NSViewRepresentable breaks",
+            "link": "https://vicegax.substack.com/p/nsviewrepresentable-breaks",
+            "updated": 1711976932,
+            "site_url": "https://vicegax.substack.com"
+        },
+        {
+            "id": "http://mikezornek.com/posts/2024/4/march-2024-review/",
+            "title": "March 2024 Review",
+            "link": "http://mikezornek.com/posts/2024/4/march-2024-review/",
+            "updated": 1711975382,
+            "site_url": "https://mikezornek.com/"
         }
     ]
 }
