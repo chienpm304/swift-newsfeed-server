@@ -25,7 +25,7 @@ def rebuild_sites():
                 "title": site.get("title", ""),
                 "site_url": site.get("site_url", ""),
                 "feed_url": site.get("feed_url", ""),
-                "category": category_title,
+                # "category": category_title,
                 "slug": category_slug
             }
             all_sites.append(site_dict)
