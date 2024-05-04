@@ -6,35 +6,40 @@
             "title": "Colorizing images with CoreML",
             "link": "https://www.onswiftwings.com/posts/image-colorization-coreml/",
             "updated": 1620198750,
-            "site_url": "https://www.onswiftwings.com/"
+            "site_url": "https://www.onswiftwings.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.onswiftwings.com/posts/interactive-animations/",
             "title": "Delightful Interactive Animations",
             "link": "https://www.onswiftwings.com/posts/interactive-animations/",
             "updated": 1592209207,
-            "site_url": "https://www.onswiftwings.com/"
+            "site_url": "https://www.onswiftwings.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.onswiftwings.com/posts/ui-tests-earlgrey/",
             "title": "UI Testing iOS application with EarlGrey",
             "link": "https://www.onswiftwings.com/posts/ui-tests-earlgrey/",
             "updated": 1589256773,
-            "site_url": "https://www.onswiftwings.com/"
+            "site_url": "https://www.onswiftwings.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.onswiftwings.com/posts/build-time-optimization-part2/",
             "title": "Xcode Build Time Optimization - Part 2",
             "link": "https://www.onswiftwings.com/posts/build-time-optimization-part2/",
             "updated": 1586320509,
-            "site_url": "https://www.onswiftwings.com/"
+            "site_url": "https://www.onswiftwings.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.onswiftwings.com/posts/build-time-optimization-part1/",
             "title": "Xcode Build Time Optimization - Part 1",
             "link": "https://www.onswiftwings.com/posts/build-time-optimization-part1/",
             "updated": 1582864325,
-            "site_url": "https://www.onswiftwings.com/"
+            "site_url": "https://www.onswiftwings.com/",
+            "slug": "development"
         }
     ]
 }

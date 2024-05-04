@@ -6,35 +6,40 @@
             "title": "My New Job Checklist",
             "link": "https://leonardodiaz.medium.com/my-new-job-checklist-fbb83aa236af?source=rss-bb8b9101a9eb------2",
             "updated": 1666124148,
-            "site_url": "https://leonardodiaz.medium.com"
+            "site_url": "https://leonardodiaz.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/22ec60bc43c4",
             "title": "My Journey Into Software Engineering",
             "link": "https://leonardodiaz.medium.com/my-journey-into-software-engineering-22ec60bc43c4?source=rss-bb8b9101a9eb------2",
             "updated": 1624388677,
-            "site_url": "https://leonardodiaz.medium.com"
+            "site_url": "https://leonardodiaz.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/25208fa1b51c",
             "title": "Intro to SnapKit",
             "link": "https://leonardodiaz.medium.com/intro-to-snapkit-25208fa1b51c?source=rss-bb8b9101a9eb------2",
             "updated": 1613757748,
-            "site_url": "https://leonardodiaz.medium.com"
+            "site_url": "https://leonardodiaz.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/868cd7f3e3a8",
             "title": "Xcode Programmatic Project Setup",
             "link": "https://leonardodiaz.medium.com/xcode-programmatic-project-setup-868cd7f3e3a8?source=rss-bb8b9101a9eb------2",
             "updated": 1610991016,
-            "site_url": "https://leonardodiaz.medium.com"
+            "site_url": "https://leonardodiaz.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/de1e59b3c2be",
             "title": "Programmatic UI: Discord",
             "link": "https://levelup.gitconnected.com/programmatic-ui-discord-de1e59b3c2be?source=rss-bb8b9101a9eb------2",
             "updated": 1600146856,
-            "site_url": "https://leonardodiaz.medium.com"
+            "site_url": "https://leonardodiaz.medium.com",
+            "slug": "development"
         }
     ]
 }

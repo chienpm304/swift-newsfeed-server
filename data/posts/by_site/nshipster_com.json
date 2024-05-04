@@ -6,70 +6,80 @@
             "title": "As We May Code",
             "link": "https://nshipster.com/as-we-may-code/",
             "updated": 1594054800,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/wwdc-2020",
             "title": "WWDC 2020",
             "link": "https://nshipster.com/wwdc-2020/",
             "updated": 1593104400,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/language-server-protocol",
             "title": "Language Server Protocol",
             "link": "https://nshipster.com/language-server-protocol/",
             "updated": 1588784400,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/vscode",
             "title": "Swift Development with Visual Studio Code",
             "link": "https://nshipster.com/vscode/",
             "updated": 1588698000,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/contact-tracing",
             "title": "Contact Tracing",
             "link": "https://nshipster.com/contact-tracing/",
             "updated": 1588093200,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/cross-pollination",
             "title": "Cross-Pollination",
             "link": "https://nshipster.com/cross-pollination/",
             "updated": 1587488400,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/swift-log",
             "title": "Swift Logging",
             "link": "https://nshipster.com/swift-log/",
             "updated": 1585155600,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/xcconfig",
             "title": "Xcode Build Configuration Files",
             "link": "https://nshipster.com/xcconfig/",
             "updated": 1582736400,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/callable",
             "title": "Static and Dynamic Callable Types in Swift",
             "link": "https://nshipster.com/callable/",
             "updated": 1581440400,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         },
         {
             "id": "https://nshipster.com/rawrepresentable",
             "title": "RawRepresentable",
             "link": "https://nshipster.com/rawrepresentable/",
             "updated": 1580230800,
-            "site_url": "https://nshipster.com"
+            "site_url": "https://nshipster.com",
+            "slug": "development"
         }
     ]
 }

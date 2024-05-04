@@ -6,56 +6,64 @@
             "title": "Sequent calculus cheat sheet",
             "link": "https://antitypical.com/posts/2021-08-14-sequent-calculus-cheat-sheet/index.html",
             "updated": 1628956862,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2021-07-28-when-howard-met-curry/index.html",
             "title": "When Howard Met Curry",
             "link": "https://antitypical.com/posts/2021-07-28-when-howard-met-curry/index.html",
             "updated": 1627479109,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2021-07-16-sequent-calculi-and-metacircularity/index.html",
             "title": "Sequent Calculi and Metacircularity",
             "link": "https://antitypical.com/posts/2021-07-16-sequent-calculi-and-metacircularity/index.html",
             "updated": 1626426372,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2021-07-08-environment-passing-style/index.html",
             "title": "Environment-Passing Style",
             "link": "https://antitypical.com/posts/2021-07-08-environment-passing-style/index.html",
             "updated": 1625713734,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2021-06-07-duality/index.html",
             "title": "Duality",
             "link": "https://antitypical.com/posts/2021-06-07-duality/index.html",
             "updated": 1623070142,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/index.html",
             "title": "All you need is \u03bb, part one: booleans",
             "link": "https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/index.html",
             "updated": 1585487846,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2015-07-01-pattern-matching-over-recursive-values-in-swift/index.html",
             "title": "Pattern matching over recursive values in Swift",
             "link": "https://antitypical.com/posts/2015-07-01-pattern-matching-over-recursive-values-in-swift/index.html",
             "updated": 1435692584,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         },
         {
             "id": "https://antitypical.com/posts/2014-04-20-on-the-order-of-neptune/index.html",
             "title": "On the Order of Neptune",
             "link": "https://antitypical.com/posts/2014-04-20-on-the-order-of-neptune/index.html",
             "updated": 1397942400,
-            "site_url": "https://antitypical.com/"
+            "site_url": "https://antitypical.com/",
+            "slug": "development"
         }
     ]
 }

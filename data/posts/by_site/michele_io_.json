@@ -6,140 +6,160 @@
             "title": "Running Linux Tools in Lambda Containers",
             "link": "https://michele.io/linux-commands-in-lambda/",
             "updated": 1622193782,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/lessons-from-managing-pt-2/",
             "title": "Lessons from Managing for the Summer Part 2",
             "link": "https://michele.io/lessons-from-managing-pt-2/",
             "updated": 1608711115,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/lessons-from-managing-pt-1/",
             "title": "Lessons from Managing for the Summer Part 1",
             "link": "https://michele.io/lessons-from-managing-pt-1/",
             "updated": 1596068168,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/nodemon-babel-vscode/",
             "title": "Nodemon + Babel + VSCode",
             "link": "https://michele.io/nodemon-babel-vscode/",
             "updated": 1517026328,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/content-data-hugo/",
             "title": "Mixing content and data in Hugo",
             "link": "https://michele.io/content-data-hugo/",
             "updated": 1510279200,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/marking-micheledoesweb-as-done/",
             "title": "Marking #micheledoesweb as done",
             "link": "https://michele.io/marking-micheledoesweb-as-done/",
             "updated": 1498443968,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/how-i-create-talks/",
             "title": "How I Create Talks",
             "link": "https://michele.io/how-i-create-talks/",
             "updated": 1496283968,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/reviving-micheledoesweb/",
             "title": "Reviving #micheledoesweb",
             "link": "https://michele.io/reviving-micheledoesweb/",
             "updated": 1477155600,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/api-in-hapi/",
             "title": "Building APIs in Hapi and Node.js",
             "link": "https://michele.io/api-in-hapi/",
             "updated": 1463504400,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/building-skeleton-hapi/",
             "title": "Building the Skeleton in Hapi",
             "link": "https://michele.io/building-skeleton-hapi/",
             "updated": 1462813200,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/building-the-skeleton/",
             "title": "Building the Skeleton in Padrino",
             "link": "https://michele.io/building-the-skeleton/",
             "updated": 1462122000,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/languages-frameworks-tools/",
             "title": "Languages, frameworks, and tools, oh my!",
             "link": "https://michele.io/languages-frameworks-tools/",
             "updated": 1461603600,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/micheledoesweb/",
             "title": "#micheledoesweb",
             "link": "https://michele.io/micheledoesweb/",
             "updated": 1460566800,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/the-project-file-part-2/",
             "title": "The Project File Part 2: Schemes and Targets",
             "link": "https://michele.io/the-project-file-part-2/",
             "updated": 1446397200,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/test-logs-in-xcode/",
             "title": "Test Logs in Xcode",
             "link": "https://michele.io/test-logs-in-xcode/",
             "updated": 1434474000,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/the-project-file-part-1/",
             "title": "The Project File Part 1: Composition",
             "link": "https://michele.io/the-project-file-part-1/",
             "updated": 1417453200,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/your-early-stage-startup/",
             "title": "Why your early-stage startup doesn't need a lead engineer",
             "link": "https://michele.io/your-early-stage-startup/",
             "updated": 1386867600,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/my-chaimehack-expereince/",
             "title": "My #CHIMEHACK Experience",
             "link": "https://michele.io/my-chaimehack-expereince/",
             "updated": 1386608400,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/cocoapods-under-the-hood/",
             "title": "CocoaPods Under the Hood @ objc.io",
             "link": "https://michele.io/cocoapods-under-the-hood/",
             "updated": 1384102800,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         },
         {
             "id": "https://michele.io/automated-testing/",
             "title": "Automated Testing with GHUnit and KIF",
             "link": "https://michele.io/automated-testing/",
             "updated": 1363626000,
-            "site_url": "https://michele.io/"
+            "site_url": "https://michele.io/",
+            "slug": "development"
         }
     ]
 }

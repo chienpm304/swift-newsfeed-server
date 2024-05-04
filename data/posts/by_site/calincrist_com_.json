@@ -6,49 +6,56 @@
             "title": "How to Use Analytics in Your React Native App With\u00a0Firebase",
             "link": "https://calincrist.com/how-to-use-analytics-in-your-react-native-app-with-firebase",
             "updated": 1712284760,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
             "title": "3 Ways to React to @State Changes in\u00a0SwiftUI",
             "link": "https://calincrist.com/3-ways-to-react-to-state-changes-in-swiftui",
             "updated": 1712284751,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/a-step-by-step-guide-to-syncing-a-private-repository-to-a-public-one-with-fastlane",
             "title": "A Step-by-Step Guide to Syncing a Private Repository to a Public one with Fastlane",
             "link": "https://calincrist.com/a-step-by-step-guide-to-syncing-a-private-repository-to-a-public-one-with-fastlane",
             "updated": 1712284729,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
             "title": "How to Reset the Git History: Back to \"Initial commit\"",
             "link": "https://calincrist.com/how-to-reset-the-git-history-back-to-initial-commit",
             "updated": 1712284720,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/a-cicd-story-linking-private-workflows-to-public-swift-packages",
             "title": "A Mobile DevOps Story: Linking Private Pipelines to Public Swift Packages with Fastlane and SonarQube",
             "link": "https://calincrist.com/a-cicd-story-linking-private-workflows-to-public-swift-packages",
             "updated": 1711678492,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/online-or-offline-first-understanding-cap-theorem-for-optimal-mobile-app-performance",
             "title": "Online or Offline First: Understanding CAP Theorem for Optimal Mobile App Performance",
             "link": "https://calincrist.com/online-or-offline-first-understanding-cap-theorem-for-optimal-mobile-app-performance",
             "updated": 1711511921,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         },
         {
             "id": "https://calincrist.com/mastering-dependency-injection-in-react-native-using-context-api",
             "title": "Mastering Dependency Injection in React Native using Context API",
             "link": "https://calincrist.com/mastering-dependency-injection-in-react-native-using-context-api",
             "updated": 1711511335,
-            "site_url": "https://calincrist.com/"
+            "site_url": "https://calincrist.com/",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "A Github Actions Workflow to Generate & Publish your Hugo Website",
             "link": "https://zendesk.engineering/a-github-actions-workflow-to-generate-publish-your-hugo-website-f36375e56cf7?source=rss-d0ff76ca6320------2",
             "updated": 1638506768,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b794bd8c5678",
             "title": "SwiftUI & UIView\u200a\u2014\u200aA Simple Mistake",
             "link": "https://zendesk.engineering/swiftui-uiview-a-simple-mistake-b794bd8c5678?source=rss-d0ff76ca6320------2",
             "updated": 1638506727,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/23d970ab24d4",
             "title": "App Onboarding with SwiftUI",
             "link": "https://zendesk.engineering/app-onboarding-with-swiftui-23d970ab24d4?source=rss-d0ff76ca6320------2",
             "updated": 1638506711,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/dd839b59fed1",
             "title": "UI Testing iOS Apps with the Robot Pattern",
             "link": "https://zendesk.engineering/ui-testing-ios-apps-with-the-robot-pattern-dd839b59fed1?source=rss-d0ff76ca6320------2",
             "updated": 1638506673,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/47e3bbe5ec66",
             "title": "Swift Concurrency: An Introduction",
             "link": "https://zendesk.engineering/swift-concurrency-an-introduction-47e3bbe5ec66?source=rss-d0ff76ca6320------2",
             "updated": 1638506655,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bc7461970788",
             "title": "iOS How-to\u200a\u2014\u200aCapture Touch Events Outside UIView Bounds",
             "link": "https://zendesk.engineering/ios-how-to-capture-touch-events-outside-uiview-bounds-bc7461970788?source=rss-d0ff76ca6320------2",
             "updated": 1638506431,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/273663475b12",
             "title": "iOS How-to \u2014 Add Adaptive constraints to support a Universal App",
             "link": "https://zendesk.engineering/ios-how-to-add-adaptive-constraints-to-support-a-universal-app-273663475b12?source=rss-d0ff76ca6320------2",
             "updated": 1638506306,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/de457ed2afbc",
             "title": "Covid-19: How My Symptoms Progressed",
             "link": "https://superpeteblaze.medium.com/covid-19-how-my-symptoms-progressed-de457ed2afbc?source=rss-d0ff76ca6320------2",
             "updated": 1615951986,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f8d520e28875",
             "title": "Xcode 10\u2019s build system and Code Generation (R.swift)",
             "link": "https://zendesk.engineering/xcode-10s-build-system-and-code-generation-r-swift-f8d520e28875?source=rss-d0ff76ca6320------2",
             "updated": 1536081676,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/152063dfd7ce",
             "title": "Xcode Quick Tip \u2013 Testing your layout for localization",
             "link": "https://zendesk.engineering/xcode-quick-tip-testing-your-layout-for-localization-152063dfd7ce?source=rss-d0ff76ca6320------2",
             "updated": 1523350247,
-            "site_url": "https://superpeteblaze.medium.com"
+            "site_url": "https://superpeteblaze.medium.com",
+            "slug": "development"
         }
     ]
 }

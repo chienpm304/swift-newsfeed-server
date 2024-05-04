@@ -6,462 +6,528 @@
             "title": "Loga-",
             "link": "https://jjrscott.com/loga/",
             "updated": 1693587600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/serialisation-formats",
             "title": "Serialisation formats",
             "link": "https://jjrscott.com/serialisation-formats/",
             "updated": 1675875600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/ship-the-template",
             "title": "Ship the Template",
             "link": "https://jjrscott.com/ship-the-template/",
             "updated": 1674406800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/lzw-without-pre-populated-alphabet",
             "title": "LZW without pre-populated string table / alphabet",
             "link": "https://jjrscott.com/lzw-without-pre-populated-alphabet/",
             "updated": 1662829200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/how-to-get-device-make-and-model-on-ios",
             "title": "How to get device make and model on iOS?",
             "link": "https://jjrscott.com/how-to-get-device-make-and-model-on-ios/",
             "updated": 1661619600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/leaky-wire-formats",
             "title": "Leaky wire formats",
             "link": "https://jjrscott.com/leaky-wire-formats/",
             "updated": 1649350800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/cache-jira-issues-to-sqlite",
             "title": "Cache JIRA issues to SQLite",
             "link": "https://jjrscott.com/cache-jira-issues-to-sqlite/",
             "updated": 1644771600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/how-to-convert-ascii-character-to-cgkeycode",
             "title": "How to convert ASCII character to CGKeyCode?",
             "link": "https://jjrscott.com/how-to-convert-ascii-character-to-cgkeycode/",
             "updated": 1644339600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/word-for-word",
             "title": "Word for Word",
             "link": "https://jjrscott.com/word-for-word/",
             "updated": 1644080400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/incremental-migration-to-structured-concurrency",
             "title": "Incremental migration to Structured Concurrency",
             "link": "https://jjrscott.com/incremental-migration-to-structured-concurrency/",
             "updated": 1643302800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/override-ios-volume-buttons",
             "title": "Override iOS volume buttons",
             "link": "https://jjrscott.com/override-ios-volume-buttons/",
             "updated": 1642784400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/convenience-asynchronous-completion-handlers",
             "title": "Convenience asynchronous completion handlers",
             "link": "https://jjrscott.com/convenience-asynchronous-completion-handlers/",
             "updated": 1633885200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/xctestbackchannel",
             "title": "Bidirectional messaging between your iOS app and UI tests",
             "link": "https://jjrscott.com/xctestbackchannel/",
             "updated": 1630602000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/ios-application-state-diagrams",
             "title": "iOS Application state diagrams",
             "link": "https://jjrscott.com/ios-application-state-diagrams/",
             "updated": 1628355600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/probability-of-death",
             "title": "Probabity of Death",
             "link": "https://jjrscott.com/probability-of-death/",
             "updated": 1590253200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/index-based-binary-search",
             "title": "Index based binary search",
             "link": "https://jjrscott.com/index-based-binary-search/",
             "updated": 1579971600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/filenames-as-metadata",
             "title": "Filenames as metadata",
             "link": "https://jjrscott.com/filenames-as-metadata/",
             "updated": 1549904400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/dependency-injection-with-typealias",
             "title": "Dependency injection",
             "link": "https://jjrscott.com/dependency-injection-with-typealias/",
             "updated": 1542474000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/unidecode",
             "title": "Unidecode",
             "link": "https://jjrscott.com/unidecode/",
             "updated": 1540659600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/migrating-to-swift",
             "title": "Migrating to Swift",
             "link": "https://jjrscott.com/migrating-to-swift/",
             "updated": 1538845200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/future-proofing-library-apis",
             "title": "Future proofing library APIs",
             "link": "https://jjrscott.com/future-proofing-library-apis/",
             "updated": 1538758800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/code-layout-and-display",
             "title": "Code layout and display",
             "link": "https://jjrscott.com/code-layout-and-display/",
             "updated": 1528909200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/importing-commoncrypto-as-a-swift-framework",
             "title": "Importing CommonCrypto as a Swift framework",
             "link": "https://jjrscott.com/importing-commoncrypto-as-a-swift-framework/",
             "updated": 1525798800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/fully-linked",
             "title": "Fully Linked",
             "link": "https://jjrscott.com/fully-linked/",
             "updated": 1523120400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/basic-english",
             "title": "Basic English",
             "link": "https://jjrscott.com/basic-english/",
             "updated": 1505062800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/last-resort-font-1",
             "title": "Last Resort Font 1",
             "link": "https://jjrscott.com/last-resort-font-1/",
             "updated": 1482944400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/stictly-scores",
             "title": "Strictly Scores",
             "link": "https://jjrscott.com/stictly-scores/",
             "updated": 1480093200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/unicode-browser",
             "title": "Unicode browser",
             "link": "https://jjrscott.com/unicode-browser/",
             "updated": 1461430800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/ios-devices",
             "title": "iOS devices",
             "link": "https://jjrscott.com/ios-devices/",
             "updated": 1442595600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/pinyin-font-1",
             "title": "Pinyin Font 1",
             "link": "https://jjrscott.com/pinyin-font-1/",
             "updated": 1425488400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/world-time",
             "title": "World time",
             "link": "https://jjrscott.com/world-time/",
             "updated": 1425056400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/desktop-ios",
             "title": "Desktop iOS",
             "link": "https://jjrscott.com/desktop-ios/",
             "updated": 1391446800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/problems-with-languages",
             "title": "Problems with languages",
             "link": "https://jjrscott.com/problems-with-languages/",
             "updated": 1303405200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/on-the-ui-of-links",
             "title": "On the UI of links",
             "link": "https://jjrscott.com/on-the-ui-of-links/",
             "updated": 1298048400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/2010-calendar",
             "title": "2010 Calendar",
             "link": "https://jjrscott.com/2010-calendar/",
             "updated": 1260810000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/2009-calendar",
             "title": "2009 Calendar",
             "link": "https://jjrscott.com/2009-calendar/",
             "updated": 1231952400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/oatmeal-and-raisin-cookies",
             "title": "Oatmeal and Raisin Cookies",
             "link": "https://jjrscott.com/oatmeal-and-raisin-cookies/",
             "updated": 1228582800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/kardashev-scale",
             "title": "Kardashev scale",
             "link": "https://jjrscott.com/kardashev-scale/",
             "updated": 1226768400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/exchange-rates",
             "title": "Exchange rates",
             "link": "https://jjrscott.com/exchange-rates/",
             "updated": 1226163600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/curtains",
             "title": "Curtains",
             "link": "https://jjrscott.com/curtains/",
             "updated": 1225299600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/designing-a-better-calendar",
             "title": "Designing a better calendar",
             "link": "https://jjrscott.com/designing-a-better-calendar/",
             "updated": 1219251600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/georgia",
             "title": "Georgia",
             "link": "https://jjrscott.com/georgia/",
             "updated": 1217005200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/marriage",
             "title": "Marriage",
             "link": "https://jjrscott.com/marriage/",
             "updated": 1211562000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/dear-scotland",
             "title": "Dear Scotland",
             "link": "https://jjrscott.com/dear-scotland/",
             "updated": 1211302800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/in-search-of-a-crime",
             "title": "In search of a crime",
             "link": "https://jjrscott.com/in-search-of-a-crime/",
             "updated": 1200762000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/the-game-is-on",
             "title": "The game is on",
             "link": "https://jjrscott.com/the-game-is-on/",
             "updated": 1182963600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/flores",
             "title": "Flores",
             "link": "https://jjrscott.com/flores/",
             "updated": 1176310800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/tax-loopholes",
             "title": "Tax Loopholes",
             "link": "https://jjrscott.com/tax-loopholes/",
             "updated": 1172941200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/choices",
             "title": "Choices",
             "link": "https://jjrscott.com/choices/",
             "updated": 1172941200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/in-search-of-no-crime",
             "title": "In search of no crime",
             "link": "https://jjrscott.com/in-search-of-no-crime/",
             "updated": 1167757200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/pilgrims-rest",
             "title": "Pilgrim's rest",
             "link": "https://jjrscott.com/pilgrims-rest/",
             "updated": 1161968400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/russian-roulette-at-30-miles-per-hour",
             "title": "Russian roulette at 30 miles per hour",
             "link": "https://jjrscott.com/russian-roulette-at-30-miles-per-hour/",
             "updated": 1158080400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/the-physical-network-stack",
             "title": "The physical network stack",
             "link": "https://jjrscott.com/the-physical-network-stack/",
             "updated": 1157389200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/marking-multiple-arbitrary-points-on-google-maps",
             "title": "Marking multiple arbitrary points on Google Maps",
             "link": "https://jjrscott.com/marking-multiple-arbitrary-points-on-google-maps/",
             "updated": 1156611600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/rape-on-trial",
             "title": "Rape on trial",
             "link": "https://jjrscott.com/rape-on-trial/",
             "updated": 1153674000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/my-strengths",
             "title": "My Strengths",
             "link": "https://jjrscott.com/my-strengths/",
             "updated": 1143133200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/imagine",
             "title": "Imagine",
             "link": "https://jjrscott.com/imagine/",
             "updated": 1141059600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/yet-another-programming-language",
             "title": "Yet Another Programming Language",
             "link": "https://jjrscott.com/yet-another-programming-language/",
             "updated": 1139245200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/becoming-an-early-riser-the-aftermath",
             "title": "Becoming An Early Riser: The Aftermath",
             "link": "https://jjrscott.com/becoming-an-early-riser-the-aftermath/",
             "updated": 1132074000,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/rules-of-the-road",
             "title": "Rules of the road",
             "link": "https://jjrscott.com/rules-of-the-road/",
             "updated": 1130432400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/death-is-nothing-at-all",
             "title": "Death is Nothing at all",
             "link": "https://jjrscott.com/death-is-nothing-at-all/",
             "updated": 1129654800,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/a-javascript-calendar",
             "title": "A JavaScript Calendar",
             "link": "https://jjrscott.com/a-javascript-calendar/",
             "updated": 1129395600,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/markers-at-arbitrary-points-on-google-maps",
             "title": "Markers at arbitrary points on Google Maps",
             "link": "https://jjrscott.com/markers-at-arbitrary-points-on-google-maps/",
             "updated": 1128704400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/rich-dad-poor-dad",
             "title": "Rich Dad, Poor Dad",
             "link": "https://jjrscott.com/rich-dad-poor-dad/",
             "updated": 1127581200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/becoming-an-early-riser",
             "title": "Becoming An Early Riser",
             "link": "https://jjrscott.com/becoming-an-early-riser/",
             "updated": 1127149200,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         },
         {
             "id": "https://jjrscott.com/the-lot-of-women-and-men",
             "title": "The lot of women and men",
             "link": "https://jjrscott.com/the-lot-of-women-and-men/",
             "updated": 1124816400,
-            "site_url": "https://jjrscott.com/"
+            "site_url": "https://jjrscott.com/",
+            "slug": "development"
         }
     ]
 }

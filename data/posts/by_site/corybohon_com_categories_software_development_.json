@@ -6,28 +6,32 @@
             "title": "Shortcut for creating meeting notes in Apple Notes",
             "link": "https://corybohon.com/2022/02/02/shortcut-for-creating.html",
             "updated": 1643778000,
-            "site_url": "https://corybohon.com/categories/software-development/"
+            "site_url": "https://corybohon.com/categories/software-development/",
+            "slug": "development"
         },
         {
             "id": "http://cory.micro.blog/2020/10/14/a-few-years.html",
             "title": "BluSaver \u2014\u00a0A macOS screensaver featuring Blu",
             "link": "https://corybohon.com/2020/10/14/a-few-years.html",
             "updated": 1602663900,
-            "site_url": "https://corybohon.com/categories/software-development/"
+            "site_url": "https://corybohon.com/categories/software-development/",
+            "slug": "development"
         },
         {
             "id": "http://cory.micro.blog/2020/08/29/conferences-in.html",
             "title": "Conferences in 2020",
             "link": "https://corybohon.com/2020/08/29/conferences-in.html",
             "updated": 1598681340,
-            "site_url": "https://corybohon.com/categories/software-development/"
+            "site_url": "https://corybohon.com/categories/software-development/",
+            "slug": "development"
         },
         {
             "id": "http://cory.micro.blog/2020/07/27/hello-world-again.html",
             "title": "Hello, World (again)...",
             "link": "https://corybohon.com/2020/07/27/hello-world-again.html",
             "updated": 1595863680,
-            "site_url": "https://corybohon.com/categories/software-development/"
+            "site_url": "https://corybohon.com/categories/software-development/",
+            "slug": "development"
         }
     ]
 }

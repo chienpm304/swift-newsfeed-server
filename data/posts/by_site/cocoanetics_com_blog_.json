@@ -6,140 +6,160 @@
             "title": "My AI Company Vision",
             "link": "https://www.cocoanetics.com/2024/04/my-ai-company-vision/",
             "updated": 1711971103,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10767",
             "title": "BarCodeKit 1.4.0",
             "link": "https://www.cocoanetics.com/2023/07/barcodekit-1-4-0/",
             "updated": 1689322847,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10761",
             "title": "WWDC 2023: A Reflection on Apple\u2019s \u201cSpatial Computing\u201d Journey",
             "link": "https://www.cocoanetics.com/2023/06/wwdc-2023-a-reflection-on-apples-spatial-computing-journey/",
             "updated": 1685971337,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10749",
             "title": "AI, find me some work\u2026",
             "link": "https://www.cocoanetics.com/2023/05/ai-find-me-some-work/",
             "updated": 1684227344,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10742",
             "title": "Meet my new Junior Developer: ChatGPT",
             "link": "https://www.cocoanetics.com/2023/02/meet-my-new-junior-developer-chatgpt/",
             "updated": 1675405930,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10738",
             "title": "DTCoreText 1.6.27",
             "link": "https://www.cocoanetics.com/2022/09/dtcoretext-1-6-27/",
             "updated": 1664543087,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10732",
             "title": "Bug: Progress with Child",
             "link": "https://www.cocoanetics.com/2021/12/bug-progress-with-child/",
             "updated": 1639109646,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10729",
             "title": "Bug: \u201cTestfield in Row of List with Movable Items\u201d",
             "link": "https://www.cocoanetics.com/2021/10/bug-testfield-in-row-of-list-with-movable-items/",
             "updated": 1634717495,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10725",
             "title": "Accessibility in SpeakerClock 1.3.1",
             "link": "https://www.cocoanetics.com/2021/07/accessibility-in-speakerclock-1-3-1/",
             "updated": 1626785810,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10714",
             "title": "SpeakerClock 1.3.0",
             "link": "https://www.cocoanetics.com/2021/07/speakerclock-1-3-0/",
             "updated": 1626607532,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10704",
             "title": "Rewriting SpeakerClock  in SwiftUI",
             "link": "https://www.cocoanetics.com/2021/07/rewriting-speakerclock-in-swiftui/",
             "updated": 1625981849,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10702",
             "title": "DTCoreText 1.6.26",
             "link": "https://www.cocoanetics.com/2021/06/dtcoretext-1-6-26/",
             "updated": 1625016544,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10699",
             "title": "DTFoundation 1.7.18",
             "link": "https://www.cocoanetics.com/2021/06/dtfoundation-1-7-18/",
             "updated": 1625016041,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10697",
             "title": "BarCodeKit 1.3.3",
             "link": "https://www.cocoanetics.com/2021/05/barcodekit-1-3-3/",
             "updated": 1620173892,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10685",
             "title": "Some Statistics for Starters",
             "link": "https://www.cocoanetics.com/2020/10/some-statistics-for-starters/",
             "updated": 1603785089,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10682",
             "title": "Kvitto 1.0.5",
             "link": "https://www.cocoanetics.com/2020/10/kvitto-1-0-5/",
             "updated": 1603072596,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10657",
             "title": "Adding Swift Package Manager Support \u2013 Part 2",
             "link": "https://www.cocoanetics.com/2020/10/adding-swift-package-manager-support-part-2/",
             "updated": 1602306727,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10647",
             "title": "Adding Swift Package Manager Support \u2013 Part 1",
             "link": "https://www.cocoanetics.com/2020/10/adding-swift-package-manager-support/",
             "updated": 1602148316,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10637",
             "title": "Kvitto 1.0.4",
             "link": "https://www.cocoanetics.com/2020/09/kvitto-1-0-4/",
             "updated": 1601255105,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.cocoanetics.com/?p=10635",
             "title": "DTCoreText 1.6.25",
             "link": "https://www.cocoanetics.com/2020/08/dtcoretext-1-6-25/",
             "updated": 1598261434,
-            "site_url": "https://www.cocoanetics.com/blog/"
+            "site_url": "https://www.cocoanetics.com/blog/",
+            "slug": "development"
         }
     ]
 }

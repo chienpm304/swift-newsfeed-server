@@ -6,21 +6,24 @@
             "title": "String Interpolation",
             "link": "http://www.russbishop.net/string-interpolation",
             "updated": 1665030728,
-            "site_url": "http://www.russbishop.net"
+            "site_url": "http://www.russbishop.net",
+            "slug": "development"
         },
         {
             "id": "http://www.russbishop.net/cross-process-rendering#48303",
             "title": "Cross-process Rendering",
             "link": "http://www.russbishop.net/cross-process-rendering",
             "updated": 1572964014,
-            "site_url": "http://www.russbishop.net"
+            "site_url": "http://www.russbishop.net",
+            "slug": "development"
         },
         {
             "id": "http://www.russbishop.net/the-law#46607",
             "title": "The Law",
             "link": "http://www.russbishop.net/the-law",
             "updated": 1551068826,
-            "site_url": "http://www.russbishop.net"
+            "site_url": "http://www.russbishop.net",
+            "slug": "development"
         }
     ]
 }

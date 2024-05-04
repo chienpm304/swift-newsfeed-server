@@ -6,70 +6,80 @@
             "title": "Making a billion dollar app in SwiftUI (tutorial) | Restaurant App Tutorial",
             "link": "https://www.youtube.com/watch?v=-DSdeMlxlis",
             "updated": 1714177891,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:CS1myTKJBR4",
             "title": "How I built the #10 product in 30 days",
             "link": "https://www.youtube.com/watch?v=CS1myTKJBR4",
             "updated": 1714140069,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:49MI3w-wKZA",
             "title": "Developer Tools to Increase Your Productivity",
             "link": "https://www.youtube.com/watch?v=49MI3w-wKZA",
             "updated": 1714064813,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:_d2kXYjEwXQ",
             "title": "Coding Tik Tok in 24 hours",
             "link": "https://www.youtube.com/watch?v=_d2kXYjEwXQ",
             "updated": 1714016893,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:fUF9jcxEfz8",
             "title": "Gary Tokman Live Stream",
             "link": "https://www.youtube.com/watch?v=fUF9jcxEfz8",
             "updated": 1713907902,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:zbS_raINcs4",
             "title": "Coding Clubhouse in 24 hours",
             "link": "https://www.youtube.com/watch?v=zbS_raINcs4",
             "updated": 1712180972,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:c0ru4SYn8ZI",
             "title": "Coding Snapchat in 24 hours",
             "link": "https://www.youtube.com/watch?v=c0ru4SYn8ZI",
             "updated": 1711016112,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:hrvX58CdxVY",
             "title": "HTML Tutorial: How to Make a Simple Website in 5 minutes",
             "link": "https://www.youtube.com/watch?v=hrvX58CdxVY",
             "updated": 1710432072,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:THBWasLeHBQ",
             "title": "day in the life of startup cofounders",
             "link": "https://www.youtube.com/watch?v=THBWasLeHBQ",
             "updated": 1710350721,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:U8rnl-NSWTQ",
             "title": "a day in the life of a startup software engineer",
             "link": "https://www.youtube.com/watch?v=U8rnl-NSWTQ",
             "updated": 1710337885,
-            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ"
+            "site_url": "https://www.youtube.com/channel/UCQWmp143iznhc_lZoM0rbXQ",
+            "slug": "youtube"
         }
     ]
 }

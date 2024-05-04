@@ -6,511 +6,584 @@
             "title": "The Reasoning Computer",
             "link": "https://fabisevi.ch/2023/11/10/the-reasoning-computer/",
             "updated": 1699549200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2023/08/09/the-present-should-be-signed/",
             "title": "The Present Should Be Signed",
             "link": "https://fabisevi.ch/2023/08/09/the-present-should-be-signed/",
             "updated": 1691514000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2023/07/17/displaced-and-disillusioned-on-the-internet/",
             "title": "Displaced And Disillusioned On The Internet",
             "link": "https://fabisevi.ch/2023/07/17/displaced-and-disillusioned-on-the-internet/",
             "updated": 1689526800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2023/01/01/year-of-focus/",
             "title": "Year Of Focus",
             "link": "https://fabisevi.ch/2023/01/01/year-of-focus/",
             "updated": 1672506000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2022/05/21/coding-as-creative-expression/",
             "title": "Coding As Creative Expression",
             "link": "https://fabisevi.ch/2022/05/21/coding-as-creative-expression/",
             "updated": 1653066000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2022/04/01/goodbye-fellow-tweeps/",
             "title": "One Last Visible Change, Goodbye Fellow Tweeps",
             "link": "https://fabisevi.ch/2022/04/01/goodbye-fellow-tweeps/",
             "updated": 1648746000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2022/03/07/designing-a-high-signal-interview-process/",
             "title": "Designing A High Signal Interview Process",
             "link": "https://fabisevi.ch/2022/03/07/designing-a-high-signal-interview-process/",
             "updated": 1646586000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2022/02/20/the-best-twitter-bio-the-humble-tweet/",
             "title": "The Best Twitter Bio? The Humble Tweet",
             "link": "https://fabisevi.ch/2022/02/20/the-best-twitter-bio-the-humble-tweet/",
             "updated": 1645290000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/",
             "title": "Creating Slick Color Palette APIs",
             "link": "https://fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/",
             "updated": 1629738000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2021/04/08/its-not-better-if-its-also-worse/",
             "title": "It's Not Better If It's Also Worse",
             "link": "https://fabisevi.ch/2021/04/08/its-not-better-if-its-also-worse/",
             "updated": 1617814800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2021/03/12/putting-the-u-in-graphql/",
             "title": "Putting the U in GraphQL",
             "link": "https://fabisevi.ch/2021/03/12/putting-the-u-in-graphql/",
             "updated": 1615482000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2021/02/15/app-store-preview/",
             "title": "App Store [P]review",
             "link": "https://fabisevi.ch/2021/02/15/app-store-preview/",
             "updated": 1613322000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2021/02/12/empower-apps-large-scale-teams/",
             "title": "Empower Apps Podcast - Large Scale Teams",
             "link": "https://fabisevi.ch/2021/02/12/empower-apps-large-scale-teams/",
             "updated": 1613062800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2020/09/21/Context-Bound-Types/",
             "title": "Context-Bound Types",
             "link": "https://fabisevi.ch/2020/09/21/Context-Bound-Types/",
             "updated": 1600621200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2019/12/26/building-better-views-part-ii/",
             "title": "Building Better Views (Part II), Next Steps",
             "link": "https://fabisevi.ch/2019/12/26/building-better-views-part-ii/",
             "updated": 1577293200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2019/12/26/building-better-views-part-i/",
             "title": "Building Better Views (Part I)",
             "link": "https://fabisevi.ch/2019/12/26/building-better-views-part-i/",
             "updated": 1577293200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2019/09/15/how-to-keep-friends-and-influence-people-or-something/",
             "title": "How To Keep Friends And Influence People Or Something",
             "link": "https://fabisevi.ch/2019/09/15/how-to-keep-friends-and-influence-people-or-something/",
             "updated": 1568480400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2019/01/01/pushing-the-boundaries-of-technology/",
             "title": "Pushing The Boundaries of Technology",
             "link": "https://fabisevi.ch/2019/01/01/pushing-the-boundaries-of-technology/",
             "updated": 1546275600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/12/31/what-i-read-in-2018/",
             "title": "What I Read in 2018",
             "link": "https://fabisevi.ch/2018/12/31/what-i-read-in-2018/",
             "updated": 1546189200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/12/27/questioning-vulnerability/",
             "title": "Questioning Vulnerability",
             "link": "https://fabisevi.ch/2018/12/27/questioning-vulnerability/",
             "updated": 1545843600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/10/28/reclaiming-my-time/",
             "title": "Reclaiming My Time",
             "link": "https://fabisevi.ch/2018/10/28/reclaiming-my-time/",
             "updated": 1540659600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/06/24/learn-swift-podcast/",
             "title": "The Learn Swift Podcast - Episode 28",
             "link": "https://fabisevi.ch/2018/06/24/learn-swift-podcast/",
             "updated": 1529773200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/05/15/fifteen-minute-meetings/",
             "title": "15 Minute Meetings",
             "link": "https://fabisevi.ch/2018/05/15/fifteen-minute-meetings/",
             "updated": 1526317200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/05/07/startup-code-quality/",
             "title": "Startup Code Quality",
             "link": "https://fabisevi.ch/2018/05/07/startup-code-quality/",
             "updated": 1525626000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/04/14/the-dog-ate-my-take-home-assignment/",
             "title": "The Dog Ate My Take Home Assignment",
             "link": "https://fabisevi.ch/2018/04/14/the-dog-ate-my-take-home-assignment/",
             "updated": 1523638800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/01/16/the-future-will-be-signed/",
             "title": "The Future Will Be Signed",
             "link": "https://fabisevi.ch/2018/01/16/the-future-will-be-signed/",
             "updated": 1516035600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2018/01/06/learning-about-cryptocurrency/",
             "title": "Learning About Cryptocurrency",
             "link": "https://fabisevi.ch/2018/01/06/learning-about-cryptocurrency/",
             "updated": 1515171600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/12/26/everyone-should-use-generics-except-you/",
             "title": "Everyone Should Use Generics Except You",
             "link": "https://fabisevi.ch/2017/12/26/everyone-should-use-generics-except-you/",
             "updated": 1514221200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/12/18/thinking-about-thinking/",
             "title": "Thinking About Thinking",
             "link": "https://fabisevi.ch/2017/12/18/thinking-about-thinking/",
             "updated": 1513530000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/12/06/handing-off-public-extension/",
             "title": "Handing Off Public Extension",
             "link": "https://fabisevi.ch/2017/12/06/handing-off-public-extension/",
             "updated": 1512493200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/11/07/foundations/",
             "title": "Foundations",
             "link": "https://fabisevi.ch/2017/11/07/foundations/",
             "updated": 1509987600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/10/24/dev-chats-joe-fabisevich-sam-jarman/",
             "title": "Dev Chats - Joe Fabisevich",
             "link": "https://fabisevi.ch/2017/10/24/dev-chats-joe-fabisevich-sam-jarman/",
             "updated": 1508778000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2017/04/02/debugging-shortcuts-for-uikeycommand/",
             "title": "Debugging shortcuts for UIKeyCommand",
             "link": "https://fabisevi.ch/2017/04/02/debugging-shortcuts-for-uikeycommand/",
             "updated": 1491066000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2016/06/10/wwdc-2016-my-fantasy-edition/",
             "title": "WWDC 2016 \u2014 My Fantasy Edition",
             "link": "https://fabisevi.ch/2016/06/10/wwdc-2016-my-fantasy-edition/",
             "updated": 1465491600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2016/05/25/the-expressive-nature-of-swift/",
             "title": "The Expressive Nature of Swift",
             "link": "https://fabisevi.ch/2016/05/25/the-expressive-nature-of-swift/",
             "updated": 1464109200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2016/05/24/you-cant-do-it-all/",
             "title": "You Can\u2019t Do It All",
             "link": "https://fabisevi.ch/2016/05/24/you-cant-do-it-all/",
             "updated": 1464022800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2015/04/06/comparing-shyp-to-time-warner/",
             "title": "Comparing Shyp to Time Warner",
             "link": "https://fabisevi.ch/2015/04/06/comparing-shyp-to-time-warner/",
             "updated": 1428253200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2015/03/16/the-apple-watch-and-luxury/",
             "title": "The Apple Watch and Luxury",
             "link": "https://fabisevi.ch/2015/03/16/the-apple-watch-and-luxury/",
             "updated": 1426438800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/12/02/slow-programming/",
             "title": "On Slow Programming",
             "link": "https://fabisevi.ch/2014/12/02/slow-programming/",
             "updated": 1417453200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/10/30/unbundling-duck-duck-go-and-native-advertising/",
             "title": "Unbundling, DuckDuckGo, and Native Advertising",
             "link": "https://fabisevi.ch/2014/10/30/unbundling-duck-duck-go-and-native-advertising/",
             "updated": 1414602000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/09/05/sapphire/",
             "title": "Sapphire",
             "link": "https://fabisevi.ch/2014/09/05/sapphire/",
             "updated": 1409850000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/05/04/the-ipad-probably-isnt-dying-any-time-soon-probably/",
             "title": "The iPad probably isn\u2019t dying any time soon, probably",
             "link": "https://fabisevi.ch/2014/05/04/the-ipad-probably-isnt-dying-any-time-soon-probably/",
             "updated": 1399136400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/02/14/a-bigger-iphone/",
             "title": "A bigger iPhone",
             "link": "https://fabisevi.ch/2014/02/14/a-bigger-iphone/",
             "updated": 1392310800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/02/12/go-for-objective-c-developers/",
             "title": "Go for Objective-C developers",
             "link": "https://fabisevi.ch/2014/02/12/go-for-objective-c-developers/",
             "updated": 1392138000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/02/06/come-see-me/",
             "title": "Come See Me",
             "link": "https://fabisevi.ch/2014/02/06/come-see-me/",
             "updated": 1391619600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/01/29/writing-go-code/",
             "title": "Writing Go Code",
             "link": "https://fabisevi.ch/2014/01/29/writing-go-code/",
             "updated": 1390928400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/01/07/the-company-im-watching-in-2014/",
             "title": "The Company I\u2019m Watching in 2014",
             "link": "https://fabisevi.ch/2014/01/07/the-company-im-watching-in-2014/",
             "updated": 1389027600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/01/02/top-5-reasons-to-be-and-not-be-a-developer-in-new-york-in-2014/",
             "title": "Five Reasons to be and not be a developer in New York in 2014",
             "link": "https://fabisevi.ch/2014/01/02/top-5-reasons-to-be-and-not-be-a-developer-in-new-york-in-2014/",
             "updated": 1388595600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2014/01/01/new-years-resolution-2014-edition/",
             "title": "New Years Resolution - 2014 Edition",
             "link": "https://fabisevi.ch/2014/01/01/new-years-resolution-2014-edition/",
             "updated": 1388509200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/12/31/new-years-resolution-advice/",
             "title": "New Years Resolution Advice",
             "link": "https://fabisevi.ch/2013/12/31/new-years-resolution-advice/",
             "updated": 1388422800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/11/09/evomails-privacy-policy/",
             "title": "Evomail\u2019s Privacy Policy",
             "link": "https://fabisevi.ch/2013/11/09/evomails-privacy-policy/",
             "updated": 1383930000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/08/30/the-fast-food-strike/",
             "title": "The Fast Food Strike",
             "link": "https://fabisevi.ch/2013/08/30/the-fast-food-strike/",
             "updated": 1377795600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/08/18/end-of-a-chair-a/",
             "title": "End of a Chair-a",
             "link": "https://fabisevi.ch/2013/08/18/end-of-a-chair-a/",
             "updated": 1376758800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/08/06/not-done/",
             "title": "Not Done",
             "link": "https://fabisevi.ch/2013/08/06/not-done/",
             "updated": 1375722000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/06/30/friends/",
             "title": "\u201cFriends\u201d",
             "link": "https://fabisevi.ch/2013/06/30/friends/",
             "updated": 1372525200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/06/14/a-long-overdue-postmortem/",
             "title": "A Long Overdue Postmortem",
             "link": "https://fabisevi.ch/2013/06/14/a-long-overdue-postmortem/",
             "updated": 1371142800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/06/11/jarring/",
             "title": "Jarring",
             "link": "https://fabisevi.ch/2013/06/11/jarring/",
             "updated": 1370883600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/06/09/wwdc-2013-prediction/",
             "title": "WWDC 2013 Prediction",
             "link": "https://fabisevi.ch/2013/06/09/wwdc-2013-prediction/",
             "updated": 1370710800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/04/29/4-years-ago/",
             "title": "4 Years Ago",
             "link": "https://fabisevi.ch/2013/04/29/4-years-ago/",
             "updated": 1367168400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2013/01/16/aaron-swartzs-raw/",
             "title": "Aaron Swartz\u2019s Raw Thoughts",
             "link": "https://fabisevi.ch/2013/01/16/aaron-swartzs-raw/",
             "updated": 1358269200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/12/20/wunderlist-is-wunderful/",
             "title": "Wunderlist is wunderful. Could be wunderfuler.",
             "link": "https://fabisevi.ch/2012/12/20/wunderlist-is-wunderful/",
             "updated": 1355936400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/10/25/is-a-329-ipad-mini-good-business/",
             "title": "Is a $329 iPad mini Good Business?",
             "link": "https://fabisevi.ch/2012/10/25/is-a-329-ipad-mini-good-business/",
             "updated": 1351098000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/07/10/an-app-store-retrospective/",
             "title": "An App Store Retrospective",
             "link": "https://fabisevi.ch/2012/07/10/an-app-store-retrospective/",
             "updated": 1341853200,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/06/14/back-from-the-mac/",
             "title": "Back from the Mac",
             "link": "https://fabisevi.ch/2012/06/14/back-from-the-mac/",
             "updated": 1339606800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/06/13/create-a-catchy-phone-number-for-3-dollars-with-google-voice/",
             "title": "Create a Catchy Phone Number for $3 With Google Voice",
             "link": "https://fabisevi.ch/2012/06/13/create-a-catchy-phone-number-for-3-dollars-with-google-voice/",
             "updated": 1339520400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/06/12/wwdc-2012-predictions/",
             "title": "WWDC 2012 Predictions",
             "link": "https://fabisevi.ch/2012/06/12/wwdc-2012-predictions/",
             "updated": 1339434000,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/05/20/a-letter/",
             "title": "A Letter",
             "link": "https://fabisevi.ch/2012/05/20/a-letter/",
             "updated": 1337446800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/02/27/thoughts-on-apples-messages/",
             "title": "Thoughts on Apple\u2019s Messages",
             "link": "https://fabisevi.ch/2012/02/27/thoughts-on-apples-messages/",
             "updated": 1330275600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2012/02/19/security-chase/",
             "title": "Security Chase",
             "link": "https://fabisevi.ch/2012/02/19/security-chase/",
             "updated": 1329584400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2011/12/01/teachers-need-to-teach/",
             "title": "Teachers Need To Teach",
             "link": "https://fabisevi.ch/2011/12/01/teachers-need-to-teach/",
             "updated": 1322672400,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/",
             "title": "Why My App Sucked And Why I Won\u2019t Make The Same Mistakes Again",
             "link": "https://fabisevi.ch/2011/11/27/why-my-app-sucked-and-why-I-wont-wake-the-same-mistakes-again/",
             "updated": 1322326800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2011/10/18/prioritize-priorities/",
             "title": "Prioritize Priorities",
             "link": "https://fabisevi.ch/2011/10/18/prioritize-priorities/",
             "updated": 1318870800,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         },
         {
             "id": "https://fabisevi.ch/2011/10/05/its-about-the-ai-say-i/",
             "title": "It\u2019s about the AI Say I",
             "link": "https://fabisevi.ch/2011/10/05/its-about-the-ai-say-i/",
             "updated": 1317747600,
-            "site_url": "https://fabisevi.ch"
+            "site_url": "https://fabisevi.ch",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "Top-Level Menu Visibility in SwiftUI for macOS",
             "link": "https://steipete.com/posts/top-level-menu-visibility-in-swiftui/",
             "updated": 1617966000,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/fixing-keyboardshortcut-in-swiftui",
             "title": "Fixing keyboardShortcut in SwiftUI",
             "link": "https://steipete.com/posts/fixing-keyboardshortcut-in-swiftui/",
             "updated": 1612071000,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/supporting-both-tap-and-longpress-on-button-in-swiftui",
             "title": "Supporting Both Tap and Long Press on a Button in SwiftUI",
             "link": "https://steipete.com/posts/supporting-both-tap-and-longpress-on-button-in-swiftui/",
             "updated": 1611743400,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/apple-silicon-mac-mini-for-ci",
             "title": "On Using Apple Silicon Mac Mini for Continuous Integration",
             "link": "https://steipete.com/posts/apple-silicon-mac-mini-for-ci/",
             "updated": 1607916600,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/apple-silicon-m1-a-developer-perspective",
             "title": "Apple Silicon M1: A Developer\u2019s Perspective",
             "link": "https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/",
             "updated": 1606546800,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/curating-your-twitter-timeline",
             "title": "Gardening Your Twitter: Curating Your Timeline",
             "link": "https://steipete.com/posts/curating-your-twitter-timeline/",
             "updated": 1603270800,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/growing-your-twitter-followers",
             "title": "Gardening Your Twitter: Growing Your Followers",
             "link": "https://steipete.com/posts/growing-your-twitter-followers/",
             "updated": 1603267200,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/forbidden-controls-in-catalyst-mac-idiom",
             "title": "Forbidden Controls in Catalyst: Optimize Interface for Mac",
             "link": "https://steipete.com/posts/forbidden-controls-in-catalyst-mac-idiom/",
             "updated": 1600779600,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller",
             "title": "Disabling Keyboard Avoidance in SwiftUI\u2019s UIHostingController",
             "link": "https://steipete.com/posts/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/",
             "updated": 1600700400,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         },
         {
             "id": "https://steipete.com/posts/state-of-swiftui",
             "title": "The State of SwiftUI",
             "link": "https://steipete.com/posts/state-of-swiftui/",
             "updated": 1599969600,
-            "site_url": "https://steipete.com"
+            "site_url": "https://steipete.com",
+            "slug": "development"
         }
     ]
 }

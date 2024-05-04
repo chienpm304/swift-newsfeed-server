@@ -6,56 +6,64 @@
             "title": "What I Learned Making 5 ARKit Prototypes",
             "link": "https://medium.com/@nathangitter/what-i-learned-making-five-arkit-prototypes-7a30c0cd3956?source=rss-9ae0f3e98b90------2",
             "updated": 1536595986,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/9732bb934bf5",
             "title": "Building Fluid Interfaces",
             "link": "https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5?source=rss-9ae0f3e98b90------2",
             "updated": 1533468559,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/ca05728b1fa4",
             "title": "Building Better iOS App Animations",
             "link": "https://medium.com/swiftkickmobile/building-better-ios-app-animations-swift-uiviewpropertyanimator-ca05728b1fa4?source=rss-9ae0f3e98b90------2",
             "updated": 1531131166,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/e932904f9863",
             "title": "Exploring Apps Without Jailbreaking",
             "link": "https://medium.com/@nathangitter/exploring-apps-without-jailbreaking-e932904f9863?source=rss-9ae0f3e98b90------2",
             "updated": 1524564043,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/9f66d43b9c87",
             "title": "Designing Jank-Free Apps",
             "link": "https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87?source=rss-9ae0f3e98b90------2",
             "updated": 1520233984,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/3a01b22c43d7",
             "title": "Why Your App Looks Better in Sketch",
             "link": "https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7?source=rss-9ae0f3e98b90------2",
             "updated": 1517660032,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/6782e459d",
             "title": "Local Reasoning in Swift",
             "link": "https://medium.com/@nathangitter/local-reasoning-in-swift-6782e459d?source=rss-9ae0f3e98b90------2",
             "updated": 1516126364,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/a4c112f84d34",
             "title": "Reverse-Engineering the iPhone X Home Indicator Color",
             "link": "https://medium.com/@nathangitter/reverse-engineering-the-iphone-x-home-indicator-color-a4c112f84d34?source=rss-9ae0f3e98b90------2",
             "updated": 1515272693,
-            "site_url": "https://medium.com/@nathangitter"
+            "site_url": "https://medium.com/@nathangitter",
+            "slug": "design"
         }
     ]
 }

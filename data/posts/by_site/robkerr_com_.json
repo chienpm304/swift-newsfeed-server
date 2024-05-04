@@ -6,105 +6,120 @@
             "title": "Filtering Collections in Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/syntax-filter/",
             "updated": 1683838800,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f926ef0ee1e80ad491b1f8",
             "title": "Awaiting Kotlin suspend functions in serial, parallel and lazy startup modes",
             "link": "https://robkerr.com/kotlin-await-suspend-functions/",
             "updated": 1683824400,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f942144c79ac05c35135ea",
             "title": "REPL Tool Reference",
             "link": "https://robkerr.com/repl-tool-reference/",
             "updated": 1683752400,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f943b34c79ac05c351362b",
             "title": "Using Firebase Auth claims with Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/firebase-auth-custom-claims-2/",
             "updated": 1681333200,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f93d964c79ac05c351357a",
             "title": "Using Firebase Auth claims with Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/firebase-auth-custom-claims/",
             "updated": 1681333200,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f942f44c79ac05c3513613",
             "title": "Simple For Loop in Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/simple-for-loop-in-swift-kotlin-and-javascript/",
             "updated": 1680901200,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f9504e4c79ac05c3513795",
             "title": "URL Encoding GET parameters in Swift",
             "link": "https://robkerr.com/url-encoding-get-parameters-in-swift/",
             "updated": 1680814800,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f94e664c79ac05c351375c",
             "title": "Creating async/await functions in a Swift Playground",
             "link": "https://robkerr.com/creating-async-await-functions-in-a-swift-playground/",
             "updated": 1680728400,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f943434c79ac05c351361d",
             "title": "Async/Await Syntax in Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/syntax-async-await/",
             "updated": 1680728400,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f93e204c79ac05c3513591",
             "title": "Adding an X-Auth-Key to a Firebase Function stored in Google Secret Manager",
             "link": "https://robkerr.com/firebase-adding-x-auth-key/",
             "updated": 1680642000,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f944734c79ac05c3513637",
             "title": "Sending a Push Notification from a Firebase Function",
             "link": "https://robkerr.com/firebase-send-push-from-function/",
             "updated": 1680555600,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f93a5f4c79ac05c3513530",
             "title": "Android Jetpack Compose View Model Eventing Architecture",
             "link": "https://robkerr.com/android-jetpack-compose-view-model-events/",
             "updated": 1680555600,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f942a74c79ac05c3513605",
             "title": "ForEach Syntax in Swift, Kotlin and JavaScript",
             "link": "https://robkerr.com/syntax-foreach/",
             "updated": 1680469200,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f94db64c79ac05c3513747",
             "title": "Using iOS 16 view modifiers with iOS 15 targets",
             "link": "https://robkerr.com/using-ios-16-view-modifiers-with-ios-15-targets/",
             "updated": 1663621200,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         },
         {
             "id": "64f93d014c79ac05c351356a",
             "title": "Checking for Google Play Services with Kotlin",
             "link": "https://robkerr.com/check-for-play-services/",
             "updated": 1659646800,
-            "site_url": "https://robkerr.com/"
+            "site_url": "https://robkerr.com/",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "The Vision Pro Experience: A Dive into Apple's Spatial Computing",
             "link": "https://martiancraft.com/blog/2024/02/the-vision-pro-experience/",
             "updated": 1706720400,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2024/01/apple-vision-pro-pioneering-the-future/",
             "title": "MartianCraft & Apple Vision Pro: Pioneering the Future of AR Technology",
             "link": "https://martiancraft.com/blog/2024/01/apple-vision-pro-pioneering-the-future/",
             "updated": 1706547600,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/11/why-hire-mobile-dev-agency/",
             "title": "Why Hire a Mobile App Development Agency for Your App? 11 Key Benefits",
             "link": "https://martiancraft.com/blog/2023/11/why-hire-mobile-dev-agency/",
             "updated": 1698771600,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/10/accessibility-designed-for-everyone/",
             "title": "Accessibility: App Design with Everyone in Mind",
             "link": "https://martiancraft.com/blog/2023/10/accessibility-designed-for-everyone/",
             "updated": 1696957200,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/06/evolution-of-vr-and-ar/",
             "title": "The Evolution of VR and AR: Shaping a New Reality",
             "link": "https://martiancraft.com/blog/2023/06/evolution-of-vr-and-ar/",
             "updated": 1687194000,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/06/vision-possible/",
             "title": "VISION POSSIBLE: A New Paradigm in Computing?",
             "link": "https://martiancraft.com/blog/2023/06/vision-possible/",
             "updated": 1686675600,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/06/wwdc-2023-keynote/",
             "title": "WWDC \u201923: What we\u2019re talking about from the keynote",
             "link": "https://martiancraft.com/blog/2023/06/wwdc-2023-keynote/",
             "updated": 1685984400,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/05/wwdc-2023-expectations/",
             "title": "Anticipation and Expectations: MartianCraft Staff Gear Up for WWDC \u201923",
             "link": "https://martiancraft.com/blog/2023/05/wwdc-2023-expectations/",
             "updated": 1685379600,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/05/wwdc-ar-vr/",
             "title": "WWDC \u201923: Using AR and VR to broaden your business",
             "link": "https://martiancraft.com/blog/2023/05/wwdc-ar-vr/",
             "updated": 1684688400,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         },
         {
             "id": "https://martiancraft.com/blog/2023/04/nearby-interactions-part-one/",
             "title": "Apple Nearby Interactions and the U1 Chip - Part 1",
             "link": "https://martiancraft.com/blog/2023/04/nearby-interactions-part-one/",
             "updated": 1682442000,
-            "site_url": "https://martiancraft.com/blog.html"
+            "site_url": "https://martiancraft.com/blog.html",
+            "slug": "companies"
         }
     ]
 }

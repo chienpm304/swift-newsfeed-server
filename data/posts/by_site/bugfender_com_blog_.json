@@ -6,70 +6,80 @@
             "title": "We\u2019re Hiring a React Developer",
             "link": "https://bugfender.com/blog/were-hiring-a-react-developer/",
             "updated": 1713831690,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11767",
             "title": "Using GraphQL with React: Efficient Data Fetching",
             "link": "https://bugfender.com/blog/graphql-react/",
             "updated": 1713493711,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11752",
             "title": "Introducing DevResources: The Comprehensive Developer Resource Platform",
             "link": "https://bugfender.com/blog/introducing-devresources/",
             "updated": 1713326344,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11694",
             "title": "Swift Equatable, Comparable, Hashable, and Identifiable Guide",
             "link": "https://bugfender.com/blog/swift-standard-library-protocols/",
             "updated": 1712702647,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11646",
             "title": "Deploying Microfrontends on AWS: A Guide for Developers",
             "link": "https://bugfender.com/blog/deploying-microfrontends-on-aws/",
             "updated": 1712014164,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11623",
             "title": "Demystifying Microfrontends: A Practical Approach with React and Module Federation",
             "link": "https://bugfender.com/blog/microfrontends-react/",
             "updated": 1711496604,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11601",
             "title": "Implementing Real-Time Communication in iOS with WebSockets",
             "link": "https://bugfender.com/blog/ios-websockets/",
             "updated": 1710805888,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11583",
             "title": "Swift Networking Essentials: Using URLSession and URLRequest in iOS Apps",
             "link": "https://bugfender.com/blog/swift-networking/",
             "updated": 1710218059,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11557",
             "title": "Integrating Realm Swift into Your iOS Projects: A Comprehensive Guide",
             "link": "https://bugfender.com/blog/realm-swift/",
             "updated": 1709868297,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         },
         {
             "id": "https://bugfender.com/?p=11515",
             "title": "iOS Core Data Explained: Storing data using Swift",
             "link": "https://bugfender.com/blog/ios-core-data/",
             "updated": 1709531216,
-            "site_url": "https://bugfender.com/blog/"
+            "site_url": "https://bugfender.com/blog/",
+            "slug": "companies"
         }
     ]
 }

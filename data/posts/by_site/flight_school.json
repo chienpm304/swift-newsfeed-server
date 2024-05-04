@@ -6,35 +6,40 @@
             "title": "Training a Text Classifier with Create ML and the Natural Language Framework",
             "link": "https://flight.school/articles/classifying-programming-languages-with-createml/",
             "updated": 1528822800,
-            "site_url": "https://flight.school"
+            "site_url": "https://flight.school",
+            "slug": "companies"
         },
         {
             "id": "https://flight.school/articles/flight-school-chinese-language",
             "title": "Flight School for Chinese Language Speakers",
             "link": "https://flight.school/articles/flight-school-chinese-language/",
             "updated": 1526490000,
-            "site_url": "https://flight.school"
+            "site_url": "https://flight.school",
+            "slug": "companies"
         },
         {
             "id": "https://flight.school/articles/running-xcode-playgrounds-on-travis-ci",
             "title": "Running Xcode Playgrounds on Travis CI",
             "link": "https://flight.school/articles/running-xcode-playgrounds-on-travis-ci/",
             "updated": 1526403600,
-            "site_url": "https://flight.school"
+            "site_url": "https://flight.school",
+            "slug": "companies"
         },
         {
             "id": "https://flight.school/articles/codable-diy-kit",
             "title": "DIY Codable Encoder / Decoder Kit",
             "link": "https://flight.school/articles/codable-diy-kit/",
             "updated": 1525626000,
-            "site_url": "https://flight.school"
+            "site_url": "https://flight.school",
+            "slug": "companies"
         },
         {
             "id": "https://flight.school/articles/benchmarking-codable",
             "title": "Benchmarking Codable",
             "link": "https://flight.school/articles/benchmarking-codable/",
             "updated": 1525107600,
-            "site_url": "https://flight.school"
+            "site_url": "https://flight.school",
+            "slug": "companies"
         }
     ]
 }

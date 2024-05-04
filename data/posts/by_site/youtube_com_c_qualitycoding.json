@@ -6,105 +6,120 @@
             "title": "Profile, Certificate, Upload: CD Setup, part 3",
             "link": "https://www.youtube.com/watch?v=CdWAnemflQw",
             "updated": 1714287541,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:bvB0_Fq7R9s",
             "title": "User Stories: Find the Essential Parts",
             "link": "https://www.youtube.com/watch?v=bvB0_Fq7R9s",
             "updated": 1714177172,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:PFhNTdJ8Jec",
             "title": "Building Your Archive: CD Setup, part 1",
             "link": "https://www.youtube.com/watch?v=PFhNTdJ8Jec",
             "updated": 1714165680,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:M-O8LPz0fVI",
             "title": "Fake Networking for Tests with Jon & Craig",
             "link": "https://www.youtube.com/watch?v=M-O8LPz0fVI",
             "updated": 1714162310,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:C7Ud_GbkGBQ",
             "title": "Rough Edges but SO EASY: Xcode Cloud CD",
             "link": "https://www.youtube.com/watch?v=C7Ud_GbkGBQ",
             "updated": 1714148193,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:3lIwJ0500DQ",
             "title": "Super Easy & Integrated! Xcode Cloud CI",
             "link": "https://www.youtube.com/watch?v=3lIwJ0500DQ",
             "updated": 1714083550,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:1p764jvjUpE",
             "title": "Encrypt the Provisioning: CD Setup, part 2",
             "link": "https://www.youtube.com/watch?v=1p764jvjUpE",
             "updated": 1714016683,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:8ujFxst6Mpw",
             "title": "Build Success \u21d2 Deploy: CD on GitHub Actions",
             "link": "https://www.youtube.com/watch?v=8ujFxst6Mpw",
             "updated": 1713993078,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:r51rVqimm0E",
             "title": "TDD a SwiftUI Button Tap",
             "link": "https://www.youtube.com/watch?v=r51rVqimm0E",
             "updated": 1713930850,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:samGkEay79E",
             "title": "Fast Tests in Xcode Tip #1: Rip Out UI Tests",
             "link": "https://www.youtube.com/watch?v=samGkEay79E",
             "updated": 1713315736,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:AF8cCxrJr8M",
             "title": "Improve Test Clarity (TDD with SwiftUI)",
             "link": "https://www.youtube.com/watch?v=AF8cCxrJr8M",
             "updated": 1713209231,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:xzhot7pgo7A",
             "title": "Setting Up TestFlight: Main, CI, CD",
             "link": "https://www.youtube.com/watch?v=xzhot7pgo7A",
             "updated": 1712176996,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:UDrX39Ybjgk",
             "title": "Evolutionary Design: Get the Smallest Thing to Work",
             "link": "https://www.youtube.com/watch?v=UDrX39Ybjgk",
             "updated": 1711332211,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:extPZzDCd5k",
             "title": "Extracting Testable Code with Jon & Craig",
             "link": "https://www.youtube.com/watch?v=extPZzDCd5k",
             "updated": 1711145080,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:X_2bVmbo2I4",
             "title": "Automatic Build Number: CD Setup, continued",
             "link": "https://www.youtube.com/watch?v=X_2bVmbo2I4",
             "updated": 1709795427,
-            "site_url": "https://www.youtube.com/c/qualitycoding"
+            "site_url": "https://www.youtube.com/c/qualitycoding",
+            "slug": "youtube"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "Introducing Longplay 2.0",
             "link": "https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/",
             "updated": 1693414800,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2023/06/04/microsoft-build-for-app-developers/",
             "title": "Insights from Microsoft Build for app developers",
             "link": "https://adrian.schoenig.me/blog/2023/06/04/microsoft-build-for-app-developers/",
             "updated": 1685811600,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2023/05/05/state-of-ai/",
             "title": "State of AI, May 2023",
             "link": "https://adrian.schoenig.me/blog/2023/05/05/state-of-ai/",
             "updated": 1683219600,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2023/02/10/uicollectionviewrecursion/",
             "title": "UIHostingConfiguration can cause UICollectionViewRecursion",
             "link": "https://adrian.schoenig.me/blog/2023/02/10/uicollectionviewrecursion/",
             "updated": 1675962000,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2022/05/27/tree-sitter-highlighting-in-jekyll/",
             "title": "Using Tree-sitter for syntax highlighting in Jekyll",
             "link": "https://adrian.schoenig.me/blog/2022/05/27/tree-sitter-highlighting-in-jekyll/",
             "updated": 1653584400,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2021/08/18/core-data-and-spm/",
             "title": "Using CoreData in a SPM executable",
             "link": "https://adrian.schoenig.me/blog/2021/08/18/core-data-and-spm/",
             "updated": 1629219600,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2020/11/06/giants-and-nintendo/",
             "title": "Tech giants and Nintendo",
             "link": "https://adrian.schoenig.me/blog/2020/11/06/giants-and-nintendo/",
             "updated": 1604618880,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2020/10/03/essence-of-an-app/",
             "title": "The essence of an app",
             "link": "https://adrian.schoenig.me/blog/2020/10/03/essence-of-an-app/",
             "updated": 1601719920,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2020/08/18/introducing-longplay/",
             "title": "Introducing Longplay",
             "link": "https://adrian.schoenig.me/blog/2020/08/18/introducing-longplay/",
             "updated": 1597683600,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         },
         {
             "id": "https://adrian.schoenig.me/blog/2020/04/11/vapor-loading-resources/",
             "title": "Vapor: Loading resources",
             "link": "https://adrian.schoenig.me/blog/2020/04/11/vapor-loading-resources/",
             "updated": 1586538000,
-            "site_url": "https://adrian.schoenig.me"
+            "site_url": "https://adrian.schoenig.me",
+            "slug": "development"
         }
     ]
 }

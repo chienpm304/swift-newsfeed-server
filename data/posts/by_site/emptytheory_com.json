@@ -6,70 +6,80 @@
             "title": "Test Plans are now Default for New Projects with Xcode 14.3",
             "link": "https://emptytheory.com/2023/02/26/test-plans-are-now-default-for-new-projects-with-xcode-14-3/",
             "updated": 1677406626,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=808",
             "title": "UI Test Changes to SwiftUI List and Stepper in iOS 16",
             "link": "https://emptytheory.com/2022/10/03/ui-test-changes-to-list-and-stepper-in-ios-16/",
             "updated": 1664796722,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=763",
             "title": "We\u2019ll Miss You, 360 iDev",
             "link": "https://emptytheory.com/2022/09/01/well-miss-you-360idev/",
             "updated": 1662020665,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=694",
             "title": "Improving Your User Interface Tests in Xcode and iOS",
             "link": "https://emptytheory.com/2022/03/06/improving-your-user-interface-tests-in-xcode-and-ios/",
             "updated": 1646559869,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=647",
             "title": "Working Around Xcode and Continuous Integration Issues on Apple Silicon",
             "link": "https://emptytheory.com/2021/12/30/working-around-xcode-and-continuous-integration-issues-on-apple-silicon/",
             "updated": 1640887620,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=591",
             "title": "Retrying Failed Tests With Xcode 13 and Continuous Integration",
             "link": "https://emptytheory.com/2021/11/28/retrying-failed-tests-with-xcode-13-and-continuous-integration/",
             "updated": 1638096526,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=518",
             "title": "Creating Custom Parseable Format Styles in iOS 15",
             "link": "https://emptytheory.com/2021/08/14/creating-custom-parseable-format-styles-in-ios-15/",
             "updated": 1628931342,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=384",
             "title": "Refactor or Rewrite? Tackling Legacy Apps",
             "link": "https://emptytheory.com/2021/07/02/refactor-or-rewrite-tackling-legacy-apps/",
             "updated": 1625212757,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=441",
             "title": "Accessibility Gets an Upgrade in Xcode 13 Storyboards",
             "link": "https://emptytheory.com/2021/06/18/accessibility-gets-an-upgrade-in-xcode-13-storyboards/",
             "updated": 1624006556,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         },
         {
             "id": "http://emptytheory.com/?p=378",
             "title": "Registering Collection View Cells in iOS 14",
             "link": "https://emptytheory.com/2021/02/27/registering-collection-view-cells-in-ios-14/",
             "updated": 1614418905,
-            "site_url": "https://emptytheory.com"
+            "site_url": "https://emptytheory.com",
+            "slug": "development"
         }
     ]
 }

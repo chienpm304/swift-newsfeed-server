@@ -6,14 +6,16 @@
             "title": "How not to use enums in Swift",
             "link": "https://www.dusantadic.dev/post/how-not-to-use-enums/",
             "updated": 1558166539,
-            "site_url": "https://www.dusantadic.dev/"
+            "site_url": "https://www.dusantadic.dev/",
+            "slug": "development"
         },
         {
             "id": "https://www.dusantadic.dev/post/make-uicontrol-more-swifty/",
             "title": "Make UIControl More Swifty",
             "link": "https://www.dusantadic.dev/post/make-uicontrol-more-swifty/",
             "updated": 1552144303,
-            "site_url": "https://www.dusantadic.dev/"
+            "site_url": "https://www.dusantadic.dev/",
+            "slug": "development"
         }
     ]
 }

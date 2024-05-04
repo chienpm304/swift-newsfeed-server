@@ -6,56 +6,64 @@
             "title": "\ud83c\udf99 Are Subscriptions the Future? An interview with Jacob from RevenueCat",
             "link": "http://lewismakesapps.com/are-subscriptions-the-future/",
             "updated": 1525761220,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=119",
             "title": "Influential Books",
             "link": "http://lewismakesapps.com/influential-books/",
             "updated": 1520606403,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=117",
             "title": "App Masters Podcast",
             "link": "http://lewismakesapps.com/app-masters-podcast/",
             "updated": 1519804680,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=113",
             "title": "Indie Hackers Interview",
             "link": "http://lewismakesapps.com/indie-hackers-interview/",
             "updated": 1517218184,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=110",
             "title": "Adventures in App Store Optimization \u2013 Part 2",
             "link": "http://lewismakesapps.com/adventures-in-app-store-optimization-part-2/",
             "updated": 1515922063,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=105",
             "title": "Adventures in App Store Optimization \u2013 Part 1",
             "link": "http://lewismakesapps.com/adventures-in-app-store-optimization-part-1/",
             "updated": 1514887606,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=29",
             "title": "How to Use Surveys to Get Great Feedback From Your Users",
             "link": "http://lewismakesapps.com/how-to-use-surveys-to-get-great-feedback-from-your-users/",
             "updated": 1510400139,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         },
         {
             "id": "http://lewismakesapps.com/?p=5",
             "title": "Nomad Beta Testers Wanted",
             "link": "http://lewismakesapps.com/nomad-beta-testers-wanted/",
             "updated": 1506745740,
-            "site_url": "https://lewismakesapps.com/"
+            "site_url": "https://lewismakesapps.com/",
+            "slug": "development"
         }
     ]
 }

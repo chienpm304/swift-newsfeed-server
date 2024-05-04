@@ -6,70 +6,80 @@
             "title": "Magical Objective-C entrypoint",
             "link": "http://localhost:4000/magical-objective-c-entrypoint/",
             "updated": 1607263595,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/improving-your-debugging-experience-with-lldb",
             "title": "Improving your debugging experience with LLDB",
             "link": "http://localhost:4000/improving-your-debugging-experience-with-lldb/",
             "updated": 1583926372,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/simulating-remote-push-notifications",
             "title": "Simulating remote push notifications",
             "link": "http://localhost:4000/simulating-remote-push-notifications/",
             "updated": 1581040619,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/handling-the-unknown",
             "title": "Handling the @unknown",
             "link": "http://localhost:4000/handling-the-unknown/",
             "updated": 1578835701,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/it-s-that-week-of-the-year",
             "title": "It\u2019s that Week of the Year",
             "link": "http://localhost:4000/it-s-that-week-of-the-year/",
             "updated": 1569947132,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/name-mangling",
             "title": "Name mangling",
             "link": "http://localhost:4000/name-mangling/",
             "updated": 1569946989,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/a-new-era-handling-locales-in-calendars",
             "title": "A new era: handling locales in calendars",
             "link": "http://localhost:4000/a-new-era-handling-locales-in-calendars/",
             "updated": 1569946867,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/auto-deploying-my-website-using-travis-ci",
             "title": "Auto deploying my website using Travis CI",
             "link": "http://localhost:4000/auto-deploying-my-website-using-travis-ci/",
             "updated": 1569946644,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/the-secret-keyword-behind-higher-order-functions-rethrows",
             "title": "The secret keyword behind higher-order functions: rethrows",
             "link": "http://localhost:4000/the-secret-keyword-behind-higher-order-functions-rethrows/",
             "updated": 1569945664,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/decoding-array-gracefully",
             "title": "Decoding Array Gracefully",
             "link": "http://localhost:4000/decoding-array-gracefully/",
             "updated": 1569945433,
-            "site_url": "https://gaelfoppolo.com/"
+            "site_url": "https://gaelfoppolo.com/",
+            "slug": "development"
         }
     ]
 }

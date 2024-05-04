@@ -6,70 +6,80 @@
             "title": "On Vision Pro",
             "link": "https://charliemchapman.com/posts/2023/12/7/on-vision-pro",
             "updated": 1701882000,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2023/9/18/dark-noise-3_2-iOS-17",
             "title": "Dark Noise Interactive Widgets &amp; iOS 17 Support",
             "link": "https://charliemchapman.com/posts/2023/9/18/dark-noise-3_2-iOS-17",
             "updated": 1694970000,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2023/4/12/launched-diary-dark-noise-3",
             "title": "Launched Diary: Dark Noise 3.0",
             "link": "https://charliemchapman.com/posts/2023/4/12/launched-diary-dark-noise-3",
             "updated": 1681232400,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2023/4/2/dark-noise-3",
             "title": "Dark Noise 3.0: White noise, freed",
             "link": "https://charliemchapman.com/posts/2023/4/2/dark-noise-3",
             "updated": 1680368400,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2023/3/1/2023-dark-noise-stats",
             "title": "Dark Noise Analytics: March 2023",
             "link": "https://charliemchapman.com/posts/2023/3/1/2023-dark-noise-stats",
             "updated": 1677603600,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2022/12/31/2022-break-breakthrough-breakdown",
             "title": "2022: A Break, a Breakthrough, and a Breakdown?",
             "link": "https://charliemchapman.com/posts/2022/12/31/2022-break-breakthrough-breakdown",
             "updated": 1672419600,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2021/10/5/dark-noise-2_6-iOS-15",
             "title": "iOS 15 Support with Dark Noise 2.6",
             "link": "https://charliemchapman.com/posts/2021/10/5/dark-noise-2_6-iOS-15",
             "updated": 1633366800,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2021/5/25/dark-noise-mac",
             "title": "Dark Noise for Mac",
             "link": "https://charliemchapman.com/posts/2021/5/25/dark-noise-mac",
             "updated": 1621875600,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2021/1/14/overviewer-week-1",
             "title": "Overviewer Week 1",
             "link": "https://charliemchapman.com/posts/2021/1/14/overviewer-week-1",
             "updated": 1610557200,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         },
         {
             "id": "https://charliemchapman.com/posts/2021/1/13/launched-year-1",
             "title": "Launched Year 1",
             "link": "https://charliemchapman.com/posts/2021/1/13/launched-year-1",
             "updated": 1610470800,
-            "site_url": "https://charliemchapman.com/"
+            "site_url": "https://charliemchapman.com/",
+            "slug": "development"
         }
     ]
 }

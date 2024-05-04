@@ -6,70 +6,80 @@
             "title": "Xcode Build Setting Transformations",
             "link": "http://codeworkshop.net/posts/xcode-build-setting-transformations",
             "updated": 1439801722,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2014-06-17:1403054793",
             "title": "An Objective-C API Diff Tool",
             "link": "http://codeworkshop.net/posts/an-objc-api-diff-tool",
             "updated": 1403007993,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2013-01-28:1359426097",
             "title": "Disabling Xcode 4.6's Garbage Collection Warning",
             "link": "http://codeworkshop.net/posts/xcode46-garbage-collection-warning",
             "updated": 1394457760,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2013-02-01:1359730062",
             "title": "Clean File Templates for Xcode 4",
             "link": "http://codeworkshop.net/posts/xcode-clean-file-templates",
             "updated": 1359679662,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2012-10-18:1350595534",
             "title": "Power Nap and the Network",
             "link": "http://codeworkshop.net/posts/power-nap-and-the-network",
             "updated": 1350548734,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2012-07-25:1343254340",
             "title": "Notification Center Updates for Homebrew",
             "link": "http://codeworkshop.net/posts/notification-center-updates-for-homebrew",
             "updated": 1345533154,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2012-02-21:1329852359",
             "title": "Filtering Sparkle Release Notes with JavaScript",
             "link": "http://codeworkshop.net/posts/js-sparkle-release-notes",
             "updated": 1344526761,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2012-07-19:1342701638",
             "title": "Switching to an Inexpensive Code Signing Certificate",
             "link": "http://codeworkshop.net/posts/inexpensive-code-signing-cert",
             "updated": 1344526756,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2011-08-25:1314309201",
             "title": "Growl Notifications for Homebrew",
             "link": "http://codeworkshop.net/posts/growl-notifications-for-homebrew",
             "updated": 1344526750,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         },
         {
             "id": "tag:codeworkshop.net,2012-01-23:1327334747",
             "title": "Silent Updates",
             "link": "http://codeworkshop.net/posts/silent-updates",
             "updated": 1343733574,
-            "site_url": "http://codeworkshop.net/"
+            "site_url": "http://codeworkshop.net/",
+            "slug": "development"
         }
     ]
 }

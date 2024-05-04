@@ -6,700 +6,800 @@
             "title": "Nerdy internals of an Apple text editor",
             "link": "https://petercammeraat.net/journal/2024/nerdy-internals-of-an-apple-text-editor/",
             "updated": 1709676000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/airfoil/",
             "title": "Airfoil",
             "link": "https://petercammeraat.net/journal/2024/airfoil/",
             "updated": 1709071200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/swiftdata-pre-seed-database/",
             "title": "SwiftData, pre-seed database",
             "link": "https://petercammeraat.net/journal/2024/swiftdata-pre-seed-database/",
             "updated": 1708898400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/polyglot-programmer-and-lack-of-unicorns/",
             "title": "Polyglot Programmer and Lack of Unicorns",
             "link": "https://petercammeraat.net/journal/2024/polyglot-programmer-and-lack-of-unicorns/",
             "updated": 1708380000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/no-longer-making-quiet-open-source/",
             "title": "No longer making Quiet open source",
             "link": "https://petercammeraat.net/journal/2024/no-longer-making-quiet-open-source/",
             "updated": 1707861600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/a-2024-plea-for-lean-software/",
             "title": "A 2024 plea for lean software",
             "link": "https://petercammeraat.net/journal/2024/a-2024-plea-for-lean-software/",
             "updated": 1707688800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/quiet-4-2-new-app-icon-and-visionos-support/",
             "title": "Quiet 4.2 - new app icon and visionOS support",
             "link": "https://petercammeraat.net/journal/2024/quiet-4-2-new-app-icon-and-visionos-support/",
             "updated": 1706652000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/changes-from-apple-for-the-european-union/",
             "title": "Changes from Apple for the European Union",
             "link": "https://petercammeraat.net/journal/2024/changes-from-apple-for-the-european-union/",
             "updated": 1706191200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/the-mac-is-40-years-old/",
             "title": "The Mac is 40 years old",
             "link": "https://petercammeraat.net/journal/2024/the-mac-is-40-years-old/",
             "updated": 1706072400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/writing-html-with-htmlkit-in-swift/",
             "title": "Writing HTML with HTMLKit in Swift",
             "link": "https://petercammeraat.net/journal/2024/writing-html-with-htmlkit-in-swift/",
             "updated": 1705572000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/swift-dsl-for-html/",
             "title": "Swift DSL for HTML",
             "link": "https://petercammeraat.net/journal/2024/swift-dsl-for-html/",
             "updated": 1705356000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/making-this-website-in-swift-part-2/",
             "title": "Making this website in Swift - part 2",
             "link": "https://petercammeraat.net/journal/2024/making-this-website-in-swift-part-2/",
             "updated": 1704933000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/making-this-website-in-swift-part-1/",
             "title": "Making this website in Swift - part 1",
             "link": "https://petercammeraat.net/journal/2024/making-this-website-in-swift-part-1/",
             "updated": 1704664800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/making-quiet-open-source/",
             "title": "Making Quiet open source",
             "link": "https://petercammeraat.net/journal/2024/making-quiet-open-source/",
             "updated": 1704438000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2024/plans-for-2024/",
             "title": "Plans for 2024",
             "link": "https://petercammeraat.net/journal/2024/plans-for-2024/",
             "updated": 1704060000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/ted-talks-of-2023/",
             "title": "TED Talks of 2023",
             "link": "https://petercammeraat.net/journal/2023/ted-talks-of-2023/",
             "updated": 1703973600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/my-app-store-screenshots-flow/",
             "title": "My App Store Screenshots Flow",
             "link": "https://petercammeraat.net/journal/2023/my-app-store-screenshots-flow/",
             "updated": 1688119200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/update-on-privacy-in-apple-s-ecosystem/",
             "title": "Update on privacy in Apple's ecosystem",
             "link": "https://petercammeraat.net/journal/2023/update-on-privacy-in-apple-s-ecosystem/",
             "updated": 1686175200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/i-am-happy-with-tipkit/",
             "title": "I am happy with TipKit",
             "link": "https://petercammeraat.net/journal/2023/i-am-happy-with-tipkit/",
             "updated": 1686085200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/on-device-machine-learning/",
             "title": "On Device Machine Learning",
             "link": "https://petercammeraat.net/journal/2023/on-device-machine-learning/",
             "updated": 1686052800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/why-not-flutter/",
             "title": "Why not Flutter?",
             "link": "https://petercammeraat.net/journal/2023/why-not-flutter/",
             "updated": 1684533600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/personal-voice/",
             "title": "Personal Voice",
             "link": "https://petercammeraat.net/journal/2023/personal-voice/",
             "updated": 1684274400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/apple-brings-final-cut-pro-and-logic-pro-to-ipad/",
             "title": "Apple brings Final Cut Pro and Logic Pro to iPad",
             "link": "https://petercammeraat.net/journal/2023/apple-brings-final-cut-pro-and-logic-pro-to-ipad/",
             "updated": 1683669600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/have-an-iphone-again/",
             "title": "Have an iPhone again",
             "link": "https://petercammeraat.net/journal/2023/have-an-iphone-again/",
             "updated": 1682978400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/do-not-run-servers/",
             "title": "Do not Run Servers",
             "link": "https://petercammeraat.net/journal/2023/do-not-run-servers/",
             "updated": 1682719200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/quiet-4-1/",
             "title": "Quiet 4.1",
             "link": "https://petercammeraat.net/journal/2023/quiet-4-1/",
             "updated": 1682460000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/moving-away-from-building-prettified-json-viewers/",
             "title": "Moving away from building Prettified JSON Viewers",
             "link": "https://petercammeraat.net/journal/2023/moving-away-from-building-prettified-json-viewers/",
             "updated": 1681855200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/offline-experience-of-apps/",
             "title": "Offline experience of apps",
             "link": "https://petercammeraat.net/journal/2023/offline-experience-of-apps/",
             "updated": 1681768800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/getting-an-entitlement-for-family-controls-distribution/",
             "title": "Getting an entitlement for Family Controls (Distribution)",
             "link": "https://petercammeraat.net/journal/2023/getting-an-entitlement-for-family-controls-distribution/",
             "updated": 1680127200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/bicycle/",
             "title": "Bicycle",
             "link": "https://petercammeraat.net/journal/2023/bicycle/",
             "updated": 1680040800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/case-against-the-cloud/",
             "title": "Case against the cloud",
             "link": "https://petercammeraat.net/journal/2023/case-against-the-cloud/",
             "updated": 1679522400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/restructured-website/",
             "title": "Restructured website",
             "link": "https://petercammeraat.net/journal/2023/restructured-website/",
             "updated": 1677880800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/social-media-is-a-major-cause-of-the-mental-illness-epidemic/",
             "title": "Social Media is a Major Cause of the Mental Illness Epidemic",
             "link": "https://petercammeraat.net/journal/2023/social-media-is-a-major-cause-of-the-mental-illness-epidemic/",
             "updated": 1677103200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/onboarding-tutorials-vs-contextual-help/",
             "title": "Onboarding Tutorials vs. Contextual Help",
             "link": "https://petercammeraat.net/journal/2023/onboarding-tutorials-vs-contextual-help/",
             "updated": 1676412000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/comments-rule-in-quiet/",
             "title": "Comments rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/comments-rule-in-quiet/",
             "updated": 1675288800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/notifications-rule-in-quiet/",
             "title": "Notifications rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/notifications-rule-in-quiet/",
             "updated": 1675202400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/newsletter-rule-in-quiet/",
             "title": "Newsletter rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/newsletter-rule-in-quiet/",
             "updated": 1675116000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/relevant-content-rule-in-quiet/",
             "title": "'Relevant Content' rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/relevant-content-rule-in-quiet/",
             "updated": 1675029600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/chatbots-rule-in-quiet/",
             "title": "Chatbots rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/chatbots-rule-in-quiet/",
             "updated": 1674770400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/share-buttons-rule-in-quiet/",
             "title": "Share Buttons rule in Quiet",
             "link": "https://petercammeraat.net/journal/2023/share-buttons-rule-in-quiet/",
             "updated": 1674684000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/rip-third-party-twitter-apps/",
             "title": "RIP Third-Party Twitter Apps",
             "link": "https://petercammeraat.net/journal/2023/rip-third-party-twitter-apps/",
             "updated": 1674165600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/quiet-4-0-and-a-commitment/",
             "title": "Quiet 4.0 and a commitment",
             "link": "https://petercammeraat.net/journal/2023/quiet-4-0-and-a-commitment/",
             "updated": 1674079200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/the-cab-ride-ill-never-forget/",
             "title": "The Cab Ride I'll Never Forget",
             "link": "https://petercammeraat.net/journal/2023/the-cab-ride-ill-never-forget/",
             "updated": 1673906400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/your-own-personal-website/",
             "title": "Your own personal website",
             "link": "https://petercammeraat.net/journal/2023/your-own-personal-website/",
             "updated": 1673560800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/the-strangely-beautiful-experience-of-google-reviews/",
             "title": "The Strangely Beautiful Experience of Google Reviews",
             "link": "https://petercammeraat.net/journal/2023/the-strangely-beautiful-experience-of-google-reviews/",
             "updated": 1673301600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/20-years-of-safari/",
             "title": "20 years of Safari",
             "link": "https://petercammeraat.net/journal/2023/20-years-of-safari/",
             "updated": 1673042400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/using-rss-feeds/",
             "title": "Using RSS feeds",
             "link": "https://petercammeraat.net/journal/2023/using-rss-feeds/",
             "updated": 1672956000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/build-by-tony-fadell/",
             "title": "Build by Tony Fadell",
             "link": "https://petercammeraat.net/journal/2023/build-by-tony-fadell/",
             "updated": 1672783200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2023/being-more-positive/",
             "title": "Being more positive",
             "link": "https://petercammeraat.net/journal/2023/being-more-positive/",
             "updated": 1672696800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/ted-talks-of-2022/",
             "title": "TED Talks of 2022",
             "link": "https://petercammeraat.net/journal/2022/ted-talks-of-2022/",
             "updated": 1672437600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/what-is-a-wildcard-person/",
             "title": "What is a Wildcard Person?",
             "link": "https://petercammeraat.net/journal/2022/what-is-a-wildcard-person/",
             "updated": 1672264800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/mans-search-for-meaning-by-viktor-frankl/",
             "title": "Man's Search for Meaning by Viktor Frankl",
             "link": "https://petercammeraat.net/journal/2022/mans-search-for-meaning-by-viktor-frankl/",
             "updated": 1671573600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/essentialism-by-greg-mckeown/",
             "title": "Essentialism by Greg McKeown",
             "link": "https://petercammeraat.net/journal/2022/essentialism-by-greg-mckeown/",
             "updated": 1670968800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/sync-podcast-to-ipod/",
             "title": "Sync podcasts to iPod",
             "link": "https://petercammeraat.net/journal/2022/sync-podcast-to-ipod/",
             "updated": 1669154400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/system-fonts-css/",
             "title": "System Fonts CSS",
             "link": "https://petercammeraat.net/journal/2022/system-fonts-css/",
             "updated": 1667944800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/permission-request-guidelines/",
             "title": "Permission request guidelines",
             "link": "https://petercammeraat.net/journal/2022/permission-request-guidelines/",
             "updated": 1667858400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/hello-world/",
             "title": "Hello World!",
             "link": "https://petercammeraat.net/journal/2022/hello-world/",
             "updated": 1667253600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/baraye/",
             "title": "Baraye",
             "link": "https://petercammeraat.net/journal/2022/baraye/",
             "updated": 1667167200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/sound/",
             "title": "Sound",
             "link": "https://petercammeraat.net/journal/2022/sound/",
             "updated": 1666216800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/the-midnight-library-by-matt-haig/",
             "title": "The Midnight Library by Matt Haig",
             "link": "https://petercammeraat.net/journal/2022/the-midnight-library-by-matt-haig/",
             "updated": 1655503200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/mechanical-watch/",
             "title": "Mechanical Watch",
             "link": "https://petercammeraat.net/journal/2022/mechanical-watch/",
             "updated": 1651788000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/sunsetting-quiet/",
             "title": "Sunsetting Quiet",
             "link": "https://petercammeraat.net/journal/2022/sunsetting-quiet/",
             "updated": 1651356000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2022/gps/",
             "title": "GPS",
             "link": "https://petercammeraat.net/journal/2022/gps/",
             "updated": 1642716000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/ted-talks-of-2021/",
             "title": "TED Talks of 2021",
             "link": "https://petercammeraat.net/journal/2021/ted-talks-of-2021/",
             "updated": 1640901600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/curves-and-surfaces/",
             "title": "Curves and Surfaces",
             "link": "https://petercammeraat.net/journal/2021/curves-and-surfaces/",
             "updated": 1635890400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/sunsetting-seckey/",
             "title": "Sunsetting SecKey",
             "link": "https://petercammeraat.net/journal/2021/sunsetting-seckey/",
             "updated": 1633039200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/naval-architecture/",
             "title": "Naval Architecture",
             "link": "https://petercammeraat.net/journal/2021/naval-architecture/",
             "updated": 1627509600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/i-do-not-have-a-smartphone/",
             "title": "I do not have a smartphone",
             "link": "https://petercammeraat.net/journal/2021/i-do-not-have-a-smartphone/",
             "updated": 1624485600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/celebrating-five-years-of-quiet-and-a-note-on-our-exciting-future/",
             "title": "Celebrating five years of Quiet, and a note on our exciting future",
             "link": "https://petercammeraat.net/journal/2021/celebrating-five-years-of-quiet-and-a-note-on-our-exciting-future/",
             "updated": 1621461600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/how-quiet-network-filter-works/",
             "title": "How Quiet Network Filter works",
             "link": "https://petercammeraat.net/journal/2021/how-quiet-network-filter-works/",
             "updated": 1620943200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/internal-combustion-engine/",
             "title": "Internal Combustion Engine",
             "link": "https://petercammeraat.net/journal/2021/internal-combustion-engine/",
             "updated": 1619820000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2021/seckey-2-0/",
             "title": "SecKey 2.0",
             "link": "https://petercammeraat.net/journal/2021/seckey-2-0/",
             "updated": 1611784800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/ted-talks-of-2020/",
             "title": "TED Talks of 2020",
             "link": "https://petercammeraat.net/journal/2020/ted-talks-of-2020/",
             "updated": 1609365600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/cameras-and-lenses/",
             "title": "Cameras and Lenses",
             "link": "https://petercammeraat.net/journal/2020/cameras-and-lenses/",
             "updated": 1607637600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/apple-silicon-support/",
             "title": "Apple Silicon Support",
             "link": "https://petercammeraat.net/journal/2020/apple-silicon-support/",
             "updated": 1605909600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/lights-and-shadows/",
             "title": "Lights and Shadows",
             "link": "https://petercammeraat.net/journal/2020/lights-and-shadows/",
             "updated": 1593813600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/seckey-universal-purchases/",
             "title": "SecKey moving to Universal Purchases",
             "link": "https://petercammeraat.net/journal/2020/seckey-universal-purchases/",
             "updated": 1587765600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/quiet-universal-purchases/",
             "title": "Quiet moving to Universal Purchases",
             "link": "https://petercammeraat.net/journal/2020/quiet-universal-purchases/",
             "updated": 1587592800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/i-dont-care-what-google-or-apple-or-whomever-did/",
             "title": "I Don\u2019t Care What Google or Apple or Whoever Did",
             "link": "https://petercammeraat.net/journal/2020/i-dont-care-what-google-or-apple-or-whomever-did/",
             "updated": 1585346400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/gears/",
             "title": "Gears",
             "link": "https://petercammeraat.net/journal/2020/gears/",
             "updated": 1581717600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2020/the-5-am-club/",
             "title": "The 5 AM Club by Robin Sharma",
             "link": "https://petercammeraat.net/journal/2020/the-5-am-club/",
             "updated": 1578693600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/ted-talks-of-2019/",
             "title": "TED Talks of 2019",
             "link": "https://petercammeraat.net/journal/2019/ted-talks-of-2019/",
             "updated": 1577743200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/tesseract/",
             "title": "Tesseract",
             "link": "https://petercammeraat.net/journal/2019/tesseract/",
             "updated": 1576706400,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/earth-and-sun/",
             "title": "Earth and Sun",
             "link": "https://petercammeraat.net/journal/2019/earth-and-sun/",
             "updated": 1571436000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/alpha-compositing/",
             "title": "Alpha Compositing",
             "link": "https://petercammeraat.net/journal/2019/alpha-compositing/",
             "updated": 1564092000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/privacy-and-user-experience/",
             "title": "Privacy and User Experience",
             "link": "https://petercammeraat.net/journal/2019/privacy-and-user-experience/",
             "updated": 1556575200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/color-spaces/",
             "title": "Color Spaces",
             "link": "https://petercammeraat.net/journal/2019/color-spaces/",
             "updated": 1550700000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2019/exposing-floating-point/",
             "title": "Exposing Floating Point",
             "link": "https://petercammeraat.net/journal/2019/exposing-floating-point/",
             "updated": 1546552800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2018/ted-talks-of-2018/",
             "title": "TED Talks of 2018",
             "link": "https://petercammeraat.net/journal/2018/ted-talks-of-2018/",
             "updated": 1546207200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2018/the-user-experience-of-chatbots/",
             "title": "The User Experience of Chatbots",
             "link": "https://petercammeraat.net/journal/2018/the-user-experience-of-chatbots/",
             "updated": 1543356000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2018/it-is-time-to-leave-the-facebook-universe/",
             "title": "It is time to leave the Facebook universe!",
             "link": "https://petercammeraat.net/journal/2018/it-is-time-to-leave-the-facebook-universe/",
             "updated": 1541023200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2018/experience-rot/",
             "title": "Experience Rot",
             "link": "https://petercammeraat.net/journal/2018/experience-rot/",
             "updated": 1534024800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2018/food-rules-by-michael-pollan/",
             "title": "Food Rules by Michael Pollan",
             "link": "https://petercammeraat.net/journal/2018/food-rules-by-michael-pollan/",
             "updated": 1521756000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2017/ted-talks-of-2017/",
             "title": "TED Talks of 2017",
             "link": "https://petercammeraat.net/journal/2017/ted-talks-of-2017/",
             "updated": 1514671200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2016/ted-talks-of-2016/",
             "title": "TED Talks of 2016",
             "link": "https://petercammeraat.net/journal/2016/ted-talks-of-2016/",
             "updated": 1483135200,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2016/superintelligence/",
             "title": "Superintelligence: The Idea That Eats Smart People",
             "link": "https://petercammeraat.net/journal/2016/superintelligence/",
             "updated": 1482789600,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2016/why-i-developed-fletta/",
             "title": "Why I developed Fletta?",
             "link": "https://petercammeraat.net/journal/2016/why-i-developed-fletta/",
             "updated": 1451944800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2016/the-website-obesity-crisis/",
             "title": "The Website Obesity Crisis",
             "link": "https://petercammeraat.net/journal/2016/the-website-obesity-crisis/",
             "updated": 1451772000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2015/ted-talks-of-2015/",
             "title": "TED Talks of 2015",
             "link": "https://petercammeraat.net/journal/2015/ted-talks-of-2015/",
             "updated": 1451512800,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         },
         {
             "id": "https://petercammeraat.net/journal/2015/what-happens-next-will-amaze-you/",
             "title": "What Happens Next Will Amaze You",
             "link": "https://petercammeraat.net/journal/2015/what-happens-next-will-amaze-you/",
             "updated": 1443132000,
-            "site_url": "https://petercammeraat.net"
+            "site_url": "https://petercammeraat.net",
+            "slug": "development"
         }
     ]
 }

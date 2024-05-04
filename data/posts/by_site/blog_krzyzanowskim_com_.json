@@ -6,105 +6,120 @@
             "title": "Local unit tests with Xcode",
             "link": "https://blog.krzyzanowskim.com/2020/09/28/local-unit-tests-with-xcode/",
             "updated": 1601304097,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5f01fe949ba72b003977112b",
             "title": "CoreText Swift Academy - part 3",
             "link": "https://blog.krzyzanowskim.com/2020/07/13/coretext-swift-academy-part-3/",
             "updated": 1594628580,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5f01b0279ba72b0039770fc7",
             "title": "CoreText Swift Academy - part 2",
             "link": "https://blog.krzyzanowskim.com/2020/07/10/coretext-swift-academy-part-2/",
             "updated": 1594369380,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5e9d7185d264700038b26cff",
             "title": "CoreText Swift Academy - part 1",
             "link": "https://blog.krzyzanowskim.com/2020/07/09/coretext-academy-part-1/",
             "updated": 1594282980,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5e9d9f73d264700038b26d13",
             "title": "Use consumer rights to refund for faulty MacBook - diary",
             "link": "https://blog.krzyzanowskim.com/2020/04/27/use-consumer-rights-to-refund-for-faulty-macbook-diary/",
             "updated": 1587978000,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5e16167de310840038f8f5fd",
             "title": "JSON Coding is what we need 90% of the time",
             "link": "https://blog.krzyzanowskim.com/2020/01/08/json-coding-is-what-we-need-90-of-the-time/",
             "updated": 1578486945,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5db94f4ebb9b47003816d25f",
             "title": "URL Bookmarks: yes and no",
             "link": "https://blog.krzyzanowskim.com/2019/12/05/url-bookmark-yes-and-no/",
             "updated": 1575508440,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5c3a0ff104f5f600bfac6622",
             "title": "The lost art of legendary Apple UX",
             "link": "https://blog.krzyzanowskim.com/2019/01/12/the-lost-art-of-great-apple-ux/",
             "updated": 1547286300,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5c07cf9904f5f600bfac6615",
             "title": "@rpath what?",
             "link": "https://blog.krzyzanowskim.com/2018/12/05/rpath-what/",
             "updated": 1544009533,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5b97c5cf61dd5f00bfc9d0b3",
             "title": "Dealing with Swift toolchain",
             "link": "https://blog.krzyzanowskim.com/2018/10/11/dealing-with-a-swift-toolchain/",
             "updated": 1539245820,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5b0d2e03778cc700bf1ae2fc",
             "title": "Any[Object]",
             "link": "https://blog.krzyzanowskim.com/2018/05/29/any-object/",
             "updated": 1527602640,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5ac644b9f066f80018a7ab5e",
             "title": "Swift Runtime Performance - talk",
             "link": "https://blog.krzyzanowskim.com/2017/11/28/swift-runtime-performance/",
             "updated": 1511835900,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5ac644b9f066f80018a7ab5d",
             "title": "Funding (my) OpenSource work",
             "link": "https://blog.krzyzanowskim.com/2017/11/02/funding-my-opensource-work/",
             "updated": 1509628080,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5ac644b9f066f80018a7ab5b",
             "title": "Selling t-shirt > selling mobile apps. Dinosaurs.",
             "link": "https://blog.krzyzanowskim.com/2017/05/10/selling-t-shirt-selling-mobile-apps/",
             "updated": 1494413940,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         },
         {
             "id": "5ac644b9f066f80018a7ab5a",
             "title": "Framed faces. The real world status board.",
             "link": "https://blog.krzyzanowskim.com/2017/02/21/framed-faces-the-real-world-status-board/",
             "updated": 1487666770,
-            "site_url": "https://blog.krzyzanowskim.com/"
+            "site_url": "https://blog.krzyzanowskim.com/",
+            "slug": "development"
         }
     ]
 }

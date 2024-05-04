@@ -6,70 +6,80 @@
             "title": "Open-Source-Project: Audiograph",
             "link": "https://anerma.de/blog/open-source-project-audiograph",
             "updated": 1580576400,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/swiftui-loading-persistant-data",
             "title": "SwiftUI: Loading Persistent Data",
             "link": "https://anerma.de/blog/swiftui-loading-persistant-data",
             "updated": 1564246800,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/tear-down-trade-republic-charts",
             "title": "Tear-Down: Trade Republic Charts",
             "link": "https://anerma.de/blog/tear-down-trade-republic-charts",
             "updated": 1558112400,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/on-the-limitations-of-characterset",
             "title": "On the Limitations of CharacterSet",
             "link": "https://anerma.de/blog/on-the-limitations-of-characterset",
             "updated": 1555866000,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/overlooked-api-of-the-day-nscache",
             "title": "Overlooked API of the Day: NSCache",
             "link": "https://anerma.de/blog/overlooked-api-of-the-day-nscache",
             "updated": 1544461200,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/overlooked-api-of-the-day-nsorderedset",
             "title": "Overlooked API of the Day: NSOrderedSet",
             "link": "https://anerma.de/blog/overlooked-api-of-the-day-nsorderedset",
             "updated": 1544461200,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/overlooked-api-of-the-day",
             "title": "Overlooked API of the Day: NSCountedSet",
             "link": "https://anerma.de/blog/overlooked-api-of-the-day",
             "updated": 1544374800,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/advanced-debugging-with-xcode-and-lldb-sharing-my-notes",
             "title": "Advanced Debugging with Xcode and LLDB \u2013 Sharing my Notes",
             "link": "https://anerma.de/blog/advanced-debugging-with-xcode-and-lldb-sharing-my-notes",
             "updated": 1530291600,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/open-source-feedbackcontroller",
             "title": "Open Source: FeedbackController",
             "link": "https://anerma.de/blog/open-source-feedbackcontroller",
             "updated": 1526576400,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         },
         {
             "id": "https://anerma.de/blog/feed/blog/memory-management-of-value-types",
             "title": "Memory Management of Value Types",
             "link": "https://anerma.de/blog/memory-management-of-value-types",
             "updated": 1525280400,
-            "site_url": "https://anerma.de/blog/"
+            "site_url": "https://anerma.de/blog/",
+            "slug": "development"
         }
     ]
 }

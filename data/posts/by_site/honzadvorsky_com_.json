@@ -6,224 +6,256 @@
             "title": "Introducing Swift OpenAPI Generator",
             "link": "http://honzadvorsky.com/articles/2023-06-13-11-00-introducing_swift_openapi_generator/",
             "updated": 1686628800,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2022-09-19-12-00-teslacek_tesla_elon_us_politics/",
             "title": "Teslacek: Tesla, Elon, US Politics (\ud83c\udde8\ud83c\uddff)",
             "link": "http://honzadvorsky.com/articles/2022-09-19-12-00-teslacek_tesla_elon_us_politics/",
             "updated": 1663563600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2022-05-25-11-30-politickej_podcast/",
             "title": "Politickej Podcast: US/EU Politics (\ud83c\udde8\ud83c\uddff)",
             "link": "http://honzadvorsky.com/articles/2022-05-25-11-30-politickej_podcast/",
             "updated": 1653453000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2020-12-04-11-30-e15_tesla/",
             "title": "E15: Tesla (\ud83c\udde8\ud83c\uddff)",
             "link": "http://honzadvorsky.com/articles/2020-12-04-11-30-e15_tesla/",
             "updated": 1607056200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2019-06-09-17-10-wwdc_2019_getting_started_with_xcode/",
             "title": "WWDC 2019: Getting Started with Xcode",
             "link": "http://honzadvorsky.com/articles/2019-06-09-17-10-wwdc_2019_getting_started_with_xcode/",
             "updated": 1560075600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2018-10-21-19-00-redbull_podcast_interview_in_czech/",
             "title": "RedBull Podcast Interview (in Czech \ud83c\udde8\ud83c\uddff)",
             "link": "http://honzadvorsky.com/articles/2018-10-21-19-00-redbull_podcast_interview_in_czech/",
             "updated": 1540123200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2018-10-21-18-50-e15__infocz_smart_future/",
             "title": "E15 & Info.cz: Smart Future (\ud83c\udde8\ud83c\uddff)",
             "link": "http://honzadvorsky.com/articles/2018-10-21-18-50-e15__infocz_smart_future/",
             "updated": 1540122600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2018-06-09-10-00-wwdc_2018_whats_new_in_testing/",
             "title": "WWDC 2018: What's New in Testing",
             "link": "http://honzadvorsky.com/articles/2018-06-09-10-00-wwdc_2018_whats_new_in_testing/",
             "updated": 1528254000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2017-09-14-12-57-wwdc_whats_new_in_testing/",
             "title": "WWDC 2017: What's new in Testing",
             "link": "http://honzadvorsky.com/articles/2017-09-14-12-57-wwdc_whats_new_in_testing/",
             "updated": 1496923200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-09-29-19-00-mdevtalk_swift_package_manager/",
             "title": "mDevTalk: Swift Package Manager",
             "link": "http://honzadvorsky.com/articles/2016-09-29-19-00-mdevtalk_swift_package_manager/",
             "updated": 1475150400,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-09-15-11-50-transition/",
             "title": "Transition",
             "link": "http://honzadvorsky.com/articles/2016-09-15-11-50-transition/",
             "updated": 1473915000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-08-08-17-00-back_to_work/",
             "title": "Back to work",
             "link": "http://honzadvorsky.com/articles/2016-08-08-17-00-back_to_work/",
             "updated": 1470650400,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-06-30-19-00-nslondon_swift_package_manager/",
             "title": "NSLondon: Swift Package Manager",
             "link": "http://honzadvorsky.com/articles/2016-06-30-19-00-nslondon_swift_package_manager/",
             "updated": 1467288000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/",
             "title": "3 Steps to marry Xcode with Swift Package Manager",
             "link": "http://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/",
             "updated": 1456383600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2016-01-24-01-00-my_favorite_podcasts/",
             "title": "My Favorite Podcasts",
             "link": "http://honzadvorsky.com/articles/2016-01-24-01-00-my_favorite_podcasts/",
             "updated": 1453572000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-10-21-17-40-xcode_server_tutorials_4_certificates__provisioning_profiles/",
             "title": "Xcode Server Tutorials: 4. Certificates & Provisioning Profiles",
             "link": "http://honzadvorsky.com/articles/2015-10-21-17-40-xcode_server_tutorials_4_certificates__provisioning_profiles/",
             "updated": 1445424000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-09-14-15-00-xcode_server_hacks_3_install_cli_tools_for_xcsbuildd/",
             "title": "Xcode Server Hacks: 3. Install CLI tools for _xcsbuildd",
             "link": "http://honzadvorsky.com/articles/2015-09-14-15-00-xcode_server_hacks_3_install_cli_tools_for_xcsbuildd/",
             "updated": 1442217600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-09-08-15-00-iosdevuk__custom_keyboards_101/",
             "title": "iOSDevUK - Custom Keyboards",
             "link": "http://honzadvorsky.com/articles/2015-09-08-15-00-iosdevuk__custom_keyboards_101/",
             "updated": 1441700520,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-08-17-17-30-xcode_server_tutorials_3_prebuild__postbuild_scripts/",
             "title": "Xcode Server Tutorials: 3. Prebuild & Postbuild Scripts",
             "link": "http://honzadvorsky.com/articles/2015-08-17-17-30-xcode_server_tutorials_3_prebuild__postbuild_scripts/",
             "updated": 1439807400,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-08-15-20-05-back_to_school/",
             "title": "Back to School",
             "link": "http://honzadvorsky.com/articles/2015-08-15-20-05-back_to_school/",
             "updated": 1439643900,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-08-12-xcode_server_hacks_cli_xcscontrol/",
             "title": "Xcode Server Hacks: 2. Taking control with xcscontrol",
             "link": "http://honzadvorsky.com/articles/2015-08-12-xcode_server_hacks_cli_xcscontrol/",
             "updated": 1439375400,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-08-06-xcs_tutorials_2_integrations/",
             "title": "Xcode Server Tutorials: 2. Integrations",
             "link": "http://honzadvorsky.com/articles/2015-08-06-xcs_tutorials_2_integrations/",
             "updated": 1438856400,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-08-04-xcs_tutorials_1_getting_started/",
             "title": "Xcode Server Tutorials: 1. Getting Started",
             "link": "http://honzadvorsky.com/articles/2015-08-04-xcs_tutorials_1_getting_started/",
             "updated": 1438684200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-05-28-nslondon-continuous-integration-on-the-edge/",
             "title": "NSLondon - Continuous Integration on the Edge",
             "link": "http://honzadvorsky.com/articles/2015-05-28-nslondon-continuous-integration-on-the-edge/",
             "updated": 1432825200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-05-14-run-terminal-scripts-from-swift-in-a-mac-app/",
             "title": "Run Terminal Scripts from Swift in your Mac app",
             "link": "http://honzadvorsky.com/articles/2015-05-14-run-terminal-scripts-from-swift-in-a-mac-app/",
             "updated": 1431610200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-05-04-under-the-hood-of-xcode-server/",
             "title": "Xcode Server Hacks: 1. Under the Hood of Xcode Server",
             "link": "http://honzadvorsky.com/articles/2015-05-04-under-the-hood-of-xcode-server/",
             "updated": 1430719200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-04-19-wwdc-and-my-origin-story/",
             "title": "WWDC and my Origin Story",
             "link": "http://honzadvorsky.com/articles/2015-04-19-wwdc-and-my-origin-story/",
             "updated": 1429450200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-03-07-on-typescript-and-ass-saving/",
             "title": "On TypeScript and ass-saving",
             "link": "http://honzadvorsky.com/articles/2015-03-07-on-typescript-and-ass-saving/",
             "updated": 1425735000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-02-05-on-swiftkey-for-ios-12/",
             "title": "On SwiftKey for iOS 1.2",
             "link": "http://honzadvorsky.com/articles/2015-02-05-on-swiftkey-for-ios-12/",
             "updated": 1423143000,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-02-04-on-podcasts-ep1-the-talk-show/",
             "title": "On My Favorite Podcasts, Ep. 1 - The Talk Show",
             "link": "http://honzadvorsky.com/articles/2015-02-04-on-podcasts-ep1-the-talk-show/",
             "updated": 1423056600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-02-03-on-jobs-famous-dislike-of-styli/",
             "title": "On Jobs\u2019 (famous) dislike of styli",
             "link": "http://honzadvorsky.com/articles/2015-02-03-on-jobs-famous-dislike-of-styli/",
             "updated": 1422970200,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         },
         {
             "id": "http://honzadvorsky.com/articles/2015-01-10-happy-holidays-from-swiftkey-narrated-by-yours-truly/",
             "title": "Happy Holidays from SwiftKey (narrated by yours truly)",
             "link": "http://honzadvorsky.com/articles/2015-01-10-happy-holidays-from-swiftkey-narrated-by-yours-truly/",
             "updated": 1420896600,
-            "site_url": "https://honzadvorsky.com/"
+            "site_url": "https://honzadvorsky.com/",
+            "slug": "development"
         }
     ]
 }

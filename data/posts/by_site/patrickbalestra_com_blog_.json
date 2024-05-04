@@ -6,70 +6,80 @@
             "title": "Building a Custom Minimal HomeKit Lamp",
             "link": "https://balestrapatrick.github.io/blog/2020/05/31/building-a-custom-minimal-homekit-lamp.html",
             "updated": 1590858000,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2020/02/09/xcode-find-navigator",
             "title": "Xcode\u2019s Find Navigator &amp; Search Scopes",
             "link": "https://balestrapatrick.github.io/blog/2020/02/09/xcode-find-navigator.html",
             "updated": 1581181200,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed",
             "title": "WWDC 2019 - The Things You May Have Missed",
             "link": "https://balestrapatrick.github.io/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html",
             "updated": 1559840400,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2018/11/12/contributing-to-the-swift-benchmark-suite",
             "title": "Contributing to the Swift Benchmark Suite",
             "link": "https://balestrapatrick.github.io/blog/2018/11/12/contributing-to-the-swift-benchmark-suite.html",
             "updated": 1541955600,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2018/08/27/improving-your-build-time-in-xcode-10",
             "title": "Improving Your Build Time in Xcode 10",
             "link": "https://balestrapatrick.github.io/blog/2018/08/27/improving-your-build-time-in-xcode-10.html",
             "updated": 1535302800,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2018/08/06/my-tech-interviews-experience",
             "title": "My Tech Interviews Experience&amp;#58 Failures, Successes and Tips for you",
             "link": "https://balestrapatrick.github.io/blog/2018/08/06/my-tech-interviews-experience.html",
             "updated": 1533488400,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2017/06/11/wwdc-2017-organizational-thoughts",
             "title": "WWDC 2017 Organizational Thoughts",
             "link": "https://balestrapatrick.github.io/blog/2017/06/11/wwdc-2017-organizational-thoughts.html",
             "updated": 1497163288,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2017/01/28/how-to-improve-your-github-readme",
             "title": "How to Improve Your GitHub README",
             "link": "https://balestrapatrick.github.io/blog/2017/01/28/how-to-improve-your-github-readme.html",
             "updated": 1485569077,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2016/12/28/homekit-automation",
             "title": "Automating my Bedroom with HomeKit",
             "link": "https://balestrapatrick.github.io/blog/2016/12/28/homekit-automation.html",
             "updated": 1482871190,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://balestrapatrick.github.io/blog/2016/06/16/playground-in-xcode-8",
             "title": "Playground in Xcode 8",
             "link": "https://balestrapatrick.github.io/blog/2016/06/16/playground-in-xcode-8.html",
             "updated": 1466054520,
-            "site_url": "https://patrickbalestra.com/blog/"
+            "site_url": "https://patrickbalestra.com/blog/",
+            "slug": "development"
         }
     ]
 }

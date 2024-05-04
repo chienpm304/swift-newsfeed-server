@@ -6,70 +6,80 @@
             "title": "Log in with Spotify from your app in Swift",
             "link": "https://medium.com/swift-and-ios-writing/log-in-with-spotify-from-your-app-in-swift-7fed49b6618?source=rss-35d1429e88f9------2",
             "updated": 1504167494,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/aad64e17878e",
             "title": "Introspect and modify classes at runtime in your Swift app",
             "link": "https://medium.com/swift-and-ios-writing/introspect-and-modify-classes-at-runtime-in-your-swift-app-aad64e17878e?source=rss-35d1429e88f9------2",
             "updated": 1479215240,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/732bef6e1838",
             "title": "A quick look at Grand Central Dispatch and Swift 3",
             "link": "https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838?source=rss-35d1429e88f9------2",
             "updated": 1468938249,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a107fb9da5b5",
             "title": "A quick look at UIViewPropertyAnimator",
             "link": "https://medium.com/swift-and-ios-writing/a-quick-look-at-uiviewpropertyanimator-a107fb9da5b5?source=rss-35d1429e88f9------2",
             "updated": 1465865349,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e16c9d11fd8",
             "title": "Interactive gesture-driven animations in your iOS app (in Swift)",
             "link": "https://medium.com/swift-and-ios-writing/interactive-gesture-driven-animations-in-your-ios-app-in-swift-e16c9d11fd8?source=rss-35d1429e88f9------2",
             "updated": 1462286638,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/66143ba23a65",
             "title": "I  Storyboards & Nibs",
             "link": "https://medium.com/swift-and-ios-writing/i-storyboards-nibs-66143ba23a65?source=rss-35d1429e88f9------2",
             "updated": 1459140076,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/63c677c0b42",
             "title": "Bringing Peek and Pop to all iOS users",
             "link": "https://medium.com/swift-and-ios-writing/bringing-peek-and-pop-to-all-ios-users-63c677c0b42?source=rss-35d1429e88f9------2",
             "updated": 1457999784,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bfbe9acd35ff",
             "title": "Browsing files in your iOS app in Swift",
             "link": "https://medium.com/swift-and-ios-writing/browsing-files-in-your-ios-app-in-swift-bfbe9acd35ff?source=rss-35d1429e88f9------2",
             "updated": 1455641465,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/1b33a82b4b88",
             "title": "Zipping and unzipping files in your Swift app",
             "link": "https://medium.com/swift-and-ios-writing/zipping-and-unzipping-files-in-your-swift-app-1b33a82b4b88?source=rss-35d1429e88f9------2",
             "updated": 1453307889,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d041d7b701d9",
             "title": "Using a C library inside a Swift framework",
             "link": "https://medium.com/swift-and-ios-writing/using-a-c-library-inside-a-swift-framework-d041d7b701d9?source=rss-35d1429e88f9------2",
             "updated": 1453306850,
-            "site_url": "https://medium.com/@marmelroy"
+            "site_url": "https://medium.com/@marmelroy",
+            "slug": "development"
         }
     ]
 }

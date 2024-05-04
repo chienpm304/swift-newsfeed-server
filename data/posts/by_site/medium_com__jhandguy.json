@@ -6,70 +6,80 @@
             "title": "Farewell, ECS! Hello, EKS: A Kubernetes Migration Story",
             "link": "https://code.egym.de/farewell-ecs-hello-eks-a-kubernetes-migration-story-0b89f95fbf0a?source=rss-60d6fa56fda3------2",
             "updated": 1709090497,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b12a5c61393f",
             "title": "Vertical Pod Autoscaler in Kubernetes",
             "link": "https://code.egym.de/vertical-pod-autoscaler-in-kubernetes-b12a5c61393f?source=rss-60d6fa56fda3------2",
             "updated": 1701575900,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d2b8bc3a019d",
             "title": "Horizontal Pod Autoscaler in Kubernetes (Part 2)\u200a\u2014\u200aAdvanced Autoscaling using Prometheus Adapter",
             "link": "https://code.egym.de/horizontal-pod-autoscaler-in-kubernetes-part-2-advanced-autoscaling-using-prometheus-adapter-d2b8bc3a019d?source=rss-60d6fa56fda3------2",
             "updated": 1701575540,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/929e96cc2ab2",
             "title": "Horizontal Pod Autoscaler in Kubernetes (Part 1)\u200a\u2014\u200aSimple Autoscaling using Metrics Server",
             "link": "https://code.egym.de/horizontal-pod-autoscaler-in-kubernetes-part-1-simple-autoscaling-using-metrics-server-929e96cc2ab2?source=rss-60d6fa56fda3------2",
             "updated": 1701575363,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/47992d72222c",
             "title": "Canary Deployment in Kubernetes (Part 3)\u200a\u2014\u200aSmart Canary Deployment using Argo Rollouts and\u2026",
             "link": "https://code.egym.de/canary-deployment-in-kubernetes-part-3-smart-canary-deployment-using-argo-rollouts-and-47992d72222c?source=rss-60d6fa56fda3------2",
             "updated": 1701575061,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f8f5da2b0f38",
             "title": "Canary Deployment in Kubernetes (Part 1)\u200a\u2014\u200aSimple Canary Deployment using Ingress NGINX",
             "link": "https://code.egym.de/canary-deployment-in-kubernetes-part-1-simple-canary-deployment-using-ingress-nginx-f8f5da2b0f38?source=rss-60d6fa56fda3------2",
             "updated": 1701575035,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/8a3550d5a434",
             "title": "Canary Deployment in Kubernetes (Part 2)\u200a\u2014\u200aAutomated Canary Deployment using Argo Rollouts",
             "link": "https://code.egym.de/canary-deployment-in-kubernetes-part-2-automated-canary-deployment-using-argo-rollouts-8a3550d5a434?source=rss-60d6fa56fda3------2",
             "updated": 1701575006,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/3ae552ed7ea9",
             "title": "Incremental Mobile Force Update using Ingress NGINX and Firebase Remote Config",
             "link": "https://code.egym.de/incremental-mobile-force-update-using-ingress-nginx-and-firebase-remote-config-3ae552ed7ea9?source=rss-60d6fa56fda3------2",
             "updated": 1701308374,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a631fcdffb43",
             "title": "A Path to CI / CD Nirvana in iOS",
             "link": "https://code.egym.de/a-path-to-ci-cd-nirvana-in-ios-a631fcdffb43?source=rss-60d6fa56fda3------2",
             "updated": 1660733787,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/6e0dfb72514d",
             "title": "UI Testing in iOS - Robot Pattern",
             "link": "https://code.egym.de/ui-testing-in-ios-robot-pattern-6e0dfb72514d?source=rss-60d6fa56fda3------2",
             "updated": 1654396926,
-            "site_url": "https://medium.com/@jhandguy"
+            "site_url": "https://medium.com/@jhandguy",
+            "slug": "development"
         }
     ]
 }

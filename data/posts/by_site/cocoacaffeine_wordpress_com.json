@@ -6,70 +6,80 @@
             "title": "A New Year, a New Beginning\u2026",
             "link": "https://cocoacaffeine.wordpress.com/2018/01/16/a-new-year-a-new-beginning/",
             "updated": 1516017708,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=267",
             "title": "Machine Learning with CoreML",
             "link": "https://cocoacaffeine.wordpress.com/2017/07/11/machine-learning-with-coreml/",
             "updated": 1499767404,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=229",
             "title": "Swift 2.0 and Unit Testing",
             "link": "https://cocoacaffeine.wordpress.com/2015/08/07/swift-2-0-and-unit-testing/",
             "updated": 1438874874,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=204",
             "title": "Asynchronous Networking Approaches\u2026",
             "link": "https://cocoacaffeine.wordpress.com/2015/01/29/asynchronous-networking-approaches/",
             "updated": 1422521347,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=189",
             "title": "Apple Watch Glance and Inter Device Communications\u2026",
             "link": "https://cocoacaffeine.wordpress.com/2014/12/22/apple-watch-glance-and-inter-device-communications/",
             "updated": 1419187683,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=171",
             "title": "Apple Watch Notifications",
             "link": "https://cocoacaffeine.wordpress.com/2014/12/04/watch-notifications/",
             "updated": 1417641145,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=131",
             "title": "Watch and Learn!",
             "link": "https://cocoacaffeine.wordpress.com/2014/11/28/watch-and-learn/",
             "updated": 1417107089,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=100",
             "title": "A UITableViewCell Jeopardy",
             "link": "https://cocoacaffeine.wordpress.com/2014/02/27/a-uitableviewcell-jeopardy/",
             "updated": 1393426537,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=82",
             "title": "Little tricks of Accessibility",
             "link": "https://cocoacaffeine.wordpress.com/2013/11/29/little-tricks-of-accessibility/",
             "updated": 1385657432,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         },
         {
             "id": "http://cocoacaffeine.wordpress.com/?p=80",
             "title": "Difference between #import and #include",
             "link": "https://cocoacaffeine.wordpress.com/2013/08/02/difference-between-import-and-include/",
             "updated": 1375377334,
-            "site_url": "https://cocoacaffeine.wordpress.com"
+            "site_url": "https://cocoacaffeine.wordpress.com",
+            "slug": "development"
         }
     ]
 }

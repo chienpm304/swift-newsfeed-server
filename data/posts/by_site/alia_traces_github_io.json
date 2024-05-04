@@ -6,70 +6,80 @@
             "title": "Green Shoots (Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2021/12/31/green-shoots.html",
             "updated": 1640925980,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/12/31/maskless-capeless-free",
             "title": "Maskless, capeless, free (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/12/31/maskless-capeless-free.html",
             "updated": 1609389980,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/12/31/kept-in-a-box",
             "title": "Kept in a box (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/12/31/kept-in-a-box.html",
             "updated": 1609386380,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/10/03/backlight",
             "title": "Backlight (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/10/03/backlight.html",
             "updated": 1601700380,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/xcode/ios/mac/tools/2020/08/29/xcode-12-tabs",
             "title": "Organising your workflow with tab groups in Xcode 12",
             "link": "http://localhost:4000/xcode/ios/mac/tools/2020/08/29/xcode-12-tabs.html",
             "updated": 1598655600,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/07/24/reconstruction",
             "title": "Reconstruction (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/07/24/reconstruction.html",
             "updated": 1595565980,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/metal/tools/xcode/2020/07/18/adding-framecapture-outside-of-xcode",
             "title": "How to use Metal frame capture outside of Xcode",
             "link": "http://localhost:4000/metal/tools/xcode/2020/07/18/adding-framecapture-outside-of-xcode.html",
             "updated": 1595047580,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/07/11/end-of-an-era",
             "title": "End of an Era (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/07/11/end-of-an-era.html",
             "updated": 1594442780,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/06/20/cloth",
             "title": "Cloth!!! (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/06/20/cloth.html",
             "updated": 1592628380,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         },
         {
             "id": "http://localhost:4000/demoscene/metal/pathtracing/2020/05/22/ice-core",
             "title": "Ice Core (4KB Executable Graphics)",
             "link": "http://localhost:4000/demoscene/metal/pathtracing/2020/05/22/ice-core.html",
             "updated": 1590122780,
-            "site_url": "https://alia-traces.github.io"
+            "site_url": "https://alia-traces.github.io",
+            "slug": "development"
         }
     ]
 }

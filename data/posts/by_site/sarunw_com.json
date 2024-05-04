@@ -6,49 +6,56 @@
             "title": "Animating number changes in SwiftUI",
             "link": "https://sarunw.com/posts/animating-number-changes-in-swiftui/",
             "updated": 1699981200,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/how-to-create-custom-view-modifier-in-swiftui/",
             "title": "How to create custom view modifiers in SwiftUI",
             "link": "https://sarunw.com/posts/how-to-create-custom-view-modifier-in-swiftui/",
             "updated": 1699376400,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/how-to-request-users-to-review-app-in-swiftui/",
             "title": "How to request users to review your app in SwiftUI",
             "link": "https://sarunw.com/posts/how-to-request-users-to-review-app-in-swiftui/",
             "updated": 1698771600,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/how-to-copy-text-to-clipboard-in-ios/",
             "title": "How to copy text to the clipboard in iOS",
             "link": "https://sarunw.com/posts/how-to-copy-text-to-clipboard-in-ios/",
             "updated": 1697994000,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/how-to-request-users-to-review-app-in-uikit/",
             "title": "How to request users to review your app in UIKit",
             "link": "https://sarunw.com/posts/how-to-request-users-to-review-app-in-uikit/",
             "updated": 1697389200,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/dismiss-keyboard-in-swiftui/",
             "title": "How to dismiss Keyboard in SwiftUI",
             "link": "https://sarunw.com/posts/dismiss-keyboard-in-swiftui/",
             "updated": 1696784400,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         },
         {
             "id": "https://sarunw.com/posts/how-to-break-multiple-nested-loops-in-swift/",
             "title": "How to break multiple nested loops in Swift",
             "link": "https://sarunw.com/posts/how-to-break-multiple-nested-loops-in-swift/",
             "updated": 1696179600,
-            "site_url": "https://sarunw.com"
+            "site_url": "https://sarunw.com",
+            "slug": "development"
         }
     ]
 }

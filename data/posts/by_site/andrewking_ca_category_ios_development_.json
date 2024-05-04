@@ -6,49 +6,56 @@
             "title": "How to Enable Custom Debugging in Release Builds",
             "link": "https://andrewking.ca/2020/04/how-to-enable-custom-debugging-in-release-builds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-enable-custom-debugging-in-release-builds",
             "updated": 1588012917,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=427",
             "title": "Using a Swift PropertyWrapper to ensure a closure is only called once",
             "link": "https://andrewking.ca/2020/02/using-a-swift-propertywrapper-to-ensure-a-closure-is-only-called-once/?utm_source=rss&utm_medium=rss&utm_campaign=using-a-swift-propertywrapper-to-ensure-a-closure-is-only-called-once",
             "updated": 1582784685,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=421",
             "title": "When is it *good* for your App to crash?",
             "link": "https://andrewking.ca/2020/02/when-is-it-good-for-your-app-to-crash/?utm_source=rss&utm_medium=rss&utm_campaign=when-is-it-good-for-your-app-to-crash",
             "updated": 1581966896,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=408",
             "title": "Why Agile-at-Scale is So Painful for Developers",
             "link": "https://andrewking.ca/2020/02/why-agile-at-scale-is-so-painful-for-developers/?utm_source=rss&utm_medium=rss&utm_campaign=why-agile-at-scale-is-so-painful-for-developers",
             "updated": 1580759510,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=406",
             "title": "How to do High-Bar Code Review Without Being a Jerk",
             "link": "https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-do-high-bar-code-review-without-being-a-jerk",
             "updated": 1579947287,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=346",
             "title": "Clean Architecture \u2013 SOLID Design Principles Summary",
             "link": "https://andrewking.ca/2018/04/clean-architecture-solid-design-principles-summary/?utm_source=rss&utm_medium=rss&utm_campaign=clean-architecture-solid-design-principles-summary",
             "updated": 1523088886,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         },
         {
             "id": "http://andrewking.ca/?p=328",
             "title": "Auto Increment Build Number in Xcode",
             "link": "https://andrewking.ca/2014/03/auto-increment-build-number-in-xcode/?utm_source=rss&utm_medium=rss&utm_campaign=auto-increment-build-number-in-xcode",
             "updated": 1396264946,
-            "site_url": "https://andrewking.ca/category/ios-development/"
+            "site_url": "https://andrewking.ca/category/ios-development/",
+            "slug": "development"
         }
     ]
 }

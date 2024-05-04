@@ -6,70 +6,80 @@
             "title": "Folder Comparison Reinvented",
             "link": "https://blog.kaleidoscope.app/2024/04/16/folder-comparison-reinvented/",
             "updated": 1713247553,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=3277",
             "title": "Kaleidoscope 4.3 improves Git File History and Git Merges with Markdown and more",
             "link": "https://blog.kaleidoscope.app/2023/11/15/kaleidoscope-4-3-improves-git-file-history-and-git-merges-with-markdown-and-more/",
             "updated": 1700026673,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=3213",
             "title": "Working with temporary content, ksdiff, and Git \u2013 The Kaleidoscope File Shelf, Part 2",
             "link": "https://blog.kaleidoscope.app/2023/11/07/working-with-temporary-content-ksdiff-and-git-the-kaleidoscope-file-shelf-part-2/",
             "updated": 1699342962,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=3085",
             "title": "Conquer multi-file comparisons \u2013 The Kaleidoscope File Shelf, Part 1",
             "link": "https://blog.kaleidoscope.app/2023/10/12/conquer-multi-file-comparisons-the-kaleidoscope-file-shelf-part-1/",
             "updated": 1697070264,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2999",
             "title": "The Cure for Merge Madness",
             "link": "https://blog.kaleidoscope.app/2023/09/22/the-cure-for-merge-madness/",
             "updated": 1695367464,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2982",
             "title": "The Benefits of a Visual Merge Tool",
             "link": "https://blog.kaleidoscope.app/2023/09/05/the-benefits-of-a-visual-merge-tool/",
             "updated": 1693905477,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2927",
             "title": "Using Git File History from other apps",
             "link": "https://blog.kaleidoscope.app/2023/08/22/using-git-file-history-from-other-apps/",
             "updated": 1692696429,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2860",
             "title": "Kaleidoscope 4.1 and Git",
             "link": "https://blog.kaleidoscope.app/2023/08/08/kaleidoscope-4-1-and-git/",
             "updated": 1691476962,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2736",
             "title": "Kaleidoscope Prism",
             "link": "https://blog.kaleidoscope.app/2023/07/24/kaleidoscope-prism/",
             "updated": 1690189868,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         },
         {
             "id": "https://blog.kaleidoscope.app/?p=2700",
             "title": "Edit comparisons on the fly in Kaleidoscope 4",
             "link": "https://blog.kaleidoscope.app/2023/07/07/edit-comparisons-on-the-fly-in-kaleidoscope-4/",
             "updated": 1688692730,
-            "site_url": "https://blog.kaleidoscope.app/"
+            "site_url": "https://blog.kaleidoscope.app/",
+            "slug": "companies"
         }
     ]
 }

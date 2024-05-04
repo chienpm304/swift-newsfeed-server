@@ -6,70 +6,80 @@
             "title": "Running a Command-Line Program from a Mac App",
             "link": "https://www.swiftdevjournal.com/running-a-command-line-program-from-a-mac-app/",
             "updated": 1712572793,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1268",
             "title": "Creating a UIKit Xcode Project",
             "link": "https://www.swiftdevjournal.com/creating-a-uikit-xcode-project/",
             "updated": 1707739336,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1263",
             "title": "How to Learn SwiftUI to Develop Mac Apps",
             "link": "https://www.swiftdevjournal.com/how-to-learn-swiftui-to-develop-mac-apps/",
             "updated": 1707134943,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1259",
             "title": "Deleting an Xcode Project\u2019s Git Repository",
             "link": "https://www.swiftdevjournal.com/deleting-an-xcode-projects-git-repository/",
             "updated": 1706183329,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1251",
             "title": "Where is the Info.plist file?",
             "link": "https://www.swiftdevjournal.com/where-is-the-info-plist-file/",
             "updated": 1704198001,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1241",
             "title": "Dealing with the init(destination:tag:selection ) was deprecated in iOS 16.0 message",
             "link": "https://www.swiftdevjournal.com/dealing-with-the-initdestinationtagselection-was-deprecated-in-ios-16-0-message/",
             "updated": 1702557419,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1229",
             "title": "Dealing with Core Data Duplicate Class Errors",
             "link": "https://www.swiftdevjournal.com/dealing-with-core-data-duplicate-class-errors/",
             "updated": 1700479409,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1213",
             "title": "Highlighting the Selected Item Button in a SwiftUI List",
             "link": "https://www.swiftdevjournal.com/highlighting-the-selected-item-button-in-a-swiftui-list/",
             "updated": 1696848944,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1209",
             "title": "Creating a SwiftUI Toolbar Button with an Image and a Label",
             "link": "https://www.swiftdevjournal.com/creating-a-swiftui-toolbar-button-with-an-image-and-a-label/",
             "updated": 1696249830,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftdevjournal.com/?p=1195",
             "title": "Adding a Help Menu to a SwiftUI App",
             "link": "https://www.swiftdevjournal.com/adding-a-help-menu-to-a-swiftui-app/",
             "updated": 1694429806,
-            "site_url": "https://www.swiftdevjournal.com/"
+            "site_url": "https://www.swiftdevjournal.com/",
+            "slug": "development"
         }
     ]
 }

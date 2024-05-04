@@ -57,7 +57,8 @@ def parse_feed(site):
             "title": entry.title,
             "link": entry.link,
             "updated": updated,
-            "site_url": site_url
+            "site_url": site_url,
+            "slug": site["slug"]
         }
         posts.append(post_dict)
 

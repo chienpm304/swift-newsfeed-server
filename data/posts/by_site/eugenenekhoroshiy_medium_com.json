@@ -6,28 +6,32 @@
             "title": "Coordinator Pattern\u2019s Issues & What is RouteComposer",
             "link": "https://itnext.io/coordinator-patterns-issues-what-is-routecomposer-8b50a0477917?source=rss-e3175bda00e0------2",
             "updated": 1643344007,
-            "site_url": "https://eugenenekhoroshiy.medium.com"
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d053e1ad3aa0",
             "title": "My COVID-19 lockdown project or how I started to dig into a custom UICollectionViewLayout to get a\u2026",
             "link": "https://itnext.io/my-covid-19-lockdown-project-or-how-i-started-to-dig-into-a-custom-uicollectionviewlayout-to-get-a-d053e1ad3aa0?source=rss-e3175bda00e0------2",
             "updated": 1606218223,
-            "site_url": "https://eugenenekhoroshiy.medium.com"
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/3a54661bb16a",
             "title": "Going deeper into the RouteComposer configuration",
             "link": "https://itnext.io/going-deeper-into-the-routecomposer-configuration-3a54661bb16a?source=rss-e3175bda00e0------2",
             "updated": 1566469041,
-            "site_url": "https://eugenenekhoroshiy.medium.com"
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/15b825da5ac",
             "title": "Composition of UIViewControllers and navigation between them (and not only)",
             "link": "https://itnext.io/composition-of-uiviewcontrollers-and-navigation-between-them-and-not-only-15b825da5ac?source=rss-e3175bda00e0------2",
             "updated": 1566468985,
-            "site_url": "https://eugenenekhoroshiy.medium.com"
+            "site_url": "https://eugenenekhoroshiy.medium.com",
+            "slug": "development"
         }
     ]
 }

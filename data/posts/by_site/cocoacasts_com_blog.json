@@ -6,280 +6,320 @@
             "title": "Runtime Issue Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-runtime-issue-breakpoints",
             "updated": 1706657400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-exception-breakpoints",
             "title": "Exception Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-exception-breakpoints",
             "updated": 1704843000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-swift-error-breakpoints",
             "title": "Swift Error Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-swift-error-breakpoints",
             "updated": 1704238200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-symbolic-breakpoints",
             "title": "Symbolic Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-symbolic-breakpoints",
             "updated": 1697585400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-managing-and-editing-breakpoints",
             "title": "Managing and Editing Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-managing-and-editing-breakpoints",
             "updated": 1696980600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-stepping-through-code-with-breakpoints",
             "title": "Stepping through Code With Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-stepping-through-code-with-breakpoints",
             "updated": 1696375800,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-debugging-with-breakpoints",
             "title": "Debugging with Breakpoints",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-debugging-with-breakpoints",
             "updated": 1695771000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-exploring-xcode-debugging-tools",
             "title": "Exploring Xcode's Debugging Tools",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-exploring-xcode-debugging-tools",
             "updated": 1695166200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/debugging-apps-with-xcode-15-where-to-start",
             "title": "Where to Start",
             "link": "https://cocoacasts.com/debugging-apps-with-xcode-15-where-to-start",
             "updated": 1694734200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-observable-macro",
             "title": "Migrating from ObservableObject to Observable",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-observable-macro",
             "updated": 1693956600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-the-challenges-of-asynchronous-unit-tests",
             "title": "The Challenges of Asynchronous Unit Tests",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-the-challenges-of-asynchronous-unit-tests",
             "updated": 1692142200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-writing-asynchronous-unit-tests",
             "title": "Writing Asynchronous Unit Tests",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-writing-asynchronous-unit-tests",
             "updated": 1690932600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-unit-testing-a-complex-view-model",
             "title": "Unit Testing a Complex View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-unit-testing-a-complex-view-model",
             "updated": 1689723000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-unit-testing-a-simple-view-model",
             "title": "Unit Testing a Simple View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-unit-testing-a-simple-view-model",
             "updated": 1688859000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/how-to-set-up-in-app-purchases-with-revenuecat",
             "title": "How to Set Up In-App Purchases with RevenueCat",
             "link": "https://cocoacasts.com/how-to-set-up-in-app-purchases-with-revenuecat",
             "updated": 1686699000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-injecting-dependencies-with-swinject",
             "title": "Injecting Dependencies with Swinject",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-injecting-dependencies-with-swinject",
             "updated": 1684366200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-deleting-locations",
             "title": "Deleting Locations",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-deleting-locations",
             "updated": 1684193400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-defining-the-states-of-the-location-view",
             "title": "Defining the States of the Location View",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-defining-the-states-of-the-location-view",
             "updated": 1683761400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-location-view-model",
             "title": "Refactoring the Location View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-location-view-model",
             "updated": 1683675000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-forecast-view-model",
             "title": "Refactoring the Forecast View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-forecast-view-model",
             "updated": 1683588600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-current-conditions-view-model",
             "title": "Refactoring the Current Conditions View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-current-conditions-view-model",
             "updated": 1683502200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/setting-up-a-proxy-server-with-swift-and-vapor",
             "title": "Setting Up A Proxy Server with Swift and Vapor",
             "link": "https://cocoacasts.com/setting-up-a-proxy-server-with-swift-and-vapor",
             "updated": 1683415800,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/protecting-secrets-with-a-proxy-server",
             "title": "Protecting Secrets with a Proxy Server",
             "link": "https://cocoacasts.com/protecting-secrets-with-a-proxy-server",
             "updated": 1683329400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-avoiding-code-duplication",
             "title": "Avoiding Code Duplication",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-avoiding-code-duplication",
             "updated": 1683243000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-location-cell-view-model",
             "title": "Refactoring the Location Cell View Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-location-cell-view-model",
             "updated": 1683156600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-injecting-base-url-and-api-key",
             "title": "Injecting Base URL and API Key",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-injecting-base-url-and-api-key",
             "updated": 1683070200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-fetching-weather-data",
             "title": "Fetching Weather Data",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-fetching-weather-data",
             "updated": 1682983800,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-defining-the-weather-data-model",
             "title": "Defining the Weather Data Model",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-defining-the-weather-data-model",
             "updated": 1682897400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/best-gifts-for-programmers-in-2023",
             "title": "What to Gift Your Programmer Friend?",
             "link": "https://cocoacasts.com/best-gifts-for-programmers-in-2023",
             "updated": 1682551800,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-decoupling-user-defaults",
             "title": "Decoupling User Defaults",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-decoupling-user-defaults",
             "updated": 1682465400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-updating-locations-in-user-defaults",
             "title": "Updating Locations in User Defaults",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-updating-locations-in-user-defaults",
             "updated": 1682379000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/swift-fundamentals-what-are-the-benefits-of-the-final-keyword-in-swift",
             "title": "What Are the Benefits of the Final Keyword in Swift",
             "link": "https://cocoacasts.com/swift-fundamentals-what-are-the-benefits-of-the-final-keyword-in-swift",
             "updated": 1682292600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-persisting-locations-in-user-defaults",
             "title": "Persisting Locations in User Defaults",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-persisting-locations-in-user-defaults",
             "updated": 1681255800,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/0-dependencies-from-the-podfile-and-0-total-pods-installed",
             "title": "0 Dependencies from the Podfile and 0 Total Pods Installed",
             "link": "https://cocoacasts.com/0-dependencies-from-the-podfile-and-0-total-pods-installed",
             "updated": 1680910200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/a-gitignore-for-swift-projects",
             "title": "A .gitignore for Swift Projects",
             "link": "https://cocoacasts.com/a-gitignore-for-swift-projects",
             "updated": 1680651000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-add-location-view",
             "title": "Refactoring the Add Location View",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-refactoring-the-add-location-view",
             "updated": 1680651000,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-optimizing-the-user-experience",
             "title": "Optimizing the User Experience",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-optimizing-the-user-experience",
             "updated": 1680046200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-improving-the-testability-of-the-geocoding-client",
             "title": "Improving the Testability of the Geocoding Client",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-improving-the-testability-of-the-geocoding-client",
             "updated": 1679614200,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-core-location-framework",
             "title": "Integrating the Core Location Framework",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-core-location-framework",
             "updated": 1679009400,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-geocoding-service",
             "title": "Integrating the Geocoding Service",
             "link": "https://cocoacasts.com/mastering-model-view-viewmodel-with-swiftui-integrating-the-geocoding-service",
             "updated": 1678836600,
-            "site_url": "https://cocoacasts.com/blog"
+            "site_url": "https://cocoacasts.com/blog",
+            "slug": "development"
         }
     ]
 }

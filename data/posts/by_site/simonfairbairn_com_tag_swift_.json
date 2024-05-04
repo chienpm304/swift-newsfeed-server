@@ -6,70 +6,80 @@
             "title": "What I Learned at DevWorld 2019",
             "link": "https://simonfairbairn.com/devworld-2019/",
             "updated": 1568277034,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2189",
             "title": "Halving and Doubling protocol",
             "link": "https://simonfairbairn.com/halving-and-doubling-protocol/",
             "updated": 1557952217,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2160",
             "title": "Screen Sizes. Again.",
             "link": "https://simonfairbairn.com/screen-sizes-again/",
             "updated": 1556181052,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2147",
             "title": "Sticking Nodes to Corners",
             "link": "https://simonfairbairn.com/sticking-nodes-to-corners/",
             "updated": 1555576239,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2122",
             "title": "Managing ECS Components",
             "link": "https://simonfairbairn.com/managing-ecs-components/",
             "updated": 1553160615,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2105",
             "title": "Revisiting Scene Sizes",
             "link": "https://simonfairbairn.com/revisiting-scene-sizes/",
             "updated": 1552555854,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2066",
             "title": "Moving from Delegates to Closures",
             "link": "https://simonfairbairn.com/delegates-closures/",
             "updated": 1551346207,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=2050",
             "title": "Developing a Reusable Instruction System",
             "link": "https://simonfairbairn.com/developing-a-reusable-instruction-system/",
             "updated": 1550741433,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=1936",
             "title": "External Libraries with the SpriteKit Visual Editor",
             "link": "https://simonfairbairn.com/external-libraries-spritekit-visual-editor/",
             "updated": 1545903022,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         },
         {
             "id": "http://simonfairbairn.com/?p=1929",
             "title": "Reading CSV Files Using the Scanner Class",
             "link": "https://simonfairbairn.com/reading-csv-files-using-the-scanner-class/",
             "updated": 1545298218,
-            "site_url": "https://simonfairbairn.com/tag/swift/"
+            "site_url": "https://simonfairbairn.com/tag/swift/",
+            "slug": "development"
         }
     ]
 }

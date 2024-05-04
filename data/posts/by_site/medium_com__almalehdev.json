@@ -6,70 +6,80 @@
             "title": "My first Swift project",
             "link": "https://medium.com/@almalehdev/my-first-swift-project-c44d22ac2a29?source=rss-1d15c542811f------2",
             "updated": 1710913051,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/c433ff7b3ebe",
             "title": "Concurrency Visualized\u200a\u2014\u200aPart 1: Sync vs Async",
             "link": "https://medium.com/@almalehdev/concurrency-visualized-part-1-sync-vs-async-c433ff7b3ebe?source=rss-1d15c542811f------2",
             "updated": 1587983747,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/356a0145b6d",
             "title": "The Nested Closure Trap",
             "link": "https://medium.com/@almalehdev/the-nested-closure-trap-356a0145b6d?source=rss-1d15c542811f------2",
             "updated": 1584100787,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a778bec505ef",
             "title": "You don\u2019t (always) need [weak self]",
             "link": "https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef?source=rss-1d15c542811f------2",
             "updated": 1583304159,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/2b893e04b97d",
             "title": "Concurrency Visualized\u200a\u2014\u200aPart 3: Pitfalls and Conclusion",
             "link": "https://medium.com/@almalehdev/concurrency-visualized-part-3-pitfalls-and-conclusion-2b893e04b97d?source=rss-1d15c542811f------2",
             "updated": 1582181929,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/fd04e32c20a9",
             "title": "Concurrency Visualized\u200a\u2014\u200aPart 2: Serial vs Concurrent",
             "link": "https://medium.com/@almalehdev/concurrency-visualized-part-2-serial-vs-concurrent-fd04e32c20a9?source=rss-1d15c542811f------2",
             "updated": 1581815064,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/618e76347798",
             "title": "Fireworks\u200a\u2014\u200aA visual particles editor for Swift",
             "link": "https://medium.com/@almalehdev/fireworks-a-visual-particles-editor-for-swift-618e76347798?source=rss-1d15c542811f------2",
             "updated": 1570644192,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/2cb2bc957f6",
             "title": "High performance drawing on iOS\u200a\u2014\u200aPart 2",
             "link": "https://medium.com/@almalehdev/high-performance-drawing-on-ios-part-2-2cb2bc957f6?source=rss-1d15c542811f------2",
             "updated": 1560946039,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f3a24a0dcb31",
             "title": "High performance drawing on iOS \u200a\u2014\u200aPart 1",
             "link": "https://medium.com/@almalehdev/high-performance-drawing-on-ios-part-1-f3a24a0dcb31?source=rss-1d15c542811f------2",
             "updated": 1560706943,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/97d8bb2cc254",
             "title": "How I built my first open source library",
             "link": "https://medium.com/@almalehdev/how-i-built-my-first-open-source-library-97d8bb2cc254?source=rss-1d15c542811f------2",
             "updated": 1557516406,
-            "site_url": "https://medium.com/@almalehdev"
+            "site_url": "https://medium.com/@almalehdev",
+            "slug": "development"
         }
     ]
 }

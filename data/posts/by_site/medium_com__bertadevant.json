@@ -6,14 +6,16 @@
             "title": "Making AR more precise with CoreML",
             "link": "https://medium.com/@bertadevant/making-ar-more-precise-with-coreml-f303dd56897?source=rss-b8fea2ef3b22------2",
             "updated": 1548254906,
-            "site_url": "https://medium.com/@bertadevant"
+            "site_url": "https://medium.com/@bertadevant",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/179033e67e43",
             "title": "Get started and learn how to make your first ARKit application",
             "link": "https://medium.com/@bertadevant/get-started-and-learn-how-to-make-your-first-arkit-application-179033e67e43?source=rss-b8fea2ef3b22------2",
             "updated": 1548254327,
-            "site_url": "https://medium.com/@bertadevant"
+            "site_url": "https://medium.com/@bertadevant",
+            "slug": "development"
         }
     ]
 }

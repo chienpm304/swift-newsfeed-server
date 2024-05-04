@@ -6,70 +6,80 @@
             "title": "Cash Cow Revisited",
             "link": "https://drewmccormack.medium.com/cash-cow-revisited-4c2185e2b3d8?source=rss-4082d9467366------2",
             "updated": 1681452403,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f9ff09dd314f",
             "title": "It\u2019s Time for Apple to Change the App Store Sales Model",
             "link": "https://drewmccormack.medium.com/its-time-for-apple-to-change-the-app-store-sales-model-f9ff09dd314f?source=rss-4082d9467366------2",
             "updated": 1653468008,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/65b79cd11c6a",
             "title": "Here is what SwiftData will be (\u2026and what it could have been)",
             "link": "https://drewmccormack.medium.com/here-is-what-swiftdata-will-be-and-what-it-could-have-been-65b79cd11c6a?source=rss-4082d9467366------2",
             "updated": 1622166669,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/eb7e0fe2ab11",
             "title": "My Steve Story",
             "link": "https://drewmccormack.medium.com/my-steve-story-eb7e0fe2ab11?source=rss-4082d9467366------2",
             "updated": 1602033493,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/138a11995595",
             "title": "A \u2018Cash Cow\u2019 is on the Agenda",
             "link": "https://drewmccormack.medium.com/a-cash-cow-is-on-the-agenda-138a11995595?source=rss-4082d9467366------2",
             "updated": 1601694202,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/4c1f334044bc",
             "title": "Apple\u2019s New CloudKit-Based Core Data Sync",
             "link": "https://drewmccormack.medium.com/apples-new-cloudkit-based-core-data-sync-4c1f334044bc?source=rss-4082d9467366------2",
             "updated": 1560897253,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d0cc70e25f5a",
             "title": "LLVS: Git for App Data",
             "link": "https://drewmccormack.medium.com/llvs-git-for-app-data-d0cc70e25f5a?source=rss-4082d9467366------2",
             "updated": 1559456449,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/35f232215478",
             "title": "The S Word",
             "link": "https://drewmccormack.medium.com/the-s-word-35f232215478?source=rss-4082d9467366------2",
             "updated": 1557316904,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/562a8d0b4923",
             "title": "Value Semantics, Copy-on-Write, and Multi-Threading went into a Bar\u2026",
             "link": "https://drewmccormack.medium.com/value-semantics-copy-on-write-and-multi-threading-went-into-a-bar-562a8d0b4923?source=rss-4082d9467366------2",
             "updated": 1549101658,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/3d925486bf2",
             "title": "Free Trials from Apple\u2019s Perspective",
             "link": "https://drewmccormack.medium.com/free-trials-from-apples-perspective-3d925486bf2?source=rss-4082d9467366------2",
             "updated": 1528862899,
-            "site_url": "https://drewmccormack.medium.com/"
+            "site_url": "https://drewmccormack.medium.com/",
+            "slug": "development"
         }
     ]
 }

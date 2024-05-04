@@ -6,70 +6,80 @@
             "title": "vision pro game in progress",
             "link": "http://chesstris.com/2024/02/09/vision-pro-game-in-progress/",
             "updated": 1707481906,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=14324",
             "title": "Introductory Apple Developer Resources",
             "link": "http://chesstris.com/2023/07/13/introductory-apple-developer-resources/",
             "updated": 1689253119,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=14280",
             "title": "Introducing the Hexagon Grid Generator",
             "link": "http://chesstris.com/2023/07/09/introducing-the-hexagon-grid-generator/",
             "updated": 1688909973,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=14104",
             "title": "Apple Vision Pro \u2013 the wait is over; the wait begins",
             "link": "http://chesstris.com/2023/06/26/apple-vision-pro-the-wait-is-over-the-wait-begins/",
             "updated": 1687789252,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=13039",
             "title": "How Blither uses the coordinator pattern and SwiftUI together",
             "link": "http://chesstris.com/2023/03/23/how-blither-uses-the-coordinator-pattern-and-swiftui-together/",
             "updated": 1679526340,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=4822",
             "title": "Xcode tips and keyboard shortcuts",
             "link": "http://chesstris.com/2021/04/07/xcode-tips-and-keyboard-shortcuts/",
             "updated": 1617802036,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=2233",
             "title": "iOS Updates and version numbers",
             "link": "http://chesstris.com/2018/02/27/ios-updates-and-version-numbers/",
             "updated": 1519731957,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=1974",
             "title": "Using Unity for iOS Development",
             "link": "http://chesstris.com/2017/02/10/using-unity-for-ios-development/",
             "updated": 1486729334,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=1909",
             "title": "Get \u2019em while you can!",
             "link": "http://chesstris.com/2016/09/28/get-em-while-you-can/",
             "updated": 1475054619,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         },
         {
             "id": "http://chesstris.com/?p=1837",
             "title": "Protocols all the way down",
             "link": "http://chesstris.com/2016/06/15/protocols-all-the-way-down/",
             "updated": 1465993837,
-            "site_url": "http://chesstris.com/category/apple/"
+            "site_url": "http://chesstris.com/category/apple/",
+            "slug": "development"
         }
     ]
 }

@@ -6,49 +6,56 @@
             "title": "Introducing SHPKeyboardAwareness - Avoid the iPhone keyboard covering your text fields and views",
             "link": "http://codeblog.shape.dk/blog/2015/04/23/introducing-shpkeyboardawareness-avoid-the-iphone-keyboard-covering-your-text-fields-and-views/",
             "updated": 1429759800,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2014/01/06/custom-ssl-certificate-with-charles-web-proxy",
             "title": "Custom SSL certificate with Charles Web Proxy",
             "link": "http://codeblog.shape.dk/blog/2014/01/06/custom-ssl-certificate-with-charles-web-proxy/",
             "updated": 1388995200,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2013/12/16/live-editing-layout-constants-using-classy",
             "title": "Live editing layout constants using Classy, Masonry and ClassyLiveLayout",
             "link": "http://codeblog.shape.dk/blog/2013/12/16/live-editing-layout-constants-using-classy/",
             "updated": 1387195380,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand",
             "title": "ReactiveCocoa essentials: Understanding and using RACCommand",
             "link": "http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/",
             "updated": 1386233100,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2013/12/02/transparent-oauth-token-refresh-using-reactivecocoa",
             "title": "Transparent OAuth token refresh using ReactiveCocoa",
             "link": "http://codeblog.shape.dk/blog/2013/12/02/transparent-oauth-token-refresh-using-reactivecocoa/",
             "updated": 1385979900,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2013/11/16/wrapping-afnetworking-with-reactivecocoa",
             "title": "Wrapping AFNetworking with ReactiveCocoa",
             "link": "http://codeblog.shape.dk/blog/2013/11/16/wrapping-afnetworking-with-reactivecocoa/",
             "updated": 1384616100,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         },
         {
             "id": "http://codeblog.shape.dk/blog/2013/11/16/welcome-to-the-shape-code-blog",
             "title": "Welcome to the SHAPE code blog",
             "link": "http://codeblog.shape.dk/blog/2013/11/16/welcome-to-the-shape-code-blog/",
             "updated": 1384606320,
-            "site_url": "http://codeblog.shape.dk/"
+            "site_url": "http://codeblog.shape.dk/",
+            "slug": "companies"
         }
     ]
 }

@@ -6,980 +6,1120 @@
             "title": "Encoding and decoding data using the Hummingbird framework",
             "link": "https://theswiftdev.com/encoding-and-decoding-data-using-the-hummingbird-framework/",
             "updated": 1679414400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/hummingbird-routing-and-requests/",
             "title": "Hummingbird routing and requests",
             "link": "https://theswiftdev.com/hummingbird-routing-and-requests/",
             "updated": 1678982400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-server-side-swift-using-the-hummingbird-framework/",
             "title": "Beginner's guide to server-side Swift using the Hummingbird framework",
             "link": "https://theswiftdev.com/beginners-guide-to-server-side-swift-using-the-hummingbird-framework/",
             "updated": 1678204800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/running-and-testing-async-vapor-commands/",
             "title": "Running and testing async Vapor commands",
             "link": "https://theswiftdev.com/running-and-testing-async-vapor-commands/",
             "updated": 1677081600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/running-tasks-in-parallel/",
             "title": "Running tasks in parallel",
             "link": "https://theswiftdev.com/running-tasks-in-parallel/",
             "updated": 1675872000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-abstract-vapor-service-factory-design-pattern/",
             "title": "The abstract Vapor service factory design pattern",
             "link": "https://theswiftdev.com/the-abstract-vapor-service-factory-design-pattern/",
             "updated": 1675180800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swiftnio-tutorial-the-echo-server/",
             "title": "SwiftNIO tutorial - The echo server",
             "link": "https://theswiftdev.com/swiftnio-tutorial-the-echo-server/",
             "updated": 1674662400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/easy-multipart-file-upload-for-swift/",
             "title": "Easy multipart file upload for Swift",
             "link": "https://theswiftdev.com/easy-multipart-file-upload-for-swift/",
             "updated": 1673884800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/utilizing-makefiles-for-swift-projects/",
             "title": "Utilizing Makefiles for Swift projects",
             "link": "https://theswiftdev.com/utilizing-makefiles-for-swift-projects/",
             "updated": 1673280000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/lenses-and-prisms-in-swift/",
             "title": "Lenses and prisms in Swift",
             "link": "https://theswiftdev.com/lenses-and-prisms-in-swift/",
             "updated": 1660230000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-modern-generic-programming-in-swift/",
             "title": "Beginner's guide to modern generic programming in Swift",
             "link": "https://theswiftdev.com/beginners-guide-to-modern-generic-programming-in-swift/",
             "updated": 1656342000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/introduction-to-spm-artifact-bundles/",
             "title": "Introduction to SPM artifact bundles",
             "link": "https://theswiftdev.com/introduction-to-spm-artifact-bundles/",
             "updated": 1653318000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/",
             "title": "Beginner's guide to Swift package manager command plugins",
             "link": "https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/",
             "updated": 1652626800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-visitor-design-pattern/",
             "title": "Swift visitor design pattern",
             "link": "https://theswiftdev.com/swift-visitor-design-pattern/",
             "updated": 1649170800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/working-with-diffable-data-sources-and-table-views-using-uikit/",
             "title": "Working with diffable data sources and table views using UIKit",
             "link": "https://theswiftdev.com/working-with-diffable-data-sources-and-table-views-using-uikit/",
             "updated": 1648051200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/async-http-api-clients-in-swift/",
             "title": "Async HTTP API clients in Swift",
             "link": "https://theswiftdev.com/async-http-api-clients-in-swift/",
             "updated": 1647532800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-swift-arrays/",
             "title": "Beginner's guide to Swift arrays",
             "link": "https://theswiftdev.com/beginners-guide-to-swift-arrays/",
             "updated": 1646841600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-repository-pattern-for-vapor-4/",
             "title": "The repository pattern for Vapor 4",
             "link": "https://theswiftdev.com/the-repository-pattern-for-vapor-4/",
             "updated": 1646236800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-use-a-swift-library-in-c/",
             "title": "How to use a Swift library in C",
             "link": "https://theswiftdev.com/how-to-use-a-swift-library-in-c/",
             "updated": 1645545600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uikit-loadview-vs-viewdidload/",
             "title": "UIKit - loadView vs viewDidLoad",
             "link": "https://theswiftdev.com/uikit-loadview-vs-viewdidload/",
             "updated": 1644336000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/10-little-uikit-tips-you-should-know/",
             "title": "10 little UIKit tips you should know",
             "link": "https://theswiftdev.com/10-little-uikit-tips-you-should-know/",
             "updated": 1643817600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/progressive-web-apps-on-ios/",
             "title": "Progressive Web Apps on iOS",
             "link": "https://theswiftdev.com/progressive-web-apps-on-ios/",
             "updated": 1643212800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-create-a-swift-package-collection/",
             "title": "How to create a Swift package collection?",
             "link": "https://theswiftdev.com/how-to-create-a-swift-package-collection/",
             "updated": 1642608000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-write-html-in-swift/",
             "title": "How to write HTML in Swift?",
             "link": "https://theswiftdev.com/how-to-write-html-in-swift/",
             "updated": 1641916800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-future-of-server-side-swift/",
             "title": "The future of server side Swift",
             "link": "https://theswiftdev.com/the-future-of-server-side-swift/",
             "updated": 1641312000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/building-a-global-storage-for-vapor/",
             "title": "Building a global storage for Vapor",
             "link": "https://theswiftdev.com/building-a-global-storage-for-vapor/",
             "updated": 1639584000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/building-tree-data-structures-in-swift/",
             "title": "Building tree data structures in Swift",
             "link": "https://theswiftdev.com/building-tree-data-structures-in-swift/",
             "updated": 1637596800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/practical-guide-to-binary-operations-using-the-uint8-type-in-swift/",
             "title": "Practical guide to binary operations using the UInt8 type in Swift",
             "link": "https://theswiftdev.com/practical-guide-to-binary-operations-using-the-uint8-type-in-swift/",
             "updated": 1631718000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/all-about-the-bool-type-in-swift/",
             "title": "All about the Bool type in Swift",
             "link": "https://theswiftdev.com/all-about-the-bool-type-in-swift/",
             "updated": 1631199600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/",
             "title": "How to build better command line apps and tools using Swift?",
             "link": "https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/",
             "updated": 1628089200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-structured-concurrency-tutorial/",
             "title": "Swift structured concurrency tutorial",
             "link": "https://theswiftdev.com/swift-structured-concurrency-tutorial/",
             "updated": 1624978800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-actors-tutorial-a-beginners-guide-to-thread-safe-concurrency/",
             "title": "Swift actors tutorial - a beginner's guide to thread safe concurrency",
             "link": "https://theswiftdev.com/swift-actors-tutorial-a-beginners-guide-to-thread-safe-concurrency/",
             "updated": 1623855600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-the-asyncawait-concurrency-api-in-vapor-fluent/",
             "title": "Beginner's guide to the async/await concurrency API in Vapor & Fluent",
             "link": "https://theswiftdev.com/beginners-guide-to-the-asyncawait-concurrency-api-in-vapor-fluent/",
             "updated": 1622646000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/introduction-to-asyncawait-in-swift/",
             "title": "Introduction to async/await in Swift",
             "link": "https://theswiftdev.com/introduction-to-asyncawait-in-swift/",
             "updated": 1621868400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/dynamic-libraries-and-code-replacements-in-swift/",
             "title": "Dynamic libraries and code replacements in Swift",
             "link": "https://theswiftdev.com/dynamic-libraries-and-code-replacements-in-swift/",
             "updated": 1621436400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/declarative-unit-tests-for-vapor/",
             "title": "Declarative unit tests for Vapor",
             "link": "https://theswiftdev.com/declarative-unit-tests-for-vapor/",
             "updated": 1620054000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-design-type-safe-restful-apis-using-swift-and-vapor/",
             "title": "How to design type safe RESTful APIs using Swift & Vapor?",
             "link": "https://theswiftdev.com/how-to-design-type-safe-restful-apis-using-swift-and-vapor/",
             "updated": 1619622000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/unsafe-memory-pointers-in-swift/",
             "title": "Unsafe memory pointers in Swift",
             "link": "https://theswiftdev.com/unsafe-memory-pointers-in-swift/",
             "updated": 1615996800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/memory-layout-in-swift/",
             "title": "Memory layout in Swift",
             "link": "https://theswiftdev.com/memory-layout-in-swift/",
             "updated": 1615132800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-use-c-libraries-in-swift/",
             "title": "How to use C libraries in Swift?",
             "link": "https://theswiftdev.com/how-to-use-c-libraries-in-swift/",
             "updated": 1614873600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/building-static-and-dynamic-swift-libraries-using-the-swift-compiler/",
             "title": "Building static and dynamic Swift libraries using the Swift compiler",
             "link": "https://theswiftdev.com/building-static-and-dynamic-swift-libraries-using-the-swift-compiler/",
             "updated": 1613404800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-swift-compiler-for-beginners/",
             "title": "The Swift compiler for beginners",
             "link": "https://theswiftdev.com/the-swift-compiler-for-beginners/",
             "updated": 1612886400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/custom-working-directory-in-xcode/",
             "title": "Custom working directory in Xcode",
             "link": "https://theswiftdev.com/custom-working-directory-in-xcode/",
             "updated": 1609948800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/file-upload-api-server-in-vapor-4/",
             "title": "File upload API server in Vapor 4",
             "link": "https://theswiftdev.com/file-upload-api-server-in-vapor-4/",
             "updated": 1609257600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/ajax-calls-using-vapor-4/",
             "title": "AJAX calls using Vapor 4",
             "link": "https://theswiftdev.com/ajax-calls-using-vapor-4/",
             "updated": 1608220800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/file-upload-using-vapor-4/",
             "title": "File upload using Vapor 4",
             "link": "https://theswiftdev.com/file-upload-using-vapor-4/",
             "updated": 1607529600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/event-driven-generic-hooks-for-swift/",
             "title": "Event-driven generic hooks for Swift",
             "link": "https://theswiftdev.com/event-driven-generic-hooks-for-swift/",
             "updated": 1606406400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/getting-started-with-swiftio/",
             "title": "Getting started with SwiftIO",
             "link": "https://theswiftdev.com/getting-started-with-swiftio/",
             "updated": 1605110400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-build-macos-apps-using-only-the-swift-package-manager/",
             "title": "How to build macOS apps using only the Swift Package Manager?",
             "link": "https://theswiftdev.com/how-to-build-macos-apps-using-only-the-swift-package-manager/",
             "updated": 1603641600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/logging-for-beginners-in-swift/",
             "title": "Logging for beginners in Swift",
             "link": "https://theswiftdev.com/logging-for-beginners-in-swift/",
             "updated": 1601391600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-define-strings-use-escaping-sequences-and-interpolations/",
             "title": "How to define strings, use escaping sequences and interpolations?",
             "link": "https://theswiftdev.com/how-to-define-strings-use-escaping-sequences-and-interpolations/",
             "updated": 1600182000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-on-the-server-in-2020/",
             "title": "Swift on the Server in 2020",
             "link": "https://theswiftdev.com/swift-on-the-server-in-2020/",
             "updated": 1598540400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/10-short-advices-that-will-make-you-a-better-vapor-developer-right-away/",
             "title": "10 short advices that will make you a better Vapor developer right away",
             "link": "https://theswiftdev.com/10-short-advices-that-will-make-you-a-better-vapor-developer-right-away/",
             "updated": 1594738800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-store-keys-in-env-files/",
             "title": "How to store keys in env files?",
             "link": "https://theswiftdev.com/how-to-store-keys-in-env-files/",
             "updated": 1593442800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/table-joins-in-fluent-4/",
             "title": "Table joins in Fluent 4",
             "link": "https://theswiftdev.com/table-joins-in-fluent-4/",
             "updated": 1591801200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/websockets-for-beginners-using-vapor-4-and-vanilla-javascript/",
             "title": "Websockets for beginners using Vapor 4 and Vanilla JavaScript",
             "link": "https://theswiftdev.com/websockets-for-beginners-using-vapor-4-and-vanilla-javascript/",
             "updated": 1590591600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/building-and-loading-dynamic-libraries-at-runtime-in-swift/",
             "title": "Building and loading dynamic libraries at runtime in Swift",
             "link": "https://theswiftdev.com/building-and-loading-dynamic-libraries-at-runtime-in-swift/",
             "updated": 1589900400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/whats-new-in-swift-5-3/",
             "title": "What's new in Swift 5.3?",
             "link": "https://theswiftdev.com/whats-new-in-swift-5-3/",
             "updated": 1589382000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/sign-in-with-apple-using-vapor-4/",
             "title": "Sign in with Apple using Vapor 4",
             "link": "https://theswiftdev.com/sign-in-with-apple-using-vapor-4/",
             "updated": 1588172400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-swift-package-manifest-file/",
             "title": "The Swift package manifest file",
             "link": "https://theswiftdev.com/the-swift-package-manifest-file/",
             "updated": 1587654000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/",
             "title": "Server side Swift projects inside Docker using Vapor 4",
             "link": "https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/",
             "updated": 1587222000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/modules-and-hooks-in-swift/",
             "title": "Modules and hooks in Swift",
             "link": "https://theswiftdev.com/modules-and-hooks-in-swift/",
             "updated": 1586962800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/all-about-authentication-in-vapor-4/",
             "title": "All about authentication in Vapor 4",
             "link": "https://theswiftdev.com/all-about-authentication-in-vapor-4/",
             "updated": 1586185200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/a-generic-crud-solution-for-vapor-4/",
             "title": "A generic CRUD solution for Vapor 4",
             "link": "https://theswiftdev.com/a-generic-crud-solution-for-vapor-4/",
             "updated": 1585666800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-anatomy-of-vapor-commands/",
             "title": "The anatomy of Vapor commands",
             "link": "https://theswiftdev.com/the-anatomy-of-vapor-commands/",
             "updated": 1585065600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-use-middlewares-in-vapor-4/",
             "title": "How to use middlewares in Vapor 4?",
             "link": "https://theswiftdev.com/how-to-use-middlewares-in-vapor-4/",
             "updated": 1584374400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-write-swift-scripts-using-the-new-command-api-in-vapor-4/",
             "title": "How to write Swift scripts using the new Command API in Vapor 4?",
             "link": "https://theswiftdev.com/how-to-write-swift-scripts-using-the-new-command-api-in-vapor-4/",
             "updated": 1583164800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/get-started-with-the-fluent-orm-framework-in-vapor-4/",
             "title": "Get started with the Fluent ORM framework in Vapor 4",
             "link": "https://theswiftdev.com/get-started-with-the-fluent-orm-framework-in-vapor-4/",
             "updated": 1582732800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-set-up-pgsql-for-fluent-4/",
             "title": "How to set up pgSQL for Fluent 4?",
             "link": "https://theswiftdev.com/how-to-set-up-pgsql-for-fluent-4/",
             "updated": 1582560000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-create-your-first-website-using-vapor-4-and-leaf/",
             "title": "How to create your first website using Vapor 4 and Leaf?",
             "link": "https://theswiftdev.com/how-to-create-your-first-website-using-vapor-4-and-leaf/",
             "updated": 1581523200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-download-files-with-urlsession-using-combine-publishers-and-subscribers/",
             "title": "How to download files with URLSession using Combine Publishers and Subscribers?",
             "link": "https://theswiftdev.com/how-to-download-files-with-urlsession-using-combine-publishers-and-subscribers/",
             "updated": 1580140800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/",
             "title": "Beginner's guide to Server side Swift using Vapor 4",
             "link": "https://theswiftdev.com/beginners-guide-to-server-side-swift-using-vapor-4/",
             "updated": 1578844800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/what-are-the-best-practices-to-learn-ios-swift-in-2020/",
             "title": "What are the best practices to learn iOS / Swift in 2020?",
             "link": "https://theswiftdev.com/what-are-the-best-practices-to-learn-ios-swift-in-2020/",
             "updated": 1578240000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/custom-views-input-forms-and-mistakes/",
             "title": "Custom views, input forms and mistakes",
             "link": "https://theswiftdev.com/custom-views-input-forms-and-mistakes/",
             "updated": 1571583600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/a-simple-http2-server-using-vapor-4/",
             "title": "A simple HTTP/2 server using Vapor 4",
             "link": "https://theswiftdev.com/a-simple-http2-server-using-vapor-4/",
             "updated": 1570460400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-write-services-for-viper/",
             "title": "How to write services for VIPER?",
             "link": "https://theswiftdev.com/how-to-write-services-for-viper/",
             "updated": 1569337200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-build-swiftui-apps-using-viper/",
             "title": "How to build SwiftUI apps using VIPER?",
             "link": "https://theswiftdev.com/how-to-build-swiftui-apps-using-viper/",
             "updated": 1568732400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/picking-and-playing-videos-in-swift/",
             "title": "Picking and playing videos in Swift",
             "link": "https://theswiftdev.com/picking-and-playing-videos-in-swift/",
             "updated": 1566918000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/whats-new-in-vapor-4/",
             "title": "What's new in Vapor 4?",
             "link": "https://theswiftdev.com/whats-new-in-vapor-4/",
             "updated": 1566745200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-init-patterns/",
             "title": "Swift init patterns",
             "link": "https://theswiftdev.com/swift-init-patterns/",
             "updated": 1566658800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/urlsession-and-the-combine-framework/",
             "title": "URLSession and the Combine framework",
             "link": "https://theswiftdev.com/urlsession-and-the-combine-framework/",
             "updated": 1565794800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/promises-in-swift-for-beginners/",
             "title": "Promises in Swift for beginners",
             "link": "https://theswiftdev.com/promises-in-swift-for-beginners/",
             "updated": 1558969200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/building-input-forms-for-ios-apps/",
             "title": "Building input forms for iOS apps",
             "link": "https://theswiftdev.com/building-input-forms-for-ios-apps/",
             "updated": 1558537200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uniquely-identifying-views/",
             "title": "Uniquely identifying views",
             "link": "https://theswiftdev.com/uniquely-identifying-views/",
             "updated": 1554130800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/mastering-the-viper-architecture/",
             "title": "Mastering the VIPER architecture",
             "link": "https://theswiftdev.com/mastering-the-viper-architecture/",
             "updated": 1552924800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/viper-best-practices-for-ios-developers/",
             "title": "VIPER best practices for iOS developers",
             "link": "https://theswiftdev.com/viper-best-practices-for-ios-developers/",
             "updated": 1552233600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/styling-by-subclassing/",
             "title": "Styling by subclassing",
             "link": "https://theswiftdev.com/styling-by-subclassing/",
             "updated": 1550505600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/beginners-guide-to-functional-swift/",
             "title": "Beginners guide to functional Swift",
             "link": "https://theswiftdev.com/beginners-guide-to-functional-swift/",
             "updated": 1549296000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/picking-images-with-uiimagepickercontroller-in-swift-5/",
             "title": "Picking images with UIImagePickerController in Swift 5",
             "link": "https://theswiftdev.com/picking-images-with-uiimagepickercontroller-in-swift-5/",
             "updated": 1548777600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-use-the-result-type-to-handle-errors-in-swift/",
             "title": "How to use the result type to handle errors in Swift 5?",
             "link": "https://theswiftdev.com/how-to-use-the-result-type-to-handle-errors-in-swift/",
             "updated": 1548604800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/all-about-the-swift-package-manager-and-the-swift-toolchain/",
             "title": "All about the Swift Package Manager and the Swift toolchain",
             "link": "https://theswiftdev.com/all-about-the-swift-package-manager-and-the-swift-toolchain/",
             "updated": 1547395200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/lazy-initialization-in-swift/",
             "title": "Lazy initialization in Swift",
             "link": "https://theswiftdev.com/lazy-initialization-in-swift/",
             "updated": 1544976000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-object-pool-design-pattern/",
             "title": "Swift object pool design pattern",
             "link": "https://theswiftdev.com/swift-object-pool-design-pattern/",
             "updated": 1544284800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uitableview-tutorial-in-swift/",
             "title": "UITableView tutorial in Swift",
             "link": "https://theswiftdev.com/uitableview-tutorial-in-swift/",
             "updated": 1543593600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-5-and-abi-stability/",
             "title": "Swift 5 and ABI stability",
             "link": "https://theswiftdev.com/swift-5-and-abi-stability/",
             "updated": 1541433600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/custom-uiview-subclass-from-a-xib-file/",
             "title": "Custom UIView subclass from a xib file",
             "link": "https://theswiftdev.com/custom-uiview-subclass-from-a-xib-file/",
             "updated": 1539615600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-facade-design-pattern/",
             "title": "Swift facade design pattern",
             "link": "https://theswiftdev.com/swift-facade-design-pattern/",
             "updated": 1537801200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/iterator-design-pattern-in-swift/",
             "title": "Iterator design pattern in Swift",
             "link": "https://theswiftdev.com/iterator-design-pattern-in-swift/",
             "updated": 1534604400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-adapter-design-pattern/",
             "title": "Swift adapter design pattern",
             "link": "https://theswiftdev.com/swift-adapter-design-pattern/",
             "updated": 1532790000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-dependency-injection-design-pattern/",
             "title": "Swift dependency injection design pattern",
             "link": "https://theswiftdev.com/swift-dependency-injection-design-pattern/",
             "updated": 1531753200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/ultimate-grand-central-dispatch-tutorial-in-swift/",
             "title": "Ultimate Grand Central Dispatch tutorial in Swift",
             "link": "https://theswiftdev.com/ultimate-grand-central-dispatch-tutorial-in-swift/",
             "updated": 1531148400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-delegate-design-pattern/",
             "title": "Swift delegate design pattern",
             "link": "https://theswiftdev.com/swift-delegate-design-pattern/",
             "updated": 1530025200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uicollectionview-data-source-and-delegates-programmatically/",
             "title": "UICollectionView data source and delegates programmatically",
             "link": "https://theswiftdev.com/uicollectionview-data-source-and-delegates-programmatically/",
             "updated": 1529938800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/mastering-ios-auto-layout-anchors-programmatically-from-swift/",
             "title": "Mastering iOS auto layout anchors programmatically from Swift",
             "link": "https://theswiftdev.com/mastering-ios-auto-layout-anchors-programmatically-from-swift/",
             "updated": 1528902000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-command-design-pattern/",
             "title": "Swift command design pattern",
             "link": "https://theswiftdev.com/swift-command-design-pattern/",
             "updated": 1528815600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-prototype-design-pattern/",
             "title": "Swift prototype design pattern",
             "link": "https://theswiftdev.com/swift-prototype-design-pattern/",
             "updated": 1528383600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/comparing-factory-design-patterns/",
             "title": "Comparing factory design patterns",
             "link": "https://theswiftdev.com/comparing-factory-design-patterns/",
             "updated": 1528124400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-abstract-factory-design-pattern/",
             "title": "Swift abstract factory design pattern",
             "link": "https://theswiftdev.com/swift-abstract-factory-design-pattern/",
             "updated": 1527951600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-factory-method-design-pattern/",
             "title": "Swift factory method design pattern",
             "link": "https://theswiftdev.com/swift-factory-method-design-pattern/",
             "updated": 1527692400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-simple-factory-design-pattern/",
             "title": "Swift simple factory design pattern",
             "link": "https://theswiftdev.com/swift-simple-factory-design-pattern/",
             "updated": 1527519600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-static-factory-design-pattern/",
             "title": "Swift static factory design pattern",
             "link": "https://theswiftdev.com/swift-static-factory-design-pattern/",
             "updated": 1527433200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-builder-design-pattern/",
             "title": "Swift builder design pattern",
             "link": "https://theswiftdev.com/swift-builder-design-pattern/",
             "updated": 1527087600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-singleton-design-pattern/",
             "title": "Swift singleton design pattern",
             "link": "https://theswiftdev.com/swift-singleton-design-pattern/",
             "updated": 1526914800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-use-icloud-drive-documents/",
             "title": "How to use iCloud drive documents?",
             "link": "https://theswiftdev.com/how-to-use-icloud-drive-documents/",
             "updated": 1526482800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uicolor-best-practices-in-swift/",
             "title": "UIColor best practices in Swift",
             "link": "https://theswiftdev.com/uicolor-best-practices-in-swift/",
             "updated": 1525273200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/ios-custom-transition-tutorial-in-swift/",
             "title": "iOS custom transition tutorial in Swift",
             "link": "https://theswiftdev.com/ios-custom-transition-tutorial-in-swift/",
             "updated": 1524668400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/ultimate-uicollectionview-guide-with-ios-examples-written-in-swift/",
             "title": "Ultimate UICollectionView guide with iOS examples written in Swift",
             "link": "https://theswiftdev.com/ultimate-uicollectionview-guide-with-ios-examples-written-in-swift/",
             "updated": 1523890800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-ultimate-viper-architecture-tutorial/",
             "title": "The ultimate VIPER architecture tutorial",
             "link": "https://theswiftdev.com/the-ultimate-viper-architecture-tutorial/",
             "updated": 1520784000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/networking-examples-for-appleos/",
             "title": "Networking examples for appleOS",
             "link": "https://theswiftdev.com/networking-examples-for-appleos/",
             "updated": 1519660800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-parse-json-in-swift-using-codable-protocol//",
             "title": "How to parse JSON in Swift using Codable protocol?",
             "link": "https://theswiftdev.com/how-to-parse-json-in-swift-using-codable-protocol//",
             "updated": 1517155200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/deep-dive-into-swift-frameworks/",
             "title": "Deep dive into Swift frameworks",
             "link": "https://theswiftdev.com/deep-dive-into-swift-frameworks/",
             "updated": 1516809600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uicollectionview-cells-with-circular-images-plus-rotation-support/",
             "title": "UICollectionView cells with circular images plus rotation support",
             "link": "https://theswiftdev.com/uicollectionview-cells-with-circular-images-plus-rotation-support/",
             "updated": 1516723200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/self-sizing-cells-with-rotation-support/",
             "title": "Self sizing cells with rotation support",
             "link": "https://theswiftdev.com/self-sizing-cells-with-rotation-support/",
             "updated": 1516636800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-call-c-code-from-swift/",
             "title": "How to call C code from Swift",
             "link": "https://theswiftdev.com/how-to-call-c-code-from-swift/",
             "updated": 1515945600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-package-manager-tutorial/",
             "title": "Swift Package Manager tutorial",
             "link": "https://theswiftdev.com/swift-package-manager-tutorial/",
             "updated": 1511020800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/ios-auto-layout-tutorial-programmatically/",
             "title": "iOS Auto Layout tutorial programmatically",
             "link": "https://theswiftdev.com/ios-auto-layout-tutorial-programmatically/",
             "updated": 1509379200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-launch-a-macos-app-at-login/",
             "title": "How to launch a macOS app at login?",
             "link": "https://theswiftdev.com/how-to-launch-a-macos-app-at-login/",
             "updated": 1509030000,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-make-a-swift-framework/",
             "title": "How to make a Swift framework?",
             "link": "https://theswiftdev.com/how-to-make-a-swift-framework/",
             "updated": 1508684400,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/swift-enum-all-values/",
             "title": "Swift enum all values",
             "link": "https://theswiftdev.com/swift-enum-all-values/",
             "updated": 1507647600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/how-to-create-reusable-views-for-modern-collection-views/",
             "title": "How to create reusable views for modern collection views?",
             "link": "https://theswiftdev.com/how-to-create-reusable-views-for-modern-collection-views/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/uikit-init-patterns/",
             "title": "UIKit init patterns",
             "link": "https://theswiftdev.com/uikit-init-patterns/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/top-20-ios-libraries-of-2019/",
             "title": "Top 20 iOS libraries written in Swift",
             "link": "https://theswiftdev.com/top-20-ios-libraries-of-2019/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/",
             "title": "The ultimate Combine framework tutorial in Swift",
             "link": "https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/asynchronous-validation-for-vapor/",
             "title": "Asynchronous validation for Vapor",
             "link": "https://theswiftdev.com/asynchronous-validation-for-vapor/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/result-builders-in-swift/",
             "title": "Result builders in Swift",
             "link": "https://theswiftdev.com/result-builders-in-swift/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/everything-about-public-and-private-swift-attributes/",
             "title": "Everything about public and private Swift attributes",
             "link": "https://theswiftdev.com/everything-about-public-and-private-swift-attributes/",
             "updated": 1507561200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/awesome-native-xcode-extensions/",
             "title": "Awesome native Xcode extensions",
             "link": "https://theswiftdev.com/awesome-native-xcode-extensions/",
             "updated": 1507042800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/generating-random-numbers-in-swift/",
             "title": "Generating random numbers in Swift",
             "link": "https://theswiftdev.com/generating-random-numbers-in-swift/",
             "updated": 1502031600,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/conventions-for-xcode/",
             "title": "Conventions for Xcode",
             "link": "https://theswiftdev.com/conventions-for-xcode/",
             "updated": 1467730800,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://theswiftdev.com/clockkit-complications-cheat-sheet/",
             "title": "ClockKit complications cheatsheet",
             "link": "https://theswiftdev.com/clockkit-complications-cheat-sheet/",
             "updated": 1461769200,
-            "site_url": "https://theswiftdev.com/"
+            "site_url": "https://theswiftdev.com/",
+            "slug": "development"
         }
     ]
 }

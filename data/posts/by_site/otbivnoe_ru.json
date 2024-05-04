@@ -6,70 +6,80 @@
             "title": "Making Customizable SwiftUI Components",
             "link": "https://otbivnoe.ru/2024/02/25/Making-Customizable-SwiftUI-Components.html",
             "updated": 1708815600,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2023/06/13/Automating-RawRepresentable-Conformance-with-Swift-Macros",
             "title": "Automating RawRepresentable Conformance with Swift Macros",
             "link": "https://otbivnoe.ru/2023/06/13/Automating-RawRepresentable-Conformance-with-Swift-Macros.html",
             "updated": 1686650400,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2022/07/19/UITouch-Me-If-You-Can",
             "title": "UITouch Me If You Can",
             "link": "https://otbivnoe.ru/2022/07/19/UITouch-Me-If-You-Can.html",
             "updated": 1658199600,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2022/07/13/Enumerated-ForEach-in-SwiftUI",
             "title": "Enumerated ForEach in SwiftUI",
             "link": "https://otbivnoe.ru/2022/07/13/Enumerated-ForEach-in-SwiftUI.html",
             "updated": 1657681200,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2022/07/10/Finally-Multiline-TextField-in-SwiftUI",
             "title": "Multiline TextField in SwiftUI",
             "link": "https://otbivnoe.ru/2022/07/10/Finally-Multiline-TextField-in-SwiftUI.html",
             "updated": 1657422000,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2021/09/04/Type-Eraser-for-RxSubjects",
             "title": "Type Eraser for Rx Subjects",
             "link": "https://otbivnoe.ru/2021/09/04/Type-Eraser-for-RxSubjects.html",
             "updated": 1630760400,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2021/03/28/How-to-Clear-Xcode-Console-a-Bit-Another-Way%20copy",
             "title": "How to clear Xcode console a bit another way",
             "link": "https://otbivnoe.ru/2021/03/28/How-to-Clear-Xcode-Console-a-Bit-Another-Way-copy.html",
             "updated": 1616932800,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2021/03/13/Dependency-Injection-for-Property-Wrappers",
             "title": "Dependency Injection for Property Wrappers",
             "link": "https://otbivnoe.ru/2021/03/13/Dependency-Injection-for-Property-Wrappers.html",
             "updated": 1615650600,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2021/02/18/Make-Friends-UITableView-with-Layout-Margins",
             "title": "Make friends UITableView with layout margins",
             "link": "https://otbivnoe.ru/2021/02/18/Make-Friends-UITableView-with-Layout-Margins.html",
             "updated": 1613649600,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         },
         {
             "id": "https://otbivnoe.ru/2021/01/22/On-A-Way-To-Great-Accessibility-With-Dynamic-Type",
             "title": "On a way to great accessibility with Dynamic Type",
             "link": "https://otbivnoe.ru/2021/01/22/On-A-Way-To-Great-Accessibility-With-Dynamic-Type.html",
             "updated": 1611329400,
-            "site_url": "https://otbivnoe.ru"
+            "site_url": "https://otbivnoe.ru",
+            "slug": "development"
         }
     ]
 }

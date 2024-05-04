@@ -6,105 +6,120 @@
             "title": "Swift: Comparing Enums With Associated Values",
             "link": "https://www.thomashanning.com/swift-comparing-enums-with-associated-values/",
             "updated": 1676170560,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe57",
             "title": "Merge Sort In Swift",
             "link": "https://www.thomashanning.com/merge-sort-in-swift/",
             "updated": 1675570080,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d7ec53e021d7003db420ac",
             "title": "iOS Dev & Swift Newsletter #1",
             "link": "https://www.thomashanning.com/ios-dev-swift-newsletter-1/",
             "updated": 1675496649,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe74",
             "title": "Xcode for Windows?",
             "link": "https://www.thomashanning.com/xcode-for-windows/",
             "updated": 1674999600,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe8b",
             "title": "Should You Still Learn UIKit?",
             "link": "https://www.thomashanning.com/should-you-still-learn-uikit/",
             "updated": 1674046362,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe8a",
             "title": "SwiftUI: Alert",
             "link": "https://www.thomashanning.com/swiftui-alert/",
             "updated": 1673663871,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe89",
             "title": "if let shorthand syntax in Swift",
             "link": "https://www.thomashanning.com/if-let-shorthand-syntax-in-swift/",
             "updated": 1673218800,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe84",
             "title": "Swift: Property wrappers",
             "link": "https://www.thomashanning.com/swift-property-wrappers/",
             "updated": 1596331953,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe83",
             "title": "The Advantages of SwiftUI",
             "link": "https://www.thomashanning.com/the-advantages-of-swiftui/",
             "updated": 1590293990,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe81",
             "title": "Swift: The differences between structs and classes",
             "link": "https://www.thomashanning.com/swift-differences-between-structs-and-classes/",
             "updated": 1560153697,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe7f",
             "title": "Swift: Reference Equality and Value Equality For Classes \u200b",
             "link": "https://www.thomashanning.com/swift-reference-equality-value-equality-for-classes/",
             "updated": 1549126852,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe7e",
             "title": "How iOS Development Has Evolved Over The Past 8 Years",
             "link": "https://www.thomashanning.com/how-ios-development-has-evolved-over-the-past-8-years/",
             "updated": 1546571752,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe7d",
             "title": "Sets in Swift",
             "link": "https://www.thomashanning.com/sets-in-swift/",
             "updated": 1541500042,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe7c",
             "title": "MFMailComposeViewController - sending emails from an iOS app",
             "link": "https://www.thomashanning.com/mfmailcomposeviewcontroller/",
             "updated": 1534341377,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         },
         {
             "id": "63d38b8127e59a003deebe79",
             "title": "Properties in Swift",
             "link": "https://www.thomashanning.com/properties-in-swift/",
             "updated": 1521110954,
-            "site_url": "https://www.thomashanning.com"
+            "site_url": "https://www.thomashanning.com",
+            "slug": "development"
         }
     ]
 }

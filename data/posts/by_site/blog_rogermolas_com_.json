@@ -6,63 +6,72 @@
             "title": "Access class name using @objc attribute",
             "link": "http://blog.rogermolas.com/posts/objc_class_name/",
             "updated": 1584613290,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/ios-localization-tool/",
             "title": "iOS Localization Tool",
             "link": "http://blog.rogermolas.com/posts/ios-localization-tool/",
             "updated": 1532241553,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/mapkit-generate-image-snapshotter/",
             "title": "Generate MapView Snapshot with Snapshotter",
             "link": "http://blog.rogermolas.com/posts/mapkit-generate-image-snapshotter/",
             "updated": 1518420542,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/multiline-string-literals/",
             "title": "Multiline String Literals",
             "link": "http://blog.rogermolas.com/posts/multiline-string-literals/",
             "updated": 1498892834,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/grand-central-dispatch-and-swift-3/",
             "title": "Grand Central Dispatch and Swift 3",
             "link": "http://blog.rogermolas.com/posts/grand-central-dispatch-and-swift-3/",
             "updated": 1481254980,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/new-ios9-string-transformations-api/",
             "title": "New iOS9 String Transformations API",
             "link": "http://blog.rogermolas.com/posts/new-ios9-string-transformations-api/",
             "updated": 1435545840,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/watchkit-framework/",
             "title": "WatchKit Framework",
             "link": "http://blog.rogermolas.com/posts/watchkit-framework/",
             "updated": 1431486840,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/posts/ios-dependency-management/",
             "title": "iOS Dependency Management",
             "link": "http://blog.rogermolas.com/posts/ios-dependency-management/",
             "updated": 1428620400,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         },
         {
             "id": "http://blog.rogermolas.com/about/",
             "title": "About",
             "link": "http://blog.rogermolas.com/about/",
             "updated": 978282000,
-            "site_url": "https://blog.rogermolas.com/"
+            "site_url": "https://blog.rogermolas.com/",
+            "slug": "development"
         }
     ]
 }

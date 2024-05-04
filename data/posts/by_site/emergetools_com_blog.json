@@ -6,301 +6,344 @@
             "title": "Emerge's Bits and Bytes: March 2024",
             "link": "https://www.emergetools.com/newsletter/march-2024",
             "updated": 1711627200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks",
             "title": "Make Your iOS App Smaller with Dynamic Frameworks",
             "link": "https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks",
             "updated": 1710934200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/general-motors",
             "title": "App Deep Dive: General Motors",
             "link": "https://www.emergetools.com/deep-dives/general-motors",
             "updated": 1709559000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/february-2024",
             "title": "Emerge's Bits and Bytes: February 2024",
             "link": "https://www.emergetools.com/newsletter/february-2024",
             "updated": 1709208000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/how-to-use-variadic-view",
             "title": "How to use VariadicView, SwiftUI's private View API",
             "link": "https://www.emergetools.com/blog/posts/how-to-use-variadic-view",
             "updated": 1708954200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/twitter-vs-x",
             "title": "App Deep Dive: Twitter vs. X",
             "link": "https://www.emergetools.com/deep-dives/twitter-vs-x",
             "updated": 1708596000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/january-2024",
             "title": "Emerge's Bits and Bytes: January 2024",
             "link": "https://www.emergetools.com/newsletter/january-2024",
             "updated": 1706275800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/alltrails",
             "title": "App Deep Dive: AllTrails",
             "link": "https://www.emergetools.com/deep-dives/alltrails",
             "updated": 1706092200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/acorns",
             "title": "App Deep Dive: Acorns",
             "link": "https://www.emergetools.com/deep-dives/acorns",
             "updated": 1704277800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/december-2023",
             "title": "Emerge's Bits and Bytes: December 2023",
             "link": "https://www.emergetools.com/newsletter/december-2023",
             "updated": 1703239200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework-part-2",
             "title": "Symbolicating SwiftUI (and any Apple Framework), Part 2",
             "link": "https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework-part-2",
             "updated": 1702369800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/november-2023",
             "title": "Emerge's Bits and Bytes: November 2023",
             "link": "https://www.emergetools.com/newsletter/november-2023",
             "updated": 1700139600,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/swift-protocols",
             "title": "Mobile Glossary: Swift Protocols",
             "link": "https://www.emergetools.com/glossary/swift-protocols",
             "updated": 1698134400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/october-2023",
             "title": "Emerge's Bits and Bytes: October 2023",
             "link": "https://www.emergetools.com/newsletter/october-2023",
             "updated": 1697112000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/comparing-top-analytics-sdks-for-ios",
             "title": "Comparing the Performance of the Top 6 Analytics SDKs for iOS",
             "link": "https://www.emergetools.com/newsletter/september-2023",
             "updated": 1696410000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/newsletter/september-2023",
             "title": "Emerge's Bits and Bytes: September 2023",
             "link": "https://www.emergetools.com/newsletter/september-2023",
             "updated": 1694610000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework",
             "title": "Symbolicating SwiftUI (and any Apple Framework)",
             "link": "https://www.emergetools.com/blog/posts/symbolicating-swiftui-and-any-apple-framework",
             "updated": 1694075400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/fastlane",
             "title": "Mobile Glossary: fastlane",
             "link": "https://www.emergetools.com/glossary/fastlane",
             "updated": 1693987200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/peacock",
             "title": "App Deep Dive: Peacock",
             "link": "https://www.emergetools.com/deep-dives/peacock",
             "updated": 1692261000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/dead-code-detection-with-reaper",
             "title": "Dead Code Detection With Reaper",
             "link": "https://www.emergetools.com/blog/posts/dead-code-detection-with-reaper",
             "updated": 1691656200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/candy-crush-saga",
             "title": "App Deep Dive: Candy Crush Saga",
             "link": "https://www.emergetools.com/deep-dives/candy-crush-saga",
             "updated": 1689582600,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/deep-dives/threads",
             "title": "App Deep Dive: Threads",
             "link": "https://www.emergetools.com/deep-dives/threads",
             "updated": 1688977800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/moving-from-cocoapods-to-swift-package-manager",
             "title": "Moving ETTrace from CocoaPods to Swift Package Manager",
             "link": "https://www.emergetools.com/blog/posts/moving-from-cocoapods-to-swift-package-manager",
             "updated": 1687924800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/ettrace-reliable-ios-profiling-with-flamecharts",
             "title": "ETTrace: Reliable iOS Profiling With Flame Charts",
             "link": "https://www.emergetools.com/blog/posts/ettrace-reliable-ios-profiling-with-flamecharts",
             "updated": 1682568000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/app-thinning",
             "title": "Mobile Glossary: App Thinning",
             "link": "https://www.emergetools.com/glossary/app-thinning",
             "updated": 1677146400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/announcing-android-performance-testing",
             "title": "announcing-android-performance-testing",
             "link": "https://www.emergetools.com/blog/posts/announcing-android-performance-testing",
             "updated": 1675238400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/split-apks",
             "title": "Mobile Glossary: Split APKs",
             "link": "https://www.emergetools.com/glossary/split-apks",
             "updated": 1675152000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/ui-automator",
             "title": "Mobile Glossary: UI Automator",
             "link": "https://www.emergetools.com/glossary/ui-automator",
             "updated": 1675152000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/how-order-files-speed-up-protocols",
             "title": "How To Speed Up Swift By Ordering Conformances",
             "link": "https://www.emergetools.com/blog/posts/how-order-files-speed-up-protocols",
             "updated": 1674619200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/dynamic-frameworks",
             "title": "Mobile Glossary: Dynamic Frameworks",
             "link": "https://www.emergetools.com/glossary/dynamic-frameworks",
             "updated": 1674547200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/static-frameworks",
             "title": "Mobile Glossary: Static Frameworks",
             "link": "https://www.emergetools.com/glossary/static-frameworks",
             "updated": 1674547200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/glossary/dyld",
             "title": "Mobile Glossary: dyld",
             "link": "https://www.emergetools.com/glossary/dyld",
             "updated": 1673424000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/static-vs-dynamic-frameworks-ios-discussion-chat-gpt",
             "title": "Static vs Dynamic Frameworks on iOS \u2014 a discussion with ChatGPT",
             "link": "https://www.emergetools.com/blog/posts/static-vs-dynamic-frameworks-ios-discussion-chat-gpt",
             "updated": 1670999220,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/how-xcode14-unintentionally-increases-app-size",
             "title": "How Xcode 14 unintentionally increases app size",
             "link": "https://www.emergetools.com/blog/posts/how-xcode14-unintentionally-increases-app-size",
             "updated": 1668033060,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/improve-popular-iOS-app-startup-times",
             "title": "How 5 iOS apps could improve their startup time by an average of 28%",
             "link": "https://www.emergetools.com/blog/posts/improve-popular-iOS-app-startup-times",
             "updated": 1663101060,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/iOS16LaunchTime",
             "title": "How iOS 16 makes your app launch faster",
             "link": "https://www.emergetools.com/blog/posts/iOS16LaunchTime",
             "updated": 1657040400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/DyldInterposing",
             "title": "Code Injection with Dyld Interposing",
             "link": "https://www.emergetools.com/blog/posts/DyldInterposing",
             "updated": 1653325200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/FasterAppStartupOrderFiles",
             "title": "How Order Files Reduce App Startup Time",
             "link": "https://www.emergetools.com/blog/posts/FasterAppStartupOrderFiles",
             "updated": 1643216400,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/CostOfAByte",
             "title": "The Cost of a Byte",
             "link": "https://www.emergetools.com/blog/posts/CostOfAByte",
             "updated": 1641402000,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/SwiftProtocolConformance",
             "title": "The Surprising Cost of Protocol Conformances in Swift",
             "link": "https://www.emergetools.com/blog/posts/SwiftProtocolConformance",
             "updated": 1638291600,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/iOS15LaunchTime",
             "title": "How iOS 15 makes your app launch faster",
             "link": "https://www.emergetools.com/blog/posts/iOS15LaunchTime",
             "updated": 1624381200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/SwiftReferenceTypes",
             "title": "Why Swift Reference Types Are Bad for App Startup Time",
             "link": "https://www.emergetools.com/blog/posts/SwiftReferenceTypes",
             "updated": 1614790800,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.emergetools.com/blog/posts/7AppsThatCouldSaveYou500MB",
             "title": "How 7 iOS Apps Could Save You 500MB of Storage",
             "link": "https://www.emergetools.com/blog/posts/7AppsThatCouldSaveYou500MB",
             "updated": 1610557200,
-            "site_url": "https://www.emergetools.com/blog"
+            "site_url": "https://www.emergetools.com/blog",
+            "slug": "companies"
         }
     ]
 }

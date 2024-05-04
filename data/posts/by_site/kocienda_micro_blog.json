@@ -6,56 +6,64 @@
             "title": "Humane Ai Pin 1.0",
             "link": "https://kocienda.micro.blog/2024/04/11/humane-ai-pin.html",
             "updated": 1712804820,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2022/11/25/thoughts-on-twitter.html",
             "title": "Thoughts on Twitter Verification",
             "link": "https://kocienda.micro.blog/2022/11/25/thoughts-on-twitter.html",
             "updated": 1669368427,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2022/07/07/over-the-horizon.html",
             "title": "Over the horizon of the lagoon",
             "link": "https://kocienda.micro.blog/2022/07/07/over-the-horizon.html",
             "updated": 1657156309,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2021/08/30/184123.html",
             "title": "On watches, chicken vases, and the value of things",
             "link": "https://kocienda.micro.blog/2021/08/30/184123.html",
             "updated": 1630323683,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2021/07/09/lunch-with-om.html",
             "title": "Lunch with Om Malik",
             "link": "https://kocienda.micro.blog/2021/07/09/lunch-with-om.html",
             "updated": 1625790425,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2021/05/09/stopping-time-an.html",
             "title": "Stopping Time: An Appreciation of Objective-C",
             "link": "https://kocienda.micro.blog/2021/05/09/stopping-time-an.html",
             "updated": 1620542909,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2021/02/10/in-the-story.html",
             "title": "",
             "link": "https://kocienda.micro.blog/2021/02/10/in-the-story.html",
             "updated": 1612923005,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         },
         {
             "id": "http://kocienda.micro.blog/2021/02/07/a-virtual-tightrope.html",
             "title": "",
             "link": "https://kocienda.micro.blog/2021/02/07/a-virtual-tightrope.html",
             "updated": 1612667970,
-            "site_url": "https://kocienda.micro.blog"
+            "site_url": "https://kocienda.micro.blog",
+            "slug": "development"
         }
     ]
 }

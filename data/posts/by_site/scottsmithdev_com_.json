@@ -6,35 +6,40 @@
             "title": "Shrink Images for Accessibility in SwiftUI",
             "link": "https://scottsmithdev.com/shrink-images-for-accessibility-in-swiftui",
             "updated": 1708439158,
-            "site_url": "https://scottsmithdev.com/"
+            "site_url": "https://scottsmithdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://scottsmithdev.com/encapsulate-and-generalize-in-swift",
             "title": "Encapsulate and Generalize in Swift",
             "link": "https://scottsmithdev.com/encapsulate-and-generalize-in-swift",
             "updated": 1707786045,
-            "site_url": "https://scottsmithdev.com/"
+            "site_url": "https://scottsmithdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://scottsmithdev.com/screen-vs-view-in-swiftui",
             "title": "Screen vs View in SwiftUI",
             "link": "https://scottsmithdev.com/screen-vs-view-in-swiftui",
             "updated": 1707126332,
-            "site_url": "https://scottsmithdev.com/"
+            "site_url": "https://scottsmithdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://scottsmithdev.com/an-approach-to-handling-app-launch-states-in-swiftui",
             "title": "An Approach to Handling App Launch States in SwiftUI",
             "link": "https://scottsmithdev.com/an-approach-to-handling-app-launch-states-in-swiftui",
             "updated": 1705881608,
-            "site_url": "https://scottsmithdev.com/"
+            "site_url": "https://scottsmithdev.com/",
+            "slug": "development"
         },
         {
             "id": "https://scottsmithdev.com/first",
             "title": "It's me. Hi. I'm starting a blog, it's me.",
             "link": "https://scottsmithdev.com/first",
             "updated": 1704931777,
-            "site_url": "https://scottsmithdev.com/"
+            "site_url": "https://scottsmithdev.com/",
+            "slug": "development"
         }
     ]
 }

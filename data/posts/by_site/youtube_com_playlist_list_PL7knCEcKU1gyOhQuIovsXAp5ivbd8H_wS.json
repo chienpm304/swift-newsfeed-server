@@ -6,91 +6,104 @@
             "title": "Episode 3 - Swift 4.2 Migration 1/2",
             "link": "https://www.youtube.com/watch?v=Rv8HduKRrW0",
             "updated": 1714174982,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:DRiowjBdVkk",
             "title": "Episode 4 - Swift 4.2 Migration 2/2",
             "link": "https://www.youtube.com/watch?v=DRiowjBdVkk",
             "updated": 1714119447,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:19ldYDNrR_8",
             "title": "Episode 6 - Continuous Integration Setup with Fastlane",
             "link": "https://www.youtube.com/watch?v=19ldYDNrR_8",
             "updated": 1714099626,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:RtUSBT2U0Xw",
             "title": "Remove View Controller Dependency from Bike Station Service - Episode 10 (Preview)",
             "link": "https://www.youtube.com/watch?v=RtUSBT2U0Xw",
             "updated": 1714087151,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:0RbKtJdDcBU",
             "title": "Episode 5 - iOS 12 Update",
             "link": "https://www.youtube.com/watch?v=0RbKtJdDcBU",
             "updated": 1714062808,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:zir9Iy4rNc0",
             "title": "Episode 7 - Release 1.1 + Privacy Policy + Planning 1.2",
             "link": "https://www.youtube.com/watch?v=zir9Iy4rNc0",
             "updated": 1714055790,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yK5QfwsnsJk",
             "title": "Episode 2 - Bootstrap 2/2",
             "link": "https://www.youtube.com/watch?v=yK5QfwsnsJk",
             "updated": 1714038220,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:uN-6tY5GNeg",
             "title": "Asynchronously Test\u00a0the Bike Web Service API - Episode 11 (Preview)",
             "link": "https://www.youtube.com/watch?v=uN-6tY5GNeg",
             "updated": 1714034326,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:YkDQpitcxqM",
             "title": "Episode 8 - Periphery + Remove Unused Code",
             "link": "https://www.youtube.com/watch?v=YkDQpitcxqM",
             "updated": 1712692554,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:mhCQPe3OwQ4",
             "title": "Episode 1 - Bootstrap 1/2",
             "link": "https://www.youtube.com/watch?v=mhCQPe3OwQ4",
             "updated": 1711162097,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:gMJjXxjoEm8",
             "title": "Introduction to \"How to evolve a legacy iOS Application written in Swift\"",
             "link": "https://www.youtube.com/watch?v=gMJjXxjoEm8",
             "updated": 1711082651,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:nEj01mN6Mn4",
             "title": "TDD Trentino Bike Sharing Service Part 1 - Episode 12 (Preview)",
             "link": "https://www.youtube.com/watch?v=nEj01mN6Mn4",
             "updated": 1711072030,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:-gt8P38WopY",
             "title": "Extract Bike Station Service from View Controller - Episode 9 (Preview)",
             "link": "https://www.youtube.com/watch?v=-gt8P38WopY",
             "updated": 1709813604,
-            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS"
+            "site_url": "https://www.youtube.com/playlist?list=PL7knCEcKU1gyOhQuIovsXAp5ivbd8H-wS",
+            "slug": "youtube"
         }
     ]
 }

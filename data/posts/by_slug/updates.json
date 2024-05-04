@@ -1,936 +1,1069 @@
 {
-    "updated": 1714663524,
+    "updated": 1714834845,
     "posts": [
         {
             "id": "tag:github.com,2008:Grit::Commit/7c7387e7fb3c5b85d559c362371834d05737c68d",
             "title": "Merge pull request #2422 from dempseyatgithub/SE-0433-add-missing-acc\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/7c7387e7fb3c5b85d559c362371834d05737c68d",
             "updated": 1714393369,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/7f20335e617e5bc47af5ca19ae834ef6e9119fca",
             "title": "Merge pull request #2417 from dempseyatgithub/normalize-malformed-rev\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/7f20335e617e5bc47af5ca19ae834ef6e9119fca",
             "updated": 1714393345,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/9b0b7dcd5f8b85bc1fb39ed5c16f3747fb02bb2c",
             "title": "Merge pull request #2423 from dempseyatgithub/SE-0428-update-status-f\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/9b0b7dcd5f8b85bc1fb39ed5c16f3747fb02bb2c",
             "updated": 1714393289,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=pvszzano",
             "title": "Reminder: Privacy requirement for app submissions starts May\u00a01",
             "link": "https://developer.apple.com/news/?id=pvszzano",
             "updated": 1714154450,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0cd9cbfbf3f7957802b9735444f96a9daac2ac34",
             "title": "Update status of SE-0428 for acceptance announcment",
             "link": "https://github.com/apple/swift-evolution/commit/0cd9cbfbf3f7957802b9735444f96a9daac2ac34",
             "updated": 1714041628,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/c6eeb3f303353b7d3b2948ef0756ac6f8dbee104",
             "title": "SE-0433 Add missing link to acceptance announcment",
             "link": "https://github.com/apple/swift-evolution/commit/c6eeb3f303353b7d3b2948ef0756ac6f8dbee104",
             "updated": 1714041068,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0cc44cf05941865632e65b729b78103d75579245",
             "title": "Update 0433-mutex.md (#2421)",
             "link": "https://github.com/apple/swift-evolution/commit/0cc44cf05941865632e65b729b78103d75579245",
             "updated": 1714032000,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024a",
             "title": "iOS 17.5 beta 3 (21F5063f)",
             "link": "https://developer.apple.com/news/releases/?id=04232024a",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024b",
             "title": "iPadOS 17.5 beta 3 (21F5063f)",
             "link": "https://developer.apple.com/news/releases/?id=04232024b",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024c",
             "title": "macOS 14.5 beta 3 (23F5064f)",
             "link": "https://developer.apple.com/news/releases/?id=04232024c",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024d",
             "title": "tvOS 17.5 beta 3 (21L5558d)",
             "link": "https://developer.apple.com/news/releases/?id=04232024d",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024e",
             "title": "visionOS 1.2 beta 3 (21O5570d)",
             "link": "https://developer.apple.com/news/releases/?id=04232024e",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04232024f",
             "title": "watchOS 10.5 beta 3 (21T5560d)",
             "link": "https://developer.apple.com/news/releases/?id=04232024f",
             "updated": 1713891600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=2xslnwof",
             "title": "Q&amp;A: Promoting your app or game with Apple\u00a0Search\u00a0Ads",
             "link": "https://developer.apple.com/news/?id=2xslnwof",
             "updated": 1713888052,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=zbd1c67x",
             "title": "Apple Search Ads now available in Brazil and more Latin\u00a0American markets",
             "link": "https://developer.apple.com/news/?id=zbd1c67x",
             "updated": 1713880837,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0a3c9a2bf59c1bef6989c597ee3ea29fef7a5132",
             "title": "Remove erroneous upcoming feature flag from SE-0429 (#2416)",
             "link": "https://github.com/apple/swift-evolution/commit/0a3c9a2bf59c1bef6989c597ee3ea29fef7a5132",
             "updated": 1713877900,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=48bfiihn",
             "title": "Let loose.",
             "link": "https://developer.apple.com/news/?id=48bfiihn",
             "updated": 1713877246,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/fa26c20271379107190c5c8e268908032b99bb11",
             "title": "Normalize review metadata",
             "link": "https://github.com/apple/swift-evolution/commit/fa26c20271379107190c5c8e268908032b99bb11",
             "updated": 1713852494,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/43b894b0c496b69dd8636bc97bb720212647bb7a",
             "title": "Switch feature flag from upcoming to experimental (#2415)",
             "link": "https://github.com/apple/swift-evolution/commit/43b894b0c496b69dd8636bc97bb720212647bb7a",
             "updated": 1713807990,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/3a0ba96f7d09df771e82e0bce95bda6a8f1dc8cd",
             "title": "Merge pull request #2414 from dempseyatgithub/normalize-github-profil\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/3a0ba96f7d09df771e82e0bce95bda6a8f1dc8cd",
             "updated": 1713803234,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/2a168719b9269f6da7edda3344cc819e7ce1646b",
             "title": "Merge pull request #2411 from dempseyatgithub/normalize-SE-0255-fields",
             "link": "https://github.com/apple/swift-evolution/commit/2a168719b9269f6da7edda3344cc819e7ce1646b",
             "updated": 1713803195,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/f99f6906c5e01b7304ea2f8467dd5e008820fda0",
             "title": "Merge pull request #2407 from dempseyatgithub/SE-0433-normalize-headi\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/f99f6906c5e01b7304ea2f8467dd5e008820fda0",
             "updated": 1713803142,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/b2eaa918a34e838360eb45d34e46eb1371e8c954",
             "title": "Merge pull request #2401 from insub4067/main",
             "link": "https://github.com/apple/swift-evolution/commit/b2eaa918a34e838360eb45d34e46eb1371e8c954",
             "updated": 1713803098,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/dcc1932a4b8dffbee02be1737d37cf13ecac40a6",
             "title": "Normalize GitHub profile links",
             "link": "https://github.com/apple/swift-evolution/commit/dcc1932a4b8dffbee02be1737d37cf13ecac40a6",
             "updated": 1713800066,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/2310d6a8eab45b2227e9774340f8edd6364a92f8",
             "title": "Update 0220-count-where.md (#2391)",
             "link": "https://github.com/apple/swift-evolution/commit/2310d6a8eab45b2227e9774340f8edd6364a92f8",
             "updated": 1713797037,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/3af3026bfe274d7252204415c44fc6a5fbbe6a79",
             "title": "Add missing Review field to SE-0432 (#2413)",
             "link": "https://github.com/apple/swift-evolution/commit/3af3026bfe274d7252204415c44fc6a5fbbe6a79",
             "updated": 1713778403,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/9de040cfdab159b7228e640499a821870b6379ff",
             "title": "[SE-0428] accept with modifications (#2412)",
             "link": "https://github.com/apple/swift-evolution/commit/9de040cfdab159b7228e640499a821870b6379ff",
             "updated": 1713606374,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=3yl9nsgl",
             "title": "Check out our newest developer activities",
             "link": "https://developer.apple.com/news/?id=3yl9nsgl",
             "updated": 1713542433,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/cdd92395d61e7589c350368cde5f75682e4e6453",
             "title": "Normalize fields for SE-0255",
             "link": "https://github.com/apple/swift-evolution/commit/cdd92395d61e7589c350368cde5f75682e4e6453",
             "updated": 1713513503,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/ee58cba32fd6bc3cd6dd8c9ccadf5ecf99816645",
             "title": "Transferring Result (#2404)",
             "link": "https://github.com/apple/swift-evolution/commit/ee58cba32fd6bc3cd6dd8c9ccadf5ecf99816645",
             "updated": 1713438413,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/f80ad1eddd6bff9720bb8cc16f27c9a4d51e6554",
             "title": "Merge pull request #2410 from apple/glessard-patch-1",
             "link": "https://github.com/apple/swift-evolution/commit/f80ad1eddd6bff9720bb8cc16f27c9a4d51e6554",
             "updated": 1713434836,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024i",
             "title": "TestFlight update",
             "link": "https://developer.apple.com/news/releases/?id=04162024i",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024a",
             "title": "App Store Connect API 3.4.1",
             "link": "https://developer.apple.com/news/releases/?id=04162024a",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024c",
             "title": "iOS 17.5 beta 2 (21F5058e)",
             "link": "https://developer.apple.com/news/releases/?id=04162024c",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024g",
             "title": "iPadOS 17.5 beta 2 (21F5058e)",
             "link": "https://developer.apple.com/news/releases/?id=04162024g",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024e",
             "title": "macOS 14.5 beta 2 (23F5059e)",
             "link": "https://developer.apple.com/news/releases/?id=04162024e",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024d",
             "title": "tvOS 17.5 beta 2 (21L5553e)",
             "link": "https://developer.apple.com/news/releases/?id=04162024d",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024f",
             "title": "visionOS 1.2 beta 2 (21O5565d)",
             "link": "https://developer.apple.com/news/releases/?id=04162024f",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024h",
             "title": "watchOS 10.5 beta 2 (21T5555d)",
             "link": "https://developer.apple.com/news/releases/?id=04162024h",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04162024b",
             "title": "Xcode 15.4 beta (15F5021i)",
             "link": "https://developer.apple.com/news/releases/?id=04162024b",
             "updated": 1713286800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=vczf3oga",
             "title": "Web Distribution now available in iOS\u00a017.5 beta\u00a02 and App\u00a0Store Connect",
             "link": "https://developer.apple.com/news/?id=vczf3oga",
             "updated": 1713283254,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "http://appstorereviewguidelineshistory.com/articles/2024-04-10-music-streaming-services-and-retro-games-emulators/",
             "title": "Clarification on alternative music streaming app payment methods and allowing downloads in retro game console emulator apps",
             "link": "http://appstorereviewguidelineshistory.com/articles/2024-04-10-music-streaming-services-and-retro-games-emulators/",
             "updated": 1712689200,
-            "site_url": "http://www.appstorereviewguidelineshistory.com/"
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04092024b",
             "title": "visionOS 1.2 beta (21O5555f)",
             "link": "https://developer.apple.com/news/releases/?id=04092024b",
             "updated": 1712682000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04092024a",
             "title": "visionOS 1.1.2 (21O231)",
             "link": "https://developer.apple.com/news/releases/?id=04092024a",
             "updated": 1712682000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=pxz79udi",
             "title": "Get ready with the latest beta releases",
             "link": "https://developer.apple.com/news/?id=pxz79udi",
             "updated": 1712345179,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=0kjli9o1",
             "title": "Updated App Review Guidelines now available",
             "link": "https://developer.apple.com/news/?id=0kjli9o1",
             "updated": 1712336217,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=c5gcbgrz",
             "title": "Hello Developer: April 2024",
             "link": "https://developer.apple.com/news/?id=c5gcbgrz",
             "updated": 1712253746,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=ti9czxni",
             "title": "Knotwords: Gage and Schlesinger at the crossroads",
             "link": "https://developer.apple.com/news/?id=ti9czxni",
             "updated": 1712253655,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/embedded-swift-examples/",
             "title": "Get Started with Embedded Swift on ARM and RISC-V Microcontrollers",
             "link": "https://swift.org/blog/embedded-swift-examples/",
             "updated": 1712098800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04022024f",
             "title": "iOS 17.5 beta (21F5048f)",
             "link": "https://developer.apple.com/news/releases/?id=04022024f",
             "updated": 1712077200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04022024e",
             "title": "iPadOS 17.5 beta (21F5048f)",
             "link": "https://developer.apple.com/news/releases/?id=04022024e",
             "updated": 1712077200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04022024d",
             "title": "macOS 14.5 beta (23F5049f)",
             "link": "https://developer.apple.com/news/releases/?id=04022024d",
             "updated": 1712077200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04022024c",
             "title": "tvOS 17.5 beta (21L5543d)",
             "link": "https://developer.apple.com/news/releases/?id=04022024c",
             "updated": 1712077200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=04022024a",
             "title": "watchOS 10.5 beta (21T5545f)",
             "link": "https://developer.apple.com/news/releases/?id=04022024a",
             "updated": 1712077200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03282024a",
             "title": "App Store Connect update",
             "link": "https://developer.apple.com/news/releases/?id=03282024a",
             "updated": 1711645200,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/sswg-update-2024/",
             "title": "SSWG 2024 Annual Update",
             "link": "https://swift.org/blog/sswg-update-2024/",
             "updated": 1711596600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03272024b",
             "title": "iOS 17.4.1 (21E237)",
             "link": "https://developer.apple.com/news/releases/?id=03272024b",
             "updated": 1711558800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03272024a",
             "title": "iPadOS 17.4.1 (21E237)",
             "link": "https://developer.apple.com/news/releases/?id=03272024a",
             "updated": 1711558800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=omf4tekg",
             "title": "WWDC24: June 10-14",
             "link": "https://developer.apple.com/news/?id=omf4tekg",
             "updated": 1711465205,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03252024a",
             "title": "macOS 14.4.1 (23E224)",
             "link": "https://developer.apple.com/news/releases/?id=03252024a",
             "updated": 1711386000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/adwaita-swift/",
             "title": "Writing GNOME Apps with Swift",
             "link": "https://swift.org/blog/adwaita-swift/",
             "updated": 1711321200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03212024b",
             "title": "iOS 16.7.7 (20H330)",
             "link": "https://developer.apple.com/news/releases/?id=03212024b",
             "updated": 1711040400,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03212024a",
             "title": "iPadOS 16.7.7 (20H330)",
             "link": "https://developer.apple.com/news/releases/?id=03212024a",
             "updated": 1711040400,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=x60uzbu9",
             "title": "Provide your trader status in App Store Connect",
             "link": "https://developer.apple.com/news/?id=x60uzbu9",
             "updated": 1711033225,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/benchmarks/",
             "title": "Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks",
             "link": "https://swift.org/blog/benchmarks/",
             "updated": 1710889200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=8c1m8hqt",
             "title": "More options for apps distributed in the European Union",
             "link": "https://developer.apple.com/news/?id=8c1m8hqt",
             "updated": 1710230427,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/byte-sized-swift-tiny-games-playdate/",
             "title": "Byte-sized Swift: Building Tiny Games for the Playdate",
             "link": "https://swift.org/blog/byte-sized-swift-tiny-games-playdate/",
             "updated": 1710198000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "http://appstorereviewguidelineshistory.com/articles/2024-03-08-updated-policies-features-and-clarifications/",
             "title": "Updated policies, upcoming features and clarifications",
             "link": "http://appstorereviewguidelineshistory.com/articles/2024-03-08-updated-policies-features-and-clarifications/",
             "updated": 1709834400,
-            "site_url": "http://www.appstorereviewguidelineshistory.com/"
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03072024c",
             "title": "tvOS 17.4 (21L227)",
             "link": "https://developer.apple.com/news/releases/?id=03072024c",
             "updated": 1709830800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03072024a",
             "title": "watchOS 10.4 (21T216)",
             "link": "https://developer.apple.com/news/releases/?id=03072024a",
             "updated": 1709830800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=p09o9fxd",
             "title": "Uncovering the hidden joys of Finding Hannah",
             "link": "https://developer.apple.com/news/?id=p09o9fxd",
             "updated": 1709827244,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=s8eigiyj",
             "title": "Q&amp;A with the Mac notary service team",
             "link": "https://developer.apple.com/news/?id=s8eigiyj",
             "updated": 1709827243,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=x4g6c2ao",
             "title": "Hello Developer: March 2024",
             "link": "https://developer.apple.com/news/?id=x4g6c2ao",
             "updated": 1709827232,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/pack-iteration/",
             "title": "Iterate Over Parameter Packs in Swift 6.0",
             "link": "https://swift.org/blog/pack-iteration/",
             "updated": 1709767800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=en9v7jtv",
             "title": "New App Store and iOS data analytics now available",
             "link": "https://developer.apple.com/news/?id=en9v7jtv",
             "updated": 1709670633,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03052024h",
             "title": "App Store Connect API 3.4",
             "link": "https://developer.apple.com/news/releases/?id=03052024h",
             "updated": 1709658000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03052024g",
             "title": "Xcode 15.3 (15E204a)",
             "link": "https://developer.apple.com/news/releases/?id=03052024g",
             "updated": 1709658000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03052024b",
             "title": "iOS 15.8.2 (19H384)",
             "link": "https://developer.apple.com/news/releases/?id=03052024b",
             "updated": 1709658000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03052024a",
             "title": "iPadOS 15.8.2 (19H384)",
             "link": "https://developer.apple.com/news/releases/?id=03052024a",
             "updated": 1709658000,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=0yrn1puh",
             "title": "Updates to app distribution in the European Union",
             "link": "https://developer.apple.com/news/?id=0yrn1puh",
             "updated": 1709654457,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=7tt9f8cu",
             "title": "The latest OS Release Candidates are now available",
             "link": "https://developer.apple.com/news/?id=7tt9f8cu",
             "updated": 1709654218,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=flmb6ri3",
             "title": "Updated App Review Guidelines now available",
             "link": "https://developer.apple.com/news/?id=flmb6ri3",
             "updated": 1709654089,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.10-released/",
             "title": "Swift 5.10 Released",
             "link": "https://swift.org/blog/swift-5.10-released/",
             "updated": 1709607600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=03042024f",
             "title": "TestFlight 3.5.1",
             "link": "https://developer.apple.com/news/releases/?id=03042024f",
             "updated": 1709571600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=3d8a9yyh",
             "title": "Privacy updates for App Store submissions",
             "link": "https://developer.apple.com/news/?id=3d8a9yyh",
             "updated": 1709242813,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=02282024a",
             "title": "App Store Connect update",
             "link": "https://developer.apple.com/news/releases/?id=02282024a",
             "updated": 1709164800,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=11ojrqk9",
             "title": "App submissions now open for the latest OS releases",
             "link": "https://developer.apple.com/news/?id=11ojrqk9",
             "updated": 1709132411,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-google-summer-of-code-2024/",
             "title": "Swift joins Google Summer of Code 2024",
             "link": "https://swift.org/blog/swift-google-summer-of-code-2024/",
             "updated": 1708642800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/mlx-swift/",
             "title": "On-device ML research with MLX and Swift",
             "link": "https://swift.org/blog/mlx-swift/",
             "updated": 1708383600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=caakolzs",
             "title": "Developer activities you\u2019ll love",
             "link": "https://developer.apple.com/news/?id=caakolzs",
             "updated": 1707922847,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/summer-of-code-2023-summary/",
             "title": "Swift Summer of Code 2023 Summary",
             "link": "https://swift.org/blog/summer-of-code-2023-summary/",
             "updated": 1707778800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=02082024e",
             "title": "App Store Connect update",
             "link": "https://developer.apple.com/news/releases/?id=02082024e",
             "updated": 1707411600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/releases/?id=02082024g",
             "title": "App Store Connect  1.12.4",
             "link": "https://developer.apple.com/news/releases/?id=02082024g",
             "updated": 1707411600,
-            "site_url": "https://developer.apple.com/news/releases/"
+            "site_url": "https://developer.apple.com/news/releases/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=5mcfho5g",
             "title": "Q&amp;A with the Apple UX writing team",
             "link": "https://developer.apple.com/news/?id=5mcfho5g",
             "updated": 1707408051,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=8b8sp9s5",
             "title": "Hello Developer: February 2024",
             "link": "https://developer.apple.com/news/?id=8b8sp9s5",
             "updated": 1707408034,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=you1yc2h",
             "title": "\u201cThe best version we\u2019ve ever made\u201d: Fantastical comes to Apple Vision Pro",
             "link": "https://developer.apple.com/news/?id=you1yc2h",
             "updated": 1707408006,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=e59yuu15",
             "title": "Updates to support app distribution changes in the European Union",
             "link": "https://developer.apple.com/news/?id=e59yuu15",
             "updated": 1707404401,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=fxu2qp7b",
             "title": "App Store Connect upload requirement starts April 29",
             "link": "https://developer.apple.com/news/?id=fxu2qp7b",
             "updated": 1707231643,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=vn4toshi",
             "title": "Apply for the Swift Student Challenge now through February 25",
             "link": "https://developer.apple.com/news/?id=vn4toshi",
             "updated": 1707148858,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=tr8v670x",
             "title": "Request a consultation about the changes to apps distributed in the European Union",
             "link": "https://developer.apple.com/news/?id=tr8v670x",
             "updated": 1706799658,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-openapi-generator-1.0/",
             "title": "Swift OpenAPI Generator 1.0 Released",
             "link": "https://swift.org/blog/swift-openapi-generator-1.0/",
             "updated": 1706662800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=gvesi4wr",
             "title": "Blackbox: Rebooting an inventive puzzle game for visionOS",
             "link": "https://developer.apple.com/news/?id=gvesi4wr",
             "updated": 1706634051,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=tqkgshu3",
             "title": "Apple Vision Pro developer stories and Q&amp;As",
             "link": "https://developer.apple.com/news/?id=tqkgshu3",
             "updated": 1706634026,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=0l93cjfe",
             "title": "Price and tax updates for apps, in-app purchases, and subscriptions",
             "link": "https://developer.apple.com/news/?id=0l93cjfe",
             "updated": 1706630434,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=73iijfon",
             "title": "Get ready with the latest beta releases",
             "link": "https://developer.apple.com/news/?id=73iijfon",
             "updated": 1706626810,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "http://appstorereviewguidelineshistory.com/articles/2024-01-29-notarization-in-european-union/",
             "title": "Updated rules on app distribution in the European Union and more",
             "link": "http://appstorereviewguidelineshistory.com/articles/2024-01-29-notarization-in-european-union/",
             "updated": 1706464800,
-            "site_url": "http://www.appstorereviewguidelineshistory.com/"
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=f1v8pyay",
             "title": "Apple introduces new options worldwide for streaming game services and apps that provide access to mini apps and games",
             "link": "https://developer.apple.com/news/?id=f1v8pyay",
             "updated": 1706199018,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=fsmaf67j",
             "title": "Update on apps distributed in the European Union",
             "link": "https://developer.apple.com/news/?id=fsmaf67j",
             "updated": 1706198742,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=7j1f99yf",
             "title": "Updated App Store Review Guidelines now available",
             "link": "https://developer.apple.com/news/?id=7j1f99yf",
             "updated": 1706198289,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=4610zxw8",
             "title": "Swift Student Challenge applications open February 5",
             "link": "https://developer.apple.com/news/?id=4610zxw8",
             "updated": 1706025640,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=455tez3y",
             "title": "\u201cThe full impact of fruit destruction\u201d: How Halfbrick cultivated Super Fruit Ninja on Apple Vision Pro",
             "link": "https://developer.apple.com/news/?id=455tez3y",
             "updated": 1705593610,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=plt8qzea",
             "title": "StoreKit and review guideline update",
             "link": "https://developer.apple.com/news/?id=plt8qzea",
             "updated": 1705442453,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "http://appstorereviewguidelineshistory.com/articles/2024-01-17-storekit-review-guideline-update/",
             "title": "US apps can now link to payment options on developer's website",
             "link": "http://appstorereviewguidelineshistory.com/articles/2024-01-17-storekit-review-guideline-update/",
             "updated": 1705428000,
-            "site_url": "http://www.appstorereviewguidelineshistory.com/"
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=q0cq9dv9",
             "title": "Realizing their vision: How djay designed for visionOS",
             "link": "https://developer.apple.com/news/?id=q0cq9dv9",
             "updated": 1704988842,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=8fppguuh",
             "title": "Hello Developer: January 2024",
             "link": "https://developer.apple.com/news/?id=8fppguuh",
             "updated": 1704988829,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=prl6dp5r",
             "title": "Q&amp;A: Building apps for visionOS",
             "link": "https://developer.apple.com/news/?id=prl6dp5r",
             "updated": 1704988827,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=h5nqhq3y",
             "title": "Submit your apps to the App Store for Apple Vision Pro",
             "link": "https://developer.apple.com/news/?id=h5nqhq3y",
             "updated": 1704729608,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=7k36ynqd",
             "title": "Updated Apple Developer Program License Agreement now available",
             "link": "https://developer.apple.com/news/?id=7k36ynqd",
             "updated": 1703274975,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=6e9odqgu",
             "title": "Announcing contingent pricing for subscriptions",
             "link": "https://developer.apple.com/news/?id=6e9odqgu",
             "updated": 1702672224,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=wb126b0o",
             "title": "Get ready with the latest beta releases",
             "link": "https://developer.apple.com/news/?id=wb126b0o",
             "updated": 1702566044,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=vpxs1abn",
             "title": "Hello Developer: December 2023",
             "link": "https://developer.apple.com/news/?id=vpxs1abn",
             "updated": 1701969039,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=fi8ne6ji",
             "title": "Q&amp;A: Spatial design for visionOS",
             "link": "https://developer.apple.com/news/?id=fi8ne6ji",
             "updated": 1701969004,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://developer.apple.com/news/?id=d7d9t55v",
             "title": "\u201cWe\u2019re trying to drive change\": Meet three App Store Award-winning teams",
             "link": "https://developer.apple.com/news/?id=d7d9t55v",
             "updated": 1701968422,
-            "site_url": "https://developer.apple.com/news/"
+            "site_url": "https://developer.apple.com/news/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.9-backtraces/",
             "title": "On-Crash Backtraces in Swift",
             "link": "https://swift.org/blog/swift-5.9-backtraces/",
             "updated": 1699398000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/packages-page/",
             "title": "Introducing Packages on Swift.org",
             "link": "https://swift.org/blog/packages-page/",
             "updated": 1698795000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-everywhere-windows-interop/",
             "title": "Swift Everywhere: Using Interoperability to Build on Windows",
             "link": "https://swift.org/blog/swift-everywhere-windows-interop/",
             "updated": 1697151600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/whats-new-swift-debugging-5.9/",
             "title": "Debugging Improvements in Swift 5.9",
             "link": "https://swift.org/blog/whats-new-swift-debugging-5.9/",
             "updated": 1695859200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.9-released/",
             "title": "Swift 5.9 Released",
             "link": "https://swift.org/blog/swift-5.9-released/",
             "updated": 1694995200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/sswg-update-2023/",
             "title": "SSWG 2023 Annual Update",
             "link": "https://swift.org/blog/sswg-update-2023/",
             "updated": 1692226800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/introducing-swift-http-types/",
             "title": "Introducing Swift HTTP Types",
             "link": "https://swift.org/blog/introducing-swift-http-types/",
             "updated": 1688943600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/introducing-swift-openapi-generator/",
             "title": "Introducing Swift OpenAPI Generator",
             "link": "https://swift.org/blog/introducing-swift-openapi-generator/",
             "updated": 1686528000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "http://appstorereviewguidelineshistory.com/articles/2023-06-06-ads-reporting-and-more/",
             "title": "Ads reporting requirements, consequences of impersonating apps, spelling error fixes and clarifications",
             "link": "http://appstorereviewguidelineshistory.com/articles/2023-06-06-ads-reporting-and-more/",
             "updated": 1685991600,
-            "site_url": "http://www.appstorereviewguidelineshistory.com/"
+            "site_url": "http://www.appstorereviewguidelineshistory.com/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/using-upcoming-feature-flags/",
             "title": "Using Upcoming Feature Flags",
             "link": "https://swift.org/blog/using-upcoming-feature-flags/",
             "updated": 1685401200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         }
     ]
 }

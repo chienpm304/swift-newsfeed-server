@@ -6,42 +6,48 @@
             "title": "The Art of Multiplatform Programming: The Secret to Maximizing Shared Code",
             "link": "https://artandscienceofcoding.com/science/kmm-maximizing-shared-code/",
             "updated": 1664557200,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         },
         {
             "id": "https://artandscienceofcoding.com/science/avoid-this-kmm-technique",
             "title": "Why iOS Engineers Should Avoid This Glorified KMM Technique",
             "link": "https://artandscienceofcoding.com/science/avoid-this-kmm-technique/",
             "updated": 1663779600,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         },
         {
             "id": "https://artandscienceofcoding.com/science/kmm-for-ios-engineers",
             "title": "The iOS Engineer\u2019s Guide to Beginning Kotlin Multiplatform Development",
             "link": "https://artandscienceofcoding.com/science/kmm-for-ios-engineers/",
             "updated": 1661540400,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         },
         {
             "id": "https://artandscienceofcoding.com/devrecipes/database/PostgreSQL",
             "title": "PostgreSQL",
             "link": "https://artandscienceofcoding.com/devrecipes/database/postgresql/",
             "updated": 1646067600,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         },
         {
             "id": "https://artandscienceofcoding.com/science/readme-as-code",
             "title": "README as Code",
             "link": "https://artandscienceofcoding.com/science/readme-as-code/",
             "updated": 1645221600,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         },
         {
             "id": "https://artandscienceofcoding.com/art/how-to-learn-keyboard-shortcuts",
             "title": "Efficiently Learning IDE Keyboard Shortcuts",
             "link": "https://artandscienceofcoding.com/art/how-to-learn-keyboard-shortcuts/",
             "updated": 1643400000,
-            "site_url": "https://artandscienceofcoding.com/"
+            "site_url": "https://artandscienceofcoding.com/",
+            "slug": "development"
         }
     ]
 }

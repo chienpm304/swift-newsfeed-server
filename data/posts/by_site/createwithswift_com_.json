@@ -6,105 +6,120 @@
             "title": "Applying sentiment analysis using the Natural Language framework",
             "link": "https://www.createwithswift.com/applying-sentiment-analysis-using-natural-language-framework/",
             "updated": 1714111209,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "662904dc4f8afe00010c0a74",
             "title": "Creating an immersive experience with a 360-degree image in visionOS",
             "link": "https://www.createwithswift.com/creating-immersive-experience-360-degree-image-visionos/",
             "updated": 1714024856,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6627b7f34f8afe00010c095d",
             "title": "Searching for points of interest in MapKit with SwiftUI",
             "link": "https://www.createwithswift.com/searching-points-interest-mapkit-swiftui/",
             "updated": 1713855689,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "661cebdd1ca4ac0001780354",
             "title": "Create with Swift at Swift Heroes 2024",
             "link": "https://www.createwithswift.com/create-with-swift-at-swift-heroes-2024/",
             "updated": 1713506437,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "661cf5851ca4ac0001780372",
             "title": "imaginary institute at Desina02",
             "link": "https://www.createwithswift.com/imaginary-institute-at-desina-02/",
             "updated": 1713505512,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6621132ed377dc0001a775ef",
             "title": "Using server-side Swift for machine learning processing",
             "link": "https://www.createwithswift.com/using-server-side-swift-machine-learning-processing/",
             "updated": 1713423632,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "661e801f1ca4ac000178042e",
             "title": "Making your lists searchable in a SwiftUI app",
             "link": "https://www.createwithswift.com/making-your-lists-searchable-in-a-swiftui-app/",
             "updated": 1713251910,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "66190f751ca4ac000177f340",
             "title": "Embracing Imaginary Spatial User Experience in visionOS",
             "link": "https://www.createwithswift.com/embracing-imaginary-spatial-user-experience-in-visionos/",
             "updated": 1712901602,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6617bbf41ca4ac000177f281",
             "title": "Creating Shapes from SVG in a SwiftUI app",
             "link": "https://www.createwithswift.com/creating-shapes-from-svg-in-a-swiftui-app/",
             "updated": 1712822430,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6612df4a0fcd350001b68fc6",
             "title": "Display empty states with ContentUnavailableView in SwiftUI",
             "link": "https://www.createwithswift.com/display-empty-states-with-contentunavailableview-in-swiftui/",
             "updated": 1712642436,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "660d0aa10fcd350001b67bce",
             "title": "Ensure frequent updates of Accessibility Elements",
             "link": "https://www.createwithswift.com/ensure-frequent-updates-of-accessibility-elements/",
             "updated": 1712297954,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "660d5c8d0fcd350001b67c65",
             "title": "Camera capture setup in a SwiftUI app",
             "link": "https://www.createwithswift.com/camera-capture-setup-in-a-swiftui-app/",
             "updated": 1712210412,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "660c195c0fcd350001b67bac",
             "title": "Adding Map Controls to a Map view with SwiftUI and MapKit",
             "link": "https://www.createwithswift.com/adding-map-controls-to-a-map-view-with-swiftui-and-mapkit/",
             "updated": 1712045713,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6606c2cb1309b3000145383c",
             "title": "Using MapPolyline overlays in MapKit with SwiftUI",
             "link": "https://www.createwithswift.com/using-mappolyline-overlays-in-mapkit-with-swiftui/",
             "updated": 1711695647,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         },
         {
             "id": "6602d6261309b30001453741",
             "title": "Using MapPolygon overlays in MapKit with SwiftUI",
             "link": "https://www.createwithswift.com/using-mappolygon-overlays-in-mapkit-with-swiftui/",
             "updated": 1711438255,
-            "site_url": "https://www.createwithswift.com/"
+            "site_url": "https://www.createwithswift.com/",
+            "slug": "development"
         }
     ]
 }

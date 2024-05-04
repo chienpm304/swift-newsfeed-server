@@ -1,404 +1,461 @@
 {
-    "updated": 1714663524,
+    "updated": 1714834845,
     "posts": [
         {
             "id": "2132617371",
             "title": "Wed, April 24: Open-source day! I'm keeping my channel open as I work on some projects (with some meeting breaks). Join me and ask anything.",
             "link": "https://www.twitch.tv/videos/2132617371",
             "updated": 1714352695,
-            "site_url": "https://www.twitch.tv/danielsaidi"
+            "site_url": "https://www.twitch.tv/danielsaidi",
+            "slug": "twitch"
         },
         {
             "id": "2132002067",
             "title": "Get Useful Errors from ViewInspector (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2132002067",
             "updated": 1714296571,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "2131581476",
             "title": "First time with Unreal Engine - Then Harold Halibut new game",
             "link": "https://www.twitch.tv/videos/2131581476",
             "updated": 1714248794,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2130676971",
             "title": "Swift/iOS App Development \u2014 Black Highlighter !highlighter",
             "link": "https://www.twitch.tv/videos/2130676971",
             "updated": 1714164627,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:ETdrsj9Ztz8",
             "title": "\ud83c\udf31 Living the Creative Act: \"Tuning Out\" S5E11",
             "link": "https://www.youtube.com/watch?v=ETdrsj9Ztz8",
             "updated": 1714156319,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:KZh8GDJFSzc",
             "title": "Live-coding and rock'n-roll | Swift, iOS, subways, Vapor, Underway",
             "link": "https://www.youtube.com/watch?v=KZh8GDJFSzc",
             "updated": 1714139431,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:2nc-MQNLWAI",
             "title": "\ud83c\udf31 Living the Creative Act: \"Essence\" S5E9",
             "link": "https://www.youtube.com/watch?v=2nc-MQNLWAI",
             "updated": 1714109159,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:yactcIylm_Y",
             "title": "Live-coding, Swift, iOS, Xcode, Vapor. I make an indie subway app for NYC",
             "link": "https://www.youtube.com/watch?v=yactcIylm_Y",
             "updated": 1714048216,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2128923713",
             "title": "Swift/iOS App Development \u2014 Black Highlighter !highlighter",
             "link": "https://www.twitch.tv/videos/2128923713",
             "updated": 1713990205,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:bCferJmoHcg",
             "title": "\ud83c\udf31 Living the Creative Act: \"Self-Awareness\" S5E12 video",
             "link": "https://www.youtube.com/watch?v=bCferJmoHcg",
             "updated": 1713932596,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2128201602",
             "title": "Wed, April 24: Open-source day! I'm keeping my channel open as I work on various projects. Join me and ask any question you want.",
             "link": "https://www.twitch.tv/videos/2128201602",
             "updated": 1713926853,
-            "site_url": "https://www.twitch.tv/danielsaidi"
+            "site_url": "https://www.twitch.tv/danielsaidi",
+            "slug": "twitch"
         },
         {
             "id": "2128114717",
             "title": "SwiftUI Shapes Library followed by Jedi Survivor",
             "link": "https://www.twitch.tv/videos/2128114717",
             "updated": 1713910590,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2128067618",
             "title": "SwiftUI Shapes Library followed by Jedi Survivor",
             "link": "https://www.twitch.tv/videos/2128067618",
             "updated": 1713904903,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2127158070",
             "title": "Swift/iOS App Development \u2014 Black Highlighter !highlighter",
             "link": "https://www.twitch.tv/videos/2127158070",
             "updated": 1713812567,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2125467924",
             "title": "SwiftUI Shapes then Stellar Blade Demo",
             "link": "https://www.twitch.tv/videos/2125467924",
             "updated": 1713644148,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2123626984",
             "title": "ELDEN RING - no programming today - !deaths",
             "link": "https://www.twitch.tv/videos/2123626984",
             "updated": 1713471063,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2121953251",
             "title": "SwiftUI Shapes Library Upkeep - Jedi Survivor Gameplay",
             "link": "https://www.twitch.tv/videos/2121953251",
             "updated": 1713301351,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2121055856",
             "title": "Swift/iOS App Development \u2014 Black Highlighter !highlighter",
             "link": "https://www.twitch.tv/videos/2121055856",
             "updated": 1713209973,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2120058941",
             "title": "Highlight: Test Clarity (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2120058941",
             "updated": 1713110122,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:25tdSFl2MRM",
             "title": "Live-coding and music! iOS, Swift, Xcode. Part 2, April 7 2024",
             "link": "https://www.youtube.com/watch?v=25tdSFl2MRM",
             "updated": 1713099309,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2119744394",
             "title": "Test Clarity (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2119744394",
             "updated": 1713087029,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "2119322590",
             "title": "SwiftUI - AFKJourney then Fallout 76 First Playthrough! - !afkjourney campaign  to support the stream",
             "link": "https://www.twitch.tv/videos/2119322590",
             "updated": 1713038748,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2117517933",
             "title": "AFKJourney then Elden Ring - !afkjourney campaign  to support the stream - !deaths",
             "link": "https://www.twitch.tv/videos/2117517933",
             "updated": 1712868067,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2115803829",
             "title": "Jedi Survivor - SwiftUI and Gameplay - !afkjourney to support the stream!",
             "link": "https://www.twitch.tv/videos/2115803829",
             "updated": 1712696475,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:MKauOwm9OiM",
             "title": "Live-coding and music! Swift, iOS, Xcode. Part 1, Sunday, April 7, 2024",
             "link": "https://www.youtube.com/watch?v=MKauOwm9OiM",
             "updated": 1712676862,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2114086426",
             "title": "Checking out an Idle Game - AFK Journey (PC) - #ad https://strms.net/afkjourney_nutterfi",
             "link": "https://www.twitch.tv/videos/2114086426",
             "updated": 1712525156,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:_uS4Szc95fQ",
             "title": "Live-coding and Jazz. iOS, Swift, Xcode.",
             "link": "https://www.youtube.com/watch?v=_uS4Szc95fQ",
             "updated": 1712503786,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2112095439",
             "title": "Swift/iOS AI App Development \u2014 Black Highlighter !highlighter",
             "link": "https://www.twitch.tv/videos/2112095439",
             "updated": 1712346066,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:sG3YkR3kEm0",
             "title": "Version control allows us software engineers to quickly reduce a feature to its essential",
             "link": "https://www.youtube.com/watch?v=sG3YkR3kEm0",
             "updated": 1712184064,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:--Z8gtA0G2U",
             "title": "Sometimes the juice just isn't flowing and that's totally okay. It's okay to take a break",
             "link": "https://www.youtube.com/watch?v=--Z8gtA0G2U",
             "updated": 1712184062,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:PBDrJ83Cim4",
             "title": "We should be using our own strengths and weaknesses to create something that is unique.",
             "link": "https://www.youtube.com/watch?v=PBDrJ83Cim4",
             "updated": 1712184062,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:9Dp9STShgto",
             "title": "Let's cheer for each other!",
             "link": "https://www.youtube.com/watch?v=9Dp9STShgto",
             "updated": 1712184062,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2110206829",
             "title": "Swift/iOS App Development",
             "link": "https://www.twitch.tv/videos/2110206829",
             "updated": 1712171377,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2108328020",
             "title": "Swift Development for Playdate + Crime",
             "link": "https://www.twitch.tv/videos/2108328020",
             "updated": 1711998142,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2108322207",
             "title": "Swift Development for Playdate + Crime",
             "link": "https://www.twitch.tv/videos/2108322207",
             "updated": 1711997781,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2106506666",
             "title": "Ideation for a Twitch Overlay Game - MK1 Peacemaker tonight!",
             "link": "https://www.twitch.tv/videos/2106506666",
             "updated": 1711829055,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2104536231",
             "title": "SwiftUI Observable Framework - ELDEN RING Starts today!",
             "link": "https://www.twitch.tv/videos/2104536231",
             "updated": 1711656214,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2103534652",
             "title": "Swift macOS App Programming \u2014 Stream Overlays",
             "link": "https://www.twitch.tv/videos/2103534652",
             "updated": 1711566171,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2102635965",
             "title": "SwiftUI library then Jedi Survivor",
             "link": "https://www.twitch.tv/videos/2102635965",
             "updated": 1711483374,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2101667819",
             "title": "Swift macOS App Programming \u2014 Stream Overlays",
             "link": "https://www.twitch.tv/videos/2101667819",
             "updated": 1711393996,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2100349807",
             "title": "Mass Effect 2 \u2014 Jerk Shepard",
             "link": "https://www.twitch.tv/videos/2100349807",
             "updated": 1711281184,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2099771713",
             "title": "Checking out the Discord Embedded App SDK",
             "link": "https://www.twitch.tv/videos/2099771713",
             "updated": 1711224917,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:qCzDnVky-D8",
             "title": "False start live-coding, trying to work on my subway app.",
             "link": "https://www.youtube.com/watch?v=qCzDnVky-D8",
             "updated": 1711163727,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2098713626",
             "title": "Swift App Development",
             "link": "https://www.twitch.tv/videos/2098713626",
             "updated": 1711136135,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2097782705",
             "title": "SwiftUI GameUI: Jedi Survivor + Gameplay",
             "link": "https://www.twitch.tv/videos/2097782705",
             "updated": 1711052050,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2095951528",
             "title": "SwiftUI development + Spider-Man 2 Gaming",
             "link": "https://www.twitch.tv/videos/2095951528",
             "updated": 1710879118,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2093143797",
             "title": "Making an Icon for Channel Points! Maybe Gaming Later",
             "link": "https://www.twitch.tv/videos/2093143797",
             "updated": 1710621280,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:lrSd8ug6WEg",
             "title": "\ud83c\udf31 Living the Creative Act: \"Apocrypha \" S5E10",
             "link": "https://www.youtube.com/watch?v=lrSd8ug6WEg",
             "updated": 1710582392,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2092038974",
             "title": "Swift App Development",
             "link": "https://www.twitch.tv/videos/2092038974",
             "updated": 1710528785,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2091132304",
             "title": "Swift BLE app + Jedi Survivor",
             "link": "https://www.twitch.tv/videos/2091132304",
             "updated": 1710446531,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2089282364",
             "title": "Swift BLE app + Spider-Man 2",
             "link": "https://www.twitch.tv/videos/2089282364",
             "updated": 1710273856,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2088320564",
             "title": "Swift App Development",
             "link": "https://www.twitch.tv/videos/2088320564",
             "updated": 1710184620,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "2086496640",
             "title": "Goats!",
             "link": "https://www.twitch.tv/videos/2086496640",
             "updated": 1710019090,
-            "site_url": "https://www.twitch.tv/nutterfi"
+            "site_url": "https://www.twitch.tv/nutterfi",
+            "slug": "twitch"
         },
         {
             "id": "2085404223",
             "title": "Swift App Development",
             "link": "https://www.twitch.tv/videos/2085404223",
             "updated": 1709930733,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "yt:video:dov3jWu7qck",
             "title": "Live-coding: Swift, iOS, and Vapor. Building my app into a sustainable business. March 3, 2024",
             "link": "https://www.youtube.com/watch?v=dov3jWu7qck",
             "updated": 1709843619,
-            "site_url": "https://www.twitch.tv/FullQueueDeveloper"
+            "site_url": "https://www.twitch.tv/FullQueueDeveloper",
+            "slug": "twitch"
         },
         {
             "id": "2078690888",
             "title": "Apple Vision Pro Development \u2014 Kineo Animation App !kineo",
             "link": "https://www.twitch.tv/videos/2078690888",
             "updated": 1709324921,
-            "site_url": "https://www.twitch.tv/cocoatype"
+            "site_url": "https://www.twitch.tv/cocoatype",
+            "slug": "twitch"
         },
         {
             "id": "1762439429",
             "title": "Highlight: Quick, Small Refactorings in Swift",
             "link": "https://www.twitch.tv/videos/1762439429",
             "updated": 1678545094,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         }
     ]
 }

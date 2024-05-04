@@ -6,42 +6,48 @@
             "title": "A way to handle NSNotification\u2019s observation token",
             "link": "https://medium.com/@adrianmsliwa/a-way-to-handle-nsnotifications-observation-token-a20269eb6fcc?source=rss-e68597695f05------2",
             "updated": 1546951590,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/efcd74958e95",
             "title": "Static let pattern",
             "link": "https://medium.com/@adrianmsliwa/static-let-pattern-efcd74958e95?source=rss-e68597695f05------2",
             "updated": 1546951554,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/171102ef9ada",
             "title": "Extensible extension of a Micro Auto Layout DSL",
             "link": "https://medium.com/@adrianmsliwa/extensible-extension-of-a-micro-auto-layout-dsl-171102ef9ada?source=rss-e68597695f05------2",
             "updated": 1546231121,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bccb34ad6f2c",
             "title": "Simple trick to improve handling cells in UITableView and UICollectionView",
             "link": "https://medium.com/@adrianmsliwa/simple-trick-to-improve-handling-cells-in-uitableview-and-uicollectionview-bccb34ad6f2c?source=rss-e68597695f05------2",
             "updated": 1546231109,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f88685805079",
             "title": "How to pollute your code with external dependency (and how to not do that)?",
             "link": "https://medium.com/@adrianmsliwa/how-to-pollute-your-code-with-external-dependency-and-how-to-not-do-that-f88685805079?source=rss-e68597695f05------2",
             "updated": 1546231095,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/fe5f4e83c386",
             "title": "Wrapper design pattern by example using SFAuthenticationSession and ASWebAuthenticationSession",
             "link": "https://medium.com/@adrianmsliwa/wrapper-design-pattern-by-example-using-sfauthenticationsession-and-aswebauthenticationsession-fe5f4e83c386?source=rss-e68597695f05------2",
             "updated": 1546231079,
-            "site_url": "https://medium.com/@adrianmsliwa"
+            "site_url": "https://medium.com/@adrianmsliwa",
+            "slug": "development"
         }
     ]
 }

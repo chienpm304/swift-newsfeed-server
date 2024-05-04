@@ -6,70 +6,80 @@
             "title": "Identifying and Developing Leadership within Engineering Teams",
             "link": "https://pyartez.github.io/management/identifying-and-developing-leadership-within-engineering-teams.html",
             "updated": 1709334000,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/strategic-planning-in-engineering-teams.html",
             "title": "Strategic Planning in Engineering Teams",
             "link": "https://pyartez.github.io/management/strategic-planning-in-engineering-teams.html",
             "updated": 1704754800,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/fostering-a-culture-of-continuous-learning-and-improvement-a-comprehensive-guide-for-engineering-managers.html",
             "title": "Fostering a Culture of Continuous Learning and Improvement: A Comprehensive Guide for Engineering Managers",
             "link": "https://pyartez.github.io/management/fostering-a-culture-of-continuous-learning-and-improvement-a-comprehensive-guide-for-engineering-managers.html",
             "updated": 1695855600,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/the-role-of-emotional-intelligence-in-engineering-management.html",
             "title": "The Role of Emotional Intelligence in Engineering Management",
             "link": "https://pyartez.github.io/management/the-role-of-emotional-intelligence-in-engineering-management.html",
             "updated": 1695250800,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/influencing-and-driving-change-as-an-engineering-manager.html",
             "title": "Influencing and driving change as an Engineering Manager",
             "link": "https://pyartez.github.io/management/influencing-and-driving-change-as-an-engineering-manager.html",
             "updated": 1693177200,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/structuring-your-first-1-to-1-as-an-engineering-manager.html",
             "title": "Structuring Your First 1-to-1 as an Engineering Manager",
             "link": "https://pyartez.github.io/management/structuring-your-first-1-to-1-as-an-engineering-manager.html",
             "updated": 1691190000,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/best-practices-for-giving-effective-feedback-in-engineering-management.html",
             "title": "Best Practices for Giving Effective Feedback in Engineering Management",
             "link": "https://pyartez.github.io/management/best-practices-for-giving-effective-feedback-in-engineering-management.html",
             "updated": 1689462000,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/best-practices-for-managing-employee-development-in-engineering-management.html",
             "title": "Best Practices for Managing Employee Career Development in Engineering Management",
             "link": "https://pyartez.github.io/management/best-practices-for-managing-employee-development-in-engineering-management.html",
             "updated": 1688079600,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/best-practices-for-preventing-and-managing-employee-burnout-in-engineering-management.html",
             "title": "Best Practices for Preventing and Managing Employee Burnout in Engineering Management",
             "link": "https://pyartez.github.io/management/best-practices-for-preventing-and-managing-employee-burnout-in-engineering-management.html",
             "updated": 1686783600,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyartez.github.io/management/best-practices-for-handling-difficult-conversations-in-engineering-management.html",
             "title": "Best Practices for Handling Difficult Conversations in Engineering Management",
             "link": "https://pyartez.github.io/management/best-practices-for-handling-difficult-conversations-in-engineering-management.html",
             "updated": 1685833200,
-            "site_url": "https://pyartez.github.io"
+            "site_url": "https://pyartez.github.io",
+            "slug": "development"
         }
     ]
 }

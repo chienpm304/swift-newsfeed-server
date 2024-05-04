@@ -6,70 +6,80 @@
             "title": "Search",
             "link": "https://kean.blog/post/pulse-search",
             "updated": 1674543600,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/pulse-3",
             "title": "Pulse 3",
             "link": "https://kean.blog/post/pulse-3",
             "updated": 1673334000,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/pulse-2",
             "title": "Pulse 2.0",
             "link": "https://kean.blog/post/pulse-2",
             "updated": 1660633200,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/create-api",
             "title": "Introducing CreateAPI",
             "link": "https://kean.blog/post/create-api",
             "updated": 1641279600,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/new-api-client",
             "title": "Web API Client in Swift",
             "link": "https://kean.blog/post/new-api-client",
             "updated": 1637478000,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/learn-ios",
             "title": "Best Resources for iOS Engineers",
             "link": "https://kean.blog/post/learn-ios",
             "updated": 1636959600,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/pulse-pro",
             "title": "Pulse Pro",
             "link": "https://kean.blog/post/pulse-pro",
             "updated": 1633417200,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/open-sourcing-pulse",
             "title": "Open-Sourcing Pulse",
             "link": "https://kean.blog/post/open-sourcing-pulse",
             "updated": 1625554800,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/lazy-image",
             "title": "LazyImage",
             "link": "https://kean.blog/post/lazy-image",
             "updated": 1622617200,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         },
         {
             "id": "https://kean.blog/post/client-side-search",
             "title": "Client-Side Search",
             "link": "https://kean.blog/post/client-side-search",
             "updated": 1617951600,
-            "site_url": "https://kean.blog/"
+            "site_url": "https://kean.blog/",
+            "slug": "development"
         }
     ]
 }

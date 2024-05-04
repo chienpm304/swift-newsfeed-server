@@ -6,70 +6,80 @@
             "title": "Introducing Elite Soccer Club",
             "link": "https://swiftjectivec.com/Introducing-Elite-Soccer-Club/",
             "updated": 1712682000,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Stupid-and-Quick-Persistency-on-iOS-with-Swift",
             "title": "Quick and Painless Persistency on iOS",
             "link": "https://swiftjectivec.com/Stupid-and-Quick-Persistency-on-iOS-with-Swift/",
             "updated": 1711645200,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Releasing-Indie-Apps-Based-on-Themes-for-goals",
             "title": "Basing Indie Releases in Term of Goals",
             "link": "https://swiftjectivec.com/Releasing-Indie-Apps-Based-on-Themes-for-goals/",
             "updated": 1710435600,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/SwiftUI-Alignment-Guides-Tip-Tricks",
             "title": "Fun Alignment Guide Tricks",
             "link": "https://swiftjectivec.com/SwiftUI-Alignment-Guides-Tip-Tricks/",
             "updated": 1707411600,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower",
             "title": "Pricing Indie Apps: The Perks of a Wallflower Rule",
             "link": "https://swiftjectivec.com/Pricing-Indie-iOS-Apps-According-To-Perks-of-a-Wallflower/",
             "updated": 1706202000,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Using-Keychain-Access-Secure-Notes-on-macOS-To-Store-Socials",
             "title": "Introducing Elite Soccer Club",
             "link": "https://swiftjectivec.com/Using-Keychain-Access-Secure-Notes-on-macOS-To-Store-Socials/",
             "updated": 1705165200,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI",
             "title": "Using @Binding with @Environment(Object.self)",
             "link": "https://swiftjectivec.com/Getting-Bindings-From-Environment-SwiftUI/",
             "updated": 1703955600,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/The-End-of-Year-Wrapped",
             "title": "Wrapping up 2023, and Looking Towards 2024",
             "link": "https://swiftjectivec.com/The-End-of-Year-Wrapped/",
             "updated": 1702918800,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Keeping-Up-with-Swift-and-iOS",
             "title": "Keeping Up with Swift and iOS",
             "link": "https://swiftjectivec.com/Keeping-Up-with-Swift-and-iOS/",
             "updated": 1701882000,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftjectivec.com/Assisstive-Access-on-iOS-swift",
             "title": "Checking Out Assistive Access",
             "link": "https://swiftjectivec.com/Assisstive-Access-on-iOS-swift/",
             "updated": 1700413200,
-            "site_url": "https://www.swiftjectivec.com/"
+            "site_url": "https://www.swiftjectivec.com/",
+            "slug": "development"
         }
     ]
 }

@@ -6,112 +6,128 @@
             "title": "Hashable",
             "link": "https://swiftunboxed.com/protocols/hashable/",
             "updated": 1534309200,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/internals/synthesized-equatable-conformance/",
             "title": "Synthesized Conformance to Equatable",
             "link": "https://swiftunboxed.com/internals/synthesized-equatable-conformance/",
             "updated": 1532995200,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/protocols/equatable/",
             "title": "Equatable",
             "link": "https://swiftunboxed.com/protocols/equatable/",
             "updated": 1532991600,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/internals/diagnostics-warning-error/",
             "title": "Swift Diagnostics: #warning and #error",
             "link": "https://swiftunboxed.com/internals/diagnostics-warning-error/",
             "updated": 1528675200,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/internals/targetenvironment-platform-condition/",
             "title": "Simulator Detection with targetEnvironment",
             "link": "https://swiftunboxed.com/internals/targetenvironment-platform-condition/",
             "updated": 1522294200,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/internals/size-stride-alignment/",
             "title": "Size, Stride, Alignment",
             "link": "https://swiftunboxed.com/internals/size-stride-alignment/",
             "updated": 1520812800,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/lang/conditional-conformance/",
             "title": "Conditional Conformance",
             "link": "https://swiftunboxed.com/lang/conditional-conformance/",
             "updated": 1516807200,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/interop/objc-dynamic/",
             "title": "@objc and dynamic",
             "link": "https://swiftunboxed.com/interop/objc-dynamic/",
             "updated": 1512432000,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/stdlib/substrings/",
             "title": "Swift Substrings",
             "link": "https://swiftunboxed.com/stdlib/substrings/",
             "updated": 1511742600,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/protocols/numeric/",
             "title": "Swift's Numeric Protocol",
             "link": "https://swiftunboxed.com/protocols/numeric/",
             "updated": 1509922920,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/lang/optionals-map-flatmap/",
             "title": "The Strange Case Of Mapping Over Optionals",
             "link": "https://swiftunboxed.com/lang/optionals-map-flatmap/",
             "updated": 1504562400,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/stdlib/json-decoder-decodable/",
             "title": "JSON to Swift with Decoder and Decodable",
             "link": "https://swiftunboxed.com/stdlib/json-decoder-decodable/",
             "updated": 1500246000,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/stdlib/json-encoder-encodable/",
             "title": "JSON with Encoder and Encodable",
             "link": "https://swiftunboxed.com/stdlib/json-encoder-encodable/",
             "updated": 1498348800,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/lang/reduce/",
             "title": "Reduce",
             "link": "https://swiftunboxed.com/lang/reduce/",
             "updated": 1491348000,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/open-source/map/",
             "title": "Map",
             "link": "https://swiftunboxed.com/open-source/map/",
             "updated": 1485298920,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftunboxed.com/open-source/iteratoroverone/",
             "title": "IteratorOverOne",
             "link": "https://swiftunboxed.com/open-source/iteratoroverone/",
             "updated": 1480460520,
-            "site_url": "https://swiftunboxed.com/"
+            "site_url": "https://swiftunboxed.com/",
+            "slug": "development"
         }
     ]
 }

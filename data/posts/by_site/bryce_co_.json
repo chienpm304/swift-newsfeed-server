@@ -6,105 +6,120 @@
             "title": "Hacking Disneyland's App to fix a UI Freeze",
             "link": "https://bryce.co/disney-freeze/",
             "updated": 1709658000,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/xcode-plugin-loader/",
             "title": "Modding Plugins back into Xcode",
             "link": "https://bryce.co/xcode-plugin-loader/",
             "updated": 1708534800,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/cattok/",
             "title": "Reverse Engineering TikTok to only show Cat Videos",
             "link": "https://bryce.co/cattok/",
             "updated": 1702573200,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/lldb-remove-randomness/",
             "title": "Removing Randomness with LLDB",
             "link": "https://bryce.co/lldb-remove-randomness/",
             "updated": 1690045200,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/replicating-views/",
             "title": "Unrestricted View Replication",
             "link": "https://bryce.co/replicating-views/",
             "updated": 1667754000,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/xcode-vim-map/",
             "title": "Convincing Xcode to Map Vim Keys",
             "link": "https://bryce.co/xcode-vim-map/",
             "updated": 1627923600,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/screenshot-cropping/",
             "title": "Abusing iOS\u2019 Screenshot Cropping Mechanism",
             "link": "https://bryce.co/screenshot-cropping/",
             "updated": 1598288400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/on-device-render-debugging/",
             "title": "Toggling iOS Render Debug Options Without a Computer",
             "link": "https://bryce.co/on-device-render-debugging/",
             "updated": 1592154000,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/non-numeric-app-badges/",
             "title": "Non-Numeric App Badges on iOS",
             "link": "https://bryce.co/non-numeric-app-badges/",
             "updated": 1587920400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/swizzle-all-uikit/",
             "title": "How to Swizzle All of UIKit",
             "link": "https://bryce.co/swizzle-all-uikit/",
             "updated": 1586710800,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/main-thread-checker-configuration/",
             "title": "Configuring the Main Thread Checker",
             "link": "https://bryce.co/main-thread-checker-configuration/",
             "updated": 1585760400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/lldb-method-stubbing/",
             "title": "Fast Method Stubbing From LLDB",
             "link": "https://bryce.co/lldb-method-stubbing/",
             "updated": 1581872400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/running-xpc-activities-on-demand/",
             "title": "Running XPC Activities On Demand",
             "link": "https://bryce.co/running-xpc-activities-on-demand/",
             "updated": 1578243600,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/recreating-imessage-confetti/",
             "title": "Recreating iMessage Confetti",
             "link": "https://bryce.co/recreating-imessage-confetti/",
             "updated": 1574528400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         },
         {
             "id": "https://bryce.co/caemitterbehavior/",
             "title": "CAEmitterBehavior",
             "link": "https://bryce.co/caemitterbehavior/",
             "updated": 1572800400,
-            "site_url": "https://bryce.co/"
+            "site_url": "https://bryce.co/",
+            "slug": "development"
         }
     ]
 }

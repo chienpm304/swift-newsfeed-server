@@ -6,196 +6,224 @@
             "title": "Introducing iOSExpert",
             "link": "http://www.racecondition.software/blog/iosexpert/",
             "updated": 1709571600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/swiftui-homeworks",
             "title": "Cracking the iOS-Developer Coding Challenge, SwiftUI Edition",
             "link": "http://www.racecondition.software/blog/swiftui-homeworks/",
             "updated": 1674752400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/stubbing",
             "title": "Dependency Injection of URLs and URLSessions",
             "link": "http://www.racecondition.software/blog/stubbing/",
             "updated": 1672851600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/podcast",
             "title": "Race Condition",
             "link": "http://www.racecondition.software/blog/podcast/",
             "updated": 1667667600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/challenges",
             "title": "Cracking the iOS-Developer Coding Challenge",
             "link": "http://www.racecondition.software/blog/challenges/",
             "updated": 1665421200,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/proofing",
             "title": "How to Ensure Pull-Request Correctness and Quality",
             "link": "http://www.racecondition.software/blog/proofing/",
             "updated": 1654362000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/swiftui-style",
             "title": "Elements of SwiftUI Style",
             "link": "http://www.racecondition.software/blog/swiftui-style/",
             "updated": 1652806800,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/spelling",
             "title": "Change Spelling of Crasher to Cr\u00e0cher",
             "link": "http://www.racecondition.software/blog/spelling/",
             "updated": 1617210000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/communication",
             "title": "CloudKit Content-Management System",
             "link": "http://www.racecondition.software/blog/communication/",
             "updated": 1608915600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/terminal",
             "title": "Improving Long and Long-Running Terminal Commands",
             "link": "http://www.racecondition.software/blog/terminal/",
             "updated": 1601312400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/life-lessons",
             "title": "Two Applications of Life Experiences",
             "link": "http://www.racecondition.software/blog/life-lessons/",
             "updated": 1587229200,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/not-a-science",
             "title": "Software Development as Creative Expression",
             "link": "http://www.racecondition.software/blog/not-a-science/",
             "updated": 1581267600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/swiftui",
             "title": "SwiftUI",
             "link": "http://www.racecondition.software/blog/swiftui/",
             "updated": 1574874000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/trailing-closures",
             "title": "Trailing Closures",
             "link": "http://www.racecondition.software/blog/trailing-closures/",
             "updated": 1571504400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/hobby-apps",
             "title": "Hobby Apps",
             "link": "http://www.racecondition.software/blog/hobby-apps/",
             "updated": 1566493200,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/dependency-injection",
             "title": "Dependency Injection in Practice",
             "link": "http://www.racecondition.software/blog/dependency-injection/",
             "updated": 1562778000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/initializers",
             "title": "Non-Optional, Constant Properties",
             "link": "http://www.racecondition.software/blog/initializers/",
             "updated": 1556989200,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/https",
             "title": "Migrating This Website to HTTPS",
             "link": "http://www.racecondition.software/blog/https/",
             "updated": 1555002000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/android-preview",
             "title": "Subjective Impressions of Android Development and Kotlin",
             "link": "http://www.racecondition.software/blog/android-preview/",
             "updated": 1554483600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/subscriptions",
             "title": "Changing Immigration's Business Model to Subscriptions",
             "link": "http://www.racecondition.software/blog/subscriptions/",
             "updated": 1552150800,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/meta",
             "title": "About This Website",
             "link": "http://www.racecondition.software/blog/meta/",
             "updated": 1547139600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/more-reviews",
             "title": "Ratings and Reviews",
             "link": "http://www.racecondition.software/blog/more-reviews/",
             "updated": 1546880400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/unit-testing",
             "title": "Dependency Injection for Testability",
             "link": "http://www.racecondition.software/blog/unit-testing/",
             "updated": 1542906000,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/unwrapped-images",
             "title": "Initializing UIImages Without Force-Unwrapping",
             "link": "http://www.racecondition.software/blog/unwrapped-images/",
             "updated": 1541350800,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/siri",
             "title": "Implementing SiriKit in RaceRunner",
             "link": "http://www.racecondition.software/blog/siri/",
             "updated": 1530291600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/resources",
             "title": "Free and Low-Cost App Assets",
             "link": "http://www.racecondition.software/blog/resources/",
             "updated": 1527267600,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/learnings",
             "title": "How My Code Has Improved in Three Years",
             "link": "http://www.racecondition.software/blog/learnings/",
             "updated": 1526576400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         },
         {
             "id": "http://www.racecondition.software/blog/programmatic-layout",
             "title": "Converting an App from Interface Builder to Programmatic Layout",
             "link": "http://www.racecondition.software/blog/programmatic-layout/",
             "updated": 1523120400,
-            "site_url": "https://racecondition.software/"
+            "site_url": "https://racecondition.software/",
+            "slug": "development"
         }
     ]
 }

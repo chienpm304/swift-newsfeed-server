@@ -6,56 +6,64 @@
             "title": "Swift\u200a\u2014\u200aCopy-On-Write Optimization",
             "link": "https://medium.com/hash-coding/swift-copy-on-write-optimization-46b1890862dd?source=rss----8167d64d21a9---4",
             "updated": 1615228686,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/4f5bebc26425",
             "title": "Swift\u200a\u2014\u200aInitialization",
             "link": "https://medium.com/hash-coding/swift-initialization-4f5bebc26425?source=rss----8167d64d21a9---4",
             "updated": 1615189052,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f1dc9fec8088",
             "title": "Hacking The iOS Interview",
             "link": "https://medium.com/hash-coding/hacking-the-ios-interview-f1dc9fec8088?source=rss----8167d64d21a9---4",
             "updated": 1615188616,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/582e26bdf8dd",
             "title": "Swift\u200a\u2014\u200aStructures and Classes\u200a\u2014\u200aPart 1",
             "link": "https://medium.com/hash-coding/swift-structures-and-classes-part-1-582e26bdf8dd?source=rss----8167d64d21a9---4",
             "updated": 1614719799,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b319998c5b7e",
             "title": "Swift\u200a\u2014\u200aStructures and Classes\u200a\u2014\u200aPart II",
             "link": "https://medium.com/hash-coding/swift-structures-and-classes-part-ii-b319998c5b7e?source=rss----8167d64d21a9---4",
             "updated": 1614719769,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e339faa51ffc",
             "title": "Swift \u200a\u2014\u200a Functions & Closure \u200a\u2014\u200a Part I",
             "link": "https://medium.com/hash-coding/swift-functions-closure-part-i-e339faa51ffc?source=rss----8167d64d21a9---4",
             "updated": 1614719667,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b2a74e098c2a",
             "title": "Swift \u200a\u2014\u200a let vs var",
             "link": "https://medium.com/hash-coding/swift-let-vs-var-b2a74e098c2a?source=rss----8167d64d21a9---4",
             "updated": 1614719617,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/dab45a0b79ab",
             "title": "Swift\u200a\u2014\u200aAccess Control\u200a\u2014\u200a iOS",
             "link": "https://medium.com/hash-coding/swift-access-control-ios-dab45a0b79ab?source=rss----8167d64d21a9---4",
             "updated": 1614719255,
-            "site_url": "https://medium.com/hash-coding"
+            "site_url": "https://medium.com/hash-coding",
+            "slug": "development"
         }
     ]
 }

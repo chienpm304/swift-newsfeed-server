@@ -6,70 +6,80 @@
             "title": "Amplitude on Growth",
             "link": "https://lmjabreu.com/post/amplitude-on-growth-1",
             "updated": 1620579600,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/notes-on-a-year-of-remote-work",
             "title": "Notes on A Year of Remote Work",
             "link": "https://lmjabreu.com/post/notes-on-a-year-of-remote-work",
             "updated": 1617555600,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/notes-on-teams-trust-object-lessons",
             "title": "Notes on Teams, Trust and Object Lessons",
             "link": "https://lmjabreu.com/post/notes-on-teams-trust-object-lessons",
             "updated": 1616864400,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/notes-on-out-of-hours-6",
             "title": "Notes on Out of Hours Episode 6",
             "link": "https://lmjabreu.com/post/notes-on-out-of-hours-6",
             "updated": 1602435600,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/remote-work-guide",
             "title": "Remote Work - Guide",
             "link": "https://lmjabreu.com/post/remote-work-guide",
             "updated": 1584205200,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/remote-work-intro",
             "title": "Remote Work - Intro",
             "link": "https://lmjabreu.com/post/remote-work-intro",
             "updated": 1584118800,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/better-okrs-02-collaboration",
             "title": "Better OKRs - Collaboration",
             "link": "https://lmjabreu.com/post/better-okrs-02-collaboration",
             "updated": 1580058000,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/better-okrs-01-intro",
             "title": "Better OKRs - Intro",
             "link": "https://lmjabreu.com/post/better-okrs-01-intro",
             "updated": 1579453200,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/customising-design-sprints",
             "title": "Customising Design Sprints",
             "link": "https://lmjabreu.com/post/customising-design-sprints",
             "updated": 1575306000,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         },
         {
             "id": "https://lmjabreu.com/post/ios13contextualmenus",
             "title": "iOS 13 Contextual Menus",
             "link": "https://lmjabreu.com/post/ios13contextualmenus",
             "updated": 1562259600,
-            "site_url": "https://lmjabreu.com/posts/"
+            "site_url": "https://lmjabreu.com/posts/",
+            "slug": "design"
         }
     ]
 }

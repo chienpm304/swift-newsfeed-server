@@ -6,49 +6,56 @@
             "title": "Protocol-Oriented Programming",
             "link": "https://scotteg.github.io/protocol-oriented-programming",
             "updated": 1587488400,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/capture-lists",
             "title": "Capture Lists",
             "link": "https://scotteg.github.io/capture-lists",
             "updated": 1586883600,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/flatmap-with-mixed-error-types",
             "title": "FlatMap with Mixed Error Types in Combine",
             "link": "https://scotteg.github.io/flatmap-with-mixed-error-types",
             "updated": 1569862800,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/using-record",
             "title": "Using Record in Combine",
             "link": "https://scotteg.github.io/using-record",
             "updated": 1566752400,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/debounce-vs-throttle",
             "title": "Debounce vs. Throttle in Combine",
             "link": "https://scotteg.github.io/debounce-vs-throttle",
             "updated": 1565802000,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/pause-and-resume-a-subscription",
             "title": "Pause and Resume a Subscription in Combine",
             "link": "https://scotteg.github.io/pause-and-resume-a-subscription",
             "updated": 1565629200,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         },
         {
             "id": "https://scotteg.github.io/combine-101",
             "title": "Combine 101",
             "link": "https://scotteg.github.io/combine-101",
             "updated": 1565456400,
-            "site_url": "https://scotteg.github.io"
+            "site_url": "https://scotteg.github.io",
+            "slug": "development"
         }
     ]
 }

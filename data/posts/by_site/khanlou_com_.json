@@ -6,70 +6,80 @@
             "title": "SchemaSwift",
             "link": "http://khanlou.com/2023/02/schemaswift/",
             "updated": 1677344400,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2023/02/arbitrary-beautiful-colors/",
             "title": "Arbitrary Beautiful Colors",
             "link": "http://khanlou.com/2023/02/arbitrary-beautiful-colors/",
             "updated": 1676307600,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2022/10/some-collections/",
             "title": "Which Collection?",
             "link": "http://khanlou.com/2022/10/some-collections/",
             "updated": 1665507600,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2022/04/name-your-colors/",
             "title": "Name Your Colors!",
             "link": "http://khanlou.com/2022/04/name-your-colors/",
             "updated": 1650819600,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2021/10/download-progress-with-awaited-network-tasks/",
             "title": "Download Progress With Awaited Network Tasks",
             "link": "http://khanlou.com/2021/10/download-progress-with-awaited-network-tasks/",
             "updated": 1633971600,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2021/02/the-context-and-the-logic/",
             "title": "The Context And The Logic",
             "link": "http://khanlou.com/2021/02/the-context-and-the-logic/",
             "updated": 1613926800,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2021/01/meridian/",
             "title": "Meridian",
             "link": "http://khanlou.com/2021/01/meridian/",
             "updated": 1611680400,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2021/01/moving-my-life-to-dokku/",
             "title": "Moving my life to Dokku",
             "link": "http://khanlou.com/2021/01/moving-my-life-to-dokku/",
             "updated": 1609952400,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2019/12/regex-vs-combinatorial-parsing/",
             "title": "Regexes vs Combinatorial Parsing",
             "link": "http://khanlou.com/2019/12/regex-vs-combinatorial-parsing/",
             "updated": 1575306000,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         },
         {
             "id": "http://khanlou.com/2019/08/linear-probing/",
             "title": "Linear Probing",
             "link": "http://khanlou.com/2019/08/linear-probing/",
             "updated": 1565888400,
-            "site_url": "https://khanlou.com/"
+            "site_url": "https://khanlou.com/",
+            "slug": "development"
         }
     ]
 }

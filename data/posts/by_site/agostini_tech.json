@@ -6,70 +6,80 @@
             "title": "Block and Identify Calls with Call Directory App Extension",
             "link": "https://agostini.tech/2019/07/14/block-and-identify-calls-with-call-directory-app-extension/",
             "updated": 1563121029,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=3042",
             "title": "Receiving Incoming Calls With PushKit",
             "link": "https://agostini.tech/2019/06/23/receiving-incoming-calls-with-pushkit/",
             "updated": 1561305148,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=3013",
             "title": "Intro to CallKit",
             "link": "https://agostini.tech/2019/06/16/intro-to-callkit/",
             "updated": 1560697861,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2994",
             "title": "Automate PRs With Danger",
             "link": "https://agostini.tech/2019/06/09/automate-prs-with-danger/",
             "updated": 1560092201,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2977",
             "title": "Reduce Your App Size With App Thinning",
             "link": "https://agostini.tech/2019/06/02/reduce-your-app-size-with-app-thinning/",
             "updated": 1559488952,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=3017",
             "title": "Events Driven Architecture in iOS with MERLin",
             "link": "https://agostini.tech/2019/05/26/events-driven-architecture-in-ios-with-merlin/",
             "updated": 1558889163,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2962",
             "title": "Type-safe Resources With SwiftGen",
             "link": "https://agostini.tech/2019/05/19/type-safe-resources-with-swiftgen/",
             "updated": 1558284062,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2947",
             "title": "Using SwiftLint",
             "link": "https://agostini.tech/2019/05/13/using-swiftlint/",
             "updated": 1557683065,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2937",
             "title": "Format Your Code With SwiftFormat",
             "link": "https://agostini.tech/2019/05/06/format-your-code-with-swiftformat/",
             "updated": 1557079655,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         },
         {
             "id": "https://agostini.tech/?p=2931",
             "title": "Using Spotlight Search In Your Apps",
             "link": "https://agostini.tech/2019/04/29/using-spotlight-search-in-your-apps/",
             "updated": 1556475048,
-            "site_url": "https://agostini.tech"
+            "site_url": "https://agostini.tech",
+            "slug": "development"
         }
     ]
 }

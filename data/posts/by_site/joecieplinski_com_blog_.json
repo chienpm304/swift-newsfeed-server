@@ -6,105 +6,120 @@
             "title": "Vision",
             "link": "http://joecieplinski.com/blog/2024/02/10/vision/",
             "updated": 1707558057,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "6009f15999f5b35c2c82e2fe",
             "title": "On Apple Planning to Ditch Touch Bar",
             "link": "http://joecieplinski.com/blog/2021/01/21/on-apple-planning-to-ditch-touch-bar/",
             "updated": 1611239328,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5fac556d16a2bf66308b931e",
             "title": "My New Laptop",
             "link": "http://joecieplinski.com/blog/2020/11/11/my-new-laptop/",
             "updated": 1605104498,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5f88856d16a2bf66308b930c",
             "title": "Finally, a Small Phone I Can Buy",
             "link": "http://joecieplinski.com/blog/2020/10/15/finally-a-small-phone-i-can-buy/",
             "updated": 1602757522,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5f6a0c8016a2bf66308b92f7",
             "title": "My New Theory",
             "link": "http://joecieplinski.com/blog/2020/09/22/my-new-theory/",
             "updated": 1600760762,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5f56853316a2bf66308b92d9",
             "title": "RECaf Gains Sleep Analysis, Other New Features",
             "link": "http://joecieplinski.com/blog/2020/09/08/recaf-gains-sleep-analysis-other-new-features/",
             "updated": 1599545580,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5ef6208016a2bf66308b92c8",
             "title": "WWDC 2020",
             "link": "http://joecieplinski.com/blog/2020/06/26/wwdc-2020/",
             "updated": 1593163299,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5edf9f3e16a2bf66308b92b4",
             "title": "\u201cSharing\u201d",
             "link": "http://joecieplinski.com/blog/2020/06/09/thats/",
             "updated": 1591688591,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5ea36c0216a2bf66308b92a3",
             "title": "Magic Keyboard for iPad, 2020: First Impressions",
             "link": "http://joecieplinski.com/blog/2020/04/24/magic-keyboard-for-ipad-2020-first-impressions/",
             "updated": 1587743415,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5e36e23b16a2bf66308b9260",
             "title": "We\u2019ve Changed",
             "link": "http://joecieplinski.com/blog/2020/02/02/weve-changed/",
             "updated": 1580630997,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5dd0136916a2bf66308b9248",
             "title": "About That Keyboard",
             "link": "http://joecieplinski.com/blog/2019/11/16/about-that-keyboard/",
             "updated": 1573892550,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5dbc470516a2bf66308b9239",
             "title": "It\u2019s not an App. It\u2019s a Store.",
             "link": "http://joecieplinski.com/blog/2019/11/01/its-not-an-app-its-a-store/",
             "updated": 1572594875,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5d693d0016a2bf66308b9225",
             "title": "SwiftUI and PopToRootController Workaround",
             "link": "http://joecieplinski.com/blog/2019/08/30/swiftui-and-poptorootcontroller-workaround/",
             "updated": 1567153026,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5d5063fa16a2bf66308b920a",
             "title": "Watch Dependence",
             "link": "http://joecieplinski.com/blog/2019/08/11/watch-dependence/",
             "updated": 1565524919,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "5d19ef7d16a2bf66308b91ec",
             "title": "If the Shoe Doesn't Fit, Grab Your Shoehorn",
             "link": "http://joecieplinski.com/blog/2019/07/01/if-the-shoe-doesnt-fit-grab-your-shoehorn/",
             "updated": 1561955754,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         }
     ]
 }

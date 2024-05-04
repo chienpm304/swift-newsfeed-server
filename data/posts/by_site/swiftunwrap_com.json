@@ -6,224 +6,256 @@
             "title": "DangerSwift",
             "link": "https://swiftunwrap.com/article/dangerswift",
             "updated": 1713200400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/comparing-equatable-using-opened-existentials",
             "title": "Comparing Equatable using Opened Existentials",
             "link": "https://swiftunwrap.com/article/comparing-equatable-using-opened-existentials",
             "updated": 1708362000,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/unsafe-memory-mutation",
             "title": "Unsafe memory mutation",
             "link": "https://swiftunwrap.com/article/unsafe-memory-mutation",
             "updated": 1698080400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/fastlane-app-signing",
             "title": "Managing app signing in fastlane",
             "link": "https://swiftunwrap.com/article/fastlane-app-signing",
             "updated": 1693846800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/data-vs-domain",
             "title": "Data and Domain models: Learn to use them",
             "link": "https://swiftunwrap.com/article/data-vs-domain",
             "updated": 1687798800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/swiftui-rendering-pitfalls",
             "title": "SwiftUI rendering pitfalls",
             "link": "https://swiftunwrap.com/article/swiftui-rendering-pitfalls",
             "updated": 1679936400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/you-dont-need-protocols",
             "title": "You don't need protocols",
             "link": "https://swiftunwrap.com/article/you-dont-need-protocols",
             "updated": 1676307600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/dependency-container",
             "title": "Dependency Injection Container",
             "link": "https://swiftunwrap.com/article/dependency-container",
             "updated": 1672678800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/create-feedback-component",
             "title": "Creating a feedback component",
             "link": "https://swiftunwrap.com/article/create-feedback-component",
             "updated": 1668445200,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/development-workflow",
             "title": "Development workflows",
             "link": "https://swiftunwrap.com/article/development-workflow",
             "updated": 1664211600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/making-form",
             "title": "Making a form",
             "link": "https://swiftunwrap.com/article/making-form",
             "updated": 1658768400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/formatting-data-ui",
             "title": "Formatting in UI",
             "link": "https://swiftunwrap.com/article/formatting-data-ui",
             "updated": 1655139600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/designing-http-framework-request",
             "title": "Designing a HTTP framework: type safe request",
             "link": "https://swiftunwrap.com/article/designing-http-framework-request",
             "updated": 1646672400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/swiftui-bugs",
             "title": "SwiftUI bugs and defects",
             "link": "https://swiftunwrap.com/article/swiftui-bugs",
             "updated": 1643648400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/state-of-the-art-2021",
             "title": "State of the Art 2021",
             "link": "https://swiftunwrap.com/article/state-of-the-art-2021",
             "updated": 1640624400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/designing-http-framework-foundation",
             "title": "Designing a lightweight HTTP framework: foundation",
             "link": "https://swiftunwrap.com/article/designing-http-framework-foundation",
             "updated": 1638205200,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/combine-tips-tricks",
             "title": "Mastering Combine: tips & tricks",
             "link": "https://swiftunwrap.com/article/combine-tips-tricks",
             "updated": 1632762000,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/cocoapods-script-phases",
             "title": "Cocoapods script phases",
             "link": "https://swiftunwrap.com/article/cocoapods-script-phases",
             "updated": 1628528400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/swift-argument-parser",
             "title": "Scripting with Swift Argument Parser",
             "link": "https://swiftunwrap.com/article/swift-argument-parser",
             "updated": 1627318800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/smart-dumb-views",
             "title": "Smart and Dumb views in SwiftUI",
             "link": "https://swiftunwrap.com/article/smart-dumb-views",
             "updated": 1625504400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/deploy-blog-using-github-actions-and-aws",
             "title": "Building a blog: Deploying using Github Actions and AWS",
             "link": "https://swiftunwrap.com/article/deploy-blog-using-github-actions-and-aws",
             "updated": 1618851600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/handling-optional-in-swiftui-view",
             "title": "Handling optional in SwiftUI view",
             "link": "https://swiftunwrap.com/article/handling-optional-in-swiftui-view",
             "updated": 1617037200,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/building-blog-swift-publish",
             "title": "Building a blog: Publish",
             "link": "https://swiftunwrap.com/article/building-blog-swift-publish",
             "updated": 1615827600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/self-validating-models",
             "title": "Self validating models",
             "link": "https://swiftunwrap.com/article/self-validating-models",
             "updated": 1609779600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/swiftui-list",
             "title": "Customising a List in SwiftUI",
             "link": "https://swiftunwrap.com/article/swiftui-list",
             "updated": 1606755600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/dependency-injection-basics",
             "title": "Dependency injection principles",
             "link": "https://swiftunwrap.com/article/dependency-injection-basics",
             "updated": 1603731600,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/url-components-encoding",
             "title": "URLComponents encoding",
             "link": "https://swiftunwrap.com/article/url-components-encoding",
             "updated": 1600102800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/advanced-fastlane",
             "title": "Environment variables with Dotenv in Fastlane",
             "link": "https://swiftunwrap.com/article/advanced-fastlane",
             "updated": 1598288400,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/binding-swiftui-preview",
             "title": "Create a mutable @Binding in SwiftUI Previews",
             "link": "https://swiftunwrap.com/article/binding-swiftui-preview",
             "updated": 1597078800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/separation-of-concern-viewmodel",
             "title": "ViewModels and Separation of Concern",
             "link": "https://swiftunwrap.com/article/separation-of-concern-viewmodel",
             "updated": 1591030800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/modeling-done-right",
             "title": "Handling relationships in models",
             "link": "https://swiftunwrap.com/article/modeling-done-right",
             "updated": 1588006800,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         },
         {
             "id": "https://swiftunwrap.com/article/switching-environments",
             "title": "Switching environments in iOS",
             "link": "https://swiftunwrap.com/article/switching-environments",
             "updated": 1587402000,
-            "site_url": "https://swiftunwrap.com"
+            "site_url": "https://swiftunwrap.com",
+            "slug": "development"
         }
     ]
 }

@@ -6,140 +6,160 @@
             "title": "The Littlest Type",
             "link": "https://robnapier.net/never",
             "updated": 1572242520,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/at-your-request",
             "title": "Protocols v: At Your Request",
             "link": "https://robnapier.net/at-your-request",
             "updated": 1572084240,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/thats-not-a-number",
             "title": "Protocols IV: That's Not a Number",
             "link": "https://robnapier.net/thats-not-a-number",
             "updated": 1558890000,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/existential-spelling",
             "title": "Protocols III: Existential Spelling",
             "link": "https://robnapier.net/existential-spelling",
             "updated": 1557594000,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/a-mockery-of-protocols",
             "title": "Protocols II: A Mockery of Protocols",
             "link": "https://robnapier.net/a-mockery-of-protocols",
             "updated": 1556511480,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/nonconformist",
             "title": "Protocols Sidebar I: Protocols Are Nonconformists",
             "link": "https://robnapier.net/nonconformist",
             "updated": 1556430180,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/start-with-a-protocol",
             "title": "Protocols I: \"Start With a Protocol,\" He Said",
             "link": "https://robnapier.net/start-with-a-protocol",
             "updated": 1555866000,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/conditional-breakpoint",
             "title": "A Conditional Breakpoint",
             "link": "https://robnapier.net/conditional-breakpoint",
             "updated": 1492923560,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/refactoring",
             "title": "Refactoring Slow and Steady",
             "link": "https://robnapier.net/refactoring",
             "updated": 1486963315,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/talking",
             "title": "Talking and Teaching",
             "link": "https://robnapier.net/talking",
             "updated": 1480390509,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/copying",
             "title": "Copying",
             "link": "https://robnapier.net/copying",
             "updated": 1472885774,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/inspiration",
             "title": "Inspiration",
             "link": "https://robnapier.net/inspiration",
             "updated": 1472201187,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/nsdata",
             "title": "NSData, My Old Friend",
             "link": "https://robnapier.net/nsdata",
             "updated": 1444224420,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/type-erasure-in-stdlib",
             "title": "Type-erasure in Stdlib",
             "link": "https://robnapier.net/type-erasure-in-stdlib",
             "updated": 1444133113,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/rncryptor-v4",
             "title": "RNCryptor V4",
             "link": "https://robnapier.net/rncryptor-v4",
             "updated": 1443937116,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/erasure",
             "title": "A Little Respect for AnySequence",
             "link": "https://robnapier.net/erasure",
             "updated": 1438677720,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/product-or-process",
             "title": "Product or Process?",
             "link": "https://robnapier.net/product-or-process",
             "updated": 1437366017,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/throw-money",
             "title": "Throw Money at It",
             "link": "https://robnapier.net/throw-money",
             "updated": 1434958860,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/re-throws",
             "title": "Re...throws?",
             "link": "https://robnapier.net/re-throws",
             "updated": 1434600720,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         },
         {
             "id": "https://robnapier.net/throw-what-dont-throw",
             "title": "Throw What Don't Throw",
             "link": "https://robnapier.net/throw-what-dont-throw",
             "updated": 1434463080,
-            "site_url": "https://robnapier.net/"
+            "site_url": "https://robnapier.net/",
+            "slug": "development"
         }
     ]
 }

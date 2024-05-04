@@ -6,63 +6,72 @@
             "title": "#8 - SwiftData",
             "link": "https://curatedios.substack.com/p/8-swiftdata",
             "updated": 1708563860,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/7-universal-links",
             "title": "#7 - Universal Links",
             "link": "https://curatedios.substack.com/p/7-universal-links",
             "updated": 1705279983,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/6-xcode-15-new-features",
             "title": "#6 - Xcode 15 - New features",
             "link": "https://curatedios.substack.com/p/6-xcode-15-new-features",
             "updated": 1702947436,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/5-automatic-reference-counting-arc",
             "title": "#5 - Automatic Reference Counting (ARC)",
             "link": "https://curatedios.substack.com/p/5-automatic-reference-counting-arc",
             "updated": 1702556150,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/4-live-activities",
             "title": "#4 - Live Activities",
             "link": "https://curatedios.substack.com/p/4-live-activities",
             "updated": 1701998439,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/3-tipkit",
             "title": "#3 - TipKit",
             "link": "https://curatedios.substack.com/p/3-tipkit",
             "updated": 1693974344,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/2-shareplay",
             "title": "#2 - SharePlay",
             "link": "https://curatedios.substack.com/p/2-shareplay",
             "updated": 1693207977,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/1-the-pilot-push-notifications",
             "title": "# 1 \u2013 The Pilot \u2013 Push Notifications",
             "link": "https://curatedios.substack.com/p/1-the-pilot-push-notifications",
             "updated": 1691997209,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://curatedios.substack.com/p/coming-soon",
             "title": "Curated iOS - Coming soon",
             "link": "https://curatedios.substack.com/p/coming-soon",
             "updated": 1691282678,
-            "site_url": "https://curatedios.substack.com"
+            "site_url": "https://curatedios.substack.com",
+            "slug": "newsletters"
         }
     ]
 }

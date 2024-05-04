@@ -6,70 +6,80 @@
             "title": "Data Visualization With SwiftUI: Pie Charts",
             "link": "https://towardsdatascience.com/data-visualization-with-swiftui-pie-charts-bcad1903c5d2?source=rss-163113c6fbf8------2",
             "updated": 1614410326,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/599de6c0d79c",
             "title": "Data Visualization With SwiftUI: Bar Charts",
             "link": "https://towardsdatascience.com/data-visualization-with-swiftui-bar-charts-599de6c0d79c?source=rss-163113c6fbf8------2",
             "updated": 1613126363,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/64124aa2ac0b",
             "title": "Data Visualization With SwiftUI: Radar Charts",
             "link": "https://betterprogramming.pub/data-visualization-with-swiftui-radar-charts-64124aa2ac0b?source=rss-163113c6fbf8------2",
             "updated": 1612008598,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/7348b7ee965d",
             "title": "Protocol Oriented Programming Concepts in Swift",
             "link": "https://betterprogramming.pub/protocol-oriented-programming-concepts-in-swift-7348b7ee965d?source=rss-163113c6fbf8------2",
             "updated": 1604449332,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f5898e998688",
             "title": "Three Arguments To Make When You Want To Work On Remote",
             "link": "https://jimmymandersson.medium.com/three-arguments-to-make-when-you-want-to-work-on-remote-f5898e998688?source=rss-163113c6fbf8------2",
             "updated": 1604275523,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/afd8fc036323",
             "title": "Porting UICollectionView To SwiftUI",
             "link": "https://medium.com/swlh/porting-uicollectionview-to-swiftui-afd8fc036323?source=rss-163113c6fbf8------2",
             "updated": 1603696531,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/daa842cfd6ea",
             "title": "How to Code When You Don\u2019t Have a Clue",
             "link": "https://medium.com/swlh/how-to-code-when-you-dont-have-a-clue-daa842cfd6ea?source=rss-163113c6fbf8------2",
             "updated": 1603696463,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b2d9629b0aae",
             "title": "Creating a Synchronized UserDefaults Property Wrapper",
             "link": "https://medium.com/swlh/creating-a-synchronized-userdefaults-property-wrapper-b2d9629b0aae?source=rss-163113c6fbf8------2",
             "updated": 1603696412,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/82e0734b6e89",
             "title": "Understanding Monte Carlo Methods Using Swift",
             "link": "https://betterprogramming.pub/understanding-monte-carlo-methods-using-swift-82e0734b6e89?source=rss-163113c6fbf8------2",
             "updated": 1574075444,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/16767887ee9e",
             "title": "4 Vital Swift Frameworks For iOS Developers",
             "link": "https://jimmymandersson.medium.com/4-vital-swift-frameworks-for-ios-developers-16767887ee9e?source=rss-163113c6fbf8------2",
             "updated": 1572220864,
-            "site_url": "https://jimmymandersson.medium.com/"
+            "site_url": "https://jimmymandersson.medium.com/",
+            "slug": "development"
         }
     ]
 }

@@ -6,91 +6,104 @@
             "title": "Building Peak",
             "link": "https://harshil.net/blog/building-peak",
             "updated": 1688961000,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/introducing-peak",
             "title": "Introducing Peak",
             "link": "https://harshil.net/blog/introducing-peak",
             "updated": 1688701800,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/advent-of-code-2022",
             "title": "Solving Advent of Code 2022 in Swift",
             "link": "https://harshil.net/blog/advent-of-code-2022",
             "updated": 1672030800,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/swiftui-rotationeffect-is-kinda-funky",
             "title": "Adventures in Orienting Views in SwiftUI",
             "link": "https://harshil.net/blog/swiftui-rotationeffect-is-kinda-funky",
             "updated": 1671615000,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/image-orientation",
             "title": "Adventures in Orienting Images on iOS",
             "link": "https://harshil.net/blog/image-orientation",
             "updated": 1643877000,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/advent-of-code-2021",
             "title": "Solving Advent of Code 2021 in Swift",
             "link": "https://harshil.net/blog/advent-of-code-2021",
             "updated": 1640669400,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/recreating-the-mac-genie-effect",
             "title": "Recreating the macOS Genie Effect",
             "link": "https://harshil.net/blog/recreating-the-mac-genie-effect",
             "updated": 1618543800,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/introducing-pause",
             "title": "Introducing Pause",
             "link": "https://harshil.net/blog/introducing-pause",
             "updated": 1616657400,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/foundation-date",
             "title": "Wrangling Time",
             "link": "https://harshil.net/blog/foundation-date",
             "updated": 1610681400,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/swift-sequence-collection-array",
             "title": "Swift\u02bcs Collection Types",
             "link": "https://harshil.net/blog/swift-sequence-collection-array",
             "updated": 1596659400,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/swiftui-dsl-function-builders",
             "title": "How the SwiftUI DSL Works",
             "link": "https://harshil.net/blog/swiftui-dsl-function-builders",
             "updated": 1590578940,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/dynamic-wallpapers-in-macos-catalina",
             "title": "Dynamic Wallpapers in macOS Catalina",
             "link": "https://harshil.net/blog/dynamic-wallpapers-in-macos-catalina",
             "updated": 1560598140,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         },
         {
             "id": "https://harshil.net/blog/updating-ui-for-iphone-x",
             "title": "Updating UI for iPhone X",
             "link": "https://harshil.net/blog/updating-ui-for-iphone-x",
             "updated": 1509579000,
-            "site_url": "https://harshil.net/"
+            "site_url": "https://harshil.net/",
+            "slug": "development"
         }
     ]
 }

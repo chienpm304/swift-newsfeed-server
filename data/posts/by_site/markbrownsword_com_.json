@@ -6,35 +6,40 @@
             "title": "EndeavourOS: Getting Started",
             "link": "https://markbrownsword.com/2022/12/06/endeavouros-getting-started/",
             "updated": 1670255193,
-            "site_url": "https://markbrownsword.com/"
+            "site_url": "https://markbrownsword.com/",
+            "slug": "development"
         },
         {
             "id": "http://markbrownsword.com/?p=900",
             "title": "iOS: Update UINavigationBar Title on Scroll",
             "link": "https://markbrownsword.com/2022/05/20/ios-update-uinavigationbar-title-on-scroll/",
             "updated": 1652976534,
-            "site_url": "https://markbrownsword.com/"
+            "site_url": "https://markbrownsword.com/",
+            "slug": "development"
         },
         {
             "id": "http://markbrownsword.com/?p=852",
             "title": "Linux Commands: Create a Bootable USB Flash Drive with the dd command",
             "link": "https://markbrownsword.com/2022/04/15/linux-commands-create-a-bootable-usb-flash-drive-with-the-dd-command/",
             "updated": 1649986881,
-            "site_url": "https://markbrownsword.com/"
+            "site_url": "https://markbrownsword.com/",
+            "slug": "development"
         },
         {
             "id": "http://markbrownsword.com/?p=785",
             "title": "Natural Language Framework: Sentence Embedding with Swift",
             "link": "https://markbrownsword.com/2020/12/23/natural-language-framework-sentence-embedding-with-swift/",
             "updated": 1608656622,
-            "site_url": "https://markbrownsword.com/"
+            "site_url": "https://markbrownsword.com/",
+            "slug": "development"
         },
         {
             "id": "http://markbrownsword.com/?p=756",
             "title": "Swift on Linux: Package Manager Resources",
             "link": "https://markbrownsword.com/2020/05/29/swift-on-linux-package-manager-resources/",
             "updated": 1590697981,
-            "site_url": "https://markbrownsword.com/"
+            "site_url": "https://markbrownsword.com/",
+            "slug": "development"
         }
     ]
 }

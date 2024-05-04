@@ -6,140 +6,160 @@
             "title": "Get Started with Embedded Swift on ARM and RISC-V Microcontrollers",
             "link": "https://swift.org/blog/embedded-swift-examples/",
             "updated": 1712098800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/sswg-update-2024/",
             "title": "SSWG 2024 Annual Update",
             "link": "https://swift.org/blog/sswg-update-2024/",
             "updated": 1711596600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/adwaita-swift/",
             "title": "Writing GNOME Apps with Swift",
             "link": "https://swift.org/blog/adwaita-swift/",
             "updated": 1711321200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/benchmarks/",
             "title": "Introducing the Benchmark Package: Complementing Unit Tests with Performance Checks",
             "link": "https://swift.org/blog/benchmarks/",
             "updated": 1710889200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/byte-sized-swift-tiny-games-playdate/",
             "title": "Byte-sized Swift: Building Tiny Games for the Playdate",
             "link": "https://swift.org/blog/byte-sized-swift-tiny-games-playdate/",
             "updated": 1710198000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/pack-iteration/",
             "title": "Iterate Over Parameter Packs in Swift 6.0",
             "link": "https://swift.org/blog/pack-iteration/",
             "updated": 1709767800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.10-released/",
             "title": "Swift 5.10 Released",
             "link": "https://swift.org/blog/swift-5.10-released/",
             "updated": 1709607600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-google-summer-of-code-2024/",
             "title": "Swift joins Google Summer of Code 2024",
             "link": "https://swift.org/blog/swift-google-summer-of-code-2024/",
             "updated": 1708642800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/mlx-swift/",
             "title": "On-device ML research with MLX and Swift",
             "link": "https://swift.org/blog/mlx-swift/",
             "updated": 1708383600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/summer-of-code-2023-summary/",
             "title": "Swift Summer of Code 2023 Summary",
             "link": "https://swift.org/blog/summer-of-code-2023-summary/",
             "updated": 1707778800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-openapi-generator-1.0/",
             "title": "Swift OpenAPI Generator 1.0 Released",
             "link": "https://swift.org/blog/swift-openapi-generator-1.0/",
             "updated": 1706662800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.9-backtraces/",
             "title": "On-Crash Backtraces in Swift",
             "link": "https://swift.org/blog/swift-5.9-backtraces/",
             "updated": 1699398000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/packages-page/",
             "title": "Introducing Packages on Swift.org",
             "link": "https://swift.org/blog/packages-page/",
             "updated": 1698795000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-everywhere-windows-interop/",
             "title": "Swift Everywhere: Using Interoperability to Build on Windows",
             "link": "https://swift.org/blog/swift-everywhere-windows-interop/",
             "updated": 1697151600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/whats-new-swift-debugging-5.9/",
             "title": "Debugging Improvements in Swift 5.9",
             "link": "https://swift.org/blog/whats-new-swift-debugging-5.9/",
             "updated": 1695859200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/swift-5.9-released/",
             "title": "Swift 5.9 Released",
             "link": "https://swift.org/blog/swift-5.9-released/",
             "updated": 1694995200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/sswg-update-2023/",
             "title": "SSWG 2023 Annual Update",
             "link": "https://swift.org/blog/sswg-update-2023/",
             "updated": 1692226800,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/introducing-swift-http-types/",
             "title": "Introducing Swift HTTP Types",
             "link": "https://swift.org/blog/introducing-swift-http-types/",
             "updated": 1688943600,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/introducing-swift-openapi-generator/",
             "title": "Introducing Swift OpenAPI Generator",
             "link": "https://swift.org/blog/introducing-swift-openapi-generator/",
             "updated": 1686528000,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         },
         {
             "id": "https://swift.org/blog/using-upcoming-feature-flags/",
             "title": "Using Upcoming Feature Flags",
             "link": "https://swift.org/blog/using-upcoming-feature-flags/",
             "updated": 1685401200,
-            "site_url": "https://www.swift.org/blog/"
+            "site_url": "https://www.swift.org/blog/",
+            "slug": "updates"
         }
     ]
 }

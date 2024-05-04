@@ -6,14 +6,16 @@
             "title": "My Work Anniversary at Heilbronn University",
             "link": "https://andreas-kurtz.de/2023/09/my-work-anniversary-at-heilbronn-university/",
             "updated": 1693501200,
-            "site_url": "https://andreas-kurtz.de/post/"
+            "site_url": "https://andreas-kurtz.de/post/",
+            "slug": "development"
         },
         {
             "id": "https://andreas-kurtz.de/2022/09/starting-a-new-journey-as-professor-of-cybersecurity/",
             "title": "Starting a new Journey as Professor of Cybersecurity",
             "link": "https://andreas-kurtz.de/2022/09/starting-a-new-journey-as-professor-of-cybersecurity/",
             "updated": 1661965200,
-            "site_url": "https://andreas-kurtz.de/post/"
+            "site_url": "https://andreas-kurtz.de/post/",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "How to programmatically disable \u201cMenu\u201d button on AppleTV remote",
             "link": "https://medium.com/swiftblade/how-to-programmatically-disable-menu-button-on-appletv-remote-33d33eb2c59b?source=rss----d496aaac9309---4",
             "updated": 1710232782,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/4ba7c853e1aa",
             "title": "Understanding UIViewController\u2019s viewIsAppearing(_:)",
             "link": "https://medium.com/swiftblade/understanding-uiviewcontrollers-viewisappearing-4ba7c853e1aa?source=rss----d496aaac9309---4",
             "updated": 1709753776,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/7a14e32167bd",
             "title": "Tips for designers from mobile app developers",
             "link": "https://medium.com/swiftblade/tips-for-designers-for-working-with-native-mobile-apps-7a14e32167bd?source=rss----d496aaac9309---4",
             "updated": 1700383040,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/69c8a278dc3f",
             "title": "How to run Xcode test multiple times",
             "link": "https://medium.com/swiftblade/how-to-run-xcode-test-multiple-times-69c8a278dc3f?source=rss----d496aaac9309---4",
             "updated": 1700360304,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/de290b95f09b",
             "title": "Using Swift Concurrency with Coordinator Pattern",
             "link": "https://medium.com/swiftblade/using-swift-concurrency-with-coordinator-pattern-de290b95f09b?source=rss----d496aaac9309---4",
             "updated": 1688703751,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/84085bd87a9a",
             "title": "UIStackView removeArrangedSubview doesn\u2019t actually remove the subview.",
             "link": "https://medium.com/swiftblade/uistackview-removearrangedsubview-doesnt-actually-remove-the-subview-84085bd87a9a?source=rss----d496aaac9309---4",
             "updated": 1684490859,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/506a9cf21618",
             "title": "Hidden gem of UINavigationBar \u2014 scrollEdgeAppearance",
             "link": "https://medium.com/swiftblade/a-hidden-gem-of-uinavigationbar-506a9cf21618?source=rss----d496aaac9309---4",
             "updated": 1684483827,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/2a938fbadf",
             "title": "Exploring ways to validate Swift URL constants",
             "link": "https://medium.com/swiftblade/exploring-ways-to-validate-swift-url-constants-2a938fbadf?source=rss----d496aaac9309---4",
             "updated": 1673378744,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/ae6e587c3f0a",
             "title": "System Design Interview\u200a\u2014\u200aAsync username lookup (senior iOS engineer)",
             "link": "https://medium.com/swiftblade/system-design-interview-async-username-lookup-senior-ios-engineer-ae6e587c3f0a?source=rss----d496aaac9309---4",
             "updated": 1670892062,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/aa4a338e364e",
             "title": "How a \u201clazy var\u201d can be instantiated twice",
             "link": "https://medium.com/swiftblade/how-a-lazy-var-can-backstab-you-aa4a338e364e?source=rss----d496aaac9309---4",
             "updated": 1665034137,
-            "site_url": "https://medium.com/swiftblade"
+            "site_url": "https://medium.com/swiftblade",
+            "slug": "development"
         }
     ]
 }

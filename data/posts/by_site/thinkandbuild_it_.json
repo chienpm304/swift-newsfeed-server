@@ -6,70 +6,80 @@
             "title": "Unreal Engine: Custom EQS Generators",
             "link": "https://www.thinkandbuild.it/unreal-engine-custom-eqs-generators/",
             "updated": 1559534882,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "https://www.thinkandbuild.it/?p=1574",
             "title": "Unreal Engine: Environment Query System (EQS) in C++",
             "link": "https://www.thinkandbuild.it/environment-query-system-in-c/",
             "updated": 1558431833,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "https://www.thinkandbuild.it/?p=1515",
             "title": "UE4 AI Perception System \u2013 with just a little bit of C++",
             "link": "https://www.thinkandbuild.it/ue4-ai-perception-system/",
             "updated": 1557533499,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1383",
             "title": "What\u2019s up with ThinkAndBuild?",
             "link": "https://www.thinkandbuild.it/whats-up-with-thinkandbuild/",
             "updated": 1551795692,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1363",
             "title": "VIPER-S: writing your own architecture and  understand its importance (part 3)",
             "link": "https://www.thinkandbuild.it/viper-s-writing-your-own-architecture-and-understand-its-importance-part-3/",
             "updated": 1498725141,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1333",
             "title": "VIPER-S: writing your own architecture to understand its importance (part 2)",
             "link": "https://www.thinkandbuild.it/viper-s-writing-your-own-architecture-to-understand-its-importance-part-2/",
             "updated": 1497827020,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1312",
             "title": "VIPER-S: writing your own architecture to understand its importance (part 1)",
             "link": "https://www.thinkandbuild.it/viper-s-writing-your-own-architecture-to-understand-its-importance-part-1/",
             "updated": 1497826964,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1287",
             "title": "Custom Controls: button action with confirmation through 3D Touch",
             "link": "https://www.thinkandbuild.it/custom-controls-3d-touch-confirm/",
             "updated": 1483453802,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=927",
             "title": "Implementing the Twitter iOS App UI (Update: Swift 3)",
             "link": "https://www.thinkandbuild.it/implementing-the-twitter-ios-app-ui/",
             "updated": 1481201025,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         },
         {
             "id": "http://www.thinkandbuild.it/?p=1248",
             "title": "Quick Guide: Animations with UIViewPropertyAnimator",
             "link": "https://www.thinkandbuild.it/quick-guide-animations-with-uiviewpropertyanimator/",
             "updated": 1479657358,
-            "site_url": "https://www.thinkandbuild.it/"
+            "site_url": "https://www.thinkandbuild.it/",
+            "slug": "development"
         }
     ]
 }

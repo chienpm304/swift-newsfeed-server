@@ -6,70 +6,80 @@
             "title": "New Year, New Me",
             "link": "https://ashfurrow.com/blog/new-year-new-me/",
             "updated": 1705251600,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/joining-float/",
             "title": "Joining Float",
             "link": "https://ashfurrow.com/blog/joining-float/",
             "updated": 1692550800,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/job-search-retrospective/",
             "title": "Job Search Retrospective",
             "link": "https://ashfurrow.com/blog/job-search-retrospective/",
             "updated": 1692291600,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/possibilities-destinations/",
             "title": "Possibilities, Destinations",
             "link": "https://ashfurrow.com/blog/possibilities-destinations/",
             "updated": 1691859600,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/what-next/",
             "title": "What Next?",
             "link": "https://ashfurrow.com/blog/what-next/",
             "updated": 1684688400,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/re-espresso/",
             "title": "Re-espresso",
             "link": "https://ashfurrow.com/blog/re-espresso/",
             "updated": 1677344400,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/mastodon-technology-shutdown/",
             "title": "mastodon.technology Shutdown",
             "link": "https://ashfurrow.com/blog/mastodon-technology-shutdown/",
             "updated": 1664989200,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/depresso/",
             "title": "Depresso",
             "link": "https://ashfurrow.com/blog/depresso/",
             "updated": 1662915600,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/summer-fam-jam/",
             "title": "Summer Fam Jam",
             "link": "https://ashfurrow.com/blog/summer-fam-jam/",
             "updated": 1658941200,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         },
         {
             "id": "https://ashfurrow.com/blog/typescript-ergonomics/",
             "title": "TypeScript Ergonomics",
             "link": "https://ashfurrow.com/blog/typescript-ergonomics/",
             "updated": 1648918800,
-            "site_url": "https://ashfurrow.com/"
+            "site_url": "https://ashfurrow.com/",
+            "slug": "development"
         }
     ]
 }

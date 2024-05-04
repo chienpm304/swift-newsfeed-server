@@ -6,70 +6,80 @@
             "title": "Writing Effective Software Development Notes for Future You",
             "link": "https://thisiskyle.me/posts/writing-effective-software-development-notes-for-future-you.html",
             "updated": 1632762000,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/ensuring-designs-work-for-all-users-with-swiftui-previews",
             "title": "Ensuring Designs Work for All Users With SwiftUI Previews",
             "link": "https://thisiskyle.me/posts/ensuring-designs-work-for-all-users-with-swiftui-previews.html",
             "updated": 1581958800,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/fostering-strengths-improving-weaknesses",
             "title": "Fostering Strengths &amp; Improving Weaknesses",
             "link": "https://thisiskyle.me/posts/fostering-strengths-improving-weaknesses.html",
             "updated": 1559062800,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/using-oclint-without-rebuilding-your-project",
             "title": "Using OCLint Without Rebuilding Your Project",
             "link": "https://thisiskyle.me/posts/using-oclint-without-rebuilding-your-project.html",
             "updated": 1544979600,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/measuring-ios-scroll-performance-is-tough--use-this-to-make-it-simple-and-automated",
             "title": "Measuring iOS scroll performance is tough. Use this to make it simple &amp; automated",
             "link": "https://thisiskyle.me/posts/measuring-ios-scroll-performance-is-tough-use-this-to-make-it-simple-and-automated.html",
             "updated": 1535389200,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/working-all-day-hurts--should-i-go-to-a-doctor",
             "title": "Working All Day Hurts; Should I Go to a Doctor?",
             "link": "https://thisiskyle.me/posts/working-all-day-hurts-should-i-go-to-a-doctor.html",
             "updated": 1518714000,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/backpacks",
             "title": "Backpacks",
             "link": "https://thisiskyle.me/posts/backpacks.html",
             "updated": 1516554000,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/big-o-notation",
             "title": "Big-O Notation",
             "link": "https://thisiskyle.me/posts/big-o-notation.html",
             "updated": 1506531600,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/apple-watch-bands-review",
             "title": "Apple Watch Bands Review",
             "link": "https://thisiskyle.me/posts/apple-watch-bands-review.html",
             "updated": 1432400400,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         },
         {
             "id": "https://thisiskyle.me/posts/30-second-elevator-pitch",
             "title": "30 Second Elevator Pitch",
             "link": "https://thisiskyle.me/posts/30-second-elevator-pitch.html",
             "updated": 1313946000,
-            "site_url": "https://thisiskyle.me/"
+            "site_url": "https://thisiskyle.me/",
+            "slug": "development"
         }
     ]
 }

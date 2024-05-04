@@ -6,105 +6,120 @@
             "title": "How to use SwiftData with Previews - Xcode 15 beta 5 - Preview Container and Sample Data",
             "link": "https://www.youtube.com/watch?v=toE81AHrsYA",
             "updated": 1714108711,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:slOQbTacj4k",
             "title": "How to translate and localize an iOS app with string catalogs in Xcode 15",
             "link": "https://www.youtube.com/watch?v=slOQbTacj4k",
             "updated": 1714108075,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:CcUgRDLcUmQ",
             "title": "SwiftData Tutorial: How to Easily Persist Data in SwiftUI - Xcode 15 - Swift",
             "link": "https://www.youtube.com/watch?v=CcUgRDLcUmQ",
             "updated": 1714083493,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yvfv6N60-vY",
             "title": "SwiftUI Performance Optimisation: How to manage Data Flow and UI Updates in your iOS and macOS apps",
             "link": "https://www.youtube.com/watch?v=yvfv6N60-vY",
             "updated": 1714075756,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:tRp6I3epizk",
             "title": "The Essentials of SwiftUI View Identity: How to Ensure Reliable View Updates Across Your iOS Apps",
             "link": "https://www.youtube.com/watch?v=tRp6I3epizk",
             "updated": 1714051430,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:RpdHOCMz9Pw",
             "title": "I converted a Core Data to SwiftData: Here is what happened - Xcode 15 Beta 5",
             "link": "https://www.youtube.com/watch?v=RpdHOCMz9Pw",
             "updated": 1714029182,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:uE8RCE45Yxc",
             "title": "How to build a macOS app for beginners (2023, Swift, SwiftUI, Xcode 15) - mac development course",
             "link": "https://www.youtube.com/watch?v=uE8RCE45Yxc",
             "updated": 1712749699,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:c9XxDjmLT24",
             "title": "Advanced SwiftUI Tutorial: Build a Complex App with Swift Charts for iOS 17 & macOS (Xcode 15  2023)",
             "link": "https://www.youtube.com/watch?v=c9XxDjmLT24",
             "updated": 1712703620,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:xEUAKd_PAMo",
             "title": "Beyond Basics: Can SwiftUI Handle the Challenge of Complex macOS Apps?",
             "link": "https://www.youtube.com/watch?v=xEUAKd_PAMo",
             "updated": 1712407839,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:e0eO1di0cPY",
             "title": "SwiftUI Search Bar - How to work with searchable in your iOS and macOS apps",
             "link": "https://www.youtube.com/watch?v=e0eO1di0cPY",
             "updated": 1712358869,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:ZeZPmC861E8",
             "title": "XCTest Tutorial: How to add automated UI tests for Better iOS App Quality - Swift - SwiftUI - Xcode",
             "link": "https://www.youtube.com/watch?v=ZeZPmC861E8",
             "updated": 1711571443,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:nTcrzJ49m-U",
             "title": "How to Save and Manage Data with Core Data in Swift - SwiftUI Basics Tutorial 2023",
             "link": "https://www.youtube.com/watch?v=nTcrzJ49m-U",
             "updated": 1710448673,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:aH15GUzk85Y",
             "title": "From Slow to Fast: Profiling SwiftUI Applications for Peak Performance - SwiftUI Testing Tutorial 1",
             "link": "https://www.youtube.com/watch?v=aH15GUzk85Y",
             "updated": 1710429657,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:ZsKrB6ztf1s",
             "title": "How to Make a Color Picker with ScrollView, Scroll Position and Visual Effects - SwiftUI  iOS 17",
             "link": "https://www.youtube.com/watch?v=ZsKrB6ztf1s",
             "updated": 1710367892,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:mnH7YRmuVKw",
             "title": "Introduction to SwiftCharts: Creating Charts and Graphs in SwiftUI",
             "link": "https://www.youtube.com/watch?v=mnH7YRmuVKw",
             "updated": 1708774179,
-            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ"
+            "site_url": "https://www.youtube.com/channel/UCAkHGQ1Z78fH9WHp45Dq2rQ",
+            "slug": "youtube"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "2023 Developer Journal Announcement",
             "link": "https://www.joshholtz.com/dev-journal-2023/2022/12/30/dev-journal-annoucement.html",
             "updated": 1672354800,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2022/04/08/hudson-first-blog-post",
             "title": "Hudson\u2019s First Blog Post",
             "link": "https://www.joshholtz.com/blog/2022/04/08/hudson-first-blog-post.html",
             "updated": 1649377800,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2022/02/15/launching-whats-my-age-again",
             "title": "Launch Announcement: What\u2019s My Age Again for iOS",
             "link": "https://www.joshholtz.com/blog/2022/02/15/launching-whats-my-age-again.html",
             "updated": 1644885000,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/10/27/joshs-m1-development-environemnt",
             "title": "Josh\u2019s M1 Mac Development Environment - homebrew, zsh, Ruby and python version managers",
             "link": "https://www.joshholtz.com/blog/2021/10/27/joshs-m1-development-environemnt.html",
             "updated": 1635294600,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/06/23/automating-ios-shortcuts-the-cron-job-way",
             "title": "Automating iOS Shortcuts - The Cron Job Way",
             "link": "https://www.joshholtz.com/blog/2021/06/23/automating-ios-shortcuts-the-cron-job-way.html",
             "updated": 1624408200,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/06/01/launching-oh-crop",
             "title": "Launch Announcement: Oh Crop for iOS",
             "link": "https://www.joshholtz.com/blog/2021/06/01/launching-oh-crop.html",
             "updated": 1622507400,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/03/15/preview-gargamel-non-opinionated-github-monitoring-dashboard",
             "title": "Preview: Gargmel - A non-opinionated GitHub monitoring dashboard powered by YAML",
             "link": "https://www.joshholtz.com/blog/2021/03/15/preview-gargamel-non-opinionated-github-monitoring-dashboard.html",
             "updated": 1615768200,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/02/17/apples-2fa-with-fastlane",
             "title": "How Apple\u2019s Upcoming Two-Step/Two-Factor Enforcement Could Affect Your fastlane Experience",
             "link": "https://www.joshholtz.com/blog/2021/02/17/apples-2fa-with-fastlane.html",
             "updated": 1613521800,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2021/01/13/launching-an-otter-rss-reader",
             "title": "Launch Announcement: An Otter RSS Reader for iOS and macOS",
             "link": "https://www.joshholtz.com/blog/2021/01/13/launching-an-otter-rss-reader.html",
             "updated": 1610497800,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.joshholtz.com/blog/2020/12/08/healthy-living-log-with-scriptable",
             "title": "Building a Healthy Living Log with Scriptable",
             "link": "https://www.joshholtz.com/blog/2020/12/08/healthy-living-log-with-scriptable.html",
             "updated": 1607387400,
-            "site_url": "https://www.joshholtz.com/blog/"
+            "site_url": "https://www.joshholtz.com/blog/",
+            "slug": "development"
         }
     ]
 }

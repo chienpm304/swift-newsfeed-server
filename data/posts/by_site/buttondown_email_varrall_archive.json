@@ -6,105 +6,120 @@
             "title": "visionOS 2.0 at WWDC 2024",
             "link": "https://buttondown.email/varrall/archive/visionos-20-at-wwdc-2024/",
             "updated": 1710970872,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/vision-pro-connectivity/",
             "title": "Vision Pro Connectivity",
             "link": "https://buttondown.email/varrall/archive/vision-pro-connectivity/",
             "updated": 1708888956,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/inspiring-apple-vision-pro-apps/",
             "title": "Inspiring Apple Vision Pro Apps",
             "link": "https://buttondown.email/varrall/archive/inspiring-apple-vision-pro-apps/",
             "updated": 1706483512,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/vision-pro-apps-look-boring/",
             "title": "Vision Pro Apps look boring",
             "link": "https://buttondown.email/varrall/archive/vision-pro-apps-look-boring/",
             "updated": 1705622110,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/more-windows-approach-for-vision-pro/",
             "title": "More windows approach for Vision Pro",
             "link": "https://buttondown.email/varrall/archive/more-windows-approach-for-vision-pro/",
             "updated": 1700172009,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/have-we-reached-peak-app/",
             "title": "Have we reached Peak App?",
             "link": "https://buttondown.email/varrall/archive/have-we-reached-peak-app/",
             "updated": 1695409365,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/swift-charts/",
             "title": "Swift Charts",
             "link": "https://buttondown.email/varrall/archive/swift-charts/",
             "updated": 1692682430,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/adapting-an-app-to-visionos/",
             "title": "Adapting an App to visionOS",
             "link": "https://buttondown.email/varrall/archive/adapting-an-app-to-visionos/",
             "updated": 1691368283,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/windowing-on-the-vision-pro/",
             "title": "Windowing on the Vision Pro",
             "link": "https://buttondown.email/varrall/archive/windowing-on-the-vision-pro/",
             "updated": 1690156849,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/hand-tracking-in-visionos/",
             "title": "Hand tracking in VisionOS",
             "link": "https://buttondown.email/varrall/archive/hand-tracking-in-visionos/",
             "updated": 1689706187,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/skyboxes-and-transparency-in-visionos/",
             "title": "Skyboxes and transparency in VisionOS",
             "link": "https://buttondown.email/varrall/archive/skyboxes-and-transparency-in-visionos/",
             "updated": 1689554621,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/hand-tracking-in-vision-pro-simulator/",
             "title": "Hand Tracking in Vision Pro Simulator",
             "link": "https://buttondown.email/varrall/archive/hand-tracking-in-vision-pro-simulator/",
             "updated": 1689276176,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/multiple-cameras-in-visionos-previews/",
             "title": "Multiple Cameras in VisionOS Previews",
             "link": "https://buttondown.email/varrall/archive/multiple-cameras-in-visionos-previews/",
             "updated": 1689099382,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/testing-edge-cases/",
             "title": "Testing edge cases",
             "link": "https://buttondown.email/varrall/archive/testing-edge-cases/",
             "updated": 1674795040,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         },
         {
             "id": "https://buttondown.email/varrall/archive/coming-soon/",
             "title": "Coming soon",
             "link": "https://buttondown.email/varrall/archive/coming-soon/",
             "updated": 1670878820,
-            "site_url": "https://buttondown.email/varrall/archive"
+            "site_url": "https://buttondown.email/varrall/archive",
+            "slug": "development"
         }
     ]
 }

@@ -6,42 +6,48 @@
             "title": "Validating Relay Queries With This One Weird Trick\u2122",
             "link": "https://blog.eliperkins.com/what-is-relay-validate",
             "updated": 1553187600,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         },
         {
             "id": "https://blog.eliperkins.com/se0117-has-the-power-to-change-sdk-design",
             "title": "SE-0117, API Design, and You",
             "link": "https://blog.eliperkins.com/se0117-has-the-power-to-change-sdk-design",
             "updated": 1468861200,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         },
         {
             "id": "https://blog.eliperkins.com/mocks-in-swift-via-protocols",
             "title": "Mocks in Swift via Protocols",
             "link": "https://blog.eliperkins.com/mocks-in-swift-via-protocols",
             "updated": 1443632400,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         },
         {
             "id": "https://blog.eliperkins.com/wwdc-2014-predictions",
             "title": "WWDC 2014 Predictions",
             "link": "https://blog.eliperkins.com/wwdc-2014-predictions",
             "updated": 1401210000,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         },
         {
             "id": "https://blog.eliperkins.com/get-off-my-lawn",
             "title": "Get Off My Lawn",
             "link": "https://blog.eliperkins.com/get-off-my-lawn",
             "updated": 1392224400,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         },
         {
             "id": "https://blog.eliperkins.com/how-we-learn",
             "title": "How We Learn",
             "link": "https://blog.eliperkins.com/how-we-learn",
             "updated": 1391446800,
-            "site_url": "https://blog.eliperkins.me/"
+            "site_url": "https://blog.eliperkins.me/",
+            "slug": "development"
         }
     ]
 }

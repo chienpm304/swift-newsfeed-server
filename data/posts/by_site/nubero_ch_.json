@@ -6,63 +6,72 @@
             "title": "The Basics of Legibility",
             "link": "https://www.nubero.ch/blog/011/",
             "updated": 1712223900,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/010/",
             "title": "In Praise of Buttons \u2013 Part Two",
             "link": "https://www.nubero.ch/blog/010/",
             "updated": 1708508700,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/009/",
             "title": "In Praise of Buttons \u2013 Part One",
             "link": "https://www.nubero.ch/blog/009/",
             "updated": 1705980600,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/008/",
             "title": "Parochialism, Language and Usability",
             "link": "https://www.nubero.ch/blog/008/",
             "updated": 1701865200,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/006/",
             "title": "Wheels of Fortune",
             "link": "https://www.nubero.ch/blog/006/",
             "updated": 1588166700,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/005/",
             "title": "The \u201calmost\u201d device",
             "link": "https://www.nubero.ch/blog/005/",
             "updated": 1559137200,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/004/",
             "title": "Save changes before quitting?",
             "link": "https://www.nubero.ch/blog/004/",
             "updated": 1547611200,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/002/",
             "title": "Being Critical",
             "link": "https://www.nubero.ch/blog/002/",
             "updated": 1522555200,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/001/",
             "title": "Corporate Design in Motion",
             "link": "https://www.nubero.ch/blog/001/",
             "updated": 1517457600,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         }
     ]
 }

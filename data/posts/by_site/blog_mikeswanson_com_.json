@@ -6,70 +6,80 @@
             "title": "Apple\u2019s Mysterious Fisheye Projection",
             "link": "https://blog.mikeswanson.com/apples-mysterious-fisheye-projection/",
             "updated": 1713096084,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/encoding-spatial-video/",
             "title": "Encoding Spatial Video",
             "link": "https://blog.mikeswanson.com/encoding-spatial-video/",
             "updated": 1711622598,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/spatial-video/",
             "title": "Spatial Video",
             "link": "https://blog.mikeswanson.com/spatial-video/",
             "updated": 1709830253,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/my-year-long-struggle-against-a-call-of-duty-false/",
             "title": "My Year-Long Struggle Against a Call of Duty False Permanent Ban",
             "link": "https://blog.mikeswanson.com/my-year-long-struggle-against-a-call-of-duty-false/",
             "updated": 1701004281,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/activisions-faulty-anti-cheat-software/",
             "title": "Activision\u2019s Faulty Anti-Cheat Software",
             "link": "https://blog.mikeswanson.com/activisions-faulty-anti-cheat-software/",
             "updated": 1670173168,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/achieving-25gbps-with-the-udm-pro/",
             "title": "Achieving 2.5Gbps with the UDM Pro",
             "link": "https://blog.mikeswanson.com/achieving-25gbps-with-the-udm-pro/",
             "updated": 1630361967,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/illustrator-plug-in-updates-and-new-scripting/",
             "title": "Illustrator Plug-In Updates and New Scripting Support",
             "link": "https://blog.mikeswanson.com/illustrator-plug-in-updates-and-new-scripting/",
             "updated": 1620812127,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/duplicate/",
             "title": "Duplicate Plug-in for Adobe Illustrator",
             "link": "https://blog.mikeswanson.com/duplicate/",
             "updated": 1498951536,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/split-view-drag-and-drop/",
             "title": "iOS 9 Split View Drag-and-Drop",
             "link": "https://blog.mikeswanson.com/split-view-drag-and-drop/",
             "updated": 1443875304,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.mikeswanson.com/watch-os-101-controller-life-cycle-changes/",
             "title": "Watch OS 1.0.1 Controller Life Cycle Changes",
             "link": "https://blog.mikeswanson.com/watch-os-101-controller-life-cycle-changes/",
             "updated": 1432055106,
-            "site_url": "https://blog.mikeswanson.com/"
+            "site_url": "https://blog.mikeswanson.com/",
+            "slug": "development"
         }
     ]
 }

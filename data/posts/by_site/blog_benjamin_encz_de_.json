@@ -6,329 +6,376 @@
             "title": "My Five Favorite Books for Engineering Leaders",
             "link": "http://blog.benjamin-encz.de/post/five-favorite-books-for-engineering-leaders/",
             "updated": 1533448800,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/engineering-process-is-overvalued/",
             "title": "Engineering Process Is Overvalued",
             "link": "http://blog.benjamin-encz.de/post/engineering-process-is-overvalued/",
             "updated": 1528524000,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/flavors-of-engineering-management/",
             "title": "Flavors of Engineering Management",
             "link": "http://blog.benjamin-encz.de/post/flavors-of-engineering-management/",
             "updated": 1519020000,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/sqlite-one-to-many-json1-extension/",
             "title": "Modeling one-to-many in SQlite using the JSON1 extension",
             "link": "http://blog.benjamin-encz.de/post/sqlite-one-to-many-json1-extension/",
             "updated": 1508772294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/quick-thoughts-prototyping-software/",
             "title": "Quick Thoughts on Prototyping Software",
             "link": "http://blog.benjamin-encz.de/post/quick-thoughts-prototyping-software/",
             "updated": 1501514694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/another-small-uikit-debugging-adventure/",
             "title": "Another Small UIKit Debugging Adventure",
             "link": "http://blog.benjamin-encz.de/post/another-small-uikit-debugging-adventure/",
             "updated": 1497626694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/simple-undo-redo-swift/",
             "title": "A Simple Undo/Redo Implementation in Swift",
             "link": "http://blog.benjamin-encz.de/post/simple-undo-redo-swift/",
             "updated": 1494516294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/safely-migrating-millions-of-database-records-across-thousands-of-devices/",
             "title": "Safely migrating millions of database records across thousands of devices",
             "link": "http://blog.benjamin-encz.de/post/safely-migrating-millions-of-database-records-across-thousands-of-devices/",
             "updated": 1490023494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/profiling-multicore-performance-instruments/",
             "title": "Surprises in Profiling Multi-Core Performance with Instruments",
             "link": "http://blog.benjamin-encz.de/post/profiling-multicore-performance-instruments/",
             "updated": 1488727494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/bridging-swift-types-to-objective-c/",
             "title": "Bridging Swift Types to Objective-C",
             "link": "http://blog.benjamin-encz.de/post/bridging-swift-types-to-objective-c/",
             "updated": 1487085894,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/why-i-dont-believe-in-ubers-success/",
             "title": "Why I don't Believe in Uber's Success",
             "link": "http://blog.benjamin-encz.de/post/why-i-dont-believe-in-ubers-success/",
             "updated": 1484839494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift/",
             "title": "Understanding Data Race Detection by Implementing it in Swift",
             "link": "http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift/",
             "updated": 1479482694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/apple-is-not-doomed-quite-yet/",
             "title": "Apple Isn't Doomed Quite Yet",
             "link": "http://blog.benjamin-encz.de/post/apple-is-not-doomed-quite-yet/",
             "updated": 1477927494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/declarative-api-design-in-swift/",
             "title": "Declarative API Design in Swift",
             "link": "http://blog.benjamin-encz.de/post/declarative-api-design-in-swift/",
             "updated": 1475465094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/broken-toolchain/",
             "title": "Broken Toolchain Post Mortem",
             "link": "http://blog.benjamin-encz.de/post/broken-toolchain/",
             "updated": 1473953094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/bridging-existentials-generics-swift-2/",
             "title": "Bridging Existentials & Generics in Swift 2",
             "link": "http://blog.benjamin-encz.de/post/bridging-existentials-generics-swift-2/",
             "updated": 1469071494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/real-world-flux-ios/",
             "title": "Real World Flux Architecture on iOS",
             "link": "http://blog.benjamin-encz.de/post/real-world-flux-ios/",
             "updated": 1468121094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/wwdc-2016-open-ios-xcode-extensions-apple-file-system/",
             "title": "WWDC 2016 5 Minute Update: Opening Up iOS, Xcode Extensions, Apple Filesystem, Swift Playgrounds on iPad",
             "link": "http://blog.benjamin-encz.de/post/wwdc-2016-open-ios-xcode-extensions-apple-file-system/",
             "updated": 1465874694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/",
             "title": "GCD's Main Queue vs. Main Thread",
             "link": "http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/",
             "updated": 1465097094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/",
             "title": "Beware the UIKit Visitors!",
             "link": "http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/",
             "updated": 1462857894,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/decoding-heterogeneous-collections-in-swift/",
             "title": "Decoding Heterogeneous Collections in Swift",
             "link": "http://blog.benjamin-encz.de/post/decoding-heterogeneous-collections-in-swift/",
             "updated": 1462245894,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/",
             "title": "Compile Time vs. Run Time Type Checking in Swift",
             "link": "http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/",
             "updated": 1460556564,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/squashing-commits-with-git-rebase-guide/",
             "title": "Squashing Commits With Git Rebase: A Very Quick Guide",
             "link": "http://blog.benjamin-encz.de/post/squashing-commits-with-git-rebase-guide/",
             "updated": 1458833094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/validated-a-swift-m-library-for-somewhat-dependent-types/",
             "title": "Validated: A Swift \u03bc-Library for Somewhat Dependent Types",
             "link": "http://blog.benjamin-encz.de/post/validated-a-swift-m-library-for-somewhat-dependent-types/",
             "updated": 1456413894,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/how-i-write-swift-specs-with-quick/",
             "title": "How I Write Swift Specs With Quick",
             "link": "http://blog.benjamin-encz.de/post/how-i-write-swift-specs-with-quick/",
             "updated": 1456327494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/about/",
             "title": "About",
             "link": "http://blog.benjamin-encz.de/about/",
             "updated": 1455551482,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/projects/",
             "title": "Projects",
             "link": "http://blog.benjamin-encz.de/projects/",
             "updated": 1455551482,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/speaking/",
             "title": "Speaking",
             "link": "http://blog.benjamin-encz.de/speaking/",
             "updated": 1455551482,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/writing/",
             "title": "Writing",
             "link": "http://blog.benjamin-encz.de/writing/",
             "updated": 1455551482,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/introducing-reswift/",
             "title": "Introducing ReSwift",
             "link": "http://blog.benjamin-encz.de/post/introducing-reswift/",
             "updated": 1453303494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/convenient-error-handling-in-swift/",
             "title": "Convenient Error Handling in Swift",
             "link": "http://blog.benjamin-encz.de/post/convenient-error-handling-in-swift/",
             "updated": 1447860294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/a-flux-inspired-architecture-for-ios/",
             "title": "A Flux Inspired Architecture for iOS",
             "link": "http://blog.benjamin-encz.de/post/a-flux-inspired-architecture-for-ios/",
             "updated": 1442071494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/swift-error-handling-and-objective-c-interop-in-depth/",
             "title": "Swift Error Handling and Objective-C Interop in Depth",
             "link": "http://blog.benjamin-encz.de/post/swift-error-handling-and-objective-c-interop-in-depth/",
             "updated": 1437665094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/ios-9-detects-cycles-in-layout-trees/",
             "title": "iOS 9 Detects Cycles in Layout Trees",
             "link": "http://blog.benjamin-encz.de/post/ios-9-detects-cycles-in-layout-trees/",
             "updated": 1436455494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/talk-introduction-to-frp-on-ios/",
             "title": "Talk: Introduction to FRP on iOS",
             "link": "http://blog.benjamin-encz.de/post/talk-introduction-to-frp-on-ios/",
             "updated": 1432999494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/breaking-the-swift-compiler-with-generics/",
             "title": "Breaking Swift with NSObject and Generics",
             "link": "http://blog.benjamin-encz.de/post/breaking-the-swift-compiler-with-generics/",
             "updated": 1424359494,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/i-didnt-know-that-is-the-best-way-to-learn/",
             "title": "\"I didn't know that\" is the best way to learn",
             "link": "http://blog.benjamin-encz.de/post/i-didnt-know-that-is-the-best-way-to-learn/",
             "updated": 1423149894,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/switching-ios-devices-and-the-keychain/",
             "title": "Switching iOS devices and the Keychain",
             "link": "http://blog.benjamin-encz.de/post/switching-ios-devices-and-the-keychain/",
             "updated": 1418570694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/using-ssh-with-multiple-accounts/",
             "title": "Using SSH for private and work account on a Mac",
             "link": "http://blog.benjamin-encz.de/post/using-ssh-with-multiple-accounts/",
             "updated": 1416324294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/the-downside-of-web-apis/",
             "title": "The downside of Web APIs",
             "link": "http://blog.benjamin-encz.de/post/the-downside-of-web-apis/",
             "updated": 1407684294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/arithmetic-expressions-in-swift/",
             "title": "Arithmetic Expressions in Swift",
             "link": "http://blog.benjamin-encz.de/post/arithmetic-expressions-in-swift/",
             "updated": 1401809094,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/objective-c-backing-ivars-subclasses/",
             "title": "Objective-C: Accessing backing iVars of properties in subclasses",
             "link": "http://blog.benjamin-encz.de/post/objective-c-backing-ivars-subclasses/",
             "updated": 1401290694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/seamless-serialization-objectivec/",
             "title": "Automatic serialization in Objective-C",
             "link": "http://blog.benjamin-encz.de/post/seamless-serialization-objectivec/",
             "updated": 1396452294,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/when-you-cant-avoid-email/",
             "title": "When You Can't Avoid Email",
             "link": "http://blog.benjamin-encz.de/post/when-you-cant-avoid-email/",
             "updated": 1393946694,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/portfolio/",
             "title": "",
             "link": "http://blog.benjamin-encz.de/portfolio/",
             "updated": 978282000,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/post/",
             "title": "",
             "link": "http://blog.benjamin-encz.de/post/",
             "updated": 978282000,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         },
         {
             "id": "http://blog.benjamin-encz.de/values/",
             "title": "",
             "link": "http://blog.benjamin-encz.de/values/",
             "updated": 978282000,
-            "site_url": "http://blog.benjamin-encz.de/"
+            "site_url": "http://blog.benjamin-encz.de/",
+            "slug": "development"
         }
     ]
 }

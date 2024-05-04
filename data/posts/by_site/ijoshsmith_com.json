@@ -6,70 +6,80 @@
             "title": "Command line calculator in Swift 4.2",
             "link": "https://ijoshsmith.com/2019/01/08/command-line-calculator-in-swift-4-2/",
             "updated": 1546980953,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2302",
             "title": "Simple deep linking in Swift",
             "link": "https://ijoshsmith.com/2017/05/24/simple-deep-linking-in-swift/",
             "updated": 1495653102,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2218",
             "title": "Reflectable enums in Swift 3",
             "link": "https://ijoshsmith.com/2017/04/08/reflectable-enums-in-swift-3/",
             "updated": 1491694283,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2214",
             "title": "Generate Equatable code in Swift",
             "link": "https://ijoshsmith.com/2017/01/31/generate-equatable-code-in-swift/",
             "updated": 1485887101,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2200",
             "title": "Function composition in Swift",
             "link": "https://ijoshsmith.com/2017/01/21/function-composition-in-swift/",
             "updated": 1484964884,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2103",
             "title": "json2swift: a peek under the hood",
             "link": "https://ijoshsmith.com/2016/11/10/json2swift-a-peek-under-the-hood/",
             "updated": 1478793820,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2035",
             "title": "Swift JSON library vs. code generation",
             "link": "https://ijoshsmith.com/2016/11/03/swift-json-library-vs-code-generation/",
             "updated": 1478186200,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=2026",
             "title": "Create Swift data models from JSON",
             "link": "https://ijoshsmith.com/2016/10/30/create-swift-data-models-from-json/",
             "updated": 1477844622,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=1875",
             "title": "Concealment design pattern in Swift",
             "link": "https://ijoshsmith.com/2016/07/18/concealment-design-pattern-in-swift/",
             "updated": 1468881287,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         },
         {
             "id": "http://ijoshsmith.com/?p=1770",
             "title": "Analyzing a dependency graph in Swift",
             "link": "https://ijoshsmith.com/2016/06/08/analyzing-a-dependency-graph-in-swift/",
             "updated": 1465406028,
-            "site_url": "https://ijoshsmith.com"
+            "site_url": "https://ijoshsmith.com",
+            "slug": "development"
         }
     ]
 }

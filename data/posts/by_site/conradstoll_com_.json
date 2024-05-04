@@ -6,140 +6,160 @@
             "title": "Getting back into it",
             "link": "http://conradstoll.com/blog/2023/5/8/hows-your-back",
             "updated": 1683579551,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:628b01ce61c98a1eb595dba0",
             "title": "Grocery 3.0",
             "link": "http://conradstoll.com/blog/2022/5/22/grocery-30",
             "updated": 1653256954,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:60389b91f3ee655afc138653",
             "title": "Adding Services to Grocery for Mac with Catalyst and AppKit",
             "link": "http://conradstoll.com/blog/2021/2/26/adding-services-to-grocery-for-mac-with-catalyst-and-appkit",
             "updated": 1614297371,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:60171aabb6ec6f5af0d40e94",
             "title": "Saving Previous States with Indirect Enums in Swift",
             "link": "http://conradstoll.com/blog/2021/1/31/saving-previous-states-with-indirect-enums-in-swift",
             "updated": 1612101685,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5fab68f02158c42cdf805b17",
             "title": "On Apple's SwiftUI Header File Documentation",
             "link": "http://conradstoll.com/blog/2020/11/10/on-apples-swiftui-header-file-documentation",
             "updated": 1605044172,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5ecab52bad76516658007c1a",
             "title": "State Driven Development - The Beauty of Enums in Swift",
             "link": "http://conradstoll.com/blog/state-driven-development",
             "updated": 1590317750,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5eb8bdc03c500172942f088b",
             "title": "CloudKit Sharing for Grocery Households",
             "link": "http://conradstoll.com/blog/2020/5/10/cloudkit-sharing-for-grocery-households",
             "updated": 1589143316,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5c7320c08165f58920d0b29c",
             "title": "Writing Recipes in Grocery",
             "link": "http://conradstoll.com/blog/2019/2/24/writing-recipes-in-grocery",
             "updated": 1551420900,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5c72ebb0971a1842778af678",
             "title": "A Recipe for Building Grocery 2.0",
             "link": "http://conradstoll.com/blog/2019/2/24/a-recipe-for-building-grocery-20",
             "updated": 1551070800,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:59ab02b9e45a7c3665c3888c",
             "title": "Nineteen Step Process to Faster Apple Watch Button Actions",
             "link": "http://conradstoll.com/blog/2017/9/2/nineteen-step-process-to-faster-apple-watch-button-actions",
             "updated": 1504355829,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:597695f02994ca3cecdadafd",
             "title": "Grocery Version 1.1 Includes Quick Add and Usability Improvements",
             "link": "http://conradstoll.com/blog/2017/7/24/grocery-update-version-11-includes-quick-add-and-usability-improvements",
             "updated": 1500921655,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:591d129d8419c2f6b1633cb4",
             "title": "Review: Baratza Sette 270W Coffee Grinder",
             "link": "http://conradstoll.com/blog/2017/5/17/review-baratza-sette-270w-coffee-grinder",
             "updated": 1495053635,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:591ba1e61e5b6c788e01b034",
             "title": "My Homebrew Espresso Morning Ritual",
             "link": "http://conradstoll.com/blog/2017/5/16/my-homebrew-espresso-morning-ritual",
             "updated": 1494960929,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5911ec331e5b6c3355e8442f",
             "title": "Introducing Grocery - An Opinionated Shopping List App for iPhone and Apple Watch",
             "link": "http://conradstoll.com/blog/2017/5/9/introducing-grocery-an-opinionated-shopping-list-app-for-iphone-and-apple-watch",
             "updated": 1494322128,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:58e6696ba5790ab156fbc28b",
             "title": "Thoughts on a New Mac Pro",
             "link": "http://conradstoll.com/blog/2017/4/6/thoughts-on-a-new-mac-pro",
             "updated": 1491470524,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:57b7b5169de4bba0e8c8a06c",
             "title": "Apple Watch at 360iDev",
             "link": "http://conradstoll.com/blog/2016/8/19/apple-watch-at-360idev",
             "updated": 1471632376,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:579a81ce414fb52c5bb29e2c",
             "title": "CocoaConf Yosemite",
             "link": "http://conradstoll.com/blog/2016/7/28/cocoaconf-yosemite",
             "updated": 1469803339,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5760e52a4c2f85e910f938e5",
             "title": "App Launching on Apple Watch",
             "link": "http://conradstoll.com/blog/2016/6/15/app-launching-on-apple-watch",
             "updated": 1465943313,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:5752396ab654f96f0d465678",
             "title": "The Twenty-First Floor",
             "link": "http://conradstoll.com/blog/2016/6/3/the-twenty-first-floor",
             "updated": 1464982339,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         },
         {
             "id": "52671e78e4b0e4777834c38f:52671ff2e4b03b902b8704c3:56e61cf11bbee01578f00a3f",
             "title": "Great Watch Apps are Great Complications",
             "link": "http://conradstoll.com/blog/2016/3/13/great-watch-apps-great-complications",
             "updated": 1457924400,
-            "site_url": "http://conradstoll.com/"
+            "site_url": "http://conradstoll.com/",
+            "slug": "development"
         }
     ]
 }

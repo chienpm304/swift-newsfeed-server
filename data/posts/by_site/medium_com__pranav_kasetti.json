@@ -6,35 +6,40 @@
             "title": "SwiftFormat Automation for iOS Apps",
             "link": "https://medium.com/@pranav.kasetti/swiftformat-automation-for-ios-apps-42c91000a9af?source=rss-59ed2ec3be22------2",
             "updated": 1696209905,
-            "site_url": "https://medium.com/@pranav.kasetti"
+            "site_url": "https://medium.com/@pranav.kasetti",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/83e3f5136a9a",
             "title": "Your guide to Danger Swift on CI",
             "link": "https://medium.com/kinandcartacreated/your-guide-to-danger-swift-on-ci-83e3f5136a9a?source=rss-59ed2ec3be22------2",
             "updated": 1656902368,
-            "site_url": "https://medium.com/@pranav.kasetti"
+            "site_url": "https://medium.com/@pranav.kasetti",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/c6ac29dc0feb",
             "title": "Host and Automate your DocC documentation",
             "link": "https://medium.com/kinandcartacreated/host-and-automate-your-docc-documentation-c6ac29dc0feb?source=rss-59ed2ec3be22------2",
             "updated": 1655383191,
-            "site_url": "https://medium.com/@pranav.kasetti"
+            "site_url": "https://medium.com/@pranav.kasetti",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a859f595793b",
             "title": "The missing handbook for Continuous Integration & Continuous Deployment (start here)",
             "link": "https://medium.com/kinandcartacreated/the-missing-handbook-for-continuous-integration-continuous-deployment-start-here-a859f595793b?source=rss-59ed2ec3be22------2",
             "updated": 1653035841,
-            "site_url": "https://medium.com/@pranav.kasetti"
+            "site_url": "https://medium.com/@pranav.kasetti",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/ce02bb83f9e5",
             "title": "Getting started with Xcode Cloud: Pull Request (PR) Workflow",
             "link": "https://medium.com/kinandcartacreated/getting-started-with-xcode-cloud-pull-request-pr-workflow-ce02bb83f9e5?source=rss-59ed2ec3be22------2",
             "updated": 1646718279,
-            "site_url": "https://medium.com/@pranav.kasetti"
+            "site_url": "https://medium.com/@pranav.kasetti",
+            "slug": "development"
         }
     ]
 }

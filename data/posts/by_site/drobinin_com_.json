@@ -6,28 +6,32 @@
             "title": "Things I Learnt in 2023",
             "link": "https://drobinin.com/posts/things-i-learnt-in-2023/",
             "updated": 1705078800,
-            "site_url": "https://drobinin.com/"
+            "site_url": "https://drobinin.com/",
+            "slug": "development"
         },
         {
             "id": "https://drobinin.com/newsletter/100/",
             "title": "Tuesday Triage Newsletter #100",
             "link": "https://drobinin.com/newsletter/100/",
             "updated": 1655139600,
-            "site_url": "https://drobinin.com/"
+            "site_url": "https://drobinin.com/",
+            "slug": "development"
         },
         {
             "id": "https://drobinin.com/newsletter/99/",
             "title": "Tuesday Triage Newsletter #99",
             "link": "https://drobinin.com/newsletter/99/",
             "updated": 1654534800,
-            "site_url": "https://drobinin.com/"
+            "site_url": "https://drobinin.com/",
+            "slug": "development"
         },
         {
             "id": "https://drobinin.com/newsletter/98/",
             "title": "Tuesday Triage Newsletter #98",
             "link": "https://drobinin.com/newsletter/98/",
             "updated": 1653930000,
-            "site_url": "https://drobinin.com/"
+            "site_url": "https://drobinin.com/",
+            "slug": "development"
         }
     ]
 }

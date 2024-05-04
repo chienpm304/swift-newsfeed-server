@@ -6,70 +6,80 @@
             "title": "Inspecting Xcode\u2019s build system graph at ease",
             "link": "https://medium.com/@londeix/inspecting-xcodes-build-system-graph-at-ease-e96573d5d340?source=rss-455e6a104b5e------2",
             "updated": 1695598606,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bbfdc1cf87a1",
             "title": "Stubbing in pair with Swift compiler: A spy registration",
             "link": "https://medium.com/@londeix/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1?source=rss-455e6a104b5e------2",
             "updated": 1560849690,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/c951770a295b",
             "title": "Stubbing in pair with Swift compiler",
             "link": "https://medium.com/@londeix/stubbing-in-pair-with-swift-compiler-c951770a295b?source=rss-455e6a104b5e------2",
             "updated": 1557732890,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d8715a28d1ad",
             "title": "Top-down iOS error architecture",
             "link": "https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad?source=rss-455e6a104b5e------2",
             "updated": 1556363854,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/cf04fef6c334",
             "title": "Swift weak reference assertion",
             "link": "https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?source=rss-455e6a104b5e------2",
             "updated": 1551154243,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/9724cbabe821",
             "title": "Xcode file variants without targets",
             "link": "https://medium.com/@londeix/xcode-file-variants-without-targets-9724cbabe821?source=rss-455e6a104b5e------2",
             "updated": 1543838416,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e28ad4ef3268",
             "title": "Watch out for protocol extensions in your Swift API (unit tests trap).",
             "link": "https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268?source=rss-455e6a104b5e------2",
             "updated": 1524475602,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/3b057f2c1432",
             "title": "Listing all cases in an enum",
             "link": "https://medium.com/@londeix/listing-all-cases-in-an-enum-3b057f2c1432?source=rss-455e6a104b5e------2",
             "updated": 1521457144,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/13f0deaed501",
             "title": "Xcode unit tests with \u2318+S",
             "link": "https://medium.com/@londeix/xcode-unit-tests-with-s-13f0deaed501?source=rss-455e6a104b5e------2",
             "updated": 1512385672,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/170fd08f8783",
             "title": "Nobody expects Completion Inquisition!",
             "link": "https://medium.com/@londeix/nobody-expects-completion-inquisition-170fd08f8783?source=rss-455e6a104b5e------2",
             "updated": 1507238970,
-            "site_url": "https://medium.com/@londeix"
+            "site_url": "https://medium.com/@londeix",
+            "slug": "development"
         }
     ]
 }

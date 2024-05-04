@@ -6,70 +6,80 @@
             "title": "Be Careful When You Initialize a State Object",
             "link": "https://jaredsinclair.com/2024/03/14/state-object-autoclosure.html",
             "updated": 1710388800,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2024/03/02/scaled-metrics",
             "title": "Scaled Metric Surprises on iOS &amp; iPadOS",
             "link": "https://jaredsinclair.com/2024/03/02/scaled-metrics.html",
             "updated": 1709352000,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2023/10/29/dagmar-doxo",
             "title": "Dagmar Chili Pitas &amp; Doxowox: Now With Slightly-Less Unofficial Mirrors",
             "link": "https://jaredsinclair.com/2023/10/29/dagmar-doxo.html",
             "updated": 1698552000,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2022/11/11/deep-fakes-repost-nov-22",
             "title": "Deep Fake",
             "link": "https://jaredsinclair.com/2022/11/11/deep-fakes-repost-nov-22.html",
             "updated": 1668108930,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2021/05/03/basecramp",
             "title": "The Destructors, or, Yet Another Rant About That Basecamp Post",
             "link": "https://jaredsinclair.com/2021/05/03/basecramp.html",
             "updated": 1620036000,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2021/04/12/deep-fake",
             "title": "Deep Fake",
             "link": "https://jaredsinclair.com/2021/04/12/deep-fake.html",
             "updated": 1618229900,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2021/04/01/mustang",
             "title": "Mustang",
             "link": "https://jaredsinclair.com/2021/04/01/mustang.html",
             "updated": 1617269519,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2020/11/03/four-years-ago",
             "title": "Four Years Ago",
             "link": "https://jaredsinclair.com/2020/11/03/four-years-ago.html",
             "updated": 1604395919,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2020/10/21/skills-and-liabilities",
             "title": "Every Skill is a Liability",
             "link": "https://jaredsinclair.com/2020/10/21/skills-and-liabilities.html",
             "updated": 1603262329,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         },
         {
             "id": "https://jaredsinclair.com/2020/05/28/dagmar-chili-pitas",
             "title": "Dagmar Chili Pitas: The Official Unofficial Mirror",
             "link": "https://jaredsinclair.com/2020/05/28/dagmar-chili-pitas.html",
             "updated": 1590638400,
-            "site_url": "https://jaredsinclair.com/"
+            "site_url": "https://jaredsinclair.com/",
+            "slug": "development"
         }
     ]
 }

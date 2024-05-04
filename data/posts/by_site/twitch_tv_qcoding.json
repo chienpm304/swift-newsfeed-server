@@ -6,42 +6,48 @@
             "title": "Get Useful Errors from ViewInspector (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2132002067",
             "updated": 1714296571,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "2120058941",
             "title": "Highlight: Test Clarity (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2120058941",
             "updated": 1713110122,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "2119744394",
             "title": "Test Clarity (TDD with SwiftUI)",
             "link": "https://www.twitch.tv/videos/2119744394",
             "updated": 1713087029,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "1762439429",
             "title": "Highlight: Quick, Small Refactorings in Swift",
             "link": "https://www.twitch.tv/videos/1762439429",
             "updated": 1678545094,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "1581101648",
             "title": "Highlight: Can TCR Really TDD? (Live Coding in Swift)",
             "link": "https://www.twitch.tv/videos/1581101648",
             "updated": 1662219175,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         },
         {
             "id": "1484358670",
             "title": "Highlight: Getting Serious about Using a Discovery Tree",
             "link": "https://www.twitch.tv/videos/1484358670",
             "updated": 1652562616,
-            "site_url": "https://www.twitch.tv/qcoding"
+            "site_url": "https://www.twitch.tv/qcoding",
+            "slug": "twitch"
         }
     ]
 }

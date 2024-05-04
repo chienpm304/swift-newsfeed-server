@@ -6,56 +6,64 @@
             "title": "2023 Basic Physics in RealityKit: Roll-A-Ball game Part 2 - Game Controls UI",
             "link": "https://www.youtube.com/watch?v=-dN8_zWdOVM",
             "updated": 1714176721,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:b8y6C6IzV-M",
             "title": "2023 Overview of Apple's XR Development Tools",
             "link": "https://www.youtube.com/watch?v=b8y6C6IzV-M",
             "updated": 1714174346,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:dOsr5_dgp7A",
             "title": "2023 Basic Physics in RealityKit: Roll-A-Ball game Part 3 - Ball and Pin Physics",
             "link": "https://www.youtube.com/watch?v=dOsr5_dgp7A",
             "updated": 1714162857,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:0JUg6IJUCfQ",
             "title": "Simple way to create 3D models of real-world objects",
             "link": "https://www.youtube.com/watch?v=0JUg6IJUCfQ",
             "updated": 1714096837,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:95mUZXdA0Fw",
             "title": "August Channel Update - New Apple Vision Pro content, new website, and new visionOS dev community",
             "link": "https://www.youtube.com/watch?v=95mUZXdA0Fw",
             "updated": 1714086027,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:rIKRunZvgvA",
             "title": "2023 Basic Physics in RealityKit: Roll-A-Ball game Part 1 - Project setup and compose game scene",
             "link": "https://www.youtube.com/watch?v=rIKRunZvgvA",
             "updated": 1712741991,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:lIJFsoJ6ndI",
             "title": "2023 Learn Apple XR Development",
             "link": "https://www.youtube.com/watch?v=lIJFsoJ6ndI",
             "updated": 1711082552,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:qGksl5tLE-8",
             "title": "2023 Your First RealityKit app with SwiftUI and Reality Composer",
             "link": "https://www.youtube.com/watch?v=qGksl5tLE-8",
             "updated": 1707855173,
-            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg"
+            "site_url": "https://www.youtube.com/channel/UC6V4Ww-axQEGtyFDcqwDMlg",
+            "slug": "youtube"
         }
     ]
 }

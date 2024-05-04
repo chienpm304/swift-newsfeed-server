@@ -6,21 +6,24 @@
             "title": "Latent Space",
             "link": "https://medium.com/@warrenm/latent-space-c7be702bab24?source=rss-548035e37c15------2",
             "updated": 1576112066,
-            "site_url": "https://medium.com/@warrenm"
+            "site_url": "https://medium.com/@warrenm",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/ee63f6b252a5",
             "title": "A Product of Nitrogen and Iodine",
             "link": "https://medium.com/@warrenm/a-product-of-nitrogen-and-iodine-ee63f6b252a5?source=rss-548035e37c15------2",
             "updated": 1568458435,
-            "site_url": "https://medium.com/@warrenm"
+            "site_url": "https://medium.com/@warrenm",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/dc74a72c0aba",
             "title": "Pedestrian",
             "link": "https://medium.com/@warrenm/pedestrian-dc74a72c0aba?source=rss-548035e37c15------2",
             "updated": 1396302793,
-            "site_url": "https://medium.com/@warrenm"
+            "site_url": "https://medium.com/@warrenm",
+            "slug": "development"
         }
     ]
 }

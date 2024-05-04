@@ -6,70 +6,80 @@
             "title": "I tried the Julia Language during a month",
             "link": "https://fabernovel.github.io/2022-01-30/i-tried-the-julia-language-during-a-month",
             "updated": 1643475600,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2022-01-14/manage-legacy-objc",
             "title": "Manage legacy Objective-C in modern applications",
             "link": "https://fabernovel.github.io/2022-01-14/manage-legacy-objc",
             "updated": 1642093200,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-09-13/swift-argument-parser-a-swift-mod",
             "title": "SwiftArgumentParser: A Swift mod",
             "link": "https://fabernovel.github.io/2021-09-13/swift-argument-parser-a-swift-mod",
             "updated": 1631466000,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-07-22/enhance-xcode-snippets-using-git",
             "title": "Enhance Xcode snippets using Git",
             "link": "https://fabernovel.github.io/2021-07-22/enhance-xcode-snippets-using-git",
             "updated": 1626886800,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-07-20/dealing-with-apple-2FA",
             "title": "Dealing with Apple 2FA for iOS automated app delivery",
             "link": "https://fabernovel.github.io/2021-07-20/dealing-with-apple-2FA",
             "updated": 1626714000,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-06-22/enhance-xcode-templates-using-git",
             "title": "Enhance Xcode templates using Git",
             "link": "https://fabernovel.github.io/2021-06-22/enhance-xcode-templates-using-git",
             "updated": 1624294800,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-05-18/simplify-collection-view-compositional-layout%E2%80%94with-a-dsl",
             "title": "Simplify collection view compositional layout with a DSL",
             "link": "https://fabernovel.github.io/2021-05-18/simplify-collection-view-compositional-layout-with-a-dsl",
             "updated": 1621270800,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-05-10/our-first-mobile-app-using-kotlin-multiplatform",
             "title": "Our first mobile app using Kotlin Multiplatform",
             "link": "https://fabernovel.github.io/2021-05-10/our-first-mobile-app-using-kotlin-multiplatform",
             "updated": 1620579600,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-05-04/rails-generators",
             "title": "Write a REST API with a single command",
             "link": "https://fabernovel.github.io/2021-05-04/rails-generators",
             "updated": 1620061200,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         },
         {
             "id": "https://fabernovel.github.io/2021-04-27/use-domains-names-with-rails",
             "title": "Use domains with Rails",
             "link": "https://fabernovel.github.io/2021-04-27/use-domains-names-with-rails",
             "updated": 1619456400,
-            "site_url": "https://fabernovel.github.io/"
+            "site_url": "https://fabernovel.github.io/",
+            "slug": "companies"
         }
     ]
 }

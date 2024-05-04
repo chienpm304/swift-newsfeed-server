@@ -6,70 +6,80 @@
             "title": "Convert Swift Facades Into async/await Syntax With Continuations",
             "link": "https://betterprogramming.pub/convert-your-swift-facades-to-the-new-async-await-syntax-using-continuations-d4a7bda4611b?source=rss-c2f877dba4d------2",
             "updated": 1641980918,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e8725d7154a2",
             "title": "Swift Property Wrappers, User Defaults and Unique Default Values",
             "link": "https://medium.com/axel-springer-tech/swift-property-wrappers-user-defaults-and-unique-default-values-e8725d7154a2?source=rss-c2f877dba4d------2",
             "updated": 1627881711,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f26e0bb5aec2",
             "title": "SwiftUI in WELT: First Blood",
             "link": "https://medium.com/axel-springer-tech/swiftui-in-welt-first-blood-f26e0bb5aec2?source=rss-c2f877dba4d------2",
             "updated": 1621222414,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e4163126fd38",
             "title": "Bring your old iOS Library back to Life in just few easy Steps",
             "link": "https://medium.com/axel-springer-tech/bring-your-old-ios-library-back-to-life-in-just-few-easy-steps-e4163126fd38?source=rss-c2f877dba4d------2",
             "updated": 1613404433,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/6ab13dd324e9",
             "title": "Jekyll & Netlify: A Web Love Story",
             "link": "https://medium.com/swlh/jekyll-netlify-a-web-love-story-6ab13dd324e9?source=rss-c2f877dba4d------2",
             "updated": 1608103816,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/cb7634096a82",
             "title": "Wink! Or How your Users can interact with your iOS App by changing their Face Expressions",
             "link": "https://medium.com/axel-springer-tech/wink-or-how-your-users-can-interact-with-your-ios-app-by-changing-their-face-expressions-cb7634096a82?source=rss-c2f877dba4d------2",
             "updated": 1607859617,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/6436aaccf38",
             "title": "Ensure Abstraction in your iOS App Codebase when using Combine",
             "link": "https://medium.com/axel-springer-tech/ensure-abstraction-in-your-ios-app-codebase-when-using-combine-6436aaccf38?source=rss-c2f877dba4d------2",
             "updated": 1603675886,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f4b7b1b945a3",
             "title": "The Common Reuse Principle on iOS",
             "link": "https://medium.com/axel-springer-tech/the-common-reuse-principle-on-ios-f4b7b1b945a3?source=rss-c2f877dba4d------2",
             "updated": 1592974471,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/7804e6b1bbf9",
             "title": "The Acyclic Dependencies Principle on iOS",
             "link": "https://medium.com/axel-springer-tech/the-acyclic-dependencies-principle-on-ios-7804e6b1bbf9?source=rss-c2f877dba4d------2",
             "updated": 1590580037,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/ae5b8d40924d",
             "title": "Warhol II: Compose your Overlay on Top of the Detected Face Hassle-Free for iOS",
             "link": "https://medium.com/swlh/warhol-ii-compose-your-overlay-on-top-of-the-detected-face-hassle-free-for-ios-ae5b8d40924d?source=rss-c2f877dba4d------2",
             "updated": 1589335050,
-            "site_url": "https://toupper.medium.com"
+            "site_url": "https://toupper.medium.com",
+            "slug": "development"
         }
     ]
 }

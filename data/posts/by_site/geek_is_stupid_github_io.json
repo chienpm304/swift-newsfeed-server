@@ -6,140 +6,160 @@
             "title": "iOS Unit-Test Tips & Tricks",
             "link": "https://geek-is-stupid.github.io/2021-01-24-iOS-UnitTest-Tips-and-Tricks/",
             "updated": 1611421200,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2020-08-14-iOS-UITextView-for-Flutter/",
             "title": "iOS UITextView for Flutter",
             "link": "https://geek-is-stupid.github.io/2020-08-14-iOS-UITextView-for-Flutter/",
             "updated": 1597338000,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2020-05-06-Transfer-decelerating-of-UIScrollView-to-another-UIScrollView/",
             "title": "Transfer decelerating of UIScrollView to another UIScrollView",
             "link": "https://geek-is-stupid.github.io/2020-05-06-Transfer-decelerating-of-UIScrollView-to-another-UIScrollView/",
             "updated": 1588698000,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2020-03-27-Generate-test-coverage-by-folder-with-Slather/",
             "title": "Generate Test Coverage by Feature (Folder) with Slather",
             "link": "https://geek-is-stupid.github.io/2020-03-27-Generate-test-coverage-by-folder-with-Slather/",
             "updated": 1585242000,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2020-03-18-Unit-Test-asynchronous-timeout-0-1-seconds/",
             "title": "0.1 over 3 seconds for Unit Test asynchronous time-out",
             "link": "https://geek-is-stupid.github.io/2020-03-18-Unit-Test-asynchronous-timeout-0-1-seconds/",
             "updated": 1584464400,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-09-21-how-to-test-open-deeplink-with-XCUITests/",
             "title": "Open deeplink in iOS UI Test",
             "link": "https://geek-is-stupid.github.io/2019-09-21-how-to-test-open-deeplink-with-XCUITests/",
             "updated": 1568998800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-09-21-how-to-get-iOS-app-scheme-url/",
             "title": "How to get an iOS application's Scheme URL?",
             "link": "https://geek-is-stupid.github.io/2019-09-21-how-to-get-iOS-app-scheme-url/",
             "updated": 1568998800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-08-06-how-to-reduce-loading-time-by-using-staticlib-with-cocoapods/",
             "title": "Reduce iOS app's loading time by using 'staticlib' with CocoaPods",
             "link": "https://geek-is-stupid.github.io/2019-08-06-how-to-reduce-loading-time-by-using-staticlib-with-cocoapods/",
             "updated": 1565024400,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-04-20-way-to-approach-unit-tests-in-iOS-developmemt/",
             "title": "Way to approach Unit Tests in iOS development",
             "link": "https://geek-is-stupid.github.io/2019-04-20-way-to-approach-unit-tests-in-iOS-developmemt/",
             "updated": 1555693200,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-04-03-mocking-for-test-in-ios-development/",
             "title": "Mocking for tests in iOS development",
             "link": "https://geek-is-stupid.github.io/2019-04-03-mocking-for-test-in-ios-development/",
             "updated": 1554224400,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-03-03-how-to-render-images-video-for-app-review-itunes-connect/",
             "title": "How to render images and videos for App Review in iTunes Connect",
             "link": "https://geek-is-stupid.github.io/2019-03-03-how-to-render-images-video-for-app-review-itunes-connect/",
             "updated": 1551546000,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2019-02-28-app-crashes-when-table-view-reload-rows-at-index-path/",
             "title": "App crashes 'NSInternalInconsistencyException' while calling 'reloadRows(at&#58;with&#58;)'",
             "link": "https://geek-is-stupid.github.io/2019-02-28-app-crashes-when-table-view-reload-rows-at-index-path/",
             "updated": 1551286800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2018-10-15-0x8badf00d-ate-bad-food/",
             "title": "0x8badf00d - \"ate bad food\" \ud83e\udd2e",
             "link": "https://geek-is-stupid.github.io/2018-10-15-0x8badf00d-ate-bad-food/",
             "updated": 1539536400,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2018-10-11-how-to-measure-loading-time-for-ios-app/",
             "title": "How to measure loading time for iOS app?",
             "link": "https://geek-is-stupid.github.io/2018-10-11-how-to-measure-loading-time-for-ios-app/",
             "updated": 1539190800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2018-05-03-how-to-translating-hidden-symbol-names-back-to-their-original-names-by-using-atos-dsym/",
             "title": "Translating 'hidden' symbol names back to their original names by using atos + dSYM?",
             "link": "https://geek-is-stupid.github.io/2018-05-03-how-to-translating-hidden-symbol-names-back-to-their-original-names-by-using-atos-dsym/",
             "updated": 1525280400,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2018-03-05-how-to-mock-a-completion-block-in-OCMock/",
             "title": "How to mock a completion block in OCMock?",
             "link": "https://geek-is-stupid.github.io/2018-03-05-how-to-mock-a-completion-block-in-OCMock/",
             "updated": 1520182800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2018-02-21-how-to-catch-crash-trace/",
             "title": "How to catch the crash's stack trace?",
             "link": "https://geek-is-stupid.github.io/2018-02-21-how-to-catch-crash-trace/",
             "updated": 1519146000,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2017-12-17-how-to-test-c-methods-by-using-objective-c/",
             "title": "How to test C/C++ functions by using Objective-C?",
             "link": "https://geek-is-stupid.github.io/2017-12-17-how-to-test-c-methods-by-using-objective-c/",
             "updated": 1513443600,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2017-08-12-how-to-find-bigger-number-without-using-if-else-or-switch-case-statements/",
             "title": "How to Find Bigger Number Without Using If/else or Switch/case Statements?",
             "link": "https://geek-is-stupid.github.io/2017-08-12-how-to-find-bigger-number-without-using-if-else-or-switch-case-statements/",
             "updated": 1502470800,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         },
         {
             "id": "https://geek-is-stupid.github.io/2017-06-14-how-to-record-detect-faces-overlay-video-at-real-time-using-swift/",
             "title": "How to Record, Detect Faces, Overlay Video at Real-time Using Swift?",
             "link": "https://geek-is-stupid.github.io/2017-06-14-how-to-record-detect-faces-overlay-video-at-real-time-using-swift/",
             "updated": 1497373200,
-            "site_url": "https://geek-is-stupid.github.io"
+            "site_url": "https://geek-is-stupid.github.io",
+            "slug": "development"
         }
     ]
 }

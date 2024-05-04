@@ -6,42 +6,48 @@
             "title": "Composable Styles in SwiftUI",
             "link": "https://movingparts.io/composable-styles-in-swiftui",
             "updated": 1676394000,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         },
         {
             "id": "https://movingparts.io/styling-components-in-swiftui",
             "title": "Styling Components in SwiftUI",
             "link": "https://movingparts.io/styling-components-in-swiftui",
             "updated": 1675098000,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         },
         {
             "id": "https://movingparts.io/variadic-views-in-swiftui",
             "title": "SwiftUI under the Hood: Variadic Views",
             "link": "https://movingparts.io/variadic-views-in-swiftui",
             "updated": 1645635600,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         },
         {
             "id": "https://movingparts.io/fonts-in-swiftui",
             "title": "SwiftUI under the Hood: Fonts",
             "link": "https://movingparts.io/fonts-in-swiftui",
             "updated": 1634749200,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         },
         {
             "id": "https://movingparts.io/markdown-teaser",
             "title": "Markdown with Moving Parts",
             "link": "https://movingparts.io/markdown-teaser",
             "updated": 1623603600,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         },
         {
             "id": "https://movingparts.io/gradient-meshes",
             "title": "Gradient Meshes in SceneKit",
             "link": "https://movingparts.io/gradient-meshes",
             "updated": 1621443600,
-            "site_url": "https://movingparts.io"
+            "site_url": "https://movingparts.io",
+            "slug": "companies"
         }
     ]
 }

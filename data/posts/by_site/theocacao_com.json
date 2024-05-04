@@ -6,140 +6,160 @@
             "title": "CocoaHeads Thu Nov 12: Designing for iPhone",
             "link": "http://theocacao.com/document.page/609",
             "updated": 1257865345,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "608@http://theobroma.treehouseideas.com/",
             "title": "My Data Says You Like Beautiful Things",
             "link": "http://theocacao.com/document.page/608",
             "updated": 1255862436,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "607@http://theobroma.treehouseideas.com/",
             "title": "I'm Writing a Cocoa Book for O'Reilly",
             "link": "http://theocacao.com/document.page/607",
             "updated": 1254065797,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "606@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads WWDC 2009: Wed June 10",
             "link": "http://theocacao.com/document.page/606",
             "updated": 1243789357,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "605@http://theobroma.treehouseideas.com/",
             "title": "What Do People Find Challenging About Cocoa?",
             "link": "http://theocacao.com/document.page/605",
             "updated": 1242461932,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "604@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads Thu Apr 23: Wil Shipley on iPhone",
             "link": "http://theocacao.com/document.page/604",
             "updated": 1240248736,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "603@http://theobroma.treehouseideas.com/",
             "title": "A Quick Review of Tweetie for Mac",
             "link": "http://theocacao.com/document.page/603",
             "updated": 1240069800,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "602@http://theobroma.treehouseideas.com/",
             "title": "Cocoa Twitter Accounts",
             "link": "http://theocacao.com/document.page/602",
             "updated": 1239376266,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "601@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads Mar 26: Atlas and Cappuccino",
             "link": "http://theocacao.com/document.page/601",
             "updated": 1237831083,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "600@http://theobroma.treehouseideas.com/",
             "title": "Measuring the Design Process",
             "link": "http://theocacao.com/document.page/600",
             "updated": 1237628707,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "599@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads Jan 6: Mike Lee Pimps Apps",
             "link": "http://theocacao.com/document.page/599",
             "updated": 1230912726,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "598@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads Dec 11: Google Earth iPhone",
             "link": "http://theocacao.com/document.page/598",
             "updated": 1228758438,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "597@http://theobroma.treehouseideas.com/",
             "title": "CocoaHeads Nov 13: Intro to iPhone SDK",
             "link": "http://theocacao.com/document.page/597",
             "updated": 1226341812,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "596@http://theobroma.treehouseideas.com/",
             "title": "Ruby Enterprise Edition on Mac OS X Leopard",
             "link": "http://theocacao.com/document.page/596",
             "updated": 1225868175,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "595@http://theobroma.treehouseideas.com/",
             "title": "Core Animation Isn't Just for Animation",
             "link": "http://theocacao.com/document.page/595",
             "updated": 1222928920,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "594@http://theobroma.treehouseideas.com/",
             "title": "The OS X Kernel is Open Source",
             "link": "http://theocacao.com/document.page/594",
             "updated": 1222435347,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "593@http://theobroma.treehouseideas.com/",
             "title": "First Look at Cappuccino and Objective-J",
             "link": "http://theocacao.com/document.page/593",
             "updated": 1220542081,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "592@http://theobroma.treehouseideas.com/",
             "title": "Core Animation for Kiosk Apps",
             "link": "http://theocacao.com/document.page/592",
             "updated": 1220257073,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "591@http://theobroma.treehouseideas.com/",
             "title": "Kodak Zi6 Review",
             "link": "http://theocacao.com/document.page/591",
             "updated": 1219220514,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         },
         {
             "id": "590@http://theobroma.treehouseideas.com/",
             "title": "Odds and Ends for Aug 17 2008",
             "link": "http://theocacao.com/document.page/590",
             "updated": 1218913063,
-            "site_url": "http://theocacao.com"
+            "site_url": "http://theocacao.com",
+            "slug": "development"
         }
     ]
 }

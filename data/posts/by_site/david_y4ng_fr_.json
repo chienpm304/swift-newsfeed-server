@@ -6,105 +6,120 @@
             "title": "The Art of the Corner Radius",
             "link": "https://david.y4ng.fr/the-art-of-the-corner-radius/",
             "updated": 1701956502,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/the-alternative-to-swiftui-spacer",
             "title": "The alternative to SwiftUI\u2019s Spacer",
             "link": "https://david.y4ng.fr/the-alternative-to-swiftui-spacer/",
             "updated": 1700221302,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/tap-gesture-vs-button",
             "title": "Tap Gesture vs Button",
             "link": "https://david.y4ng.fr/tap-gesture-vs-button/",
             "updated": 1697859702,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/custom-back-button-with-swiftui",
             "title": "Custom Back button with SwiftUI",
             "link": "https://david.y4ng.fr/custom-back-button-with-swiftui/",
             "updated": 1655871780,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/implementing-and-testing-universal-links",
             "title": "Implementing and testing Universal Links",
             "link": "https://david.y4ng.fr/implementing-and-testing-universal-links/",
             "updated": 1639137582,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/dyxml-build-xml-with-swift-result-builder",
             "title": "DYXML: Build XML with a Swift @resultBuilder tool",
             "link": "https://david.y4ng.fr/dyxml-build-xml-with-swift-result-builder-tool/",
             "updated": 1624611600,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/codable-with-mixed-types-of-data",
             "title": "Using Codable with mixed types content",
             "link": "https://david.y4ng.fr/codable-with-mixed-types-of-data/",
             "updated": 1606869000,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/swiftui-and-sfsafariviewcontroller",
             "title": "SwiftUI and SFSafariViewController",
             "link": "https://david.y4ng.fr/swiftui-and-sfsafariviewcontroller/",
             "updated": 1564893840,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/writing-easy-to-read-and-reusable-uialertcontroller-code",
             "title": "Writing easy-to-read and reusable UIAlertController code",
             "link": "https://david.y4ng.fr/writing-easy-to-read-and-reusable-uialertcontroller-code/",
             "updated": 1562113560,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/relativedatetimeformatter-and-listformatter",
             "title": "RelativeDateTimeFormatter and ListFormatter",
             "link": "https://david.y4ng.fr/relativedatetimeformatter-and-listformatter/",
             "updated": 1559827440,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/writing-your-own-network-layer",
             "title": "Writing your own Network layer in Swift",
             "link": "https://david.y4ng.fr/writing-your-own-nmoya%20vanillaetwork-layer/",
             "updated": 1550842200,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/measurement-on-your-apps",
             "title": "Measurement on your [i|mac|watch|tv]OS Apps",
             "link": "https://david.y4ng.fr/measurement-on-your-apps/",
             "updated": 1549441980,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/flatmap-vs-flatmap-vs-compactmap",
             "title": "flatMap(_:) vs flatMap(_:) vs compactMap(_:)",
             "link": "https://david.y4ng.fr/flatmap-vs-flatmap-vs-compactmap/",
             "updated": 1548825900,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/machine-learning-and-apple-pokedex",
             "title": "Machine Learning and Apple - Pok\u00e9dex: Gotta Learn \u2018Em All!",
             "link": "https://david.y4ng.fr/machine-learning-and-apple-pokedex/",
             "updated": 1548139980,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         },
         {
             "id": "https://david.y4ng.fr/a-retrospective-on-2018-ios-conferences",
             "title": "A retrospective on 2018 iOS Conferences",
             "link": "https://david.y4ng.fr/a-retrospective-on-2018-ios-conferences/",
             "updated": 1545793500,
-            "site_url": "https://david.y4ng.fr/"
+            "site_url": "https://david.y4ng.fr/",
+            "slug": "development"
         }
     ]
 }

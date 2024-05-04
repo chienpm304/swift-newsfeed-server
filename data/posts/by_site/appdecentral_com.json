@@ -6,70 +6,80 @@
             "title": "Developing a Distributed Data App with SwiftUI and CRDTs",
             "link": "https://appdecentral.com/2020/11/03/developing-a-distributed-data-app-with-swiftui-and-crdts/",
             "updated": 1604377466,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=551",
             "title": "Maintaining Order in Replicating Types",
             "link": "https://appdecentral.com/2020/10/10/maintaining-order-in-replicating-types/",
             "updated": 1602328085,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=502",
             "title": "The Danger of Playing it Safe",
             "link": "https://appdecentral.com/2020/09/16/the-danger-of-playing-it-safe/",
             "updated": 1600265933,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=440",
             "title": "Replicants All the Way Down",
             "link": "https://appdecentral.com/2020/09/06/replicants-all-the-way-down/",
             "updated": 1599391760,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=342",
             "title": "Time for Tombstones",
             "link": "https://appdecentral.com/2020/08/20/time-for-tombstones/",
             "updated": 1597921562,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=232",
             "title": "A First Replicating Collection",
             "link": "https://appdecentral.com/2020/08/09/first-replicating-collection/",
             "updated": 1596947943,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=198",
             "title": "A First Replicating Type",
             "link": "https://appdecentral.com/2020/07/22/a-first-replicating-type/",
             "updated": 1595384336,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=71",
             "title": "Conflict-Free Replicated Data Types (CRDTs) in Swift",
             "link": "https://appdecentral.com/2020/07/12/conflict-free-replicated-data-types-crdts-in-swift/",
             "updated": 1594545337,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.com/?p=32",
             "title": "Why grokking flatMap is essential to effective Combine",
             "link": "https://appdecentral.com/2020/06/20/why-grokking-flatmap-is-essential-to-effective-combine/",
             "updated": 1592658877,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         },
         {
             "id": "http://appdecentral.wordpress.com/?p=7",
             "title": "Why TextView is my SwiftUI canary",
             "link": "https://appdecentral.com/2020/06/07/why-textview-is-my-swiftui-canary/",
             "updated": 1591507299,
-            "site_url": "https://appdecentral.com"
+            "site_url": "https://appdecentral.com",
+            "slug": "development"
         }
     ]
 }

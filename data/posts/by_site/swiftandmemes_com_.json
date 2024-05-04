@@ -6,70 +6,80 @@
             "title": "When is Single Responsibility Principle helping us write better code?",
             "link": "http://swiftandmemes.com/when-is-single-responsibility-principle-helping-us-write-better-code/",
             "updated": 1713168011,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1818",
             "title": "How to bundle assets in an iOS app?",
             "link": "http://swiftandmemes.com/how-to-bundle-assets-in-ios-app/",
             "updated": 1708768160,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1688",
             "title": "Career of a successful software craftsman",
             "link": "http://swiftandmemes.com/career-of-software-craftsman/",
             "updated": 1704330623,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1587",
             "title": "Why mobile apps need a good abstraction?",
             "link": "http://swiftandmemes.com/why-mobile-apps-need-good-abstraction/",
             "updated": 1699607216,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1513",
             "title": "Why every IT hero is forgotten? Explained with memes.",
             "link": "http://swiftandmemes.com/why-every-it-hero-is-forgotten-explained-with-memes/",
             "updated": 1695029227,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1422",
             "title": "How to implement scalable and testable SwiftUI navigation?",
             "link": "http://swiftandmemes.com/how-to-implement-scalable-and-testable_swiftui-navigation/",
             "updated": 1691582662,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1320",
             "title": "Why is code quality crucial in iOS apps? Explained with memes.",
             "link": "http://swiftandmemes.com/why-is-code-quality-crucial-in-ios-apps/",
             "updated": 1689063178,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1257",
             "title": "How to test UIKit & SwiftUI views? Explained with memes.",
             "link": "http://swiftandmemes.com/how-to-test-uikit-swiftui-views-explained-with-memes/",
             "updated": 1686275141,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1149",
             "title": "How to implement universal networking module in Swift (pt.2)",
             "link": "http://swiftandmemes.com/how-to-implement-universal-networking-module-in-swift-pt2/",
             "updated": 1682944985,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftandmemes.com/?p=1088",
             "title": "How to implement universal networking module in Swift (pt.1)",
             "link": "http://swiftandmemes.com/implementing-universal-networking-module-part-1/",
             "updated": 1681126809,
-            "site_url": "https://swiftandmemes.com/"
+            "site_url": "https://swiftandmemes.com/",
+            "slug": "development"
         }
     ]
 }

@@ -6,105 +6,120 @@
             "title": "visionOS demo app",
             "link": "https://www.youtube.com/watch?v=5gO27KoOM-4",
             "updated": 1714195136,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:TqwLCsoadL8",
             "title": "Bottom Sheets in SwiftUI using presentationDetents",
             "link": "https://www.youtube.com/watch?v=TqwLCsoadL8",
             "updated": 1714177602,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:IJ28qjvRKo0",
             "title": "Introduction to Objective-C - Part 3",
             "link": "https://www.youtube.com/watch?v=IJ28qjvRKo0",
             "updated": 1714137651,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:AGxEa4G0ADk",
             "title": "Enums - Methods and Properties",
             "link": "https://www.youtube.com/watch?v=AGxEa4G0ADk",
             "updated": 1714129251,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:_L3Rh5kQU_8",
             "title": "SwiftUI Bottom Sheet - Preview Video",
             "link": "https://www.youtube.com/watch?v=_L3Rh5kQU_8",
             "updated": 1714088273,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:E3lmXVUdj38",
             "title": "Functions",
             "link": "https://www.youtube.com/watch?v=E3lmXVUdj38",
             "updated": 1714072592,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:u9xsGrdjass",
             "title": "SwiftUI Bottom Sheet - Part 3",
             "link": "https://www.youtube.com/watch?v=u9xsGrdjass",
             "updated": 1714055759,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:u1aYUagityQ",
             "title": "ChatGPT iOS Demo App",
             "link": "https://www.youtube.com/watch?v=u1aYUagityQ",
             "updated": 1714053752,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:xgqRmNls-cY",
             "title": "Xcode and Swift Playgrounds",
             "link": "https://www.youtube.com/watch?v=xgqRmNls-cY",
             "updated": 1714028124,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:3C1L7mQ0CL0",
             "title": "SwiftUI Bottom Sheet - Part 2",
             "link": "https://www.youtube.com/watch?v=3C1L7mQ0CL0",
             "updated": 1714016260,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:2CPt99dnroQ",
             "title": "Introduction to Objective C - Part 1",
             "link": "https://www.youtube.com/watch?v=2CPt99dnroQ",
             "updated": 1713990816,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:kCPcS5RG6p8",
             "title": "Introduction to Objective-C - Part 2",
             "link": "https://www.youtube.com/watch?v=kCPcS5RG6p8",
             "updated": 1711092304,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:mgnBEHovGDM",
             "title": "SwiftUI Bottom Sheet - Part 1",
             "link": "https://www.youtube.com/watch?v=mgnBEHovGDM",
             "updated": 1711074250,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:XXaaYV1_d-Y",
             "title": "Enumerations",
             "link": "https://www.youtube.com/watch?v=XXaaYV1_d-Y",
             "updated": 1710344051,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:Q0fahJeV4Zo",
             "title": "Closures",
             "link": "https://www.youtube.com/watch?v=Q0fahJeV4Zo",
             "updated": 1710298837,
-            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g"
+            "site_url": "https://www.youtube.com/channel/UCSOLVcGXOEUDpmQu_L7kH9g",
+            "slug": "youtube"
         }
     ]
 }

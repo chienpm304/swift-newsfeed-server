@@ -6,14 +6,16 @@
             "title": "Composing Accessibility Identifiers for SwiftUI Components",
             "link": "https://betterprogramming.pub/composing-accessibility-identifiers-for-swiftui-components-10849847bd10?source=rss-c372b063c70e------2",
             "updated": 1690365477,
-            "site_url": "https://medium.com/@kamil.wyszomierski"
+            "site_url": "https://medium.com/@kamil.wyszomierski",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/572da1b67b42",
             "title": "Passing dependencies to ViewModel in SwiftUI",
             "link": "https://medium.com/@kamil.wyszomierski/passing-dependencies-to-viewmodel-in-swiftui-572da1b67b42?source=rss-c372b063c70e------2",
             "updated": 1686057968,
-            "site_url": "https://medium.com/@kamil.wyszomierski"
+            "site_url": "https://medium.com/@kamil.wyszomierski",
+            "slug": "development"
         }
     ]
 }

@@ -6,14 +6,16 @@
             "title": "Authenticating with a web service",
             "link": "https://delightfulapps.co/swiftui/authentication/2020/03/09/authentication.html",
             "updated": 1583712000,
-            "site_url": "https://delightfulapps.co"
+            "site_url": "https://delightfulapps.co",
+            "slug": "companies"
         },
         {
             "id": "https://delightfulapps.co/swiftui/animations/transitions/2020/03/07/transitions",
             "title": "Transitions in SwiftUI",
             "link": "https://delightfulapps.co/swiftui/animations/transitions/2020/03/07/transitions.html",
             "updated": 1583539200,
-            "site_url": "https://delightfulapps.co"
+            "site_url": "https://delightfulapps.co",
+            "slug": "companies"
         }
     ]
 }

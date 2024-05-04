@@ -6,70 +6,80 @@
             "title": "Exploring Assistive Access",
             "link": "https://www.basbroek.nl/exploring-assistive-access",
             "updated": 1690563600,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/cheating-the-system-for-fun-and-profit",
             "title": "Cheating the System for Fun and Profit (or how to use macOS Assistive Technologies to test in the Simulator)",
             "link": "https://www.basbroek.nl/cheating-the-system-for-fun-and-profit",
             "updated": 1676221200,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/on-fixing-vs-patching",
             "title": "On Fixing vs Patching",
             "link": "https://www.basbroek.nl/on-fixing-vs-patching",
             "updated": 1662310800,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/custom-tab-bar-large-content-viewer",
             "title": "Building an Accessible Custom Tab Bar",
             "link": "https://www.basbroek.nl/custom-tab-bar-accessibility",
             "updated": 1650301200,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/getting-started-dynamic-type",
             "title": "Getting Started With Accessibility: Dynamic Type",
             "link": "https://www.basbroek.nl/getting-started-dynamic-type",
             "updated": 1640883600,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/improving-voice-control",
             "title": "Improving Accessibility: Voice Control",
             "link": "https://www.basbroek.nl/improving-voice-control",
             "updated": 1640797200,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/verifying-voiceover",
             "title": "Verifying VoiceOver: Accessibility Inspector",
             "link": "https://www.basbroek.nl/verifying-voiceover",
             "updated": 1640710800,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/improving-voiceover",
             "title": "Improving Accessibility: VoiceOver",
             "link": "https://www.basbroek.nl/improving-voiceover",
             "updated": 1640624400,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/getting-started-voiceover",
             "title": "Getting Started With Accessibility: VoiceOver",
             "link": "https://www.basbroek.nl/getting-started-voiceover",
             "updated": 1640538000,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         },
         {
             "id": "https://www.basbroek.nl/xctassert-asterisk",
             "title": "(Improving Your) XCTAssert* Failure Messages",
             "link": "https://www.basbroek.nl/xctassert-asterisk",
             "updated": 1633885200,
-            "site_url": "https://www.basbroek.nl/"
+            "site_url": "https://www.basbroek.nl/",
+            "slug": "development"
         }
     ]
 }

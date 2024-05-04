@@ -6,28 +6,32 @@
             "title": "Implementing In-App purchases without Keychain and UserDefaults",
             "link": "https://rdovhaliuk.medium.com/implementing-in-app-purchases-without-keychain-and-userdefaults-52a43c0f76e8?source=rss-eb30806e2170------2",
             "updated": 1604022497,
-            "site_url": "https://rdovhaliuk.medium.com/"
+            "site_url": "https://rdovhaliuk.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d3a94fdd6763",
             "title": "iOS 13 UISegmentedControl: 3 important changes",
             "link": "https://rdovhaliuk.medium.com/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763?source=rss-eb30806e2170------2",
             "updated": 1604022442,
-            "site_url": "https://rdovhaliuk.medium.com/"
+            "site_url": "https://rdovhaliuk.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/65b09601b3fb",
             "title": "iOS 14 UISplitViewController: 5 Issues That You May Run Into",
             "link": "https://medium.com/swlh/ios-14-uisplitviewcontroller-5-issues-that-you-may-run-into-65b09601b3fb?source=rss-eb30806e2170------2",
             "updated": 1604022378,
-            "site_url": "https://rdovhaliuk.medium.com/"
+            "site_url": "https://rdovhaliuk.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/40b3f7b4bca6",
             "title": "Spectre and Meltdown fixes influence on iOS apps build time",
             "link": "https://rdovhaliuk.medium.com/spectre-and-meltdown-fixes-influence-on-ios-apps-build-time-40b3f7b4bca6?source=rss-eb30806e2170------2",
             "updated": 1517969784,
-            "site_url": "https://rdovhaliuk.medium.com/"
+            "site_url": "https://rdovhaliuk.medium.com/",
+            "slug": "development"
         }
     ]
 }

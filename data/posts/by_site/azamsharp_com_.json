@@ -6,70 +6,80 @@
             "title": "Stop Testing Your Ui Using View Models",
             "link": "https://azamsharp.com/2024/01/22/stop-testing-your-ui-using-view-models.html",
             "updated": 1705856400,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui",
             "title": "Is Mvvm Dead In Swiftui",
             "link": "https://azamsharp.com/2024/01/09/is-mvvm-dead-in-swiftui.html",
             "updated": 1704733200,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/11/07/complete-guide-jwt-authentication",
             "title": "Complete Guide Jwt Authentication",
             "link": "https://azamsharp.com/2023/11/07/complete-guide-jwt-authentication.html",
             "updated": 1699290000,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/07/15/property-wrappers-vs-data-access-layer",
             "title": "Property Wrappers Vs Data Access Layer",
             "link": "https://azamsharp.com/2023/07/15/property-wrappers-vs-data-access-layer.html",
             "updated": 1689354000,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/07/04/the-ultimate-swift-data-guide",
             "title": "The Ultimate Swift Data Guide",
             "link": "https://azamsharp.com/2023/07/04/the-ultimate-swift-data-guide.html",
             "updated": 1688403600,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/04/03/the-what-if-architecture",
             "title": "The What If Architecture",
             "link": "https://azamsharp.com/2023/04/03/the-what-if-architecture.html",
             "updated": 1680454800,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui",
             "title": "Building Large Scale Apps Swiftui",
             "link": "https://azamsharp.com/2023/02/28/building-large-scale-apps-swiftui.html",
             "updated": 1677517200,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/02/16/testing-view-models",
             "title": "Testing View Models",
             "link": "https://azamsharp.com/2023/02/16/testing-view-models.html",
             "updated": 1676480400,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/02/15/testing-is-about-confidence",
             "title": "Testing Is About Confidence",
             "link": "https://azamsharp.com/2023/02/15/testing-is-about-confidence.html",
             "updated": 1676394000,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         },
         {
             "id": "https://azamsharp.com/2023/02/01/resources-passive-income",
             "title": "Resources Passive Income",
             "link": "https://azamsharp.com/2023/02/01/resources-passive-income.html",
             "updated": 1675184400,
-            "site_url": "https://azamsharp.com/"
+            "site_url": "https://azamsharp.com/",
+            "slug": "development"
         }
     ]
 }

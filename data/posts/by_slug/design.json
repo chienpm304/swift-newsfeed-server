@@ -1,880 +1,1005 @@
 {
-    "updated": 1714663524,
+    "updated": 1714834845,
     "posts": [
         {
             "id": "https://lmnt.me/blog/antisocial-club.html",
             "title": "Antisocial Club",
             "link": "https://lmnt.me/blog/antisocial-club.html",
             "updated": 1714646700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/peaceful-protest.html",
             "title": "\u201cPeaceful Protest\u201d",
             "link": "https://lmnt.me/blog/peaceful-protest.html",
             "updated": 1714551300,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/disneysea-birthday.html",
             "title": "DisneySea Birthday",
             "link": "https://lmnt.me/blog/photos/disneysea-birthday.html",
             "updated": 1714489200,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/icons/ive-drives-vol-3.html",
             "title": "Ive Drives, Vol. 3",
             "link": "https://lmnt.me/blog/icons/ive-drives-vol-3.html",
             "updated": 1714124400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/socialize-your-relationships.html",
             "title": "Socialize Your Relationships",
             "link": "https://lmnt.me/blog/socialize-your-relationships.html",
             "updated": 1714105200,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "yt:video:v7NnSibhj7w",
             "title": "UI Tutorial: Redesigning the Almanack of Naval (in 10 Min)",
             "link": "https://www.youtube.com/watch?v=v7NnSibhj7w",
             "updated": 1714099661,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "yt:video:OdS7fOS7bTk",
             "title": "UI Tutorial: Redesigning the Wodify app (in 10 minutes)",
             "link": "https://www.youtube.com/watch?v=OdS7fOS7bTk",
             "updated": 1714087124,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "yt:video:LHs6vx4QEE4",
             "title": "UI Tutorial: Redesigning the SpendWeek app (in 10 Min)",
             "link": "https://www.youtube.com/watch?v=LHs6vx4QEE4",
             "updated": 1714077620,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/community-through-eating.html",
             "title": "Community Through Eating",
             "link": "https://lmnt.me/blog/community-through-eating.html",
             "updated": 1714055400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "yt:video:6jiq5g_bXB8",
             "title": "UI Tutorial: Advanced design tips (in 10 minutes)",
             "link": "https://www.youtube.com/watch?v=6jiq5g_bXB8",
             "updated": 1713988414,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/tokyo-dome.html",
             "title": "Tokyo Dome",
             "link": "https://lmnt.me/blog/photos/tokyo-dome.html",
             "updated": 1713970800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/sketchbook/hard-drives-and-folders.html",
             "title": "Hard Drives & Folders",
             "link": "https://lmnt.me/blog/sketchbook/hard-drives-and-folders.html",
             "updated": 1713950400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/womprat-part-1.html",
             "title": "Womprat, Part I",
             "link": "https://lmnt.me/blog/womprat-part-1.html",
             "updated": 1713534000,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/tokyo-disneyland-quacky-duck-city.html",
             "title": "Tokyo Disneyland: Quacky Duck City",
             "link": "https://lmnt.me/blog/photos/tokyo-disneyland-quacky-duck-city.html",
             "updated": 1713433800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/helpful-automation.html",
             "title": "Helpful Automation",
             "link": "https://lmnt.me/blog/helpful-automation.html",
             "updated": 1713349800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/corporate-detox.html",
             "title": "Corporate Detox",
             "link": "https://lmnt.me/blog/corporate-detox.html",
             "updated": 1713196800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/new-is-not-inherently-exciting.html",
             "title": "New Is Not Inherently Exciting",
             "link": "https://lmnt.me/blog/new-is-not-inherently-exciting.html",
             "updated": 1713179400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/blocking-family.html",
             "title": "Blocking Family",
             "link": "https://lmnt.me/blog/blocking-family.html",
             "updated": 1713057900,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/honestly-though.html",
             "title": "Honestly, Though",
             "link": "https://lmnt.me/blog/honestly-though.html",
             "updated": 1712942280,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/human-after-all.html",
             "title": "Human After All",
             "link": "https://lmnt.me/blog/human-after-all.html",
             "updated": 1712716500,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "yt:video:ZkiqyA0N71U",
             "title": "Figma Crash Course 2024 \u2013 Full Website in 60 Minutes",
             "link": "https://www.youtube.com/watch?v=ZkiqyA0N71U",
             "updated": 1712695004,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/why-by-hand.html",
             "title": "Why by Hand?",
             "link": "https://lmnt.me/blog/why-by-hand.html",
             "updated": 1712671200,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/nothing-to-show-for-it.html",
             "title": "Nothing to Show for It",
             "link": "https://lmnt.me/blog/nothing-to-show-for-it.html",
             "updated": 1712577300,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/rainy-sakura.html",
             "title": "Rainy Sakura",
             "link": "https://lmnt.me/blog/photos/rainy-sakura.html",
             "updated": 1712562600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/dont-compromise-trade.html",
             "title": "Don\u2019t Compromise. Trade.",
             "link": "https://lmnt.me/blog/dont-compromise-trade.html",
             "updated": 1712478600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/what-we-give-up.html",
             "title": "What We Give Up",
             "link": "https://lmnt.me/blog/what-we-give-up.html",
             "updated": 1712456100,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/babys-first-latte-art.html",
             "title": "Baby\u2019s First Latte Art",
             "link": "https://lmnt.me/blog/photos/babys-first-latte-art.html",
             "updated": 1712416800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/saul-david-paula.html",
             "title": "Saul, David, and Paula",
             "link": "https://lmnt.me/blog/saul-david-paula.html",
             "updated": 1712397600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/say-hello-to-yellow.html",
             "title": "Say \u201cHello\u201d to Yellow",
             "link": "https://lmnt.me/blog/say-hello-to-yellow.html",
             "updated": 1712312400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/recap.html",
             "title": "Recap",
             "link": "https://lmnt.me/blog/recap.html",
             "updated": 1712247600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/hanami.html",
             "title": "Hanami",
             "link": "https://lmnt.me/blog/photos/hanami.html",
             "updated": 1712228400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/011/",
             "title": "The Basics of Legibility",
             "link": "https://www.nubero.ch/blog/011/",
             "updated": 1712223900,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/inconsequential-mistakes.html",
             "title": "Inconsequential Mistakes",
             "link": "https://lmnt.me/blog/inconsequential-mistakes.html",
             "updated": 1712141400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/sketchbook/labyrinth.html",
             "title": "Labyrinth",
             "link": "https://lmnt.me/blog/sketchbook/labyrinth.html",
             "updated": 1711966800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/photos/sakura-photobomb.html",
             "title": "Sakura Photobomb",
             "link": "https://lmnt.me/blog/photos/sakura-photobomb.html",
             "updated": 1711944000,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/hate-discourse.html",
             "title": "Hate Discourse",
             "link": "https://lmnt.me/blog/hate-discourse.html",
             "updated": 1711887600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "yt:video:B4XHaboNMOI",
             "title": "UI Tutorial: Redesigning the Timezon.es app (in 10 minutes)",
             "link": "https://www.youtube.com/watch?v=B4XHaboNMOI",
             "updated": 1711755294,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/skip-close-ignore.html",
             "title": "Skip, Close, Ignore",
             "link": "https://lmnt.me/blog/skip-close-ignore.html",
             "updated": 1711515300,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
             "title": "How to Make a Damn Website",
             "link": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
             "updated": 1711364700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/graferazone.html",
             "title": "GraferaZone",
             "link": "https://lmnt.me/blog/graferazone.html",
             "updated": 1711156500,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/picky-eater.html",
             "title": "Picky Eater",
             "link": "https://lmnt.me/blog/picky-eater.html",
             "updated": 1711096200,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/explicit-opt-in.html",
             "title": "Explicit Opt-In",
             "link": "https://lmnt.me/blog/explicit-opt-in.html",
             "updated": 1710857700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/this-should-be-a-blog-post.html",
             "title": "This Should Be a Blog Post",
             "link": "https://lmnt.me/blog/this-should-be-a-blog-post.html",
             "updated": 1710839700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/lack-of-vision.html",
             "title": "Lack of Vision",
             "link": "https://lmnt.me/blog/lack-of-vision.html",
             "updated": 1710648600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/building-a-stronger-web.html",
             "title": "Building a Stronger Web Without AI",
             "link": "https://lmnt.me/blog/building-a-stronger-web.html",
             "updated": 1710575700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/unethical-work.html",
             "title": "Unethical Work",
             "link": "https://lmnt.me/blog/unethical-work.html",
             "updated": 1710476700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/web-independence.html",
             "title": "Web Independence",
             "link": "https://lmnt.me/blog/web-independence.html",
             "updated": 1710116700,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/icons/ipod-mini-drives.html",
             "title": "iPod mini Drives",
             "link": "https://lmnt.me/blog/icons/ipod-mini-drives.html",
             "updated": 1710058500,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://blog.maxrudberg.com/post/744296220874440704",
             "title": "My iOS design &amp; development company got a new blog:",
             "link": "https://blog.maxrudberg.com/post/744296220874440704",
             "updated": 1709823389,
-            "site_url": "https://blog.maxrudberg.com/"
+            "site_url": "https://blog.maxrudberg.com/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/anti-ad-block.html",
             "title": "Anti-Ad-Block",
             "link": "https://lmnt.me/blog/anti-ad-block.html",
             "updated": 1709780100,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/icons/tokyo-led.html",
             "title": "Tokyo LED",
             "link": "https://lmnt.me/blog/icons/tokyo-led.html",
             "updated": 1709524500,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "yt:video:JOQJO_V7sew",
             "title": "How to start a new UI project (free video from Learn UI Design)",
             "link": "https://www.youtube.com/watch?v=JOQJO_V7sew",
             "updated": 1709228930,
-            "site_url": "https://www.learnui.design/blog/"
+            "site_url": "https://www.learnui.design/blog/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/wikipedia.html",
             "title": "Wikipedia",
             "link": "https://lmnt.me/blog/wikipedia.html",
             "updated": 1708916400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/wallpapers/muppets-eerie-eyes.html",
             "title": "Muppets Eerie Eyes",
             "link": "https://lmnt.me/blog/wallpapers/muppets-eerie-eyes.html",
             "updated": 1708912800,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/010/",
             "title": "In Praise of Buttons \u2013 Part Two",
             "link": "https://www.nubero.ch/blog/010/",
             "updated": 1708508700,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/disneyland-is-good-for-you.html",
             "title": "Disneyland Is Good For You",
             "link": "https://lmnt.me/blog/disneyland-is-good-for-you.html",
             "updated": 1708445400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/icons/famicom-tetris.html",
             "title": "Famicom Tetris",
             "link": "https://lmnt.me/blog/icons/famicom-tetris.html",
             "updated": 1708353600,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/why-do-you-like-disneyland.html",
             "title": "\u201cWhy do you like Disneyland?\u201d",
             "link": "https://lmnt.me/blog/why-do-you-like-disneyland.html",
             "updated": 1708097400,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/west-wing-cartoon.html",
             "title": "The West Wing Cartoon",
             "link": "https://lmnt.me/blog/west-wing-cartoon.html",
             "updated": 1707646500,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://lmnt.me/blog/wallpapers/tomorrowland.html",
             "title": "Tomorrowland",
             "link": "https://lmnt.me/blog/wallpapers/tomorrowland.html",
             "updated": 1707624300,
-            "site_url": "https://lmnt.me/"
+            "site_url": "https://lmnt.me/",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/886bccc5d1e9",
             "title": "Spatial Interfaces",
             "link": "https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9?source=rss-a1f92dff5d8d------2",
             "updated": 1707349921,
-            "site_url": "https://medium.com/@pasql"
+            "site_url": "https://medium.com/@pasql",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/009/",
             "title": "In Praise of Buttons \u2013 Part One",
             "link": "https://www.nubero.ch/blog/009/",
             "updated": 1705980600,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/blurradiuscomparison/",
             "title": "Blur radius comparison",
             "link": "https://bjango.com/articles/blurradiuscomparison/",
             "updated": 1704906000,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/things-im-excited-for-on-apple-vision-pro",
             "title": "Things I'm Excited for on Apple Vision Pro",
             "link": "https://sahandnayebaziz.org/blog/things-im-excited-for-on-apple-vision-pro",
             "updated": 1704042000,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/designtoolcanvashandles/",
             "title": "Design tool canvas handles",
             "link": "https://bjango.com/articles/designtoolcanvashandles/",
             "updated": 1702486800,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         },
         {
             "id": "https://www.nubero.ch/blog/008/",
             "title": "Parochialism, Language and Usability",
             "link": "https://www.nubero.ch/blog/008/",
             "updated": 1701865200,
-            "site_url": "https://www.nubero.ch/"
+            "site_url": "https://www.nubero.ch/",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/read-and-write-files-in-user-folders",
             "title": "Read and Write Data in a Sandboxed App (Part 1)",
             "link": "https://swiftylion.com/articles/read-and-write-files-in-user-folders",
             "updated": 1701417889,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/force-dark-mode-to-view-in-swiftui",
             "title": "Force Dark Mode to View in SwiftUI",
             "link": "https://swiftylion.com/articles/force-dark-mode-to-view-in-swiftui",
             "updated": 1701399334,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/no-such-file-directory-for-libraries",
             "title": "Error \u201cNo such file or directory\u201c for 3rd Party Libraries",
             "link": "https://swiftylion.com/articles/no-such-file-directory-for-libraries",
             "updated": 1701247733,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/build-input-file-cannot-be-found",
             "title": "Fix \u201cBuild input file cannot be found\u201c Error in Xcode",
             "link": "https://swiftylion.com/articles/build-input-file-cannot-be-found",
             "updated": 1701247698,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/format-functions-to-multiple-lines-in-xcode-15",
             "title": "Format Functions to Multiple Lines in Xcode 15",
             "link": "https://swiftylion.com/articles/format-functions-to-multiple-lines-in-xcode-15",
             "updated": 1701247683,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/some-files-could-not-be-transferred-code-23",
             "title": "Fix \u201cSome files could not be transferred (code 23)\u201c Error in Xcode",
             "link": "https://swiftylion.com/articles/some-files-could-not-be-transferred-code-23",
             "updated": 1701247664,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/cycle-inside-error-xcode",
             "title": "Fix \u201cCycle Inside\u201c Error in Xcode",
             "link": "https://swiftylion.com/articles/cycle-inside-error-xcode",
             "updated": 1701247652,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/how-to-correctly-use-secondary-hierarchy-in-swiftui",
             "title": "How to Correctly use .secondary Hierarchy in SwiftUI",
             "link": "https://swiftylion.com/articles/how-to-correctly-use-secondary-hierarchy-in-swiftui",
             "updated": 1701247641,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/background-blur-with-materials-in-swiftui",
             "title": "Background Blur with Materials in SwiftUI",
             "link": "https://swiftylion.com/articles/background-blur-with-materials-in-swiftui",
             "updated": 1701229453,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/the-frustration-of-using-apple-news-",
             "title": "Frustration Using Apple News+",
             "link": "https://sahandnayebaziz.org/blog/the-frustration-of-using-apple-news-",
             "updated": 1700845200,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/add-custom-view-to-safearea-in-swiftui",
             "title": "Add Custom View to SafeArea in SwiftUI",
             "link": "https://swiftylion.com/articles/add-custom-view-to-safearea-in-swiftui",
             "updated": 1700205623,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/coredata-with-swiftui",
             "title": "Combine CoreData and SwiftUI",
             "link": "https://swiftylion.com/articles/coredata-with-swiftui",
             "updated": 1700205065,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/swift-data-the-successor-of-coredata-with-swiftui-explained",
             "title": "SwiftData the Successor of CoreData Explained with SwiftUI",
             "link": "https://swiftylion.com/articles/swift-data-the-successor-of-coredata-with-swiftui-explained",
             "updated": 1700205051,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/save-objects-from-api-to-coredata",
             "title": "From REST API to CoreData in One Step",
             "link": "https://swiftylion.com/articles/save-objects-from-api-to-coredata",
             "updated": 1700205044,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/abstract-factory",
             "title": "Abstract Factory Pattern in Swift",
             "link": "https://swiftylion.com/articles/abstract-factory",
             "updated": 1700205038,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/dependency-injection",
             "title": "Understanding Dependency Injection in Swift",
             "link": "https://swiftylion.com/articles/dependency-injection",
             "updated": 1700205030,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/missing-file-libarclite",
             "title": "Error \u201cMissing file libarclite\u201c (Xcode 14.3)",
             "link": "https://swiftylion.com/articles/missing-file-libarclite",
             "updated": 1700205024,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/swift-macros",
             "title": "How to Create Swift Macros with Xcode 15",
             "link": "https://swiftylion.com/articles/swift-macros",
             "updated": 1700205018,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/scrollable-swiftui-charts",
             "title": "Make your Chart Scrollable with SwiftUI Charts (iOS 17)",
             "link": "https://swiftylion.com/articles/scrollable-swiftui-charts",
             "updated": 1700103089,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/missing-package-product",
             "title": "Error \u201cMissing package product\u201c for Swift Packages (SPM)",
             "link": "https://swiftylion.com/articles/missing-package-product",
             "updated": 1699240305,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/designtoolmemory/",
             "title": "Design tool memory usage",
             "link": "https://bjango.com/articles/designtoolmemory/",
             "updated": 1693760400,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/new-version-of-detailspro-coming-soon",
             "title": "New Version of DetailsPro Coming Soon",
             "link": "https://sahandnayebaziz.org/blog/new-version-of-detailspro-coming-soon",
             "updated": 1692118800,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-49-watchOS-10",
             "title": "UIDW 49: A look at watchOS 10",
             "link": "https://sahandnayebaziz.org/blog/uidw-49-watchOS-10",
             "updated": 1691771400,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-48-iPadOS-17",
             "title": "UIDW 48: A look at iPadOS 17",
             "link": "https://sahandnayebaziz.org/blog/uidw-48-iPadOS-17",
             "updated": 1691179002,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/tutorial-how-to-create-a-timed-paging-carousel-like-instagram",
             "title": "Tutorial: How to Create a Timed Paging Carousel Like Instagram",
             "link": "https://swiftylion.com/articles/tutorial-how-to-create-a-timed-paging-carousel-like-instagram",
             "updated": 1688709981,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-47-macOS-sonoma",
             "title": "UIDW 47: A look at macOS Sonoma",
             "link": "https://sahandnayebaziz.org/blog/uidw-47-macOS-sonoma",
             "updated": 1688146103,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/create-menus-with-palette-picker-in-swiftui-and-uikit",
             "title": "Create Menus with Palette Picker in SwiftUI and UIKit",
             "link": "https://swiftylion.com/articles/create-menus-with-palette-picker-in-swiftui-and-uikit",
             "updated": 1688097819,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/if-switch-syntax-improvements-in-swift",
             "title": "Make Code Easier to Write and Read in Swift 5.9",
             "link": "https://swiftylion.com/articles/if-switch-syntax-improvements-in-swift",
             "updated": 1687907961,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/autocompletion-for-images-and-colours-in-xcode-15",
             "title": "Autocompletion for Images and Colours in Xcode 15",
             "link": "https://swiftylion.com/articles/autocompletion-for-images-and-colours-in-xcode-15",
             "updated": 1687847609,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-46-iOS-17",
             "title": "UIDW 46: A look at iOS 17",
             "link": "https://sahandnayebaziz.org/blog/uidw-46-iOS-17",
             "updated": 1687543205,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/new-features-xcode15",
             "title": "All the New Features in Xcode 15",
             "link": "https://swiftylion.com/articles/new-features-xcode15",
             "updated": 1687328070,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/wwdc23-news",
             "title": "Everything Apple Announced at WWDC 23",
             "link": "https://swiftylion.com/articles/wwdc23-news",
             "updated": 1687328045,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/swift-paste-button",
             "title": "How to Let User Paste Data Into your App in SwiftUI",
             "link": "https://swiftylion.com/articles/swift-paste-button",
             "updated": 1687328029,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/contentunavailableview-handle-empty-states",
             "title": "ContentUnavailableView Handle Empty States in SwiftUI",
             "link": "https://swiftylion.com/articles/contentunavailableview-handle-empty-states",
             "updated": 1687140666,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/persistence-controller",
             "title": "Persistence Controller Example",
             "link": "https://swiftylion.com/articles/persistence-controller",
             "updated": 1686965565,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/flcharts",
             "title": "FLCharts: Create Bar Chart easily",
             "link": "https://swiftylion.com/articles/flcharts",
             "updated": 1686965506,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/markdown-swiftui",
             "title": "How To Use Markdown in SwiftUI",
             "link": "https://swiftylion.com/articles/markdown-swiftui",
             "updated": 1686965391,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/measurement-api-part-one",
             "title": "Units and Measurement Conversion in Swift (Part 1)",
             "link": "https://swiftylion.com/articles/measurement-api-part-one",
             "updated": 1686964813,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/measurement-api-part-two",
             "title": "Create Custom Units and Dimensions in Swift (Part 2)",
             "link": "https://swiftylion.com/articles/measurement-api-part-two",
             "updated": 1686964809,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/enable-water-lock-watch-kit",
             "title": "Apple Watch Water Lock",
             "link": "https://swiftylion.com/articles/enable-water-lock-watch-kit",
             "updated": 1686964704,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/coredata-cloudkit-not-sync-in-production",
             "title": "CloudKit With CoreData Not Working in Production",
             "link": "https://swiftylion.com/articles/coredata-cloudkit-not-sync-in-production",
             "updated": 1686964425,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/wwdc2023",
             "title": "Gurman Reveals What Will Be Presented During WWDC 2023",
             "link": "https://swiftylion.com/articles/wwdc2023",
             "updated": 1686964366,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/persist-and-retrieve-user-folders-access",
             "title": "Persist Access to User Folders Across Launches (Part 2)",
             "link": "https://swiftylion.com/articles/persist-and-retrieve-user-folders-access",
             "updated": 1686963908,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://swiftylion.com/articles/take-simulator-screenshot-without-shadows",
             "title": "How To Take an Xcode Simulator Screenshot without Shadows",
             "link": "https://swiftylion.com/articles/take-simulator-screenshot-without-shadows",
             "updated": 1686963701,
-            "site_url": "https://swiftylion.com"
+            "site_url": "https://swiftylion.com",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-45-visionOS-the-great-invention",
             "title": "UIDW 45: A look at visionOS, the great invention",
             "link": "https://sahandnayebaziz.org/blog/uidw-45-visionOS-the-great-invention",
             "updated": 1686931420,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-44-wwdc23-visionOS",
             "title": "UIDW 44: A look at WWDC23 and visionOS",
             "link": "https://sahandnayebaziz.org/blog/uidw-44-wwdc23-visionOS",
             "updated": 1686322241,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-43-no-issue-wwdc23",
             "title": "UIDW 43: No issue this week",
             "link": "https://sahandnayebaziz.org/blog/uidw-43-no-issue-wwdc23",
             "updated": 1685726839,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-42-before-wwdc23",
             "title": "UIDW 42: Small designs before the big week",
             "link": "https://sahandnayebaziz.org/blog/uidw-42-before-wwdc23",
             "updated": 1685119412,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/shapebuildervspathfinder/",
             "title": "Shape builder vs pathfinder",
             "link": "https://bjango.com/articles/shapebuildervspathfinder/",
             "updated": 1684861200,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-41-assistive-access",
             "title": "UIDW 41: Assistive Access",
             "link": "https://sahandnayebaziz.org/blog/uidw-41-assistive-access",
             "updated": 1684510276,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-40",
             "title": "UIDW 40: Final Cut Pro and Logic Pro for iPad",
             "link": "https://sahandnayebaziz.org/blog/uidw-40",
             "updated": 1683904076,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-39",
             "title": "UIDW 39: Well-Roundedness & Jony Ive",
             "link": "https://sahandnayebaziz.org/blog/uidw-39",
             "updated": 1683291570,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-38",
             "title": "UIDW 38: Family in Apple Design",
             "link": "https://sahandnayebaziz.org/blog/uidw-38",
             "updated": 1682697789,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-37",
             "title": "UIDW 37: A fascinating year for interface design",
             "link": "https://sahandnayebaziz.org/blog/uidw-37",
             "updated": 1682090841,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-36",
             "title": "UIDW 36: Looking back on WWDC 22",
             "link": "https://sahandnayebaziz.org/blog/uidw-36",
             "updated": 1681468797,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://sahandnayebaziz.org/blog/uidw-35",
             "title": "UIDW 35: iOS 16",
             "link": "https://sahandnayebaziz.org/blog/uidw-35",
             "updated": 1680904288,
-            "site_url": "https://sahandnayebaziz.org/"
+            "site_url": "https://sahandnayebaziz.org/",
+            "slug": "design"
         },
         {
             "id": "https://medium.com/p/bc3eb6f64003",
             "title": "Scaling Design: Building Lyft\u2019s plug-and-play payment system",
             "link": "https://medium.com/tap-to-dismiss/scaling-design-building-lyfts-plug-and-play-payment-system-bc3eb6f64003?source=rss----a327c6e6959---4",
             "updated": 1678110003,
-            "site_url": "https://medium.com/tap-to-dismiss"
+            "site_url": "https://medium.com/tap-to-dismiss",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/opticaladjustments/",
             "title": "Formulas for optical adjustments",
             "link": "https://bjango.com/articles/opticaladjustments/",
             "updated": 1676221200,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         },
         {
             "id": "https://bjango.com/articles/smallermacappicons/",
             "title": "Smaller Mac app icons",
             "link": "https://bjango.com/articles/smallermacappicons/",
             "updated": 1673456400,
-            "site_url": "https://bjango.com/"
+            "site_url": "https://bjango.com/",
+            "slug": "design"
         }
     ]
 }

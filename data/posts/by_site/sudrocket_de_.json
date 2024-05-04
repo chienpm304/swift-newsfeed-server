@@ -6,14 +6,16 @@
             "title": "SwiftUI equal and ideal sizes",
             "link": "https://sudrocket.de/blog/2022/05/swiftui-equal-and-ideal-sizes/",
             "updated": 1653226695,
-            "site_url": "https://sudrocket.de/"
+            "site_url": "https://sudrocket.de/",
+            "slug": "development"
         },
         {
             "id": "https://sudrocket.de/blog/2022/01/using-awk-for-project-hygiene/",
             "title": "Using awk for project hygiene",
             "link": "https://sudrocket.de/blog/2022/01/using-awk-for-project-hygiene/",
             "updated": 1641205740,
-            "site_url": "https://sudrocket.de/"
+            "site_url": "https://sudrocket.de/",
+            "slug": "development"
         }
     ]
 }

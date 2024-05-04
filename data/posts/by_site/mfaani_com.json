@@ -6,280 +6,320 @@
             "title": "Being First is a Game Changer",
             "link": "https://mfaani.com/posts/career/being-first-is-a-game-changer/",
             "updated": 1709085368,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/dynamic-programming/the-effect-of-direction-on-recursion-and-understanding-code/",
             "title": "The effect of direction on recursion and understanding code",
             "link": "https://mfaani.com/posts/interviewing/dynamic-programming/the-effect-of-direction-on-recursion-and-understanding-code/",
             "updated": 1701513253,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/arrays/asteroids-collision/",
             "title": "Asteroids Collision",
             "link": "https://mfaani.com/posts/interviewing/arrays/asteroids-collision/",
             "updated": 1700445608,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/dynamic-programming/how-many-envelopes-can-you-fit-into-another/",
             "title": "How Many Envelopes Can You Fit Into Another?",
             "link": "https://mfaani.com/posts/interviewing/dynamic-programming/how-many-envelopes-can-you-fit-into-another/",
             "updated": 1699760449,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/dynamic-programming/longest-increasing-subsequence-length/",
             "title": "Updated - Longest Increasing Subsequence Length",
             "link": "https://mfaani.com/posts/interviewing/dynamic-programming/longest-increasing-subsequence-length/",
             "updated": 1699705838,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/how-to-start-writing-a-post/",
             "title": "Tips for post creation",
             "link": "https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/how-to-start-writing-a-post/",
             "updated": 1696108678,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/trees/tree-basics/",
             "title": "Tree Basics and some Swift helpers for leetcode",
             "link": "https://mfaani.com/posts/interviewing/trees/tree-basics/",
             "updated": 1694405761,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/optimizing-app-size/how-can-i-inspect-the-size-impact-of-symbols-in-an-app-binary/",
             "title": "How Can I Inspect the Size Impact of Symbols in an App Binary: A Practical Guide for Apple Developers",
             "link": "https://mfaani.com/posts/devtools/optimizing-app-size/how-can-i-inspect-the-size-impact-of-symbols-in-an-app-binary/",
             "updated": 1691745666,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/optimizing-app-size/how-does-the-linker-help-reduce-app-size-part-two/",
             "title": "Optimizing Binaries - How Does the Linker Help Reduce App Size? What are the different types of linking - Part Two",
             "link": "https://mfaani.com/posts/devtools/optimizing-app-size/how-does-the-linker-help-reduce-app-size-part-two/",
             "updated": 1688457868,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/optimizing-app-size/how-does-the-linker-help-reduce-app-size-part-one/",
             "title": "Optimizing Binaries - How Does the Linker Help Reduce App Size? What are the different types of linking - Part One",
             "link": "https://mfaani.com/posts/devtools/optimizing-app-size/how-does-the-linker-help-reduce-app-size-part-one/",
             "updated": 1688457867,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/optimizing-app-size/jargon/",
             "title": "Optimizing Binaries - Build Pipeline Jargon",
             "link": "https://mfaani.com/posts/devtools/optimizing-app-size/jargon/",
             "updated": 1685498607,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/optimizing-app-size/build-pipeline/",
             "title": "Optimizing Binaries - High Level Xcode Build Pipeline",
             "link": "https://mfaani.com/posts/devtools/optimizing-app-size/build-pipeline/",
             "updated": 1683100887,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/whats-the-difference-between-an-app-bundle-and-a-binary/",
             "title": "Whats the Difference Between an App (bundle) and a Binary",
             "link": "https://mfaani.com/posts/devtools/whats-the-difference-between-an-app-bundle-and-a-binary/",
             "updated": 1679936437,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/swift/the-power-and-expressiveness-of-swift-ranges/",
             "title": "The power and expressiveness of Swift ranges",
             "link": "https://mfaani.com/posts/swift/the-power-and-expressiveness-of-swift-ranges/",
             "updated": 1678416670,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/how-cp-case-insensitivity-can-cause-chaos/",
             "title": "How cp case-insensitivity can cause chaos!",
             "link": "https://mfaani.com/posts/devtools/how-cp-case-insensitivity-can-cause-chaos/",
             "updated": 1670336430,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/how-to-think-recursively-part2/",
             "title": "How to Think Recursively - Part 2",
             "link": "https://mfaani.com/posts/interviewing/how-to-think-recursively-part2/",
             "updated": 1668505606,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/how-to-think-recursively-part1/",
             "title": "How to Think Recursively - Part 1",
             "link": "https://mfaani.com/posts/interviewing/how-to-think-recursively-part1/",
             "updated": 1668492937,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/devtools/why-does-pod-lib-lint-fail-suddenly-fail-to-build/",
             "title": "Why does pod lib lint suddenly fail to build?",
             "link": "https://mfaani.com/posts/devtools/why-does-pod-lib-lint-fail-suddenly-fail-to-build/",
             "updated": 1666583840,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/how-understanding-state-machines-helps-with-building-trees-and-graphs/",
             "title": "How Understanding State Machines Helps With Building Trees and Graphs",
             "link": "https://mfaani.com/posts/interviewing/how-understanding-state-machines-helps-with-building-trees-and-graphs/",
             "updated": 1665021288,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/training/what-resources-does-apple-provide-for-teaching-ios-to-students/",
             "title": "What Resources Does Apple Provide for teaching iOS to students?",
             "link": "https://mfaani.com/posts/training/what-resources-does-apple-provide-for-teaching-ios-to-students/",
             "updated": 1663742752,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/arrays/which-way-am-i-sorting/",
             "title": "Which Way Am I Sorting?",
             "link": "https://mfaani.com/posts/interviewing/arrays/which-way-am-i-sorting/",
             "updated": 1659489566,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/recover-binary-tree/",
             "title": "Recover Binary Tree",
             "link": "https://mfaani.com/posts/interviewing/recover-binary-tree/",
             "updated": 1656296991,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/how-to-calculate-the-middle-index/",
             "title": "How to Calculate the Middle Index?",
             "link": "https://mfaani.com/posts/interviewing/how-to-calculate-the-middle-index/",
             "updated": 1655654127,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/unicode-security/",
             "title": "Unicode Security",
             "link": "https://mfaani.com/posts/unicode-security/",
             "updated": 1655399200,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/challenges/compress-string/",
             "title": "Compress String",
             "link": "https://mfaani.com/posts/interviewing/challenges/compress-string/",
             "updated": 1655256450,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/challenges/check-if-two-strings-are-one-edit-away/",
             "title": "Check if Two Strings Are One Edit Away",
             "link": "https://mfaani.com/posts/interviewing/challenges/check-if-two-strings-are-one-edit-away/",
             "updated": 1655249212,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/interviewing/string/",
             "title": "Swift Strings for iOS interviewing",
             "link": "https://mfaani.com/posts/interviewing/string/",
             "updated": 1655020188,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/content-creation/how-to-prepare-yourself-as-a-podcast-guest/",
             "title": "How to Prepare Yourself as a Podcast Guest?",
             "link": "https://mfaani.com/posts/content-creation/how-to-prepare-yourself-as-a-podcast-guest/",
             "updated": 1652307004,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/what-is-a-self-contained-build-script/",
             "title": "What is a Self Contained Build Script?",
             "link": "https://mfaani.com/posts/what-is-a-self-contained-build-script/",
             "updated": 1650607872,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/currentvaluesubject-example/",
             "title": "CurrentValueSubject Example",
             "link": "https://mfaani.com/posts/currentvaluesubject-example/",
             "updated": 1649924402,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/how-to-cherry-pick-a-library-fix/",
             "title": "How to cherry-pick a library fix?",
             "link": "https://mfaani.com/posts/how-to-cherry-pick-a-library-fix/",
             "updated": 1649136136,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/whats-the-difference-between-unowned-and-weak-references/",
             "title": "Whats the Difference Between Unowned and Weak References?",
             "link": "https://mfaani.com/posts/whats-the-difference-between-unowned-and-weak-references/",
             "updated": 1646994609,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/how-fidelity-stocks-work/",
             "title": "How (Fidelity) Stocks Work?",
             "link": "https://mfaani.com/posts/how-fidelity-stocks-work/",
             "updated": 1646232644,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/uiapplication-backgroundtasks-through-the-lens-of-closures/",
             "title": "UIApplication BackgroundTasks Through The Lens of Closures",
             "link": "https://mfaani.com/posts/uiapplication-backgroundtasks-through-the-lens-of-closures/",
             "updated": 1645497028,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/how-to-read-git-documentation/",
             "title": "How to Read Git Documentation",
             "link": "https://mfaani.com/posts/how-to-read-git-documentation/",
             "updated": 1644544515,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/what-is-manifest.lock-file/",
             "title": "What is Manifest.lock File?",
             "link": "https://mfaani.com/posts/what-is-manifest.lock-file/",
             "updated": 1644364036,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/what-is-uitransitionview-about/",
             "title": "What is UITransitionView about?",
             "link": "https://mfaani.com/posts/what-is-uitransitionview-about/",
             "updated": 1643700063,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/why-cant-xcode-show-caller/",
             "title": "Why can't Xcode show the caller?",
             "link": "https://mfaani.com/posts/why-cant-xcode-show-caller/",
             "updated": 1641309979,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/posts/swift-protocol-compile-time-check/",
             "title": "Swift Protocol Compile Time Check",
             "link": "https://mfaani.com/posts/swift-protocol-compile-time-check/",
             "updated": 1640849111,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         },
         {
             "id": "https://mfaani.com/about/",
             "title": "About",
             "link": "https://mfaani.com/about/",
             "updated": 978282000,
-            "site_url": "https://mfaani.com"
+            "site_url": "https://mfaani.com",
+            "slug": "development"
         }
     ]
 }

@@ -6,21 +6,24 @@
             "title": "Path generation",
             "link": "https://dodogames.io/devlog/path-generation/",
             "updated": 1629783000,
-            "site_url": "https://dodogames.io/devlog/"
+            "site_url": "https://dodogames.io/devlog/",
+            "slug": "development"
         },
         {
             "id": "https://dodogames.io/devlog/sklightnode-and-normal-maps/",
             "title": "SKLightNode, normal maps, and light scaling",
             "link": "https://dodogames.io/devlog/sklightnode-and-normal-maps/",
             "updated": 1622611800,
-            "site_url": "https://dodogames.io/devlog/"
+            "site_url": "https://dodogames.io/devlog/",
+            "slug": "development"
         },
         {
             "id": "https://dodogames.io/devlog/building-a-hex-grid-with-SpriteKit/",
             "title": "Building a hex grid with SpriteKit",
             "link": "https://dodogames.io/devlog/building-a-hex-grid-with-SpriteKit/",
             "updated": 1620279000,
-            "site_url": "https://dodogames.io/devlog/"
+            "site_url": "https://dodogames.io/devlog/",
+            "slug": "development"
         }
     ]
 }

@@ -6,105 +6,120 @@
             "title": "In-Depth Exploration of Overlay and Background Modifiers in SwiftUI",
             "link": "https://fatbobman.com/en/posts/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui/",
             "updated": 1713978660,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/weekly/issue-028/",
             "title": "Fatbobman's Swift Weekly #28 : Experience the joy of pixel games on your iPhone!",
             "link": "https://fatbobman.com/en/weekly/issue-028/",
             "updated": 1713769200,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/core-data-reform-achieving-elegant-concurrency-operations-like-swiftdata/",
             "title": "Core Data Reform: Achieving Elegant Concurrency Operations like SwiftData",
             "link": "https://fatbobman.com/en/posts/core-data-reform-achieving-elegant-concurrency-operations-like-swiftdata/",
             "updated": 1713374400,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/weekly/issue-027/",
             "title": "Fatbobman's Swift Weekly #27 : Apple Makes You a One-Day \"Millionaire\"",
             "link": "https://fatbobman.com/en/weekly/issue-027/",
             "updated": 1713250800,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/the-state-specter-analyzing-a-bug-in-multi-window-swiftui-applications/",
             "title": "The @State Specter: Analyzing a Bug in Multi-Window SwiftUI Applications",
             "link": "https://fatbobman.com/en/posts/the-state-specter-analyzing-a-bug-in-multi-window-swiftui-applications/",
             "updated": 1712769120,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/weekly/issue-026/",
             "title": "Fatbobman's Swift Weekly #26 : Swift, Beyond the Apple Ecosystem!",
             "link": "https://fatbobman.com/en/weekly/issue-026/",
             "updated": 1712646000,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/new-frameworks-new-mindset/",
             "title": "New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks",
             "link": "https://fatbobman.com/en/posts/new-frameworks-new-mindset/",
             "updated": 1712077920,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/weekly/issue-025/",
             "title": "Fatbobman's Swift Weekly #25 : Let's VisionOS, Let's rock and roll!",
             "link": "https://fatbobman.com/en/weekly/issue-025/",
             "updated": 1712041200,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/weekly/issue-024/",
             "title": "Fatbobman's Swift Weekly #24 : Show Off Your WWDC 24 Wishlist",
             "link": "https://fatbobman.com/en/weekly/issue-024/",
             "updated": 1711609200,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/swiftui-views-and-mainactor/",
             "title": "SwiftUI Views and @MainActor",
             "link": "https://fatbobman.com/en/posts/swiftui-views-and-mainactor/",
             "updated": 1711559520,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/",
             "title": "Practical SwiftData: Building SwiftUI Applications with Modern Approaches",
             "link": "https://fatbobman.com/en/posts/practical-swiftdata-building-swiftui-applications-with-modern-approaches/",
             "updated": 1710955200,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/",
             "title": "Tips and Considerations for Using Lazy Containers in SwiftUI",
             "link": "https://fatbobman.com/en/posts/tips-and-considerations-for-using-lazy-containers-in-swiftui/",
             "updated": 1710349920,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/",
             "title": "How to Dynamically Construct Complex Predicates for SwiftData",
             "link": "https://fatbobman.com/en/posts/how-to-dynamically-construct-complex-predicates-for-swiftdata/",
             "updated": 1709745120,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/swift-predicate-usage-composition-and-considerations/",
             "title": "Swift Predicate: Usage, Composition, and Considerations",
             "link": "https://fatbobman.com/en/posts/swift-predicate-usage-composition-and-considerations/",
             "updated": 1709140320,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         },
         {
             "id": "https://fatbobman.com/en/posts/how-to-handle-optional-values-in-swiftdata-predicates/",
             "title": "How to Handle Optional Values in SwiftData Predicates",
             "link": "https://fatbobman.com/en/posts/how-to-handle-optional-values-in-swiftdata-predicates/",
             "updated": 1708535520,
-            "site_url": "https://fatbobman.com/en/"
+            "site_url": "https://fatbobman.com/en/",
+            "slug": "development"
         }
     ]
 }

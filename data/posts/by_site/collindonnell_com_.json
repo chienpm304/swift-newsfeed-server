@@ -6,70 +6,80 @@
             "title": "Tech Unions with Ethan Marcotte on the Rooftop Ruby Podcast",
             "link": "https://collindonnell.com/tech-unions-with-ethan-marcotte-on-the-rooftop-ruby-podcast?pk_campaign=rss-feed",
             "updated": 1694521713,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/dash-7-released",
             "title": "Dash 7 Released",
             "link": "https://collindonnell.com/dash-7-released?pk_campaign=rss-feed",
             "updated": 1692374390,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/my-xman-function",
             "title": "Better Man Page Viewing",
             "link": "https://collindonnell.com/my-xman-function?pk_campaign=rss-feed",
             "updated": 1689686847,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/exercise-is-hard-i-hate-it-and-i-have-to-do-it",
             "title": "Exercise is hard, I hate it, and I have to do it",
             "link": "https://collindonnell.com/exercise-is-hard-i-hate-it-and-i-have-to-do-it?pk_campaign=rss-feed",
             "updated": 1689613469,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird",
             "title": "The Xerox Smalltalk-80 GUI Was Weird",
             "link": "https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird?pk_campaign=rss-feed",
             "updated": 1688312324,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/not-writing-today",
             "title": "Not Writing Today",
             "link": "https://collindonnell.com/not-writing-today?pk_campaign=rss-feed",
             "updated": 1688239323,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/youre-never-going-to-fix-your-technical-debt",
             "title": "You're Never Going to Fix Your Technical Debt",
             "link": "https://collindonnell.com/youre-never-going-to-fix-your-technical-debt?pk_campaign=rss-feed",
             "updated": 1687457179,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/mvc-discussion-on-the-rooftop-ruby-podcast",
             "title": "MVC Discussion on the Rooftop Ruby Podcast",
             "link": "https://collindonnell.com/mvc-discussion-on-the-rooftop-ruby-podcast?pk_campaign=rss-feed",
             "updated": 1687368186,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/mvc-isnt-mvc",
             "title": "MVC Isn\u2019t MVC",
             "link": "https://collindonnell.com/mvc-isnt-mvc?pk_campaign=rss-feed",
             "updated": 1687122296,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         },
         {
             "id": "https://collindonnell.com/implementing-a-personal-transportation-hierarchy",
             "title": "Implementing a Personal Transportation Hierarchy",
             "link": "https://collindonnell.com/implementing-a-personal-transportation-hierarchy?pk_campaign=rss-feed",
             "updated": 1686935736,
-            "site_url": "https://collindonnell.com/"
+            "site_url": "https://collindonnell.com/",
+            "slug": "development"
         }
     ]
 }

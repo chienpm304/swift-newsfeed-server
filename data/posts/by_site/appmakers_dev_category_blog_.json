@@ -6,70 +6,80 @@
             "title": "Using SwiftUI @Environment",
             "link": "https://appmakers.dev/swiftui-environment/",
             "updated": 1702780577,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1640",
             "title": "SwiftUI NavigationStack Tutorial: Building a Recipe App",
             "link": "https://appmakers.dev/swiftui-navigationstack-tutorial-building-a-recipe-app/",
             "updated": 1702250840,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1632",
             "title": "Understanding Window and WindowGroup in SwiftUI",
             "link": "https://appmakers.dev/understanding-window-and-windowgroup-in-swiftui/",
             "updated": 1702245230,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1629",
             "title": "Mastering SwiftUI Scenes",
             "link": "https://appmakers.dev/mastering-swiftui-scenes/",
             "updated": 1702244649,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1623",
             "title": "Understanding SwiftUI\u2019s @StateObject and @State",
             "link": "https://appmakers.dev/understanding-swiftuis-stateobject-and-state/",
             "updated": 1702120813,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1614",
             "title": "How to use @Bindable in SwiftUI",
             "link": "https://appmakers.dev/how-to-use-bindable-in-swiftui/",
             "updated": 1702117361,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1611",
             "title": "SwiftUI\u2019s @State and @Binding differences",
             "link": "https://appmakers.dev/swiftuis-state-and-binding-differences/",
             "updated": 1702114997,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1607",
             "title": "SwiftUI @Binding Tutorial",
             "link": "https://appmakers.dev/swiftui-binding-tutorial/",
             "updated": 1702113894,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1599",
             "title": "Master SwiftUI\u2019s @State \u2013 A Step-by-Step Guide to Dynamic UIs",
             "link": "https://appmakers.dev/master-swiftuis-state-a-step-by-step-guide-to-dynamic-uis/",
             "updated": 1702111336,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         },
         {
             "id": "https://appmakers.dev/?p=1593",
             "title": "SwiftUI @Observable Feature: Simplified Data Management \u2013 WWDC 23 Update",
             "link": "https://appmakers.dev/swiftui-observable-feature-simplified-data-management-wwdc-23-update/",
             "updated": 1702108922,
-            "site_url": "https://appmakers.dev/category/blog/"
+            "site_url": "https://appmakers.dev/category/blog/",
+            "slug": "development"
         }
     ]
 }

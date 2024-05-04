@@ -6,70 +6,80 @@
             "title": "App Store Subscriptions and Family Sharing",
             "link": "https://furbo.org/2024/03/29/app-store-subscriptions-and-family-sharing/",
             "updated": 1711708657,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2773",
             "title": "Tapestry: What About?",
             "link": "https://furbo.org/2024/03/03/tapestry-what-about/",
             "updated": 1709473590,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2741",
             "title": "The Next 40",
             "link": "https://furbo.org/2024/01/29/the-next-40/",
             "updated": 1706524112,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2671",
             "title": "The Timer in watchOS 10",
             "link": "https://furbo.org/2023/09/28/the-timer-in-watchos-10/",
             "updated": 1695910580,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2652",
             "title": "An Alerting Vista of Sonoma",
             "link": "https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/",
             "updated": 1688906296,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2625",
             "title": "Announcing Blank",
             "link": "https://furbo.org/2023/04/12/announcing-blank/",
             "updated": 1681289275,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2605",
             "title": "The Shit Show",
             "link": "https://furbo.org/2023/01/15/the-shit-show/",
             "updated": 1673788976,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2600",
             "title": "SimBuddy \u2013 Your Simulator\u2019s BFF",
             "link": "https://furbo.org/2022/12/20/simbuddy-your-simulators-bff/",
             "updated": 1671540855,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2583",
             "title": "Managing Xcode Downloads",
             "link": "https://furbo.org/2022/11/09/managing-xcode-downloads/",
             "updated": 1668015335,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         },
         {
             "id": "https://furbo.org/?p=2566",
             "title": "Behind the App: Wallaroo",
             "link": "https://furbo.org/2022/09/13/behind-the-app-wallaroo/",
             "updated": 1663069774,
-            "site_url": "https://furbo.org"
+            "site_url": "https://furbo.org",
+            "slug": "development"
         }
     ]
 }

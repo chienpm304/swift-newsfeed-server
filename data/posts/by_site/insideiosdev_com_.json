@@ -6,609 +6,696 @@
             "title": "Clean Code\u2019s Impact with Uncle Bob",
             "link": "http://insideiosdev.com/",
             "updated": 1690434000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c663aca3-197c-4fa4-8306-443684bd3ae5",
             "title": "iOS Interview Tips from Engineering Manager and Senior Engineers",
             "link": "http://insideiosdev.com/",
             "updated": 1680549339,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "580554ff-4496-465f-b2c0-0181272d5239",
             "title": "WWDC 2022 Devs Reaction",
             "link": "http://insideiosdev.com/",
             "updated": 1656487538,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "16ed1c53-9ad2-4be5-89ec-088bc1ef7be8",
             "title": "Top 10 iOS Dev Tips",
             "link": "http://insideiosdev.com/",
             "updated": 1652621376,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7944a06e-5834-4045-995e-2d36d7d71274",
             "title": "Blocked by the backend? Use prod mocks.",
             "link": "http://insideiosdev.com/",
             "updated": 1648532934,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a26ef01e-32c7-4cbc-808d-9e5e7d5a3999",
             "title": "Generating Mocks with Sourcery",
             "link": "http://insideiosdev.com/",
             "updated": 1645870696,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "407f5d26-38b5-4a1d-b369-c27cb64a007e",
             "title": "Refactoring Large Initializer in Swift. Part 1. Dependency Injection with Default Values and Properties.",
             "link": "http://insideiosdev.com/",
             "updated": 1634965200,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "278e993f-d3da-4632-87cd-a8028ab6883f",
             "title": "RIBs. The Best iOS Architecture.",
             "link": "http://insideiosdev.com/",
             "updated": 1632669600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2e09b7f6-a841-41f5-8d45-4080fece5281",
             "title": "Developers/Designers Therapy Session with Michael DeGothsier and Sandeep Aggarwal",
             "link": "http://insideiosdev.com/",
             "updated": 1630145244,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b08ba2e5-5578-404a-8b60-68a788f23843",
             "title": "2 Ways to Implement VIPER iOS Architecture with its author Jeff Gilbert",
             "link": "http://insideiosdev.com/",
             "updated": 1628959336,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "27b67a7c-3846-495f-b0a1-19586aa17d4b",
             "title": "Swift Optional String Or Empty Extension",
             "link": "http://insideiosdev.com/",
             "updated": 1626727327,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bfb95189-f995-4265-9909-3bc40389cfce",
             "title": "Youtube Channel Announcement",
             "link": "http://insideiosdev.com/",
             "updated": 1624999851,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3686bbdc-08d0-4713-93bc-3abe217c6a1e",
             "title": "Builder Design Pattern in Swift with Sandeep Aggarwal",
             "link": "http://insideiosdev.com/",
             "updated": 1622469805,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "8ae4f367-4ccf-4826-ab70-30dd412fd73a",
             "title": "Saga of The Bug in Collapsing Navigation Bar in Scrolling View",
             "link": "http://insideiosdev.com/",
             "updated": 1619728577,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "be8d34b6-482e-4123-b9a9-e8f09c9ea94b",
             "title": "How to Determine Visibility of a View Controller",
             "link": "http://insideiosdev.com/",
             "updated": 1616951632,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5a751837-dd39-4e7d-ab97-8ab29f888081",
             "title": "Unit-testing 101",
             "link": "http://insideiosdev.com/",
             "updated": 1606662278,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7b4429be-5bfe-4f93-b35f-329f64f5f840",
             "title": "Protected Visibility Modifier in Swift with Daniel Hall",
             "link": "http://insideiosdev.com/",
             "updated": 1604785730,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9bd794c8-5d40-40d7-9863-ab4daca3244b",
             "title": "Why I wasn't recording all this time? The Truth Exposed.",
             "link": "http://insideiosdev.com/",
             "updated": 1603630426,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "d2366e17-9f52-45c5-afe5-7f86ef7409f2",
             "title": "Law of Demeter, Async Programming, Naming Things with Tom Mornini",
             "link": "http://insideiosdev.com/",
             "updated": 1594193248,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "aa538718-634c-4c0e-b651-ab615761b3af",
             "title": "Data Observation in SwiftUI with Dainel Hall",
             "link": "http://insideiosdev.com/",
             "updated": 1591602900,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f88e6eb9-21fc-4273-b32e-c9289ef35048",
             "title": "iOS Interview Questions For Senior Developers in 2020 Part 2",
             "link": "http://insideiosdev.com/",
             "updated": 1587974403,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bd0200a3-ed14-43cf-bca9-8ec062f5a97d",
             "title": "iOS Interview Questions For Senior Developers in 2020 Part 1",
             "link": "http://insideiosdev.com/",
             "updated": 1586764811,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "fa221b89-9ee6-4d07-9ac1-d1c5f4d37148",
             "title": "iOS System Design Interview",
             "link": "http://insideiosdev.com/",
             "updated": 1585554751,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "0e9e1ec7-71d7-499d-b1fc-9b9d5e1877b5",
             "title": "VIPER with Jeff Gilbert",
             "link": "http://insideiosdev.com/",
             "updated": 1582610411,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b302292d-aefe-46e7-ae14-e0312b5901ab",
             "title": "Asynchronous Work on iOS (Combine Edition) with Leo Dion",
             "link": "http://insideiosdev.com/",
             "updated": 1580111424,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bab53c33-4fb9-4488-a7a5-303a5f86f54e",
             "title": "Protocol Extension Overuse",
             "link": "http://insideiosdev.com/",
             "updated": 1574800955,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "0a1d9f1a-ed59-49c0-a489-71750ac3a433",
             "title": "Optionals Are Evil..?",
             "link": "http://insideiosdev.com/",
             "updated": 1572250003,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b94a1d5a-4ee9-464a-9f64-87ce197af8e9",
             "title": "Flutter with Rody Davis",
             "link": "http://insideiosdev.com/",
             "updated": 1570435132,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "70d2f88a-04bc-46a7-aefe-f7dbd65a730d",
             "title": "Cross-platform code sharing via C++ at Dropbox with Eyal Guthmann",
             "link": "http://insideiosdev.com/",
             "updated": 1568876412,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "da827613-1a1a-4771-83dc-d635b6952e70",
             "title": "VIPER First Impressions",
             "link": "http://insideiosdev.com/",
             "updated": 1568016013,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a76ec292-af8e-44aa-88c9-be14bab2e76e",
             "title": "Dropbox drops mobile cross platform C++",
             "link": "http://insideiosdev.com/",
             "updated": 1566806047,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b4508324-eb53-4ded-92ac-5201509fb9cf",
             "title": "Vapor with Leo Dion",
             "link": "http://insideiosdev.com/",
             "updated": 1563877128,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "07caea8c-288c-4c4c-9988-ecc6f9a4e0b2",
             "title": "GCD vs RxSwift with Shai Mishali",
             "link": "http://insideiosdev.com/",
             "updated": 1561967419,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1cf72e2a-bbc6-4e44-9710-d78b7fd1ea66",
             "title": "WWDC 2019 Woes  - The pressures & frustrations of ever-changing tech",
             "link": "http://insideiosdev.com/",
             "updated": 1561370487,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "933fd298-599f-4fa5-80cb-6118bc44386b",
             "title": "First thoughts on SwiftUI",
             "link": "http://insideiosdev.com/",
             "updated": 1560764152,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "30beb053-4a65-4da4-bf21-963a435f9323",
             "title": "WWDC 2019 First Impressions",
             "link": "http://insideiosdev.com/",
             "updated": 1559641228,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "36c19d1e-20cb-4eff-9303-42e605e099f9",
             "title": "What we learned giving our first tech conference talks",
             "link": "http://insideiosdev.com/",
             "updated": 1558334129,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "25e86337-f0f9-43d4-a498-7b351f743533",
             "title": "Asynchronous Frameworks on iOS",
             "link": "http://insideiosdev.com/",
             "updated": 1553500800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "176a20c5-11f3-4931-a5c9-d9c41bee18e6",
             "title": "Overview of Mocks, Stubs, and Fakes",
             "link": "http://insideiosdev.com/",
             "updated": 1552554000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "00c396e8-202f-4ced-9d82-5feeb2dd1c6f",
             "title": "Alex on Uber's RIB Architecture",
             "link": "http://insideiosdev.com/",
             "updated": 1551079800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1f0cc162-e794-4aa6-8356-b60b8258cd08",
             "title": "Q&A: How to start a career in software engineering after prison",
             "link": "http://insideiosdev.com/",
             "updated": 1549350000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9ef7853f-39a5-414f-a32e-2d7866e70fc8",
             "title": "What's new in 2019 plus Alex's new opinion on singletons",
             "link": "http://insideiosdev.com/",
             "updated": 1547533800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "61233b9a-8314-4f75-a5d2-58c85f16a5db",
             "title": "Andrews \"Toast View Model\" Struggle",
             "link": "http://insideiosdev.com/",
             "updated": 1542004200,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2a19e076-6951-4c0e-b485-0bc12a9770b4",
             "title": "Q&A: How to design an app for scalability?",
             "link": "http://insideiosdev.com/",
             "updated": 1539584100,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3fd505c9-4bfb-407d-b6d1-fc0fb699c4c8",
             "title": "The Problems with View Controllers",
             "link": "http://insideiosdev.com/",
             "updated": 1538381040,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "faa3d8a1-a220-4e42-babc-03eb71a9d822",
             "title": "Evolving Mobile Architecture at Reddit",
             "link": "http://insideiosdev.com/",
             "updated": 1536915420,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f2cfaa2b-b2ed-4cd5-addf-eaac5e203be7",
             "title": "Q&A episode: React Native & the cultish force of Javascript",
             "link": "http://insideiosdev.com/",
             "updated": 1535891460,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3a485520-01e8-445f-a00c-7c843f3e06d4",
             "title": "Data Structures & Algorithms in Swift with Kelvin Lau & Vincent Ngo",
             "link": "http://insideiosdev.com/",
             "updated": 1534915800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "036e57f1-bb9f-4476-b108-e36acb52cd66",
             "title": "John Sundell on Unit Testing",
             "link": "http://insideiosdev.com/",
             "updated": 1533101400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "42ec793f-85e8-408e-83b5-6bc9af9698b6",
             "title": "Classic Computer Science Problems in Swift with David Kopec",
             "link": "http://insideiosdev.com/",
             "updated": 1532064600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9559d06d-2e06-4c8a-bc57-596483c50af2",
             "title": "One Year Anniversary Episode - Podcasting, learning, architecture, & JavaScript talk!",
             "link": "http://insideiosdev.com/",
             "updated": 1530053700,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "35f76704-1c40-4f6a-ba77-27655bda3089",
             "title": "WWDC 2018 Recap - What you need to know as a developer",
             "link": "http://insideiosdev.com/",
             "updated": 1528781400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "d61b67e0-d0ad-4651-8148-ad24163189a1",
             "title": "Learning the Realm database with Marin Todorov",
             "link": "http://insideiosdev.com/",
             "updated": 1527658200,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "75a97f75-06f0-4332-9a7c-ba518ea273a2",
             "title": "App Architecture with Florian Kugler",
             "link": "http://insideiosdev.com/",
             "updated": 1526880600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "6d450003-eaa6-4fa6-ac3c-0283a8f6b414",
             "title": "Clean Architecture with Basem Emara",
             "link": "http://insideiosdev.com/",
             "updated": 1526362200,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3afc1105-4dc0-4d00-b523-7a7b14d85677",
             "title": "The Problems of \"Fun Driven Development\" with Art Fedosejev",
             "link": "http://insideiosdev.com/",
             "updated": 1525064940,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "cfbe2235-117a-45ce-9b9a-cbb22e339cde",
             "title": "Soroush Khanlou on dev community, architecture, best books to read, and more.",
             "link": "http://insideiosdev.com/",
             "updated": 1523854800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "183baed2-ae02-496a-9176-a0bea793c479",
             "title": "Swift Sets and Pattern Matching",
             "link": "http://insideiosdev.com/",
             "updated": 1522819200,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "589c910d-c9bd-4612-bbe1-4a20dd7ad10f",
             "title": "Running into problems with shared cross platform code in JavaScript",
             "link": "http://insideiosdev.com/",
             "updated": 1521522000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "875094f2-9597-447d-8e5a-9c685e163c6e",
             "title": "The Null Object Pattern & Law of Demeter",
             "link": "http://insideiosdev.com/",
             "updated": 1520231400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c0b24fbd-67fc-43a2-b1fb-4f5ae82b032b",
             "title": "Understanding Auto Layout + Tips & Tricks",
             "link": "http://insideiosdev.com/",
             "updated": 1518965880,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b3b05312-22b4-488a-aa4d-3f0525f76c46",
             "title": "Writing Clean Code - Part 3 - An Overview of Robert Martin's Clean Code",
             "link": "http://insideiosdev.com/",
             "updated": 1518417000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c1aff625-fad7-43e8-b384-50a1fdaadf29",
             "title": "Why Singletons Are Evil",
             "link": "http://insideiosdev.com/",
             "updated": 1516083600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "877103d3-5837-42ae-8027-6332f15f5dc7",
             "title": "An Introduction to Dependency Injection",
             "link": "http://insideiosdev.com/",
             "updated": 1513578600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "6a4db0c3-3e5b-45bb-9842-45f86b3fc450",
             "title": "Understanding Design Patterns & Architecture",
             "link": "http://insideiosdev.com/",
             "updated": 1512367860,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2f30b288-c9ec-477b-9ede-60baeabb04c1",
             "title": "Programming language battle: Javascript",
             "link": "http://insideiosdev.com/",
             "updated": 1510640400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "8f810035-ddc8-4165-9281-bd69a4780c70",
             "title": "Writing Clean Code - Part 2 - An Overview of Robert Martin's Clean Code",
             "link": "http://insideiosdev.com/",
             "updated": 1509341100,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7220da59-531b-418b-a822-63dbe37f9f5e",
             "title": "Our Dark Secret - A conversation about Swift versus Objective-C",
             "link": "http://insideiosdev.com/",
             "updated": 1508216520,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7063476f-6920-46c9-b82f-aa3df3382b69",
             "title": "Developing for iPhone X - Embrace the notch",
             "link": "http://insideiosdev.com/",
             "updated": 1506920400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bd375996-7bb4-4b7c-9253-65fb0152e72e",
             "title": "Being a generalist - What iOS developers can learn from the backend",
             "link": "http://insideiosdev.com/",
             "updated": 1506402360,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1b9513a4-0dc3-4ef0-af14-6e7ddb2c371b",
             "title": "try! Swift NYC 2017 Conference",
             "link": "http://insideiosdev.com/",
             "updated": 1505331660,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a7e6a01c-54a3-46d3-b209-e8efeed5934f",
             "title": "Introducing the New iOS 11 System Review Prompt - SKStoreReviewController",
             "link": "http://insideiosdev.com/",
             "updated": 1504695360,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "fbe19ecf-d99a-4693-b236-2ed81e541336",
             "title": "Writing Clean Code - Part 1 - An Overview of Robert Martin's Clean Code",
             "link": "http://insideiosdev.com/",
             "updated": 1503464400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a589f722-667e-4ebd-998e-f7b9b4e8eb00",
             "title": "14 - Software Engineer Interview Hole In One - How Alex nailed his interview process",
             "link": "http://insideiosdev.com/",
             "updated": 1502168400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5a538570-0afc-4e02-a171-a9d6220f5788",
             "title": "13 - View Models To The Rescue",
             "link": "http://insideiosdev.com/",
             "updated": 1500958800,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2fa4d169-9e69-4d63-917f-1e4a0f609873",
             "title": "12 - Pair Programming",
             "link": "http://insideiosdev.com/",
             "updated": 1499922000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "abfd2a28-847e-45c9-8deb-3dc7b797875b",
             "title": "11 - The Problems with 3rd Party Services",
             "link": "http://insideiosdev.com/",
             "updated": 1498626000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "ae0344aa-f503-46e8-83b3-50c302aa167c",
             "title": "10 - Top Must Watch WWDC 2017 Videos",
             "link": "http://insideiosdev.com/",
             "updated": 1498107600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b0934ae6-b2d4-4095-8875-dca76f564c02",
             "title": "9 - How To Do An iOS Engineer Job Search (After Being Laid Off)",
             "link": "http://insideiosdev.com/",
             "updated": 1497420000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "79eca24d-439f-489b-b6c7-d56ff3d98122",
             "title": "8 - WWDC Platforms State Of The Union Recap",
             "link": "http://insideiosdev.com/",
             "updated": 1496902140,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "27eb32a0-09a0-495b-89f6-4282f9ec41cf",
             "title": "7 - Twelve Libraries To Skyrocket Your iOS Development",
             "link": "http://insideiosdev.com/",
             "updated": 1495605600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "43faa0b6-ca05-4f39-b1d7-336602e22063",
             "title": "6 - An Introduction To Continuous Deployment",
             "link": "http://insideiosdev.com/",
             "updated": 1494914400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "08aa7196-7d17-442e-900b-5acc45c60880",
             "title": "5 - Setting Up Universal Links (Deep Linking)",
             "link": "http://insideiosdev.com/",
             "updated": 1494489600,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "acccfdde-0406-4354-a584-ade84a675eeb",
             "title": "4 - The iOS Developer Community",
             "link": "http://insideiosdev.com/",
             "updated": 1493489580,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "58124f8d-25b6-42aa-bb8a-d95475d738df",
             "title": "3 - AB Testing and Dependency Management",
             "link": "http://insideiosdev.com/",
             "updated": 1493489460,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "328b4140-42c3-42fb-8d3a-b48506f55a44",
             "title": "2 - Implementing Analytics/Tracking in your app",
             "link": "http://insideiosdev.com/",
             "updated": 1493489400,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "6414c6b3-f77b-4264-8e8b-823c41c2e619",
             "title": "1 - Testing in Object-Oriented Applications",
             "link": "http://insideiosdev.com/",
             "updated": 1493489100,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         }
     ]
 }

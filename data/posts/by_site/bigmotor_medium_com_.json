@@ -6,35 +6,40 @@
             "title": "Document Image Stitching for Mobile Developers",
             "link": "https://bigmotor.medium.com/document-image-stitching-for-mobile-developers-b169868d023a?source=rss-ac3fb61a3e86------2",
             "updated": 1692321970,
-            "site_url": "https://bigmotor.medium.com/"
+            "site_url": "https://bigmotor.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/7a367c138613",
             "title": "Composable Contexts Architecture",
             "link": "https://bigmotor.medium.com/composable-contexts-architecture-7a367c138613?source=rss-ac3fb61a3e86------2",
             "updated": 1633615849,
-            "site_url": "https://bigmotor.medium.com/"
+            "site_url": "https://bigmotor.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/97ee9702b24f",
             "title": "Building Table/CollectionView in a few lines of code with DataDrivenRxDatasources on top of\u2026",
             "link": "https://bigmotor.medium.com/building-table-collectionview-in-a-few-lines-of-code-with-datadrivenrxdatasources-on-top-of-97ee9702b24f?source=rss-ac3fb61a3e86------2",
             "updated": 1612012888,
-            "site_url": "https://bigmotor.medium.com/"
+            "site_url": "https://bigmotor.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/5b3e6bb6ca26",
             "title": "SwiftUI in Clean Architecture",
             "link": "https://bigmotor.medium.com/swiftui-in-clean-architecture-5b3e6bb6ca26?source=rss-ac3fb61a3e86------2",
             "updated": 1608562939,
-            "site_url": "https://bigmotor.medium.com/"
+            "site_url": "https://bigmotor.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/38fdb4da81d3",
             "title": "Deal with Optional Type in Swift Combine",
             "link": "https://bigmotor.medium.com/deal-with-optional-type-in-swift-combine-38fdb4da81d3?source=rss-ac3fb61a3e86------2",
             "updated": 1570796599,
-            "site_url": "https://bigmotor.medium.com/"
+            "site_url": "https://bigmotor.medium.com/",
+            "slug": "development"
         }
     ]
 }

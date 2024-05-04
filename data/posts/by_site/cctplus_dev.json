@@ -6,105 +6,120 @@
             "title": "An Introduction to Grids in SwiftUI",
             "link": "https://cctplus.dev/an-introduction-to-grids-in-swiftui/",
             "updated": 1685693873,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "63b65ce75d46f7003da57a9f",
             "title": "Why Have a Developer Diary?",
             "link": "https://cctplus.dev/get-started-with-a-developer-diary/",
             "updated": 1672905630,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "6390aaef5ba095003d3ab79a",
             "title": "What is App Architecture",
             "link": "https://cctplus.dev/what-is-app-architecture/",
             "updated": 1670410803,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "63343f7a00feca003d82214d",
             "title": "Which to learn first UIKit or SwiftUI as a new developer?",
             "link": "https://cctplus.dev/which-to-learn-first-uikit-or-swiftui/",
             "updated": 1664370002,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "63333a2f00feca003d822122",
             "title": "Why you should be taking notes",
             "link": "https://cctplus.dev/why-note-taking-is-important/",
             "updated": 1664283625,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "630d093b7220d4003dc046f8",
             "title": "Implementing RevenueCat in a UIKit app",
             "link": "https://cctplus.dev/implementing-revenuecat-in-a-uikit-app/",
             "updated": 1662094825,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62e99cb264872a003d604a02",
             "title": "SwiftUI In-App Subscriptions with RevenueCat",
             "link": "https://cctplus.dev/implementing-recent/",
             "updated": 1659452629,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62e497a07bf931003dc41c12",
             "title": "How to implement Danger in Swift",
             "link": "https://cctplus.dev/how-to-implement-danger-in-swift/",
             "updated": 1659352210,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62e7fb1d7bf931003dc41c6b",
             "title": "July 2022 Recap",
             "link": "https://cctplus.dev/july-recap/",
             "updated": 1659351944,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "628f87ee4c2d44004d755ff5",
             "title": "What is developer relations?",
             "link": "https://cctplus.dev/what-is-developer-relations/",
             "updated": 1655960529,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62a373e8b825bd004ded4015",
             "title": "No CS Degree Post: From Theatre Studies To Six Figures Software Engineer",
             "link": "https://cctplus.dev/no-cs-degree-post-from-theatre-studies-to-six-figures-software-engineer/",
             "updated": 1654866034,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "6296072c687ae0003d396322",
             "title": "My WWDC 2022 wish list",
             "link": "https://cctplus.dev/my-wwdc-2022-wish-list/",
             "updated": 1654142441,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "628a83d653890c004d03cbe3",
             "title": "How I setup a new Mac for iOS development",
             "link": "https://cctplus.dev/setup-new-mac-ios-app-development/",
             "updated": 1653451200,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62863df104b1e2003ddcaeb8",
             "title": "3 ways to make better pull request descriptions",
             "link": "https://cctplus.dev/3-ways-to-make-better-pull-request-descriptions/",
             "updated": 1652940291,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         },
         {
             "id": "62660838ea32e7004d42d284",
             "title": "3 Tips for a Successful App Development Stream",
             "link": "https://cctplus.dev/3-tips-to-a-successful-app-development-stream/",
             "updated": 1651719600,
-            "site_url": "https://cctplus.dev"
+            "site_url": "https://cctplus.dev",
+            "slug": "development"
         }
     ]
 }

@@ -6,77 +6,88 @@
             "title": "#10: The First Spatial Computer",
             "link": "https://www.thedododeveloper.com/p/10-the-first-spatial-computer",
             "updated": 1686120345,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/9-the-waiting-place",
             "title": "#9: The Waiting Place",
             "link": "https://www.thedododeveloper.com/p/9-the-waiting-place",
             "updated": 1683701151,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/8-healthy-living",
             "title": "#8: Pick & Mix",
             "link": "https://www.thedododeveloper.com/p/8-healthy-living",
             "updated": 1681281948,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/7-the-postmortem",
             "title": "#7: The Postmortem",
             "link": "https://www.thedododeveloper.com/p/7-the-postmortem",
             "updated": 1678868145,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/6-launch-party",
             "title": "#6: Launch Party \ud83d\ude80",
             "link": "https://www.thedododeveloper.com/p/6-launch-party",
             "updated": 1676447118,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/5-spatial-scanning",
             "title": "#5: Spatial Scanning",
             "link": "https://www.thedododeveloper.com/p/5-spatial-scanning",
             "updated": 1675237561,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/4-new-year-new-tracking-app",
             "title": "#4: New Year, New Tracking App",
             "link": "https://www.thedododeveloper.com/p/4-new-year-new-tracking-app",
             "updated": 1674027963,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/3-yule-logging",
             "title": "#3: Yule Logging",
             "link": "https://www.thedododeveloper.com/p/3-yule-logging",
             "updated": 1672818329,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/2-music-library-tracker-v20",
             "title": "#2: Music Library Tracker v2.0",
             "link": "https://www.thedododeveloper.com/p/2-music-library-tracker-v20",
             "updated": 1671003953,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/1-catacombs-spatial-audio-and-animated",
             "title": "#1: Catacombs, Spatial Audio, and Animated Album Artwork",
             "link": "https://www.thedododeveloper.com/p/1-catacombs-spatial-audio-and-animated",
             "updated": 1669794357,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.thedododeveloper.com/p/1-the-setup",
             "title": "#0: The Setup",
             "link": "https://www.thedododeveloper.com/p/1-the-setup",
             "updated": 1669003861,
-            "site_url": "https://www.thedododeveloper.com/"
+            "site_url": "https://www.thedododeveloper.com/",
+            "slug": "development"
         }
     ]
 }

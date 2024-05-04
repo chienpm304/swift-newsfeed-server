@@ -6,56 +6,64 @@
             "title": "Support Swift macros with CocoaPods",
             "link": "https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042?source=rss-41d824adb39d------2",
             "updated": 1706521313,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/c1f907c1294",
             "title": "Combining Interface Builder With JavaScript for Server-driven Apps",
             "link": "https://betterprogramming.pub/combining-interface-builder-with-javascript-for-server-driven-apps-c1f907c1294?source=rss-41d824adb39d------2",
             "updated": 1685984903,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/430c5ffcc6e1",
             "title": "Superpower of Interface Builder no one talks about",
             "link": "https://itnext.io/superpower-of-interface-builder-no-one-talks-about-430c5ffcc6e1?source=rss-41d824adb39d------2",
             "updated": 1685491853,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/6cc4329b4d13",
             "title": "How to manage unstructured tasks with Swift\u2019s structured concurrency",
             "link": "https://itnext.io/how-to-manage-unstructured-tasks-with-swifts-structured-concurrency-6cc4329b4d13?source=rss-41d824adb39d------2",
             "updated": 1685396837,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/64160d06b456",
             "title": "Decoding Dynamic JSON with Swift Codable",
             "link": "https://itnext.io/decoding-dynamic-json-with-swift-codable-64160d06b456?source=rss-41d824adb39d------2",
             "updated": 1679103433,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/b559acd6d783",
             "title": "Run GitHub Actions Self-hosted macOS Runners on Apple M1 Mac",
             "link": "https://betterprogramming.pub/run-github-actions-self-hosted-macos-runners-on-apple-m1-mac-b559acd6d783?source=rss-41d824adb39d------2",
             "updated": 1650838552,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/72726555d83b",
             "title": "Run Azure Self-hosted macOS Agents on Apple M1 Mac",
             "link": "https://itnext.io/run-azure-self-hosted-macos-agents-on-apple-m1-mac-72726555d83b?source=rss-41d824adb39d------2",
             "updated": 1650617170,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a984dc671382",
             "title": "Integrate flutter modules with Cocoapods",
             "link": "https://itnext.io/integrate-flutter-modules-with-cocoapods-a984dc671382?source=rss-41d824adb39d------2",
             "updated": 1648337727,
-            "site_url": "https://soumyamahunt.medium.com/"
+            "site_url": "https://soumyamahunt.medium.com/",
+            "slug": "development"
         }
     ]
 }

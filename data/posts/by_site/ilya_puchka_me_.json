@@ -6,336 +6,384 @@
             "title": "Libraries with resources optimized for build time and application size",
             "link": "https://ilya.puchka.me/libraries-with-resources-optimized-for-build-time-and-application-size/",
             "updated": 1687798800,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/decoding-nested-values-with-property-wrappers/",
             "title": "Decoding nested values with property wrappers",
             "link": "https://ilya.puchka.me/decoding-nested-values-with-property-wrappers/",
             "updated": 1581526800,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/git-rebase-vs-git-rebase-onto/",
             "title": "git rebase vs. git rebase --onto",
             "link": "https://ilya.puchka.me/git-rebase-vs-git-rebase-onto/",
             "updated": 1573318800,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/making-slack-ci-and-fastlane-work-together/",
             "title": "Making Slack, CircleCI and Fastlane work together",
             "link": "https://ilya.puchka.me/making-slack-ci-and-fastlane-work-together/",
             "updated": 1559977248,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/swift5-string-interpolation/",
             "title": "Swift 5 string interpolation",
             "link": "https://ilya.puchka.me/swift5-string-interpolation/",
             "updated": 1549456200,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/implementing-features-with-reactivefeedback/",
             "title": "Implementing features with ReactiveFeedback",
             "link": "https://ilya.puchka.me/implementing-features-with-reactivefeedback/",
             "updated": 1541572824,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/ios-ui-automation-tests-at-babylon/",
             "title": "iOS UI Automation Tests at Babylon",
             "link": "https://ilya.puchka.me/ios-ui-automation-tests-at-babylon/",
             "updated": 1538964000,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/parametrised-jobs-in-circleci/",
             "title": "Parameterized jobs in CircleCI",
             "link": "https://ilya.puchka.me/parametrised-jobs-in-circleci/",
             "updated": 1533642072,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/codable-in-practice/",
             "title": "Codable in practice",
             "link": "https://ilya.puchka.me/codable-in-practice/",
             "updated": 1525538326,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/url-parser-in-functional-style-part-2/",
             "title": "URL parser in functional style. Part 2.",
             "link": "https://ilya.puchka.me/url-parser-in-functional-style-part-2/",
             "updated": 1510059404,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/url-parser-in-swift-functional-style-part-1/",
             "title": "URL parser in functional style. Part 1.",
             "link": "https://ilya.puchka.me/url-parser-in-swift-functional-style-part-1/",
             "updated": 1510059395,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/swift-4-tricky-filters/",
             "title": "Swift 4 tricky filters",
             "link": "https://ilya.puchka.me/swift-4-tricky-filters/",
             "updated": 1506386770,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/deeplinks-no-brainer/",
             "title": "Deep links with no brainer",
             "link": "https://ilya.puchka.me/deeplinks-no-brainer/",
             "updated": 1504703760,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/swift-enums-with-associated-values-defaults/",
             "title": "Swift enums with associated values defaults",
             "link": "https://ilya.puchka.me/swift-enums-with-associated-values-defaults/",
             "updated": 1490324481,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/xcode-source-editor-extension-superpowered-with-sourcekitten/",
             "title": "Xcode Source Editor Extension superpowered with SourceKitten",
             "link": "https://ilya.puchka.me/xcode-source-editor-extension-superpowered-with-sourcekitten/",
             "updated": 1487510596,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/extending-native-code-with-javascriptcore/",
             "title": "Extending native code with JavaScriptCore",
             "link": "https://ilya.puchka.me/extending-native-code-with-javascriptcore/",
             "updated": 1486555260,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/going-back-to-the-roots/",
             "title": "Going back to the roots",
             "link": "https://ilya.puchka.me/going-back-to-the-roots/",
             "updated": 1486004299,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/adaptive-text-styles/",
             "title": "Adaptive text styles",
             "link": "https://ilya.puchka.me/adaptive-text-styles/",
             "updated": 1484834400,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/inout-variables-with-side-effects/",
             "title": "Inout variables with side effects",
             "link": "https://ilya.puchka.me/inout-variables-with-side-effects/",
             "updated": 1481782337,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/objective-c-headers-in-swift-framework-custom-build-configurations/",
             "title": "Objective-C headers in Swift framework & custom build configurations",
             "link": "https://ilya.puchka.me/objective-c-headers-in-swift-framework-custom-build-configurations/",
             "updated": 1477723554,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/frameworks-keychain-nscoding-and-swift/",
             "title": "Frameworks, Keychain, NSCoding and Swift",
             "link": "https://ilya.puchka.me/frameworks-keychain-nscoding-and-swift/",
             "updated": 1475199000,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/xcode-cross-platform-frameworks/",
             "title": "Xcode & cross-platform frameworks",
             "link": "https://ilya.puchka.me/xcode-cross-platform-frameworks/",
             "updated": 1471459657,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/douglas-peucker-algorithm/",
             "title": "Douglas-Peucker algorithm",
             "link": "https://ilya.puchka.me/douglas-peucker-algorithm/",
             "updated": 1471103379,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/freehand-drawing/",
             "title": "Freehand drawing",
             "link": "https://ilya.puchka.me/freehand-drawing/",
             "updated": 1469958781,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/dependency-injection-in-swift/",
             "title": "Dependency Injection (DI) in Swift",
             "link": "https://ilya.puchka.me/dependency-injection-in-swift/",
             "updated": 1464434696,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/mixing-optional-binding-and-boolean-expressions/",
             "title": "Mixing optional binding and boolean expressions",
             "link": "https://ilya.puchka.me/mixing-optional-binding-and-boolean-expressions/",
             "updated": 1461852667,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/pattern-matching-vs-range-contains/",
             "title": "~= vs Range.contains(_:)",
             "link": "https://ilya.puchka.me/pattern-matching-vs-range-contains/",
             "updated": 1460649000,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/on-package-managers/",
             "title": "On package managers",
             "link": "https://ilya.puchka.me/on-package-managers/",
             "updated": 1459253788,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/creating-simple-os-x-app/",
             "title": "Creating a simple OS X app",
             "link": "https://ilya.puchka.me/creating-simple-os-x-app/",
             "updated": 1458787378,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/intermediate-action-segues/",
             "title": "Intermediate action segues",
             "link": "https://ilya.puchka.me/intermediate-action-segues/",
             "updated": 1451220878,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/properties-of-types-conforming-to-protocols-in-swift/",
             "title": "Properties of types conforming to protocols in Swift",
             "link": "https://ilya.puchka.me/properties-of-types-conforming-to-protocols-in-swift/",
             "updated": 1451020880,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/dependency-injecinjection-with-dip/",
             "title": "Dependency injection with Dip",
             "link": "https://ilya.puchka.me/dependency-injecinjection-with-dip/",
             "updated": 1450959638,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/ioc-container-in-swift-circular-dependencies-and-auto-injection/",
             "title": "IoC container in Swift. Circular dependencies and auto-injection",
             "link": "https://ilya.puchka.me/ioc-container-in-swift-circular-dependencies-and-auto-injection/",
             "updated": 1447241096,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/ioc-container-in-swift/",
             "title": "IoC container in Swift",
             "link": "https://ilya.puchka.me/ioc-container-in-swift/",
             "updated": 1446986722,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/view-controller-thinning-dependency-injection/",
             "title": "View controller thinning. Dependency injection with Typhoon.",
             "link": "https://ilya.puchka.me/view-controller-thinning-dependency-injection/",
             "updated": 1445921787,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/view-controller-thinning-behaviours-and-interface-builder/",
             "title": "View controller thinning. Behaviors and Interface Builder.",
             "link": "https://ilya.puchka.me/view-controller-thinning-behaviours-and-interface-builder/",
             "updated": 1444464798,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/view-themes/",
             "title": "View themes",
             "link": "https://ilya.puchka.me/view-themes/",
             "updated": 1443860615,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/view-controller-thinning/",
             "title": "View controller thinning",
             "link": "https://ilya.puchka.me/view-controller-thinning/",
             "updated": 1443264660,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/path-to-carthage-real-life-experience/",
             "title": "Path to Carthage. Real-life experience.",
             "link": "https://ilya.puchka.me/path-to-carthage-real-life-experience/",
             "updated": 1442812977,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/networking-in-swift/",
             "title": "Networking in Swift",
             "link": "https://ilya.puchka.me/networking-in-swift/",
             "updated": 1441887013,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/networking-use-case/",
             "title": "Lightweight networking in Objective-C",
             "link": "https://ilya.puchka.me/networking-use-case/",
             "updated": 1439641080,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/testing-sync-engine/",
             "title": "Testing Sync Engine",
             "link": "https://ilya.puchka.me/testing-sync-engine/",
             "updated": 1438246094,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/swift-2-part-1-2/",
             "title": "Swift 2. Part 1.",
             "link": "https://ilya.puchka.me/swift-2-part-1-2/",
             "updated": 1435466974,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/swift-interesting-features/",
             "title": "Swift interesting features",
             "link": "https://ilya.puchka.me/swift-interesting-features/",
             "updated": 1429419941,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/custom-uitextview-in-swift/",
             "title": "Custom UITextView in Swift",
             "link": "https://ilya.puchka.me/custom-uitextview-in-swift/",
             "updated": 1428132600,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/quick-overview-of-swift-playgrounds-in-ios-simulator/",
             "title": "Quick overview of Swift Playgrounds in iOS Simulator",
             "link": "https://ilya.puchka.me/quick-overview-of-swift-playgrounds-in-ios-simulator/",
             "updated": 1426516609,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/info-plist-preprocessing/",
             "title": "Info.plist preprocessing",
             "link": "https://ilya.puchka.me/info-plist-preprocessing/",
             "updated": 1418479999,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         },
         {
             "id": "https://ilya.puchka.me/ios-storyboards-segregation/",
             "title": "iOS storyboards segregation",
             "link": "https://ilya.puchka.me/ios-storyboards-segregation/",
             "updated": 1417972077,
-            "site_url": "https://ilya.puchka.me/"
+            "site_url": "https://ilya.puchka.me/",
+            "slug": "development"
         }
     ]
 }

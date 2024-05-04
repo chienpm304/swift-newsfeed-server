@@ -6,14 +6,16 @@
             "title": "Localize a SwiftUI app",
             "link": "https://blog.ptrkstr.com/localize-a-swiftui-app",
             "updated": 1712971307,
-            "site_url": "https://blog.ptrkstr.com/"
+            "site_url": "https://blog.ptrkstr.com/",
+            "slug": "development"
         },
         {
             "id": "https://blog.ptrkstr.com/swiftui-component-naming",
             "title": "Guide to Naming SwiftUI Components",
             "link": "https://blog.ptrkstr.com/swiftui-component-naming",
             "updated": 1710426552,
-            "site_url": "https://blog.ptrkstr.com/"
+            "site_url": "https://blog.ptrkstr.com/",
+            "slug": "development"
         }
     ]
 }

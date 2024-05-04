@@ -6,70 +6,80 @@
             "title": "Composition in Swift and iOS",
             "link": "https://ioscoachfrank.com/composition-in-swift.html",
             "updated": 1584550800,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/dont-subclass-uikit-controls.html",
             "title": "Don't Subclass UIKit Controls, Wrap Them Instead",
             "link": "https://ioscoachfrank.com/dont-subclass-uikit-controls.html",
             "updated": 1582477200,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/uiview-basics.html",
             "title": "The 4 Steps to Properly Subclass UIView",
             "link": "https://ioscoachfrank.com/uiview-basics.html",
             "updated": 1580230800,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/remove-main-storyboard.html",
             "title": "How to Properly Remove Main.Storyboard (for iOS 13+)",
             "link": "https://ioscoachfrank.com/remove-main-storyboard.html",
             "updated": 1579539600,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/layered-view-controllers.html",
             "title": "The Many Faces of UIViewController",
             "link": "https://ioscoachfrank.com/layered-view-controllers.html",
             "updated": 1578848400,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/no-problem-with-mvc.html",
             "title": "MVC is not to blame for your Massive View Controllers",
             "link": "https://ioscoachfrank.com/no-problem-with-mvc.html",
             "updated": 1578157200,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/gcd-lies.html",
             "title": "Everything You Know About GCD Is a Lie",
             "link": "https://ioscoachfrank.com/gcd-lies.html",
             "updated": 1569085200,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/taming-distractions.html",
             "title": "Getting Distractions Under Control",
             "link": "https://ioscoachfrank.com/taming-distractions.html",
             "updated": 1568480400,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/decoding-typesafe-resources.html",
             "title": "Decoding Typesafe Responses",
             "link": "https://ioscoachfrank.com/decoding-typesafe-resources.html",
             "updated": 1567875600,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         },
         {
             "id": "https://ioscoachfrank.com/dry-network-layer.html",
             "title": "Keeping Your Network Layer Clean With DRY",
             "link": "https://ioscoachfrank.com/dry-network-layer.html",
             "updated": 1566406800,
-            "site_url": "http://ioscoachfrank.com/"
+            "site_url": "http://ioscoachfrank.com/",
+            "slug": "development"
         }
     ]
 }

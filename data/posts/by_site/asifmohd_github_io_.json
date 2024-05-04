@@ -6,21 +6,24 @@
             "title": "Reducing iOS app size using linker and why_load",
             "link": "https://asifmohd.github.io/ios/2023/03/30/reducing-ios-app-size-using-linker.html",
             "updated": 1680178560,
-            "site_url": "https://asifmohd.github.io/"
+            "site_url": "https://asifmohd.github.io/",
+            "slug": "development"
         },
         {
             "id": "https://asifmohd.github.io/ios/2022/02/03/bloaty-ios-introduction.html",
             "title": "Profiling binary size on iOS using Bloaty",
             "link": "https://asifmohd.github.io/ios/2022/02/03/bloaty-ios-introduction.html",
             "updated": 1643892540,
-            "site_url": "https://asifmohd.github.io/"
+            "site_url": "https://asifmohd.github.io/",
+            "slug": "development"
         },
         {
             "id": "https://asifmohd.github.io/ios/2021/03/11/xcbuild-debug-info.html",
             "title": "Digging deeper into xcbuild: Rules and Tasks",
             "link": "https://asifmohd.github.io/ios/2021/03/11/xcbuild-debug-info.html",
             "updated": 1615467398,
-            "site_url": "https://asifmohd.github.io/"
+            "site_url": "https://asifmohd.github.io/",
+            "slug": "development"
         }
     ]
 }

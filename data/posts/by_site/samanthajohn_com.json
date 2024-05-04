@@ -6,56 +6,64 @@
             "title": "Are you Elon Musk or a garbage truck titan?",
             "link": "https://samanthajohn.com/software/2024/04/11/business-ideas.html",
             "updated": 1712804220,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/software/2024/04/04/product-process",
             "title": "The product doc that powered Hopscotch",
             "link": "https://samanthajohn.com/software/2024/04/04/product-process.html",
             "updated": 1712222100,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/software/2021/09/07/Annotate",
             "title": "A love letter to personal software",
             "link": "https://samanthajohn.com/software/2021/09/07/Annotate.html",
             "updated": 1630978080,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/life/2021/07/28/Churcha-Chironja",
             "title": "Churcha Chironja",
             "link": "https://samanthajohn.com/life/2021/07/28/Churcha-Chironja.html",
             "updated": 1627446360,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/programming/2019/01/29/Weak-Arrays",
             "title": "Fixing your retain cycles for fun and profit",
             "link": "https://samanthajohn.com/programming/2019/01/29/Weak-Arrays.html",
             "updated": 1548719580,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/books/2018/03/12/Tao-Te-Ching",
             "title": "The Tao Te Ching",
             "link": "https://samanthajohn.com/books/2018/03/12/Tao-Te-Ching.html",
             "updated": 1520862780,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/programming/2018/02/11/some-thoughts-on-mastery-for-a-young-programmer",
             "title": "Thoughts on mastery in programming",
             "link": "https://samanthajohn.com/programming/2018/02/11/some-thoughts-on-mastery-for-a-young-programmer.html",
             "updated": 1518329460,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         },
         {
             "id": "https://samanthajohn.com/life/2013/05/01/mothers-day",
             "title": "My mom, the scientist",
             "link": "https://samanthajohn.com/life/2013/05/01/mothers-day.html",
             "updated": 1367390880,
-            "site_url": "https://samanthajohn.com"
+            "site_url": "https://samanthajohn.com",
+            "slug": "development"
         }
     ]
 }

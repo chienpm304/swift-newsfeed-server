@@ -6,70 +6,80 @@
             "title": "Async functions are coming to Swift",
             "link": "https://scorpios.home.blog/2021/01/03/async-functions-are-coming-to-swift/",
             "updated": 1609621085,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=165",
             "title": "Resources are Coming to Swift Packages",
             "link": "https://scorpios.home.blog/2020/07/25/resources-are-coming-to-swift-packages/",
             "updated": 1595669320,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=162",
             "title": "How to use DiffableDataSource and still support iOS 12",
             "link": "https://scorpios.home.blog/2020/06/17/how-to-use-diffabledatasource-and-still-support-ios-12/",
             "updated": 1592377948,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=154",
             "title": "How Swift Packages Changed the Way I Build Apps",
             "link": "https://scorpios.home.blog/2020/05/29/how-swift-packages-changed-the-way-i-build-apps/",
             "updated": 1590701195,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=149",
             "title": "What\u2019s going on with those Swift Substrings?",
             "link": "https://scorpios.home.blog/2020/01/18/whats-going-on-with-those-swift-substrings/",
             "updated": 1579349330,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=136",
             "title": "Working With Xcode Configuration Files",
             "link": "https://scorpios.home.blog/2019/08/18/working-with-xcode-configuration-files/",
             "updated": 1566072617,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/?p=59",
             "title": "How To Solve Problems With UI Testing",
             "link": "https://scorpios.home.blog/2019/07/25/how-to-solve-problems-with-ui-testing/",
             "updated": 1564013563,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/2019/07/19/ios-13%e2%80%8a-%e2%80%8abe-dynamic-with-diffabledatasource/",
             "title": "iOS 13\u200a\u2014\u200aBe Dynamic with DiffableDataSource",
             "link": "https://scorpios.home.blog/2019/07/19/ios-13%e2%80%8a-%e2%80%8abe-dynamic-with-diffabledatasource/",
             "updated": 1563507485,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/2019/07/15/ios%e2%80%8a-%e2%80%8aadvanced-memory-debugging-to-the-masses%e2%80%8b/",
             "title": "iOS\u200a\u2014\u200aAdvanced Memory Debugging to the Masses\u200b",
             "link": "https://scorpios.home.blog/2019/07/15/ios%e2%80%8a-%e2%80%8aadvanced-memory-debugging-to-the-masses%e2%80%8b/",
             "updated": 1563193960,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         },
         {
             "id": "http://scorpios.home.blog/2019/07/10/ios-13%e2%80%8a-%e2%80%8atest-your-app-performance-and-memory-metrics/",
             "title": "iOS 13\u200a\u2014\u200aTest Your App Performance and Memory Metrics",
             "link": "https://scorpios.home.blog/2019/07/10/ios-13%e2%80%8a-%e2%80%8atest-your-app-performance-and-memory-metrics/",
             "updated": 1562730928,
-            "site_url": "https://scorpios.home.blog/"
+            "site_url": "https://scorpios.home.blog/",
+            "slug": "development"
         }
     ]
 }

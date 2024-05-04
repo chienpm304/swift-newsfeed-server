@@ -6,105 +6,120 @@
             "title": "\ud83c\udf31 Living the Creative Act: \"Tuning Out\" S5E11",
             "link": "https://www.youtube.com/watch?v=ETdrsj9Ztz8",
             "updated": 1714156319,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:KZh8GDJFSzc",
             "title": "Live-coding and rock'n-roll | Swift, iOS, subways, Vapor, Underway",
             "link": "https://www.youtube.com/watch?v=KZh8GDJFSzc",
             "updated": 1714139431,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:2nc-MQNLWAI",
             "title": "\ud83c\udf31 Living the Creative Act: \"Essence\" S5E9",
             "link": "https://www.youtube.com/watch?v=2nc-MQNLWAI",
             "updated": 1714109159,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yactcIylm_Y",
             "title": "Live-coding, Swift, iOS, Xcode, Vapor. I make an indie subway app for NYC",
             "link": "https://www.youtube.com/watch?v=yactcIylm_Y",
             "updated": 1714048216,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:bCferJmoHcg",
             "title": "\ud83c\udf31 Living the Creative Act: \"Self-Awareness\" S5E12 video",
             "link": "https://www.youtube.com/watch?v=bCferJmoHcg",
             "updated": 1713932596,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:25tdSFl2MRM",
             "title": "Live-coding and music! iOS, Swift, Xcode. Part 2, April 7 2024",
             "link": "https://www.youtube.com/watch?v=25tdSFl2MRM",
             "updated": 1713099309,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:MKauOwm9OiM",
             "title": "Live-coding and music! Swift, iOS, Xcode. Part 1, Sunday, April 7, 2024",
             "link": "https://www.youtube.com/watch?v=MKauOwm9OiM",
             "updated": 1712676862,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:_uS4Szc95fQ",
             "title": "Live-coding and Jazz. iOS, Swift, Xcode.",
             "link": "https://www.youtube.com/watch?v=_uS4Szc95fQ",
             "updated": 1712503786,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:sG3YkR3kEm0",
             "title": "Version control allows us software engineers to quickly reduce a feature to its essential",
             "link": "https://www.youtube.com/watch?v=sG3YkR3kEm0",
             "updated": 1712184064,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:--Z8gtA0G2U",
             "title": "Sometimes the juice just isn't flowing and that's totally okay. It's okay to take a break",
             "link": "https://www.youtube.com/watch?v=--Z8gtA0G2U",
             "updated": 1712184062,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:PBDrJ83Cim4",
             "title": "We should be using our own strengths and weaknesses to create something that is unique.",
             "link": "https://www.youtube.com/watch?v=PBDrJ83Cim4",
             "updated": 1712184062,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:9Dp9STShgto",
             "title": "Let's cheer for each other!",
             "link": "https://www.youtube.com/watch?v=9Dp9STShgto",
             "updated": 1712184062,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:qCzDnVky-D8",
             "title": "False start live-coding, trying to work on my subway app.",
             "link": "https://www.youtube.com/watch?v=qCzDnVky-D8",
             "updated": 1711163727,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:lrSd8ug6WEg",
             "title": "\ud83c\udf31 Living the Creative Act: \"Apocrypha \" S5E10",
             "link": "https://www.youtube.com/watch?v=lrSd8ug6WEg",
             "updated": 1710582392,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:dov3jWu7qck",
             "title": "Live-coding: Swift, iOS, and Vapor. Building my app into a sustainable business. March 3, 2024",
             "link": "https://www.youtube.com/watch?v=dov3jWu7qck",
             "updated": 1709843619,
-            "site_url": "https://www.youtube.com/@FullQueueDeveloper"
+            "site_url": "https://www.youtube.com/@FullQueueDeveloper",
+            "slug": "youtube"
         }
     ]
 }

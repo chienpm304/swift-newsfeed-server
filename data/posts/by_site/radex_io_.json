@@ -6,133 +6,152 @@
             "title": "I made JSON.parse() 2x faster",
             "link": "https://radex.io/react-native/json-parse/",
             "updated": 1677862800,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/xcode7-xcode8",
             "title": "Simultaneous Xcode 7 and Xcode 8 compatibility",
             "link": "https://radex.io/xcode7-xcode8/",
             "updated": 1469638800,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/guard",
             "title": "When (not) to use guard",
             "link": "https://radex.io/swift/guard/",
             "updated": 1450026000,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/nsuserdefaults/static-swifty-user-defaults",
             "title": "Statically-typed NSUserDefaults",
             "link": "https://radex.io/swift/nsuserdefaults/static/",
             "updated": 1440954000,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/methods/swifty-methods-talk",
             "title": "Swifty methods, the talk",
             "link": "https://radex.io/swift/methods/talk/",
             "updated": 1436979600,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/watch/watchkit-laziness",
             "title": "Lazy WatchKit tables",
             "link": "https://radex.io/watch/lazy/",
             "updated": 1434992400,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/swift2-error-conversion",
             "title": "Converting between Result, Optionals, and Swift\u00a02 errors",
             "link": "https://radex.io/swift/error-conversions/",
             "updated": 1434377400,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/watch/watchkit-diffing",
             "title": "Practical and efficient WatchKit tables with view model diffing",
             "link": "https://radex.io/watch/diffing/",
             "updated": 1432832400,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/watch/watchkit-hyphenation",
             "title": "WatchKit hyphenation",
             "link": "https://radex.io/watch/hyphenation/",
             "updated": 1432647600,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/nstimer",
             "title": "Swifty APIs: NSTimer",
             "link": "https://radex.io/swift/nstimer/",
             "updated": 1431334800,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/rethinking-json-in-swift",
             "title": "Rethinking JSON in Swift",
             "link": "https://radex.io/swift/json/",
             "updated": 1423482000,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/user-defaults",
             "title": "Swifty APIs: NSUserDefaults",
             "link": "https://radex.io/swift/nsuserdefaults/",
             "updated": 1421833200,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/swifty-methods",
             "title": "Swifty methods",
             "link": "https://radex.io/swift/methods/",
             "updated": 1410707400,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/swift/great-swift-resources",
             "title": "Great Swift resources",
             "link": "https://radex.io/swift/resources/",
             "updated": 1409493600,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/future-macbooks/future-macbooks",
             "title": "The future of MacBook",
             "link": "https://radex.io/future-macbooks/index.html",
             "updated": 1399209600,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/rework/rework",
             "title": "A little book",
             "link": "https://radex.io/rework/index.html",
             "updated": 1391616000,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/fall2013-predictions/fall2013-predictions",
             "title": "Fall 2013 Apple predictions",
             "link": "https://radex.io/fall2013-predictions/index.html",
             "updated": 1378218600,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/pushing-through-the-dip/pushing-through-the-dip",
             "title": "Pushing through the dip",
             "link": "https://radex.io/pushing-through-the-dip/index.html",
             "updated": 1374516000,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         },
         {
             "id": "https://radex.io/can-you-hear-me/can-you-hear-me",
             "title": "Can you hear me?",
             "link": "https://radex.io/can-you-hear-me/index.html",
             "updated": 1373785200,
-            "site_url": "https://radex.io/"
+            "site_url": "https://radex.io/",
+            "slug": "development"
         }
     ]
 }

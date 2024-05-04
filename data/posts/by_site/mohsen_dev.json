@@ -6,70 +6,80 @@
             "title": "APH: Avoidable Person-Hours",
             "link": "https://mohsen.dev/2022/08/12/aph-avoidable-person-hours.html",
             "updated": 1660237200,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2022/08/05/make-up-your-knapsack",
             "title": "make up your knapsack",
             "link": "https://mohsen.dev/2022/08/05/make-up-your-knapsack.html",
             "updated": 1659632400,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2020/06/21/swiftui-double-edged-sword",
             "title": "SwiftUI: Double-Edged Sword",
             "link": "https://mohsen.dev/2020/06/21/swiftui-double-edged-sword.html",
             "updated": 1592672400,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2020/04/26/salary-confidential",
             "title": "salary: confidential",
             "link": "https://mohsen.dev/2020/04/26/salary-confidential.html",
             "updated": 1587834000,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2020/01/19/awkward_phase",
             "title": "awkward phase",
             "link": "https://mohsen.dev/2020/01/19/awkward_phase.html",
             "updated": 1579366800,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2019/08/23/apple_does_not_slow_iphone_down_we_do",
             "title": "apple doesn\u2019t slow iPhone down, we do",
             "link": "https://mohsen.dev/2019/08/23/apple_does_not_slow_iphone_down_we_do.html",
             "updated": 1566493200,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2019/06/23/daily-standup-where-scrum-flys-or-dies",
             "title": "daily standup: where scrum flys or dies",
             "link": "https://mohsen.dev/2019/06/23/daily-standup-where-scrum-flys-or-dies.html",
             "updated": 1561222800,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2019/06/09/a-dead-simple-solution-to-lift-up-errors-in-iOS",
             "title": "a dead simple solution to lift up errors in ios",
             "link": "https://mohsen.dev/2019/06/09/a-dead-simple-solution-to-lift-up-errors-in-iOS.html",
             "updated": 1560013200,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2019/06/02/__NSSingleObjectArrayI-an-existential-crisis",
             "title": "__NSSingleObjectArrayI: an existential crisis",
             "link": "https://mohsen.dev/2019/06/02/__NSSingleObjectArrayI-an-existential-crisis.html",
             "updated": 1559408400,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         },
         {
             "id": "https://mohsen.dev/2019/05/26/bash-going-down-the-rabbit-hole",
             "title": "bash: going down the rabbit hole",
             "link": "https://mohsen.dev/2019/05/26/bash-going-down-the-rabbit-hole.html",
             "updated": 1558803600,
-            "site_url": "https://mohsen.dev"
+            "site_url": "https://mohsen.dev",
+            "slug": "development"
         }
     ]
 }

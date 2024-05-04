@@ -6,126 +6,144 @@
             "title": "SwiftUI View Extensions vs ViewModifier vs Custom Views",
             "link": "https://javalnanda.com/swiftui-view-extensions-vs-viewmodifier-vs-custom-views",
             "updated": 1707380917,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/mastering-conciseness-the-art-of-syntactic-sugar-in-code",
             "title": "Mastering Conciseness: The Art of Syntactic Sugar in Code",
             "link": "https://javalnanda.com/mastering-conciseness-the-art-of-syntactic-sugar-in-code",
             "updated": 1707186471,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/optimising-collaboration-with-pull-request-templates",
             "title": "Optimising Collaboration with Pull Request Templates",
             "link": "https://javalnanda.com/optimising-collaboration-with-pull-request-templates",
             "updated": 1706762531,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/preventing-code-execution-while-running-tests-from-cli-for-swift-package",
             "title": "Preventing Code Execution While Running Tests from CLI for Swift Package",
             "link": "https://javalnanda.com/preventing-code-execution-while-running-tests-from-cli-for-swift-package",
             "updated": 1706580860,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/adding-test-target-to-swift-package-type-executable",
             "title": "Adding test target to Swift Package (--type executable)",
             "link": "https://javalnanda.com/adding-test-target-to-swift-package-type-executable",
             "updated": 1706088431,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/reading-standard-input-stdin-in-swift-45f81b3caf2c",
             "title": "Reading Standard Input (StdIn) in Swift",
             "link": "https://javalnanda.com/reading-standard-input-stdin-in-swift-45f81b3caf2c",
             "updated": 1496292699,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/creating-optional-protocol-method-in-swift-e34ae7f37d52",
             "title": "Creating optional protocol method in swift",
             "link": "https://javalnanda.com/creating-optional-protocol-method-in-swift-e34ae7f37d52",
             "updated": 1495060142,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/how-to-use-alamofireobjectmapper-c0d9820779bf",
             "title": "How to use AlamofireObjectMapper?",
             "link": "https://javalnanda.com/how-to-use-alamofireobjectmapper-c0d9820779bf",
             "updated": 1494397658,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/how-to-use-xcode-code-snippet-library-8cd621028f0b",
             "title": "How to use Xcode Code Snippet Library?",
             "link": "https://javalnanda.com/how-to-use-xcode-code-snippet-library-8cd621028f0b",
             "updated": 1493520350,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/use-swiftyjson-to-deal-with-json-data-in-swift-96d59663a378",
             "title": "Use SwiftyJSON to deal with JSON data in Swift",
             "link": "https://javalnanda.com/use-swiftyjson-to-deal-with-json-data-in-swift-96d59663a378",
             "updated": 1491199028,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/how-affordable-are-iot-solutions-for-those-who-actually-need-it-8e4ab55183b7",
             "title": "How affordable are IoT solutions for those who actually need it?",
             "link": "https://javalnanda.com/how-affordable-are-iot-solutions-for-those-who-actually-need-it-8e4ab55183b7",
             "updated": 1489997761,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/why-you-need-to-educate-your-client-75fc9415fe9c",
             "title": "Why you need to educate your client?",
             "link": "https://javalnanda.com/why-you-need-to-educate-your-client-75fc9415fe9c",
             "updated": 1488860100,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/configuring-product-flavors-in-android-6e62dfbee6a8",
             "title": "Configuring \u201cProduct Flavors\u201d in your Android app",
             "link": "https://javalnanda.com/configuring-product-flavors-in-android-6e62dfbee6a8",
             "updated": 1487058255,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/tips-for-a-successful-mobile-application-development-3e29a5e3d16d",
             "title": "Tips for a successful mobile application development",
             "link": "https://javalnanda.com/tips-for-a-successful-mobile-application-development-3e29a5e3d16d",
             "updated": 1485515280,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/how-to-apply-via-negativa-philosophy-in-software-development-d562bcb219e2",
             "title": "How to apply Via Negativa philosophy in software development",
             "link": "https://javalnanda.com/how-to-apply-via-negativa-philosophy-in-software-development-d562bcb219e2",
             "updated": 1484527262,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/points-which-developers-should-not-ignore-and-take-ownership-part-2-c2badb38951f",
             "title": "Points which developers should not ignore and take ownership \u2014 part 2",
             "link": "https://javalnanda.com/points-which-developers-should-not-ignore-and-take-ownership-part-2-c2badb38951f",
             "updated": 1483498353,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/points-which-developers-should-not-ignore-and-take-ownership-part-1-157655894df6",
             "title": "Points which developers should not ignore and take ownership \u2014 part 1",
             "link": "https://javalnanda.com/points-which-developers-should-not-ignore-and-take-ownership-part-1-157655894df6",
             "updated": 1483415680,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         },
         {
             "id": "https://javalnanda.com/thought-process-behind-design-5e18c58670fe",
             "title": "Thought process behind design",
             "link": "https://javalnanda.com/thought-process-behind-design-5e18c58670fe",
             "updated": 1483415603,
-            "site_url": "https://javalnanda.com/tag/ios"
+            "site_url": "https://javalnanda.com/tag/ios",
+            "slug": "development"
         }
     ]
 }

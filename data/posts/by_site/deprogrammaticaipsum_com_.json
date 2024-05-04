@@ -6,70 +6,80 @@
             "title": "Issue #67: Text Editors",
             "link": "https://deprogrammaticaipsum.com/issue-67-text-editors/",
             "updated": 1711922639,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10688",
             "title": "For Lack Of A Better Word",
             "link": "https://deprogrammaticaipsum.com/for-lack-of-a-better-word/",
             "updated": 1711922565,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10690",
             "title": "Fireship",
             "link": "https://deprogrammaticaipsum.com/fireship/",
             "updated": 1711922500,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10695",
             "title": "Charles Petzold",
             "link": "https://deprogrammaticaipsum.com/charles-petzold/",
             "updated": 1711922414,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10558",
             "title": "Issue #66: Version Control",
             "link": "https://deprogrammaticaipsum.com/issue-66-version-control/",
             "updated": 1709507022,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10564",
             "title": "Twenty Years Is Nothing",
             "link": "https://deprogrammaticaipsum.com/twenty-years-is-nothing/",
             "updated": 1709506957,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10560",
             "title": "Linus Torvalds",
             "link": "https://deprogrammaticaipsum.com/linus-torvalds/",
             "updated": 1709506909,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10562",
             "title": "Travis Swicegood",
             "link": "https://deprogrammaticaipsum.com/travis-swicegood/",
             "updated": 1709506843,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10458",
             "title": "Issue #65: Pascal",
             "link": "https://deprogrammaticaipsum.com/issue-65-pascal/",
             "updated": 1707087805,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         },
         {
             "id": "https://deprogrammaticaipsum.com/?p=10464",
             "title": "\u201cLazarus, Come Forth!\u201d",
             "link": "https://deprogrammaticaipsum.com/lazarus-come-forth/",
             "updated": 1707087766,
-            "site_url": "https://deprogrammaticaipsum.com/"
+            "site_url": "https://deprogrammaticaipsum.com/",
+            "slug": "development"
         }
     ]
 }

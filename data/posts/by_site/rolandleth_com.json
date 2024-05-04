@@ -6,1428 +6,1632 @@
             "title": "Sync build versions between targets",
             "link": "https://rolandleth.com/tech/blog/sync-build-versions-between-targets",
             "updated": 1582122600,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/dnd-me",
             "title": "DND Me",
             "link": "https://rolandleth.com/tech/blog/dnd-me",
             "updated": 1549963800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improved-uifont-naming",
             "title": "Improved UIFont naming",
             "link": "https://rolandleth.com/tech/blog/improved-uifont-naming",
             "updated": 1547637180,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/long-parameter-lists",
             "title": "Long parameter lists",
             "link": "https://rolandleth.com/tech/blog/long-parameter-lists",
             "updated": 1547017860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/learning-new-languages",
             "title": "Learning new languages",
             "link": "https://rolandleth.com/tech/blog/learning-new-languages",
             "updated": 1546425720,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/delightful-animations",
             "title": "Delightful animations",
             "link": "https://rolandleth.com/tech/blog/delightful-animations",
             "updated": 1544591520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/learning-through-mini-habits",
             "title": "Learning through mini habits",
             "link": "https://rolandleth.com/tech/blog/learning-through-mini-habits",
             "updated": 1542883320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/caanimations-and-groups",
             "title": "CAAnimations and groups",
             "link": "https://rolandleth.com/tech/blog/caanimations-and-groups",
             "updated": 1541681340,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easier-uifont-usage",
             "title": "Easier UIFont usage",
             "link": "https://rolandleth.com/tech/blog/easier-uifont-usage",
             "updated": 1541021820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/my-travel-stories",
             "title": "My Travel Stories",
             "link": "https://rolandleth.com/tech/blog/my-travel-stories",
             "updated": 1540365060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/avoiding-the-keyboard-on-uitextfield-focus",
             "title": "Avoiding the keyboard on UITextField focus",
             "link": "https://rolandleth.com/tech/blog/avoiding-the-keyboard-on-uitextfield-focus",
             "updated": 1539845700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/optionals-flatmap-and-you",
             "title": "Optionals, flatMap and you",
             "link": "https://rolandleth.com/tech/blog/optionals-flatmap-and-you",
             "updated": 1539243180,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/goalee",
             "title": "Goalee",
             "link": "https://rolandleth.com/tech/blog/goalee",
             "updated": 1538971200,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/handling-the-next-button-automatically",
             "title": "Handling the Next button automatically",
             "link": "https://rolandleth.com/tech/blog/handling-the-next-button-automatically",
             "updated": 1537761540,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/increasing-the-tap-area-of-a-uibutton",
             "title": "Increasing the tap area of a UIButton",
             "link": "https://rolandleth.com/tech/blog/increasing-the-tap-area-of-a-uibutton",
             "updated": 1536484080,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/extracting-the-location-from-a-photo",
             "title": "Extracting the location from a photo",
             "link": "https://rolandleth.com/tech/blog/extracting-the-location-from-a-photo",
             "updated": 1533556260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/extracting-and-parsing-tweets-from-your-twitter-archive",
             "title": "Extracting and parsing tweets from your Twitter archive",
             "link": "https://rolandleth.com/tech/blog/extracting-and-parsing-tweets-from-your-twitter-archive",
             "updated": 1529586480,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/uitextview-and-uitextfield-knobs-a-story",
             "title": "UITextView and UITextField knobs; a story",
             "link": "https://rolandleth.com/tech/blog/uitextview-and-uitextfield-knobs-a-story",
             "updated": 1528084860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/card-virtual",
             "title": "Card Virtual",
             "link": "https://rolandleth.com/tech/blog/card-virtual",
             "updated": 1526538420,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/tower",
             "title": "Tower",
             "link": "https://rolandleth.com/tech/blog/tower",
             "updated": 1525496340,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/observing-and-broadcasting",
             "title": "Observing and broadcasting",
             "link": "https://rolandleth.com/tech/blog/observing-and-broadcasting",
             "updated": 1524987120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/challengebeat",
             "title": "ChallengeBeat",
             "link": "https://rolandleth.com/tech/blog/challengebeat",
             "updated": 1522046400,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easier-nslayoutconstraint-interactions-2",
             "title": "Easier NSLayoutConstraint interactions #2",
             "link": "https://rolandleth.com/tech/blog/easier-nslayoutconstraint-interactions-2",
             "updated": 1517836020,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/creating-an-interactive-label",
             "title": "Creating an interactive label",
             "link": "https://rolandleth.com/tech/blog/creating-an-interactive-label",
             "updated": 1516362960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easier-nslayoutconstraint-interactions",
             "title": "Easier NSLayoutConstraint interactions",
             "link": "https://rolandleth.com/tech/blog/easier-nslayoutconstraint-interactions",
             "updated": 1510747140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/runtime-sharks",
             "title": "Runtime Sharks",
             "link": "https://rolandleth.com/tech/blog/runtime-sharks",
             "updated": 1510231320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/updated-to-swift-4-and-vapor-2",
             "title": "Updated to Swift 4 and Vapor 2",
             "link": "https://rolandleth.com/tech/blog/updated-to-swift-4-and-vapor-2",
             "updated": 1507786320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/iconjar",
             "title": "IconJar",
             "link": "https://rolandleth.com/tech/blog/iconjar",
             "updated": 1507436580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/caret-a-great-markdown-editor",
             "title": "Caret, a great Markdown editor",
             "link": "https://rolandleth.com/tech/blog/caret-a-great-markdown-editor",
             "updated": 1507003920,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/the-app-store-and-the-state-of-pay-to-play",
             "title": "The App Store and the state of pay to play",
             "link": "https://rolandleth.com/tech/blog/the-app-store-and-the-state-of-pay-to-play",
             "updated": 1505911500,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/tips-for-consuming-apis",
             "title": "Tips for consuming APIs",
             "link": "https://rolandleth.com/tech/blog/tips-for-consuming-apis",
             "updated": 1505191500,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/tips-for-writing-apis",
             "title": "Tips for writing APIs",
             "link": "https://rolandleth.com/tech/blog/tips-for-writing-apis",
             "updated": 1503832680,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/non-selectable-uitextviews-and-url-interactions",
             "title": "Non-selectable UITextViews and URL interactions",
             "link": "https://rolandleth.com/tech/blog/non-selectable-uitextviews-and-url-interactions",
             "updated": 1496552280,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/naming-init-parameters",
             "title": "Naming init parameters",
             "link": "https://rolandleth.com/tech/blog/naming-init-parameters",
             "updated": 1495903560,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sss-creating-a-sitemap",
             "title": "[SSS] Creating a sitemap",
             "link": "https://rolandleth.com/tech/blog/sss-creating-a-sitemap",
             "updated": 1493982600,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sss-creating-an-rss-feed",
             "title": "[SSS] Creating an RSS feed",
             "link": "https://rolandleth.com/tech/blog/sss-creating-an-rss-feed",
             "updated": 1493361300,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sss-displaying-posts-and-extending-queries",
             "title": "[SSS] Displaying posts and extending Queries",
             "link": "https://rolandleth.com/tech/blog/sss-displaying-posts-and-extending-queries",
             "updated": 1490003700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sss-postgresql-models",
             "title": "[SSS] PostgreSQL models",
             "link": "https://rolandleth.com/tech/blog/sss-postgresql-models",
             "updated": 1489050240,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sss-setting-the-project-up",
             "title": "[SSS] Setting the project up",
             "link": "https://rolandleth.com/tech/blog/sss-setting-the-project-up",
             "updated": 1488786000,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/server-side-swift-with-vapor",
             "title": "Server side Swift with Vapor",
             "link": "https://rolandleth.com/tech/blog/server-side-swift-with-vapor",
             "updated": 1488168120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/breaking-labeled-scopes",
             "title": "Breaking labeled scopes",
             "link": "https://rolandleth.com/tech/blog/breaking-labeled-scopes",
             "updated": 1485774060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/assign-if-not-nil-if-nil-then-assign",
             "title": "Assign if not nil; if nil, then assign",
             "link": "https://rolandleth.com/tech/blog/assign-if-not-nil-if-nil-then-assign",
             "updated": 1484902860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/vertical-scrolling-parallax",
             "title": "Vertical scrolling parallax",
             "link": "https://rolandleth.com/tech/blog/vertical-scrolling-parallax",
             "updated": 1481904720,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/thinking-outside-of-the-box",
             "title": "Thinking outside of the box",
             "link": "https://rolandleth.com/tech/blog/thinking-outside-of-the-box",
             "updated": 1481264340,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-mirroring",
             "title": "Swift mirroring",
             "link": "https://rolandleth.com/tech/blog/swift-mirroring",
             "updated": 1480774800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/slightly-easier-core-data-manipulation",
             "title": "Slightly easier Core Data manipulation",
             "link": "https://rolandleth.com/tech/blog/slightly-easier-core-data-manipulation",
             "updated": 1480069380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/lthradiobutton",
             "title": "LTHRadioButton",
             "link": "https://rolandleth.com/tech/blog/lthradiobutton",
             "updated": 1477498380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/adding-string-attributes-slightly-easier",
             "title": "Adding string attributes slightly easier",
             "link": "https://rolandleth.com/tech/blog/adding-string-attributes-slightly-easier",
             "updated": 1475473560,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/combining-protocols",
             "title": "Combining protocols",
             "link": "https://rolandleth.com/tech/blog/combining-protocols",
             "updated": 1475034780,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/queueing-up-async-jobs",
             "title": "Queueing up async jobs",
             "link": "https://rolandleth.com/tech/blog/queueing-up-async-jobs",
             "updated": 1473659160,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-creating-a-new-post",
             "title": "[NJS] Creating a new post",
             "link": "https://rolandleth.com/tech/blog/njs-creating-a-new-post",
             "updated": 1473083700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-dropbox-syncing",
             "title": "[NJS] Dropbox syncing",
             "link": "https://rolandleth.com/tech/blog/njs-dropbox-syncing",
             "updated": 1472327040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-database-handling-3",
             "title": "[NJS] Database handling #3",
             "link": "https://rolandleth.com/tech/blog/njs-database-handling-3",
             "updated": 1471876320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-database-handling-2",
             "title": "[NJS] Database handling #2",
             "link": "https://rolandleth.com/tech/blog/njs-database-handling-2",
             "updated": 1471288680,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-database-handling-1",
             "title": "[NJS] Database handling #1",
             "link": "https://rolandleth.com/tech/blog/njs-database-handling-1",
             "updated": 1470629880,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-project-structure-and-layout-tips",
             "title": "[NJS] Project structure and layout tips",
             "link": "https://rolandleth.com/tech/blog/njs-project-structure-and-layout-tips",
             "updated": 1470135960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-layouts",
             "title": "[NJS] Layouts",
             "link": "https://rolandleth.com/tech/blog/njs-layouts",
             "updated": 1469252100,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-routing",
             "title": "[NJS] Routing",
             "link": "https://rolandleth.com/tech/blog/njs-routing",
             "updated": 1468757520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/njs-server-templates-and-the-pipeline",
             "title": "[NJS] Server, templates and the pipeline",
             "link": "https://rolandleth.com/tech/blog/njs-server-templates-and-the-pipeline",
             "updated": 1468142700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/node-js",
             "title": "Node.js",
             "link": "https://rolandleth.com/tech/blog/node-js",
             "updated": 1467606120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/default-uibarbuttonitems-with-protocols",
             "title": "Default UIBarButtonItems with protocols",
             "link": "https://rolandleth.com/tech/blog/default-uibarbuttonitems-with-protocols",
             "updated": 1466123220,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easier-interaction-between-uiimage-and-assets",
             "title": "Easier interaction between UIImage and assets",
             "link": "https://rolandleth.com/tech/blog/easier-interaction-between-uiimage-and-assets",
             "updated": 1465587300,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/cashapelayer-fill-rules",
             "title": "CAShapeLayer fill rules",
             "link": "https://rolandleth.com/tech/blog/cashapelayer-fill-rules",
             "updated": 1464842280,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/uicollectionview-snap-scrolling-and-pagination",
             "title": "UICollectionView snap scrolling and pagination",
             "link": "https://rolandleth.com/tech/blog/uicollectionview-snap-scrolling-and-pagination",
             "updated": 1463724120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/writing-is-hard",
             "title": "Writing is hard",
             "link": "https://rolandleth.com/tech/blog/writing-is-hard",
             "updated": 1463199900,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/nsdate-operators",
             "title": "NSDate operators",
             "link": "https://rolandleth.com/tech/blog/nsdate-operators",
             "updated": 1461914580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/a-fi-programator-dupa-40-de-ani",
             "title": "A fi programator dup\u0103 40 de ani",
             "link": "https://rolandleth.com/tech/blog/a-fi-programator-dupa-40-de-ani",
             "updated": 1461574800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/detecting-retain-cycles-and-improved-logging",
             "title": "Detecting retain cycles and improved logging",
             "link": "https://rolandleth.com/tech/blog/detecting-retain-cycles-and-improved-logging",
             "updated": 1460965380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-uifont-workflow",
             "title": "Improving UIFont workflow",
             "link": "https://rolandleth.com/tech/blog/improving-uifont-workflow",
             "updated": 1460628360,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/setting-variables-with-tuples-switches-and-closures",
             "title": "Setting variables with tuples, switches and closures",
             "link": "https://rolandleth.com/tech/blog/setting-variables-with-tuples-switches-and-closures",
             "updated": 1460101800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/better-interaction-between-viewwilltransitiontosize-and-cgsize",
             "title": "Better interaction between viewWillTransitionToSize and CGSize",
             "link": "https://rolandleth.com/tech/blog/better-interaction-between-viewwilltransitiontosize-and-cgsize",
             "updated": 1459423800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/the-mas-updates-and-the-cli",
             "title": "The MAS, updates and the CLI",
             "link": "https://rolandleth.com/tech/blog/the-mas-updates-and-the-cli",
             "updated": 1458648120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easier-hugging--compression-handling",
             "title": "Easier hugging / compression handling",
             "link": "https://rolandleth.com/tech/blog/easier-hugging--compression-handling",
             "updated": 1458451140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/tableviews-collectionviews-and-swift-enums",
             "title": "TableViews, collectionViews and Swift enums",
             "link": "https://rolandleth.com/tech/blog/tableviews-collectionviews-and-swift-enums",
             "updated": 1458020220,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/frame-debugging-on-a-device",
             "title": "Frame debugging on a device",
             "link": "https://rolandleth.com/tech/blog/frame-debugging-on-a-device",
             "updated": 1457690280,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-git-log",
             "title": "Improving git log",
             "link": "https://rolandleth.com/tech/blog/improving-git-log",
             "updated": 1456978620,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/working-easier-with-tags",
             "title": "Working easier with tags",
             "link": "https://rolandleth.com/tech/blog/working-easier-with-tags",
             "updated": 1456560120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/creating-a-theme-helper",
             "title": "Creating a theme helper",
             "link": "https://rolandleth.com/tech/blog/creating-a-theme-helper",
             "updated": 1456069380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/lightpaper",
             "title": "LightPaper",
             "link": "https://rolandleth.com/tech/blog/lightpaper",
             "updated": 1455303060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/plugrocket",
             "title": "PlugRocket",
             "link": "https://rolandleth.com/tech/blog/plugrocket",
             "updated": 1453789260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/manipulating-files-outside-of-sandbox",
             "title": "Manipulating files outside of sandbox",
             "link": "https://rolandleth.com/tech/blog/manipulating-files-outside-of-sandbox",
             "updated": 1453396140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/running-a-script-with-nstask-and-nspipe",
             "title": "Running a script with NSTask and NSPipe",
             "link": "https://rolandleth.com/tech/blog/running-a-script-with-nstask-and-nspipe",
             "updated": 1452518940,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/different-fonts-for-the-same-label",
             "title": "Different fonts for the same label",
             "link": "https://rolandleth.com/tech/blog/different-fonts-for-the-same-label",
             "updated": 1450977360,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-going-open-source",
             "title": "Swift going open source",
             "link": "https://rolandleth.com/tech/blog/swift-going-open-source",
             "updated": 1449334500,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/updating-xcode-plug-ins",
             "title": "Updating Xcode plug-ins",
             "link": "https://rolandleth.com/tech/blog/updating-xcode-plug-ins",
             "updated": 1448450340,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/reusing-blocks-of-code",
             "title": "Reusing blocks of code",
             "link": "https://rolandleth.com/tech/blog/reusing-blocks-of-code",
             "updated": 1448000040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/code-coverage-issues-for-swift-projects",
             "title": "Code coverage issues for Swift projects",
             "link": "https://rolandleth.com/tech/blog/code-coverage-issues-for-swift-projects",
             "updated": 1446893940,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-and-enums-3",
             "title": "Swift and enums #3",
             "link": "https://rolandleth.com/tech/blog/swift-and-enums-3",
             "updated": 1446219000,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/wrapping-up-the-pull-request-from-terminal",
             "title": "Wrapping up the Pull Request from terminal",
             "link": "https://rolandleth.com/tech/blog/wrapping-up-the-pull-request-from-terminal",
             "updated": 1445656020,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-pull-request-from-terminal",
             "title": "Improving the Pull Request from terminal",
             "link": "https://rolandleth.com/tech/blog/improving-the-pull-request-from-terminal",
             "updated": 1445099040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/opening-pull-requests-from-terminal",
             "title": "Opening Pull Requests from terminal",
             "link": "https://rolandleth.com/tech/blog/opening-pull-requests-from-terminal",
             "updated": 1444896060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/safaris-new-pinned-tab-feature",
             "title": "Safari's new pinned tab feature",
             "link": "https://rolandleth.com/tech/blog/safaris-new-pinned-tab-feature",
             "updated": 1444627740,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/xcode-7-crash-analysis-tools",
             "title": "Xcode 7 crash analysis tools",
             "link": "https://rolandleth.com/tech/blog/xcode-7-crash-analysis-tools",
             "updated": 1444447380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/searchable-wwdc-videos",
             "title": "Searchable WWDC videos",
             "link": "https://rolandleth.com/tech/blog/searchable-wwdc-videos",
             "updated": 1444105620,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/uiscrollviews-and-auto-layout",
             "title": "UIScrollViews and auto layout",
             "link": "https://rolandleth.com/tech/blog/uiscrollviews-and-auto-layout",
             "updated": 1443758700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/content-blockers-and-assets",
             "title": "Content blockers and assets",
             "link": "https://rolandleth.com/tech/blog/content-blockers-and-assets",
             "updated": 1443241560,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/dhl-express",
             "title": "DHL Express",
             "link": "https://rolandleth.com/tech/blog/dhl-express",
             "updated": 1442719320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/changing-just-the-font-size-of-a-button",
             "title": "Changing (just) the font size of a button",
             "link": "https://rolandleth.com/tech/blog/changing-just-the-font-size-of-a-button",
             "updated": 1442418300,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/auto-layout-and-transitionwithview",
             "title": "Auto Layout and transitionWithView",
             "link": "https://rolandleth.com/tech/blog/auto-layout-and-transitionwithview",
             "updated": 1441612740,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/diving-into-auto-layout",
             "title": "Diving into Auto Layout",
             "link": "https://rolandleth.com/tech/blog/diving-into-auto-layout",
             "updated": 1441373520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/pattern-matching-in-swift",
             "title": "Pattern matching in Swift",
             "link": "https://rolandleth.com/tech/blog/pattern-matching-in-swift",
             "updated": 1440905580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/content-hugging-and-compression-resistance",
             "title": "Content hugging and compression resistance",
             "link": "https://rolandleth.com/tech/blog/content-hugging-and-compression-resistance",
             "updated": 1440499440,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/subscriber-share-for-streaming-music",
             "title": "Subscriber Share for streaming music",
             "link": "https://rolandleth.com/tech/blog/subscriber-share-for-streaming-music",
             "updated": 1440130980,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/breaking-cocoa",
             "title": "Breaking Cocoa",
             "link": "https://rolandleth.com/tech/blog/breaking-cocoa",
             "updated": 1439798580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-and-enums-2",
             "title": "Swift and enums #2",
             "link": "https://rolandleth.com/tech/blog/swift-and-enums-2",
             "updated": 1438822380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/search-vulnerability",
             "title": "Search vulnerability",
             "link": "https://rolandleth.com/tech/blog/search-vulnerability",
             "updated": 1438753380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ios-good-practices",
             "title": "iOS good practices",
             "link": "https://rolandleth.com/tech/blog/ios-good-practices",
             "updated": 1438496520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-and-enums-1",
             "title": "Swift and enums #1",
             "link": "https://rolandleth.com/tech/blog/swift-and-enums-1",
             "updated": 1438234500,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sass-mixins",
             "title": "SASS' Mixins",
             "link": "https://rolandleth.com/tech/blog/sass-mixins",
             "updated": 1438077960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-search",
             "title": "Improving the search",
             "link": "https://rolandleth.com/tech/blog/improving-the-search",
             "updated": 1437575580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane-and-alfred",
             "title": "Fastlane and Alfred",
             "link": "https://rolandleth.com/tech/blog/fastlane-and-alfred",
             "updated": 1437032040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/textfields-with-inputview",
             "title": "TextFields with inputView",
             "link": "https://rolandleth.com/tech/blog/textfields-with-inputview",
             "updated": 1436938980,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane-deliverfile",
             "title": "Fastlane Deliverfile",
             "link": "https://rolandleth.com/tech/blog/fastlane-deliverfile",
             "updated": 1436870820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane-fastfile-3",
             "title": "Fastlane Fastfile #3",
             "link": "https://rolandleth.com/tech/blog/fastlane-fastfile-3",
             "updated": 1436679900,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-fastlane",
             "title": "Improving Fastlane",
             "link": "https://rolandleth.com/tech/blog/improving-fastlane",
             "updated": 1436591400,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane-fastfile--2",
             "title": "Fastlane Fastfile  #2",
             "link": "https://rolandleth.com/tech/blog/fastlane-fastfile--2",
             "updated": 1436530320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane-fastfile",
             "title": "Fastlane Fastfile",
             "link": "https://rolandleth.com/tech/blog/fastlane-fastfile",
             "updated": 1436367180,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/highlighting-todos-fixmes-errors",
             "title": "Highlighting TODOs, FIXMEs, ERRORs",
             "link": "https://rolandleth.com/tech/blog/highlighting-todos-fixmes-errors",
             "updated": 1436160960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/snippetslab",
             "title": "SnippetsLab",
             "link": "https://rolandleth.com/tech/blog/snippetslab",
             "updated": 1435804140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ep-improving-the-icloud-sync",
             "title": "[EP] Improving the iCloud sync",
             "link": "https://rolandleth.com/tech/blog/ep-improving-the-icloud-sync",
             "updated": 1435130820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/gitsh",
             "title": "Gitsh",
             "link": "https://rolandleth.com/tech/blog/gitsh",
             "updated": 1435042020,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ep-icloud-sync",
             "title": "[EP] iCloud sync",
             "link": "https://rolandleth.com/tech/blog/ep-icloud-sync",
             "updated": 1434804360,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/speaking-of-protocols",
             "title": "Speaking of protocols",
             "link": "https://rolandleth.com/tech/blog/speaking-of-protocols",
             "updated": 1434709260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/oop-is-pop-pop-is-oop",
             "title": "OOP is POP, POP is OOP",
             "link": "https://rolandleth.com/tech/blog/oop-is-pop-pop-is-oop",
             "updated": 1434605280,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ep-migrating-old-data",
             "title": "[EP] Migrating old data",
             "link": "https://rolandleth.com/tech/blog/ep-migrating-old-data",
             "updated": 1434427920,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/rewriting-expenses-planner",
             "title": "Rewriting Expenses Planner",
             "link": "https://rolandleth.com/tech/blog/rewriting-expenses-planner",
             "updated": 1434376200,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/shadow-system-for-unity",
             "title": "Shadow system for Unity",
             "link": "https://rolandleth.com/tech/blog/shadow-system-for-unity",
             "updated": 1434000780,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/27-open-source-libraries-for-ios",
             "title": "27 open source libraries for iOS",
             "link": "https://rolandleth.com/tech/blog/27-open-source-libraries-for-ios",
             "updated": 1433917680,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/xcode-ui-testing",
             "title": "Xcode UI testing",
             "link": "https://rolandleth.com/tech/blog/xcode-ui-testing",
             "updated": 1433848800,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/wwdc-keynote-impressions",
             "title": "WWDC Keynote impressions",
             "link": "https://rolandleth.com/tech/blog/wwdc-keynote-impressions",
             "updated": 1433838420,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/easyanimation",
             "title": "EasyAnimation",
             "link": "https://rolandleth.com/tech/blog/easyanimation",
             "updated": 1433741160,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/reading-time",
             "title": "Reading time",
             "link": "https://rolandleth.com/tech/blog/reading-time",
             "updated": 1433482740,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/broken-site",
             "title": "Broken site",
             "link": "https://rolandleth.com/tech/blog/broken-site",
             "updated": 1433398260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-syntax-coloring",
             "title": "Improving the syntax coloring",
             "link": "https://rolandleth.com/tech/blog/improving-the-syntax-coloring",
             "updated": 1433326500,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/broken-feed",
             "title": "Broken feed",
             "link": "https://rolandleth.com/tech/blog/broken-feed",
             "updated": 1433304360,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-images",
             "title": "Improving the images",
             "link": "https://rolandleth.com/tech/blog/improving-the-images",
             "updated": 1433133060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fixing-the-search-2",
             "title": "Fixing the search #2",
             "link": "https://rolandleth.com/tech/blog/fixing-the-search-2",
             "updated": 1432982520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/gitup",
             "title": "GitUp",
             "link": "https://rolandleth.com/tech/blog/gitup",
             "updated": 1432814880,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/terminal-improvements-for-git",
             "title": "Terminal improvements for git",
             "link": "https://rolandleth.com/tech/blog/terminal-improvements-for-git",
             "updated": 1432283880,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fixing-the-search",
             "title": "Fixing the search",
             "link": "https://rolandleth.com/tech/blog/fixing-the-search",
             "updated": 1432026300,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/print-calling-function",
             "title": "Print calling function",
             "link": "https://rolandleth.com/tech/blog/print-calling-function",
             "updated": 1432005900,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/formatters-",
             "title": "Formatters",
             "link": "https://rolandleth.com/tech/blog/formatters-",
             "updated": 1431955080,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/autoresizing-mask-and-frames",
             "title": "Autoresizing mask and frames",
             "link": "https://rolandleth.com/tech/blog/autoresizing-mask-and-frames",
             "updated": 1431758520,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/finally-fixed-the-timezone",
             "title": "Finally fixed the timezone",
             "link": "https://rolandleth.com/tech/blog/finally-fixed-the-timezone",
             "updated": 1431659460,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-dropbox-sync-2",
             "title": "Improving the Dropbox sync #2",
             "link": "https://rolandleth.com/tech/blog/improving-the-dropbox-sync-2",
             "updated": 1431578220,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-dropbox-sync",
             "title": "Improving the Dropbox sync",
             "link": "https://rolandleth.com/tech/blog/improving-the-dropbox-sync",
             "updated": 1431488700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-inferred-types",
             "title": "Swift inferred types",
             "link": "https://rolandleth.com/tech/blog/swift-inferred-types",
             "updated": 1431326940,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fastlane",
             "title": "Fastlane",
             "link": "https://rolandleth.com/tech/blog/fastlane",
             "updated": 1431085380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/securing-the-dropbox-sync-command",
             "title": "Securing the Dropbox sync command",
             "link": "https://rolandleth.com/tech/blog/securing-the-dropbox-sync-command",
             "updated": 1430876160,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improved-dropbox-sync",
             "title": "Improved Dropbox sync",
             "link": "https://rolandleth.com/tech/blog/improved-dropbox-sync",
             "updated": 1430756820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/long-time",
             "title": "Long Time",
             "link": "https://rolandleth.com/tech/blog/long-time",
             "updated": 1430381580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swift-first-impressions",
             "title": "Swift first impressions",
             "link": "https://rolandleth.com/tech/blog/swift-first-impressions",
             "updated": 1402304220,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/puppet-anthems",
             "title": "Puppet Anthems",
             "link": "https://rolandleth.com/tech/blog/puppet-anthems",
             "updated": 1402249140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/deindeal",
             "title": "DeinDeal",
             "link": "https://rolandleth.com/tech/blog/deindeal",
             "updated": 1401784140,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/lthpasscodeviewcontroller-3-0-0",
             "title": "LTHPasscodeViewController 3.0.0",
             "link": "https://rolandleth.com/tech/blog/lthpasscodeviewcontroller-3-0-0",
             "updated": 1401350040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/free-and-pro-versions",
             "title": "Free and Pro versions",
             "link": "https://rolandleth.com/tech/blog/free-and-pro-versions",
             "updated": 1401192720,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/swiss-airlines-webpage",
             "title": "Swiss Airlines webpage",
             "link": "https://rolandleth.com/tech/blog/swiss-airlines-webpage",
             "updated": 1398763980,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/mm--yyyy-uipickerview",
             "title": "MM / YYYY UIPickerView",
             "link": "https://rolandleth.com/tech/blog/mm--yyyy-uipickerview",
             "updated": 1398597600,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sennheiser-ie-80",
             "title": "Sennheiser IE 80",
             "link": "https://rolandleth.com/tech/blog/sennheiser-ie-80",
             "updated": 1395127920,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/facebooks-paper",
             "title": "Facebook's Paper",
             "link": "https://rolandleth.com/tech/blog/facebooks-paper",
             "updated": 1391441400,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/unsubscribe",
             "title": "Unsubscribe",
             "link": "https://rolandleth.com/tech/blog/unsubscribe",
             "updated": 1389710220,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/app-store-reviews",
             "title": "App Store reviews",
             "link": "https://rolandleth.com/tech/blog/app-store-reviews",
             "updated": 1386156660,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/expenses-planner-updates",
             "title": "Expenses Planner updates",
             "link": "https://rolandleth.com/tech/blog/expenses-planner-updates",
             "updated": 1384267380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/debuggex-com",
             "title": "Debuggex.com",
             "link": "https://rolandleth.com/tech/blog/debuggex-com",
             "updated": 1382040780,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/solved-by-flexbox",
             "title": "Solved by Flexbox",
             "link": "https://rolandleth.com/tech/blog/solved-by-flexbox",
             "updated": 1380267420,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/adding-recurring-events",
             "title": "Adding recurring events",
             "link": "https://rolandleth.com/tech/blog/adding-recurring-events",
             "updated": 1380190260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/going-from-paid-to-free",
             "title": "Going from paid to free",
             "link": "https://rolandleth.com/tech/blog/going-from-paid-to-free",
             "updated": 1380097200,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ios-7-versions-released",
             "title": "iOS 7 versions released",
             "link": "https://rolandleth.com/tech/blog/ios-7-versions-released",
             "updated": 1379966400,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ios-7-style-passcode",
             "title": "iOS 7 style Passcode",
             "link": "https://rolandleth.com/tech/blog/ios-7-style-passcode",
             "updated": 1379515620,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/sneak-peeks-for-upcoming-updates",
             "title": "Sneak Peeks for upcoming updates",
             "link": "https://rolandleth.com/tech/blog/sneak-peeks-for-upcoming-updates",
             "updated": 1379365620,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/improving-the-search-highlighted-terms",
             "title": "Improving the search: highlighted terms",
             "link": "https://rolandleth.com/tech/blog/improving-the-search-highlighted-terms",
             "updated": 1378062000,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/implementing-the-search-field",
             "title": "Implementing the search field",
             "link": "https://rolandleth.com/tech/blog/implementing-the-search-field",
             "updated": 1377465720,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/dropbox-sync-for-the-blog",
             "title": "Dropbox sync for the blog",
             "link": "https://rolandleth.com/tech/blog/dropbox-sync-for-the-blog",
             "updated": 1377439740,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/fetching-posts-from-dropbox",
             "title": "Fetching posts from Dropbox",
             "link": "https://rolandleth.com/tech/blog/fetching-posts-from-dropbox",
             "updated": 1377356820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/incomes-for-expenses-planner",
             "title": "Incomes for Expenses Planner",
             "link": "https://rolandleth.com/tech/blog/incomes-for-expenses-planner",
             "updated": 1377282960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/recurring-events-for-expenses-planner",
             "title": "Recurring events for Expenses Planner",
             "link": "https://rolandleth.com/tech/blog/recurring-events-for-expenses-planner",
             "updated": 1375177680,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ruby-script-to-search-your-xcode-project-for-unused-assets",
             "title": "Ruby script to search your Xcode project for unused assets",
             "link": "https://rolandleth.com/tech/blog/ruby-script-to-search-your-xcode-project-for-unused-assets",
             "updated": 1374168960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/tweaking-file-handling",
             "title": "Tweaking file handling",
             "link": "https://rolandleth.com/tech/blog/tweaking-file-handling",
             "updated": 1374002280,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/expenses-planner-for-ios",
             "title": "Expenses Planner for iOS",
             "link": "https://rolandleth.com/tech/blog/expenses-planner-for-ios",
             "updated": 1373119380,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/stop-thinking-its-too-hard",
             "title": "Stop thinking it's too hard",
             "link": "https://rolandleth.com/tech/blog/stop-thinking-its-too-hard",
             "updated": 1372244460,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/no-room-for-errors",
             "title": "No room for errors",
             "link": "https://rolandleth.com/tech/blog/no-room-for-errors",
             "updated": 1371295080,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/new-relic",
             "title": "New Relic",
             "link": "https://rolandleth.com/tech/blog/new-relic",
             "updated": 1371240840,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/final-version--for-now-",
             "title": "Final version. For now.",
             "link": "https://rolandleth.com/tech/blog/final-version--for-now-",
             "updated": 1371219840,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/new-ios-hig",
             "title": "New iOS HIG",
             "link": "https://rolandleth.com/tech/blog/new-ios-hig",
             "updated": 1370898900,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/optimized-for-idevices",
             "title": "Optimized for iDevices",
             "link": "https://rolandleth.com/tech/blog/optimized-for-idevices",
             "updated": 1370279700,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/new-site-structure--again-",
             "title": "New site structure. Again.",
             "link": "https://rolandleth.com/tech/blog/new-site-structure--again-",
             "updated": 1370093820,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/carminder-1-0-5",
             "title": "Carminder 1.0.5",
             "link": "https://rolandleth.com/tech/blog/carminder-1-0-5",
             "updated": 1370004960,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/live-design-feedback-with-redpen",
             "title": "Live design feedback with RedPen",
             "link": "https://rolandleth.com/tech/blog/live-design-feedback-with-redpen",
             "updated": 1369406340,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/carminder-1-0-4-is-live",
             "title": "Carminder 1.0.4 is live",
             "link": "https://rolandleth.com/tech/blog/carminder-1-0-4-is-live",
             "updated": 1369400580,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/late-spring-cleaning",
             "title": "Late spring cleaning",
             "link": "https://rolandleth.com/tech/blog/late-spring-cleaning",
             "updated": 1369060860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/ikonica",
             "title": "Ikonica",
             "link": "https://rolandleth.com/tech/blog/ikonica",
             "updated": 1368982680,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/thriving-in-an-app-store-world",
             "title": "Thriving in an App Store world",
             "link": "https://rolandleth.com/tech/blog/thriving-in-an-app-store-world",
             "updated": 1366915860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/carminder",
             "title": "Carminder",
             "link": "https://rolandleth.com/tech/blog/carminder",
             "updated": 1366741260,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/iphone-app-showcase",
             "title": "iPhone App showcase",
             "link": "https://rolandleth.com/tech/blog/iphone-app-showcase",
             "updated": 1364833860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/search-kit",
             "title": "Search Kit",
             "link": "https://rolandleth.com/tech/blog/search-kit",
             "updated": 1364290860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/uieffectdesignerview",
             "title": "UIEffectDesignerView",
             "link": "https://rolandleth.com/tech/blog/uieffectdesignerview",
             "updated": 1363335660,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/timepiece-symbol-font",
             "title": "Timepiece Symbol font",
             "link": "https://rolandleth.com/tech/blog/timepiece-symbol-font",
             "updated": 1363032120,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/markdown-to-rtf-in-mail",
             "title": "Markdown to RTF in Mail",
             "link": "https://rolandleth.com/tech/blog/markdown-to-rtf-in-mail",
             "updated": 1362826020,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/cggeometry-and-you",
             "title": "CGGeometry and you",
             "link": "https://rolandleth.com/tech/blog/cggeometry-and-you",
             "updated": 1362333060,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/uialertview-customization",
             "title": "UIAlertView customization",
             "link": "https://rolandleth.com/tech/blog/uialertview-customization",
             "updated": 1362145860,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/drop-the-layout-magic",
             "title": "Drop the Layout Magic",
             "link": "https://rolandleth.com/tech/blog/drop-the-layout-magic",
             "updated": 1362136320,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/slowly-but-surely",
             "title": "Slowly, but surely",
             "link": "https://rolandleth.com/tech/blog/slowly-but-surely",
             "updated": 1361789160,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/restructuring-the-site",
             "title": "Restructuring the site",
             "link": "https://rolandleth.com/tech/blog/restructuring-the-site",
             "updated": 1361783400,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         },
         {
             "id": "https://rolandleth.com/tech/blog/world-hello",
             "title": "[World hello];",
             "link": "https://rolandleth.com/tech/blog/world-hello",
             "updated": 1361687040,
-            "site_url": "https://rolandleth.com"
+            "site_url": "https://rolandleth.com",
+            "slug": "development"
         }
     ]
 }

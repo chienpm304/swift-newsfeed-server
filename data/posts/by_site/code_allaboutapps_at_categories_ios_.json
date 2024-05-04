@@ -6,63 +6,72 @@
             "title": "Xcode Alternative Icons",
             "link": "https://code.allaboutapps.at/articles/xcode-alternative-icons/",
             "updated": 1569208592,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/uikonf2019/",
             "title": "UIKonf 2019",
             "link": "https://code.allaboutapps.at/articles/uikonf2019/",
             "updated": 1562137589,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/ios-coordinator/",
             "title": "iOS Coordinators",
             "link": "https://code.allaboutapps.at/articles/ios-coordinator/",
             "updated": 1557802800,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/reactive-swift-events-order/",
             "title": "Reactive Swift: Progress HUD Extension and Order of Events",
             "link": "https://code.allaboutapps.at/articles/reactive-swift-events-order/",
             "updated": 1553745600,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/cocoaheads/",
             "title": "Cocoaheads @ all about apps",
             "link": "https://code.allaboutapps.at/articles/cocoaheads/",
             "updated": 1551155408,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/emoji-flags/",
             "title": "Emoji Flags",
             "link": "https://code.allaboutapps.at/articles/emoji-flags/",
             "updated": 1548212485,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/smooth-graph-lines/",
             "title": "Drawing Smooth 2D Graphs using UIBezierPath",
             "link": "https://code.allaboutapps.at/articles/smooth-graph-lines/",
             "updated": 1543241547,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/reactive-swift-properties/",
             "title": "Reactive Swift: Access Control for Mutable Properties",
             "link": "https://code.allaboutapps.at/articles/reactive-swift-properties/",
             "updated": 1531803028,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         },
         {
             "id": "https://code.allaboutapps.at/articles/reactive-swift-flatmap/",
             "title": "Reactive Swift: flatMap, flatten and combineLatest",
             "link": "https://code.allaboutapps.at/articles/reactive-swift-flatmap/",
             "updated": 1531803028,
-            "site_url": "https://code.allaboutapps.at/categories/ios/"
+            "site_url": "https://code.allaboutapps.at/categories/ios/",
+            "slug": "companies"
         }
     ]
 }

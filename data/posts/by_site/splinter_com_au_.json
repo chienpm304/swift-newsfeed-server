@@ -6,70 +6,80 @@
             "title": "Neural Networks explained with spreadsheets, 3: Training a single neuron",
             "link": "http://www.splinter.com.au/2024/04/22/neural-networks-3/",
             "updated": 1713718800,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2024/03/20/neural-networks-2/neural-networks-2",
             "title": "Neural Networks explained with spreadsheets, 2: Gradients for a single neuron",
             "link": "http://www.splinter.com.au/2024/03/20/neural-networks-2/",
             "updated": 1710867600,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2024/03/10/neural-networks-1/neural-networks-1",
             "title": "Neural Networks explained with spreadsheets, 1: A single neuron",
             "link": "http://www.splinter.com.au/2024/03/10/neural-networks-1/",
             "updated": 1710003600,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2023/12/15/the-kalman-filter-with-velocity/the-kalman-filter-with-velocity",
             "title": "How to implement a position-and-velocity Kalman Filter",
             "link": "http://www.splinter.com.au/2023/12/15/the-kalman-filter-with-velocity/",
             "updated": 1702573200,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2023/12/14/the-kalman-filter-for-programmers/the-kalman-filter-for-programmers",
             "title": "How to implement a position-only Kalman Filter",
             "link": "http://www.splinter.com.au/2023/12/14/the-kalman-filter-for-programmers/",
             "updated": 1702486800,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2023/08/28/interactive-brokers-tws-api-rust-crypto-ticker/interactive-brokers-tws-api-rust-crypto-ticker",
             "title": "Rust Crypto Ticker using Interactive Brokers' TWS API directly",
             "link": "http://www.splinter.com.au/2023/08/28/interactive-brokers-tws-api-rust-crypto-ticker/",
             "updated": 1693155600,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2022/07/12/rust-png-writer/rust-png-writer",
             "title": "Rust PNG writer from scratch",
             "link": "http://www.splinter.com.au/2022/07/12/rust-png-writer/",
             "updated": 1657558800,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2022/05/01/uiscrollview-storyboard-constraints/uiscrollview-storyboard-constraints",
             "title": "UIScrollView content and frame layout guides: scroll your UIStackView content purely in storyboards (iOS)",
             "link": "http://www.splinter.com.au/2022/05/01/uiscrollview-storyboard-constraints/",
             "updated": 1651338000,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2021/09/21/swift-rsa-elliptic-curve-encryption/swift-rsa-elliptic-curve-encryption",
             "title": "Swift Security framework wrapper for RSA and Elliptic Curve encryption / decryption",
             "link": "http://www.splinter.com.au/2021/09/21/swift-rsa-elliptic-curve-encryption/",
             "updated": 1632157200,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         },
         {
             "id": "http://www.splinter.com.au/2021/07/03/async-await-swift/async-await-swift",
             "title": "Simple, practical async await Swift examples",
             "link": "http://www.splinter.com.au/2021/07/03/async-await-swift/",
             "updated": 1625245200,
-            "site_url": "http://www.splinter.com.au/"
+            "site_url": "http://www.splinter.com.au/",
+            "slug": "development"
         }
     ]
 }

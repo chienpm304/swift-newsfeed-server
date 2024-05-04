@@ -6,70 +6,80 @@
             "title": "Stressing the JVM GC on Android",
             "link": "https://www.amanjeet.me/stressing-the-jvm-gc-on-android/",
             "updated": 1710035395,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "65d9a032e9a7880001925f5a",
             "title": "Discovering iOS memory leaks: A case study with Firefox app II",
             "link": "https://www.amanjeet.me/discovering-ios-memory-leaks-case-study-part-two/",
             "updated": 1708748542,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "65cd13875871420001fc776f",
             "title": "Doing a Radial Swipe in UI test",
             "link": "https://www.amanjeet.me/doing-a-radial-swipe-in-ui-test/",
             "updated": 1708407360,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "655de1a607cc2a00019ea726",
             "title": "Discovering iOS memory leaks: A case study with Firefox app",
             "link": "https://www.amanjeet.me/discovering-ios-memory-leaks-case-study/",
             "updated": 1703513236,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "6463d23d0df165000121754e",
             "title": "My Culinary Journey: Bringing our team together",
             "link": "https://www.amanjeet.me/my-culinary-journey-remote-work/",
             "updated": 1691147514,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "63b80c3207018f003df14d5b",
             "title": "Busting myth for the Role of Platform Team",
             "link": "https://www.amanjeet.me/busting-the-myth-platform-team/",
             "updated": 1683114989,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "61db04eabee0a4003beb482f",
             "title": "Demystifying the ANRs Puzzle",
             "link": "https://www.amanjeet.me/demystifying-the-anrs-puzzle/",
             "updated": 1642762358,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "6160b08a45a396003b3128cb",
             "title": "Stressing memory on Android",
             "link": "https://www.amanjeet.me/stressing-memory-on-android/",
             "updated": 1634302706,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "60f242e2915951003b76eb61",
             "title": "The Three Musketeers of time",
             "link": "https://www.amanjeet.me/three-musketeers-of-time/",
             "updated": 1626618943,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         },
         {
             "id": "60de2ad61b7edc003beef308",
             "title": "Chasing Mobile Performance issues methodically",
             "link": "https://www.amanjeet.me/performance-issues-methodically/",
             "updated": 1625490980,
-            "site_url": "https://www.amanjeet.me"
+            "site_url": "https://www.amanjeet.me",
+            "slug": "development"
         }
     ]
 }

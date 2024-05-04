@@ -6,105 +6,120 @@
             "title": "How I Build Apps (And So Can You)",
             "link": "https://amiantos.net/how-i-build-apps-and-so-can-you/",
             "updated": 1712411134,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=547",
             "title": "Introducing Ealain for Apple TV",
             "link": "https://amiantos.net/introducing-ealain-for-apple-tv/",
             "updated": 1710263646,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=533",
             "title": "Introducing Ealain for Vision Pro",
             "link": "https://amiantos.net/introducing-ealain-for-vision-pro/",
             "updated": 1709301675,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=379",
             "title": "Introducing Aislingeach",
             "link": "https://amiantos.net/introducing-aislingeach/",
             "updated": 1691754311,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=343",
             "title": "Introducing Ealain",
             "link": "https://amiantos.net/introducing-ealain/",
             "updated": 1687178295,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=336",
             "title": "...",
             "link": "https://amiantos.net/336-2/",
             "updated": 1686002460,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=275",
             "title": "The Varying Levels of Getting Started with \u201cUncensored\u201d LLM-Powered Chatbots",
             "link": "https://amiantos.net/the-varying-levels-of-getting-started-with-uncensored-llm-powered-chatbots/",
             "updated": 1684878327,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=272",
             "title": "Postico 2.0 \u2013 macOS PostgreSQL Client",
             "link": "https://amiantos.net/postico-2-0-macos-postgresql-client/",
             "updated": 1678809993,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=207",
             "title": "What I\u2019m Up To \u2013 Week 20, 2022",
             "link": "https://amiantos.net/what-im-up-to-week-20-2022/",
             "updated": 1653219484,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "https://amiantos.net/?p=171",
             "title": "What I\u2019m Up To \u2013 Week 11, 2022",
             "link": "https://amiantos.net/wiut-2022-week-11/",
             "updated": 1647778778,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "http://52.42.42.17/?p=116",
             "title": "What I\u2019m Up To \u2013 Week 49, 2021",
             "link": "https://amiantos.net/wiut-2021-week-49/",
             "updated": 1639270800,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "http://52.42.42.17/?p=102",
             "title": "dotBeat Internet Time",
             "link": "https://amiantos.net/dotbeat-internet-time/",
             "updated": 1639054800,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "http://52.42.42.17/?p=118",
             "title": "What I\u2019m Up To \u2013 Week 48, 2021",
             "link": "https://amiantos.net/wiut-2021-week-48/",
             "updated": 1638666000,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "http://52.42.42.17/?p=119",
             "title": "What I\u2019m Up To \u2013 Week 47, 2021",
             "link": "https://amiantos.net/wiut-2021-week-47/",
             "updated": 1638061200,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         },
         {
             "id": "http://52.42.42.17/?p=57",
             "title": "Making PICO-8 Development Easier",
             "link": "https://amiantos.net/easier-pico-8-development/",
             "updated": 1608166800,
-            "site_url": "https://amiantos.net/tags/programming/"
+            "site_url": "https://amiantos.net/tags/programming/",
+            "slug": "development"
         }
     ]
 }

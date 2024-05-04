@@ -6,70 +6,80 @@
             "title": "A ViewModel driven DiffableDataSource implementation",
             "link": "https://adamwareing241.medium.com/a-viewmodel-driven-diffabledatasource-implementation-0863e0f7a33e?source=rss-6026fb5d4244------2",
             "updated": 1699191955,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/9d26a999476e",
             "title": "How to efficiently migrate Result closures to Combine",
             "link": "https://adamwareing241.medium.com/how-to-efficiently-migrate-result-completion-blocks-to-combine-9d26a999476e?source=rss-6026fb5d4244------2",
             "updated": 1698854516,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d05047753a59",
             "title": "Is this the most simple, effective way to construct a diffable data source?",
             "link": "https://betterprogramming.pub/is-this-the-most-simple-effective-way-to-construct-a-diffable-data-source-d05047753a59?source=rss-6026fb5d4244------2",
             "updated": 1691892798,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/1672495e239f",
             "title": "Exploring Flutter\u2019s communication with native code",
             "link": "https://levelup.gitconnected.com/flutters-communication-flow-with-native-1672495e239f?source=rss-6026fb5d4244------2",
             "updated": 1625688556,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/63bcf42163b8",
             "title": "How To Adjust Views To Fit the Keyboard in iOS",
             "link": "https://betterprogramming.pub/how-to-adjust-views-to-fit-the-keyboard-in-ios-63bcf42163b8?source=rss-6026fb5d4244------2",
             "updated": 1615194911,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/aaeaa76eb910",
             "title": "How to Take UI Debugging to the Next Level With LLDB",
             "link": "https://betterprogramming.pub/how-to-take-ui-debugging-to-the-next-level-with-lldb-aaeaa76eb910?source=rss-6026fb5d4244------2",
             "updated": 1586945053,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/3012fa958545",
             "title": "Implementing Interactive Pop Gesture in iOS",
             "link": "https://levelup.gitconnected.com/implementing-interactive-pop-gesture-in-ios-3012fa958545?source=rss-6026fb5d4244------2",
             "updated": 1586799766,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d9395f7baacc",
             "title": "How to find and remove UIWebView uses in your iOS app",
             "link": "https://levelup.gitconnected.com/how-to-find-and-remove-uiwebview-uses-in-your-ios-app-d9395f7baacc?source=rss-6026fb5d4244------2",
             "updated": 1586093624,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a727be52003a",
             "title": "How To Never Have to Track a UITableView\u2019s IndexPath Ever Again",
             "link": "https://betterprogramming.pub/how-to-never-have-to-track-a-uitableviews-indexpath-ever-again-a727be52003a?source=rss-6026fb5d4244------2",
             "updated": 1576050197,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/55422974eb44",
             "title": "Improving Localizable Strings Using SwiftGen",
             "link": "https://betterprogramming.pub/localized-strings-using-swiftgen-55422974eb44?source=rss-6026fb5d4244------2",
             "updated": 1569264015,
-            "site_url": "https://adamwareing241.medium.com/"
+            "site_url": "https://adamwareing241.medium.com/",
+            "slug": "development"
         }
     ]
 }

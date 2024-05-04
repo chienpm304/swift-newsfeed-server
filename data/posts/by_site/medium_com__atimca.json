@@ -6,42 +6,48 @@
             "title": "The Composable Architecture tutorial",
             "link": "https://medium.com/@atimca/the-composable-architecture-tutorial-d220fd25cab3?source=rss-34717dc164a5------2",
             "updated": 1643768059,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/43e60cc4c0f",
             "title": "What is Reactive Programming?",
             "link": "https://medium.com/atimca/what-is-reactive-programming-43e60cc4c0f?source=rss-34717dc164a5------2",
             "updated": 1618472899,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/2ce50f6fd966",
             "title": "How to cook reactive programming. Part 2: Side effects.",
             "link": "https://medium.com/@atimca/how-to-cook-reactive-programming-part-2-side-effects-2ce50f6fd966?source=rss-34717dc164a5------2",
             "updated": 1599188975,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/2e1d593bfb11",
             "title": "How to cook reactive programming. Part 3: Modularization.",
             "link": "https://medium.com/@atimca/how-to-cook-reactive-programming-part-3-modularization-2e1d593bfb11?source=rss-34717dc164a5------2",
             "updated": 1599187560,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/5c73f3f7793d",
             "title": "How to cook reactive programming. Part 1: Unidirectional architectures introduction.",
             "link": "https://medium.com/@atimca/how-to-cook-reactive-programming-part-1-unidirectional-architectures-introduction-5c73f3f7793d?source=rss-34717dc164a5------2",
             "updated": 1599187365,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/529bd0404270",
             "title": "How to cook reactive programming. Part 4: Testing.",
             "link": "https://medium.com/@atimca/how-to-cook-reactive-programming-part-4-testing-529bd0404270?source=rss-34717dc164a5------2",
             "updated": 1594201351,
-            "site_url": "https://medium.com/@atimca"
+            "site_url": "https://medium.com/@atimca",
+            "slug": "development"
         }
     ]
 }

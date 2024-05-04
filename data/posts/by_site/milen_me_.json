@@ -6,70 +6,80 @@
             "title": "AppKit State Restoration on macOS 14 Sonoma",
             "link": "https://milen.me/writings/appkit-state-restoration-macos-14-sonoma/",
             "updated": 1703005200,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/premature-optimization-universally-misunderstood/",
             "title": "Premature Optimization: Universally Misunderstood",
             "link": "https://milen.me/writings/premature-optimization-universally-misunderstood/",
             "updated": 1693155600,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/exploring-windows-xp-on-macos-arm64/",
             "title": "Exploring Windows XP on macOS ARM64",
             "link": "https://milen.me/writings/exploring-windows-xp-on-macos-arm64/",
             "updated": 1692723600,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/appkit-vs-swiftui-stable-vs-shiny/",
             "title": "AppKit vs SwiftUI: Stable vs Shiny",
             "link": "https://milen.me/writings/appkit-vs-swiftui-stable-vs-shiny/",
             "updated": 1691600400,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/milen-me-v2-faster-simpler/",
             "title": "milen.me v2: Simpler, Faster",
             "link": "https://milen.me/writings/milen-me-v2-faster-simpler/",
             "updated": 1683133200,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/performance-faster-or-fast/",
             "title": "Performance: Faster or Fast?",
             "link": "https://milen.me/writings/performance-faster-or-fast/",
             "updated": 1680886800,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/macos-network-metrics-sysctl-net-rt-iflist2/",
             "title": "macOS Network Metrics Using sysctl()",
             "link": "https://milen.me/writings/macos-network-metrics-sysctl-net-rt-iflist2/",
             "updated": 1677949200,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/auto-linking-on-ios-and-macos/",
             "title": "Auto Linking on iOS & macOS",
             "link": "https://milen.me/writings/auto-linking-on-ios-and-macos/",
             "updated": 1599152400,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/distributed-caching-and-compilation/",
             "title": "Distributed Caching & Compilation",
             "link": "https://milen.me/writings/distributed-caching-and-compilation/",
             "updated": 1591462800,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         },
         {
             "id": "https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/",
             "title": "Apple's Linker & Deterministic Builds",
             "link": "https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/",
             "updated": 1588438800,
-            "site_url": "https://milen.me/"
+            "site_url": "https://milen.me/",
+            "slug": "development"
         }
     ]
 }

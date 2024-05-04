@@ -6,70 +6,80 @@
             "title": "Time Out 2.9.7 released",
             "link": "https://dejal.com/blog/time-out-2-9-7-released/",
             "updated": 1710396339,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=303",
             "title": "Time Out 2.9.6 released",
             "link": "https://dejal.com/blog/time-out-2-9-6-released/",
             "updated": 1710245746,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=301",
             "title": "Time Out 2.9.5 released",
             "link": "https://dejal.com/blog/time-out-2-9-5-released/",
             "updated": 1709971872,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=299",
             "title": "Time Out 2.9.4 released",
             "link": "https://dejal.com/blog/time-out-2-9-4-released/",
             "updated": 1709797134,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=297",
             "title": "DejalNews #85: Time Out and Simon in BundleHunt, Time Out is 20, Mac is 40, and Time Out tips",
             "link": "https://dejal.com/blog/dejalnews-85-time-out-and-simon-in-bundlehunt-time-out-is-20-mac-is-40-and-time-out-tips/",
             "updated": 1707123307,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=293",
             "title": "Happy 40th Anniversary, Mac!",
             "link": "https://dejal.com/blog/happy-40th-anniversary-mac/",
             "updated": 1706118802,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=287",
             "title": "How can I send an email or text message when a break is due or done?",
             "link": "https://dejal.com/blog/how-can-i-send-an-email-or-text-message-when-a-break-is-due-or-done/",
             "updated": 1705949486,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=279",
             "title": "Sinclair Trails 2023 theme for Time Out",
             "link": "https://dejal.com/blog/sinclair-trails-2023-theme/",
             "updated": 1704716290,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=277",
             "title": "Dejal year in review: 2023",
             "link": "https://dejal.com/blog/dejal-year-in-review-2023/",
             "updated": 1704092400,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         },
         {
             "id": "https://dejal.com/blog/?p=275",
             "title": "Time Out is 20 years old",
             "link": "https://dejal.com/blog/time-out-is-20-years-old/",
             "updated": 1701761356,
-            "site_url": "http://dejal.com/blog/"
+            "site_url": "http://dejal.com/blog/",
+            "slug": "development"
         }
     ]
 }

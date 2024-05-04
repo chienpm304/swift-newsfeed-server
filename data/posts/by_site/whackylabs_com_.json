@@ -6,602 +6,688 @@
             "title": "UIScrollView and Autolayout",
             "link": "https://whackylabs.com/ios/uikit/layout/2024/04/28/scrollview-and-autolayout/",
             "updated": 1714274640,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/js/2024/03/06/lets-build-a-calculator",
             "title": "Let's build a calculator",
             "link": "https://whackylabs.com/js/2024/03/06/lets-build-a-calculator/",
             "updated": 1709734860,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/maui/ios/android/2024/01/23/hello-maui",
             "title": "Hello MAUI",
             "link": "https://whackylabs.com/maui/ios/android/2024/01/23/hello-maui/",
             "updated": 1706027400,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/reactnative/ios/android/js/2024/01/15/hello-react-native-one-more-time",
             "title": "Hello React Native one more time",
             "link": "https://whackylabs.com/reactnative/ios/android/js/2024/01/15/hello-react-native-one-more-time/",
             "updated": 1705327140,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/uikit/layout/2023/09/25/autoresizing-mask",
             "title": "Grandpa's guide to autoresizingMask for modern UIKit developers",
             "link": "https://whackylabs.com/swift/uikit/layout/2023/09/25/autoresizing-mask/",
             "updated": 1695644340,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/uikit/architecture/2023/08/03/flic-uikit",
             "title": "FLIC - The holy grail of all GUI architectures",
             "link": "https://whackylabs.com/swift/uikit/architecture/2023/08/03/flic-uikit/",
             "updated": 1691070600,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/uikit/layout/vfl/2023/07/22/autolayout-align",
             "title": "Autolayout and aligning subviews",
             "link": "https://whackylabs.com/swift/uikit/layout/vfl/2023/07/22/autolayout-align/",
             "updated": 1690008900,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/uikit/layout/2023/07/01/introducing-vfl",
             "title": "Introducing VFL",
             "link": "https://whackylabs.com/swift/uikit/layout/2023/07/01/introducing-vfl/",
             "updated": 1688203800,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/ios/fonts/2023/05/15/download-fonts-ios",
             "title": "Downloading system fonts on Apple platforms",
             "link": "https://whackylabs.com/ios/fonts/2023/05/15/download-fonts-ios/",
             "updated": 1684155480,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/algorithm/2023/01/27/enum-array",
             "title": "Inventing EnumArray",
             "link": "https://whackylabs.com/swift/algorithm/2023/01/27/enum-array/",
             "updated": 1674822600,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/architecture/combine/swift/ios/2022/12/27/minimal-state-binding",
             "title": "A minimal implementation of State and Binding with Swift",
             "link": "https://whackylabs.com/architecture/combine/swift/ios/2022/12/27/minimal-state-binding/",
             "updated": 1672146600,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/architecture/combine/swift/ios/2022/12/24/adapters-in-swift",
             "title": "Adapters in Swift",
             "link": "https://whackylabs.com/architecture/combine/swift/ios/2022/12/24/adapters-in-swift/",
             "updated": 1671862200,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/uikit/swift/ios/animation/2022/12/14/viewcontroller-transition",
             "title": "Simple UIViewController Transitions",
             "link": "https://whackylabs.com/uikit/swift/ios/animation/2022/12/14/viewcontroller-transition/",
             "updated": 1671008400,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/layout/ui/swift/ios/2022/12/12/layout-driven-ui",
             "title": "Data-Driven UI with UIKit",
             "link": "https://whackylabs.com/layout/ui/swift/ios/2022/12/12/layout-driven-ui/",
             "updated": 1670850360,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/async/await/concurrency/2022/12/06/async-await-vs-closures",
             "title": "Swift async-await vs closures",
             "link": "https://whackylabs.com/swift/async/await/concurrency/2022/12/06/async-await-vs-closures/",
             "updated": 1670292540,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/layout/2022/11/27/intro-simple-layout-engine",
             "title": "Introducing Simple Layout Engine",
             "link": "https://whackylabs.com/swift/layout/2022/11/27/intro-simple-layout-engine/",
             "updated": 1669539600,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swiftui/ios/2022/11/26/swiftui-custom-layout-with-simple-layout-engine",
             "title": "SwiftUI custom layout with Simple Layout Engine",
             "link": "https://whackylabs.com/swiftui/ios/2022/11/26/swiftui-custom-layout-with-simple-layout-engine/",
             "updated": 1669441140,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/concurrency/2022/05/16/using-unfairlock-with-swift",
             "title": "Using UnfairLock with Swift",
             "link": "https://whackylabs.com/swift/concurrency/2022/05/16/using-unfairlock-with-swift/",
             "updated": 1652680800,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/metal/2021/05/16/metal-scroll-view",
             "title": "Mixing Metal with UIScrollView",
             "link": "https://whackylabs.com/metal/2021/05/16/metal-scroll-view/",
             "updated": 1621144800,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/cpp/languages/2021/01/03/cpp-for-swift-devs",
             "title": "C++ for Swift developers",
             "link": "https://whackylabs.com/swift/cpp/languages/2021/01/03/cpp-for-swift-devs/",
             "updated": 1609655400,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/ui/2020/09/15/simple-manual-layout",
             "title": "Building UI without AutoLayout",
             "link": "https://whackylabs.com/objc/ui/2020/09/15/simple-manual-layout/",
             "updated": 1600124400,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/2020/08/24/mrr-objc",
             "title": "Understanding Manual Retain Release in Objective-C",
             "link": "https://whackylabs.com/objc/2020/08/24/mrr-objc/",
             "updated": 1598220000,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/metal/2020/04/30/multiple-objects-single-frame-metal",
             "title": "Multiple objects in single frame with Metal",
             "link": "https://whackylabs.com/metal/2020/04/30/multiple-objects-single-frame-metal/",
             "updated": 1588245654,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/2020/03/12/objc-properties",
             "title": "Objective-C Properties Problems",
             "link": "https://whackylabs.com/objc/2020/03/12/objc-properties/",
             "updated": 1584021600,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/design-pattern/2020/03/09/objc-builder-pattern",
             "title": "Objective-C Subclass Factory Pattern",
             "link": "https://whackylabs.com/objc/design-pattern/2020/03/09/objc-builder-pattern/",
             "updated": 1583764254,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/swift/2020/02/23/objc-safe-downcasting",
             "title": "Objective-C safe downcasting",
             "link": "https://whackylabs.com/objc/swift/2020/02/23/objc-safe-downcasting/",
             "updated": 1582436040,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/architecture/2020/02/21/rx-objc",
             "title": "Rx with Objective-C using NSInvocation",
             "link": "https://whackylabs.com/objc/architecture/2020/02/21/rx-objc/",
             "updated": 1582279200,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/architecture/2020/02/16/associated-enum-objc",
             "title": "Implementing enum with associated values in Objective-C",
             "link": "https://whackylabs.com/objc/architecture/2020/02/16/associated-enum-objc/",
             "updated": 1581830040,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/programming/generic/2020/02/10/meta-programming-in-2020",
             "title": "State of Meta Programming in 2020",
             "link": "https://whackylabs.com/programming/generic/2020/02/10/meta-programming-in-2020/",
             "updated": 1581344934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/architecture/2020/02/06/objc-parsing",
             "title": "Objective-C and parsing the unknown",
             "link": "https://whackylabs.com/objc/architecture/2020/02/06/objc-parsing/",
             "updated": 1580999334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/architecture/2020/01/02/callback-with-nsinvocation",
             "title": "Implementing callback with NSInvocation",
             "link": "https://whackylabs.com/objc/architecture/2020/01/02/callback-with-nsinvocation/",
             "updated": 1577975334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/objc/mrr/arc/2019/12/27/manual-memory-objc",
             "title": "Lost art of manual memory management",
             "link": "https://whackylabs.com/objc/mrr/arc/2019/12/27/manual-memory-objc/",
             "updated": 1577448960,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/design-patterns/2019/12/13/swift-type-erasure",
             "title": "Step by step guide towards type erasures in Swift",
             "link": "https://whackylabs.com/swift/design-patterns/2019/12/13/swift-type-erasure/",
             "updated": 1576203300,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/cpp/2019/11/28/swift-vs-c-mutability",
             "title": "Immutability - Swift vs C++",
             "link": "https://whackylabs.com/swift/cpp/2019/11/28/swift-vs-c-mutability/",
             "updated": 1574935920,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/ios/libdispatch/2019/11/18/concurrent-read-writes-with-libdispatch",
             "title": "Concurrent read writes with libdispatch",
             "link": "https://whackylabs.com/ios/libdispatch/2019/11/18/concurrent-read-writes-with-libdispatch/",
             "updated": 1574074808,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/architecture/ios/2019/10/25/policy-based-design-in-swift",
             "title": "Policy based design in Swift",
             "link": "https://whackylabs.com/architecture/ios/2019/10/25/policy-based-design-in-swift/",
             "updated": 1571966779,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/architecture/ios/2019/10/22/service-locator-gameplaykit",
             "title": "Service Locator pattern with GameplayKit",
             "link": "https://whackylabs.com/architecture/ios/2019/10/22/service-locator-gameplaykit/",
             "updated": 1571757480,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/x-platform/cpp/2019/06/01/cpp-x-platform",
             "title": "Hello Boden the x-platform framework",
             "link": "https://whackylabs.com/x-platform/cpp/2019/06/01/cpp-x-platform/",
             "updated": 1559362740,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/metal/cpp/2019/01/19/metal-types",
             "title": "Types sharing between Metal and App",
             "link": "https://whackylabs.com/metal/cpp/2019/01/19/metal-types/",
             "updated": 1547905380,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/metal/2019/01/19/hello-metal",
             "title": "Hello Metal one more time",
             "link": "https://whackylabs.com/metal/2019/01/19/hello-metal/",
             "updated": 1547897160,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/flutter/app/cross-platform/2018/12/14/hello-flutter",
             "title": "Hello Flutter",
             "link": "https://whackylabs.com/flutter/app/cross-platform/2018/12/14/hello-flutter/",
             "updated": 1544795394,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/djinni/cpp/ios/android/2018/11/23/cross-platform-cpp",
             "title": "Cross platform mobile development with Djinni",
             "link": "https://whackylabs.com/djinni/cpp/ios/android/2018/11/23/cross-platform-cpp/",
             "updated": 1542988440,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/ios/2018/11/09/hello-component-kit",
             "title": "Experimenting with ComponentKit",
             "link": "https://whackylabs.com/ios/2018/11/09/hello-component-kit/",
             "updated": 1541762280,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/raytracing/graphics/pbr/2018/02/04/raytracing-libdispatch",
             "title": "Raytracing with libdispatch",
             "link": "https://whackylabs.com/concurrency/raytracing/graphics/pbr/2018/02/04/raytracing-libdispatch/",
             "updated": 1517722500,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/macos/xcode/rant/2018/01/06/macos-command-line-app",
             "title": "Building command line tool without leaving Xcode",
             "link": "https://whackylabs.com/macos/xcode/rant/2018/01/06/macos-command-line-app/",
             "updated": 1515211140,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/pbr/graphics/2017/12/30/writing-first-ray-tracer",
             "title": "Writing first ray tracer",
             "link": "https://whackylabs.com/pbr/graphics/2017/12/30/writing-first-ray-tracer/",
             "updated": 1514606520,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/programming/generic/2015/06/27/generic-programming-the-concept",
             "title": "Generic Programming: The Concept",
             "link": "https://whackylabs.com/programming/generic/2015/06/27/generic-programming-the-concept/",
             "updated": 1435402734,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/programming/generic/2015/06/20/changing-the-gears-to-generic-programming",
             "title": "Changing the gears to Generic Programming",
             "link": "https://whackylabs.com/programming/generic/2015/06/20/changing-the-gears-to-generic-programming/",
             "updated": 1434754974,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/uikit/ios/2015/05/16/subclassing-uilabel-in-2015",
             "title": "Subclassing UILabel in 2015",
             "link": "https://whackylabs.com/uikit/ios/2015/05/16/subclassing-uilabel-in-2015/",
             "updated": 1431732234,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/swift/2015/01/20/curious-case-of-generics-specialization-with-swift",
             "title": "Curious case of Generics Specialization with Swift",
             "link": "https://whackylabs.com/swift/2015/01/20/curious-case-of-generics-specialization-with-swift/",
             "updated": 1421709894,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/11/01/concurrency-atomics",
             "title": "Concurrency: Atomics",
             "link": "https://whackylabs.com/concurrency/2014/11/01/concurrency-atomics/",
             "updated": 1414796334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/uikit/ios/2014/10/29/add-some-perspective-to-your-uiviews",
             "title": "Add Some Perspective to Your UIViews",
             "link": "https://whackylabs.com/uikit/ios/2014/10/29/add-some-perspective-to-your-uiviews/",
             "updated": 1414586940,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/10/27/concurrency-deadlocks",
             "title": "Concurrency: Deadlocks",
             "link": "https://whackylabs.com/concurrency/2014/10/27/concurrency-deadlocks/",
             "updated": 1414344294,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/10/20/concurrency-introducing-inter-thread-communication",
             "title": "Concurrency: Introducing Inter-Thread Communication",
             "link": "https://whackylabs.com/concurrency/2014/10/20/concurrency-introducing-inter-thread-communication/",
             "updated": 1413755580,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/10/12/concurrency-thread-safe-singletons",
             "title": "Concurrency: Thread-safe Singletons",
             "link": "https://whackylabs.com/concurrency/2014/10/12/concurrency-thread-safe-singletons/",
             "updated": 1413113520,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/10/05/concurrency-working-with-shared-data-using-threads",
             "title": "Concurrency: Working with shared data using threads",
             "link": "https://whackylabs.com/concurrency/2014/10/05/concurrency-working-with-shared-data-using-threads/",
             "updated": 1412445720,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/09/27/concurrency-working-with-shared-data-using-queues",
             "title": "Concurrency: Working with shared data using queues",
             "link": "https://whackylabs.com/concurrency/2014/09/27/concurrency-working-with-shared-data-using-queues/",
             "updated": 1411815534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/09/23/component-system",
             "title": "Component System using C++ Multiple Inheritance",
             "link": "https://whackylabs.com/concurrency/2014/09/23/component-system/",
             "updated": 1411469934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/09/21/concurrency-spawning-independent-tasks",
             "title": "Concurrency: Spawning Independent Tasks",
             "link": "https://whackylabs.com/concurrency/2014/09/21/concurrency-spawning-independent-tasks/",
             "updated": 1411253640,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/09/14/concurrency-getting-started",
             "title": "Concurrency: Getting started",
             "link": "https://whackylabs.com/concurrency/2014/09/14/concurrency-getting-started/",
             "updated": 1410692334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/09/07/the-art-of-design-softwares",
             "title": "The Art of Designing Softwares",
             "link": "https://whackylabs.com/concurrency/2014/09/07/the-art-of-design-softwares/",
             "updated": 1410087534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/08/05/component-system-objc",
             "title": "Component System using Objective-C Message Forwarding",
             "link": "https://whackylabs.com/concurrency/2014/08/05/component-system-objc/",
             "updated": 1407236334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/cpp/2014/08/03/typesafe-programming",
             "title": "C++: Typesafe programming",
             "link": "https://whackylabs.com/cpp/2014/08/03/typesafe-programming/",
             "updated": 1407063534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/concurrency/2014/06/24/cocos2d-swift",
             "title": "Getting started Cocos2d with Swift",
             "link": "https://whackylabs.com/concurrency/2014/06/24/cocos2d-swift/",
             "updated": 1403607534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/2014/02/23/object-picking",
             "title": "Experiment 14: Object Picking",
             "link": "https://whackylabs.com/opengl/2014/02/23/object-picking/",
             "updated": 1393153134,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/2014/02/02/shadow-mapping",
             "title": "Experiment 13: Shadow mapping",
             "link": "https://whackylabs.com/opengl/2014/02/02/shadow-mapping/",
             "updated": 1391338734,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/2013/10/28/ludo-for-ios",
             "title": "Ludo for iOS",
             "link": "https://whackylabs.com/gamedev/2013/10/28/ludo-for-ios/",
             "updated": 1382957934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/ios/2013/09/13/freetype-in-ios",
             "title": "Embedding Freetype for iOS projects",
             "link": "https://whackylabs.com/gamedev/ios/2013/09/13/freetype-in-ios/",
             "updated": 1379069934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/ios/2013/09/07/objloader",
             "title": "Experiment 4: OBJLoader",
             "link": "https://whackylabs.com/gamedev/ios/2013/09/07/objloader/",
             "updated": 1378551534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/09/03/reflection",
             "title": "Experiment 3: Reflection",
             "link": "https://whackylabs.com/opengl/ios/2013/09/03/reflection/",
             "updated": 1378205934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/09/01/rotating-cube",
             "title": "Experiment 2: A rotating cube",
             "link": "https://whackylabs.com/opengl/ios/2013/09/01/rotating-cube/",
             "updated": 1378033134,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/09/01/experiments",
             "title": "Experiments With OpenGL ES",
             "link": "https://whackylabs.com/opengl/ios/2013/09/01/experiments/",
             "updated": 1378033134,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/08/23/opengles-basics",
             "title": "Experiments with OpenGLES: 01 The Basics",
             "link": "https://whackylabs.com/opengl/ios/2013/08/23/opengles-basics/",
             "updated": 1377255534,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/07/02/texture-coords",
             "title": "OpenGL Texture Coordinates",
             "link": "https://whackylabs.com/opengl/ios/2013/07/02/texture-coords/",
             "updated": 1372762734,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/ios/2013/03/24/diffuse-lights",
             "title": "opengl-series: Changes with 06_diffuse_lighting",
             "link": "https://whackylabs.com/opengl/ios/2013/03/24/diffuse-lights/",
             "updated": 1364122734,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/ios/2013/03/17/opengl-series-migration",
             "title": "opengl-series iOS migration notes",
             "link": "https://whackylabs.com/gamedev/ios/2013/03/17/opengl-series-migration/",
             "updated": 1363517934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/design-patterns/2012/05/31/multiple-inheritance-in-objc-via-message-forwarding",
             "title": "Multiple inheritance in ObjC via Message Forwarding",
             "link": "https://whackylabs.com/design-patterns/2012/05/31/multiple-inheritance-in-objc-via-message-forwarding/",
             "updated": 1338461934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/tip/rant/2012/05/27/creating-ios-simulator-screencasts",
             "title": "Creating iOS Simulator Screencasts",
             "link": "https://whackylabs.com/tip/rant/2012/05/27/creating-ios-simulator-screencasts/",
             "updated": 1338116334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/2012/05/23/Converting-texture-coordinates-from-iOS-to-OpenGL-coordinate-system",
             "title": "Converting texture coordinates from iOS to OpenGL coordinate system",
             "link": "https://whackylabs.com/opengl/2012/05/23/Converting-texture-coordinates-from-iOS-to-OpenGL-coordinate-system/",
             "updated": 1337770734,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/2012/05/22/the-penguin-school-development-story",
             "title": "The Penguin School Development Story",
             "link": "https://whackylabs.com/gamedev/2012/05/22/the-penguin-school-development-story/",
             "updated": 1337684334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/gamedev/2012/03/02/17-days-game-jam",
             "title": "17 Days Game Jam!",
             "link": "https://whackylabs.com/gamedev/2012/03/02/17-days-game-jam/",
             "updated": 1330685934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/design-patterns/2012/02/11/singleton-vs-class-methods-objc",
             "title": "Singleton vs Class Methods: ObjC",
             "link": "https://whackylabs.com/design-patterns/2012/02/11/singleton-vs-class-methods-objc/",
             "updated": 1328957934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/rant/2012/01/02/resolution-2012",
             "title": "Resolution 2012",
             "link": "https://whackylabs.com/rant/2012/01/02/resolution-2012/",
             "updated": 1325501934,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/opengl/rant/2011/12/29/10-things-nobody-tells-the-OpenGL-noob",
             "title": "10 Things nobody tells the OpenGL noob",
             "link": "https://whackylabs.com/opengl/rant/2011/12/29/10-things-nobody-tells-the-OpenGL-noob/",
             "updated": 1325156334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/rant/language/2011/12/24/what-language-should-i-speak-to-my-computer",
             "title": "What language should I speak to my computer?",
             "link": "https://whackylabs.com/rant/language/2011/12/24/what-language-should-i-speak-to-my-computer/",
             "updated": 1324724334,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         },
         {
             "id": "https://whackylabs.com/logging/ios/2011/01/19/ios-moving-in-and-out-of-nslogs",
             "title": "iOS: Moving in and out of NSLogs",
             "link": "https://whackylabs.com/logging/ios/2011/01/19/ios-moving-in-and-out-of-nslogs/",
             "updated": 1295451900,
-            "site_url": "https://whackylabs.com/"
+            "site_url": "https://whackylabs.com/",
+            "slug": "development"
         }
     ]
 }

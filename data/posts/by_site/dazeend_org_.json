@@ -6,105 +6,120 @@
             "title": "Configuring a CentOS 8 LAMP Stack at Linode",
             "link": "https://dazeend.org/2020/02/centos-8-lamp-stack-at-linode/",
             "updated": 1580903860,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=2218",
             "title": "My Pet Pig",
             "link": "https://dazeend.org/2019/07/my-pet-pig/",
             "updated": 1562936755,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1551",
             "title": "Building RelaNet: Email Marketing",
             "link": "https://dazeend.org/2017/06/building-relanet-email-marketing/",
             "updated": 1497528426,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1534",
             "title": "Building RelaNet",
             "link": "https://dazeend.org/2017/05/building-relanet/",
             "updated": 1496128511,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1506",
             "title": "Segregating IoT Devices on an Isolated Network",
             "link": "https://dazeend.org/2017/03/segregating-iot-devices-on-an-isolated-network/",
             "updated": 1489396314,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1494",
             "title": "Whole Home VPN with an Asus Router",
             "link": "https://dazeend.org/2017/03/whole-home-vpn-with-an-asus-router/",
             "updated": 1489243829,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1357",
             "title": "Paint-by-Number Web Servers on Linode",
             "link": "https://dazeend.org/2017/01/paint-by-number-web-servers-on-linode/",
             "updated": 1484296723,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1345",
             "title": "UIKonf!",
             "link": "https://dazeend.org/2016/05/uikonf/",
             "updated": 1463972308,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1323",
             "title": "I Left My Wallet in San Francisco",
             "link": "https://dazeend.org/2016/04/i-left-my-wallet-in-san-francisco/",
             "updated": 1461056446,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1259",
             "title": "DazeEnd.org Microblog",
             "link": "https://dazeend.org/2016/02/dazeend-org-microblog/",
             "updated": 1454782928,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "https://dazeend.org/?p=1176",
             "title": "Serious Business",
             "link": "https://dazeend.org/2016/01/serious-business/",
             "updated": 1452585497,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "http://metakite.com/?p=1007",
             "title": "The Prisoner\u2019s Dilemma",
             "link": "https://dazeend.org/2015/11/the-prisoners-dilemma/",
             "updated": 1447408033,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "http://metakite.com/?p=1004",
             "title": "Premium Pricing and Back Seat Driving",
             "link": "https://dazeend.org/2015/10/premium-pricing-and-back-seat-driving/",
             "updated": 1445933248,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "http://metakite.com/?p=976",
             "title": "My Delivery Truck (2nd Delivery Attempt)",
             "link": "https://dazeend.org/2015/07/my-delivery-truck-2nd-delivery-attempt/",
             "updated": 1436432326,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         },
         {
             "id": "http://metakite.com/?p=974",
             "title": "My Delivery Truck",
             "link": "https://dazeend.org/2015/07/my-delivery-truck/",
             "updated": 1435822096,
-            "site_url": "https://dazeend.org/"
+            "site_url": "https://dazeend.org/",
+            "slug": "development"
         }
     ]
 }

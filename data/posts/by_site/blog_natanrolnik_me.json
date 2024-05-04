@@ -6,70 +6,80 @@
             "title": "Launching SwiftToolkit.dev",
             "link": "https://blog.natanrolnik.me/swift-toolkit-launch",
             "updated": 1711677600,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/Swift-Lambda-Build-Badges",
             "title": "Using Swift in AWS Lambda to Display CI Build Badges",
             "link": "https://blog.natanrolnik.me/swift-lambda-build-badges",
             "updated": 1611021600,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/RW-SSS-Debut",
             "title": "My first tutorial at RayWenderlich.com: \u201cSMS user authentication with Vapor and AWS\u201d",
             "link": "https://blog.natanrolnik.me/RW-SSS-Debut",
             "updated": 1579485600,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/FindingRedundantElse",
             "title": "Finding Usages of Redundant Else",
             "link": "https://blog.natanrolnik.me/finding-redundant-else",
             "updated": 1576720800,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/CodableEnumsWithAssociatedValues",
             "title": "Using Codable to make enums with associated values even more powerful",
             "link": "https://blog.natanrolnik.me/codable-enums-associated-values",
             "updated": 1557885600,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/ProtocolsWithObjcFunctions",
             "title": "Protocols Default Implementations with UIControl.Event handling",
             "link": "https://blog.natanrolnik.me/protocols-default-impl-control-handling",
             "updated": 1554084000,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/DispatchWorkItem",
             "title": "Using DispatchWorkItem to delay (and cancel) tasks",
             "link": "https://blog.natanrolnik.me/dispatch-work-item",
             "updated": 1550124600,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/wwdc-16-past-and-future",
             "title": "WWDC 16 - Past and Future",
             "link": "https://blog.natanrolnik.me/wwdc16-past-and-future",
             "updated": 1465104938,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/migrating-my-data-from-parse",
             "title": "Migrating My Data From Parse",
             "link": "https://blog.natanrolnik.me/migrating-my-parse-data",
             "updated": 1459380865,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         },
         {
             "id": "https://blog.natanrolnik.me/thoughts-on-the-parse-shutdown-how-the-terrible-news-became-the-best-thing-to-happen-to-my-app",
             "title": "Thoughts on the Parse shutdown - how the terrible news became the best thing to happen to my app (and my career)",
             "link": "https://blog.natanrolnik.me/parse-shutdown",
             "updated": 1454244681,
-            "site_url": "https://blog.natanrolnik.me"
+            "site_url": "https://blog.natanrolnik.me",
+            "slug": "development"
         }
     ]
 }

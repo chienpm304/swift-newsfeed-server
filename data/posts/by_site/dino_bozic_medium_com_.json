@@ -6,14 +6,16 @@
             "title": "High-end transitioning in iOS",
             "link": "https://medium.com/azikus/high-end-transitioning-in-ios-ec4e9a383c4f?source=rss-e26c12d2644------2",
             "updated": 1646033992,
-            "site_url": "https://dino-bozic.medium.com/"
+            "site_url": "https://dino-bozic.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f6b9b26aec9d",
             "title": "DevOps in iOS",
             "link": "https://medium.com/azikus/devops-in-ios-f6b9b26aec9d?source=rss-e26c12d2644------2",
             "updated": 1613731657,
-            "site_url": "https://dino-bozic.medium.com/"
+            "site_url": "https://dino-bozic.medium.com/",
+            "slug": "development"
         }
     ]
 }

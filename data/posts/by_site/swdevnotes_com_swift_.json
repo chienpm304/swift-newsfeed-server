@@ -6,630 +6,720 @@
             "title": "How to create a binary tree using an array in Swift - part 2",
             "link": "https://swdevnotes.com/swift/2024/how-to-create-a-binary-tree-using-an-array-in-swift-part-2/",
             "updated": 1710003600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2024/how-to-create-a-binary-tree-using-an-array-in-swift-part-1/",
             "title": "How to create a binary tree using an array in Swift - part 1",
             "link": "https://swdevnotes.com/swift/2024/how-to-create-a-binary-tree-using-an-array-in-swift-part-1/",
             "updated": 1708189200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2024/scroll-transition-effects-in-ios-17/",
             "title": "Scroll transition effects in iOS 17",
             "link": "https://swdevnotes.com/swift/2024/scroll-transition-effects-in-ios-17/",
             "updated": 1706374800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/conways-game-of-life-with-swiftui/",
             "title": "Conway's Game of life with SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/conways-game-of-life-with-swiftui/",
             "updated": 1703610000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/create-a-pie-or-donut-chart-with-swiftui-charts-in-ios-17/",
             "title": "Create a Pie or Donut chart with SwiftUI Charts in iOS 17",
             "link": "https://swdevnotes.com/swift/2023/create-a-pie-or-donut-chart-with-swiftui-charts-in-ios-17/",
             "updated": 1697907600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/animate-background-with-color-gradient-in-swiftui/",
             "title": "Animate background with color gradient in SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/animate-background-with-color-gradient-in-swiftui/",
             "updated": 1690650000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/radialgradient-in-swiftui/",
             "title": "RadialGradient in SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/radialgradient-in-swiftui/",
             "updated": 1688835600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/angulargradient-in-swiftui/",
             "title": "AngularGradient in SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/angulargradient-in-swiftui/",
             "updated": 1687021200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/lineargradient-in-swiftui/",
             "title": "LinearGradient in SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/lineargradient-in-swiftui/",
             "updated": 1685206800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/create-a-color-pencil-in-swiftui/",
             "title": "Create a color pencil in SwiftUI",
             "link": "https://swdevnotes.com/swift/2023/create-a-color-pencil-in-swiftui/",
             "updated": 1683997200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/convert-color-from-rgb-to-hsb-in-swift/",
             "title": "Convert color from RGB to HSB in Swift",
             "link": "https://swdevnotes.com/swift/2023/convert-color-from-rgb-to-hsb-in-swift/",
             "updated": 1682787600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/create-a-circular-slider-in-swiftui-with-chatgpt/",
             "title": "Create a circular slider in SwiftUI with ChatGPT",
             "link": "https://swdevnotes.com/swift/2023/create-a-circular-slider-in-swiftui-with-chatgpt/",
             "updated": 1681578000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/can-chatgpt-create-an-ios-app-in-swiftui-part-2/",
             "title": "Can ChatGPT create an iOS app in SwiftUI - part 2",
             "link": "https://swdevnotes.com/swift/2023/can-chatgpt-create-an-ios-app-in-swiftui-part-2/",
             "updated": 1680368400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/can-chatgpt-create-an-ios-app-in-swiftui-part-1/",
             "title": "Can ChatGPT create an iOS app in SwiftUI - part 1",
             "link": "https://swdevnotes.com/swift/2023/can-chatgpt-create-an-ios-app-in-swiftui-part-1/",
             "updated": 1679158800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/how-to-cancel-a-background-task-in-swift/",
             "title": "How to cancel a background task in Swift",
             "link": "https://swdevnotes.com/swift/2023/how-to-cancel-a-background-task-in-swift/",
             "updated": 1674925200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/use-async-let-to-run-background-tasks-in-parallel-in-swift/",
             "title": "Use async let to run background tasks in parallel in Swift",
             "link": "https://swdevnotes.com/swift/2023/use-async-let-to-run-background-tasks-in-parallel-in-swift/",
             "updated": 1673715600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2023/arrayslice-with-range-operator-and-prefix-in-swift/",
             "title": "ArraySlice with range operator and Prefix in Swift",
             "link": "https://swdevnotes.com/swift/2023/arrayslice-with-range-operator-and-prefix-in-swift/",
             "updated": 1672506000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/add-horizontal-scroll-to-charts-with-swiftui-charts-in-ios-16/",
             "title": "Add horizontal scroll to charts with SwiftUI Charts in iOS 16",
             "link": "https://swdevnotes.com/swift/2022/add-horizontal-scroll-to-charts-with-swiftui-charts-in-ios-16/",
             "updated": 1670086800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/navigationsplitview-with-employee-and-department-models/",
             "title": "NavigationSplitView with Employee and Department models",
             "link": "https://swdevnotes.com/swift/2022/navigationsplitview-with-employee-and-department-models/",
             "updated": 1668877200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/define-colors-with-hue-saturation-and-brightness-rather-than-red-green-and-blue-properties/",
             "title": "Define colors with Hue, Saturation and Brightness rather than Red, Green and Blue properties",
             "link": "https://swdevnotes.com/swift/2022/define-colors-with-hue-saturation-and-brightness-rather-than-red-green-and-blue-properties/",
             "updated": 1667667600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/display-top-section-of-bar-charts-with-swift-charts/",
             "title": "Display top section of Bar Charts with Swift Charts",
             "link": "https://swdevnotes.com/swift/2022/display-top-section-of-bar-charts-with-swift-charts/",
             "updated": 1666458000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/visualise-the-matthew-effect-with-swift-charts/",
             "title": "Visualise the Matthew Effect with Swift Charts",
             "link": "https://swdevnotes.com/swift/2022/visualise-the-matthew-effect-with-swift-charts/",
             "updated": 1665853200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/create-a-circular-slider-in-swiftui/",
             "title": "Create a circular slider in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/create-a-circular-slider-in-swiftui/",
             "updated": 1664038800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/create-a-bar-chart-with-swiftui-charts-in-ios-16/",
             "title": "Create a bar chart with SwiftUI Charts in iOS 16",
             "link": "https://swdevnotes.com/swift/2022/create-a-bar-chart-with-swiftui-charts-in-ios-16/",
             "updated": 1662829200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/customise-a-line-chart-with-swiftui-charts-in-ios-16/",
             "title": "Customise a line chart with SwiftUI Charts in iOS 16",
             "link": "https://swdevnotes.com/swift/2022/customise-a-line-chart-with-swiftui-charts-in-ios-16/",
             "updated": 1660410000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/create-a-line-chart-with-swiftui-charts-in-ios-16/",
             "title": "Create a line chart with SwiftUI Charts in iOS 16",
             "link": "https://swdevnotes.com/swift/2022/create-a-line-chart-with-swiftui-charts-in-ios-16/",
             "updated": 1659805200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/reduce-in-swift/",
             "title": "Reduce in Swift",
             "link": "https://swdevnotes.com/swift/2022/reduce-in-swift/",
             "updated": 1654275600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/save-an-image-to-macos-file-system-with-swiftui/",
             "title": "Save an image to MacOS file system with SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/save-an-image-to-macos-file-system-with-swiftui/",
             "updated": 1653152400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/map-on-collections-in-swift/",
             "title": "Map on collections in Swift",
             "link": "https://swdevnotes.com/swift/2022/map-on-collections-in-swift/",
             "updated": 1652547600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/iterating-over-a-dictionary-in-swift/",
             "title": "Iterating over a Dictionary in Swift",
             "link": "https://swdevnotes.com/swift/2022/iterating-over-a-dictionary-in-swift/",
             "updated": 1651942800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/exploring-data-with-swift-tabulardata-and-dataframe/",
             "title": "Exploring data with Swift TabularData and DataFrame",
             "link": "https://swdevnotes.com/swift/2022/exploring-data-with-swift-tabulardata-and-dataframe/",
             "updated": 1651338000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/use-dependency-injection-to-unit-test-a-viewmodel-in-swift/",
             "title": "Use Dependency Injection to Unit Test a ViewModel in Swift",
             "link": "https://swdevnotes.com/swift/2022/use-dependency-injection-to-unit-test-a-viewmodel-in-swift/",
             "updated": 1650128400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/consistent-swift-style-in-xcode-with-swiftlint/",
             "title": "Consistent Swift style in Xcode with SwiftLint",
             "link": "https://swdevnotes.com/swift/2022/consistent-swift-style-in-xcode-with-swiftlint/",
             "updated": 1648314000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/display-loading-screen-when-fetching-data-in-swift/",
             "title": "Display loading screen when fetching data in Swift",
             "link": "https://swdevnotes.com/swift/2022/display-loading-screen-when-fetching-data-in-swift/",
             "updated": 1647709200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/read-json-with-codeable-in-swift/",
             "title": "Read JSON with codeable in Swift",
             "link": "https://swdevnotes.com/swift/2022/read-json-with-codeable-in-swift/",
             "updated": 1647104400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/saving-a-swiftui-view-to-photos/",
             "title": "Saving a SwiftUI view to Photos",
             "link": "https://swdevnotes.com/swift/2022/saving-a-swiftui-view-to-photos/",
             "updated": 1646499600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/fixing-a-bug-in-tic-tac-toe-with-tdd/",
             "title": "Fixing a bug in Tic Tac Toe with TDD",
             "link": "https://swdevnotes.com/swift/2022/fixing-a-bug-in-tic-tac-toe-with-tdd/",
             "updated": 1645894800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/tabview-in-swiftui/",
             "title": "TabView in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/tabview-in-swiftui/",
             "updated": 1645290000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/better-performance-with-canvas-in-swiftui/",
             "title": "Better performance with canvas in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/better-performance-with-canvas-in-swiftui/",
             "updated": 1644685200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/animate-spinning-cog-shape-in-swiftui/",
             "title": "Animate spinning cog shape in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/animate-spinning-cog-shape-in-swiftui/",
             "updated": 1644080400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/animate-a-background-with-timelineview-in-swiftui/",
             "title": "Animate a background with TimelineView in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/animate-a-background-with-timelineview-in-swiftui/",
             "updated": 1643475600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/timelineview-to-rotate-shapes-on-a-canvas/",
             "title": "TimelineView to rotate shapes on a canvas",
             "link": "https://swdevnotes.com/swift/2022/timelineview-to-rotate-shapes-on-a-canvas/",
             "updated": 1642870800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/timelineview-to-move-a-shape-on-a-canvas/",
             "title": "TimelineView to move a shape on a canvas",
             "link": "https://swdevnotes.com/swift/2022/timelineview-to-move-a-shape-on-a-canvas/",
             "updated": 1642266000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/using-canvas-in-swiftui/",
             "title": "Using canvas in SwiftUI",
             "link": "https://swdevnotes.com/swift/2022/using-canvas-in-swiftui/",
             "updated": 1641661200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2022/create-a-star-rating-swiftui-component/",
             "title": "Create a star rating SwiftUI component",
             "link": "https://swdevnotes.com/swift/2022/create-a-star-rating-swiftui-component/",
             "updated": 1641056400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-to-customise-the-slider-in-swiftui/",
             "title": "How to customise the Slider in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-to-customise-the-slider-in-swiftui/",
             "updated": 1640451600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/star-with-rounded-corners-in-swiftui/",
             "title": "Star with rounded corners in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/star-with-rounded-corners-in-swiftui/",
             "updated": 1639242000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-a-star-cutout-shape-in-swiftui/",
             "title": "Create a Star cutout shape in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-a-star-cutout-shape-in-swiftui/",
             "updated": 1638637200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/animate-text-size-change-in-swiftui/",
             "title": "Animate Text size change in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/animate-text-size-change-in-swiftui/",
             "updated": 1638032400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/convert-numbers-to-roman-numerials-in-swift/",
             "title": "Convert numbers to Roman Numerials in Swift",
             "link": "https://swdevnotes.com/swift/2021/convert-numbers-to-roman-numerials-in-swift/",
             "updated": 1637427600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-a-line-chart-in-swiftui/",
             "title": "Create a line chart in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-a-line-chart-in-swiftui/",
             "updated": 1636822800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-3/",
             "title": "Test Driven Development in SwiftUI - Part 3",
             "link": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-3/",
             "updated": 1635613200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/understanding-minimax-algorithm-with-tic-tac-toe/",
             "title": "Understanding Minimax Algorithm with Tic Tac Toe",
             "link": "https://swdevnotes.com/swift/2021/understanding-minimax-algorithm-with-tic-tac-toe/",
             "updated": 1635008400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-2/",
             "title": "Test Driven Development in SwiftUI - Part 2",
             "link": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-2/",
             "updated": 1634403600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-1/",
             "title": "Test Driven Development in SwiftUI - Part 1",
             "link": "https://swdevnotes.com/swift/2021/test-driven-development-in-swiftui-part-1/",
             "updated": 1633798800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-3/",
             "title": "Monty Hall Problem in SwiftUI - part 3",
             "link": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-3/",
             "updated": 1633194000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-2/",
             "title": "Monty Hall Problem in SwiftUI - part 2",
             "link": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-2/",
             "updated": 1632589200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-1/",
             "title": "Monty Hall Problem in SwiftUI - part 1",
             "link": "https://swdevnotes.com/swift/2021/monty-hall-problem-in-swiftui-part-1/",
             "updated": 1631984400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/flip-card-in-swiftui/",
             "title": "Flip a card in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/flip-card-in-swiftui/",
             "updated": 1631379600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-activity-rings-in-swiftui/",
             "title": "Create Activity Rings in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-activity-rings-in-swiftui/",
             "updated": 1630602000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/horizontal-bar-chart-in-swiftui/",
             "title": "Horizontal Bar Chart in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/horizontal-bar-chart-in-swiftui/",
             "updated": 1630170000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/bar-chart-with-multiple-datasets-in-swiftui/",
             "title": "Bar Chart with multiple data sets in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/bar-chart-with-multiple-datasets-in-swiftui/",
             "updated": 1629565200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/hide-bar-chart-axes-in-swiftui/",
             "title": "Hide Bar Chart Axes in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/hide-bar-chart-axes-in-swiftui/",
             "updated": 1628960400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/for-loop-in-swiftui/",
             "title": "For loop in SwiftUI - ForEach",
             "link": "https://swdevnotes.com/swift/2021/for-loop-in-swiftui/",
             "updated": 1628355600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/add-axes-to-bar-chart-swiftui/",
             "title": "Add Axes to a Bar Chart in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/add-axes-to-bar-chart-swiftui/",
             "updated": 1627750800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-to-create-bar-chart-swiftui/",
             "title": "How to create a Bar Chart in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-to-create-bar-chart-swiftui/",
             "updated": 1626973200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-qr-code-swiftui/",
             "title": "Create QR Code in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-qr-code-swiftui/",
             "updated": 1626541200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/persist-data-userdefaults-swiftui/",
             "title": "Persist data with UserDefaults in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/persist-data-userdefaults-swiftui/",
             "updated": 1625936400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/ui-testing-with-xcode/",
             "title": "UI testing with Xcode",
             "link": "https://swdevnotes.com/swift/2021/ui-testing-with-xcode/",
             "updated": 1625331600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/unit-testing-with-xcode/",
             "title": "Unit testing with Xcode",
             "link": "https://swdevnotes.com/swift/2021/unit-testing-with-xcode/",
             "updated": 1624726800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/mvvm-in-swiftui/",
             "title": "MVVM in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/mvvm-in-swiftui/",
             "updated": 1624122000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-animate-shape-change-in-swiftui/",
             "title": "How to animate a Shape change in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-animate-shape-change-in-swiftui/",
             "updated": 1623517200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-animate-cubic-curve-change-in-swiftui/",
             "title": "How to animate a Cubic Curve change in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-animate-cubic-curve-change-in-swiftui/",
             "updated": 1622912400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-animate-quadratic-curve-change-in-swiftui/",
             "title": "How to animate a quadratic curve change in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-animate-quadratic-curve-change-in-swiftui/",
             "updated": 1622307600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-animate-line-move-in-swiftui/",
             "title": "How to animate a line move in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-animate-line-move-in-swiftui/",
             "updated": 1621702800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-blob-shape-in-swiftui/",
             "title": "Create a blob shape in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-blob-shape-in-swiftui/",
             "updated": 1621098000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/patterns-from-shapes-in-swiftui/",
             "title": "Create patterns from basic shapes in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/patterns-from-shapes-in-swiftui/",
             "updated": 1620493200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/form-view-in-swiftui/",
             "title": "Form view in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/form-view-in-swiftui/",
             "updated": 1619888400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/modal-view-in-swiftui/",
             "title": "Modal view in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/modal-view-in-swiftui/",
             "updated": 1619283600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/pie-chart-in-swiftui/",
             "title": "How to create a pie chart in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/pie-chart-in-swiftui/",
             "updated": 1618074000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/navigation-in-swiftui/",
             "title": "Navigation in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/navigation-in-swiftui/",
             "updated": 1617469200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/using-lists-in-swiftui/",
             "title": "Using lists in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/using-lists-in-swiftui/",
             "updated": 1616864400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/how-to-create-progress-indicator-in-swiftui/",
             "title": "How to create a progress indicator in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/how-to-create-progress-indicator-in-swiftui/",
             "updated": 1616259600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/create-custom-buttons-in-swiftui/",
             "title": "Create custom buttons in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/create-custom-buttons-in-swiftui/",
             "updated": 1615654800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/animating-shape-change-in-swiftui/",
             "title": "Animating a shape change in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/animating-shape-change-in-swiftui/",
             "updated": 1615050000,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/display-images-swiftui/",
             "title": "Displaying Images in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/display-images-swiftui/",
             "updated": 1614445200,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/layout-stacks-swiftui/",
             "title": "Layout with Stacks in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/layout-stacks-swiftui/",
             "updated": 1613840400,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/format-text-swiftui/",
             "title": "Displaying text in SwiftUI",
             "link": "https://swdevnotes.com/swift/2021/format-text-swiftui/",
             "updated": 1613235600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2021/fibonacci-sequence-recursion/",
             "title": "Fibonacci sequence and recursion",
             "link": "https://swdevnotes.com/swift/2021/fibonacci-sequence-recursion/",
             "updated": 1612630800,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         },
         {
             "id": "https://swdevnotes.com/swift/2020/timing_swift_functions/",
             "title": "Timing Swift functions",
             "link": "https://swdevnotes.com/swift/2020/timing_swift_functions/",
             "updated": 1601139600,
-            "site_url": "https://swdevnotes.com/swift/"
+            "site_url": "https://swdevnotes.com/swift/",
+            "slug": "development"
         }
     ]
 }

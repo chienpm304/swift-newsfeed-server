@@ -6,238 +6,272 @@
             "title": "Start MySQl from command line on Mac",
             "link": "https://kitefaster.com/posts/starting-mysql-mac/",
             "updated": 1543464000,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/posts/mobile-device-frames/",
             "title": "iOS and Android Mobile Device Frames for Screenshots",
             "link": "https://kitefaster.com/posts/mobile-device-frames/",
             "updated": 1536681960,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/04/24/apple-search-ads-multiple-countries/",
             "title": "Create Apple Search Ads for Multiple Countries (Storefronts)",
             "link": "https://kitefaster.com/2017/04/24/apple-search-ads-multiple-countries/",
             "updated": 1532687086,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2018/04/25/curveeaseinout-is-unavailable-use-to-construct-an-empty-option-set/",
             "title": "\u2018CurveEaseInOut\u2019 is unavailable: use [] to construct an empty option set",
             "link": "https://kitefaster.com/2018/04/25/curveeaseinout-is-unavailable-use-to-construct-an-empty-option-set/",
             "updated": 1524643624,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2018/04/25/cgsizemake-is-unavailable-in-swift/",
             "title": "\u2018CGSizeMake\u2019 is unavailable in Swift",
             "link": "https://kitefaster.com/2018/04/25/cgsizemake-is-unavailable-in-swift/",
             "updated": 1524643278,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/10/20/pod_always_embed_swift/",
             "title": "How to fix target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting defined in `Pods/Target Support Files/\u2026`",
             "link": "https://kitefaster.com/2017/10/20/pod_always_embed_swift/",
             "updated": 1508485256,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/09/21/fix-swift-4-objc-inference-warning/",
             "title": "How to fix the Swift 4 @objc inference warning",
             "link": "https://kitefaster.com/2017/09/21/fix-swift-4-objc-inference-warning/",
             "updated": 1505993356,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/09/20/swift-4-substring/",
             "title": "Swift 4 substring",
             "link": "https://kitefaster.com/2017/09/20/swift-4-substring/",
             "updated": 1505890354,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/08/10/encryption-export-compliance-ios-apps/",
             "title": "Encryption Export Compliance for iOS apps",
             "link": "https://kitefaster.com/2017/08/10/encryption-export-compliance-ios-apps/",
             "updated": 1502356673,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/07/18/ios-11-app-store-search-results-include-developer-page/",
             "title": "iOS 11 App Store Search Results Include Developer Page",
             "link": "https://kitefaster.com/2017/07/18/ios-11-app-store-search-results-include-developer-page/",
             "updated": 1500362894,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/06/14/use-content-hosting-app-purchase-content/",
             "title": "How to use Content Hosting for In-App Purchase Content",
             "link": "https://kitefaster.com/2017/06/14/use-content-hosting-app-purchase-content/",
             "updated": 1497378393,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/05/22/create-today-widget-ios-app-swift/",
             "title": "How to create a Today Widget for your iOS App in Swift",
             "link": "https://kitefaster.com/2017/05/22/create-today-widget-ios-app-swift/",
             "updated": 1495453009,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/05/17/deep-linking-ios-app-store/",
             "title": "Deep Linking to the iOS App Store",
             "link": "https://kitefaster.com/2017/05/17/deep-linking-ios-app-store/",
             "updated": 1495016804,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/04/19/itunes-search-api-country-codes/",
             "title": "iTunes Search API Country Codes",
             "link": "https://kitefaster.com/2017/04/19/itunes-search-api-country-codes/",
             "updated": 1492545015,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/03/08/align-uiview-toplayoutguide-snapkit/s/",
             "title": "How to align UIView to topLayoutGuide in SnapKit",
             "link": "https://kitefaster.com/2017/03/08/align-uiview-toplayoutguide-snapkit/s/",
             "updated": 1488981939,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/02/07/ios-views-and-their-corresponding-android-views/",
             "title": "iOS views/APIs and their corresponding Android views/APIs",
             "link": "https://kitefaster.com/2017/02/07/ios-views-and-their-corresponding-android-views/",
             "updated": 1486484961,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/01/31/how-to-programmatically-play-audio-even-when-ios-device-is-muted/",
             "title": "How to programmatically play audio even when iOS device is muted",
             "link": "https://kitefaster.com/2017/01/31/how-to-programmatically-play-audio-even-when-ios-device-is-muted/",
             "updated": 1485804486,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2017/01/25/how-to-add-a-new-user-to-your-itunes-connect-account/",
             "title": "How to add a new user to your iTunes Connect account",
             "link": "https://kitefaster.com/2017/01/25/how-to-add-a-new-user-to-your-itunes-connect-account/",
             "updated": 1485356917,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/12/02/how-to-use-the-attribution-api-for-tracking-installs-via-apple-search-ads/",
             "title": "How to use the Attribution API for tracking installs via Apple Search Ads",
             "link": "https://kitefaster.com/2016/12/02/how-to-use-the-attribution-api-for-tracking-installs-via-apple-search-ads/",
             "updated": 1480679195,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/08/17/dynamic-type-in-ios-using-uifonttextstyle/",
             "title": "Dynamic Type in iOS using UIFontTextStyle",
             "link": "https://kitefaster.com/2016/08/17/dynamic-type-in-ios-using-uifonttextstyle/",
             "updated": 1471452721,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/07/13/how-to-open-ios-app-with-custom-url/",
             "title": "How to open an iOS app with custom URL",
             "link": "https://kitefaster.com/2016/07/13/how-to-open-ios-app-with-custom-url/",
             "updated": 1468419195,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/06/29/how-to-localize-an-apps-name-with-infoplist-strings/",
             "title": "How to localize an app\u2019s name with InfoPlist.strings",
             "link": "https://kitefaster.com/2016/06/29/how-to-localize-an-apps-name-with-infoplist-strings/",
             "updated": 1467191082,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/05/21/how-to-localize-an-ios-or-tvos-app-in-swift-or-objective-c/",
             "title": "How to Localize an iOS or tvOS app in Swift or Objective-C",
             "link": "https://kitefaster.com/2016/05/21/how-to-localize-an-ios-or-tvos-app-in-swift-or-objective-c/",
             "updated": 1463818015,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/05/14/how-to-create-promo-codes-for-your-ios-or-tvos-app/",
             "title": "How to create promo codes for your iOS or tvOS paid app or in-app purchase",
             "link": "https://kitefaster.com/2016/05/14/how-to-create-promo-codes-for-your-ios-or-tvos-app/",
             "updated": 1463204727,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/04/21/how-to-enable-universal-links-in-ios-9/",
             "title": "How to enable Universal Links in iOS 9+",
             "link": "https://kitefaster.com/2016/04/21/how-to-enable-universal-links-in-ios-9/",
             "updated": 1461244140,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/03/17/localize-ios-project-with-strings-file/",
             "title": "Localize iOS project with Strings file",
             "link": "https://kitefaster.com/2016/03/17/localize-ios-project-with-strings-file/",
             "updated": 1458206948,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/03/17/remove-storyboard-from-ios-or-tvos-and-design-programatically/",
             "title": "Remove storyboard from iOS or tvOS and design programmatically",
             "link": "https://kitefaster.com/2016/03/17/remove-storyboard-from-ios-or-tvos-and-design-programatically/",
             "updated": 1458206152,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/03/11/21-useful-tools-for-ios-software-development/",
             "title": "25 Useful Tools for iOS Software Developers",
             "link": "https://kitefaster.com/2016/03/11/21-useful-tools-for-ios-software-development/",
             "updated": 1457689649,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/03/09/itunes-connect-api-app-store-and-corresponding-xcode-language-codes/",
             "title": "iTunes Connect API (fastlane) and corresponding Xcode language codes",
             "link": "https://kitefaster.com/2016/03/09/itunes-connect-api-app-store-and-corresponding-xcode-language-codes/",
             "updated": 1457542250,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/03/09/use-plutil-to-find-that-missing-in-your-localizable-strings-file/",
             "title": "Use plutil to find that missing double quote or semicolon in your Localizable.strings file",
             "link": "https://kitefaster.com/2016/03/09/use-plutil-to-find-that-missing-in-your-localizable-strings-file/",
             "updated": 1457470021,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/02/19/how-to-specify-tvos-target-conditional-in-swift-and-objective-c/",
             "title": "How to specify tvOS target conditional in Swift and Objective-C",
             "link": "https://kitefaster.com/2016/02/19/how-to-specify-tvos-target-conditional-in-swift-and-objective-c/",
             "updated": 1455887614,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/02/19/how-to-use-core-data-from-existing-ios-app-with-tvos/",
             "title": "How to use core data from existing iOS app with tvOS",
             "link": "https://kitefaster.com/2016/02/19/how-to-use-core-data-from-existing-ios-app-with-tvos/",
             "updated": 1455887070,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/01/23/how-to-specify-debug-and-release-flags-in-xcode-with-swift/",
             "title": "How to specify DEBUG and RELEASE flags in Xcode with Swift or Objective-C",
             "link": "https://kitefaster.com/2016/01/23/how-to-specify-debug-and-release-flags-in-xcode-with-swift/",
             "updated": 1453566609,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         },
         {
             "id": "https://kitefaster.com/2016/01/22/how-to-add-cocoapods-acknowledgements-plist-to-ios-settings/",
             "title": "How to add CocoaPods acknowledgements plist to iOS settings",
             "link": "https://kitefaster.com/2016/01/22/how-to-add-cocoapods-acknowledgements-plist-to-ios-settings/",
             "updated": 1453463082,
-            "site_url": "https://kitefaster.com/categories/ios-development/"
+            "site_url": "https://kitefaster.com/categories/ios-development/",
+            "slug": "companies"
         }
     ]
 }

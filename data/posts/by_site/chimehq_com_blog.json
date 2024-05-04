@@ -6,70 +6,80 @@
             "title": "Chime 2.0",
             "link": "https://www.chimehq.com/blog/version-two",
             "updated": 1666544400,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/extensionkit-views",
             "title": "ExtensionKit Views",
             "link": "https://www.chimehq.com/blog/extensionkit-views",
             "updated": 1662138000,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/extensionkit-end-to-end",
             "title": "ExtensionKit End-to-End",
             "link": "https://www.chimehq.com/blog/extensionkit-end-to-end",
             "updated": 1661446800,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/extensionkit-xpc",
             "title": "ExtensionKit and XPC",
             "link": "https://www.chimehq.com/blog/extensionkit-xpc",
             "updated": 1661101200,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/extensionkit-intro",
             "title": "An Introduction to ExtensionKit",
             "link": "https://www.chimehq.com/blog/extensionkit-intro",
             "updated": 1660669200,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/extensions",
             "title": "Extension are coming to Chime",
             "link": "https://www.chimehq.com/blog/extensions",
             "updated": 1659978000,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/xcode-project-organization",
             "title": "Xcode Project Organization",
             "link": "https://www.chimehq.com/blog/xcode-project-organization",
             "updated": 1655312400,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/hello-ruby",
             "title": "Hello Ruby!",
             "link": "https://www.chimehq.com/blog/hello-ruby",
             "updated": 1652288400,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/meterreporter",
             "title": "MeterReporter: Lightweight MetricKit Diagnostics",
             "link": "https://www.chimehq.com/blog/meterreporter",
             "updated": 1648486800,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         },
         {
             "id": "https://www.chimehq.com/blog/swift-and-old-sdks",
             "title": "Supporting older SDK versions with Swift",
             "link": "https://www.chimehq.com/blog/swift-and-old-sdks",
             "updated": 1645981200,
-            "site_url": "https://www.chimehq.com/blog"
+            "site_url": "https://www.chimehq.com/blog",
+            "slug": "companies"
         }
     ]
 }

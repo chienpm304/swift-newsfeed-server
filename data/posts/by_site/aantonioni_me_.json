@@ -6,28 +6,32 @@
             "title": "My 2021 Wrapped",
             "link": "https://aantonioni.me/my-2021-wrapped/",
             "updated": 1641009600,
-            "site_url": "https://aantonioni.me/"
+            "site_url": "https://aantonioni.me/",
+            "slug": "development"
         },
         {
             "id": "620830937409bf232e54a4c9",
             "title": "Books I read in 2020",
             "link": "https://aantonioni.me/books-i-read-in-2020/",
             "updated": 1609380000,
-            "site_url": "https://aantonioni.me/"
+            "site_url": "https://aantonioni.me/",
+            "slug": "development"
         },
         {
             "id": "62082adc7409bf232e54a496",
             "title": "Lessons learned implementing Sign in with Apple on iOS",
             "link": "https://aantonioni.me/lessons-learned-implementing-sign-in-with-apple-on-ios/",
             "updated": 1590552000,
-            "site_url": "https://aantonioni.me/"
+            "site_url": "https://aantonioni.me/",
+            "slug": "development"
         },
         {
             "id": "62080b9f7409bf232e54a47d",
             "title": "Design Systems aren't a Design Team responsibility",
             "link": "https://aantonioni.me/design-systems-arent-a-design-team-responsibility/",
             "updated": 1589256000,
-            "site_url": "https://aantonioni.me/"
+            "site_url": "https://aantonioni.me/",
+            "slug": "development"
         }
     ]
 }

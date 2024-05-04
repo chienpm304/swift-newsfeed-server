@@ -6,35 +6,40 @@
             "title": "Deprecating Frameworks",
             "link": "https://pyckamil.github.io/programming,/framework,/xcode/2020/11/21/deprecating-frameworks.html",
             "updated": 1605957015,
-            "site_url": "https://pyckamil.github.io"
+            "site_url": "https://pyckamil.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyckamil.github.io/programming,/xcframework,/xcode/2020/05/09/everything-wrong-with-xcframeworks",
             "title": "Everything wrong with XCFrameworks",
             "link": "https://pyckamil.github.io/programming,/xcframework,/xcode/2020/05/09/everything-wrong-with-xcframeworks.html",
             "updated": 1588991415,
-            "site_url": "https://pyckamil.github.io"
+            "site_url": "https://pyckamil.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyckamil.github.io/programming/2020/05/07/swiftui_on_mac",
             "title": "TIL: SwiftUI on Mac",
             "link": "https://pyckamil.github.io/programming/2020/05/07/swiftui_on_mac.html",
             "updated": 1588861815,
-            "site_url": "https://pyckamil.github.io"
+            "site_url": "https://pyckamil.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyckamil.github.io/programming/2020/05/06/lesson-learned(again)",
             "title": "Lesson learned (again)",
             "link": "https://pyckamil.github.io/programming/2020/05/06/lesson-learned(again).html",
             "updated": 1588768215,
-            "site_url": "https://pyckamil.github.io"
+            "site_url": "https://pyckamil.github.io",
+            "slug": "development"
         },
         {
             "id": "https://pyckamil.github.io/general/2020/05/06/welcome-on-my-blog",
             "title": "Welcome on my blog!",
             "link": "https://pyckamil.github.io/general/2020/05/06/welcome-on-my-blog.html",
             "updated": 1588757415,
-            "site_url": "https://pyckamil.github.io"
+            "site_url": "https://pyckamil.github.io",
+            "slug": "development"
         }
     ]
 }

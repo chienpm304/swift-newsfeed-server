@@ -6,280 +6,320 @@
             "title": "Distributed Tracing with Testing on iOS and macOS",
             "link": "https://rhonabwy.com/2024/04/02/distributed-tracing-with-testing-on-ios-and-macos/",
             "updated": 1712057901,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6589",
             "title": "Embedding a privacy manifest into an XCFramework",
             "link": "https://rhonabwy.com/2024/02/18/embedding-a-privacy-manifest-into-an-xcframework/",
             "updated": 1708263814,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6577",
             "title": "A week on with a VisionPro",
             "link": "https://rhonabwy.com/2024/02/11/a-week-on-with-a-visionpro/",
             "updated": 1707656154,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6561",
             "title": "Unicode strings are always harder than you think",
             "link": "https://rhonabwy.com/2024/01/20/unicode-strings-are-always-harder-than-you-think/",
             "updated": 1705760495,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/2023/11/15/questions-about-the-data-to-create-llms-for-embeddings/",
             "title": "Questions about the data to create LLMs for embeddings",
             "link": "https://rhonabwy.com/2023/11/15/questions-about-the-data-to-create-llms-for-embeddings/",
             "updated": 1700059211,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6535",
             "title": "Automerge for Swift",
             "link": "https://rhonabwy.com/2023/10/21/automerge-for-swift/",
             "updated": 1697886717,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6527",
             "title": "SwiftUI Field Notes: Document instance lifetimes are shorter than they appear",
             "link": "https://rhonabwy.com/2023/08/01/swiftui-field-notes-document-instance-lifetimes-are-shorter-than-they-appear/",
             "updated": 1690887890,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6511",
             "title": "Getting your custom file type recognized by iOS and macOS",
             "link": "https://rhonabwy.com/2023/07/22/getting-your-custom-file-type-recognized-by-ios-and-macos/",
             "updated": 1690018345,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6463",
             "title": "What you need to know learning to use Blender on a Mac laptop",
             "link": "https://rhonabwy.com/2023/07/01/what-you-need-to-know-learning-to-use-blender-on-a-mac-laptop/",
             "updated": 1688241026,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6449",
             "title": "Unit testing with Document based apps",
             "link": "https://rhonabwy.com/2023/06/23/unit-testing-with-document-based-apps/",
             "updated": 1687536372,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6436",
             "title": "Swift challenge mode \u2013 Dynamic Data",
             "link": "https://rhonabwy.com/2023/04/28/swift-challenge-mode-dynamic-data/",
             "updated": 1682702225,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6419",
             "title": "ML Understanding",
             "link": "https://rhonabwy.com/2023/03/17/ml-understanding/",
             "updated": 1679052937,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/2023/02/19/crdt-work/",
             "title": "CRDT work",
             "link": "https://rhonabwy.com/2023/02/19/crdt-work/",
             "updated": 1676835593,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6360",
             "title": "Creating an XCFramework",
             "link": "https://rhonabwy.com/2023/02/10/creating-an-xcframework/",
             "updated": 1676058291,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6358",
             "title": "Large language models and Search",
             "link": "https://rhonabwy.com/2023/02/08/large-language-models-and-search/",
             "updated": 1675870315,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6343",
             "title": "Native support for USD tools on an M1 Mac",
             "link": "https://rhonabwy.com/2022/08/16/native-support-for-usd-tools-on-an-m1-mac/",
             "updated": 1660660004,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6322",
             "title": "SwiftUI Field Notes: DocumentGroup",
             "link": "https://rhonabwy.com/2022/07/19/swiftui-field-notes-documentgroup/",
             "updated": 1658214515,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6304",
             "title": "I wish contextual SwiftUI was more predictable",
             "link": "https://rhonabwy.com/2022/07/12/i-wish-contextual-swiftui-was-more-predictable/",
             "updated": 1657637528,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6300",
             "title": "What Apple might do with distributed computing",
             "link": "https://rhonabwy.com/2022/06/01/what-apple-might-do-with-distributed-computing/",
             "updated": 1654083776,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6258",
             "title": "What being an Open Source Developer means to me",
             "link": "https://rhonabwy.com/2022/05/29/what-being-an-open-source-developer-means-to-me/",
             "updated": 1653838903,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6274",
             "title": "Language and framing",
             "link": "https://rhonabwy.com/2022/04/29/language-and-framing/",
             "updated": 1651229742,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6282",
             "title": "Chart",
             "link": "https://rhonabwy.com/2022/03/23/chart/",
             "updated": 1648050227,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6226",
             "title": "RealityKit on macOS",
             "link": "https://rhonabwy.com/2022/03/15/realitykit-on-macos/",
             "updated": 1647340867,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6243",
             "title": "DocC plugin PSA",
             "link": "https://rhonabwy.com/2022/02/22/docc-plugin-psa/",
             "updated": 1645540460,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6187",
             "title": "Tips for getting the most out of DocC",
             "link": "https://rhonabwy.com/2022/02/10/tips-for-getting-the-most-out-of-docc/",
             "updated": 1644496170,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6167",
             "title": "Hosting your Swift Library Docs on Github Pages",
             "link": "https://rhonabwy.com/2022/01/28/hosting-your-swift-library-docs-on-github-pages/",
             "updated": 1643368977,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6150",
             "title": "Looking for help to solve a specific 3D math/trig problem",
             "link": "https://rhonabwy.com/2022/01/20/looking-for-help-to-solve-a-specific-3d-math-trig-problem/",
             "updated": 1642688023,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6126",
             "title": "API Design decisions behind Lindenmayer in Swift",
             "link": "https://rhonabwy.com/2022/01/05/api-design-decisions-behind-lindenmayer-in-swift/",
             "updated": 1641400537,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6102",
             "title": "Adding DocC to an existing swift package",
             "link": "https://rhonabwy.com/2021/11/24/adding-docc-to-an-existing-swift-package/",
             "updated": 1637783979,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/2021/11/12/a-time-for-change/",
             "title": "A time for change",
             "link": "https://rhonabwy.com/2021/11/12/a-time-for-change/",
             "updated": 1636729658,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6088",
             "title": "Kubernetes and Developers",
             "link": "https://rhonabwy.com/2021/07/04/kubernetes-and-developers/",
             "updated": 1625415978,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6083",
             "title": "Concurrency, Combine, and Swift 5.5",
             "link": "https://rhonabwy.com/2021/05/29/concurrency-combine-and-swift-5-5/",
             "updated": 1622287083,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6065",
             "title": "Why I don\u2019t want Xcode on the iPad \u2014 macOS and iPadOS",
             "link": "https://rhonabwy.com/2021/04/24/why-i-dont-want-xcode-on-the-ipad-macos-and-ipados/",
             "updated": 1619280867,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6051",
             "title": "Second Guessing Yourself",
             "link": "https://rhonabwy.com/2021/03/28/second-guessing-yourself/",
             "updated": 1616929945,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6033",
             "title": "Translating Java Into Swift",
             "link": "https://rhonabwy.com/2021/03/13/translating-java-into-swift/",
             "updated": 1615644803,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=6021",
             "title": "Iterating through Strings in Swift",
             "link": "https://rhonabwy.com/2021/03/06/iterating-through-strings-in-swift/",
             "updated": 1615028455,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=5997",
             "title": "Nested Observable Objects in SwiftUI",
             "link": "https://rhonabwy.com/2021/02/13/nested-observable-objects-in-swiftui/",
             "updated": 1613216600,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=5971",
             "title": "Integrating SwiftUI Bindings and Combine",
             "link": "https://rhonabwy.com/2021/02/07/integrating-swiftui-bindings-and-combine/",
             "updated": 1612700857,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=5953",
             "title": "The evolution of \u201csafe\u201d and \u201cunsafe\u201d in the Swift programming language",
             "link": "https://rhonabwy.com/2021/02/03/the-evolution-of-safe-and-unsafe-in-the-swift-programming-language/",
             "updated": 1612382342,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         },
         {
             "id": "http://rhonabwy.com/?p=5931",
             "title": "M1 arm64 native OpenSSL with vcpkg",
             "link": "https://rhonabwy.com/2021/01/18/m1-arm64-native-openssl-with-vcpkg/",
             "updated": 1610987494,
-            "site_url": "https://rhonabwy.com/"
+            "site_url": "https://rhonabwy.com/",
+            "slug": "development"
         }
     ]
 }

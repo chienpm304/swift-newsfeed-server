@@ -6,679 +6,776 @@
             "title": "Using @_silgen_name to forward declare functions in Swift and improve build times",
             "link": "https://swiftrocks.com/using-silgenname-to-call-private-swift-code",
             "updated": 1710396000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/software-engineering-book-recommendations",
             "title": "Software engineering book recommendations",
             "link": "https://swiftrocks.com/software-engineering-book-recommendations",
             "updated": 1709445600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/an-introduction-to-passkeys",
             "title": "What the hell are passkeys? (Runway)",
             "link": "https://www.runway.team/blog/an-introduction-to-passkeys",
             "updated": 1708581600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering",
             "title": "There is no right or wrong in software engineering",
             "link": "https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering",
             "updated": 1703750400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/what-even-is-code-signing-in-ios",
             "title": "What even is code signing in iOS? (Runway)",
             "link": "https://www.runway.team/blog/what-even-is-code-signing-in-ios",
             "updated": 1702620000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-im-using-chatgpt-for-software-engineering",
             "title": "How I'm using ChatGPT for software engineering",
             "link": "https://swiftrocks.com/how-im-using-chatgpt-for-software-engineering",
             "updated": 1702274400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-async-await-works-internally-in-swift",
             "title": "How async/await works internally in Swift",
             "link": "https://swiftrocks.com/how-async-await-works-internally-in-swift",
             "updated": 1695884400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/faster-performance-debugging-with-ettrace",
             "title": "Faster iOS performance debugging with ETTrace",
             "link": "https://swiftrocks.com/faster-performance-debugging-with-ettrace",
             "updated": 1694070000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/debugging-ios-performance-issues-you-cant-reproduce-with-performance-trace-profiles",
             "title": "Performance Trace Profiles in iOS: Debugging performance issues you can't reproduce",
             "link": "https://swiftrocks.com/debugging-ios-performance-issues-you-cant-reproduce-with-performance-trace-profiles",
             "updated": 1685601000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/my-experience-with-swiftui",
             "title": "Thoughts on SwiftUI vs UIKit",
             "link": "https://swiftrocks.com/my-experience-with-swiftui",
             "updated": 1666249200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/whats-any-understanding-type-erasure-in-swift",
             "title": "What's the 'any' keyword? Understanding Type Erasure in Swift",
             "link": "https://swiftrocks.com/whats-any-understanding-type-erasure-in-swift",
             "updated": 1662966000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization",
             "title": "Architecting iOS apps for fast build times (Runway)",
             "link": "https://www.runway.team/blog/how-to-improve-ios-build-times-with-modularization",
             "updated": 1661929200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/are-your-frameworks-bulletproof",
             "title": "Are your frameworks bulletproof?",
             "link": "https://swiftrocks.com/are-your-frameworks-bulletproof",
             "updated": 1658127600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/why-when-mobile-platform-teams",
             "title": "Mobile Platform Teams (Runway)",
             "link": "https://www.runway.team/blog/why-when-mobile-platform-teams",
             "updated": 1657868400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/using-a-macbook-pro-as-a-gaming-console",
             "title": "Using a Macbook Pro as a gaming console",
             "link": "https://swiftrocks.com/using-a-macbook-pro-as-a-gaming-console",
             "updated": 1657263600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/sentiment-analysis-reddit-negativity",
             "title": "Sentiment Analysis with NSTagger: Ranking popular subreddits by the negativity/hostility of its comments",
             "link": "https://swiftrocks.com/sentiment-analysis-reddit-negativity",
             "updated": 1655024400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/ios-certificates-provisioning-profiles-large-teams",
             "title": "Managing Provisioning Profiles as your team grows (Runway)",
             "link": "https://www.runway.team/blog/ios-certificates-provisioning-profiles-large-teams",
             "updated": 1653548400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-certificates-work",
             "title": "Understanding Certificates and iOS Provisioning Profiles",
             "link": "https://swiftrocks.com/how-certificates-work",
             "updated": 1653375600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/how-why-mobile-app-versioning",
             "title": "How and why to think about mobile app versioning (Runway)",
             "link": "https://www.runway.team/blog/how-why-mobile-app-versioning",
             "updated": 1651129200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/avoiding-release-anxiety-part-ii",
             "title": "Avoiding release anxiety, part II (Runway)",
             "link": "https://www.runway.team/blog/avoiding-release-anxiety-part-ii",
             "updated": 1647237600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/avoiding-release-anxiety-part-i-testing-automation",
             "title": "Avoiding release anxiety, part I (Runway)",
             "link": "https://www.runway.team/blog/avoiding-release-anxiety-part-i-testing-automation",
             "updated": 1646719200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/merge-queues-intro-for-mobile-engineers",
             "title": "Merge queues: An intro for mobile engineers (Runway)",
             "link": "https://www.runway.team/blog/merge-queues-intro-for-mobile-engineers",
             "updated": 1644386400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.runway.team/blog/how-successful-mobile-teams-release-apps-at-scale",
             "title": "How successful mobile teams release apps at scale (Runway)",
             "link": "https://www.runway.team/blog/how-successful-mobile-teams-release-apps-at-scale",
             "updated": 1643090400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/focus-on-concepts-not-approaches",
             "title": "Focus on concepts, not approaches",
             "link": "https://swiftrocks.com/focus-on-concepts-not-approaches",
             "updated": 1641448800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/detecting-broken-constraints-in-swift",
             "title": "Detecting Broken Constraints in Swift",
             "link": "https://swiftrocks.com/detecting-broken-constraints-in-swift",
             "updated": 1637560800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-to-solve-any-ios-crash-ever",
             "title": "How To Solve Any iOS Crash Ever",
             "link": "https://swiftrocks.com/how-to-solve-any-ios-crash-ever",
             "updated": 1635746400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/enabling-module-stability-in-swift-package-manager-projects",
             "title": "Enabling Module Stability in Swift Package Manager Projects",
             "link": "https://swiftrocks.com/enabling-module-stability-in-swift-package-manager-projects",
             "updated": 1635231600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/unit-testing-weak-references--deallocation-in-swift",
             "title": "Unit Testing Weak References / Retain Cycles in Swift",
             "link": "https://swiftrocks.com/unit-testing-weak-references--deallocation-in-swift",
             "updated": 1634108400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/debug-cpu-exceptions-xcode-energy-reports",
             "title": "Solving CPU Usage Crashes with Xcode's Energy Organizer",
             "link": "https://swiftrocks.com/debug-cpu-exceptions-xcode-energy-reports",
             "updated": 1632812400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-asyncsequence-works-internally-in-swift",
             "title": "How AsyncSequence works internally in Swift",
             "link": "https://swiftrocks.com/how-asyncsequence-works-internally-in-swift",
             "updated": 1632121200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/reverse-engineering-xcode-issue-crash-symbol",
             "title": "Reverse engineering a 5 year old Xcode issue",
             "link": "https://swiftrocks.com/reverse-engineering-xcode-issue-crash-symbol",
             "updated": 1630393200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/swifts-documentation-markup",
             "title": "Swift's Documentation Markup",
             "link": "https://swiftrocks.com/swifts-documentation-markup",
             "updated": 1629183600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/staticstring-in-swift",
             "title": "StaticString, and how it works internally in Swift",
             "link": "https://swiftrocks.com/staticstring-in-swift",
             "updated": 1627974000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/extending-creating-publishers-the-right-way",
             "title": "Extending / Creating Combine Publishers the Right Way",
             "link": "https://swiftrocks.com/extending-creating-publishers-the-right-way",
             "updated": 1627369200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/benchmarking-swift-code-properly-with-attabench",
             "title": "Benchmarking Swift Code Properly with Attabench",
             "link": "https://swiftrocks.com/benchmarking-swift-code-properly-with-attabench",
             "updated": 1626764400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-actors-work-internally-in-swift",
             "title": "How Actors Work Internally in Swift",
             "link": "https://swiftrocks.com/how-actors-work-internally-in-swift",
             "updated": 1625554800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/creating-3d-models-out-of-anything-with-realitykit-in-swift",
             "title": "Creating 3D Models from Photographs with RealityKit in Swift",
             "link": "https://swiftrocks.com/creating-3d-models-out-of-anything-with-realitykit-in-swift",
             "updated": 1624345200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-necessary-are-the-programming-fundamentals",
             "title": "How necessary are the programming fundamentals?",
             "link": "https://swiftrocks.com/how-necessary-are-the-programming-fundamentals",
             "updated": 1621321200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/thread-safety-in-swift",
             "title": "Thread Safety in Swift",
             "link": "https://swiftrocks.com/thread-safety-in-swift",
             "updated": 1620716400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/code-generation-with-sourcekit",
             "title": "Adding Intelligent Code Generation to Swift Projects with SourceKit",
             "link": "https://swiftrocks.com/code-generation-with-sourcekit",
             "updated": 1618210800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/creating-a-license-system-for-paid-apps-in-swift",
             "title": "Creating a licensing system for paid apps in Swift",
             "link": "https://swiftrocks.com/creating-a-license-system-for-paid-apps-in-swift",
             "updated": 1617692400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/be-careful-with-objc-bridging-in-swift",
             "title": "Be careful with Obj-C bridging in Swift",
             "link": "https://swiftrocks.com/be-careful-with-objc-bridging-in-swift",
             "updated": 1614664800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/understanding-inlinable-in-swift",
             "title": "Understanding @inlinable in Swift",
             "link": "https://swiftrocks.com/understanding-inlinable-in-swift",
             "updated": 1608616800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/dispatchsource-detecting-changes-in-files-and-folders-in-swift",
             "title": "DispatchSource: Detecting changes in files and folders in Swift",
             "link": "https://swiftrocks.com/dispatchsource-detecting-changes-in-files-and-folders-in-swift",
             "updated": 1606197600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-availability-works-internally-in-swift",
             "title": "How Swift API Availability Works Internally",
             "link": "https://swiftrocks.com/how-availability-works-internally-in-swift",
             "updated": 1601362800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/ui-testing-deeplinks-and-universal-links-in-ios",
             "title": "UI Testing Deeplinks and Universal Links in iOS",
             "link": "https://swiftrocks.com/ui-testing-deeplinks-and-universal-links-in-ios",
             "updated": 1600153200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/improving-observer-pattern-apis-in-swift-with-weak-collections",
             "title": "Improving Observer Pattern APIs in Swift With Weak Collections",
             "link": "https://swiftrocks.com/improving-observer-pattern-apis-in-swift-with-weak-collections",
             "updated": 1598338800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/app-attest-apple-protect-ios-jailbreak",
             "title": "App Attest: How to prevent an iOS app's APIs from being abused",
             "link": "https://swiftrocks.com/app-attest-apple-protect-ios-jailbreak",
             "updated": 1597129200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/entry-points-swift-uiapplicationmain-main",
             "title": "Entry Points in Swift: How @main and @UIApplicationMain work internally",
             "link": "https://swiftrocks.com/entry-points-swift-uiapplicationmain-main",
             "updated": 1595314800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/adapting-objectivec-apis-for-swift-using-nsrefinedforswift",
             "title": "Adapting Objective-C APIs to Swift with NS_REFINED_FOR_SWIFT",
             "link": "https://swiftrocks.com/adapting-objectivec-apis-for-swift-using-nsrefinedforswift",
             "updated": 1594710000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/creating-debug-menus-in-swift-with-uicontextmenuinteraction",
             "title": "Creating Debug Menus in Swift with UIContextMenuInteraction",
             "link": "https://swiftrocks.com/creating-debug-menus-in-swift-with-uicontextmenuinteraction",
             "updated": 1593500400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/ios-14-widget-tutorial-mini-apps",
             "title": "How to create Widgets in iOS 14 in Swift",
             "link": "https://swiftrocks.com/ios-14-widget-tutorial-mini-apps",
             "updated": 1592910600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/benefits-of-throwing-functions-try-swift-underrated-feature",
             "title": "Benefits of using throwing functions (try) - Swift's most underrated feature?",
             "link": "https://swiftrocks.com/benefits-of-throwing-functions-try-swift-underrated-feature",
             "updated": 1592290800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-random-numbers-work-in-swift",
             "title": "How Random Numbers Work In Swift",
             "link": "https://swiftrocks.com/how-random-numbers-work-in-swift",
             "updated": 1589266800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/understanding-the-ios-responder-chain",
             "title": "iOS Responder Chain: UIResponder, UIEvent, UIControl and uses",
             "link": "https://swiftrocks.com/understanding-the-ios-responder-chain",
             "updated": 1588838400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/unit-testing-preprocessor-macros-in-swift",
             "title": "Unit Testing Preprocessor Macros in Swift",
             "link": "https://swiftrocks.com/unit-testing-preprocessor-macros-in-swift",
             "updated": 1588662000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/weak-dictionary-values-in-swift",
             "title": "Weak Dictionary Values in Swift",
             "link": "https://swiftrocks.com/weak-dictionary-values-in-swift",
             "updated": 1586847600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/understanding-swifts-objectidentifier",
             "title": "Understanding Swift's ObjectIdentifier",
             "link": "https://swiftrocks.com/understanding-swifts-objectidentifier",
             "updated": 1585621500,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/useful-global-swift-functions",
             "title": "Useful Global Swift Functions",
             "link": "https://swiftrocks.com/useful-global-swift-functions",
             "updated": 1585013100,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-collection-diffing-works-internally-in-swift",
             "title": "How Collection Diffing works in Swift",
             "link": "https://swiftrocks.com/how-collection-diffing-works-internally-in-swift",
             "updated": 1584494700,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/swift-codable-decodingencoding-with-context",
             "title": "Swift Codable: Decoding / Encoding With Context",
             "link": "https://swiftrocks.com/swift-codable-decodingencoding-with-context",
             "updated": 1580865900,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets",
             "title": "Reducing iOS Build Times by using Interface Modules",
             "link": "https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets",
             "updated": 1579737600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-hashable-works-in-swift",
             "title": "How Hashable works in Swift",
             "link": "https://swiftrocks.com/how-hashable-works-in-swift",
             "updated": 1578873600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/using-type-erasure-to-build-a-dependency-injector-in-swift",
             "title": "Using Type Erasure to Build a Dependency Injecting Routing Framework in Swift",
             "link": "https://swiftrocks.com/using-type-erasure-to-build-a-dependency-injector-in-swift",
             "updated": 1577923200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/faster-swift-array-operations-with-collectionofone",
             "title": "Faster Array Operations With CollectionOfOne in Swift",
             "link": "https://swiftrocks.com/faster-swift-array-operations-with-collectionofone",
             "updated": 1577059200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-optionset-works-inside-the-swift-compiler",
             "title": "How OptionSet works inside the Swift Compiler",
             "link": "https://swiftrocks.com/how-optionset-works-inside-the-swift-compiler",
             "updated": 1575331200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/nscopying-nszone-uses-in-swift",
             "title": "NSCopying uses in Swift",
             "link": "https://swiftrocks.com/nscopying-nszone-uses-in-swift",
             "updated": 1572912000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/swift-sequence-inside-the-compiler-how-for-loops-work",
             "title": "Swift's Sequence Inside The Compiler: How for loops work internally",
             "link": "https://swiftrocks.com/swift-sequence-inside-the-compiler-how-for-loops-work",
             "updated": 1572007800,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/building-a-face-detecting-sentry-gun-with-urlsessionwebsockettask-coreml-swiftui-and-arduino",
             "title": "Building a Face Detecting Robot with URLSessionWebSocketTask, CoreML, SwiftUI and an Arduino",
             "link": "https://swiftrocks.com/building-a-face-detecting-sentry-gun-with-urlsessionwebsockettask-coreml-swiftui-and-arduino",
             "updated": 1571146740,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/using-simd-vector-types-in-swift",
             "title": "Using SIMD Vector Types in Swift",
             "link": "https://swiftrocks.com/using-simd-vector-types-in-swift",
             "updated": 1569762000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm",
             "title": "Timsort and Introsort: Swift's Sorting Algorithms",
             "link": "https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm",
             "updated": 1567602000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/using-lldb-manually-xcode-console-tricks",
             "title": "Advanced lldb tricks for Swift - Injecting and changing code on the fly",
             "link": "https://swiftrocks.com/using-lldb-manually-xcode-console-tricks",
             "updated": 1565269200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/swift-expressibleby-protocols-how-they-work-internally-in-the-compiler",
             "title": "Swift ExpressibleBy protocols: What they are and how they work internally in the compiler",
             "link": "https://swiftrocks.com/swift-expressibleby-protocols-how-they-work-internally-in-the-compiler",
             "updated": 1563368400,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/useful-obscure-foundation-types-in-swift",
             "title": "Useful (and obscure!) Foundation types in Swift",
             "link": "https://swiftrocks.com/useful-obscure-foundation-types-in-swift",
             "updated": 1561554000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/understanding-opaque-return-types-in-swift",
             "title": "Understanding Opaque Return Types in Swift",
             "link": "https://swiftrocks.com/understanding-opaque-return-types-in-swift",
             "updated": 1560171600,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/inside-swiftui-compiler-magic",
             "title": "Inside SwiftUI's Declarative Syntax's Compiler Magic",
             "link": "https://swiftrocks.com/inside-swiftui-compiler-magic",
             "updated": 1559653200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/autoreleasepool-in-swift",
             "title": "autoreleasepool uses in Swift",
             "link": "https://swiftrocks.com/autoreleasepool-in-swift",
             "updated": 1558530000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/code-style-guides-in-swift",
             "title": "Avoiding Release Anxiety 2: On the importance of creating a code Style Guide",
             "link": "https://swiftrocks.com/code-style-guides-in-swift",
             "updated": 1557234000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/blockbased-ui-testing-in-swift",
             "title": "Avoiding Release Anxiety 1: Block-based UI Testing in Swift",
             "link": "https://swiftrocks.com/blockbased-ui-testing-in-swift",
             "updated": 1555765200,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/adding-deeplink-shortcuts-to-the-ios-home-screen",
             "title": "Adding iOS Home Shortcuts to Specific Parts of An App in Swift",
             "link": "https://swiftrocks.com/adding-deeplink-shortcuts-to-the-ios-home-screen",
             "updated": 1550664000,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/avoiding-callback-hell-in-swift",
             "title": "Avoiding Callback Hell in Swift",
             "link": "https://swiftrocks.com/avoiding-callback-hell-in-swift",
             "updated": 1545032527,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-dynamicmemberlookup-works-internally-in-swift",
             "title": "How @dynamicMemberLookup Works Internally in Swift (+ Creating Custom Swift Attributes)",
             "link": "https://swiftrocks.com/how-dynamicmemberlookup-works-internally-in-swift",
             "updated": 1544082127,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-never-works-internally-in-swift",
             "title": "How Never Works Internally in Swift",
             "link": "https://swiftrocks.com/how-never-works-internally-in-swift",
             "updated": 1542181327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/whats-type-and-self-swift-metatypes",
             "title": "What's .self, .Type and .Protocol? Understanding Swift Metatypes",
             "link": "https://swiftrocks.com/whats-type-and-self-swift-metatypes",
             "updated": 1540794193,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/unowned-properties-in-swift",
             "title": "Unowned Properties in Swift",
             "link": "https://swiftrocks.com/unowned-properties-in-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/understanding-dispatchqueues",
             "title": "Understanding DispatchQueues",
             "link": "https://swiftrocks.com/understanding-dispatchqueues",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/lazy-sequences-in-swift-and-how-they-work",
             "title": "Lazy Sequences in Swift And How They Work",
             "link": "https://swiftrocks.com/lazy-sequences-in-swift-and-how-they-work",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/writing-cleaner-view-code-by-overriding-loadview",
             "title": "Writing Cleaner View Code in Swift By Overriding loadView()",
             "link": "https://swiftrocks.com/writing-cleaner-view-code-by-overriding-loadview",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/competitive-programming-with-swift",
             "title": "Competitive Programming With Swift",
             "link": "https://swiftrocks.com/competitive-programming-with-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/running-other-apps-siri-shortcuts-through-deep-links-in-swift",
             "title": "Running Other Apps' Siri Shortcuts Through Deep Links in Swift",
             "link": "https://swiftrocks.com/running-other-apps-siri-shortcuts-through-deep-links-in-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/swift-associated-types-with-default-values",
             "title": "Swift Associated Types With Default Values",
             "link": "https://swiftrocks.com/swift-associated-types-with-default-values",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/detecting-touchid-fingerprint-changes",
             "title": "Detecting TouchID fingerprint/FaceID face changes",
             "link": "https://swiftrocks.com/detecting-touchid-fingerprint-changes",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift",
             "title": "Writing Custom Pattern Matching in Swift",
             "link": "https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/how-caseiterable-works-internally-in-swift",
             "title": "How CaseIterable Works Internally in Swift",
             "link": "https://swiftrocks.com/how-caseiterable-works-internally-in-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/the-forbidden-inline-attribute-in-swift",
             "title": "The Forbidden @inline Attribute in Swift",
             "link": "https://swiftrocks.com/the-forbidden-inline-attribute-in-swift",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/memory-management-and-performance-of-value-types",
             "title": "Memory Management and Performance of Value Types",
             "link": "https://swiftrocks.com/memory-management-and-performance-of-value-types",
             "updated": 1540543327,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         },
         {
             "id": "https://swiftrocks.com/reverse-engineering-ios-facebook-messenger-chat",
             "title": "iOS Security: Reverse Engineering Messenger's Chat Bubbles",
             "link": "https://swiftrocks.com/reverse-engineering-ios-facebook-messenger-chat",
             "updated": 1478504527,
-            "site_url": "https://swiftrocks.com/"
+            "site_url": "https://swiftrocks.com/",
+            "slug": "development"
         }
     ]
 }

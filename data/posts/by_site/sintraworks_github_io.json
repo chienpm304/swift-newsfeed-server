@@ -6,70 +6,80 @@
             "title": "Money Type",
             "link": "https://sintraworks.github.io/swift/2023/09/13/money.html",
             "updated": 1694538000,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/2023/09/12/fractions-revisited",
             "title": "Fractions Revisited",
             "link": "https://sintraworks.github.io/swift/2023/09/12/fractions-revisited.html",
             "updated": 1694451600,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/swiftui/2022/08/22/bottom-wheel-picker",
             "title": "SwiftUI: Showing a control and implementing avoidance",
             "link": "https://sintraworks.github.io/swift/swiftui/2022/08/22/bottom-wheel-picker.html",
             "updated": 1661101200,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/swiftui/2020/07/07/segmentedpicker",
             "title": "An Adaptable Segmented Control",
             "link": "https://sintraworks.github.io/swift/swiftui/2020/07/07/segmentedpicker.html",
             "updated": 1594054800,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/fractions/math/swift/2020/03/18/fractions",
             "title": "Fractions",
             "link": "https://sintraworks.github.io/fractions/math/swift/2020/03/18/fractions.html",
             "updated": 1584464400,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/2019/07/07/observables-1",
             "title": "Observers as an alternative to delegates",
             "link": "https://sintraworks.github.io/swift/2019/07/07/observables-1.html",
             "updated": 1562432400,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/2019/07/07/observables-2",
             "title": "Observable controls",
             "link": "https://sintraworks.github.io/swift/2019/07/07/observables-2.html",
             "updated": 1562432400,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/uikit/2018/12/24/scrolling-stackview",
             "title": "A Scrolling Stackview",
             "link": "https://sintraworks.github.io/swift/uikit/2018/12/24/scrolling-stackview.html",
             "updated": 1545584400,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/uikit/2018/11/01/a-better-navigation-controller",
             "title": "PleasantNavigationController",
             "link": "https://sintraworks.github.io/swift/uikit/2018/11/01/a-better-navigation-controller.html",
             "updated": 1541005200,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         },
         {
             "id": "https://sintraworks.github.io/swift/autolayout/2018/01/06/autolayout-dsl-v2",
             "title": "Mini Auto Layout DSL Revisited",
             "link": "https://sintraworks.github.io/swift/autolayout/2018/01/06/autolayout-dsl-v2.html",
             "updated": 1515171600,
-            "site_url": "https://sintraworks.github.io"
+            "site_url": "https://sintraworks.github.io",
+            "slug": "development"
         }
     ]
 }

@@ -6,105 +6,120 @@
             "title": "Use OpenVPN as a proxy to more comfortably access internal Gitlab",
             "link": "https://blog.kulman.sk/use-openvn-as-proxy/",
             "updated": 1712183352,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/tableviews-with-reorder-and-selection/",
             "title": "Using reordering and selection at the same time in UITableView",
             "link": "https://blog.kulman.sk/tableviews-with-reorder-and-selection/",
             "updated": 1706653752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/a-few-xcode-debugging-tips/",
             "title": "A few Xcode debugging tips",
             "link": "https://blog.kulman.sk/a-few-xcode-debugging-tips/",
             "updated": 1689114552,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/using-critical-alerts-on-ios/",
             "title": "Using Critical Alerts in iOS applications",
             "link": "https://blog.kulman.sk/using-critical-alerts-on-ios/",
             "updated": 1680042552,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/using-swiftlint-for-gitlab-code-quality/",
             "title": "Using SwiftLint to generate code quality report for Gitlab",
             "link": "https://blog.kulman.sk/using-swiftlint-for-gitlab-code-quality/",
             "updated": 1655245752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/",
             "title": "Correctly playing audio in iOS applications",
             "link": "https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/",
             "updated": 1650493752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/automatically-merge-xcode-project-conflicts/",
             "title": "Automatically merging conflicts in Xcode project files",
             "link": "https://blog.kulman.sk/automatically-merge-xcode-project-conflicts/",
             "updated": 1640039352,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/dealing-with-microsoft-in-wp-times/",
             "title": "My experience dealing with Microsoft in the old Windows Phone times",
             "link": "https://blog.kulman.sk/dealing-with-microsoft-in-wp-times/",
             "updated": 1629844152,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/parallel-ui-test-runs/",
             "title": "Allowing parallel iOS UI tests runs in CI",
             "link": "https://blog.kulman.sk/parallel-ui-test-runs/",
             "updated": 1621376952,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/reading-environment-variables-from-unit-tests/",
             "title": "Reading environment variables from iOS and macOS unit tests",
             "link": "https://blog.kulman.sk/reading-environment-variables-from-unit-tests/",
             "updated": 1615933752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/graying-out-images/",
             "title": "Graying out images in Cocoa",
             "link": "https://blog.kulman.sk/graying-out-images/",
             "updated": 1613514552,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/different-git-config-for-work-projects/",
             "title": "Using different Git config for personal and work projects",
             "link": "https://blog.kulman.sk/different-git-config-for-work-projects/",
             "updated": 1606861752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/web-scraping-with-swift/",
             "title": "Web scraping with Swift",
             "link": "https://blog.kulman.sk/web-scraping-with-swift/",
             "updated": 1605652152,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/generating-boilerplate-swift-code/",
             "title": "Generating boilerplate Swift code with GYB",
             "link": "https://blog.kulman.sk/generating-boilerplate-swift-code/",
             "updated": 1602023352,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         },
         {
             "id": "https://blog.kulman.sk/xcode-build-times/",
             "title": "How much time a day do you waste waiting for Xcode builds?",
             "link": "https://blog.kulman.sk/xcode-build-times/",
             "updated": 1597789752,
-            "site_url": "https://blog.kulman.sk"
+            "site_url": "https://blog.kulman.sk",
+            "slug": "development"
         }
     ]
 }

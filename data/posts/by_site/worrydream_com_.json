@@ -6,7 +6,8 @@
             "title": "New website",
             "link": "https://worrydream.com/",
             "updated": 1709267387,
-            "site_url": "https://worrydream.com/"
+            "site_url": "https://worrydream.com/",
+            "slug": "development"
         }
     ]
 }

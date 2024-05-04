@@ -6,1071 +6,1224 @@
             "title": "From Engineer to Manager: A Year of Growth and Transformation",
             "link": "https://benoitpasquier.com/2023/06/from-engineer-to-manager-a-year-of-growth-and-transformation/",
             "updated": 1686438000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
             "title": "Things to know before becoming an Engineering Manager",
             "link": "https://benoitpasquier.com/2023/02/things-to-know-before-becoming-an-engineering-manager/",
             "updated": 1676761200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2023/02/transitioning-to-an-engineering-manager-role/",
             "title": "Transitioning to an Engineering Manager role",
             "link": "https://benoitpasquier.com/2023/02/transitioning-to-an-engineering-manager-role/",
             "updated": 1675724400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/",
             "title": "Security Application Static Analysis applied to iOS and Gitlab CI",
             "link": "https://benoitpasquier.com/2022/07/security-application-static-analysis-applied-to-ios-and-gitlab-ci/",
             "updated": 1659222000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/being-efficient-mobile-engineer/",
             "title": "Being more efficient as a mobile engineer",
             "link": "https://benoitpasquier.com/being-efficient-mobile-engineer/",
             "updated": 1656111600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/remove-ios-app-from-app-store/",
             "title": "When to remove your iOS app from the App Store",
             "link": "https://benoitpasquier.com/remove-ios-app-from-app-store/",
             "updated": 1652144400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/weak-self-story-memory-management-closure-swift/",
             "title": "Weak self, a story about memory management and closure in Swift",
             "link": "https://benoitpasquier.com/weak-self-story-memory-management-closure-swift/",
             "updated": 1648836000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/auto-layout-constraint-swift/",
             "title": "Setting up Auto Layout constraints programmatically in Swift",
             "link": "https://benoitpasquier.com/auto-layout-constraint-swift/",
             "updated": 1647194400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2022/03/ten-years-of-blogging-one-article-at-a-time/",
             "title": "Ten years of blogging, one article at a time",
             "link": "https://benoitpasquier.com/2022/03/ten-years-of-blogging-one-article-at-a-time/",
             "updated": 1646269200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/deep-linking-url-scheme-ios/",
             "title": "Deep linking and URL scheme in iOS",
             "link": "https://benoitpasquier.com/deep-linking-url-scheme-ios/",
             "updated": 1644688800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/tips-tweaks-github-action-ios/",
             "title": "Tips and tweaks to integrate Github Action to your iOS project",
             "link": "https://benoitpasquier.com/tips-tweaks-github-action-ios/",
             "updated": 1643331600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/fastlane-flutter-ios/",
             "title": "Flutter and fastlane, how to setup an iOS continuous delivery solution",
             "link": "https://benoitpasquier.com/fastlane-flutter-ios/",
             "updated": 1638579600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/currency-textfield-in-swiftui/",
             "title": "Currency TextField in SwiftUI",
             "link": "https://benoitpasquier.com/currency-textfield-in-swiftui/",
             "updated": 1635980400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/open-source-checklist-swift-library/",
             "title": "Open Source checklist for your next Swift library",
             "link": "https://benoitpasquier.com/open-source-checklist-swift-library/",
             "updated": 1631322000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/unit-testing-uiview-action-gesture-swift/",
             "title": "Unit testing UIView action and gesture in Swift",
             "link": "https://benoitpasquier.com/unit-testing-uiview-action-gesture-swift/",
             "updated": 1629421200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/modular-app-dependency-injection-generics-swift/",
             "title": "Dependency injection and Generics to create a modular app in Swift",
             "link": "https://benoitpasquier.com/modular-app-dependency-injection-generics-swift/",
             "updated": 1628557200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2021/07/things-i-wish-i-knew-in-my-early-coding-career/",
             "title": "Things I wish I knew in my early coding career",
             "link": "https://benoitpasquier.com/2021/07/things-i-wish-i-knew-in-my-early-coding-career/",
             "updated": 1627174800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/create-webview-in-swiftui/",
             "title": "Create a web browser with WebKit and SwiftUI",
             "link": "https://benoitpasquier.com/create-webview-in-swiftui/",
             "updated": 1623718800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/migrating-ios-app-swiftui-part-2-realm-database/",
             "title": "Migrating an iOS app to SwiftUI - Database with Realm",
             "link": "https://benoitpasquier.com/migrating-ios-app-swiftui-part-2-realm-database/",
             "updated": 1613350800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/migrating-ios-app-swiftui-part-1/",
             "title": "Migrating an iOS app to SwiftUI - Navigation & Storyboards",
             "link": "https://benoitpasquier.com/migrating-ios-app-swiftui-part-1/",
             "updated": 1612746000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/webcam-utility-app-macos-swiftui/",
             "title": "Creating a webcam utility app for macOS in SwiftUI",
             "link": "https://benoitpasquier.com/webcam-utility-app-macos-swiftui/",
             "updated": 1612054800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/migrating-mvvm-uikit-rxswift-to-combine/",
             "title": "Migrating MVVM architecture from RxSwift to Combine",
             "link": "https://benoitpasquier.com/migrating-mvvm-uikit-rxswift-to-combine/",
             "updated": 1611450000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/date-formatter-swiftui/",
             "title": "How to display date and time in SwiftUI",
             "link": "https://benoitpasquier.com/date-formatter-swiftui/",
             "updated": 1610845200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/dynamic-onboarding-ios-swift/",
             "title": "Create a dynamic onboarding UI in Swift",
             "link": "https://benoitpasquier.com/dynamic-onboarding-ios-swift/",
             "updated": 1610240400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/goodbye-2020-year-perspective/",
             "title": "Goodbye 2020 - A year in perspective",
             "link": "https://benoitpasquier.com/goodbye-2020-year-perspective/",
             "updated": 1609290000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/data-between-views-using-coordinator-pattern-swift/",
             "title": "How to pass data between views using Coordinator pattern in Swift",
             "link": "https://benoitpasquier.com/data-between-views-using-coordinator-pattern-swift/",
             "updated": 1603674000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/automating-appstore-localized-screenshot-xctest/",
             "title": "Automating App Store localized screenshots with XCTest and Xcode Test Plan",
             "link": "https://benoitpasquier.com/automating-appstore-localized-screenshot-xctest/",
             "updated": 1603069200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/playing-video-avplayer-swiftui/",
             "title": "Playing Video with AVPlayer in SwiftUI",
             "link": "https://benoitpasquier.com/playing-video-avplayer-swiftui/",
             "updated": 1602464400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/catalyst-swiftui-should-you-create-macos-app/",
             "title": "With Catalyst and SwiftUI multi-platform, should you create a macOS version of your app?",
             "link": "https://benoitpasquier.com/catalyst-swiftui-should-you-create-macos-app/",
             "updated": 1600736400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/create-watchos-app-in-swiftui/",
             "title": "Create a watchOS app in SwiftUI",
             "link": "https://benoitpasquier.com/create-watchos-app-in-swiftui/",
             "updated": 1600131600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2020/09/as-software-engineer-how-to-face-the-impostor-syndrome/",
             "title": "As software engineer, how to face the impostor syndrome?",
             "link": "https://benoitpasquier.com/2020/09/as-software-engineer-how-to-face-the-impostor-syndrome/",
             "updated": 1599354000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/advanced-testing-tips-xcode/",
             "title": "Advanced testing tips in Xcode",
             "link": "https://benoitpasquier.com/advanced-testing-tips-xcode/",
             "updated": 1597539600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/atomic-properties-thread-safe-data-structure-swift/",
             "title": "Atomic properties and Thread-safe data structure in Swift",
             "link": "https://benoitpasquier.com/atomic-properties-thread-safe-data-structure-swift/",
             "updated": 1596330000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/deploying-swift-on-aws-lambda/",
             "title": "Deploying your Swift code on AWS Lambda",
             "link": "https://benoitpasquier.com/deploying-swift-on-aws-lambda/",
             "updated": 1594083600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/introduction-mvvm-pattern-objective-c/",
             "title": "Introduction to MVVM pattern in Objective-C",
             "link": "https://benoitpasquier.com/introduction-mvvm-pattern-objective-c/",
             "updated": 1592096400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/100-days-algorithm-data-structure-swift/",
             "title": "100 day challenge of data structure and algorithm in Swift",
             "link": "https://benoitpasquier.com/100-days-algorithm-data-structure-swift/",
             "updated": 1591578000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/data-structure-implement-tree-swift/",
             "title": "Data Structure - Implementing a Tree in Swift",
             "link": "https://benoitpasquier.com/data-structure-implement-tree-swift/",
             "updated": 1589072400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/using-key-value-observing-to-debug-your-app/",
             "title": "Using Key-Value Observing in Swift to debug your app",
             "link": "https://benoitpasquier.com/using-key-value-observing-to-debug-your-app/",
             "updated": 1586480400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/data-structure-implement-stack-swift/",
             "title": "Data Structure - Coding a Stack in Swift",
             "link": "https://benoitpasquier.com/data-structure-implement-stack-swift/",
             "updated": 1585789200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/data-structure-implement-queue-swift/",
             "title": "Data Structure - How to implement a Queue in Swift",
             "link": "https://benoitpasquier.com/data-structure-implement-queue-swift/",
             "updated": 1585443600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2020/03/should-i-quit-blogging/",
             "title": "Should I quit blogging?",
             "link": "https://benoitpasquier.com/2020/03/should-i-quit-blogging/",
             "updated": 1585011600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/start-ab-testing-journey-with-swiftui/",
             "title": "Start your A/B testing journey with SwiftUI",
             "link": "https://benoitpasquier.com/start-ab-testing-journey-with-swiftui/",
             "updated": 1581296400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2020/01/how-to-make-your-ios-app-smarter-with-sentiment-analysis/",
             "title": "How to make your iOS app smarter with sentiment analysis",
             "link": "https://benoitpasquier.com/2020/01/how-to-make-your-ios-app-smarter-with-sentiment-analysis/",
             "updated": 1580173200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/",
             "title": "Localization with SwiftUI, how to preview your localized content",
             "link": "https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/",
             "updated": 1579395600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/swiftui-what-has-changed-in-mvvm-pattern-swift/",
             "title": "SwiftUI - What has changed in your MVVM pattern implementation",
             "link": "https://benoitpasquier.com/swiftui-what-has-changed-in-mvvm-pattern-swift/",
             "updated": 1578790800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/data-structure-algorithm-applied-to-swift/",
             "title": "Data Structure and Algorithm applied to iOS",
             "link": "https://benoitpasquier.com/data-structure-algorithm-applied-to-swift/",
             "updated": 1576717200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/integrate-redux-in-mvvm-architecture/",
             "title": "How to integrate Redux in your MVVM architecture",
             "link": "https://benoitpasquier.com/integrate-redux-in-mvvm-architecture/",
             "updated": 1575853200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/2019/10/software-engineer-its-okay-to-not-have-a-side-project/",
             "title": "Software engineer, it's okay to not have a side project",
             "link": "https://benoitpasquier.com/2019/10/software-engineer-its-okay-to-not-have-a-side-project/",
             "updated": 1571446800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-build-modular-architecture-ios/",
             "title": "How to build a modular architecture in iOS",
             "link": "https://benoitpasquier.com/how-build-modular-architecture-ios/",
             "updated": 1569805200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/common-mistakes-analytics-ios-app/",
             "title": "Analytics - How to avoid common mistakes in iOS",
             "link": "https://benoitpasquier.com/common-mistakes-analytics-ios-app/",
             "updated": 1569286800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/portfolio/",
             "title": "Apps and Projects",
             "link": "https://benoitpasquier.com/portfolio/",
             "updated": 1569114000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/talks/",
             "title": "Events and Talks",
             "link": "https://benoitpasquier.com/talks/",
             "updated": 1569114000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/code-coverage-xcode-avoid-vanity-metric-ios/",
             "title": "Code Coverage in Xcode - How to avoid a vanity metric for your iOS app",
             "link": "https://benoitpasquier.com/code-coverage-xcode-avoid-vanity-metric-ios/",
             "updated": 1566781200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/appy-ios-app-quit-bad-habits/",
             "title": "Appy, an iOS app to help you quit your bad habits",
             "link": "https://benoitpasquier.com/appy-ios-app-quit-bad-habits/",
             "updated": 1565751600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-integrate-sign-in-with-apple-ios/",
             "title": "How to integrate Sign In with Apple in your iOS app",
             "link": "https://benoitpasquier.com/how-to-integrate-sign-in-with-apple-ios/",
             "updated": 1564966800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-avoid-mistakes-first-ios-talk/",
             "title": "How to avoid common mistakes for your first iOS talk",
             "link": "https://benoitpasquier.com/how-to-avoid-mistakes-first-ios-talk/",
             "updated": 1564448400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/first-steps-apple-combine-framework-swift/",
             "title": "First steps in functional reactive programming in Swift with Apple Combine framework",
             "link": "https://benoitpasquier.com/first-steps-apple-combine-framework-swift/",
             "updated": 1561078800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/code-review-health-check-of-swift-code/",
             "title": "iOS Code Review - Health check of your Swift code",
             "link": "https://benoitpasquier.com/code-review-health-check-of-swift-code/",
             "updated": 1560128400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/integrate-coordinator-pattern-in-rxswift/",
             "title": "How to implement Coordinator pattern with RxSwift",
             "link": "https://benoitpasquier.com/integrate-coordinator-pattern-in-rxswift/",
             "updated": 1559610000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/intro-redux-in-swift-with-reswift/",
             "title": "ReSwift - Introduction to Redux architecture in Swift",
             "link": "https://benoitpasquier.com/intro-redux-in-swift-with-reswift/",
             "updated": 1558832400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/tools-tips-to-scale-ios-project-and-team/",
             "title": "Tools and tips to scale your iOS project along with your team",
             "link": "https://benoitpasquier.com/tools-tips-to-scale-ios-project-and-team/",
             "updated": 1558314000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/advanced-concepts-uitableView-rxdatasource/",
             "title": "RxSwift & MVVM - Advanced concepts of UITableView with RxDataSources",
             "link": "https://benoitpasquier.com/advanced-concepts-uitableView-rxdatasource/",
             "updated": 1557018000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-use-vapor-server-ui-tests-swift/",
             "title": "How to use Vapor Server to write stronger UI tests in Swift",
             "link": "https://benoitpasquier.com/how-to-use-vapor-server-ui-tests-swift/",
             "updated": 1556413200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-bootstrap-ios-app-to-iterate-faster/",
             "title": "How to bootstrap your iOS app to iterate faster",
             "link": "https://benoitpasquier.com/how-to-bootstrap-ios-app-to-iterate-faster/",
             "updated": 1555894800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-use-rxtests-to-test-mvvm/",
             "title": "RxSwift & MVVM - How to use RxTests to test your ViewModel",
             "link": "https://benoitpasquier.com/how-to-use-rxtests-to-test-mvvm/",
             "updated": 1555290000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/down-rabbit-hole-ios-design-patterns/",
             "title": "Down the rabbit hole of iOS design patterns",
             "link": "https://benoitpasquier.com/down-rabbit-hole-ios-design-patterns/",
             "updated": 1554685200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/coordinator-pattern-navigation-back-button-swift/",
             "title": "Coordinator & MVVM - Clean Navigation and Back Button in Swift",
             "link": "https://benoitpasquier.com/coordinator-pattern-navigation-back-button-swift/",
             "updated": 1554080400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/reversi-ab-testing-framework-ios/",
             "title": "Reversi - An elegant A/B testing framework for iOS in Swift.",
             "link": "https://benoitpasquier.com/reversi-ab-testing-framework-ios/",
             "updated": 1553475600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/dos-donts-onboarding-ios/",
             "title": "Dos and Don\u2019ts for creating an onboarding journey on iOS",
             "link": "https://benoitpasquier.com/dos-donts-onboarding-ios/",
             "updated": 1552870800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/coordinator-pattern-swift/",
             "title": "Introduction to Coordinator pattern in Swift",
             "link": "https://benoitpasquier.com/coordinator-pattern-swift/",
             "updated": 1552266000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-to-create-customer-focused-mobile-app/",
             "title": "How to create a customer focused mobile app",
             "link": "https://benoitpasquier.com/how-to-create-customer-focused-mobile-app/",
             "updated": 1551661200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/adaptive-layout-collectionview-swift/",
             "title": "Adaptive Layout and UICollectionView in Swift",
             "link": "https://benoitpasquier.com/adaptive-layout-collectionview-swift/",
             "updated": 1551142800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/",
             "title": "RxSwift & MVVM - An alternative structure for your ViewModel",
             "link": "https://benoitpasquier.com/rxswift-mvvm-alternative-structure-for-viewmodel/",
             "updated": 1550451600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/machine-learning-fashion-swift/",
             "title": "Create a machine learning model to classify Fashion images in Swift",
             "link": "https://benoitpasquier.com/machine-learning-fashion-swift/",
             "updated": 1549760400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/integrate-rxswift-in-mvvm/",
             "title": "How to integrate RxSwift in your MVVM architecture",
             "link": "https://benoitpasquier.com/integrate-rxswift-in-mvvm/",
             "updated": 1549414800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/delegate-design-pattern-swift/",
             "title": "Design pattern in Swift - Delegation",
             "link": "https://benoitpasquier.com/delegate-design-pattern-swift/",
             "updated": 1548637200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ui-testing-inspect-ios-app/",
             "title": "UI testing - How to inspect your iOS app with Calabash and Appium",
             "link": "https://benoitpasquier.com/ui-testing-inspect-ios-app/",
             "updated": 1548032400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/new-year-2019/",
             "title": "Don't forget what you've accomplished this year",
             "link": "https://benoitpasquier.com/new-year-2019/",
             "updated": 1546822800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/develop-creativity-ios-apps/",
             "title": "Develop your creativity with ephemeral iOS apps",
             "link": "https://benoitpasquier.com/develop-creativity-ios-apps/",
             "updated": 1545267600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/observer-design-pattern-swift/",
             "title": "Design pattern in Swift - Observers",
             "link": "https://benoitpasquier.com/observer-design-pattern-swift/",
             "updated": 1544576400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/image-classification-tensorflow-hackathon/",
             "title": "Build a visual search app with TensorFlow in less than 24 hours",
             "link": "https://benoitpasquier.com/image-classification-tensorflow-hackathon/",
             "updated": 1541638800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/always-keep-your-skills-sharp/",
             "title": "Always keep your skills sharp",
             "link": "https://benoitpasquier.com/always-keep-your-skills-sharp/",
             "updated": 1540083600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/detect-product-market-fit-ios/",
             "title": "How to detect if your iOS app hits product market fit",
             "link": "https://benoitpasquier.com/detect-product-market-fit-ios/",
             "updated": 1535331600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/encoding-decoding-json-swift4/",
             "title": "The best way to encode and decode JSON in Swift4",
             "link": "https://benoitpasquier.com/encoding-decoding-json-swift4/",
             "updated": 1533517200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/choosing-xcuitest-over-appium-ui-testing/",
             "title": "Why choosing XCUITest framework over Appium for UI automation testing",
             "link": "https://benoitpasquier.com/choosing-xcuitest-over-appium-ui-testing/",
             "updated": 1529456400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/adding-home-screen-action-swift/",
             "title": "Why and how to add home screen shortcut for your iOS app",
             "link": "https://benoitpasquier.com/adding-home-screen-action-swift/",
             "updated": 1528160400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/learning-from-blogging/",
             "title": "What I learn from six years of blogging",
             "link": "https://benoitpasquier.com/learning-from-blogging/",
             "updated": 1527469200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/error-handling-swift-mvvm/",
             "title": "Error handling in MVVM architecture in Swift",
             "link": "https://benoitpasquier.com/error-handling-swift-mvvm/",
             "updated": 1526950800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/japan-direct-ios-app/",
             "title": "From the idea of an iOS app to App Store in 10 hours",
             "link": "https://benoitpasquier.com/japan-direct-ios-app/",
             "updated": 1526353200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/optimise-uicollectionview-swift/",
             "title": "How to optimise your UICollectionView implementation in Swift",
             "link": "https://benoitpasquier.com/optimise-uicollectionview-swift/",
             "updated": 1524704400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/universal-links-ios/",
             "title": "Support universal links in your iOS app",
             "link": "https://benoitpasquier.com/universal-links-ios/",
             "updated": 1523408400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/enumerations-in-swift/",
             "title": "Make the most of enumerations in Swift",
             "link": "https://benoitpasquier.com/enumerations-in-swift/",
             "updated": 1520989200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/integrate-firebase-ios-app/",
             "title": "How to integrate Firebase in your iOS app",
             "link": "https://benoitpasquier.com/integrate-firebase-ios-app/",
             "updated": 1520384400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/lean-programming-to-growth-marketing/",
             "title": "From lean programming to growth marketing",
             "link": "https://benoitpasquier.com/lean-programming-to-growth-marketing/",
             "updated": 1519693200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/introduction-protocol-oriented-programming-swift/",
             "title": "Introduction to Protocol-Oriented Programming in Swift",
             "link": "https://benoitpasquier.com/introduction-protocol-oriented-programming-swift/",
             "updated": 1519088400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/abstract-ios-third-party-libraries/",
             "title": "Why you should abstract any iOS third party libraries",
             "link": "https://benoitpasquier.com/abstract-ios-third-party-libraries/",
             "updated": 1518570000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/optimise-xcode-build-fastlane/",
             "title": "Optimise Xcode build to speed Fastlane",
             "link": "https://benoitpasquier.com/optimise-xcode-build-fastlane/",
             "updated": 1518138000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/unit-test-swift-mvvm-pattern/",
             "title": "Unit Testing your MVVM architecture in Swift",
             "link": "https://benoitpasquier.com/unit-test-swift-mvvm-pattern/",
             "updated": 1517533200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ios-swift-mvvm-pattern/",
             "title": "How to implement MVVM pattern in Swift from scratch",
             "link": "https://benoitpasquier.com/ios-swift-mvvm-pattern/",
             "updated": 1516842000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/kronos-ios-runners/",
             "title": "Kronos, an iOS app to make runners love numbers",
             "link": "https://benoitpasquier.com/kronos-ios-runners/",
             "updated": 1516064400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/starting-year-right-way/",
             "title": "Starting your year the right way",
             "link": "https://benoitpasquier.com/starting-year-right-way/",
             "updated": 1515459600,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/do-you-need-today-extension-ios/",
             "title": "Do you need a Today extension for your iOS app?",
             "link": "https://benoitpasquier.com/do-you-need-today-extension-ios/",
             "updated": 1513645200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/face-detection-core-ml-vision-ios/",
             "title": "Face detection in iOS with Core ML and Vision in Swift",
             "link": "https://benoitpasquier.com/face-detection-core-ml-vision-ios/",
             "updated": 1512522000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/making-five-years-in-three/",
             "title": "Making five years in three",
             "link": "https://benoitpasquier.com/making-five-years-in-three/",
             "updated": 1511658000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ios-webkit-swift-and-javascript/",
             "title": "How to use Javascript with WKWebView in Swift",
             "link": "https://benoitpasquier.com/ios-webkit-swift-and-javascript/",
             "updated": 1511226000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/charles-ssl-proxy-ios/",
             "title": "Using Charles as SSL Proxy on iOS",
             "link": "https://benoitpasquier.com/charles-ssl-proxy-ios/",
             "updated": 1510628400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/create-your-private-cocoapod-library/",
             "title": "Create your private CocoaPod library",
             "link": "https://benoitpasquier.com/create-your-private-cocoapod-library/",
             "updated": 1508036400,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/be-what-you-want-to-be/",
             "title": "How to be what you want to be",
             "link": "https://benoitpasquier.com/be-what-you-want-to-be/",
             "updated": 1504062000,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/bitbucket-pipeline-and-hockeyapp/",
             "title": "Build your Android app with Bitbucket Pipeline and HockeyApp",
             "link": "https://benoitpasquier.com/bitbucket-pipeline-and-hockeyapp/",
             "updated": 1496113200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/migrate-wordpress-to-hugo/",
             "title": "How to migrate from WordPress to a static website with Hugo and AWS",
             "link": "https://benoitpasquier.com/migrate-wordpress-to-hugo/",
             "updated": 1494385200,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/10-weeks-training-with-running-mobile-apps/",
             "title": "10 weeks training with running mobile apps",
             "link": "https://benoitpasquier.com/10-weeks-training-with-running-mobile-apps/",
             "updated": 1492440030,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/french-election-2017/",
             "title": "French Election 2017, don't get fooled by surveys",
             "link": "https://benoitpasquier.com/french-election-2017/",
             "updated": 1488210714,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/six-months-of-android-development/",
             "title": "Six months of Android development",
             "link": "https://benoitpasquier.com/six-months-of-android-development/",
             "updated": 1485329153,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/feature-flag-mobile-apptimize/",
             "title": "Feature flag your mobile app with Apptimize",
             "link": "https://benoitpasquier.com/feature-flag-mobile-apptimize/",
             "updated": 1479308816,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/xcode-saucelabs/",
             "title": "Xcode script automation for SauceLabs",
             "link": "https://benoitpasquier.com/xcode-saucelabs/",
             "updated": 1475501371,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/mobile-continuous-delivery-bitrise-io/",
             "title": "Mobile continuous delivery with bitrise",
             "link": "https://benoitpasquier.com/mobile-continuous-delivery-bitrise-io/",
             "updated": 1473088216,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/how-can-developer-do-marketing/",
             "title": "How can a developer do marketing?",
             "link": "https://benoitpasquier.com/how-can-developer-do-marketing/",
             "updated": 1470512657,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/hack-linkedin-profile/",
             "title": "Growth Hacking applied to your LinkedIn profile to get a new job",
             "link": "https://benoitpasquier.com/hack-linkedin-profile/",
             "updated": 1460635851,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/sensit-ios-swift/",
             "title": "How to create an iOS app for Sens'it tracker in Swift",
             "link": "https://benoitpasquier.com/sensit-ios-swift/",
             "updated": 1459350769,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/privacy-mobile-apps/",
             "title": "How to keep your privacy in mobile apps",
             "link": "https://benoitpasquier.com/privacy-mobile-apps/",
             "updated": 1454343114,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/appium/",
             "title": "Appium, when automation testing can be randomly wrong",
             "link": "https://benoitpasquier.com/appium/",
             "updated": 1449157223,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/uiautomation-ios9/",
             "title": "UI Automation testing on iOS9",
             "link": "https://benoitpasquier.com/uiautomation-ios9/",
             "updated": 1436800875,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ios-and-javascript/",
             "title": "How to work with native iOS and javascript callbacks in Objective-C",
             "link": "https://benoitpasquier.com/ios-and-javascript/",
             "updated": 1432379465,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ambimac/",
             "title": "AmbiMac, an app creating your own ambilight",
             "link": "https://benoitpasquier.com/ambimac/",
             "updated": 1428508729,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/sleep-healthkit/",
             "title": "Introduction to sleep analysis with HealthKit with Swift",
             "link": "https://benoitpasquier.com/sleep-healthkit/",
             "updated": 1425977352,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/dynamic-url-rewriting-codeigniter/",
             "title": "Dynamic url rewriting in CodeIgniter",
             "link": "https://benoitpasquier.com/dynamic-url-rewriting-codeigniter/",
             "updated": 1425303466,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/developpeur-objets-connectes/",
             "title": "Le m\u00e9tier de d\u00e9veloppeur dans les objets connect\u00e9s",
             "link": "https://benoitpasquier.com/developpeur-objets-connectes/",
             "updated": 1423395788,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/majordhome-projet-dun-startup-weekend/",
             "title": "Majordhome, le projet n\u00e9 durant un startup weekend",
             "link": "https://benoitpasquier.com/majordhome-projet-dun-startup-weekend/",
             "updated": 1419402533,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/les-difficultes-autour-des-objets-connectes/",
             "title": "Les difficult\u00e9s autour des objets connect\u00e9s",
             "link": "https://benoitpasquier.com/les-difficultes-autour-des-objets-connectes/",
             "updated": 1414931254,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/cocktailmaker-objet-connecte/",
             "title": "CocktailMaker, l'objet connect\u00e9 100% hackathon",
             "link": "https://benoitpasquier.com/cocktailmaker-objet-connecte/",
             "updated": 1414314294,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/comment-jawbone-sadapte-a-linternet-des-choses/",
             "title": "Comment Jawbone s'adapte \u00e0 l'Internet des Choses",
             "link": "https://benoitpasquier.com/comment-jawbone-sadapte-a-linternet-des-choses/",
             "updated": 1413306058,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/moto360-ou-withings-activite/",
             "title": "Moto360 ou Withings Activit\u00e9",
             "link": "https://benoitpasquier.com/moto360-ou-withings-activite/",
             "updated": 1404700177,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/mes-premiers-pas-vers-le-lean-startup/",
             "title": "Mes premiers pas vers le Lean Startup",
             "link": "https://benoitpasquier.com/mes-premiers-pas-vers-le-lean-startup/",
             "updated": 1401626672,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/up24-decouverte-du-bracelet-connecte-de-jawbone/",
             "title": "UP24 - D\u00e9couverte du bracelet connect\u00e9 de Jawbone",
             "link": "https://benoitpasquier.com/up24-decouverte-du-bracelet-connecte-de-jawbone/",
             "updated": 1399818002,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/introduction-developpement-soundcloud/",
             "title": "Introduction \u00e0 Soundcloud",
             "link": "https://benoitpasquier.com/introduction-developpement-soundcloud/",
             "updated": 1398180800,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/comment-reussir-son-premier-entretien/",
             "title": "Comment r\u00e9ussir son premier entretien",
             "link": "https://benoitpasquier.com/comment-reussir-son-premier-entretien/",
             "updated": 1392685248,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/spotify-et-ses-outils-dintegration/",
             "title": "Spotify et ses outils d'int\u00e9gration",
             "link": "https://benoitpasquier.com/spotify-et-ses-outils-dintegration/",
             "updated": 1391845603,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/hackathon-ma-maison-connectee/",
             "title": "Hackathon: ma maison connect\u0117e",
             "link": "https://benoitpasquier.com/hackathon-ma-maison-connectee/",
             "updated": 1386746198,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/spritekit-librairie-jeu-video-ios7/",
             "title": "SpriteKit, un framework iOS7 pour jeu video",
             "link": "https://benoitpasquier.com/spritekit-librairie-jeu-video-ios7/",
             "updated": 1385186213,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/fhacktory-un-hackathon-nouvelle-generation/",
             "title": "Fhacktory, un hackathon nouvelle g\u00e9n\u00e9ration",
             "link": "https://benoitpasquier.com/fhacktory-un-hackathon-nouvelle-generation/",
             "updated": 1380894032,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/a-la-decouverte-des-outils-de-deezer/",
             "title": "\u00c0 la d\u00e9couverte des outils de Deezer",
             "link": "https://benoitpasquier.com/a-la-decouverte-des-outils-de-deezer/",
             "updated": 1379293203,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/ijump/",
             "title": "iJump, une application iPhone pour les parachutistes",
             "link": "https://benoitpasquier.com/ijump/",
             "updated": 1374807874,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/la-formation-au-developpement-mobile/",
             "title": "La formation au d\u00e9veloppement mobile",
             "link": "https://benoitpasquier.com/la-formation-au-developpement-mobile/",
             "updated": 1372809762,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/sencha-touch-framework-html5-pour-application-mobile/",
             "title": "Sencha Touch: framework HTML5 pour application mobile",
             "link": "https://benoitpasquier.com/sencha-touch-framework-html5-pour-application-mobile/",
             "updated": 1361778997,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/mvvm-windows-phone-8/",
             "title": "MVVM Light sous Windows Phone 8 SDK",
             "link": "https://benoitpasquier.com/mvvm-windows-phone-8/",
             "updated": 1359522079,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/weather/",
             "title": "R\u00e9alisation: Weather, un portail m\u00e9t\u00e9o pour la chute libre",
             "link": "https://benoitpasquier.com/weather/",
             "updated": 1354185887,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/integration-datamapper-codeigniter/",
             "title": "Int\u00e9gration de DataMapper dans CodeIgniter",
             "link": "https://benoitpasquier.com/integration-datamapper-codeigniter/",
             "updated": 1354091993,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/realisation-idevweb-mise-a-jour/",
             "title": "R\u00e9alisation: iDevWeb - Mise \u00e0 jour",
             "link": "https://benoitpasquier.com/realisation-idevweb-mise-a-jour/",
             "updated": 1352362764,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/librairie-restkit-et-synchronisation-de-donnees/",
             "title": "Librairie Restkit et synchronisation de donn\u00e9es",
             "link": "https://benoitpasquier.com/librairie-restkit-et-synchronisation-de-donnees/",
             "updated": 1348142457,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/realisation-quel-camping/",
             "title": "Quel-camping.fr",
             "link": "https://benoitpasquier.com/realisation-quel-camping/",
             "updated": 1343191061,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/realisation-idevweb-gestion-de-projets-web/",
             "title": "R\u00e9alisation: iDevWeb - Gestion de projets web",
             "link": "https://benoitpasquier.com/realisation-idevweb-gestion-de-projets-web/",
             "updated": 1336981715,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/reecriture-url-avec-htaccess-sous-codeigniter/",
             "title": "R\u00e9\u00e9criture d'urls avec htaccess sous CodeIgniter",
             "link": "https://benoitpasquier.com/reecriture-url-avec-htaccess-sous-codeigniter/",
             "updated": 1331696343,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         },
         {
             "id": "https://benoitpasquier.com/codeigniter-et-son-modele-mvc/",
             "title": "CodeIgniter et son mod\u00e8le MVC",
             "link": "https://benoitpasquier.com/codeigniter-et-son-modele-mvc/",
             "updated": 1330860079,
-            "site_url": "https://benoitpasquier.com/"
+            "site_url": "https://benoitpasquier.com/",
+            "slug": "development"
         }
     ]
 }

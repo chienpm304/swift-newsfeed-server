@@ -6,700 +6,800 @@
             "title": "Meet Reality Composer Pro",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10083",
             "updated": 1710352111,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10142",
             "title": "Explore testing in-app purchases",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10142",
             "updated": 1709042751,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/111241",
             "title": "Explore 3D body pose and person segmentation in Vision",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/111241",
             "updated": 1707015762,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10156",
             "title": "Explore SwiftUI animation",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10156",
             "updated": 1706872851,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10263",
             "title": "Deploy passkeys at work",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10263",
             "updated": 1701433859,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10039",
             "title": "Meet device management for Apple Watch",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10039",
             "updated": 1701373229,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc22/10151",
             "title": "Add accessibility to your Unity games",
             "link": "https://www.wwdcnotes.com/notes/wwdc22/10151",
             "updated": 1701296235,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc22/10102",
             "title": "Target and optimize GPU binaries with Metal 3",
             "link": "https://www.wwdcnotes.com/notes/wwdc22/10102",
             "updated": 1701284653,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10194",
             "title": "Design dynamic Live Activities",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10194",
             "updated": 1699634554,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10102",
             "title": "Spotlight your app with App Shortcuts",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10102",
             "updated": 1699621022,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10057",
             "title": "Unleash the UIKit trait system",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10057",
             "updated": 1699620143,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10185",
             "title": "Update Live Activities with push notifications",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10185",
             "updated": 1699616524,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10108",
             "title": "What's new in Background Assets",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10108",
             "updated": 1699356741,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc21/10259",
             "title": "Your guide to keyboard layout",
             "link": "https://www.wwdcnotes.com/notes/wwdc21/10259",
             "updated": 1699181502,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10241",
             "title": "Share files with SharePlay",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10241",
             "updated": 1699098551,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10258",
             "title": "Animate symbols in your app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10258",
             "updated": 1699010530,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10101",
             "title": "Customize on-device speech recognition",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10101",
             "updated": 1698942913,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10103",
             "title": "Explore enhancements to App Intents",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10103",
             "updated": 1698928011,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc22/110342",
             "title": "Design app experiences with charts",
             "link": "https://www.wwdcnotes.com/notes/wwdc22/110342",
             "updated": 1694500472,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10180",
             "title": "Discover streamlined location updates",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10180",
             "updated": 1694069250,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10250",
             "title": "Prototype with Xcode Playgrounds",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10250",
             "updated": 1693894019,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10089",
             "title": "Discover Metal for immersive apps",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10089",
             "updated": 1693817300,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10086",
             "title": "Explore the USD ecosystem",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10086",
             "updated": 1693803282,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10257",
             "title": "Create animated symbols",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10257",
             "updated": 1693733880,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10115",
             "title": "Design with SwiftUI",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10115",
             "updated": 1693727205,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10273",
             "title": "Work with Reality Composer Pro content in Xcode",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10273",
             "updated": 1692790101,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10202",
             "title": "Explore materials in Reality Composer Pro",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10202",
             "updated": 1692019871,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10071",
             "title": "Deliver video content for spatial experiences",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10071",
             "updated": 1691749941,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10042",
             "title": "Explore Natural Language multilingual models",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10042",
             "updated": 1691654887,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10044",
             "title": "Discover machine learning enhancements in Create ML",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10044",
             "updated": 1691567127,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10233",
             "title": "Enhance your app\u2019s audio experience with AirPods",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10233",
             "updated": 1691557793,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10070",
             "title": "Create a great spatial playback experience",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10070",
             "updated": 1691490315,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10081",
             "title": "Enhance your spatial computing app with RealityKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10081",
             "updated": 1691453554,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10080",
             "title": "Build spatial experiences with RealityKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10080",
             "updated": 1691431791,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10203",
             "title": "Develop your first immersive app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10203",
             "updated": 1691004974,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc22/10035",
             "title": "What's new in MapKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc22/10035",
             "updated": 1690712237,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10048",
             "title": "What's new in VisionKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10048",
             "updated": 1690613122,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10146",
             "title": "Meet Core Location for spatial computing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10146",
             "updated": 1690186470,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10157",
             "title": "Wind your way through advanced animations in SwiftUI",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10157",
             "updated": 1690106537,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc22/10006",
             "title": "Meet Apple Maps Server APIs",
             "link": "https://www.wwdcnotes.com/notes/wwdc22/10006",
             "updated": 1690094394,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10043",
             "title": "Meet MapKit for SwiftUI",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10043",
             "updated": 1689918249,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10309",
             "title": "Design widgets for the Smart Stack on Apple Watch",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10309",
             "updated": 1689804180,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10107",
             "title": "Embed the Photos Picker in your app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10107",
             "updated": 1689325649,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10191",
             "title": "Meet Object Capture for iOS",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10191",
             "updated": 1689269291,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10175",
             "title": "Fix failures faster with Xcode test reports",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10175",
             "updated": 1689149371,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10179",
             "title": "What's new in Core Motion",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10179",
             "updated": 1688809322,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10160",
             "title": "Demystify SwiftUI performance",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10160",
             "updated": 1688617414,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10147",
             "title": "Meet Core Location Monitor",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10147",
             "updated": 1688306750,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10170",
             "title": "Beyond the basics of structured concurrency",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10170",
             "updated": 1688110917,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10078",
             "title": "Design considerations for vision and motion",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10078",
             "updated": 1688018461,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10172",
             "title": "Mix Swift and C++",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10172",
             "updated": 1687849073,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10058",
             "title": "What\u2019s new with text and text interactions",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10058",
             "updated": 1687511948,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10184",
             "title": "Meet ActivityKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10184",
             "updated": 1687168762,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10239",
             "title": "Add SharePlay to your app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10239",
             "updated": 1687146439,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10053",
             "title": "What's new in privacy",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10053",
             "updated": 1686890668,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10055",
             "title": "What's new in UIKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10055",
             "updated": 1686846760,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10281",
             "title": "Keep up with the keyboard",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10281",
             "updated": 1686707340,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10167",
             "title": "Expand on Swift macros",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10167",
             "updated": 1686646560,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10094",
             "title": "Enhance your iPad and iPhone apps for the Shared Space",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10094",
             "updated": 1686645220,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10188",
             "title": "Sync to iCloud with CKSyncEngine",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10188",
             "updated": 1686587694,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10176",
             "title": "Lift subjects from images in your app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10176",
             "updated": 1686584468,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10016",
             "title": "Build custom workouts with WorkoutKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10016",
             "updated": 1686545405,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10113",
             "title": "Take SwiftUI to the next dimension",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10113",
             "updated": 1686520946,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10196",
             "title": "Dive deeper into SwiftData",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10196",
             "updated": 1686501781,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10154",
             "title": "Build an app with SwiftData",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10154",
             "updated": 1686498883,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10014",
             "title": "What's new in App Store pricing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10014",
             "updated": 1686495806,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10158",
             "title": "Animate with springs",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10158",
             "updated": 1686469745,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10248",
             "title": "Analyze hangs with Instruments",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10248",
             "updated": 1686437622,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10110",
             "title": "Elevate your windowed app for spatial computing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10110",
             "updated": 1686419348,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10171",
             "title": "Meet Swift OpenAPI Generator",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10171",
             "updated": 1686416030,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10028",
             "title": "Bring widgets to life",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10028",
             "updated": 1686415692,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10235",
             "title": "What's new in voice processing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10235",
             "updated": 1686411893,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10136",
             "title": "What\u2019s new in ScreenCaptureKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10136",
             "updated": 1686409080,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10268",
             "title": "Meet mergeable libraries",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10268",
             "updated": 1686398223,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10189",
             "title": "Migrate to SwiftData",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10189",
             "updated": 1686386843,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10012",
             "title": "Explore App Store Connect for spatial computing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10012",
             "updated": 1686358298,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10260",
             "title": "Get started with building apps for spatial computing",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10260",
             "updated": 1686358298,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10161",
             "title": "Inspectors in SwiftUI: Discover the details",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10161",
             "updated": 1686357749,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10076",
             "title": "Design for spatial user interfaces",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10076",
             "updated": 1686335870,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10032",
             "title": "Meet Assistive Access",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10032",
             "updated": 1686331506,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10025",
             "title": "Meet Push Notifications Console",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10025",
             "updated": 1686326797,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10072",
             "title": "Principles of spatial design",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10072",
             "updated": 1686323861,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10224",
             "title": "Simplify distribution in Xcode and Xcode Cloud",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10224",
             "updated": 1686319420,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10229",
             "title": "Make features discoverable with TipKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10229",
             "updated": 1686319420,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10153",
             "title": "Unlock the power of grammatical agreement",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10153",
             "updated": 1686316220,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10015",
             "title": "What's new in App Store pre-orders",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10015",
             "updated": 1686300535,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10033",
             "title": "Extend Speech Synthesis with personal and custom voices",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10033",
             "updated": 1686297030,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10178",
             "title": "What's new in App Clips",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10178",
             "updated": 1686294522,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10155",
             "title": "Discover String Catalogs",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10155",
             "updated": 1686285450,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10036",
             "title": "Build accessible apps with SwiftUI and UIKit",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10036",
             "updated": 1686279043,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10035",
             "title": "Perform accessibility audits for your app",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10035",
             "updated": 1686279033,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10252",
             "title": "Build programmatic UI with Xcode Previews",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10252",
             "updated": 1686261340,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10061",
             "title": "Verify app dependencies with digital signatures",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10061",
             "updated": 1686252212,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10226",
             "title": "Debug with structured logging",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10226",
             "updated": 1686247803,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10034",
             "title": "Create accessible spatial experiences",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10034",
             "updated": 1686246533,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10051",
             "title": "Create a great ShazamKit experience",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10051",
             "updated": 1686244868,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10037",
             "title": "Explore pie charts and interactivity in Swift Charts",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10037",
             "updated": 1686244456,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10195",
             "title": "Model your schema with SwiftData",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10195",
             "updated": 1686215347,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10118",
             "title": "What's new in Web Inspector",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10118",
             "updated": 1686209851,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         },
         {
             "id": "https://www.wwdcnotes.com/notes/wwdc23/10117",
             "title": "What's new in App Store Connect",
             "link": "https://www.wwdcnotes.com/notes/wwdc23/10117",
             "updated": 1686204196,
-            "site_url": "https://wwdcnotes.com"
+            "site_url": "https://wwdcnotes.com",
+            "slug": "development"
         }
     ]
 }

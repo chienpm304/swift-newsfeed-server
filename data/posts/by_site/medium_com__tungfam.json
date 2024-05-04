@@ -6,49 +6,56 @@
             "title": "How to find an apartment in Munich, Germany",
             "link": "https://medium.com/@tungfam/how-to-find-an-apartment-in-munich-germany-68eebac6957c?source=rss-69df2af07e8a------2",
             "updated": 1692152459,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d1677e5aa0bf",
             "title": "Custom UIViewController transitions in Swift",
             "link": "https://medium.com/@tungfam/custom-uiviewcontroller-transitions-in-swift-d1677e5aa0bf?source=rss-69df2af07e8a------2",
             "updated": 1582789468,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/5c8c4d47a6ff",
             "title": "How to code faster on Mac",
             "link": "https://medium.com/@tungfam/how-to-code-faster-on-mac-5c8c4d47a6ff?source=rss-69df2af07e8a------2",
             "updated": 1574049523,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/d7d6bf4816aa",
             "title": "5 Tips on working remotely efficiently",
             "link": "https://medium.com/@tungfam/5-tips-on-working-remotely-efficiently-d7d6bf4816aa?source=rss-69df2af07e8a------2",
             "updated": 1562731526,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/cc5698c49a91",
             "title": "How to customize the opacity and color of Blur Effect on iOS",
             "link": "https://medium.com/@tungfam/how-to-customize-the-intensity-of-blur-effect-on-ios-cc5698c49a91?source=rss-69df2af07e8a------2",
             "updated": 1540491633,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/233db15e0a03",
             "title": "How to install ZSH on your Mac",
             "link": "https://medium.com/@tungfam/how-to-install-zsh-on-your-mac-233db15e0a03?source=rss-69df2af07e8a------2",
             "updated": 1538914393,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/8ba2e8bcb840",
             "title": "How to build resizing Image in Navigation Bar with Large Title",
             "link": "https://medium.com/uptech-team/how-to-build-resizing-image-in-navigation-bar-with-large-title-8ba2e8bcb840?source=rss-69df2af07e8a------2",
             "updated": 1538914341,
-            "site_url": "https://medium.com/@tungfam"
+            "site_url": "https://medium.com/@tungfam",
+            "slug": "development"
         }
     ]
 }

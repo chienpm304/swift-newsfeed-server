@@ -6,140 +6,160 @@
             "title": "Array backwards compatibility using Property Wrappers",
             "link": "http://nshint.github.io/blog/2020/07/07/array-backwards-compatibility/",
             "updated": 1594106345,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2019/07/13/complete-flows-partial-models",
             "title": "Complete flows, partial models",
             "link": "http://nshint.github.io/blog/2019/07/13/complete-flows-partial-models/",
             "updated": 1563022556,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2019/05/10/testing-codable",
             "title": "Testing Codable",
             "link": "http://nshint.github.io/blog/2019/05/10/testing-codable/",
             "updated": 1557492956,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2019/04/08/testing-the-camera-on-the-simulator",
             "title": "Testing the camera on the simulator",
             "link": "http://nshint.github.io/blog/2019/04/08/testing-the-camera-on-the-simulator/",
             "updated": 1554737809,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2016/05/02/wrapping-apis-using-the-builder-pattern",
             "title": "Wrapping API's using the Builder Pattern",
             "link": "http://nshint.github.io/blog/2016/05/02/wrapping-apis-using-the-builder-pattern/",
             "updated": 1462203409,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/10/23/noescape-attribute",
             "title": "@noescape attribute",
             "link": "http://nshint.github.io/blog/2015/10/23/noescape-attribute/",
             "updated": 1445594400,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift",
             "title": "Working with CFunction pointers in Swift",
             "link": "http://nshint.github.io/blog/2015/10/10/working-with-cfunction-pointers-in-swift/",
             "updated": 1444449826,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/10/08/bluetooth-low-energy-the-fun-way",
             "title": "Bluetooth low energy the fun way",
             "link": "http://nshint.github.io/blog/2015/10/08/bluetooth-low-energy-the-fun-way/",
             "updated": 1444303048,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable",
             "title": "Easy cast with _ObjectiveCBridgeable",
             "link": "http://nshint.github.io/blog/2015/10/07/easy-cast-with-_ObjectiveCBridgeable/",
             "updated": 1444220143,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/09/23/uitraitcollection-trick",
             "title": "UITraitCollection trick",
             "link": "http://nshint.github.io/blog/2015/09/23/uitraitcollection-trick/",
             "updated": 1443010543,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/09/14/logging-excessive-blocks-on-the-main-thread",
             "title": "Logging excessive blocks on the main thread",
             "link": "http://nshint.github.io/blog/2015/09/14/logging-excessive-blocks-on-the-main-thread/",
             "updated": 1442169009,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/09/02/autolayout-and-nslocalizedstring",
             "title": "Autolayout and NSLocalizedString",
             "link": "http://nshint.github.io/blog/2015/09/02/autolayout-and-nslocalizedstring/",
             "updated": 1441198852,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/08/24/dont-forget-about-uimotioneffects",
             "title": "Don't forget about UIMottionEffect",
             "link": "http://nshint.github.io/blog/2015/08/24/dont-forget-about-uimotioneffects/",
             "updated": 1440421252,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/08/17/autolayout-breakpoints",
             "title": "Autolayout breakpoints",
             "link": "http://nshint.github.io/blog/2015/08/17/autolayout-breakpoints/",
             "updated": 1439816452,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/08/09/nsprogressreporting",
             "title": "NSProgressReporting",
             "link": "http://nshint.github.io/blog/2015/08/09/nsprogressreporting/",
             "updated": 1439125252,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/08/04/using-sql-as-date-formatter",
             "title": "Using sql as date formatter",
             "link": "http://nshint.github.io/blog/2015/08/04/using-sql-as-date-formatter/",
             "updated": 1438696251,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/08/03/law-of-demeter",
             "title": "Law Of Demeter",
             "link": "http://nshint.github.io/blog/2015/08/03/law-of-demeter/",
             "updated": 1438583046,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/07/23/run-script-phase-reporting",
             "title": "Run Script Phase reporting",
             "link": "http://nshint.github.io/blog/2015/07/23/run-script-phase-reporting/",
             "updated": 1437632646,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering",
             "title": "UICollectionViews now have easy reordering",
             "link": "http://nshint.github.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/",
             "updated": 1436985009,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         },
         {
             "id": "http://nshint.github.io/blog/2015/07/12/shared-breakpoints",
             "title": "Shared breakpoints",
             "link": "http://nshint.github.io/blog/2015/07/12/shared-breakpoints/",
             "updated": 1436684440,
-            "site_url": "https://nshint.io/"
+            "site_url": "https://nshint.io/",
+            "slug": "development"
         }
     ]
 }

@@ -6,329 +6,376 @@
             "title": "When Enhancements Are Not Enhancements - IDB046",
             "link": "https://share.transistor.fm/s/a8ed9f8d",
             "updated": 1704133735,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "dcea4ed3-9e16-462a-a7e8-3264edc0a9b3",
             "title": "Vision Pro Labs and Wonderlust - IDB045",
             "link": "https://share.transistor.fm/s/7473639b",
             "updated": 1694509500,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "136b5158-1065-4cb0-b90c-3a3352cee8d8",
             "title": "WWDC 2023 Keynote Wrap-Up Mega Episode!",
             "link": "https://share.transistor.fm/s/063f5ec3",
             "updated": 1686001260,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "30061306-72c0-446f-ab31-01a6f9b35c9c",
             "title": "The AirPods that Cried Wolf - IDB043",
             "link": "https://share.transistor.fm/s/f8f0ea34",
             "updated": 1685818680,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "fc169412-a557-419d-a0e7-658b6f5d0d85",
             "title": "Is There a Code Echo In Here? - IDB042",
             "link": "https://share.transistor.fm/s/7fa059b6",
             "updated": 1672328040,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "54901bbf-c189-49b9-872c-be5dbffd30b4",
             "title": "Post-Post-WWDC Episode - IDB041",
             "link": "https://share.transistor.fm/s/152f4398",
             "updated": 1658677263,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5b721605-020f-4963-9593-65bb1a63de6b",
             "title": "Swift Remote Studio - IDB040",
             "link": "https://share.transistor.fm/s/4f45f388",
             "updated": 1647865730,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a680de37-078b-41f3-bcf9-72efa01e20d7",
             "title": "Just Under the Wire - IDB039",
             "link": "https://share.transistor.fm/s/9bdd37fb",
             "updated": 1640995893,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "ddd355f1-0537-4df3-bcd6-941015475ec1",
             "title": "15 Minutes a Day - IDB038",
             "link": "https://share.transistor.fm/s/beb849b2",
             "updated": 1626356555,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "ef7bad23-c616-447d-a39f-97e545952685",
             "title": "The SwiftUI is Happening. - IDB037",
             "link": "https://share.transistor.fm/s/66babb7e",
             "updated": 1603903926,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bf54a89c-53c5-45bc-9ba6-812fe05da6ab",
             "title": "Bye, Bye, Storyboards! - IDB036",
             "link": "https://share.transistor.fm/s/d044cdd2",
             "updated": 1601056620,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a07f24ad-c2b8-4457-b21e-f3f6a1059f49",
             "title": "Time Flies. - IDB035",
             "link": "https://share.transistor.fm/s/ecbe9c74",
             "updated": 1600455251,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "692ba28f-f45b-4f41-accf-24b3e2573749",
             "title": "WWDC 2020 Will Mac Your Dreams Come True - IDB034",
             "link": "https://share.transistor.fm/s/837d7108",
             "updated": 1592856065,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "16ee1158-1da2-493e-8f71-13845f8e0c34",
             "title": "Socially Distant Dev Break - IDB033",
             "link": "https://share.transistor.fm/s/99f9d9b8",
             "updated": 1586971926,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "e9623437-542d-48b8-828c-b5d258fc73e1",
             "title": "The Great Migration - IDB032",
             "link": "https://share.transistor.fm/s/e7bc052b",
             "updated": 1578767788,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5d425ba5-4205-4358-80bb-d7f07491c53a",
             "title": "Nimble Xcode Juggling - IDB031",
             "link": "https://share.transistor.fm/s/a8b943d5",
             "updated": 1574359200,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "795d35287b2c4c17a38b999a8cd7714d",
             "title": "You're Not Falling Behind. - IDB030",
             "link": "https://share.transistor.fm/s/64f34ab4",
             "updated": 1565631329,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "e206d3ea00df4006a25ba6451e85f58a",
             "title": "Brand Experience - IDB029",
             "link": "https://share.transistor.fm/s/094dd615",
             "updated": 1558787340,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "079e24c239c44a83b0167d9584d8bf61",
             "title": "Breaking the Fabric Umbilical Cord - IDB028",
             "link": "https://share.transistor.fm/s/df8ea6fd",
             "updated": 1558134200,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1b023db3ae5e403fb1fe7d25f152dd3e",
             "title": "WWDC 2019 Announced! - IDB027",
             "link": "https://share.transistor.fm/s/935ccc7b",
             "updated": 1553266949,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "706ec610d23f4604a952cedf9dc39796",
             "title": "Playgrounds That Work. - IDB026",
             "link": "https://share.transistor.fm/s/6cfd1575",
             "updated": 1550510474,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5bbd3e5ed6494c0bbaac37daa32697e0",
             "title": "Code Reviews and Pomodoros - IDB025",
             "link": "https://share.transistor.fm/s/f4fa81f4",
             "updated": 1539385216,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7a8133374c95452dbe66de5acda0b0ca",
             "title": "Another Facepalm Event - IDB024",
             "link": "https://share.transistor.fm/s/5538f157",
             "updated": 1538414677,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "50bb5e08f6b44ad0944676a8925b9e6e",
             "title": "AutoFill 'Er Up! - IDB023",
             "link": "https://share.transistor.fm/s/a465a64c",
             "updated": 1537803052,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "33dc8d651dda4c768b11e82aa3b1a392",
             "title": "Debug Your View Hierarchies - IDB022",
             "link": "https://share.transistor.fm/s/610b9170",
             "updated": 1535971636,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "19fbc795e7294f958e947d8e44f8fb2b",
             "title": "Back in the Saddle Again - IDB021",
             "link": "https://share.transistor.fm/s/c13cad03",
             "updated": 1533461293,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "748676550abb42f3803b8f4a2915bd36",
             "title": "Wish List for WWDC 2018 - IDB020",
             "link": "https://share.transistor.fm/s/9f02770d",
             "updated": 1526755587,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3b94525e3f75d43bf1dc26f13c6f727d",
             "title": "WWDC 2018 Pre-Game - IDB019",
             "link": "https://share.transistor.fm/s/e36afb6c",
             "updated": 1525036446,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "948a4809069d483001e2086b8b530dbe",
             "title": "iOS Dev Commute No. 1 - IDB018",
             "link": "https://share.transistor.fm/s/a3bcb656",
             "updated": 1521826570,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3d2ef0f76493190ace9358563c0491c5",
             "title": "Choose Wisely - IDB017",
             "link": "https://share.transistor.fm/s/94e2e31e",
             "updated": 1518260330,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "6ec2707da08742bbf107a02fb1c54775",
             "title": "X not X - IDB016",
             "link": "https://share.transistor.fm/s/438030c9",
             "updated": 1515874957,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5adf6ce18ed987ff38a22ee639211337",
             "title": "Whats in a Name? - IDB015",
             "link": "https://share.transistor.fm/s/96f4d977",
             "updated": 1511885867,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "219a55b6fa5eb8b58bb35ba6bcda928f",
             "title": "Warning Signs - IDB014",
             "link": "https://share.transistor.fm/s/879e63d2",
             "updated": 1510608762,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "693509fe9569de074728fe06c7c385cc",
             "title": "2017 September Apple Event \u2013 IDB013",
             "link": "https://share.transistor.fm/s/9adf9a96",
             "updated": 1505254854,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "d0c846fb47168cb3a74a0dffeb74c559",
             "title": "Secret Handshake Driven Design Strikes Again - IDB012",
             "link": "https://share.transistor.fm/s/c7cbd2e2",
             "updated": 1503522195,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5978bae103133d7457c697adaf87558b",
             "title": "Beating the Post-WWDC Blues - IDB011",
             "link": "https://share.transistor.fm/s/6f30e32b",
             "updated": 1502299352,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3ea1e2b4a30b5f57298bc6d5555d1174",
             "title": "WWDC is Over. What Now? - IDB010",
             "link": "https://share.transistor.fm/s/5568e06e",
             "updated": 1497455798,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "d289bf1b0aee257ce1631f94873b7c35",
             "title": "It Was A Very Googly Experience - IDB009",
             "link": "https://share.transistor.fm/s/d87d6f84",
             "updated": 1496324945,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "701317a1d724ffbe54939a6d686b6c6e",
             "title": "Still Waiting for that iPad Pro - IDB008",
             "link": "https://share.transistor.fm/s/215c0a06",
             "updated": 1490709387,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "faf6d9f2ca903e7cadc877628a9eb2eb",
             "title": "WWDC Announced! - IDB007",
             "link": "https://share.transistor.fm/s/94cf1716",
             "updated": 1487861878,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5eaa60c13b3579930de542fa92f404fa",
             "title": "Apple Pushes the Limits - IDB006",
             "link": "https://share.transistor.fm/s/409d39dd",
             "updated": 1484059857,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "75c207e833cf484d43de498ae6b36cb6",
             "title": "Just Enough Irritation - IDB005",
             "link": "https://share.transistor.fm/s/ceaaf769",
             "updated": 1482084636,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "df4d3faaa6fea832f91f5017c8f8b7b2",
             "title": "Put It In Your Old UIKit Bag - IDB004",
             "link": "https://share.transistor.fm/s/652ddbd7",
             "updated": 1478700470,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f560f9b0194fddb5f4fceb687f249463",
             "title": "The Right to Ask for an Upgrade - IDB003",
             "link": "https://share.transistor.fm/s/dc9c391b",
             "updated": 1476812126,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "4a9b3c1fad4c5f5d8851ac018ba5734b",
             "title": "Become an iPhone Developer for 25 Dollars! - IDB002",
             "link": "https://share.transistor.fm/s/0fc6219d",
             "updated": 1476127698,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "32693ec6af98cb0be5a023fe7be83a76",
             "title": "iPhone Feeding Frenzy! - IDB001",
             "link": "https://share.transistor.fm/s/a847d902",
             "updated": 1475398190,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f1074d2f1249d896f84e1acdf6119c0f",
             "title": "Episode Zero! Introductions Are In Order - IDB000",
             "link": "https://share.transistor.fm/s/c5f03db8",
             "updated": 1474474780,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "The Double Edged Sword: Apple Music and Dolby Atmos",
             "link": "https://samst.one/the-double-edged-sword-apple-music-and-dolby-atmos/",
             "updated": 1709629162,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=446",
             "title": "ImageSequencer \u2013 Build a video from a collection of images in iOS/macOS/tvOS",
             "link": "https://samst.one/imagesequencer/",
             "updated": 1696381200,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=429",
             "title": "Get all available cameras in iOS using AVCaptureDevice.DiscoverySession",
             "link": "https://samst.one/get-all-available-cameras-in-ios/",
             "updated": 1695344400,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=426",
             "title": "Examples of Use Cases in Swift",
             "link": "https://samst.one/examples-of-use-cases/",
             "updated": 1695096000,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=413",
             "title": "Use Cases in iOS Development",
             "link": "https://samst.one/use-cases/",
             "updated": 1694417151,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=400",
             "title": "UML Diagrams with PlantUML and SwiftPlantUML",
             "link": "https://samst.one/swift-plant-uml/",
             "updated": 1693810800,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=384",
             "title": "Camera for iOS \u2013 A Swift Package",
             "link": "https://samst.one/camera-release/",
             "updated": 1693558800,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=344",
             "title": "Feature Modularization in iOS",
             "link": "https://samst.one/feature-modularization-in-ios/",
             "updated": 1693555668,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=284",
             "title": "Module Boundaries in iOS",
             "link": "https://samst.one/module-boundaries-in-ios/",
             "updated": 1692345600,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         },
         {
             "id": "https://samst.one/?p=244",
             "title": "Advantages to modularization in iOS",
             "link": "https://samst.one/advantages-to-modularization-in-ios/",
             "updated": 1691726400,
-            "site_url": "https://samst.one/"
+            "site_url": "https://samst.one/",
+            "slug": "development"
         }
     ]
 }

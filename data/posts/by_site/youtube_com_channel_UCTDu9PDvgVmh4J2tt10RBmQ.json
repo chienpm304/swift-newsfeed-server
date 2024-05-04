@@ -6,35 +6,40 @@
             "title": "Write a Simple, Scalable REST JSON API Client in Swift 5 for iOS (Tutorial)",
             "link": "https://www.youtube.com/watch?v=xVj5xEEwTEk",
             "updated": 1714119080,
-            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ"
+            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:FtwWrpWLS08",
             "title": "Prepare for the interview as a Software Engineer",
             "link": "https://www.youtube.com/watch?v=FtwWrpWLS08",
             "updated": 1714075791,
-            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ"
+            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:6KZ-c-XnZOo",
             "title": "THESE Are The Most Important Xcode Settings For Beginners",
             "link": "https://www.youtube.com/watch?v=6KZ-c-XnZOo",
             "updated": 1713998234,
-            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ"
+            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:MjmyuEwEaxw",
             "title": "UIViewController Lifecycle in Swift: viewDidLoad or viewWillAppear?",
             "link": "https://www.youtube.com/watch?v=MjmyuEwEaxw",
             "updated": 1712304202,
-            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ"
+            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:dy_gBWTSto8",
             "title": "5 Swift DESIGN PATTERNS You Should Know in 2022",
             "link": "https://www.youtube.com/watch?v=dy_gBWTSto8",
             "updated": 1710465123,
-            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ"
+            "site_url": "https://www.youtube.com/channel/UCTDu9PDvgVmh4J2tt10RBmQ",
+            "slug": "youtube"
         }
     ]
 }

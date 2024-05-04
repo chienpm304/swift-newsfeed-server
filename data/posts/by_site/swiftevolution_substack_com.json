@@ -6,105 +6,120 @@
             "title": "Swift Evolution Monthly: January '24",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-january-24",
             "updated": 1707470520,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-december-016",
             "title": "Swift Evolution Monthly: December '23",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-december-016",
             "updated": 1703505025,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-june-23",
             "title": "Swift Evolution Monthly: June '23",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-june-23",
             "updated": 1688378809,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-may-23",
             "title": "Swift Evolution Monthly: May '23",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-may-23",
             "updated": 1685849415,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-march-april",
             "title": "Swift Evolution Monthly: March + April '23",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-march-april",
             "updated": 1682996214,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-jan-feb-23",
             "title": "Swift Evolution Monthly Jan + Feb '23",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-jan-feb-23",
             "updated": 1679300541,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-december",
             "title": "Swift Evolution Monthly: December '22",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-december",
             "updated": 1673591566,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/coming-soon",
             "title": "Migration",
             "link": "https://swiftevolution.substack.com/p/coming-soon",
             "updated": 1671656884,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-september-22-2",
             "title": "Swift Evolution Monthly: October '22",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-september-22-2",
             "updated": 1667074380,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-september-22",
             "title": "Swift Evolution Monthly: September '22",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-september-22",
             "updated": 1664416671,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-july-22",
             "title": "Swift Evolution Monthly: July '22",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-july-22",
             "updated": 1659495756,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-june-22",
             "title": "Swift Evolution Monthly: June \u201922",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-june-22",
             "updated": 1656239400,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-may-22",
             "title": "Swift Evolution Monthly: May \u201922",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-may-22",
             "updated": 1653042120,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-april-22",
             "title": "Swift Evolution Monthly: April \u201822",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-april-22",
             "updated": 1650536040,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         },
         {
             "id": "https://swiftevolution.substack.com/p/swift-evolution-monthly-first-issue-background-history-chris-lattner-6-proposals-1092625",
             "title": "Swift Evolution Monthly: First Issue",
             "link": "https://swiftevolution.substack.com/p/swift-evolution-monthly-first-issue-background-history-chris-lattner-6-proposals-1092625",
             "updated": 1647717067,
-            "site_url": "https://swiftevolution.substack.com"
+            "site_url": "https://swiftevolution.substack.com",
+            "slug": "newsletters"
         }
     ]
 }

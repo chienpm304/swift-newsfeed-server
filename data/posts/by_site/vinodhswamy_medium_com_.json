@@ -6,63 +6,72 @@
             "title": "Mobile App Architectural Best Practices in Action [User Story 2]",
             "link": "https://levelup.gitconnected.com/mobile-app-architectural-best-practices-in-action-user-story-2-4a3ffaca92bc?source=rss-507a15c0b921------2",
             "updated": 1706822801,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e20c9efa7549",
             "title": "Mobile: Architectural Best Practices in Action [User Story 1]",
             "link": "https://levelup.gitconnected.com/mobile-architectural-best-practices-in-action-user-story-1-e20c9efa7549?source=rss-507a15c0b921------2",
             "updated": 1703574530,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/cec57488ef25",
             "title": "The Code Review Best Practise",
             "link": "https://levelup.gitconnected.com/the-code-review-best-practise-cec57488ef25?source=rss-507a15c0b921------2",
             "updated": 1685601087,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f33f30f4757e",
             "title": "VSCollectionKit: Swift Component based lib for UICollectionView",
             "link": "https://vinodhswamy.medium.com/vscollectionkit-f33f30f4757e?source=rss-507a15c0b921------2",
             "updated": 1678214671,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/40bac64c1d9b",
             "title": "Design Code for Unit Testing",
             "link": "https://levelup.gitconnected.com/art-of-unit-testing-with-swift-40bac64c1d9b?source=rss-507a15c0b921------2",
             "updated": 1639692075,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/7dc2b793fd68",
             "title": "SOLID Principles in Swift",
             "link": "https://vinodhswamy.medium.com/solid-principles-in-swift-7dc2b793fd68?source=rss-507a15c0b921------2",
             "updated": 1623029875,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/83170b01224",
             "title": "Generics in Swift",
             "link": "https://vinodhswamy.medium.com/generics-83170b01224?source=rss-507a15c0b921------2",
             "updated": 1599129317,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f452f07518b2",
             "title": "Strong Cycle /Retain Cycle in Swift",
             "link": "https://vinodhswamy.medium.com/strong-cycle-retain-cycle-in-swift-f452f07518b2?source=rss-507a15c0b921------2",
             "updated": 1505385732,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bce114152d6d",
             "title": "UIImageView + Async Dowload Remote Image",
             "link": "https://vinodhswamy.medium.com/uiimageview-async-dowload-remote-image-bce114152d6d?source=rss-507a15c0b921------2",
             "updated": 1487694911,
-            "site_url": "https://vinodhswamy.medium.com/"
+            "site_url": "https://vinodhswamy.medium.com/",
+            "slug": "development"
         }
     ]
 }

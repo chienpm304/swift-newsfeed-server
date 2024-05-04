@@ -6,665 +6,760 @@
             "title": "Practical OAuth security guide for mobile applications",
             "link": "https://www.cossacklabs.com/blog/practical-oauth-security-guide-for-mobile-apps/",
             "updated": 1711645200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/security-tips-on-using-fido-u2f-and-yubikey/",
             "title": "Security tips on using YubiKey and FIDO U2F",
             "link": "https://www.cossacklabs.com/blog/security-tips-on-using-fido-u2f-and-yubikey/",
             "updated": 1703178000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/flutter-application-security-considerations/",
             "title": "Flutter application security considerations",
             "link": "https://www.cossacklabs.com/blog/flutter-application-security-considerations/",
             "updated": 1701968400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/digital-wallet-security-architecture-guide/",
             "title": "Digital payment security: Architecture guide",
             "link": "https://www.cossacklabs.com/blog/digital-wallet-security-architecture-guide/",
             "updated": 1694106000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-prevent-digital-wallet-fraud/",
             "title": "How to prevent digital wallet fraud",
             "link": "https://www.cossacklabs.com/blog/how-to-prevent-digital-wallet-fraud/",
             "updated": 1689181200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/exploring-security-vulnerabilities-in-nfc-digital-wallets/",
             "title": "Exploring security vulnerabilities in NFC digital wallets",
             "link": "https://www.cossacklabs.com/blog/exploring-security-vulnerabilities-in-nfc-digital-wallets/",
             "updated": 1679504400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/smart-contract-security-audit-tips-tricks/",
             "title": "Smart contract security audit: tips & tricks",
             "link": "https://www.cossacklabs.com/blog/smart-contract-security-audit-tips-tricks/",
             "updated": 1670864400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-transparent-data-encryption-for-sql-databases/",
             "title": "Transparent data encryption for SQL databases with Acra 0.93",
             "link": "https://www.cossacklabs.com/blog/acra-transparent-data-encryption-for-sql-databases/",
             "updated": 1663606800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/automated-security-testing/",
             "title": "Introduction to automated security testing",
             "link": "https://www.cossacklabs.com/blog/automated-security-testing/",
             "updated": 1660669200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/",
             "title": "Cryptographic failures in RF encryption allow stealing robotic devices",
             "link": "https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/",
             "updated": 1656435600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-repometascore/",
             "title": "RepoMetaScore: evaluating supply chain risks of open-source repositories",
             "link": "https://www.cossacklabs.com/blog/introducing-repometascore/",
             "updated": 1652806800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/stand-with-ukraine/",
             "title": "Cossack Labs stands on guard for security of Ukrainian companies",
             "link": "https://www.cossacklabs.com/blog/stand-with-ukraine/",
             "updated": 1646586000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/react-native-libraries-security/",
             "title": "React Native libraries: Security considerations",
             "link": "https://www.cossacklabs.com/blog/react-native-libraries-security/",
             "updated": 1644858000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/tls-validation-implementing-ocsp-and-crl-in-go/",
             "title": "TLS certificate validation in Golang: CRL & OCSP examples",
             "link": "https://www.cossacklabs.com/blog/tls-validation-implementing-ocsp-and-crl-in-go/",
             "updated": 1642438800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
             "title": "Crypto wallets security as seen by security engineers",
             "link": "https://www.cossacklabs.com/blog/crypto-wallets-security/",
             "updated": 1639414800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0-90-0/",
             "title": "Acra 0.90.0: application level encryption and searchable encryption for any SQL and NoSQL databases",
             "link": "https://www.cossacklabs.com/blog/acra-0-90-0/",
             "updated": 1638205200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/cloud-security-gaps-in-a-shared-responsibility-model/",
             "title": "Shared responsibility model in cloud security: mind the gap",
             "link": "https://www.cossacklabs.com/blog/cloud-security-gaps-in-a-shared-responsibility-model/",
             "updated": 1616432400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/react-native-app-security/",
             "title": "React Native app security: Things to keep in mind",
             "link": "https://www.cossacklabs.com/blog/react-native-app-security/",
             "updated": 1603299600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/audit-logs-security/",
             "title": "Audit logs security: cryptographically signed tamper-proof logs",
             "link": "https://www.cossacklabs.com/blog/audit-logs-security/",
             "updated": 1600016400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.13.0/",
             "title": "Themis 0.13.0 Is Released",
             "link": "https://www.cossacklabs.com/blog/themis-0.13.0/",
             "updated": 1594227600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-build-openssl-for-carthage-ios/",
             "title": "How to build OpenSSL for Carthage iOS",
             "link": "https://www.cossacklabs.com/blog/how-to-build-openssl-for-carthage-ios/",
             "updated": 1591722000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/openssl-semver-for-ios/",
             "title": "OpenSSL for iOS: tricks of OpenSSL semver",
             "link": "https://www.cossacklabs.com/blog/openssl-semver-for-ios/",
             "updated": 1591722000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/pii-encryption-requirements-cheatsheet/",
             "title": "PII Encryption Requirements. Cheatsheet",
             "link": "https://www.cossacklabs.com/blog/pii-encryption-requirements-cheatsheet/",
             "updated": 1585760400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/lift-and-shift-cloud/",
             "title": "Lift & Shift: cloud security strategy",
             "link": "https://www.cossacklabs.com/blog/lift-and-shift-cloud/",
             "updated": 1574182800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-prepare-for-security-incidents/",
             "title": "How to prepare for data security issues",
             "link": "https://www.cossacklabs.com/blog/how-to-prepare-for-security-incidents/",
             "updated": 1572195600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.12.0/",
             "title": "Themis 0.12.0",
             "link": "https://www.cossacklabs.com/blog/themis-0.12.0/",
             "updated": 1569517200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/end-to-end-encryption-in-bear-app/",
             "title": "Implementing End-to-End encryption in Bear App",
             "link": "https://www.cossacklabs.com/blog/end-to-end-encryption-in-bear-app/",
             "updated": 1567616400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/secure-search-over-encrypted-data-acra-se/",
             "title": "Secure search over encrypted data",
             "link": "https://www.cossacklabs.com/blog/secure-search-over-encrypted-data-acra-se/",
             "updated": 1563814800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/install-acra-digitalocean-marketplace-tutorial/",
             "title": "Install Acra 1-Click App through DigitalOcean Marketplace",
             "link": "https://www.cossacklabs.com/blog/install-acra-digitalocean-marketplace-tutorial/",
             "updated": 1557162000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-digitalocean-marketplace/",
             "title": "Acra on DigitalOcean Marketplace",
             "link": "https://www.cossacklabs.com/blog/acra-digitalocean-marketplace/",
             "updated": 1555347600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/defense-in-depth-security-strategy/",
             "title": "Defense in depth security strategy based on data encryption",
             "link": "https://www.cossacklabs.com/blog/defense-in-depth-security-strategy/",
             "updated": 1554310800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.11.1/",
             "title": "New Themis 0.11.1",
             "link": "https://www.cossacklabs.com/blog/themis-0.11.1/",
             "updated": 1554138000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0-85-0/",
             "title": "ACRA 0.85.0 LOOKING GLASS",
             "link": "https://www.cossacklabs.com/blog/acra-0-85-0/",
             "updated": 1552582800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-build-sql-firewall-acracensor/",
             "title": "How to build an SQL Firewall",
             "link": "https://www.cossacklabs.com/blog/how-to-build-sql-firewall-acracensor/",
             "updated": 1551718800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-prevent-sql-injections/",
             "title": "How to prevent SQL injections when WAF\u2019s not enough",
             "link": "https://www.cossacklabs.com/blog/how-to-prevent-sql-injections/",
             "updated": 1549990800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/blockchain-and-gdpr/",
             "title": "Blockchain & GDPR: dos and don\u2019ts while achieving compliance",
             "link": "https://www.cossacklabs.com/blog/blockchain-and-gdpr/",
             "updated": 1548090000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/2018-at-cossack-labs/",
             "title": "Looking Back at 2018 \u2014 A Year in Retrospect",
             "link": "https://www.cossacklabs.com/blog/2018-at-cossack-labs/",
             "updated": 1546189200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-contributors-and-projects-2018/",
             "title": "Thank You for Contributing and Using Themis in 2018",
             "link": "https://www.cossacklabs.com/blog/themis-contributors-and-projects-2018/",
             "updated": 1545238800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/hiring-external-security-team/",
             "title": "Hiring External Security Team: What You Need to Know",
             "link": "https://www.cossacklabs.com/blog/hiring-external-security-team/",
             "updated": 1543251600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-implement-distributed-tracing/",
             "title": "How to Implement Tracing in a Modern Distributed Application",
             "link": "https://www.cossacklabs.com/blog/how-to-implement-distributed-tracing/",
             "updated": 1542819600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.84.0/",
             "title": "ACRA 0.84.0 NEW HORIZONS",
             "link": "https://www.cossacklabs.com/blog/acra-0.84.0/",
             "updated": 1541696400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.83.0/",
             "title": "ACRA 0.83.0 RELEASE",
             "link": "https://www.cossacklabs.com/blog/acra-0.83.0/",
             "updated": 1538067600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/gdpr-for-software-developers/",
             "title": "GDPR for software developers: implementing rights and security demands",
             "link": "https://www.cossacklabs.com/blog/gdpr-for-software-developers/",
             "updated": 1537376400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-poison-records/",
             "title": "Poison Records in Acra \u2013 Database Honeypots for Intrusion Detection",
             "link": "https://www.cossacklabs.com/blog/acra-poison-records/",
             "updated": 1534352400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.82.0/",
             "title": "ACRA 0.82.0 IS OUT!",
             "link": "https://www.cossacklabs.com/blog/acra-0.82.0/",
             "updated": 1534179600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/social-events-summer-2018/",
             "title": "Social Events of Spring-Summer 2018 for Cossack Labs",
             "link": "https://www.cossacklabs.com/blog/social-events-summer-2018/",
             "updated": 1531414800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.81.0/",
             "title": "MEET ACRA 0.81.0",
             "link": "https://www.cossacklabs.com/blog/acra-0.81.0/",
             "updated": 1530810000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.80.0/",
             "title": "ACRA 0.80.0 IS HERE",
             "link": "https://www.cossacklabs.com/blog/acra-0.80.0/",
             "updated": 1527699600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/how-to-reduce-docker-image-size/",
             "title": "How to reduce Docker image size (Example)",
             "link": "https://www.cossacklabs.com/blog/how-to-reduce-docker-image-size/",
             "updated": 1527526800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.77.0/",
             "title": "ACRA 0.77.0 RELEASE",
             "link": "https://www.cossacklabs.com/blog/acra-0.77.0/",
             "updated": 1523552400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/moving-to-openssl-110/",
             "title": "Moving to OpenSSL 1.1.0 \u2014 How We Did It",
             "link": "https://www.cossacklabs.com/blog/moving-to-openssl-110/",
             "updated": 1523206800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/acra-0.76/",
             "title": "ACRA 0.76 IS OUT NOW!",
             "link": "https://www.cossacklabs.com/blog/acra-0.76/",
             "updated": 1520787600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.10.0/",
             "title": "Releasing Themis 0.10.0",
             "link": "https://www.cossacklabs.com/blog/themis-0.10.0/",
             "updated": 1517850000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/2017-at-cossack-labs/",
             "title": "2017 at Cossack Labs",
             "link": "https://www.cossacklabs.com/blog/2017-at-cossack-labs/",
             "updated": 1514480400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/happy-holidays-2018/",
             "title": "Happy Holidays from Cossack Labs!",
             "link": "https://www.cossacklabs.com/blog/happy-holidays-2018/",
             "updated": 1514134800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.9.6/",
             "title": "Themis 0.9.6 release",
             "link": "https://www.cossacklabs.com/blog/themis-0.9.6/",
             "updated": 1513184400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-hermes/",
             "title": "Introducing Hermes",
             "link": "https://www.cossacklabs.com/blog/introducing-hermes/",
             "updated": 1513098000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/macros-in-crypto-c-code/",
             "title": "Auditable Macros in C Code",
             "link": "https://www.cossacklabs.com/blog/macros-in-crypto-c-code/",
             "updated": 1511370000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/replacing-openssl-with-libsodium/",
             "title": "Replacing OpenSSL with Libsodium",
             "link": "https://www.cossacklabs.com/blog/replacing-openssl-with-libsodium/",
             "updated": 1505926800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-0.9.5/",
             "title": "Themis 0.9.5 release",
             "link": "https://www.cossacklabs.com/blog/themis-0.9.5/",
             "updated": 1505408400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/replacing-openssl-with-boringssl/",
             "title": "Replacing OpenSSL with BoringSSL in a Complex Multi-Platform Layout",
             "link": "https://www.cossacklabs.com/blog/replacing-openssl-with-boringssl/",
             "updated": 1499706000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/presenting-acra/",
             "title": "Presenting Acra",
             "link": "https://www.cossacklabs.com/blog/presenting-acra/",
             "updated": 1488906000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/fighting-ctypes-overflows/",
             "title": "Importing with ctypes in Python: fighting overflows",
             "link": "https://www.cossacklabs.com/blog/fighting-ctypes-overflows/",
             "updated": 1488733200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/investigating-go-memory-leaks/",
             "title": "Plugging leaks in Go memory management",
             "link": "https://www.cossacklabs.com/blog/investigating-go-memory-leaks/",
             "updated": 1488214800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/this-year-at-cossack-labs/",
             "title": "2016 at Cossack Labs",
             "link": "https://www.cossacklabs.com/blog/this-year-at-cossack-labs/",
             "updated": 1483030800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/themis-database-plugins/",
             "title": "Themis database modules",
             "link": "https://www.cossacklabs.com/blog/themis-database-plugins/",
             "updated": 1482253200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/backend-data-security-modern-ideas/",
             "title": "13 tips to enhance database and infrastructure security",
             "link": "https://www.cossacklabs.com/blog/backend-data-security-modern-ideas/",
             "updated": 1481562000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-0.9.4/",
             "title": "Themis 0.9.4 release",
             "link": "https://www.cossacklabs.com/blog/introducing-0.9.4/",
             "updated": 1479834000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/we-are-responsible-for-safe-internet/",
             "title": "Why making Internet safe is everyone\u2019s responsibility",
             "link": "https://www.cossacklabs.com/blog/we-are-responsible-for-safe-internet/",
             "updated": 1477414800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/key-management-101/",
             "title": "Key management in data security: fundamentals",
             "link": "https://www.cossacklabs.com/blog/key-management-101/",
             "updated": 1474390800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/classic-backend-security-designs/",
             "title": "Backend security: design patterns best practices",
             "link": "https://www.cossacklabs.com/blog/classic-backend-security-designs/",
             "updated": 1471194000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/zero-knowledge-protocols-without-magic/",
             "title": "Zero Knowledge Protocols without magic",
             "link": "https://www.cossacklabs.com/blog/zero-knowledge-protocols-without-magic/",
             "updated": 1469552400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/perimeter-security-avoiding-disappointment-shame-and-despair/",
             "title": "Perimeter security: avoiding disappointment, shame and despair",
             "link": "https://www.cossacklabs.com/blog/perimeter-security-avoiding-disappointment-shame-and-despair/",
             "updated": 1468947600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-0.9.3/",
             "title": "Introducing Themis 0.9.3",
             "link": "https://www.cossacklabs.com/blog/introducing-0.9.3/",
             "updated": 1464195600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/choose-android-crypto/",
             "title": "Choose your Android crypto (Infographic)",
             "link": "https://www.cossacklabs.com/blog/choose-android-crypto/",
             "updated": 1463936400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/presenting-sesto/",
             "title": "Building Sesto, in-browser password manager",
             "link": "https://www.cossacklabs.com/blog/presenting-sesto/",
             "updated": 1461171600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/benchmarking-secure-comparator/",
             "title": "Benchmarking Secure Comparator",
             "link": "https://www.cossacklabs.com/blog/benchmarking-secure-comparator/",
             "updated": 1459962000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/choose-your-ios-crypto/",
             "title": "Crypto in iOS: Choose your destiny (Infographic)",
             "link": "https://www.cossacklabs.com/blog/choose-your-ios-crypto/",
             "updated": 1459270800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/building-endtoend-webchat/",
             "title": "Building secure end-to-end webchat with Themis",
             "link": "https://www.cossacklabs.com/blog/building-endtoend-webchat/",
             "updated": 1458147600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/building-libressl-for-pnacl/",
             "title": "Building LibreSSL for PNaCl",
             "link": "https://www.cossacklabs.com/blog/building-libressl-for-pnacl/",
             "updated": 1457888400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-themis-server/",
             "title": "Introducing Themis Server",
             "link": "https://www.cossacklabs.com/blog/introducing-themis-server/",
             "updated": 1457456400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/building-themis-in-pnacl/",
             "title": "Building and Using Themis in PNaCl",
             "link": "https://www.cossacklabs.com/blog/building-themis-in-pnacl/",
             "updated": 1457370000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/whats-wrong-with-web-crypto/",
             "title": "What's wrong with Web Cryptography",
             "link": "https://www.cossacklabs.com/blog/whats-wrong-with-web-crypto/",
             "updated": 1456938000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-webthemis/",
             "title": "WebThemis: proper crypto for modern Web",
             "link": "https://www.cossacklabs.com/blog/introducing-webthemis/",
             "updated": 1456765200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/fixing-secure-comparator/",
             "title": "Fixing Secure Comparator",
             "link": "https://www.cossacklabs.com/blog/fixing-secure-comparator/",
             "updated": 1455123600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing_secure_comparator/",
             "title": "Introducing Secure Comparator",
             "link": "https://www.cossacklabs.com/blog/introducing_secure_comparator/",
             "updated": 1449594000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/why-we-need-novel-authentication-methods/",
             "title": "Why we need novel authentication schemes?",
             "link": "https://www.cossacklabs.com/blog/why-we-need-novel-authentication-methods/",
             "updated": 1448470800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/weakdh_vs_securesession/",
             "title": "WeakDH/LogJam vs Secure Session",
             "link": "https://www.cossacklabs.com/blog/weakdh_vs_securesession/",
             "updated": 1447952400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/armoring-ed25519/",
             "title": "Armoring ed25519 to meet extended security challenges",
             "link": "https://www.cossacklabs.com/blog/armoring-ed25519/",
             "updated": 1447779600,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/introducing-0.9.2/",
             "title": "Introducing Themis 0.9.2",
             "link": "https://www.cossacklabs.com/blog/introducing-0.9.2/",
             "updated": 1446570000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/avoid-ssl-for-your-next-app/",
             "title": "Why you should avoid SSL for your next application",
             "link": "https://www.cossacklabs.com/blog/avoid-ssl-for-your-next-app/",
             "updated": 1445965200,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/building-secure-chat/",
             "title": "Building encrypted chat service with Themis and mobile websocket example",
             "link": "https://www.cossacklabs.com/blog/building-secure-chat/",
             "updated": 1443632400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/notes-on-cutting-edge-features/",
             "title": "Notes on adding cutting edge features",
             "link": "https://www.cossacklabs.com/blog/notes-on-cutting-edge-features/",
             "updated": 1442854800,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/02-usability-testing/",
             "title": "Releasing Themis into public: usability testing",
             "link": "https://www.cossacklabs.com/blog/02-usability-testing/",
             "updated": 1433264400,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         },
         {
             "id": "https://www.cossacklabs.com/blog/01-introducing-themis/",
             "title": "Introducing Themis",
             "link": "https://www.cossacklabs.com/blog/01-introducing-themis/",
             "updated": 1431882000,
-            "site_url": "https://www.cossacklabs.com/tags/mobile/"
+            "site_url": "https://www.cossacklabs.com/tags/mobile/",
+            "slug": "companies"
         }
     ]
 }

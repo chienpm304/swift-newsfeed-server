@@ -6,70 +6,80 @@
             "title": "Launching Context Insights",
             "link": "https://krausefx.com//blog/launching-context-insights",
             "updated": 1713373200,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer",
             "title": "Automatically build &amp; distribute custom iOS SDK Binaries for each customer",
             "link": "https://krausefx.com//blog/automatically-build-and-distribute-custom-ios-sdk-binaries-for-each-customer",
             "updated": 1707152400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework",
             "title": "How to automatically compile and distribute your iOS SDK as a pre-compiled xcframework",
             "link": "https://krausefx.com//blog/how-to-automaticallycompile-and-distribute-your-ios-sdk-as-a-pre-compiled-xcframework",
             "updated": 1706720400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/context-sdk-app-tracking-transparency",
             "title": "ContextSDK - Optimize your ATT prompts",
             "link": "https://krausefx.com//blog/context-sdk-app-tracking-transparency",
             "updated": 1702832400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/context-sdk-funding",
             "title": "ContextSDK - Angel Round, Dieter Rappold joining as CEO, first large customers",
             "link": "https://krausefx.com//blog/context-sdk-funding",
             "updated": 1698080400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/context-sdk",
             "title": "ContextSDK - Introducing the most intelligent way to know how and when to monetize your user",
             "link": "https://krausefx.com//blog/context-sdk",
             "updated": 1682614800,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser",
             "title": "iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser",
             "link": "https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser",
             "updated": 1660755600,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser",
             "title": "iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser",
             "link": "https://krausefx.com//blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser",
             "updated": 1660064400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/launching-auxcord-let-friends-queue-their-music-at-your-party",
             "title": "Launching auxcord.org - Let friends queue their music at your party",
             "link": "https://krausefx.com//blog/launching-auxcord-let-friends-queue-their-music-at-your-party",
             "updated": 1659632400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         },
         {
             "id": "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database",
             "title": "How I put my whole life into a single database",
             "link": "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database",
             "updated": 1650992400,
-            "site_url": "https://krausefx.com/"
+            "site_url": "https://krausefx.com/",
+            "slug": "development"
         }
     ]
 }

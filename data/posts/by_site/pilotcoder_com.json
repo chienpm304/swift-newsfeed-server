@@ -6,14 +6,16 @@
             "title": "Take Control of Your Window AC Unit",
             "link": "https://pilotcoder.com/take-control-of-your-window-ac-unit/",
             "updated": 1597385464,
-            "site_url": "https://pilotcoder.com"
+            "site_url": "https://pilotcoder.com",
+            "slug": "development"
         },
         {
             "id": "https://pilotcoder.com/?page_id=185",
             "title": "Why You Should Learn Server-Side Swift",
             "link": "https://pilotcoder.com/why-learn-server-side-swift/",
             "updated": 1596270076,
-            "site_url": "https://pilotcoder.com"
+            "site_url": "https://pilotcoder.com",
+            "slug": "development"
         }
     ]
 }

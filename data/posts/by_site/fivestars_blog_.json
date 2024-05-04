@@ -6,700 +6,800 @@
             "title": "SwiftUI Lessons",
             "link": "https://www.fivestars.blog/articles/swiftui-lessons",
             "updated": 1644166800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-3-beta-1",
             "title": "New SwiftUI documentation in Xcode 13.3 beta 1",
             "link": "https://www.fivestars.blog/articles/xcode-13-3-beta-1",
             "updated": 1643475600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-2-beta-2",
             "title": "What's new in Xcode 13.2 beta 2",
             "link": "https://www.fivestars.blog/articles/xcode-13-2-beta-2",
             "updated": 1637082000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/custom-environment-values-cheatsheet",
             "title": "Custom SwiftUI Environment Values Cheatsheet",
             "link": "https://www.fivestars.blog/articles/custom-environment-values-cheatsheet",
             "updated": 1635786000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-2-beta-1",
             "title": "What's new in Xcode 13.2 beta 1",
             "link": "https://www.fivestars.blog/articles/xcode-13-2-beta-1",
             "updated": 1635354000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/how-to-define-environment-values",
             "title": "How to define custom SwiftUI environment values",
             "link": "https://www.fivestars.blog/articles/how-to-define-environment-values",
             "updated": 1635181200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/environmentvalues",
             "title": "EnvironmentValues",
             "link": "https://www.fivestars.blog/articles/environmentvalues",
             "updated": 1634576400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-environment-propagation-3",
             "title": "UIKit/AppKit and SwiftUI's Environment propagation",
             "link": "https://www.fivestars.blog/articles/swiftui-environment-propagation-3",
             "updated": 1634058000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-environment-propagation-2",
             "title": "Advanced Environment propagation",
             "link": "https://www.fivestars.blog/articles/swiftui-environment-propagation-2",
             "updated": 1633366800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-environment-propagation",
             "title": "The SwiftUI Environment",
             "link": "https://www.fivestars.blog/articles/swiftui-environment-propagation",
             "updated": 1632762000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-blend-modes",
             "title": "SwiftUI blend modes",
             "link": "https://www.fivestars.blog/articles/swiftui-blend-modes",
             "updated": 1632157200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/reverse-masks-how-to",
             "title": "How to apply a reverse mask in SwiftUI",
             "link": "https://www.fivestars.blog/articles/reverse-masks-how-to",
             "updated": 1631638860,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-rc",
             "title": "What's new in Xcode 13 Release Candidate",
             "link": "https://www.fivestars.blog/articles/xcode-13-rc",
             "updated": 1631638800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-masking",
             "title": "View masking in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-masking",
             "updated": 1630947600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-clipping",
             "title": "View clipping in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-clipping",
             "updated": 1630342800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-environment-values",
             "title": "Every SwiftUI Environment Value explained",
             "link": "https://www.fivestars.blog/articles/swiftui-environment-values",
             "updated": 1629738000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/openurl-openurlaction",
             "title": "Handling links with SwiftUI's openURL",
             "link": "https://www.fivestars.blog/articles/openurl-openurlaction",
             "updated": 1629133200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-beta-5",
             "title": "What's new in Xcode 13 beta 5",
             "link": "https://www.fivestars.blog/articles/xcode-13-beta-5",
             "updated": 1628614800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-windows",
             "title": "How to layer multiple windows in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-windows",
             "updated": 1628528400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/onsubmit",
             "title": "SwiftUI's new onSubmit modifier",
             "link": "https://www.fivestars.blog/articles/onsubmit",
             "updated": 1627923600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-beta-4",
             "title": "What's new in Xcode 13 beta 4",
             "link": "https://www.fivestars.blog/articles/xcode-13-beta-4",
             "updated": 1627405200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/alwaysEmitIntoClient",
             "title": "Backporting new features with @_alwaysEmitIntoClient",
             "link": "https://www.fivestars.blog/articles/alwaysEmitIntoClient",
             "updated": 1627318800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/environment-objects-and-swiftui-styles",
             "title": "Environment Objects and SwiftUI Styles",
             "link": "https://www.fivestars.blog/articles/environment-objects-and-swiftui-styles",
             "updated": 1626714000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-beta-3",
             "title": "What's new in Xcode 13 beta 3",
             "link": "https://www.fivestars.blog/articles/xcode-13-beta-3",
             "updated": 1626282000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/app-delegate-scene-delegate-swiftui",
             "title": "How to add an AppDelegate and a SceneDelegate to a SwiftUI app",
             "link": "https://www.fivestars.blog/articles/app-delegate-scene-delegate-swiftui",
             "updated": 1626109200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/button-styles-2",
             "title": "Meet the new Button styling",
             "link": "https://www.fivestars.blog/articles/button-styles-2",
             "updated": 1625504400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-patterns-view-builders",
             "title": "SwiftUI patterns evolution: view builders",
             "link": "https://www.fivestars.blog/articles/swiftui-patterns-view-builders",
             "updated": 1624899600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/xcode-13-beta-2",
             "title": "What's new in Xcode 13 beta 2",
             "link": "https://www.fivestars.blog/articles/xcode-13-beta-2",
             "updated": 1624554000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/safe-area-insets-2",
             "title": "Backport SwiftUI safe area insets to iOS 13 and 14",
             "link": "https://www.fivestars.blog/articles/safe-area-insets-2",
             "updated": 1624294800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/safe-area-insets",
             "title": "How to control safe area insets in SwiftUI",
             "link": "https://www.fivestars.blog/articles/safe-area-insets",
             "updated": 1623690000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-wwdc21",
             "title": "What's new in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-wwdc21",
             "updated": 1623171600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/wwdc-notes-2",
             "title": "WWDC NOTES 2.0!",
             "link": "https://www.fivestars.blog/articles/wwdc-notes-2",
             "updated": 1622566800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-patterns-closures",
             "title": "SwiftUI patterns: view closures",
             "link": "https://www.fivestars.blog/articles/swiftui-patterns-closures",
             "updated": 1621875600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-introspect",
             "title": "SwiftUI Introspect",
             "link": "https://www.fivestars.blog/articles/swiftui-introspect",
             "updated": 1621270800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/wwdc21-wishlist",
             "title": "My WWDC21 Wishlist",
             "link": "https://www.fivestars.blog/articles/wwdc21-wishlist",
             "updated": 1620666000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/textfieldstyle",
             "title": "A TextFieldStyle API preview!",
             "link": "https://www.fivestars.blog/articles/textfieldstyle",
             "updated": 1620061200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/spm-5-4",
             "title": "What's new in Swift Package Manager in Swift 5.4",
             "link": "https://www.fivestars.blog/articles/spm-5-4",
             "updated": 1619456400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/how-to-customize-textfields",
             "title": "Four ways to customize TextFields",
             "link": "https://www.fivestars.blog/articles/how-to-customize-textfields",
             "updated": 1618851600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-protocols",
             "title": "Every SwiftUI protocol explained",
             "link": "https://www.fivestars.blog/articles/swiftui-protocols",
             "updated": 1618246800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/five-stars-2",
             "title": "Welcome to FIVE STARS 2.0!",
             "link": "https://www.fivestars.blog/articles/five-stars-2",
             "updated": 1617642000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-graph",
             "title": "A sneak peek into SwiftUI's graph",
             "link": "https://www.fivestars.blog/articles/swiftui-graph",
             "updated": 1617037200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/inspecting-views",
             "title": "Inspecting SwiftUI views",
             "link": "https://www.fivestars.blog/articles/inspecting-views",
             "updated": 1616432400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/codable-swift-dictionaries",
             "title": "Encoding and decoding Swift dictionaries with custom key types",
             "link": "https://www.fivestars.blog/articles/codable-swift-dictionaries",
             "updated": 1615827600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/app-state",
             "title": "App-wide state in SwiftUI",
             "link": "https://www.fivestars.blog/articles/app-state",
             "updated": 1615222800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/embracing-viewbuilder",
             "title": "Quick tips on embracing @ViewBuilder",
             "link": "https://www.fivestars.blog/articles/embracing-viewbuilder",
             "updated": 1614618000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/function-builder-attribute-can-only-be-applied-to-a-property-if-it-defines-a-getter",
             "title": "Function builder attribute 'ViewBuilder' can only be applied to a property if it defines a getter",
             "link": "https://www.fivestars.blog/articles/function-builder-attribute-can-only-be-applied-to-a-property-if-it-defines-a-getter",
             "updated": 1614272400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-hud",
             "title": "Custom HUDs in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-hud",
             "updated": 1614013200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-patter-passing-views",
             "title": "SwiftUI patterns: passing & accepting views",
             "link": "https://www.fivestars.blog/articles/swiftui-patter-passing-views",
             "updated": 1613408400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-keyboard",
             "title": "SwiftUI keyboard avoidance",
             "link": "https://www.fivestars.blog/articles/swiftui-keyboard",
             "updated": 1612803600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/custom-view-styles",
             "title": "How to create custom SwiftUI view styles",
             "link": "https://www.fivestars.blog/articles/custom-view-styles",
             "updated": 1612198800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/button-styles",
             "title": "Exploring SwiftUI's Button styles",
             "link": "https://www.fivestars.blog/articles/button-styles",
             "updated": 1611594000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-patterns-bindings",
             "title": "SwiftUI patterns: @Bindings",
             "link": "https://www.fivestars.blog/articles/swiftui-patterns-bindings",
             "updated": 1610989200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/trucated-text",
             "title": "How to check if Text is truncated in SwiftUI?",
             "link": "https://www.fivestars.blog/articles/trucated-text",
             "updated": 1610384400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/stack-spacer-alternatives",
             "title": "An alternative to SwiftUI's stacks + Spacer combo",
             "link": "https://www.fivestars.blog/articles/stack-spacer-alternatives",
             "updated": 1607965200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/lets-build-state",
             "title": "Let's build @State",
             "link": "https://www.fivestars.blog/articles/lets-build-state",
             "updated": 1607360400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/programmatic-navigation",
             "title": "The future of SwiftUI navigation (?)",
             "link": "https://www.fivestars.blog/articles/programmatic-navigation",
             "updated": 1606755600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swift-protocols",
             "title": "Swift protocols in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swift-protocols",
             "updated": 1606237200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/content-friendly-layouts",
             "title": "How to build content-friendly layouts in SwiftUI",
             "link": "https://www.fivestars.blog/articles/content-friendly-layouts",
             "updated": 1605546000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/disfavoredOverload",
             "title": "What is @_disfavoredOverload in Swift?",
             "link": "https://www.fivestars.blog/articles/disfavoredOverload",
             "updated": 1604941200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/displaying-text-swiftui",
             "title": "Displaying text in SwiftUI",
             "link": "https://www.fivestars.blog/articles/displaying-text-swiftui",
             "updated": 1604336400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/hashable-bindings",
             "title": "Hashable SwiftUI bindings",
             "link": "https://www.fivestars.blog/articles/hashable-bindings",
             "updated": 1603731600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/adaptive-swiftui-views",
             "title": "How to make SwiftUI views adaptive",
             "link": "https://www.fivestars.blog/articles/adaptive-swiftui-views",
             "updated": 1603126800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/design-system-composing-views",
             "title": "How to compose SwiftUI views with @ViewBuilder",
             "link": "https://www.fivestars.blog/articles/design-system-composing-views",
             "updated": 1602608400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/warn_unqualified_access",
             "title": "@warn_unqualified_access",
             "link": "https://www.fivestars.blog/articles/warn_unqualified_access",
             "updated": 1601917200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/lazy-stack-grid",
             "title": "Lazy stacks secrets",
             "link": "https://www.fivestars.blog/articles/lazy-stack-grid",
             "updated": 1601312400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/label",
             "title": "SwiftUI's Label",
             "link": "https://www.fivestars.blog/articles/label",
             "updated": 1600707600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/impossible-swiftui-views",
             "title": "Why SwiftUI primitives have body type Never?",
             "link": "https://www.fivestars.blog/articles/impossible-swiftui-views",
             "updated": 1600189200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/preferencekey-reduce",
             "title": "How SwiftUI's Preference Keys are propagated",
             "link": "https://www.fivestars.blog/articles/preferencekey-reduce",
             "updated": 1599584400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/conditional-modifiers",
             "title": "Conditional view modifiers",
             "link": "https://www.fivestars.blog/articles/conditional-modifiers",
             "updated": 1598893200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/scrollview-offset",
             "title": "SwiftUI ScrollView offset",
             "link": "https://www.fivestars.blog/articles/scrollview-offset",
             "updated": 1598288400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/flexible-swiftui",
             "title": "Flexible layouts in SwiftUI",
             "link": "https://www.fivestars.blog/articles/flexible-swiftui",
             "updated": 1597683600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-share-layout-information",
             "title": "How to read a view size in SwiftUI",
             "link": "https://www.fivestars.blog/articles/swiftui-share-layout-information",
             "updated": 1597165200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/app-scene-storage",
             "title": "Swift types with @AppStorage and @SceneStorage",
             "link": "https://www.fivestars.blog/articles/app-scene-storage",
             "updated": 1596474000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/redacted-custom-effects",
             "title": "How to create custom redacted effects",
             "link": "https://www.fivestars.blog/articles/redacted-custom-effects",
             "updated": 1595869200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-widgetkit",
             "title": "SwiftUI features in WidgetKit",
             "link": "https://www.fivestars.blog/articles/swiftui-widgetkit",
             "updated": 1595264400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swiftui-hierarchy-list",
             "title": "SwiftUI Hierarchy Lists",
             "link": "https://www.fivestars.blog/articles/swiftui-hierarchy-list",
             "updated": 1594659600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/section-title-index-swiftui",
             "title": "How to add SectionIndexTitles in SwiftUI",
             "link": "https://www.fivestars.blog/articles/section-title-index-swiftui",
             "updated": 1594054800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/optional-binding",
             "title": "How to add optional @Bindings to SwiftUI views",
             "link": "https://www.fivestars.blog/articles/optional-binding",
             "updated": 1593450000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/wwdc-notes",
             "title": "Introducing WWDC Notes",
             "link": "https://www.fivestars.blog/articles/wwdc-notes",
             "updated": 1592154000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/wwdc-countdown",
             "title": "The WWDC Countdown Talks Challenge",
             "link": "https://www.fivestars.blog/articles/wwdc-countdown",
             "updated": 1591117200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swift-scripts-preferences-userDefaults",
             "title": "Swift CLI Tools User Preferences",
             "link": "https://www.fivestars.blog/articles/swift-scripts-preferences-userDefaults",
             "updated": 1588179600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/how-covid-19-contact-tracing-works",
             "title": "How Apple's and Google\u2019s Coronavirus Contact Tracing System Works",
             "link": "https://www.fivestars.blog/articles/how-covid-19-contact-tracing-works",
             "updated": 1586710800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swift-subcommands-galore",
             "title": "How To Add Extra Commands To CLI Tools",
             "link": "https://www.fivestars.blog/articles/swift-subcommands-galore",
             "updated": 1585674000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/what-s-new-in-swift-5-2",
             "title": "What's New In Swift 5.2 \ud83c\udfce",
             "link": "https://www.fivestars.blog/articles/what-s-new-in-swift-5-2",
             "updated": 1585069200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/executables-progress",
             "title": "Swift Executables Progress State \u23f3",
             "link": "https://www.fivestars.blog/articles/executables-progress",
             "updated": 1584982800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/a-look-into-argument-parser",
             "title": "A Look Into ArgumentParser",
             "link": "https://www.fivestars.blog/articles/a-look-into-argument-parser",
             "updated": 1584378000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/executables-argument-kind",
             "title": "TSCUtility's ArgumentParser",
             "link": "https://www.fivestars.blog/articles/executables-argument-kind",
             "updated": 1583773200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/ultimate-guide-swift-executables",
             "title": "The Ultimate Guide To Swift Executables \ud83d\ude80",
             "link": "https://www.fivestars.blog/articles/ultimate-guide-swift-executables",
             "updated": 1582563600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/the-swift-behind-the-standard-library-preview-package",
             "title": "The Swift Behind The Standard Library Preview Package \u2728",
             "link": "https://www.fivestars.blog/articles/the-swift-behind-the-standard-library-preview-package",
             "updated": 1582131600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/the-state-of-machine-learning-in-ios-13",
             "title": "The State of Machine Learning in iOS 13 \ud83e\udda0",
             "link": "https://www.fivestars.blog/articles/the-state-of-machine-learning-in-ios-13",
             "updated": 1580749200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/swift-5-1-collection-diffing",
             "title": "Swift 5.1 Collection Diffing",
             "link": "https://www.fivestars.blog/articles/swift-5-1-collection-diffing",
             "updated": 1563814800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/large-content-viewer",
             "title": "iOS 13 Large Content Viewer \ud83d\udd0e",
             "link": "https://www.fivestars.blog/articles/large-content-viewer",
             "updated": 1562605200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/uicontextmenuinteraction",
             "title": "Behind The Scenes Of Context Menus",
             "link": "https://www.fivestars.blog/articles/uicontextmenuinteraction",
             "updated": 1561309200,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/what-s-new-in-swift-5-1",
             "title": "What's New In Swift 5.1 \ud83c\udfce",
             "link": "https://www.fivestars.blog/articles/what-s-new-in-swift-5-1",
             "updated": 1560272400,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/ios-dark-mode-how-to",
             "title": "How To Adopt Dark Mode In Your iOS App \ud83c\udf19",
             "link": "https://www.fivestars.blog/articles/ios-dark-mode-how-to",
             "updated": 1560186000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/wwdc19-wishlist",
             "title": "My WWDC19 Wishlist \ud83e\uddde\u200d\u2642\ufe0f",
             "link": "https://www.fivestars.blog/articles/wwdc19-wishlist",
             "updated": 1557162000,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/five-stars",
             "title": "Introducing Five Stars",
             "link": "https://www.fivestars.blog/articles/five-stars",
             "updated": 1556643600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/dijkstra-algorithm-swift-2",
             "title": "The Right Way To Write Dijkstra\u2019s Algorithm In Swift \ud83d\udc7e",
             "link": "https://www.fivestars.blog/articles/dijkstra-algorithm-swift-2",
             "updated": 1503939600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/dijkstra-algorithm-swift",
             "title": "Dijkstra\u2019s Algorithm In Swift",
             "link": "https://www.fivestars.blog/articles/dijkstra-algorithm-swift",
             "updated": 1503334800,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         },
         {
             "id": "https://www.fivestars.blog/articles/little-xcode-beta-surprises",
             "title": "Little Xcode Beta Surprises \ud83c\udf81: Core Graphics Codable Conformance",
             "link": "https://www.fivestars.blog/articles/little-xcode-beta-surprises",
             "updated": 1500915600,
-            "site_url": "https://www.fivestars.blog/"
+            "site_url": "https://www.fivestars.blog/",
+            "slug": "development"
         }
     ]
 }

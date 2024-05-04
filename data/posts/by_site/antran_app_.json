@@ -6,315 +6,360 @@
             "title": "iOS Interview - Leetcode 4: Median of Two Sorted Arrays",
             "link": "https://antran.app/2024/leetcode_4_median_two_sorted_arrays/",
             "updated": 1714410000,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/ios_interview_dictionary/",
             "title": "iOS Interview - Explaining Dictionary data structure in Swift",
             "link": "https://antran.app/2024/ios_interview_dictionary/",
             "updated": 1714323600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/mlx_swift_example_cli/",
             "title": "MLX - Day 4: Evaluate LLM Models from CLI with MLX on macOS",
             "link": "https://antran.app/2024/mlx_swift_example_cli/",
             "updated": 1714237200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_14_longest_common_prefix/",
             "title": "iOS Interview - Leetcode 14: Longest Common Prefix",
             "link": "https://antran.app/2024/leetcode_14_longest_common_prefix/",
             "updated": 1714064400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_20_valid_parentheses/",
             "title": "iOS Interview - Leetcode 20: Valid Parentheses",
             "link": "https://antran.app/2024/leetcode_20_valid_parentheses/",
             "updated": 1714064400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_7_reverse_integer/",
             "title": "iOS Interview - Leetcode 7: Reverse Integer",
             "link": "https://antran.app/2024/leetcode_7_reverse_integer/",
             "updated": 1714064400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/mlx_swift_examples/",
             "title": "MLX - Day 3: Running the MLX sample app on macOS, iOS and visionOS",
             "link": "https://antran.app/2024/mlx_swift_examples/",
             "updated": 1713978000,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/mlx_swift_getting_started/",
             "title": "MLX - Day 2: Getting started with MLX Swift Examples",
             "link": "https://antran.app/2024/mlx_swift_getting_started/",
             "updated": 1713891600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_9_palindrome_number/",
             "title": "iOS Interview - Leetcode 9: Palindrome Number",
             "link": "https://antran.app/2024/leetcode_9_palindrome_number/",
             "updated": 1713805200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/mlx_installation/",
             "title": "MLX - Day 1: Getting started",
             "link": "https://antran.app/2024/mlx_installation/",
             "updated": 1713805200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_queue/",
             "title": "iOS Interview - An Introduction to the Queue Data Structure and Its Applications",
             "link": "https://antran.app/2024/leetcode_queue/",
             "updated": 1713718800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/mlx_getting_started/",
             "title": "MLX: On-device machine learning on Apple Silicon",
             "link": "https://antran.app/2024/mlx_getting_started/",
             "updated": 1713718800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/macos_progressview/",
             "title": "Custom SwiftUI Activity Indicator for macOS apps",
             "link": "https://antran.app/2024/macos_progressview/",
             "updated": 1713632400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_stack/",
             "title": "iOS Interview - Using Stack to Solve Data Structure and Algorithm Problems in Swift",
             "link": "https://antran.app/2024/leetcode_stack/",
             "updated": 1713286800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_backtracking/",
             "title": "iOS Interview - Backtracking Algorithms: Solving Data Structure and Algorithm Problems in Swift",
             "link": "https://antran.app/2024/leetcode_backtracking/",
             "updated": 1713200400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_binary_search/",
             "title": "iOS Interview - Binary Search Algorithms in Swift",
             "link": "https://antran.app/2024/leetcode_binary_search/",
             "updated": 1713200400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_hash_tables/",
             "title": "iOS Interview - Mastering the Hash Table Pattern in Swift",
             "link": "https://antran.app/2024/leetcode_hash_tables/",
             "updated": 1713200400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/swift_map/",
             "title": "iOS Interview - Reimplement map and compactMap high-order function in Swift",
             "link": "https://antran.app/2024/swift_map/",
             "updated": 1713200400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_dynamic_programming/",
             "title": "iOS Interview - Dynamic Programming",
             "link": "https://antran.app/2024/leetcode_dynamic_programming/",
             "updated": 1713027600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_bfs/",
             "title": "iOS Interview - Breadth-First Search",
             "link": "https://antran.app/2024/leetcode_bfs/",
             "updated": 1712941200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_dfs/",
             "title": "iOS Interview - Depth-First Search",
             "link": "https://antran.app/2024/leetcode_dfs/",
             "updated": 1712941200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_two_pointers/",
             "title": "iOS Interview - Two Pointers Technique",
             "link": "https://antran.app/2024/leetcode_two_pointers/",
             "updated": 1712941200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/leetcode_sliding_window/",
             "title": "iOS Interview - Sliding Window Technique",
             "link": "https://antran.app/2024/leetcode_sliding_window/",
             "updated": 1712854800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/dynamic_static_dispatch/",
             "title": "iOS Interview - Understanding Dynamic Dispatch and Static Dispatch in Swift",
             "link": "https://antran.app/2024/dynamic_static_dispatch/",
             "updated": 1712595600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/swift_phantom_type/",
             "title": "iOS Interview - Understanding and Implementing Phantom Types in Swift",
             "link": "https://antran.app/2024/swift_phantom_type/",
             "updated": 1712595600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/swift_type_erasure/",
             "title": "iOS Interview - Understanding Type Erasure in Swift: A Comprehensive Guide",
             "link": "https://antran.app/2024/swift_type_erasure/",
             "updated": 1712595600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/thread_safe_array/",
             "title": "iOS Interview - Understanding and Implementing Thread-Safe Arrays",
             "link": "https://antran.app/2024/thread_safe_array/",
             "updated": 1712509200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/swift_method_swizzling/",
             "title": "iOS Interview - Swift Method Swizzling",
             "link": "https://antran.app/2024/swift_method_swizzling/",
             "updated": 1712422800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/thread_explosions/",
             "title": "iOS Interview - Thread explosion in iOS Programming",
             "link": "https://antran.app/2024/thread_explosions/",
             "updated": 1712422800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/macos_storyboard_commands/",
             "title": "Fixing Keyboard shortcuts not working for TextFields in macOS apps",
             "link": "https://antran.app/2024/macos_storyboard_commands/",
             "updated": 1711990800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/semaphore/",
             "title": "iOS Interview - DispatchSemaphore explained",
             "link": "https://antran.app/2024/semaphore/",
             "updated": 1710694800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/appstorage_codable/",
             "title": "Store a codable model into AppStorage",
             "link": "https://antran.app/2024/appstorage_codable/",
             "updated": 1710608400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2024/swift_playground_async_execution/",
             "title": "How to run asynchronous code in Swift Playground correctly?",
             "link": "https://antran.app/2024/swift_playground_async_execution/",
             "updated": 1710608400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/week_42_reading_notes/",
             "title": "Week 42: Reading Notes",
             "link": "https://antran.app/2023/week_42_reading_notes/",
             "updated": 1698253200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/running_ios_12_simulator_ventura/",
             "title": "How to run iOS Apps on iOS 12 Simulator when using macOS Ventura?",
             "link": "https://antran.app/2023/running_ios_12_simulator_ventura/",
             "updated": 1698253200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/week_41_reading_notes/",
             "title": "Week 41: Reading Notes",
             "link": "https://antran.app/2023/week_41_reading_notes/",
             "updated": 1697389200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/week_39_reading_notes/",
             "title": "Week 39: Reading Notes",
             "link": "https://antran.app/2023/week_39_reading_notes/",
             "updated": 1696093200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/swiftui_picker_not_selected/",
             "title": "Why my SwiftUI Picker doesn't recognize my selection?",
             "link": "https://antran.app/2023/swiftui_picker_not_selected/",
             "updated": 1694710800,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/mint/",
             "title": "Use Mint to install Swift command line tool package without root permission",
             "link": "https://antran.app/2023/mint/",
             "updated": 1693501200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/mastering_simctl_part2/",
             "title": "Mastering iOS Simulator Control - Setting A Location Or Route",
             "link": "https://antran.app/2023/mastering_simctl_part2/",
             "updated": 1692032400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2023/mastering_simctl_part1/",
             "title": "Mastering iOS Simulator Control with simctl (Part 1)",
             "link": "https://antran.app/2023/mastering_simctl_part1/",
             "updated": 1689440400,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2022/swift_package_executable_trap_sigint/",
             "title": "Trap exit code (SIGINT, SIGTERM etc) in a Swift Package Executable CLI",
             "link": "https://antran.app/2022/swift_package_executable_trap_sigint/",
             "updated": 1670691600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2021/github_copilot_swift/",
             "title": "How to use Github Copilot with Swift using Visual Studio Code?",
             "link": "https://antran.app/2021/github_copilot_swift/",
             "updated": 1635613200,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2021/access_private_repos_github_actions/",
             "title": "How to access private repositories from Github Actions?",
             "link": "https://antran.app/2021/access_private_repos_github_actions/",
             "updated": 1631379600,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         },
         {
             "id": "https://antran.app/2019/swiftui_activity_indicator/",
             "title": "Activity Indicator in SwiftUI",
             "link": "https://antran.app/2019/swiftui_activity_indicator/",
             "updated": 1560181232,
-            "site_url": "https://antran.app/"
+            "site_url": "https://antran.app/",
+            "slug": "development"
         }
     ]
 }

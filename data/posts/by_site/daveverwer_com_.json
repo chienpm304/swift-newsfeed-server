@@ -6,70 +6,80 @@
             "title": "Closing my rings in 2020",
             "link": "https://daveverwer.com/blog/closing-my-rings-in-2020/",
             "updated": 1609434000,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/running-up-that-hill",
             "title": "Running up that hill",
             "link": "https://daveverwer.com/blog/running-up-that-hill/",
             "updated": 1588784400,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/uphill-struggles",
             "title": "Uphill struggles",
             "link": "https://daveverwer.com/blog/uphill-struggles/",
             "updated": 1580662800,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/bullet-point-review-16-inch-macbook-pro",
             "title": "Bullet Point Review \u2013 16-inch MacBook Pro",
             "link": "https://daveverwer.com/blog/bullet-point-review-16-inch-macbook-pro/",
             "updated": 1574701200,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/launching-the-swiftpm-library",
             "title": "Launching the SwiftPM Library",
             "link": "https://daveverwer.com/blog/launching-the-swiftpm-library/",
             "updated": 1565110800,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/trusting-icloud-drive",
             "title": "Trusting iCloud Drive",
             "link": "https://daveverwer.com/blog/trusting-icloud-drive/",
             "updated": 1563555600,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/do-the-words-in-your-notifications-matter",
             "title": "Do the words in your notifications matter?",
             "link": "https://daveverwer.com/blog/do-the-words-in-your-notifications-matter/",
             "updated": 1561222800,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/the-story-behind-picswithdave",
             "title": "The story behind #picswithdave",
             "link": "https://daveverwer.com/blog/the-story-behind-picswithdave/",
             "updated": 1560358800,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/launching-ios-dev-jobs",
             "title": "Launching iOS Dev Jobs",
             "link": "https://daveverwer.com/blog/launching-ios-dev-jobs/",
             "updated": 1558026000,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         },
         {
             "id": "https://daveverwer.com/blog/two-months-with-the-oura-ring",
             "title": "Two months with the Oura ring",
             "link": "https://daveverwer.com/blog/two-months-with-the-oura-ring/",
             "updated": 1556298000,
-            "site_url": "https://daveverwer.com/"
+            "site_url": "https://daveverwer.com/",
+            "slug": "development"
         }
     ]
 }

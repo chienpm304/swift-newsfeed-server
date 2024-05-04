@@ -6,70 +6,80 @@
             "title": "How to Implement the MVVM Design Pattern in Swift",
             "link": "https://iosapptemplates.com/blog/ios-development/mvvm-swift",
             "updated": 1707771834,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://www.iosapptemplates.com/?p=8244",
             "title": "10 Best iOS app ideas for beginners",
             "link": "https://iosapptemplates.com/blog/online-businesses/10-best-ios-app-ideas-for-beginners",
             "updated": 1703689390,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://www.iosapptemplates.com/?p=17857",
             "title": "How to Make a Chat App for iOS in SwiftUI",
             "link": "https://iosapptemplates.com/blog/swiftui/swiftui-chat",
             "updated": 1701625762,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://www.iosapptemplates.com/?p=5927",
             "title": "SnapKit Tutorial: Simplifying Auto Layout in iOS App Development",
             "link": "https://iosapptemplates.com/blog/ios-development/snapkit-tutorial-ios",
             "updated": 1699635679,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://www.iosapptemplates.com/?p=6495",
             "title": "Build a Tinder-like Card Swipe in Swift with Koloda View",
             "link": "https://iosapptemplates.com/blog/ios-development/tinder-card-swipe-swift-koloda",
             "updated": 1698175046,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://iosapptemplates.com/?p=40493",
             "title": "How to Integrate WebRTC in Swift for Video & Audio Chat",
             "link": "https://iosapptemplates.com/blog/swift-programming/webrtc-swift",
             "updated": 1693928229,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://iosapptemplates.com/?p=40485",
             "title": "Top 10 SwiftUI Libraries to Speed Up iOS App Development",
             "link": "https://iosapptemplates.com/blog/swiftui/swiftui-libraries",
             "updated": 1692445679,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://iosapptemplates.com/?p=40477",
             "title": "Top Xcode Shortcuts Any iOS Developer Should Know",
             "link": "https://iosapptemplates.com/blog/ios-programming/xcode-shortcuts",
             "updated": 1691524620,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://iosapptemplates.com/?p=40470",
             "title": "How to Use WebView in SwiftUI \u2013 A Comprehensive Tutorial",
             "link": "https://iosapptemplates.com/blog/ios-development/webview-swiftui",
             "updated": 1689276464,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         },
         {
             "id": "https://www.iosapptemplates.com/?p=14297",
             "title": "How to Build a Login Screen in SwiftUI",
             "link": "https://iosapptemplates.com/blog/swiftui/login-screen-swiftui",
             "updated": 1689195568,
-            "site_url": "https://iosapptemplates.com/blog"
+            "site_url": "https://iosapptemplates.com/blog",
+            "slug": "development"
         }
     ]
 }

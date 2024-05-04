@@ -6,105 +6,120 @@
             "title": "Removing Unremovable Files after Upgrading to macOS Catalina",
             "link": "https://carpeaqua.com/2019/08/22/unremovable-files-macos-catalina/",
             "updated": 1566463328,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5a52eec9cdb761002d71581f",
             "title": "The Joys of a Two Week Vacation",
             "link": "https://carpeaqua.com/2018/01/08/two-week-vacations/",
             "updated": 1515387600,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5a4e5464cdb761002d71581b",
             "title": "How I Made Twitter Tolerable, for Me",
             "link": "https://carpeaqua.com/2018/01/04/make-twitter-less-terrible-again/",
             "updated": 1515057689,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5a4929e9790fd8002da35807",
             "title": "My 2017 Home Screen",
             "link": "https://carpeaqua.com/2018/01/01/homescreen-2017/",
             "updated": 1514806758,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5a1f549195d624002147d102",
             "title": "Updating Your APFS Encrypted Volume / FileVault Password",
             "link": "https://carpeaqua.com/2017/11/30/updating-your-apfs-encrypted-volume-filevault-password/",
             "updated": 1512028800,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "59fb339801a0e800228a517b",
             "title": "A Note on carpeaqua RSS",
             "link": "https://carpeaqua.com/2017/11/02/a-note-on-carpeaqua-rss/",
             "updated": 1509609600,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a965",
             "title": "I Got Hacked and All I Got Was This New SIM Card",
             "link": "https://carpeaqua.com/2017/07/07/hack-the-planet/",
             "updated": 1499421570,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a964",
             "title": "Swift's Evolution",
             "link": "https://carpeaqua.com/2017/06/02/swifts-evolution/",
             "updated": 1496399160,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a963",
             "title": "A Software Developer\u2019s Mac Pro",
             "link": "https://carpeaqua.com/2017/04/09/a-software-developers-mac-pro/",
             "updated": 1491728344,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a962",
             "title": "Why Pro Matters",
             "link": "https://carpeaqua.com/2017/04/07/why-pro-matters/",
             "updated": 1491503090,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a961",
             "title": "My Ultimate Developer and Power Users Tool List for macOS Sierra (2017 Edition)",
             "link": "https://carpeaqua.com/2017/04/02/my-ultimate-developer-and-power-users-tool-list-for-macos-sierra-2017-edition/",
             "updated": 1491121980,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a960",
             "title": "Showing Debug and Info Logs in the macOS Sierra Console",
             "link": "https://carpeaqua.com/2017/03/22/debug-and-info-unified-logging/",
             "updated": 1490168558,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a95f",
             "title": "Improving the iPad By Making it an iMac",
             "link": "https://carpeaqua.com/2017/02/23/looking-backwards/",
             "updated": 1487863052,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a95e",
             "title": "The Conference Circus",
             "link": "https://carpeaqua.com/2016/12/20/the-conference-circus/",
             "updated": 1482205052,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         },
         {
             "id": "5994f174d63345001915a95d",
             "title": "Fighting Back",
             "link": "https://carpeaqua.com/2016/12/19/fighting_back/",
             "updated": 1482102038,
-            "site_url": "https://carpeaqua.com/"
+            "site_url": "https://carpeaqua.com/",
+            "slug": "development"
         }
     ]
 }

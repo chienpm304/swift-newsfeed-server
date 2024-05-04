@@ -6,105 +6,120 @@
             "title": "SwiftUI Firebase Chat 09: Navigation Link to Chat Log View",
             "link": "https://www.youtube.com/watch?v=dzvNdJGq_Ec",
             "updated": 1714169053,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:Xfz0okAw9z4",
             "title": "SwiftUI Firebase Chat 08: Show All Users for Creating Message",
             "link": "https://www.youtube.com/watch?v=Xfz0okAw9z4",
             "updated": 1714167690,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yHngqpFpVZU",
             "title": "SwiftUI Firebase Chat 06: Fetch Current User Firestore",
             "link": "https://www.youtube.com/watch?v=yHngqpFpVZU",
             "updated": 1714106551,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:3TSYCPE1UXI",
             "title": "SwiftUI Firebase Chat 16: Removing Snapshot Listeners",
             "link": "https://www.youtube.com/watch?v=3TSYCPE1UXI",
             "updated": 1714091498,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:NLOKRKvnHCo",
             "title": "SwiftUI Firebase Chat 07: Sign Out of Firebase",
             "link": "https://www.youtube.com/watch?v=NLOKRKvnHCo",
             "updated": 1714072989,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:5inXE5d2MUM",
             "title": "SwiftUI Firebase Chat 03: Save Images to Firebase Storage",
             "link": "https://www.youtube.com/watch?v=5inXE5d2MUM",
             "updated": 1714022370,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:DRutLsEXKyQ",
             "title": "\ud83d\udd34 Christmas Live Stream - Welcome back to YouTube \ud83d\udd34",
             "link": "https://www.youtube.com/watch?v=DRutLsEXKyQ",
             "updated": 1713907939,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:ucCN4blJI4c",
             "title": "SwiftUI Firebase Chat 13: ScrollViewReader and Proxy Auto Message Scrolling",
             "link": "https://www.youtube.com/watch?v=ucCN4blJI4c",
             "updated": 1712401324,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:G0AyApE2w1c",
             "title": "SwiftUI Firebase Chat 12: Fetch Messages Documents with Snapshot Listener",
             "link": "https://www.youtube.com/watch?v=G0AyApE2w1c",
             "updated": 1712285503,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:-THnBYbNOs8",
             "title": "SwiftUI Firebase Chat 10: Chat Log UI Setup",
             "link": "https://www.youtube.com/watch?v=-THnBYbNOs8",
             "updated": 1712247491,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:VtwFwDJvU8w",
             "title": "SwiftUI Firebase Chat 04: Installing Firestore and Saving User Data Collection",
             "link": "https://www.youtube.com/watch?v=VtwFwDJvU8w",
             "updated": 1711787677,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:pPsKTTd55xI",
             "title": "SwiftUI Firebase Chat 05 - Creating Template Messages View",
             "link": "https://www.youtube.com/watch?v=pPsKTTd55xI",
             "updated": 1711186582,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:NX0Z07eKvgU",
             "title": "SwiftUI Firebase Chat 15: Firestore Codables Model Objects",
             "link": "https://www.youtube.com/watch?v=NX0Z07eKvgU",
             "updated": 1710748663,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:dA_Ve-9gizQ",
             "title": "SwiftUI Firebase Chat 11: Send and Save Messages to Firestore",
             "link": "https://www.youtube.com/watch?v=dA_Ve-9gizQ",
             "updated": 1708625804,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:VfyYDO1U5NA",
             "title": "SwiftUI Firebase Chat 14: Save and Fetch Recent Messages",
             "link": "https://www.youtube.com/watch?v=VfyYDO1U5NA",
             "updated": 1708342278,
-            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA"
+            "site_url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+            "slug": "youtube"
         }
     ]
 }

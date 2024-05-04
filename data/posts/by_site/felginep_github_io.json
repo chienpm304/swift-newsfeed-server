@@ -6,70 +6,80 @@
             "title": "Xcode configuration for multiple environments",
             "link": "https://felginep.github.io/2021-01-21/xcode-configuration-multiple-environments",
             "updated": 1611162000,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-09-09/linting-licenses",
             "title": "Linting licenses",
             "link": "https://felginep.github.io/2020-09-09/linting-licenses",
             "updated": 1599584400,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-08-07/make-impossible-states-impossible",
             "title": "Make impossible states impossible",
             "link": "https://felginep.github.io/2020-08-07/make-impossible-states-impossible",
             "updated": 1596733200,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-06-09/visit-monitoring",
             "title": "Visit Monitoring",
             "link": "https://felginep.github.io/2020-06-09/visit-monitoring",
             "updated": 1591635600,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-03-19/using-intents-to-leave-the-app",
             "title": "Using intents to leave the app",
             "link": "https://felginep.github.io/2020-03-19/using-intents-to-leave-the-app",
             "updated": 1584550800,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-03-10/uialertcontroller-function-builders",
             "title": "UIAlertController with Function Builders",
             "link": "https://felginep.github.io/2020-03-10/uialertcontroller-function-builders",
             "updated": 1583773200,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2020-02-24/github-actions",
             "title": "Github Actions",
             "link": "https://felginep.github.io/2020-02-24/github-actions",
             "updated": 1582477200,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2019-03-20/property-based-testing",
             "title": "Property based testing",
             "link": "https://felginep.github.io/2019-03-20/property-based-testing",
             "updated": 1553014800,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2019-02-19/uiview-styling-with-functions",
             "title": "UIView styling with functions",
             "link": "https://felginep.github.io/2019-02-19/uiview-styling-with-functions",
             "updated": 1550509200,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         },
         {
             "id": "https://felginep.github.io/2019-02-05/swinject-in-practice",
             "title": "Swinject in practice",
             "link": "https://felginep.github.io/2019-02-05/swinject-in-practice",
             "updated": 1549299600,
-            "site_url": "https://felginep.github.io"
+            "site_url": "https://felginep.github.io",
+            "slug": "development"
         }
     ]
 }

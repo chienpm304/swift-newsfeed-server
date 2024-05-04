@@ -6,70 +6,80 @@
             "title": "Hiding Implementation Details Using internal Properties",
             "link": "https://holko.pl/2018/10/08/internal-modifier/",
             "updated": 1538990737,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2018/09/24/compilation-directives-in-libraries/",
             "title": "Why #if DEBUG Conditional Should Be Avoided in Library Code",
             "link": "https://holko.pl/2018/09/24/compilation-directives-in-libraries/",
             "updated": 1537775700,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/12/06/future-proof-dependency-injection/",
             "title": "Future-Proof Dependency Injection for Storyboard-Based View Controllers",
             "link": "https://holko.pl/2017/12/06/future-proof-dependency-injection/",
             "updated": 1512551100,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/11/15/rebuilding-ibdesignables/",
             "title": "Stop Xcode from constantly rebuilding your project because of @IBDesignable",
             "link": "https://holko.pl/2017/11/15/rebuilding-ibdesignables/",
             "updated": 1510734600,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/11/08/optimizing-swift-build-times/",
             "title": "Optimizing Swift build times \u2192",
             "link": "https://github.com/fastred/Optimizing-Swift-Build-Times",
             "updated": 1510147200,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/09/18/surprising-non-optional-nsmanaged/",
             "title": "Surprising behavior of non-optional @NSManaged properties",
             "link": "https://holko.pl/2017/09/18/surprising-non-optional-nsmanaged/",
             "updated": 1505726400,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/06/26/checking-uiviewcontroller-deallocation/",
             "title": "Catching Leaky View Controllers Without Instruments",
             "link": "https://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/",
             "updated": 1498466400,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/05/31/avoiding-ui-libraries/",
             "title": "Avoiding Third-Party UI Libraries",
             "link": "https://holko.pl/2017/05/31/avoiding-ui-libraries/",
             "updated": 1496220600,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2017/01/31/ibanalyzer/",
             "title": "Introducing IBAnalyzer",
             "link": "https://holko.pl/2017/01/31/ibanalyzer/",
             "updated": 1485849600,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         },
         {
             "id": "http://holko.pl//2016/12/14/storyboards-dependency-injection/",
             "title": "Imagining Dependency Injection via Initializer with Storyboards",
             "link": "https://holko.pl/2016/12/14/storyboards-dependency-injection/",
             "updated": 1481706900,
-            "site_url": "https://holko.pl/"
+            "site_url": "https://holko.pl/",
+            "slug": "development"
         }
     ]
 }

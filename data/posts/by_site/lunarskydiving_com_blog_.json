@@ -6,28 +6,32 @@
             "title": "What you should know about visionOS volumes before using them in an app",
             "link": "https://www.lunarskydiving.com/blog/volume-limitations/",
             "updated": 1708794000,
-            "site_url": "https://www.lunarskydiving.com/blog/"
+            "site_url": "https://www.lunarskydiving.com/blog/",
+            "slug": "development"
         },
         {
             "id": "urn:uuid:04028839-1018-3fc0-b707-9b01cf5604e8",
             "title": "If you've created a visionOS app with a volume, you probably did it wrong",
             "link": "https://www.lunarskydiving.com/blog/volume-window-zoom/",
             "updated": 1706461200,
-            "site_url": "https://www.lunarskydiving.com/blog/"
+            "site_url": "https://www.lunarskydiving.com/blog/",
+            "slug": "development"
         },
         {
             "id": "urn:uuid:8ea1f4d8-9e96-53cf-38d7-2faabadeb757",
             "title": "How to visualize the fourth dimension",
             "link": "https://www.lunarskydiving.com/blog/fourth-dimension/",
             "updated": 1685898000,
-            "site_url": "https://www.lunarskydiving.com/blog/"
+            "site_url": "https://www.lunarskydiving.com/blog/",
+            "slug": "development"
         },
         {
             "id": "urn:uuid:b621f289-df98-f6ec-a142-b68e118aa273",
             "title": "How far away is the Moon?",
             "link": "https://www.lunarskydiving.com/blog/how-far-away-is-the-moon/",
             "updated": 1677344400,
-            "site_url": "https://www.lunarskydiving.com/blog/"
+            "site_url": "https://www.lunarskydiving.com/blog/",
+            "slug": "development"
         }
     ]
 }

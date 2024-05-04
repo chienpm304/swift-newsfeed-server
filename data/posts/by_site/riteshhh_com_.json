@@ -6,28 +6,32 @@
             "title": "Declarative Networking with Combine",
             "link": "https://riteshhh.com/combine/declarative-networking-with-combine/",
             "updated": 1575565200,
-            "site_url": "https://riteshhh.com/"
+            "site_url": "https://riteshhh.com/",
+            "slug": "development"
         },
         {
             "id": "https://riteshhh.com/combine/custom-binding-operator-in-combine/",
             "title": "Custom binding operator in Combine",
             "link": "https://riteshhh.com/combine/custom-binding-operator-in-combine/",
             "updated": 1566147600,
-            "site_url": "https://riteshhh.com/"
+            "site_url": "https://riteshhh.com/",
+            "slug": "development"
         },
         {
             "id": "https://riteshhh.com/child-view-controllers-part-1/",
             "title": "Child View Controllers, Part 1",
             "link": "https://riteshhh.com/child-view-controllers-part-1/",
             "updated": 1553274000,
-            "site_url": "https://riteshhh.com/"
+            "site_url": "https://riteshhh.com/",
+            "slug": "development"
         },
         {
             "id": "https://riteshhh.com/about/",
             "title": "About me",
             "link": "https://riteshhh.com/about/",
             "updated": 1521392400,
-            "site_url": "https://riteshhh.com/"
+            "site_url": "https://riteshhh.com/",
+            "slug": "development"
         }
     ]
 }

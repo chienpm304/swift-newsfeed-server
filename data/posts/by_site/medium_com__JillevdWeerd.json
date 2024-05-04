@@ -6,42 +6,48 @@
             "title": "App Authentication with Laravel Airlock",
             "link": "https://medium.com/@JillevdWeerd/app-authentication-with-laravel-airlock-36e3d2027994?source=rss-78df6c0a7438------2",
             "updated": 1578898009,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/673d797692c1",
             "title": "Making iOS animations feel just right",
             "link": "https://blog.prototypr.io/making-animations-feel-just-right-673d797692c1?source=rss-78df6c0a7438------2",
             "updated": 1531274906,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f0e17582d2d3",
             "title": "Bridging the gap between iOS and Android Development",
             "link": "https://medium.com/@JillevdWeerd/bridging-the-gap-between-android-and-ios-development-f0e17582d2d3?source=rss-78df6c0a7438------2",
             "updated": 1530856623,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/eef2f6d290f4",
             "title": "My Android Dev Journey: Part 2",
             "link": "https://medium.com/@JillevdWeerd/my-android-dev-journey-part-2-eef2f6d290f4?source=rss-78df6c0a7438------2",
             "updated": 1530856602,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/1b8780ced374",
             "title": "Bringing animation to UITabBarController",
             "link": "https://medium.com/@JillevdWeerd/bringing-animation-to-uitabbarcontroller-1b8780ced374?source=rss-78df6c0a7438------2",
             "updated": 1530856560,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/8e998889b503",
             "title": "Creating links between WKWebView and Native code",
             "link": "https://medium.com/@JillevdWeerd/creating-links-between-wkwebview-and-native-code-8e998889b503?source=rss-78df6c0a7438------2",
             "updated": 1530856531,
-            "site_url": "https://medium.com/@JillevdWeerd"
+            "site_url": "https://medium.com/@JillevdWeerd",
+            "slug": "development"
         }
     ]
 }

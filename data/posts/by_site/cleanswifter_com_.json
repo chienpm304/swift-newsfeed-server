@@ -6,70 +6,80 @@
             "title": "Improving Swift Unit Tests with Objective-C",
             "link": "http://cleanswifter.com/improving-swift-unit-tests-objective-c/",
             "updated": 1490334789,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=890",
             "title": "Extract Class Refactoring in Swift",
             "link": "http://cleanswifter.com/extract-class-refactoring-swift/",
             "updated": 1474350659,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=869",
             "title": "How To Pick The Right Swift Open Source Component",
             "link": "http://cleanswifter.com/how-to-pick-the-right-swift-open-source-component/",
             "updated": 1473919244,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=858",
             "title": "Move Field Refactoring in Swift",
             "link": "http://cleanswifter.com/move-field-refactoring-swift/",
             "updated": 1473746431,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=863",
             "title": "Weekend Reading, September 9, 2016",
             "link": "http://cleanswifter.com/weekend-reading-september-9-2016/",
             "updated": 1473708900,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=837",
             "title": "Dependency Injection with Storyboards",
             "link": "http://cleanswifter.com/dependency-injection-with-storyboards/",
             "updated": 1473228002,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=829",
             "title": "Move Method Refactoring in Swift",
             "link": "http://cleanswifter.com/move-method-refactoring-swift/",
             "updated": 1472536842,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=834",
             "title": "Post Weekend Reading for August 29, 2016",
             "link": "http://cleanswifter.com/post-weekend-reading-august-29-2016/",
             "updated": 1472498348,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=822",
             "title": "SFSpeechRecognizer Tips for iOS 10",
             "link": "http://cleanswifter.com/sfspeechrecognizer-tips-for-ios-10/",
             "updated": 1472018437,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         },
         {
             "id": "http://cleanswifter.com/?p=816",
             "title": "Remove Assignment To Parameter in Swift",
             "link": "http://cleanswifter.com/remove-assignment-to-parameter-in-swift/",
             "updated": 1471932038,
-            "site_url": "http://cleanswifter.com/"
+            "site_url": "http://cleanswifter.com/",
+            "slug": "development"
         }
     ]
 }

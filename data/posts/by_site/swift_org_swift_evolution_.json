@@ -6,140 +6,160 @@
             "title": "Merge pull request #2422 from dempseyatgithub/SE-0433-add-missing-acc\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/7c7387e7fb3c5b85d559c362371834d05737c68d",
             "updated": 1714393369,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/7f20335e617e5bc47af5ca19ae834ef6e9119fca",
             "title": "Merge pull request #2417 from dempseyatgithub/normalize-malformed-rev\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/7f20335e617e5bc47af5ca19ae834ef6e9119fca",
             "updated": 1714393345,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/9b0b7dcd5f8b85bc1fb39ed5c16f3747fb02bb2c",
             "title": "Merge pull request #2423 from dempseyatgithub/SE-0428-update-status-f\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/9b0b7dcd5f8b85bc1fb39ed5c16f3747fb02bb2c",
             "updated": 1714393289,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0cd9cbfbf3f7957802b9735444f96a9daac2ac34",
             "title": "Update status of SE-0428 for acceptance announcment",
             "link": "https://github.com/apple/swift-evolution/commit/0cd9cbfbf3f7957802b9735444f96a9daac2ac34",
             "updated": 1714041628,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/c6eeb3f303353b7d3b2948ef0756ac6f8dbee104",
             "title": "SE-0433 Add missing link to acceptance announcment",
             "link": "https://github.com/apple/swift-evolution/commit/c6eeb3f303353b7d3b2948ef0756ac6f8dbee104",
             "updated": 1714041068,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0cc44cf05941865632e65b729b78103d75579245",
             "title": "Update 0433-mutex.md (#2421)",
             "link": "https://github.com/apple/swift-evolution/commit/0cc44cf05941865632e65b729b78103d75579245",
             "updated": 1714032000,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/0a3c9a2bf59c1bef6989c597ee3ea29fef7a5132",
             "title": "Remove erroneous upcoming feature flag from SE-0429 (#2416)",
             "link": "https://github.com/apple/swift-evolution/commit/0a3c9a2bf59c1bef6989c597ee3ea29fef7a5132",
             "updated": 1713877900,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/fa26c20271379107190c5c8e268908032b99bb11",
             "title": "Normalize review metadata",
             "link": "https://github.com/apple/swift-evolution/commit/fa26c20271379107190c5c8e268908032b99bb11",
             "updated": 1713852494,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/43b894b0c496b69dd8636bc97bb720212647bb7a",
             "title": "Switch feature flag from upcoming to experimental (#2415)",
             "link": "https://github.com/apple/swift-evolution/commit/43b894b0c496b69dd8636bc97bb720212647bb7a",
             "updated": 1713807990,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/3a0ba96f7d09df771e82e0bce95bda6a8f1dc8cd",
             "title": "Merge pull request #2414 from dempseyatgithub/normalize-github-profil\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/3a0ba96f7d09df771e82e0bce95bda6a8f1dc8cd",
             "updated": 1713803234,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/2a168719b9269f6da7edda3344cc819e7ce1646b",
             "title": "Merge pull request #2411 from dempseyatgithub/normalize-SE-0255-fields",
             "link": "https://github.com/apple/swift-evolution/commit/2a168719b9269f6da7edda3344cc819e7ce1646b",
             "updated": 1713803195,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/f99f6906c5e01b7304ea2f8467dd5e008820fda0",
             "title": "Merge pull request #2407 from dempseyatgithub/SE-0433-normalize-headi\u2026",
             "link": "https://github.com/apple/swift-evolution/commit/f99f6906c5e01b7304ea2f8467dd5e008820fda0",
             "updated": 1713803142,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/b2eaa918a34e838360eb45d34e46eb1371e8c954",
             "title": "Merge pull request #2401 from insub4067/main",
             "link": "https://github.com/apple/swift-evolution/commit/b2eaa918a34e838360eb45d34e46eb1371e8c954",
             "updated": 1713803098,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/dcc1932a4b8dffbee02be1737d37cf13ecac40a6",
             "title": "Normalize GitHub profile links",
             "link": "https://github.com/apple/swift-evolution/commit/dcc1932a4b8dffbee02be1737d37cf13ecac40a6",
             "updated": 1713800066,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/2310d6a8eab45b2227e9774340f8edd6364a92f8",
             "title": "Update 0220-count-where.md (#2391)",
             "link": "https://github.com/apple/swift-evolution/commit/2310d6a8eab45b2227e9774340f8edd6364a92f8",
             "updated": 1713797037,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/3af3026bfe274d7252204415c44fc6a5fbbe6a79",
             "title": "Add missing Review field to SE-0432 (#2413)",
             "link": "https://github.com/apple/swift-evolution/commit/3af3026bfe274d7252204415c44fc6a5fbbe6a79",
             "updated": 1713778403,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/9de040cfdab159b7228e640499a821870b6379ff",
             "title": "[SE-0428] accept with modifications (#2412)",
             "link": "https://github.com/apple/swift-evolution/commit/9de040cfdab159b7228e640499a821870b6379ff",
             "updated": 1713606374,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/cdd92395d61e7589c350368cde5f75682e4e6453",
             "title": "Normalize fields for SE-0255",
             "link": "https://github.com/apple/swift-evolution/commit/cdd92395d61e7589c350368cde5f75682e4e6453",
             "updated": 1713513503,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/ee58cba32fd6bc3cd6dd8c9ccadf5ecf99816645",
             "title": "Transferring Result (#2404)",
             "link": "https://github.com/apple/swift-evolution/commit/ee58cba32fd6bc3cd6dd8c9ccadf5ecf99816645",
             "updated": 1713438413,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         },
         {
             "id": "tag:github.com,2008:Grit::Commit/f80ad1eddd6bff9720bb8cc16f27c9a4d51e6554",
             "title": "Merge pull request #2410 from apple/glessard-patch-1",
             "link": "https://github.com/apple/swift-evolution/commit/f80ad1eddd6bff9720bb8cc16f27c9a4d51e6554",
             "updated": 1713434836,
-            "site_url": "https://www.swift.org/swift-evolution/"
+            "site_url": "https://www.swift.org/swift-evolution/",
+            "slug": "updates"
         }
     ]
 }

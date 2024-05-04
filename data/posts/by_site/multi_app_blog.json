@@ -6,175 +6,200 @@
             "title": "Designing Usefully Unintelligent AI Summaries",
             "link": "https://multi.app/blog/designing-usefully-unintelligent-ai-summaries",
             "updated": 1710478800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "f78a2277eaa6214cac9c1be873837228",
             "title": "Making Illegible, Slow WebRTC Screenshare Legible and Fast",
             "link": "https://multi.app/blog/making-illegible-slow-webrtc-screenshare-legible-and-fast",
             "updated": 1709614800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "ff812b3296745c6daad88efa5b41e4c6",
             "title": "Measuring Shared Control Latency: Hidden Watermarks and Overwhelming Variance",
             "link": "https://multi.app/blog/measuring-shared-control-latency",
             "updated": 1709614800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "b24583c2704b19a6d0aed24ae44119b2",
             "title": "Nailing the Activation Behavior of a Spotlight / Raycast-Like Command Palette",
             "link": "https://multi.app/blog/nailing-the-activation-behavior-of-a-spotlight-raycast-like-command-palette",
             "updated": 1707886800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "360d17fd6923e29ced894824e0f13800",
             "title": "Tips and Tricks for Migrating off Twillio to Zoom Video SDK",
             "link": "https://multi.app/blog/building-zoom-in-web",
             "updated": 1702530000,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "cda0a3d67c0aaf1fe558d1664e97a55f",
             "title": "Launching Multi: Multiplayer Collaboration for macOS",
             "link": "https://multi.app/blog/launching-multi-multiplayer-collaboration-for-macos",
             "updated": 1692075600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "c47fc3f1eba5e15b6682850872d6100a",
             "title": "Renaming Remotion to Multi",
             "link": "https://multi.app/blog/introducing-multi-video-calls-for-building-together",
             "updated": 1689138000,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "c6d002ed60188ce27f181ae6083299f1",
             "title": "Measuring latency of real time data streams in Swift: Delegate pattern, Combine, and Swift Actors",
             "link": "https://multi.app/blog/measuring-latency-of-real-time-data-streams-in-swift-delegate-pattern-combine-and-swift-actors",
             "updated": 1687323600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "460ac6bffbe354f12017929fa630bbde",
             "title": "Pushing the limits of NSStatusItem beyond what Apple wants you to do",
             "link": "https://multi.app/blog/pushing-the-limits-nsstatusitem",
             "updated": 1685422800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "10a263da83ef226af0fb558dc3a1caf4",
             "title": "Improving code reviews with Xcode Cloud",
             "link": "https://multi.app/blog/improving-code-reviews-with-xcode-cloud",
             "updated": 1682658000,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "95bfbc3a4847ce0a605832a888849f15",
             "title": "Moving to SwiftUI from macOS Cocoa or iOS Cocoa Touch",
             "link": "https://multi.app/blog/moving-to-swiftui-from-macos-cocoa-or-ios-cocoa-touch",
             "updated": 1680670800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "55496012fc811cde4aa771ec639966d3",
             "title": "Building a macOS remote control engine",
             "link": "https://multi.app/blog/building-a-macos-remote-control-engine",
             "updated": 1680066000,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "81ec95925948f4bb066a73fbff92ebc8",
             "title": "How and when to use XPC services",
             "link": "https://multi.app/blog/how-and-when-to-use-xpc-services",
             "updated": 1678856400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "a60042ac6861d8737626765f2b69cfcc",
             "title": "Elegantly managing state and renders in React",
             "link": "https://multi.app/blog/untangling-state-in-react",
             "updated": 1678251600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "aef0894d7ed5262ed08a92cb38d1a753",
             "title": "Refactoring Legacy Systems",
             "link": "https://multi.app/blog/refactoring-legacy-systems",
             "updated": 1677646800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "de51c0ff8592800f717b6ab45dd2c59e",
             "title": "UseRef, CreateRef, ForwardRef? What\u2019s up with refs in React?",
             "link": "https://multi.app/blog/useref-createref-forwardref-whats-up-with-refs-in-react",
             "updated": 1668488400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "200aa053d1bb46d07e100253f7146a1f",
             "title": "Is Swift Combine Dead?",
             "link": "https://multi.app/blog/is-swift-combine-dead",
             "updated": 1665464400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "d774943d2625a3e1f84146b6c0c96e16",
             "title": "Use standups to spark collaboration (instead of wasting your time)",
             "link": "https://multi.app/blog/use-standups-to-spark-collaboration-instead-of-wasting-your-time",
             "updated": 1665032400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "6553730929fc4e71b44ac7eb3d90af3f",
             "title": "Preparing for SwiftUI in AppKit Code by Using NSStackViews Instead of Nib Files",
             "link": "https://multi.app/blog/preparing-for-swiftui-in-appkit-code-by-using-nsstackviews-instead-of-nib-files",
             "updated": 1661317200,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "1bf8f3171ce3fb1fc728cd469e8aacf6",
             "title": "Move fast to unbreak things",
             "link": "https://multi.app/blog/move-fast-to-unbreak-things",
             "updated": 1660107600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "aa03c7363371878df131f150225b4283",
             "title": "Designing a custom, inclusive emoji picker",
             "link": "https://multi.app/blog/designing-a-custom-inclusive-emoji-picker",
             "updated": 1647579600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "0b63bcf48879208e85a577ca5a47334b",
             "title": "Standardized interviews stifle diversity. Fix them with objective-based recruiting.",
             "link": "https://multi.app/blog/standardized-interviews-stifle-diversity-fix-them-with-objective-based-recruiting",
             "updated": 1642568400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "8920393c0905bde6fc1339b8fbb67554",
             "title": "Why Remotion is a native macOS app (not Electron)",
             "link": "https://multi.app/blog/why-remotion-is-a-native-macos-app-not-electron",
             "updated": 1632718800,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "9a383f4db590b66e1f1e7d8af9b3f85f",
             "title": "How to Recruit Diverse Talent: 9 Ways to Improve Your Pipeline",
             "link": "https://multi.app/blog/how-to-recruit-diverse-talent-9-ways-to-improve-your-pipeline",
             "updated": 1629867600,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         },
         {
             "id": "de6f72470f94299360cd6ea8a2ed8bd8",
             "title": "How to Launch on Product Hunt",
             "link": "https://multi.app/blog/product-hunt-launch-guide-our-learnings",
             "updated": 1629176400,
-            "site_url": "https://multi.app/blog"
+            "site_url": "https://multi.app/blog",
+            "slug": "companies"
         }
     ]
 }

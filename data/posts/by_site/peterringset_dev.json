@@ -6,49 +6,56 @@
             "title": "Placing important UI elements near the bottom of the screen for better accessibility",
             "link": "https://peterringset.dev/articles/bottom-growing-content",
             "updated": 1706593380,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/column-breakpoints",
             "title": "Making breakpoints work with single-line code blocks",
             "link": "https://peterringset.dev/articles/column-breakpoints",
             "updated": 1678192740,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/light-and-dark-preview",
             "title": "Previewing SwiftUI views in both dark and light mode",
             "link": "https://peterringset.dev/articles/light-and-dark-preview",
             "updated": 1650633360,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/namespaced-colors",
             "title": "Creating namespaces for named colors in Xcode",
             "link": "https://peterringset.dev/articles/namespaced-colors",
             "updated": 1637917320,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/live-reloads-for-publish",
             "title": "Live reloads for Publish",
             "link": "https://peterringset.dev/articles/live-reloads-for-publish",
             "updated": 1634647980,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/passwordless-app-review",
             "title": "Getting Your iOS App with Passwordless Sign in Approved by App Review",
             "link": "https://peterringset.dev/articles/passwordless-app-review",
             "updated": 1610691720,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         },
         {
             "id": "https://peterringset.dev/articles/building-a-state-driven-app",
             "title": "Building a state driven app in SwiftUI using state machines",
             "link": "https://peterringset.dev/articles/building-a-state-driven-app",
             "updated": 1582009380,
-            "site_url": "https://peterringset.dev"
+            "site_url": "https://peterringset.dev",
+            "slug": "development"
         }
     ]
 }

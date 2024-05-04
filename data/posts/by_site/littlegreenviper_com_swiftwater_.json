@@ -6,70 +6,80 @@
             "title": "The Curious Case of the Protocol Default",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/the-curious-case-of-the-protocol-default/",
             "updated": 1586695521,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=3534",
             "title": "A Quick Introduction to the Swift programming Language",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/a-quick-introduction-to-the-swift-programming-language/",
             "updated": 1576417449,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=3472",
             "title": "The Nil-Coalescing Operator (??)",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/the-nil-coalescing-operator/",
             "updated": 1575965355,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=3000",
             "title": "\u201cSome\u201d People Say\u2026",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/some-people-say/",
             "updated": 1561345920,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2852",
             "title": "Writing A Robust Little Parser in Swift \u2013Epilogue",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-little-parser-in-swift-epilogue/",
             "updated": 1554652400,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2799",
             "title": "Writing A Robust Little Parser in Swift \u2013Part 5",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-parser-in-swift-part-5/",
             "updated": 1554637048,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2759",
             "title": "Writing A Robust Little Parser in Swift \u2013Part 4",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-parser-in-swift-part-4/",
             "updated": 1554624794,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2668",
             "title": "Writing A Robust Little Parser in Swift \u2013Part 3",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-parser-in-swift-part-3/",
             "updated": 1554579067,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2636",
             "title": "Writing A Robust Little Parser in Swift \u2013Part 2",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-parser-in-swift-part-2/",
             "updated": 1554573756,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         },
         {
             "id": "https://littlegreenviper.com/?p=2605",
             "title": "Writing A Robust Little Parser in Swift \u2013Part 1",
             "link": "https://littlegreenviper.com/miscellany/swiftwater/writing-a-robust-parser-in-swift-part-1/",
             "updated": 1554568903,
-            "site_url": "http://littlegreenviper.com/swiftwater/"
+            "site_url": "http://littlegreenviper.com/swiftwater/",
+            "slug": "companies"
         }
     ]
 }

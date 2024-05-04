@@ -6,49 +6,56 @@
             "title": "Privacy Manifests",
             "link": "https://liamnichols.eu/2024/03/22/privacy-manifests.html",
             "updated": 1711040400,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2023/10/02/taking-your-strings-catalogs-to-the-next-level",
             "title": "Taking your Strings Catalogs to the Next Level",
             "link": "https://liamnichols.eu/2023/10/02/taking-your-strings-catalogs-to-the-next-level.html",
             "updated": 1696179600,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2023/06/12/view-is-appearing",
             "title": "Using UIViewController\u2019s viewIsAppearing method in Xcode 14 and earlier",
             "link": "https://liamnichols.eu/2023/06/12/view-is-appearing.html",
             "updated": 1686502800,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2020/08/01/building-swift-packages-as-a-universal-binary",
             "title": "Building Swift Packages as a Universal Binary",
             "link": "https://liamnichols.eu/2020/08/01/building-swift-packages-as-a-universal-binary.html",
             "updated": 1596214800,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2017/02/06/firebase-remote-config-and-swift",
             "title": "Firebase Remote Config and Swift",
             "link": "https://liamnichols.eu/2017/02/06/firebase-remote-config-and-swift.html",
             "updated": 1486314000,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2016/09/11/using-small-caps-in-uikit",
             "title": "Using Small Caps in UIKit",
             "link": "https://liamnichols.eu/2016/09/11/using-small-caps-in-uikit.html",
             "updated": 1473526800,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         },
         {
             "id": "https://liamnichols.eu/2016/09/09/introduction",
             "title": "Introduction",
             "link": "https://liamnichols.eu/2016/09/09/introduction.html",
             "updated": 1473354000,
-            "site_url": "https://liamnichols.eu"
+            "site_url": "https://liamnichols.eu",
+            "slug": "development"
         }
     ]
 }

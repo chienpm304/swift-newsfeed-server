@@ -6,70 +6,80 @@
             "title": "Swift UI previews on iOS 12 and below",
             "link": "https://www.marisibrothers.com/2020/06/swiftui-previews-on-existing-projects.html",
             "updated": 1591290000,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2020/05/new-home-moving-to-jekyll",
             "title": "New home: Moving to Jekyll",
             "link": "https://www.marisibrothers.com/2020/05/new-home-moving-to-jekyll.html",
             "updated": 1590598800,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2018/07/workaround-for-serializing-codable-fragments",
             "title": "Workaround for serializing Codable fragments",
             "link": "https://www.marisibrothers.com/2018/07/workaround-for-serializing-codable-fragments.html",
             "updated": 1532055240,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol",
             "title": "Caveats of Swift default protocol extensions",
             "link": "https://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html",
             "updated": 1522152840,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests",
             "title": "Using Swift 4\u2019s Codable protocol to configure your UI test environment",
             "link": "https://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests.html",
             "updated": 1511706960,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/10/two-years-later",
             "title": "2 years later",
             "link": "https://www.marisibrothers.com/2017/10/two-years-later.html",
             "updated": 1507017600,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/09/learning-new-programming-language",
             "title": "Learning a new programming language today",
             "link": "https://www.marisibrothers.com/2017/09/learning-new-programming-language.html",
             "updated": 1505910000,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/05/lazy-collections",
             "title": "Lazy collections",
             "link": "https://www.marisibrothers.com/2017/05/lazy-collections.html",
             "updated": 1494912900,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/04/memory-leak-in-swift-assigning-function",
             "title": "Memory leak in Swift: Assigning a function to a closure",
             "link": "https://www.marisibrothers.com/2017/04/memory-leak-in-swift-assigning-function.html",
             "updated": 1491217140,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios",
             "title": "Common unit testing techniques on iOS",
             "link": "https://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html",
             "updated": 1489408800,
-            "site_url": "https://www.marisibrothers.com/"
+            "site_url": "https://www.marisibrothers.com/",
+            "slug": "development"
         }
     ]
 }

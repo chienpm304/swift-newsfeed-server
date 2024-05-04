@@ -1,2959 +1,3381 @@
 {
-    "updated": 1714663524,
+    "updated": 1714834845,
     "posts": [
         {
             "id": "20cd103d-29b7-4418-9397-52c880cbee68",
             "title": "S4E14: Quite in the weeds \ud83c\udf3f",
             "link": "https://www.waitingforreview.com/s4e14",
             "updated": 1714311900,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "662e9c51437bd70012e66b99",
             "title": "Charlie Chapman - A day in the life of Developer Advocate",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/662e9c51437bd70012e66b99",
             "updated": 1714305505,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "70ecba40-e435-4162-aabc-794315d6025a",
             "title": "Apple Event, Where are the Swift live streamers?",
             "link": "https://share.transistor.fm/s/273472ab",
             "updated": 1714293670,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_596.mp3",
             "title": "Episode 596: The Potential for Propaganda",
             "link": "https://coreint.org/2024/04/episode-596-the-potential-for-propaganda/",
             "updated": 1714134807,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1728838",
             "title": "384 - Fundamentally Unemployable",
             "link": "https://ideveloper.co/episodes/384-fundamentally-unemployable",
             "updated": 1714123779,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "9b216c90-91ea-49a6-8e35-8d6b0d57f733",
             "title": "43: Now I\u2019m worried our metrics aren\u2019t correct! with special guest Holly Borla",
             "link": "https://share.transistor.fm/s/2d4b1ba7",
             "updated": 1714032000,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "22d40ef3-84f3-477a-a68a-2ee61c827973",
             "title": "133: Why email reputation matters",
             "link": "https://constantvariables.co/episodes/133",
             "updated": 1713949620,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_595.mp3",
             "title": "Episode 595: The River of Nerds",
             "link": "https://coreint.org/2024/04/episode-595-the-river-of-nerds/",
             "updated": 1713533111,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1723630",
             "title": "383 - The Road To Hell",
             "link": "https://ideveloper.co/episodes/383-the-road-to-hell",
             "updated": 1713433651,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "9a8c6432-9143-47d7-b641-4eb22fc1c039",
             "title": "Learning and Profiting from Black Swan Events \u2014 Val Agostino, Monarch Money",
             "link": "https://subclub.com/episode/learning-and-profiting-from-black-swan-events-Val-Agostino-Monarch-Money",
             "updated": 1713308400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "4afce97a-b73b-4dbd-a067-23f109bce542",
             "title": "S3E12: SwiftUI just figures it out",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E12-SwiftUI-just-figures-it-out-e2idplo",
             "updated": 1713148768,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "570b96cd-38b3-4c5a-94b0-e2e35c889ad8",
             "title": "Serverside Swift, Structured Concurrency and more with Joannis Orlandos",
             "link": "https://share.transistor.fm/s/b03077a7",
             "updated": 1713128270,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "05e8cff7-69aa-4fa6-8a32-2030aeb34758",
             "title": "S4E13: Slanderous! \ud83d\ude4a",
             "link": "https://www.waitingforreview.com/s4e13",
             "updated": 1713110400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=322901",
             "title": "Kodeco Podcast V2, S2, E7: Favorite Apps for Mobile Development",
             "link": "https://www.kodeco.com/322901/favourite-apps-v2-s2-e7",
             "updated": 1712833231,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "3aeec73d-5e90-442d-a36c-613e501235f7",
             "title": "42: We need a \u201cNo one expects the Spanish inquisition\u201c sound effect",
             "link": "https://share.transistor.fm/s/c118cc9c",
             "updated": 1712822400,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/290",
             "title": "290: Pillar III: Retention",
             "link": "http://relay.fm/radar/290",
             "updated": 1712742300,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "3bb173d8-2dd3-437f-a772-168fcf560fc8",
             "title": "S4E12: Show and tell \ud83d\udc40 \ud83d\ude4a",
             "link": "https://www.waitingforreview.com/s4e12",
             "updated": 1712678400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "66117d09dc3c310016bc8be9",
             "title": "VWDC 2024 - WWDC San Jose/Cupertino Travel Advice, Best of MTJC",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/66117d09dc3c310016bc8be9",
             "updated": 1712396952,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "ef9956a2-ef66-477c-b3d0-bcda194d8472",
             "title": "Matt Van Itallie - Sema software, generative ai and code analysis",
             "link": "https://share.transistor.fm/s/341afa9f",
             "updated": 1712297337,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_594.mp3",
             "title": "Episode 594: Dreams and Hopes",
             "link": "https://coreint.org/2024/04/episode-594-dreams-and-hopes/",
             "updated": 1712245086,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1712372",
             "title": "382 - Is This a Righteous Dictatorship or a Sloppy Democracy?",
             "link": "https://ideveloper.co/episodes/382-is-this-a-righteous-dictatorship-or-a-sloppy-democracy",
             "updated": 1712222057,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "0618b39d-0683-4ccc-b46e-93b157818141",
             "title": "Hacking with Ignite with Paul Hudson",
             "link": "https://share.transistor.fm/s/1e440a9f",
             "updated": 1712106900,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "50a7b856-b54e-4eb0-be81-d3176a0b366b",
             "title": "Scaling Your Subscription App with Meta Ads \u2013 Marcus Burke, Independent Consultant",
             "link": "https://subclub.com/episode/scaling-your-subscription-app-with-meta-ads-marcus-burke-independent-consultant",
             "updated": 1712095200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "cf096c8c-5648-4b8e-bef0-b2ad561888d5",
             "title": "S4E11: Live from the US of A! \ud83c\uddfa\ud83c\uddf8\u2708\ufe0f",
             "link": "https://www.waitingforreview.com/s4e11",
             "updated": 1711872000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "0fe7ee92-474a-4169-b9a7-82fc7a9309fb",
             "title": "In the news, WWDC 24, EU Trader or not? Xcode 15 Bugs?",
             "link": "https://share.transistor.fm/s/d5f148ac",
             "updated": 1711786431,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_593.mp3",
             "title": "Episode 593: California\u2019s Pretty Nice",
             "link": "https://coreint.org/2024/03/episode-593-californias-pretty-nice/",
             "updated": 1711778790,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=322746",
             "title": "Kodeco Podcast: XML vs Jetpack Compose (V2, S2, E6)",
             "link": "https://www.kodeco.com/322746/xml-jetpack-compose-v2-s2-e6",
             "updated": 1711625443,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/289",
             "title": "289: Vision Pro Numbers",
             "link": "http://relay.fm/radar/289",
             "updated": 1711440900,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "311a5723-6f2a-49b4-aec2-f4d64ddab822",
             "title": "S4E10: What is that in kelvin? \ud83c\udf21\ufe0f",
             "link": "https://www.waitingforreview.com/s4e10",
             "updated": 1711249200,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_592.mp3",
             "title": "Episode 592: One Of Our Crazy Trials",
             "link": "https://coreint.org/2024/03/episode-592-one-of-our-crazy-trials/",
             "updated": 1711203536,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "a6cc6d92-37dc-4e38-83dd-824ec8927f49",
             "title": "Create Android apps using Skip.tools and Swift",
             "link": "https://share.transistor.fm/s/2460019b",
             "updated": 1711180915,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9af211a2-34f0-482e-9a09-3d77f7c074b1",
             "title": "SwiftUI Tips and Tricks with Craig Clayton",
             "link": "https://share.transistor.fm/s/98685f7f",
             "updated": 1711040400,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "fb10ebe9-bc33-4db6-8533-c6a6b348b456",
             "title": "132: Why Stripe is a Developer Favorite",
             "link": "https://constantvariables.co/episodes/132",
             "updated": 1711010520,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "cf69d954-b073-4b7c-9b2a-b1e28d82992a",
             "title": "131: How to use dynamic links (and what to do if you have Firebase)",
             "link": "https://constantvariables.co/episodes/131",
             "updated": 1711010340,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "ac08314d-9c6d-4785-8cab-2b866fb0472f",
             "title": "41: Breaking our \u201cskipping episodes\u201d streak",
             "link": "https://share.transistor.fm/s/861890bb",
             "updated": 1711008000,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "c5d9859d-0602-458a-b4db-e845e180ddda",
             "title": "130: What can alt tags do for my website?",
             "link": "https://constantvariables.co/episodes/130",
             "updated": 1711007100,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "8a8ed107-ae07-40b3-b6fe-31fe9bf993d1",
             "title": "Lessons from a Lackluster Launch \u2014 David Barnard, Weather Up",
             "link": "https://share.transistor.fm/s/8f1b6a97",
             "updated": 1710885600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "377fbed0-37c1-4c7b-8eda-1735bee9ff9b",
             "title": "S4E9: You beta be talking ! \ud83c\udf99\ufe0f",
             "link": "https://www.waitingforreview.com/s4e9",
             "updated": 1710651600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_591.mp3",
             "title": "Episode 591: A Little More Wild West",
             "link": "https://coreint.org/2024/03/episode-591-a-little-more-wild-west/",
             "updated": 1710589852,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/288",
             "title": "288: Feelings & Opportunities",
             "link": "http://relay.fm/radar/288",
             "updated": 1710401400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "7de3507e-7750-451c-9824-cd9ba9605046",
             "title": "The Future of Subscription Apps (Why We\u2019re So Excited For 2024)",
             "link": "https://subclub.com/episode/the-future-of-subscription-apps-why-were-so-excited-for-2024",
             "updated": 1710111600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "32eed05e-519f-4d99-bc27-161d53be2110",
             "title": "Tips to help introverts and quiet ones survive software development",
             "link": "https://share.transistor.fm/s/df1930e8",
             "updated": 1710069881,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "35c9fa01-e2ed-4e20-8e56-a8887301b6cd",
             "title": "S3E11: Serendipitous learning",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E11-Serendipitous-learning-e2gspfi",
             "updated": 1710068025,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "ca9b6b1a-63da-4752-b0d7-1ce5d172783f",
             "title": "S4E8: Pwah! Dahling! \ud83d\ude18",
             "link": "https://www.waitingforreview.com/s4e8",
             "updated": 1710050400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/Core_Int_590.mp3",
             "title": "Episode 590: A Small Sliver of Truth",
             "link": "https://coreint.org/2024/03/episode-590-a-small-sliver-of-truth/",
             "updated": 1709908192,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1682994",
             "title": "381 - Plus Le Changent",
             "link": "https://ideveloper.co/episodes/381-plus-le-changent",
             "updated": 1709884537,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "2c2f3d95-3340-4cbc-8822-ca98f45e5b31",
             "title": "Triple Glazed Apple Development with Malin Sundberg and Kai Dombrowski",
             "link": "https://share.transistor.fm/s/ccea28dd",
             "updated": 1709867818,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "http://www.racecondition.software/blog/iosexpert",
             "title": "Introducing iOSExpert",
             "link": "http://www.racecondition.software/blog/iosexpert/",
             "updated": 1709571600,
-            "site_url": "https://racecondition.software"
+            "site_url": "https://racecondition.software",
+            "slug": "podcasts"
         },
         {
             "id": "5096b755-1c80-459f-809c-f12b8221d3b0",
             "title": "S4E7: Distributing my hats \ud83c\udfa9",
             "link": "https://www.waitingforreview.com/s4e7",
             "updated": 1709442000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "65e3fe1a96c151001834cf99",
             "title": "Vision Pro - On Your Face, Not In Your Face",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65e3fe1a96c151001834cf99",
             "updated": 1709415338,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_589.mp3",
             "title": "Episode 589: Breaking New Ground",
             "link": "https://coreint.org/2024/03/episode-589-breaking-new-ground/",
             "updated": 1709397431,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1677374",
             "title": "380 - A Rather Too Serious Chat About Backends",
             "link": "https://ideveloper.co/episodes/380-a-rather-too-serious-chat-about-backends",
             "updated": 1709203189,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/287",
             "title": "287: Pillar II: Monetization",
             "link": "http://relay.fm/radar/287",
             "updated": 1709195400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "a56382cf-4b44-4c22-9eaf-ca7a8c6e41d5",
             "title": "Dev log - Make that app design better for the users",
             "link": "https://share.transistor.fm/s/5abfe104",
             "updated": 1708861877,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a6376015-8ed4-49b9-830e-9d00618baf71",
             "title": "S4E6: Always two weeks away \ud83d\udcc6",
             "link": "https://www.waitingforreview.com/s4e6",
             "updated": 1708826400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_588.mp3",
             "title": "Episode 588: It\u2019s Better Than Last Year",
             "link": "https://coreint.org/2024/02/episode-588-its-better-than-last-year/",
             "updated": 1708698555,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "16433cb0-8625-43e0-b499-ebe04de5876d",
             "title": "What's Next with Adam Rush",
             "link": "https://share.transistor.fm/s/6a6b8505",
             "updated": 1708610166,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "6fdfe2f9-8328-4689-93df-73de2b1a409b",
             "title": "Building a Content Marketing Flywheel \u2014 Fares Ksebati, MySwimPro",
             "link": "https://subclub.com/episode/Building-a-content-marketing-flywheel-Fares-Ksebati-MySwimPro",
             "updated": 1708466400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "8597f59e-1b01-4efa-96f3-7d7190bf23ed",
             "title": "Adding Game Center to your apps and games",
             "link": "https://share.transistor.fm/s/1135ee5a",
             "updated": 1708267950,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bc3bba20-8edf-44db-a951-6d0887e01585",
             "title": "S4E5: Reaching your potential\u2026 (customers) ! \ud83e\udd1d",
             "link": "https://www.waitingforreview.com/s4e5",
             "updated": 1708221600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_587.mp3",
             "title": "Episode 587: It\u2019s a Lot of Money",
             "link": "https://coreint.org/2024/02/episode-587-its-a-lot-of-money/",
             "updated": 1708092868,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1663264",
             "title": "379 - Still Hard, but a Different Kind of Hard, Happy Valentines Day!",
             "link": "https://ideveloper.co/episodes/379-still-hard-but-a-different-kind-of-hard-happy-valentines-day",
             "updated": 1708076654,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=322238",
             "title": "Kodeco Podcast: Getting Your App in the App Store (V2, S2, E5)",
             "link": "https://www.kodeco.com/322238/app-in-app-store-v2-s2-e5",
             "updated": 1708000210,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/286",
             "title": "286: First Hire",
             "link": "http://relay.fm/radar/286",
             "updated": 1707904800,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "2cbf63ac-cdc5-49b2-a47e-7245cf1e8224",
             "title": "S3E10: That was a ball of pain",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E10-That-was-a-ball-of-pain-e2fmrl7",
             "updated": 1707748569,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "e8b4142c-1293-445f-b09c-300c1402fcd2",
             "title": "Developer struggles and getting through them",
             "link": "https://share.transistor.fm/s/90249366",
             "updated": 1707731884,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "17a77784-44b4-495b-83a6-2060681a9f05",
             "title": "S4E4: DMA-rama! \ud83e\udd99",
             "link": "https://www.waitingforreview.com/s4e4",
             "updated": 1707573600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "65c71821f377ea0017aa3d18",
             "title": "The Vision Pro Moment",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65c71821f377ea0017aa3d18",
             "updated": 1707521457,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_586.mp3",
             "title": "Episode 586: A Little Bit of the Future",
             "link": "https://coreint.org/2024/02/episode-586-a-little-bit-of-the-future/",
             "updated": 1707499222,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "3aeddc77-2be7-4428-b2b3-ceb2848e8778",
             "title": "Apple's App Vision with Kyle Lee",
             "link": "https://share.transistor.fm/s/585171df",
             "updated": 1707371998,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "ddddb2b7-009a-4e7f-bc74-c7427e9779a8",
             "title": "VisionPro Ships, first impressions, AppStore changes for the EU and US",
             "link": "https://share.transistor.fm/s/e0070907",
             "updated": 1707037753,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "feb50822-2f1f-49c5-bd85-f04836b36193",
             "title": "S4E3: Weed-whacking that codebase \ud83e\ude9a",
             "link": "https://www.waitingforreview.com/s4e3",
             "updated": 1706958000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_585.mp3",
             "title": "Episode 585: Manton Doesn\u2019t Like It",
             "link": "https://coreint.org/2024/02/episode-585-manton-doesnt-like-it/",
             "updated": 1706891900,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=322187",
             "title": "Kodeco Podcast: Leveling Up as a Developer (V2, S2 E4)",
             "link": "https://www.kodeco.com/322187/leveling-up-v2-s2-e4",
             "updated": 1706801515,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "c89be8d2-18b6-4c7f-845e-aaa9f01e646a",
             "title": "Apple\u2019s Response to the EU\u2019s DMA: What Developers Need to Know",
             "link": "https://subclub.com/episode/apples-response-to-the-eus-dma-what-developers-need-to-know",
             "updated": 1706518784,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "feb1f248-7351-48b6-819e-53463c2cfb8d",
             "title": "ChatGPTovski with Kris Slazinski",
             "link": "https://share.transistor.fm/s/3183f5e9",
             "updated": 1706374800,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "52b98026-0bec-461b-8658-f125e3ccb219",
             "title": "S4E2: All The Formats!",
             "link": "https://www.waitingforreview.com/s4e2",
             "updated": 1706364000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "203f4279-7121-4fc0-b43e-fad5ba09d51b",
             "title": "Live streaming as a developer with FullQueueDeveloper",
             "link": "https://share.transistor.fm/s/56ebce29",
             "updated": 1706260509,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_584.mp3",
             "title": "Episode 584: Only In The EU",
             "link": "https://coreint.org/2024/01/episode-584-only-in-the-eu/",
             "updated": 1706198229,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "5cb6c0bc-79fa-4891-9540-07de1296a7fe",
             "title": "40: This downtime was a joint effort",
             "link": "https://share.transistor.fm/s/a452cfcd",
             "updated": 1706169600,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "8b23bfc2-a52e-4584-b130-dc7a937c119e",
             "title": "S3E9: Don't call it a headset",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E9-Dont-call-it-a-headset-e2etsor",
             "updated": 1706157942,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/d8b1566b-4a21-3080-89f4-9118742e2f4d",
             "title": "Streaming success",
             "link": "https://thisweekinapps.podbean.com/e/streaming-success/",
             "updated": 1706108885,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "c87eaf26-a365-451a-a24d-3da7d5b2603f",
             "title": "How to Succeed with Freemium and Hybrid Monetization \u2014 Paul Ganev, Surfline",
             "link": "https://subclub.com/episode/how-to-succeed-with-Freemium-and-Hybrid-Monetization-paul-ganev-surfline",
             "updated": 1706047200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b0489744-d581-45c5-b0ed-f47f74096277",
             "title": "S4E1: \u201cYou suddenly feel quite seen\u201d \ud83c\udf9e\ufe0f",
             "link": "https://www.waitingforreview.com/s4e1",
             "updated": 1705716000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_583.mp3",
             "title": "Episode 583: Nobody But Apple",
             "link": "https://coreint.org/2024/01/episode-583-nobody-but-apple/",
             "updated": 1705697770,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=322069",
             "title": "Kodeco Podcast: Putting AI to Use in Software Development (V2, S2 E3)",
             "link": "https://www.kodeco.com/322069/look-into-ai-v2-s2-e3",
             "updated": 1705579218,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/285",
             "title": "285: Recreational Computing",
             "link": "http://relay.fm/radar/285",
             "updated": 1705571100,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "9baebedf-3c4d-4567-a92d-be593bfb6daf",
             "title": "PixelBlitz in Public with Martin Lasek",
             "link": "https://share.transistor.fm/s/9347b205",
             "updated": 1705281509,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "6947e5ee-839a-4f58-8d83-e3e4ea5c1b57",
             "title": "macOS Virtual Machines with Bushel, and SwiftData with Leo Dion",
             "link": "https://share.transistor.fm/s/32b702dd",
             "updated": 1705171008,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_582.mp3",
             "title": "Episode 582: Leaving Things Behind",
             "link": "https://coreint.org/2024/01/episode-582-leaving-things-behind/",
             "updated": 1705080623,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "006f59e1-7a32-4542-b120-dbf28881a070",
             "title": "S3E41: Please turn me into a sticker \ud83c\udff7\ufe0f",
             "link": "https://www.waitingforreview.com/s3e41",
             "updated": 1704981600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "5092932a-f0bb-45f7-bf43-ebfbfc0894f9",
             "title": "39: Stress testing dependency management",
             "link": "https://share.transistor.fm/s/f4e9d9fc",
             "updated": 1704969459,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "e6ca7b32-c4f4-4100-a8f8-0e761fcf99d2",
             "title": "Lessons from 121 A/B Tests - Kenneth Schlenker, Opal",
             "link": "https://subclub.com/episode/lessons-from-121-ab-tests-kenneth-schlenker-opal",
             "updated": 1704837600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "67793c6e-8d7c-4b4c-8a18-f7456983f384",
             "title": "First steps with SwiftData",
             "link": "https://share.transistor.fm/s/46802671",
             "updated": 1704538147,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_581.mp3",
             "title": "Episode 581: Too Damned Nice",
             "link": "https://coreint.org/2024/01/episode-581-too-damned-nice/",
             "updated": 1704524751,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/284",
             "title": "284: Pillar I: Acquisition",
             "link": "http://relay.fm/radar/284",
             "updated": 1704335400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "da4af586-7dbb-4fd7-88f5-89af0bb65f4f",
             "title": "S3E40:  Hoist the Sales! \u26f5\ufe0f",
             "link": "https://www.waitingforreview.com/s3e40",
             "updated": 1704247200,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "66239233-9905-4eb0-9845-671cf640709d",
             "title": "When Enhancements Are Not Enhancements - IDB046",
             "link": "https://share.transistor.fm/s/a8ed9f8d",
             "updated": 1704133735,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b7f1f2ef-a124-4cd1-8c89-3eb913972f04",
             "title": "S3E39: Switching Hats \ud83c\udfa9",
             "link": "https://www.waitingforreview.com/s3e39",
             "updated": 1703818800,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/ea10f6e5-966e-3be9-a344-27ceda8209db",
             "title": "Beep beep",
             "link": "https://thisweekinapps.podbean.com/e/beep-beep/",
             "updated": 1703777675,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "658d9ce762b0bd0016a5aae1",
             "title": "Let's Do Something Stupid Next with Steve Lipton",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/658d9ce762b0bd0016a5aae1",
             "updated": 1703754359,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "48719ad3-aa23-4d9a-aa36-174e11515857",
             "title": "Reflecting on 2023 and looking ahead to 2024",
             "link": "https://share.transistor.fm/s/02fd1e4f",
             "updated": 1703672111,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a0cc2a7a-ba01-46cb-939e-6c7bb176abab",
             "title": "How to Pitch Your App to the Press \u2013 Matthew Panzarino, Formerly TechCrunch",
             "link": "https://subclub.com/episode/how-to-pitch-your-app-to-the-press-matthew-panzarino-formerly-techcrunch",
             "updated": 1703628000,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_580.mp3",
             "title": "Episode 580: Adobe Can Buy Us Now",
             "link": "https://coreint.org/2023/12/episode-580-adobe-can-buy-us-now/",
             "updated": 1703416624,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "afd19b39-3243-4fd4-8bd1-95faacb46fb7",
             "title": "S3E8: Step 1 is building a great app",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E8-Step-1-is-building-a-great-app-e2dkfk6",
             "updated": 1703396133,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1619613",
             "title": "378 - 2023: A Year In Review",
             "link": "https://ideveloper.co/episodes/378-2023-a-year-in-review",
             "updated": 1703153665,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "6581085d6a3a5800169628b2",
             "title": "Martin Woodward",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6581085d6a3a5800169628b2",
             "updated": 1702929901,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/434d3883-0b6d-3795-86a9-2ec9724c34e5",
             "title": "Delisted!",
             "link": "https://thisweekinapps.podbean.com/e/delisted/",
             "updated": 1702834154,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "7defad2a-b14d-4088-9cc4-5e79eb891f94",
             "title": "The Bushel Holiday Special",
             "link": "https://share.transistor.fm/s/d0d7eef2",
             "updated": 1702598340,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "88626b8b-b29b-4123-8621-decb287b279d",
             "title": "The Subscription Value Loop: A Formula for Growth \u2013 Phil Carter, Elemental Growth",
             "link": "https://subclub.com/episode/the-subscription-value-loop-a-formula-for-growth-phil-carter-elemental-growth",
             "updated": 1702418400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=321799",
             "title": "Kodeco Podcast: Moving to Godot \u2013 Podcast V2, S2 E2",
             "link": "https://www.kodeco.com/321799/moving-to-godot-v2-s2-e2",
             "updated": 1702382413,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "eb9fb686-eade-4b37-a939-76f93b7257c2",
             "title": "S3E38: An extruded Mac Mini \ud83c\udfce\ufe0f",
             "link": "https://www.waitingforreview.com/s3e38",
             "updated": 1702191600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_579.mp3",
             "title": "Episode 579: A Fool\u2019s Errand",
             "link": "https://coreint.org/2023/12/episode-579-a-fools-errand/",
             "updated": 1702135035,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/283",
             "title": "283: Fifty Roles",
             "link": "http://relay.fm/radar/283",
             "updated": 1702116900,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "ceca81cc-9390-4391-a966-fdb7faf8dbb2",
             "title": "Important livestream update",
             "link": "https://share.transistor.fm/s/271e250d",
             "updated": 1702100147,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "661f947a-d425-4695-8c13-12aac5fa5237",
             "title": "We Have All The Heroes with Stefano Mondino",
             "link": "https://share.transistor.fm/s/72e1064d",
             "updated": 1702030683,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1611869",
             "title": "377 - Diesel is Red, Violets are Blue...",
             "link": "https://ideveloper.co/episodes/377-diesel-is-red-violets-are-blue",
             "updated": 1701943514,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "b32b5486-030d-49e8-a21f-c42a675b6812",
             "title": "38: This is the least researched podcast in the history of podcasting",
             "link": "https://share.transistor.fm/s/f744b457",
             "updated": 1701936000,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "195dc0fe-c628-478b-92e8-4e1125a443c2",
             "title": "Calm Intentions with Alaina Kafkes",
             "link": "https://share.transistor.fm/s/89616d29",
             "updated": 1701574244,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_578.mp3",
             "title": "Episode 578: Snarfing Up The Data",
             "link": "https://coreint.org/2023/12/episode-578-snarfing-up-the-data/",
             "updated": 1701518953,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "ab324616-60f4-4ef9-922e-b63d7d490180",
             "title": "Muse and Developer Duck with Adam Wulf",
             "link": "https://share.transistor.fm/s/435ab4f9",
             "updated": 1701507205,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1606136",
             "title": "376 - To-Duck-Fu",
             "link": "https://ideveloper.co/episodes/376-to-duck-fu",
             "updated": 1701339986,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/282",
             "title": "282: Revert to Defaults",
             "link": "http://relay.fm/radar/282",
             "updated": 1701333000,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "ca4e0ac3-b730-4600-a75c-cb0e44df8d12",
             "title": "How Ladder Cracked TikTok and Grew 500% \u2014 Greg Stewart, Ladder",
             "link": "https://subclub.com/episode/how-ladder-cracked-tiktok-and-grew-500%-greg-stewart-ladder",
             "updated": 1701208800,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "5dcdcc6a-e575-4bb5-9c3d-27d7d54e63f3",
             "title": "S3E37: A thorn in my data \ud83c\udf35",
             "link": "https://www.waitingforreview.com/s3e37",
             "updated": 1701183600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=321686",
             "title": "Kodeco Podcast: Let\u2019s Talk Vision Pro \u2013 Podcast V2, S2 E1",
             "link": "https://www.kodeco.com/321686/lets-talk-vision-v2-s2-e1",
             "updated": 1701176427,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "366c9e2c-2633-452a-a976-b468c5fd940c",
             "title": "Talking source code protection and end of year job hunting advice",
             "link": "https://share.transistor.fm/s/c27f12ca",
             "updated": 1700998891,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "65625bcdff691c0012e906de",
             "title": "Dave Verwer - Don't Forget Your Towel",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65625bcdff691c0012e906de",
             "updated": 1700919645,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1602635",
             "title": "375 - ILoveScottyUntilMyDyingBreath1",
             "link": "https://ideveloper.co/episodes/375-ilovescottyuntilmydyingbreath1",
             "updated": 1700821216,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=321680",
             "title": "Kodeco Podcast: Meet the Show \u2013 Podcast V2, S2 E0",
             "link": "https://www.kodeco.com/321680/meet-the-show-v2-s2-e0",
             "updated": 1700744414,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_577.mp3",
             "title": "Episode 577: Just A Quick Recap",
             "link": "https://coreint.org/2023/11/episode-577-just-a-quick-recap/",
             "updated": 1700672012,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "7b812355-0c25-42c8-bc07-f425b5b5cb67",
             "title": "S3E7: Scary Fast",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E7-Scary-Fast-e2c95pc",
             "updated": 1700641826,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "f1f7952b-c7ad-4ce9-9790-77766650a744",
             "title": "Empowering Accessibility with Via Fairchild",
             "link": "https://share.transistor.fm/s/44d488ba",
             "updated": 1700326800,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "10e59c27-80fd-44c2-b7db-25644becbd45",
             "title": "Create Android apps with Swift and Xcode",
             "link": "https://share.transistor.fm/s/3f9e9ba2",
             "updated": 1700300629,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_576.mp3",
             "title": "Episode 576: Double Checkmarks",
             "link": "https://coreint.org/2023/11/episode-576-double-checkmarks/",
             "updated": 1700234488,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "da467555-99c3-416a-b22c-5a8543f9482f",
             "title": "37: With praise, you can include me, but any blame goes to Dave",
             "link": "https://share.transistor.fm/s/de52cb62",
             "updated": 1700133013,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1597984",
             "title": "374 - Scotty Securely off the Edge",
             "link": "https://ideveloper.co/episodes/374-scotty-securely-off-the-edge",
             "updated": 1700130707,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "ad90c851-753c-4b8a-8596-83ff818815a9",
             "title": "Navigating App Growth Through Strategic Partnerships and Media Wins \u2014 Adam Allore, Wavve Boating",
             "link": "https://subclub.com/episode/navigating-app-growth-through-strategic-partnerships-and-media-wins-adam-allore-wavve-boating",
             "updated": 1699999200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/281",
             "title": "281: The Weirdest Parties",
             "link": "http://relay.fm/radar/281",
             "updated": 1699530300,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1593216",
             "title": "373 - Cappuccino Thank You",
             "link": "https://ideveloper.co/episodes/373-cappuccino-thank-you",
             "updated": 1699524385,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "65467ceea809bc0012c1687b",
             "title": "This Could Have Been An Email",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65467ceea809bc0012c1687b",
             "updated": 1699093117,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "a1c912b8-d012-47a9-83f2-42d51bb3d633",
             "title": "Learning Judo with Sean Rucker",
             "link": "https://share.transistor.fm/s/5353d584",
             "updated": 1699089512,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "fcab95bf-5727-473d-9c30-55b16ca16903",
             "title": "New Macs and some cool AI tools",
             "link": "https://share.transistor.fm/s/97a4af2a",
             "updated": 1699005359,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_575.mp3",
             "title": "Episode 575: A Unique Evening Event",
             "link": "https://coreint.org/2023/11/episode-575-a-unique-evening-event/",
             "updated": 1698939533,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "bc1854ea-c92d-45a4-9461-975e5300ffd7",
             "title": "From Idea to 8-Figure Exit in 10 Years Flat \u2014 Aaron Foss, Nomorobo",
             "link": "https://subclub.com/episode/from-idea-to-8-figure-exit-in-10-years-flat-aaron-foss-nomorobo",
             "updated": 1698789600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "b5ffd83a-455b-4c16-a403-02ec7906f335",
             "title": "S3E36: \"Boy, I got vision...\"",
             "link": "https://www.waitingforreview.com/s3e36",
             "updated": 1698768000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_574.mp3",
             "title": "Episode 574: Curating All The Answers",
             "link": "https://coreint.org/2023/10/episode-574-curating-all-the-answers/",
             "updated": 1698417160,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "bf6a8423-a980-4dd3-9091-47874894185f",
             "title": "36: Even though the bug is fixed, it's not over!",
             "link": "https://share.transistor.fm/s/b443c944",
             "updated": 1698324562,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/280",
             "title": "280: Upstream Decisions",
             "link": "http://relay.fm/radar/280",
             "updated": 1698221700,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "ac0e2eed-b94d-4fdd-9ddf-32bad644272c",
             "title": "Listener question - Choosing when to fix a bug or ship?",
             "link": "https://share.transistor.fm/s/7f913e12",
             "updated": 1697907519,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_573.mp3",
             "title": "Episode 573: One Dollar! One Dollar!",
             "link": "https://coreint.org/2023/10/episode-573-one-dollar-one-dollar/",
             "updated": 1697802657,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1578648",
             "title": "372 - It\u2019s Shire, Not Sher!",
             "link": "https://ideveloper.co/episodes/372-its-shire-not-sher",
             "updated": 1697706002,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "638d2a38-beec-403c-8d1d-c98bc75721ea",
             "title": "S3E6: Don't be scammy",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E6-Dont-be-scammy-e2aoqc5",
             "updated": 1697661921,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "d2bc0b9c-7d8f-4925-88e7-ab823d8b201c",
             "title": "App Optimization Through Experimentation \u2014 Hannah Parvaz, Aperture",
             "link": "https://subclub.com/episode/app-optimization-through-experimentation-hannah-parvaz-aperture",
             "updated": 1697580000,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "16d9688e-0579-424d-815f-2c653506cd9b",
             "title": "The Making of Callsheet with Casey Liss",
             "link": "https://share.transistor.fm/s/d40570f9",
             "updated": 1697389200,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "1ef7432f-0c0c-4e4f-a139-373ad9971f74",
             "title": "My thoughts on Swift bindings in Godot",
             "link": "https://share.transistor.fm/s/6aea56e2",
             "updated": 1697350002,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_572.mp3",
             "title": "Episode 572: This Is My Web House",
             "link": "https://coreint.org/2023/10/episode-572-this-is-my-web-house/",
             "updated": 1697294565,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/279",
             "title": "279: Rest and Recovery",
             "link": "http://relay.fm/radar/279",
             "updated": 1697011200,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "d9825d46-6a81-4975-99bb-cc8044a1d09f",
             "title": "S3E35: Out of the non-dev cocoon \ud83e\udd8b",
             "link": "https://www.waitingforreview.com/s3e35",
             "updated": 1696856400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_571.mp3",
             "title": "Episode 571: An Old Dog With Old Tricks",
             "link": "https://coreint.org/2023/10/episode-571-an-old-dog-with-old-tricks/",
             "updated": 1696596479,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "473b2756-6aef-4718-890b-b0af092a01d1",
             "title": "Vision Pro and visionOS development with Geoff Pado - Part 2",
             "link": "https://share.transistor.fm/s/4fa1f03a",
             "updated": 1696573422,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1e05eedb-65c3-4e41-beec-0d5ca71391bb",
             "title": "35: It\u2019s like a broccoli-eating competition. You can cheat by eating more broccoli, but you just end up more healthy",
             "link": "https://share.transistor.fm/s/1ebf272b",
             "updated": 1696492800,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "3dfbbf30-7a97-4fdd-8edf-5798bd5a4e76",
             "title": "VC Funding vs. Bootstrapping for Subscription Apps \u2014 Mart\u00edn Siniawski, Podcast App",
             "link": "https://subclub.com/episode/vc-funding-vs-bootstrapping-for-subscription-apps-martin-siniawski-podcast-app",
             "updated": 1696370400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c209bac7-2c2f-4a5b-9a53-9a41e534634c",
             "title": "S3E5: The tastiest peach",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E5-The-tastiest-peach-e2a236n",
             "updated": 1696217784,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "1a5097f0-a4f6-453b-9427-37b97f7dfb1c",
             "title": "Swiftly Tooling with Pol Piella Abadia",
             "link": "https://share.transistor.fm/s/d2d913c5",
             "updated": 1696179600,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "86128bca-1efc-456a-85de-105fe4153b61",
             "title": "Vision Pro and visionOS development with Geoff Pado - Part 1",
             "link": "https://share.transistor.fm/s/5db6d94b",
             "updated": 1695958369,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1565027",
             "title": "371 - Out of the Closet, With Pants!",
             "link": "https://ideveloper.co/episodes/371-out-of-the-closet-with-pants",
             "updated": 1695891196,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/278",
             "title": "278: Unforeseeable Issues",
             "link": "http://relay.fm/radar/278",
             "updated": 1695810600,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_570.mp3",
             "title": "Episode 570: Going Deep Into NSView",
             "link": "https://coreint.org/2023/09/episode-570-going-deep-into-nsview/",
             "updated": 1695476544,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "827f436d-8e75-4a20-862e-0dfe2e448bb4",
             "title": "Help and advice for young developers with Mia Kotalik",
             "link": "https://share.transistor.fm/s/708eb85d",
             "updated": 1695319200,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "18bea151-4556-4c53-b106-05ee34ace8d2",
             "title": "34: Here are some packages. They may do interesting things",
             "link": "https://share.transistor.fm/s/744ced7d",
             "updated": 1695283200,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "b204cc60-f9d5-4d09-b1f0-dce7c7b00525",
             "title": "Building the Berkshire Hathaway of Consumer Subscriptions \u2014 Eric Crowley, GP Bullhound",
             "link": "https://subclub.com/episode/building-the-berkshire-hathaway-of-consumer-subscriptions-eric-crowley-gp-bullhound",
             "updated": 1695160800,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9dbd664b-92a8-4132-8aa2-a59d199dbd02",
             "title": "Bonus episode - New OS releases and my iPhone 15 choice",
             "link": "https://share.transistor.fm/s/580f9b30",
             "updated": 1695023361,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3c5cb0eb-b4e9-4021-909e-b93f8070cc39",
             "title": "Building a Video SDK with Marc\u00a0Schwieterman",
             "link": "https://share.transistor.fm/s/42fe03fb",
             "updated": 1694970000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "65064c667bb4e100120b0ae5",
             "title": "It\u2019s Shiny and has an Apple Logo",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/65064c667bb4e100120b0ae5",
             "updated": 1694886389,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "240ada00-24a9-4b96-a8f1-82a0759129ce",
             "title": "Keeping software simple with Brian Childress",
             "link": "https://share.transistor.fm/s/92824907",
             "updated": 1694747394,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_569.mp3",
             "title": "Episode 569: We Have Enough White Cables",
             "link": "https://coreint.org/2023/09/episode-569-we-have-enough-white-cables/",
             "updated": 1694707976,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/277",
             "title": "277: Go Time",
             "link": "http://relay.fm/radar/277",
             "updated": 1694591100,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "7c632253-d337-423f-bf9c-2ddaf8751e6a",
             "title": "Action Button for Ring Tones with Evan Stone",
             "link": "https://share.transistor.fm/s/0b5d038a",
             "updated": 1694538000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "dcea4ed3-9e16-462a-a7e8-3264edc0a9b3",
             "title": "Vision Pro Labs and Wonderlust - IDB045",
             "link": "https://share.transistor.fm/s/7473639b",
             "updated": 1694509500,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a03840c4-2f52-44eb-8225-d0d8423bb31f",
             "title": "Passion Projects, Programming, and Planes with Ivan Novak",
             "link": "https://share.transistor.fm/s/4993b650",
             "updated": 1694253248,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1552433",
             "title": "370 - Async I Can\u2019t Await for More SwiftUI and Less DrawRect",
             "link": "https://ideveloper.co/episodes/370-async-i-cant-await-for-more-swiftui-and-less-drawrect",
             "updated": 1694160130,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "0b019310-eaf3-40c2-a81f-29569d3fcc2f",
             "title": "S3E34: \"Gravelly Dan\" \ud83e\udd20",
             "link": "https://www.waitingforreview.com/s3e34",
             "updated": 1694008800,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "ca52e602-335c-4c3c-97d7-a5ca62225ba1",
             "title": "How To Raise Prices (the Right Way) \u2014 Reid DeRamus, Substack",
             "link": "https://subclub.com/episode/how-to-raise-prices-the-right-way-reid-deramus-substack",
             "updated": 1693951200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a9f4f078-4464-4777-a4f1-fdd56d55cd8d",
             "title": "S3E4: They took a side quest",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E4-They-took-a-side-quest-e28ru9f",
             "updated": 1693718790,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1547265",
             "title": "369 - Never Skip Step 1!",
             "link": "https://ideveloper.co/episodes/369-never-skip-step-1",
             "updated": 1693473398,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "48832ea5-6918-493e-adc3-101fdf232770",
             "title": "33: We had some success, but it never saw the light of day",
             "link": "https://share.transistor.fm/s/079cdc38",
             "updated": 1693468800,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/276",
             "title": "276: Preparing for iOS 17",
             "link": "http://relay.fm/radar/276",
             "updated": 1693383300,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_568.mp3",
             "title": "Episode 568: Just Ship The Damn Thing!",
             "link": "https://coreint.org/2023/08/episode-568-just-ship-the-damn-thing/",
             "updated": 1693230530,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "695bf5ed-069a-4531-8238-349ef5a196e2",
             "title": "Revisiting Third-Party APIs with Christian Selig",
             "link": "https://share.transistor.fm/s/5f36fed2",
             "updated": 1693145871,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "e38005a9-1d81-4880-962b-4c26d03255e1",
             "title": "No-code solutions and development with Xano.com",
             "link": "https://share.transistor.fm/s/22e4c89d",
             "updated": 1692996499,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "3150a416-97cb-4896-8734-081db584599d",
             "title": "App Store Ethics, Dark Patterns, and Rule-Breakers \u2014 Steve P. Young, App Masters",
             "link": "https://subclub.com/episode/app-store-ethics-dark-patterns-and-rule-breakers-steve-p-young-app-masters",
             "updated": 1692741600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/275",
             "title": "275: What's New In This Version",
             "link": "http://relay.fm/radar/275",
             "updated": 1692170100,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "f1681faf-03ce-4ec7-b3da-7a89c0332f28",
             "title": "Want Your App To Be Approved By Apple, Make Sure You Have These!",
             "link": "https://share.transistor.fm/s/8eb29e87",
             "updated": 1691992860,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "4688a562-92e0-4c63-b6f3-a3c5fb22afc6",
             "title": "32: Which of your dependencies are load-bearing?",
             "link": "https://share.transistor.fm/s/661ad422",
             "updated": 1691663415,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_567.mp3",
             "title": "Episode 567: Homemade Granola",
             "link": "https://coreint.org/2023/08/episode-567-homemade-granola/",
             "updated": 1691662684,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1534729",
             "title": "368 - If You Can\u2019t Have a Better Brain, Have Better Tests",
             "link": "https://ideveloper.co/episodes/368-if-you-cant-have-a-better-brain-have-better-tests",
             "updated": 1691659925,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "1adf3779-977d-42b4-9510-a2f4dd437bb3",
             "title": "From Consultancy to $10M in ARR \u2014 Vince Mayfield, TalkingParents",
             "link": "https://subclub.com/episode/from-consultancy-to-$10M-in-ARR-vince-mayfield-talking-parents",
             "updated": 1691532000,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "94ff51b1-c854-4807-8a0a-013f78d95530",
             "title": "It Depends with Brandon Williams",
             "link": "https://share.transistor.fm/s/0c634d11",
             "updated": 1691514000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "cb496491-6748-4a80-a217-881f43e1c350",
             "title": "S3E33: Lego Apps \ud83e\uddf1",
             "link": "https://www.waitingforreview.com/s3e33",
             "updated": 1691499600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/a204d1a9-0127-3445-a29b-30c92f963556",
             "title": "Growing fast",
             "link": "https://thisweekinapps.podbean.com/e/growing-fast/",
             "updated": 1691314437,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "64cc80b02c5bd60012e041a4",
             "title": "Sommer Panage On Accessibility, Swift TO Speaker Series",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64cc80b02c5bd60012e041a4",
             "updated": 1691098687,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "24e60f33-5f31-4484-9c62-f818717f8429",
             "title": "When the memory leaks and you sink or swim",
             "link": "https://share.transistor.fm/s/28d82a11",
             "updated": 1691090077,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "a1f20a4c-d65c-4b33-98ff-81932c30b8c6",
             "title": "Edge of Concurrency with Matt Massicotte",
             "link": "https://share.transistor.fm/s/589a558f",
             "updated": 1691082000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1528141",
             "title": "367 - Oh F*CK I Forgot to Sing",
             "link": "https://ideveloper.co/episodes/367-oh-fck-i-forgot-to-sing",
             "updated": 1691057021,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/274",
             "title": "274: Does It Work, and How Does It Feel?",
             "link": "http://relay.fm/radar/274",
             "updated": 1690848000,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "b0ac5e8e-8344-4ea2-b762-a322d5a7b8b6",
             "title": "141: That\u2019s a Lot of App",
             "link": "https://codecompletion.io/podcast//141",
             "updated": 1690754400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "04249170-9937-4fb5-842a-0e24d6bcdc26",
             "title": "S3E32: The AirPod Odyssey \ud83c\udfa7",
             "link": "https://www.waitingforreview.com/s3e32",
             "updated": 1690686000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "046822a3-f2d5-4142-8882-ccc904848c55",
             "title": "Swift Server Workgroup with Joannis Orlandos",
             "link": "https://share.transistor.fm/s/303a2edc",
             "updated": 1690650000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/24384189-4a57-3e3a-a738-44d0727de0b5",
             "title": "Out of gas...",
             "link": "https://thisweekinapps.podbean.com/e/out-of-gas/",
             "updated": 1690624993,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "e9ba5716-64b8-4716-9441-9b02d1f0fbbc",
             "title": "RocketSim with creator Antoine van der Lee",
             "link": "https://share.transistor.fm/s/ba15b632",
             "updated": 1690477500,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_566.mp3",
             "title": "Episode 566: You Could Be One Of Those People",
             "link": "https://coreint.org/2023/07/episode-566-you-could-be-one-of-those-people/",
             "updated": 1690463835,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1524476",
             "title": "366 - John\u2019s Secret, Finally Revealed!",
             "link": "https://ideveloper.co/episodes/366-johns-secret-finally-revealed",
             "updated": 1690454142,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "45987c77-b378-4c37-bb69-4266ea04d3f4",
             "title": "31: Recommended by the Ministry of \"How hard can it be?\"",
             "link": "https://share.transistor.fm/s/49376459",
             "updated": 1690444800,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "bf9208e1-36fc-4c6c-87e2-91de94d97b93",
             "title": "Clean Code\u2019s Impact with Uncle Bob",
             "link": "http://insideiosdev.com/",
             "updated": 1690434000,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "61822fbc-6b13-43ec-b543-848038fa5455",
             "title": "What it Takes to Succeed with Paid User Acquisition \u2014 Thomas Petit, App Growth Consultant",
             "link": "https://subclub.com/episode/what-it-takes-to-succeed-with-paid-user-aquisition-thomas-petit-app-growth-consultant",
             "updated": 1690322400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f35c6d18-5f39-4bec-8b35-0efee3e0f36d",
             "title": "Now You Know What I'm Doing This Summer",
             "link": "https://share.transistor.fm/s/be21511d",
             "updated": 1690256923,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "5362e167-a288-4cc8-97e5-4d3ceb06bc60",
             "title": "S3E3: Mikaela over Coffee",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E3-Mikaela-over-Coffee-e27b4cr",
             "updated": 1690229180,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "c7fcff3b-ba5d-40ba-9dcd-68cedf675a72",
             "title": "S3E31: MIDI! \ud83c\udfb9\ud83d\ude80",
             "link": "https://www.waitingforreview.com/s3e31",
             "updated": 1690095600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "0ada2425-c168-435a-ba42-300a7361b8d8",
             "title": "140: I\u2019ll Sacrifice an iPad",
             "link": "https://codecompletion.io/podcast//140",
             "updated": 1689976800,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_565.mp3",
             "title": "Episode 565: I\u2019m Not There Yet",
             "link": "https://coreint.org/2023/07/episode-565-im-not-there-yet/",
             "updated": 1689943212,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "ccca7c32-930f-44bc-949f-ff17783dc9ca",
             "title": "Daniil Strizhov - Amazon developer, working with big code bases and teams",
             "link": "https://share.transistor.fm/s/3ce51cca",
             "updated": 1689876000,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/273",
             "title": "273: Backpack-Driven Development",
             "link": "http://relay.fm/radar/273",
             "updated": 1689755400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/854e8ebb-3431-329f-84a5-b8bfdf186626",
             "title": "Let\u2019s go viral",
             "link": "https://thisweekinapps.podbean.com/e/let-s-go-viral/",
             "updated": 1689639057,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/b16d9ef7-dfb5-3f71-bb5b-6e4196b8dd6c",
             "title": "A big blunder",
             "link": "https://thisweekinapps.podbean.com/e/a-big-blunder/",
             "updated": 1689505918,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_564.mp3",
             "title": "Episode 564: ActivityPub Is Weird",
             "link": "https://coreint.org/2023/07/episode-564-activitypub-is-weird/",
             "updated": 1689500509,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "231e8c46-d2e4-4ec9-82eb-96e52593db61",
             "title": "macOS Indie Deep Cuts with Aaron Vegh",
             "link": "https://share.transistor.fm/s/0ac0f2d5",
             "updated": 1689305365,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "3656f244-1808-43fc-8138-28a771eee230",
             "title": "Automation and platforms with Ramiro Berrelleza",
             "link": "https://share.transistor.fm/s/a9891238",
             "updated": 1689271208,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=320321",
             "title": "Kodeco Podcast: Mark Powell and Josh Steele- Swift Data and Widgets \u2013 Podcast Vol2, S1 E13",
             "link": "https://www.kodeco.com/320321/swift-data-widgets-v2-s1-e13",
             "updated": 1689246773,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1516411",
             "title": "365 - More Ports Than You Could Shake a Sh*tty Stick At",
             "link": "https://ideveloper.co/episodes/365-more-ports-than-you-could-shake-a-shtty-stick-at",
             "updated": 1689238810,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "cd628589-2a42-49ed-95ce-24619eb2ce09",
             "title": "30: I saw the rabbit hole you went down, and I hope you came out the other side of it",
             "link": "https://share.transistor.fm/s/30ab7287",
             "updated": 1689235200,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "6b94fd04-b0f2-44e1-a619-e1ebe7c2a5eb",
             "title": "139: Capital G Games",
             "link": "https://codecompletion.io/podcast//139",
             "updated": 1689199200,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "90cc268d-e6ef-4708-ad25-fee58dffd784",
             "title": "Achieving Mission & Profit with Freemium \u2014 Erin Webster-Shaller and Paul Apollo, Lose It!",
             "link": "https://subclub.com/episode/achieving-mission-and-profit-with-freemium-erin-webster-shaller-and-paul-apollo-loseit",
             "updated": 1689112800,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "64ab6f1a05090f00115780a1",
             "title": "Terry Latanville, Swift TO Speaker Series",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64ab6f1a05090f00115780a1",
             "updated": 1688931498,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/272",
             "title": "272: Feeling Behind",
             "link": "http://relay.fm/radar/272",
             "updated": 1688715000,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_563.mp3",
             "title": "Episode 563: Pretty Good at Tetris",
             "link": "https://coreint.org/2023/07/episode-563-pretty-good-at-tetris/",
             "updated": 1688644706,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "6f49e646-02ec-4427-a70d-7f6ea8168861",
             "title": "138: I Keep Using Mac minis",
             "link": "https://codecompletion.io/podcast//138",
             "updated": 1688335200,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/f315cb0a-a587-31a4-9be7-f4b08dcdfa87",
             "title": "Millions and billions",
             "link": "https://thisweekinapps.podbean.com/e/millions-and-billions/",
             "updated": 1688122267,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "a5dbe5cc-0226-4498-9c94-249b2f547d0c",
             "title": "Supercharged with Pedro Pi\u00f1era",
             "link": "https://share.transistor.fm/s/e0ee5618",
             "updated": 1688090310,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "6497bdfff9376600113c2cac",
             "title": "Danijela Vrzan, SwiftTO 2023 Speaker Series",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6497bdfff9376600113c2cac",
             "updated": 1688059386,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "c9716946-510d-4810-8ae0-d8bab3eef832",
             "title": "S3E30: The Tock after the Tick! \ud83d\udca1",
             "link": "https://www.waitingforreview.com/s3e30",
             "updated": 1688043600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "648503d2-8fea-40e2-8365-d33f7438fa5e",
             "title": "29: Are you saying that visionOS is more important than my sitemap?",
             "link": "https://share.transistor.fm/s/28f3d453",
             "updated": 1688030660,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "6e21e59a-8a24-4a0d-8d16-85f49a6f0631",
             "title": "S3E2: File feedback, goodbye",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E2-File-feedback--goodbye-e26a87v",
             "updated": 1687941839,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "86d13d1a-9d6b-4a2b-9409-cc9c174ed6a4",
             "title": "Cultivating Organic Growth with Viral Loops \u2014 Guillem Ros Salvador, Hevy",
             "link": "https://subclub.com/episode/cultivating-organic-loops-with-viral-loops-guillem-ros-salvador-hevy",
             "updated": 1687903200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/85e55a6e-0a16-3ed7-baa7-6a51939c5b8e",
             "title": "Business is booming",
             "link": "https://thisweekinapps.podbean.com/e/business-is-booming/",
             "updated": 1687885164,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "12d0d425-9f2f-4c0d-b3b2-fd7383644b9e",
             "title": "137: They Swoop In And Crush Everyone",
             "link": "https://codecompletion.io/podcast//137",
             "updated": 1687730400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "6497be60f9376600113c377a",
             "title": "WWDC and the Curious Case of xrOS",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6497be60f9376600113c377a",
             "updated": 1687645704,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "6ddd7e66-c481-4e12-bce3-41b263d280c3",
             "title": "Why you should not fear technical interviews",
             "link": "https://share.transistor.fm/s/03275db2",
             "updated": 1687642462,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_562.mp3",
             "title": "Episode 562: AppKit Is Dying",
             "link": "https://coreint.org/2023/06/episode-562-appkit-is-dying/",
             "updated": 1687608470,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "e2203039-c390-4725-9c05-6dfc992659a1",
             "title": "Arm Sling for Apple Watch Developers with Hidde van der Ploeg",
             "link": "https://share.transistor.fm/s/191be908",
             "updated": 1687539600,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/98d96c99-fb21-3b64-b466-970bd9906499",
             "title": "How ironic...",
             "link": "https://thisweekinapps.podbean.com/e/how-ironic/",
             "updated": 1687194227,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/271",
             "title": "271: Developer Prospects for visionOS",
             "link": "http://relay.fm/radar/271",
             "updated": 1687157100,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "a405ca5a-6ddd-4e5a-a128-3912b6237eab",
             "title": "Spatial Experiences of the Wild with Adrian Eves",
             "link": "https://share.transistor.fm/s/f98dc3f4",
             "updated": 1687107600,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "8a61266f-740a-42ac-9fa1-3189d9cbead4",
             "title": "WWDC23 Thoughts, two weeks later",
             "link": "https://share.transistor.fm/s/97d4ba82",
             "updated": 1687085070,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_561.mp3",
             "title": "Episode 561: Autocorrect Is Great",
             "link": "https://coreint.org/2023/06/episode-561-autocorrect-is-great/",
             "updated": 1686917627,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "b18ced9d-1ffc-4d9c-83ca-eab542cb16d2",
             "title": "136: There Are Dozens Of Us Windows",
             "link": "https://codecompletion.io/podcast//136",
             "updated": 1686866400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1497211",
             "title": "364 - Clear The F**king Errors!",
             "link": "https://ideveloper.co/episodes/364-clear-the-fking-errors",
             "updated": 1686818837,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "ab799e60-64cd-4c25-8a3c-0d20cec5df70",
             "title": "28: Your secrets are safe with us, we\u2019ll forget them immediately!",
             "link": "https://share.transistor.fm/s/ea18ec7b",
             "updated": 1686816000,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "061796b4-17e9-44d9-8e56-fdb4a307beec",
             "title": "How Headspace Optimized Revenue by Gating Content \u2014 Shreya Oswal and Keya Patel, Headspace",
             "link": "https://subclub.com/episode/how-headspace-optimized-revenue-by-gating-content-shreya-oswal-keya-patel-headspace",
             "updated": 1686693600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/aa3f7c1a-11ee-3091-a6d8-9d4983ca21e4",
             "title": "Reddit\u2019s blunder",
             "link": "https://thisweekinapps.podbean.com/e/reddit-s-regrettable-blunder/",
             "updated": 1686567329,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "64852b6da029e9001189b037",
             "title": "WWDC 2023 Highlights",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/64852b6da029e9001189b037",
             "updated": 1686424176,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/270",
             "title": "270: WWDC 2023",
             "link": "http://relay.fm/radar/270",
             "updated": 1686307500,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_560.mp3",
             "title": "Episode 560: Something Wrong About This Product",
             "link": "https://coreint.org/2023/06/episode-560-something-wrong-about-this-product/",
             "updated": 1686147962,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "2207461e-14fd-4d15-ade7-adba2e42e3e4",
             "title": "135: They Are Very Nice Rails",
             "link": "https://codecompletion.io/podcast//135",
             "updated": 1686056400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "e28e4ac0-6181-4740-abaf-fc1cabb1a8f7",
             "title": "Platforms State of Union 2023 with Peter Witham",
             "link": "https://share.transistor.fm/s/336118a1",
             "updated": 1686019719,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "136b5158-1065-4cb0-b90c-3a3352cee8d8",
             "title": "WWDC 2023 Keynote Wrap-Up Mega Episode!",
             "link": "https://share.transistor.fm/s/063f5ec3",
             "updated": 1686001260,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "350b391a-59b0-49cf-8d19-ec435a962a53",
             "title": "Apple WWDC23 Keynote reactions and analysis with Leo G. Dion",
             "link": "https://share.transistor.fm/s/8a8ca776",
             "updated": 1685983950,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/77145986-4ed4-3560-9f6d-9a67d376e4c2",
             "title": "Rejuvenated!",
             "link": "https://thisweekinapps.podbean.com/e/rejuvenated/",
             "updated": 1685939347,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "30061306-72c0-446f-ab31-01a6f9b35c9c",
             "title": "The AirPods that Cried Wolf - IDB043",
             "link": "https://share.transistor.fm/s/f8f0ea34",
             "updated": 1685818680,
-            "site_url": "https://www.iosdevbreak.com/"
+            "site_url": "https://www.iosdevbreak.com/",
+            "slug": "podcasts"
         },
         {
             "id": "4a6b563e-e3f8-4ac4-b5fc-d6471d7dfa48",
             "title": "S3E29: 'twas the week before DubDub \ud83e\udd7d",
             "link": "https://www.waitingforreview.com/s3e29",
             "updated": 1685786400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "8284e437-a2ab-4e5c-b41d-e3489973c7aa",
             "title": "134: Contacts Suck",
             "link": "https://codecompletion.io/podcast//134",
             "updated": 1685768400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "647ab1ad7b38dd001187f4bc",
             "title": "WWDC 2023 Pre-Show",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/647ab1ad7b38dd001187f4bc",
             "updated": 1685737276,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "62a80467-df86-4be6-a1e6-f0130deba8e4",
             "title": "S3E1: People want to get together",
             "link": "https://podcasters.spotify.com/pod/show/swiftovercoffee/episodes/S3E1-People-want-to-get-together-e254kr6",
             "updated": 1685723826,
-            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee"
+            "site_url": "https://podcasters.spotify.com/pod/show/swiftovercoffee",
+            "slug": "podcasts"
         },
         {
             "id": "6478cdf450150f001157b005",
             "title": "Replay: Paul Hudson on Roundabout Creative Chaos episode 92 - Aug 23, 2017",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6478cdf450150f001157b005",
             "updated": 1685613444,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "df6aacfb-348e-421f-a3c9-7d5666648215",
             "title": "27: Swift 5.9, WWDC, AR/VR/MR, and package recommendations",
             "link": "https://share.transistor.fm/s/400d0291",
             "updated": 1685612481,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "6476d5e68d53500011daa67f",
             "title": "Hacking With Paul Hudson",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/6476d5e68d53500011daa67f",
             "updated": 1685484802,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "2fc304fa-59ab-46e9-9a53-c44b83723ce2",
             "title": "Hitting 2M Downloads Without Funding, Employees, or Learning to Code \u2014 Ania Wysocka, Rootd",
             "link": "https://subclub.com/episode/hitting-2m-downloads-without-funding-employees-or-learning-to-code-ania-wysocka-rootd",
             "updated": 1685484000,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/93ca50a9-d6c2-36da-aed8-f8ad209d9834",
             "title": "Streaming shakeup",
             "link": "https://thisweekinapps.podbean.com/e/streaming-shakeup/",
             "updated": 1685342089,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "9acc1322-8112-4275-be53-0148913e2631",
             "title": "133: xrOS Autocorrects to Bros",
             "link": "https://codecompletion.io/podcast//133",
             "updated": 1685174400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/269",
             "title": "269: Preparing for WWDC 2023",
             "link": "http://relay.fm/radar/269",
             "updated": 1684997100,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_559.mp3",
             "title": "Episode 559: I\u2019m A Little Jealous",
             "link": "https://coreint.org/2023/05/episode-559-im-a-little-jealous/",
             "updated": 1684935713,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "646d98f0fe46e9001114b57d",
             "title": "Matt Massicotte, SwiftTO 2023 Speaker Series",
             "link": "https://shows.acast.com/646bd59620e0700011d52174/episodes/646d98f0fe46e9001114b57d",
             "updated": 1684878976,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "554bce31-d2f3-45c9-8f48-134cd8350265",
             "title": "129: Taking the Waiting Around Out of Inpatient Rounds with Mike Pitt of Q-rounds",
             "link": "https://constantvariables.co/episodes/129",
             "updated": 1684824660,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "2e2fb098-01fd-4f7d-91e2-78954032a57f",
             "title": "When ZStacks go mad",
             "link": "https://share.transistor.fm/s/16f12010",
             "updated": 1684822320,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/70f94825-0b5d-3d11-a7e9-cbfb92906930",
             "title": "Shopping showdown",
             "link": "https://thisweekinapps.podbean.com/e/shopping-showdown/",
             "updated": 1684684479,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "e4e93c8c-1729-426c-9830-67e2ba3dfd51",
             "title": "132: The Dials are all Clickety",
             "link": "https://codecompletion.io/podcast//132",
             "updated": 1684533600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_558.mp3",
             "title": "Episode 558: We Will Be Paying Attention",
             "link": "https://coreint.org/2023/05/episode-558-we-will-be-paying-attention/",
             "updated": 1684417991,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "3e19a064-844c-4076-82bd-0639dde38536",
             "title": "26: Swift on Windows, Wasm, SPI source code quiz, and package recommendations",
             "link": "https://share.transistor.fm/s/4d58ccbd",
             "updated": 1684396800,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "cdf18955-75b1-4a12-b469-f2047d5e2641",
             "title": "Product Lessons From a Profitable, $20M ARR Subscription App \u2014 Jesse Venticinque, Fitbod",
             "link": "https://subclub.com/episode/product-lessons-from-a-profitable-$20m-arr-subscription-app-jesse-venticinque-fitbod",
             "updated": 1684274400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "54793370-03e4-4a19-85c3-07ee21161cfe",
             "title": "My first paid app and what to work on before WWDC23",
             "link": "https://share.transistor.fm/s/6a250438",
             "updated": 1684218300,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "00195b9c-fd39-4c98-8817-533b215a1a88",
             "title": "S3E28: It's been 8 years... why now!? \ud83c\udfb9 \u26a1\ufe0f",
             "link": "https://www.waitingforreview.com/s3e28",
             "updated": 1684119600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/e3aba469-b285-35bf-b30e-89275712a58d",
             "title": "Something new?",
             "link": "https://thisweekinapps.podbean.com/e/something-new/",
             "updated": 1684046674,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "23844331-c300-4614-8fd7-c55ea7dc0bce",
             "title": "My Taylor Deep Dish Swift Heroes World Tour",
             "link": "https://share.transistor.fm/s/952b2095",
             "updated": 1683987864,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_557.mp3",
             "title": "Episode 557: So Easy to Predict",
             "link": "https://coreint.org/2023/05/episode-557-so-easy-to-predict/",
             "updated": 1683900287,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/268",
             "title": "268: Fancy Work",
             "link": "http://relay.fm/radar/268",
             "updated": 1683702900,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "f90b3086-7a6e-40a1-b1b4-be73276262ad",
             "title": "131: The Dumpster Fire Keeps Rolling Down the Hill",
             "link": "https://codecompletion.io/podcast//131",
             "updated": 1683669600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/fe3e0c76-e920-316b-b6a7-f0fbf81972d1",
             "title": "Score!",
             "link": "https://thisweekinapps.podbean.com/e/score/",
             "updated": 1683562765,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "eb96c879-184e-4cdb-b366-08cd02951f85",
             "title": "Don't buy it, build it",
             "link": "https://share.transistor.fm/s/3ba9af25",
             "updated": 1683535316,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_556.mp3",
             "title": "Episode 556: Never Exceed Expectations",
             "link": "https://coreint.org/2023/05/episode-556-never-exceed-expectations/",
             "updated": 1683452840,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "3526ff42-0d60-4a4d-bfc0-2da9b05bb1a7",
             "title": "S3E27: Launching Topiary \ud83c\udf33 and AB Testing \ud83e\uddea",
             "link": "https://www.waitingforreview.com/s3e27",
             "updated": 1683374400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "4553856a-a1cc-4f4a-8084-92c3db86bae0",
             "title": "Stewart Lynch, The Swift Professor*",
             "link": "https://mtjc.fireside.fm/362",
             "updated": 1683234000,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "38eed0ea-286b-4472-a3ee-659887bbc33d",
             "title": "25: ChatGPT API exploration, SPI Playgrounds, Manifest validation, and package recommendations",
             "link": "https://share.transistor.fm/s/fdc10878",
             "updated": 1683198273,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1472569",
             "title": "363 - Software Engineering - Let\u2019s Talk",
             "link": "https://ideveloper.co/episodes/363-software-engineering-lets-talk",
             "updated": 1683191842,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "41365f85-5f26-4f72-b389-ea62cf199a6c",
             "title": "How Freemium Can Outperform Free Trials \u2013 Shaun Steingold, Momentum Labs",
             "link": "https://subclub.com/episode/how-freemium-can-outperform-free-trials-shaun-steingold-momentum-labs",
             "updated": 1683064800,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "f868590c-13be-430d-bc28-82b79afea531",
             "title": "How to WWDC with Peter Witham",
             "link": "https://share.transistor.fm/s/42fea5da",
             "updated": 1682924400,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "d63b69c2-3c17-4c00-9721-b5dd758a337f",
             "title": "130: Then It Stabs You in the Back",
             "link": "https://codecompletion.io/podcast//130",
             "updated": 1682892000,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_555.mp3",
             "title": "Episode 555: If I Were To Bet",
             "link": "https://coreint.org/2023/04/episode-555-if-i-were-to-bet/",
             "updated": 1682794141,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/ea1fc360-9cfb-3c3b-801e-9d3000e9d0a2",
             "title": "Are you doing this?",
             "link": "https://thisweekinapps.podbean.com/e/do-this-now/",
             "updated": 1682750276,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=318294",
             "title": "Kodeco Podcast: Adam Rush and Josh Holtz- The Return of the In-Person Conference \u2013 Podcast Vol2, S1 E12",
             "link": "https://www.kodeco.com/318294/in-person-conference-v2-s1-e12",
             "updated": 1682593259,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/267",
             "title": "267: Don't Run Servers",
             "link": "http://relay.fm/radar/267",
             "updated": 1682494200,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/6d67fc29-6c3a-3bba-bb58-1eb4408e17bb",
             "title": "Again?",
             "link": "https://thisweekinapps.podbean.com/e/again/",
             "updated": 1682257943,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "7295b2c9-8a5e-4104-ad29-499a5258c6f7",
             "title": "WWDC San Jose Travel Advice, Best of MTJC",
             "link": "https://mtjc.fireside.fm/361",
             "updated": 1682247600,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1462752",
             "title": "362 - Codename Project Vague\u2026",
             "link": "https://ideveloper.co/episodes/362-codename-project-vague",
             "updated": 1682068122,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_554.mp3",
             "title": "Episode 554: Get Yourself Into a Pickle",
             "link": "https://coreint.org/2023/04/episode-554-get-yourself-into-a-pickle/",
             "updated": 1682067558,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "5c3de448-e8f9-4c21-8c8d-6116cdbe24e7",
             "title": "Interview with Geoff Pado",
             "link": "https://share.transistor.fm/s/232c19be",
             "updated": 1682023821,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "0b6a134b-69ab-46e9-b595-b8546af25ef5",
             "title": "24: Apple sponsorship Q&A and our package recommendations",
             "link": "https://share.transistor.fm/s/193dca6d",
             "updated": 1681977600,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "d7f397d6-3895-46a6-8ee4-b9a8fc5c679d",
             "title": "129: Boom, Double the Screen",
             "link": "https://codecompletion.io/podcast//129",
             "updated": 1681941600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "88bbfffe-8387-40a6-9d40-e7b3d3478842",
             "title": "Maximizing Organic Growth with App Store Optimization \u2014 Ariel Michaeli, Appfigures",
             "link": "https://subclub.com/episode/maximizing-organic-growth-with-app-store-optimization-ariel-michaeli",
             "updated": 1681855200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "d2ca64b7-98c6-4b27-be09-5317de80910a",
             "title": "Pizza, Playpen, and Fastlane Funding with Josh Holtz",
             "link": "https://share.transistor.fm/s/c83c6da0",
             "updated": 1681664400,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/6f528296-9f1e-3522-aee8-679ed27f7d31",
             "title": "The million downloads club",
             "link": "https://thisweekinapps.podbean.com/e/the-million-downloads-club/",
             "updated": 1681632853,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "2255d349-d138-4ac8-8c72-c5ca1e0878a0",
             "title": "The Curious Case of Daniel Steinberg",
             "link": "https://mtjc.fireside.fm/360",
             "updated": 1681498800,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_553.mp3",
             "title": "Episode 553: I Didn\u2019t Like You Anyway",
             "link": "https://coreint.org/2023/04/didnt-like-you-anyway/",
             "updated": 1681472762,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1458447",
             "title": "361 - Bring Me a New Tractor, My Ash Tray Is Full",
             "link": "https://ideveloper.co/episodes/361-bring-me-a-new-tractor-my-ash-tray-is-full",
             "updated": 1681452950,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "b665221c-b38c-4495-b57e-77e125b40bf4",
             "title": "S3E26: Little green men, floating in space \ud83d\ude80\ud83d\udc7d",
             "link": "https://www.waitingforreview.com/s3e26",
             "updated": 1681441200,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "5cce806d-a004-4345-89e3-1a54b0e09cd4",
             "title": "128: We Don\u2019t Want You on 5G",
             "link": "https://codecompletion.io/podcast//128",
             "updated": 1681423200,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=317972",
             "title": "Kodeco Podcast: Marin Ben\u010devi\u0107 and the Interesting World of GPT and AI \u2013 Podcast Vol2, S1 E11",
             "link": "https://www.kodeco.com/317972/gpt-and-ai-v2-s1-e11",
             "updated": 1681383610,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/266",
             "title": "266: The Middle Path",
             "link": "http://relay.fm/radar/266",
             "updated": 1681285500,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/f023e516-c969-3b57-bc2d-27a288fab813",
             "title": "End of an era...",
             "link": "https://thisweekinapps.podbean.com/e/end-of-an-era/",
             "updated": 1681012279,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_552.mp3",
             "title": "Episode 552: Drunk On This Capability",
             "link": "https://coreint.org/2023/04/episode-552-drunk-on-this-capability/",
             "updated": 1680985437,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "1cc39096-7267-44b2-972c-ef70ff52df81",
             "title": "Episode 359: WWDC 2023 Lottery",
             "link": "https://mtjc.fireside.fm/359",
             "updated": 1680886800,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "5a7dcd46-3c0c-47ae-b78f-4201f16a122c",
             "title": "127: Let Me Mute the New Desk",
             "link": "https://codecompletion.io/podcast//127",
             "updated": 1680732000,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "20af209d-43ef-4704-98b0-cea51893105c",
             "title": "How to Boost Retention with Subscription Lifecycle Messaging \u2014 Alice Muir, Phiture",
             "link": "https://subclub.com/episode/how-to-boost-retention-with-subscription-lifestyle-messaging-alice-muir",
             "updated": 1680645600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c663aca3-197c-4fa4-8306-443684bd3ae5",
             "title": "iOS Interview Tips from Engineering Manager and Senior Engineers",
             "link": "http://insideiosdev.com/",
             "updated": 1680549339,
-            "site_url": "https://insideiosdev.com/"
+            "site_url": "https://insideiosdev.com/",
+            "slug": "podcasts"
         },
         {
             "id": "e774e57d-fb99-40d2-b8e0-33451606cf34",
             "title": "Going Pro with Sean Allen",
             "link": "https://share.transistor.fm/s/11c845b0",
             "updated": 1680541200,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "1c5e96c3-1839-4de5-be5e-7ee4a8047d73",
             "title": "Apples, Glasses, and HAL, Oh My!",
             "link": "https://share.transistor.fm/s/801b49fa",
             "updated": 1680274132,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_551.mp3",
             "title": "Episode 551: Pretty Much Exactly Right",
             "link": "https://coreint.org/2023/03/episode-551-pretty-much-exactly-right/",
             "updated": 1680264372,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "d90a06a2-2429-425a-9a0a-eef7c1ea9166",
             "title": "WWDC23, OS updates and a new app release from me",
             "link": "https://share.transistor.fm/s/57df9744",
             "updated": 1680243654,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "1a135943-2211-42b2-9c9a-37c1df45a5d2",
             "title": "126: Tupleware",
             "link": "https://codecompletion.io/podcast//126",
             "updated": 1680213600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1448741",
             "title": "360 - To Code, or Not to Code",
             "link": "https://ideveloper.co/episodes/360-to-code-or-not-to-code",
             "updated": 1680166721,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/265",
             "title": "265: Old App, New Subscription",
             "link": "http://relay.fm/radar/265",
             "updated": 1679988600,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/0a334bae-f149-34b9-a620-bbf5de866e2b",
             "title": "No ban!",
             "link": "https://thisweekinapps.podbean.com/e/no-ban/",
             "updated": 1679821375,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_550.mp3",
             "title": "Episode 550: A New Reality",
             "link": "https://coreint.org/2023/03/episode-550-a-new-reality/",
             "updated": 1679683298,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "8cf31f33-06ce-4d6b-b879-5dc37e83f4bf",
             "title": "S3E25: Funnels all the way down \ud83d\udd0d",
             "link": "https://www.waitingforreview.com/s3e25",
             "updated": 1679583600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "4a8d8274-d952-49ab-8f9d-3221216aa4b0",
             "title": "23: Site availability testing, Linux-only packages, and package recommendations",
             "link": "https://share.transistor.fm/s/dcf3bd5a",
             "updated": 1679558400,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "d47900e8-15e3-4c80-b878-a0555c5add6c",
             "title": "125: This Is Widescreen, Sir",
             "link": "https://codecompletion.io/podcast//125",
             "updated": 1679544000,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "7567a20c-7a91-458e-836c-3ffec40743c7",
             "title": "Lessons From Building a 70 Person Growth Team \u2014 Jason van der Merwe, Strava",
             "link": "https://subclub.com/episode/lessons-from-building-a-70-person-growth-team-jason-van-der-merwe-strava",
             "updated": 1679432400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c3e73841-b6c3-439f-89d3-2132afeb3944",
             "title": "Reality and Architecture with Mohammad Azam",
             "link": "https://share.transistor.fm/s/c49e44a8",
             "updated": 1679331600,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/7e5dc5d9-0f36-3f4b-96e5-45e306bbedd7",
             "title": "Money talks!",
             "link": "https://thisweekinapps.podbean.com/e/money-talks/",
             "updated": 1679212051,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "37bad7ad-c229-48f9-a02f-c3291f618462",
             "title": "124: This is a B+ on Their Tier List",
             "link": "https://codecompletion.io/podcast//124",
             "updated": 1679043600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "f98571b8-d2f7-42f4-9ae9-b887d6392ecc",
             "title": "Joel Kin - Querl GraphQL library for Swift",
             "link": "https://share.transistor.fm/s/7fd6177a",
             "updated": 1678991340,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=317212",
             "title": "Kodeco Podcast: Jenn Bailey, Tim Condon and the New Book, \u2018Hack Your Job Search\u2019 \u2013 Podcast Vol2, S1 E10",
             "link": "https://www.kodeco.com/317212/hack-your-job-search-v2-s1-e10",
             "updated": 1678964437,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/264",
             "title": "264: Scaling Support",
             "link": "http://relay.fm/radar/264",
             "updated": 1678866300,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "8cf6e721-198b-4322-b459-61feae71f003",
             "title": "Episode 358: Mark Moeykens - Core Data Mastery in SwiftUI",
             "link": "https://mtjc.fireside.fm/358",
             "updated": 1678561200,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "80958a40-84c8-4386-bb2d-6f045f944cc0",
             "title": "Do you have an onboarding system for users?",
             "link": "https://share.transistor.fm/s/b8c5b5c7",
             "updated": 1678465904,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_549.mp3",
             "title": "Episode 549: A Crazy, Wild Place",
             "link": "https://coreint.org/2023/03/episode-549-a-crazy-wild-place/",
             "updated": 1678452427,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1432480",
             "title": "359 - Shotty's Skipping",
             "link": "https://ideveloper.co/episodes/359-shottys-skipping",
             "updated": 1678361256,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "06bd77ab-299c-4c6c-8810-4033d2a1f8b1",
             "title": "22: Search ranking, building documentation on Linux, OpenAI, and package recommendations",
             "link": "https://share.transistor.fm/s/6ee97394",
             "updated": 1678349631,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "846e0784-c86d-4ed6-a8d8-2664582e2093",
             "title": "123: In Some Form or Another",
             "link": "https://codecompletion.io/podcast//123",
             "updated": 1678312800,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "d786071d-b8de-4471-a7e0-6173167374e7",
             "title": "Channel Experimentation and the Tiktokification of Video Ads \u2014 Ryan Watson, onX",
             "link": "https://subclub.com/episode/channel-experimentation-and-the-tiktokification-of-video-ads-ryan-watson-onx",
             "updated": 1678222800,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "c6657043-28c7-488e-8cd4-a807693b2bff",
             "title": "Yak Shaving with Tim Mitra",
             "link": "https://share.transistor.fm/s/57c93ab6",
             "updated": 1678122000,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/3e74a35c-bb97-3bf2-b8f7-181135dcb9c4",
             "title": "What a start!",
             "link": "https://thisweekinapps.podbean.com/e/what-a-start/",
             "updated": 1678002967,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=316991",
             "title": "Kodeco Podcast: Adrian Eves, Chris Wu Talks About the Struggles and Joys of Hosting Online Happy Hours- Podcast Vol2, S1 E9",
             "link": "https://www.kodeco.com/316991/ios-dev-happy-hour-v2-s1-e9",
             "updated": 1677758413,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/263",
             "title": "263: Pedometer++ 5.0",
             "link": "http://relay.fm/radar/263",
             "updated": 1677658500,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "aa72c6d3-182e-4a6c-8f54-a6fb96217179",
             "title": "122: The Creepy APIs",
             "link": "https://codecompletion.io/podcast//122",
             "updated": 1677621600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "5e795f35-4a27-4123-91a2-2c13fe41d333",
             "title": "S3E24: The Superhero Maker Show \ud83e\uddb8\u200d\u2640\ufe0f",
             "link": "https://www.waitingforreview.com/s3e24",
             "updated": 1677398400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/4f4cd248-4ffc-3f53-a3d7-760406c073a6",
             "title": "Bad timing...",
             "link": "https://thisweekinapps.podbean.com/e/bad-timing/",
             "updated": 1677394675,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "4ff1b0ed-1916-4310-93c3-7e6e62670c6e",
             "title": "What a week that was, is it over?",
             "link": "https://share.transistor.fm/s/07082547",
             "updated": 1677322834,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_548.mp3",
             "title": "Episode 548: I\u2019m the King of the World",
             "link": "https://coreint.org/2023/02/episode-548-im-the-king-of-the-world/",
             "updated": 1677317344,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1422823",
             "title": "358 - Knock, Knock?",
             "link": "https://ideveloper.co/episodes/358-knock-knock",
             "updated": 1677146760,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "679c99f0-0402-4faa-ba8c-9754455c35ce",
             "title": "21: Swift Charts, over 300 documented packages, collaborative Markdown editors, and package recommendations",
             "link": "https://share.transistor.fm/s/8d32259b",
             "updated": 1677139200,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "224cdb8e-b3ea-4dcc-bc9e-1e059866e173",
             "title": "Top Growth and Monetization Insights for Subscription Apps \u2014 Sylvain Gauchet, Babbel and Growth Gems",
             "link": "https://subclub.com/episode/top-growth-and-monetization-insights-for-subscription-apps-sylvain-gauchet-babbel-and-growth-gems",
             "updated": 1677013200,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2bdf4a88-dbe0-4a3b-a24c-398ef89523f0",
             "title": "dataTile for Simulator with Marin Todorov",
             "link": "https://share.transistor.fm/s/0dab7610",
             "updated": 1676912400,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/c41fedf5-00a1-3b10-b57d-235d1ece8c04",
             "title": "Opportunities",
             "link": "https://thisweekinapps.podbean.com/e/opportunities/",
             "updated": 1676823306,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "c90fb9b3-81dc-4cf9-b69b-c0514dc03c0f",
             "title": "Episode 357: Malin Sundberg & Kai Dombrowski",
             "link": "https://mtjc.fireside.fm/357",
             "updated": 1676617200,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=316811",
             "title": "Kodeco Podcast: Life After Bootcamp with Bob DeLaurentis and Eric Jenkinson \u2013 Is It Worth It?- Podcast Vol2, S1 E8",
             "link": "https://www.kodeco.com/316811/life-after-bootcamp-v2-s1-e8",
             "updated": 1676548807,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1413178",
             "title": "357 - Shipping != Love",
             "link": "https://ideveloper.co/episodes/357-shipping-love",
             "updated": 1676543040,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/262",
             "title": "262: Managing Change",
             "link": "http://relay.fm/radar/262",
             "updated": 1676502900,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "a061697e-6322-42bd-b347-aa422f5bf784",
             "title": "121: It\u2019s a Statement to State What Everyone Else Is Stating",
             "link": "https://codecompletion.io/podcast//121",
             "updated": 1676412000,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "c14ff855-28d5-492f-b06f-9f1fd4b9ba56",
             "title": "S3E23: TootSDK is released! \ud83d\udce3",
             "link": "https://www.waitingforreview.com/s3e23",
             "updated": 1676390400,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/bdae58e8-9b94-3464-ba18-f1aeaf31c76d",
             "title": "It\u2019s a sweep!",
             "link": "https://thisweekinapps.podbean.com/e/it-s-a-sweep/",
             "updated": 1676182306,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://traffic.libsyn.com/secure/coreint/CoreInt_547.mp3",
             "title": "Episode 547: An Unprincipled Decision",
             "link": "https://coreint.org/2023/02/episode-547-an-unprincipled-decision/",
             "updated": 1676050950,
-            "site_url": "https://coreint.org"
+            "site_url": "https://coreint.org",
+            "slug": "podcasts"
         },
         {
             "id": "40f553c7-0b3f-4f9e-8174-e6b4e00761a5",
             "title": "Where to get started learning Apple development",
             "link": "https://share.transistor.fm/s/7857cefb",
             "updated": 1676044419,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "bcc0e35d-5997-4498-bf11-7876e660132a",
             "title": "20: SPI in 2049, new \u201cSupporters\u201d page, and MacWhisper audio transcription",
             "link": "https://share.transistor.fm/s/536a0925",
             "updated": 1675941121,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "78314bdf-5a7b-4acb-a069-d5afa1a3b7d1",
             "title": "The Key Trends and Opportunities for Apps in 2023 \u2014 Lexi Sydow, data.ai",
             "link": "https://subclub.com/episode/the-key-trends-and-opportunities-for-apps-in-2023-lexi-sydow-data-ai",
             "updated": 1675832400,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "2b2b5ed3-373c-4ead-9c0f-d48eb67b410b",
             "title": "120: They Are an Endangered Species",
             "link": "https://codecompletion.io/podcast//120",
             "updated": 1675807200,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "b174aa7d-742a-4ea1-b2a5-a3901815235f",
             "title": "Mobile System Design with Tjeerd in 't Veen",
             "link": "https://share.transistor.fm/s/02c8f68a",
             "updated": 1675702800,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "b49d3ab2-f4fa-46cc-8867-ed4c3c48a6c5",
             "title": "S3E22: It's like auto-tune for your words \u270d\ud83c\udffb",
             "link": "https://www.waitingforreview.com/s3e22",
             "updated": 1675659600,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/b0c324a7-1e71-34d6-8f0e-561709832903",
             "title": "Collaboration and competition",
             "link": "https://thisweekinapps.podbean.com/e/collaboration-and-competition/",
             "updated": 1675492205,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=316754",
             "title": "Kodeco Podcast: Ryan Brodsky Talks About Bootcamps \u2013 Pros, Cons, Is It For You? \u2013 Podcast Vol2, S1 E7",
             "link": "https://www.kodeco.com/316754/ryan-brodsky-v2-s1-e7",
             "updated": 1675339207,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1399983",
             "title": "356 - The iDeveloper Shipping Forecast",
             "link": "https://ideveloper.co/episodes/356-the-ideveloper-shipping-forecast",
             "updated": 1675333080,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/261",
             "title": "261: A Vacation to the Basement",
             "link": "http://relay.fm/radar/261",
             "updated": 1675238400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "473f4c4a-0ebb-4cc0-ba35-1e1d4a519ff5",
             "title": "Episode 356: Leo Dion",
             "link": "https://mtjc.fireside.fm/356",
             "updated": 1675191600,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "ab85f4d1-b572-4bcd-8736-8dee66d6c3af",
             "title": "119: One Mega @",
             "link": "https://codecompletion.io/podcast//119",
             "updated": 1675116000,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/ceee4098-2b42-3cec-a2df-2f15e936f995",
             "title": "Not (that) stagnant",
             "link": "https://thisweekinapps.podbean.com/e/not-that-stagnant/",
             "updated": 1674954000,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "97c43b85-4355-4087-944d-2ad5a35abb9c",
             "title": "19: The SPI project is growing up, DocC uploading with AWS Lambda, and Are we server yet?",
             "link": "https://share.transistor.fm/s/9c8cada4",
             "updated": 1674781200,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "643bc93c-3449-4662-9497-725795349c46",
             "title": "Richard Zarth - Developer and Mentor, Really Simple Arcade and helping others",
             "link": "https://share.transistor.fm/s/db72a1a7",
             "updated": 1674756685,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "http://www.racecondition.software/blog/swiftui-homeworks",
             "title": "Cracking the iOS-Developer Coding Challenge, SwiftUI Edition",
             "link": "http://www.racecondition.software/blog/swiftui-homeworks/",
             "updated": 1674752400,
-            "site_url": "https://racecondition.software"
+            "site_url": "https://racecondition.software",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1391916",
             "title": "355 - ChatGPT: Is It Really All That AI-mazing?",
             "link": "https://ideveloper.co/episodes/355-chatgpt-is-it-really-all-that-ai-mazing",
             "updated": 1674726180,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "e52c5fae-c48c-45bd-a3df-d51ebd30f98d",
             "title": "118: Apple Has Ruined Everything",
             "link": "https://codecompletion.io/podcast//118",
             "updated": 1674597600,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "4019c4c7-17c7-4b52-b2a9-1dd92b4eeb4f",
             "title": "How to Build a Great Kids App with Minimal Data \u2014 Brennan Clark, Sago Mini",
             "link": "https://subclub.com/episode/how-to-build-a-great-kids-app-with-minimal-data-brennan-clark-sago-mini",
             "updated": 1674594000,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "9b24b87b-8051-498f-8549-83919395ffd5",
             "title": "Swift Package Index with Dave Verwer and Sven Schmidt",
             "link": "https://share.transistor.fm/s/c6c77489",
             "updated": 1674566537,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "4e1239bf-5339-4439-871f-401a126ff746",
             "title": "S3E21: One Billion and counting! \ud83d\ude80 \ud83e\udd73",
             "link": "https://www.waitingforreview.com/s3e21",
             "updated": 1674360000,
-            "site_url": "https://www.waitingforreview.com"
+            "site_url": "https://www.waitingforreview.com",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/3252af14-d491-3a9d-8278-6414568f7afe",
             "title": "Going native",
             "link": "https://thisweekinapps.podbean.com/e/going-native/",
             "updated": 1674349200,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "9f0a1265-89b0-45ab-9ea5-f1ba5570be5a",
             "title": "Episode 355: MTJC Max Pro Ultra",
             "link": "https://mtjc.fireside.fm/355",
             "updated": 1674291600,
-            "site_url": "https://www.mtjc.fm/"
+            "site_url": "https://www.mtjc.fm/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=316590",
             "title": "Kodeco Podcast: Via Fairchild, Jeff Rames & An Attempt to Explore the True Work/Life Balance!- Podcast Vol2, S1 E6",
             "link": "https://www.kodeco.com/316590/via-fairchild-jeff-rames-v2-s1-e6",
             "updated": 1674129626,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/260",
             "title": "260: Subscription School",
             "link": "http://relay.fm/radar/260",
             "updated": 1674032400,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "c5f26cdc-325c-479d-a974-f452629003c5",
             "title": "117: Go Check Out the Good Vibes",
             "link": "https://codecompletion.io/podcast//117",
             "updated": 1673992800,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "0e7a1bb6-3138-4da1-a644-3967e6b895eb",
             "title": "How\u2019s Your App Really Doing? The State of Subscription Apps 2023",
             "link": "https://subclub.com/episode/state-of-subscription-apps-2023",
             "updated": 1673931600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/848490e5-86ad-38e6-a182-ff247d0643f8",
             "title": "Slowing down...",
             "link": "https://thisweekinapps.podbean.com/e/slowing-down/",
             "updated": 1673682794,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "85bb6229-f202-4354-b988-9d4f211f7257",
             "title": "Marin Todorov - dataTile and SwiftUI in Production",
             "link": "https://share.transistor.fm/s/b0448a74",
             "updated": 1673550000,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "7152ca9b-0ca3-4b98-9a5e-92a3d13991bd",
             "title": "Episode 18",
             "link": "https://share.transistor.fm/s/d01d6184",
             "updated": 1673509217,
-            "site_url": "https://swiftpackageindexing.transistor.fm"
+            "site_url": "https://swiftpackageindexing.transistor.fm",
+            "slug": "podcasts"
         },
         {
             "id": "8f70060f-44e3-4285-8ec0-19ecf6198d4a",
             "title": "116: I\u2019m Excited For A Thing I\u2019m Mad About",
             "link": "https://codecompletion.io/podcast//116",
             "updated": 1673474400,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "4dbc5136-990a-4560-8a40-4f8730fe491e",
             "title": "A Swiftly Year in Review with Antoine van der Lee",
             "link": "https://share.transistor.fm/s/03523ad5",
             "updated": 1673430006,
-            "site_url": "https://www.empowerapps.show"
+            "site_url": "https://www.empowerapps.show",
+            "slug": "podcasts"
         },
         {
             "id": "dabbacbd-c455-4a2a-9c20-cac41215ccca",
             "title": "128: Building Accessible Technology with Liz Tupper of CivicActions",
             "link": "https://constantvariables.co/episodes/128",
             "updated": 1673341740,
-            "site_url": "https://constantvariables.co"
+            "site_url": "https://constantvariables.co",
+            "slug": "podcasts"
         },
         {
             "id": "http://relay.fm/radar/259",
             "title": "259: Plans for the Season",
             "link": "http://relay.fm/radar/259",
             "updated": 1673250300,
-            "site_url": "https://www.relay.fm/radar"
+            "site_url": "https://www.relay.fm/radar",
+            "slug": "podcasts"
         },
         {
             "id": "thisweekinapps.podbean.com/758ed229-1916-3a98-825f-f6614a5bcbd3",
             "title": "A big 23",
             "link": "https://thisweekinapps.podbean.com/e/a-big-23/",
             "updated": 1673158269,
-            "site_url": "https://appfigures.com/resources/this-week-in-apps"
+            "site_url": "https://appfigures.com/resources/this-week-in-apps",
+            "slug": "podcasts"
         },
         {
             "id": "ab992b22-c6e4-4f06-90f1-ea5235c408eb",
             "title": "2023 development goals and looking ahead",
             "link": "https://share.transistor.fm/s/207e431a",
             "updated": 1672948353,
-            "site_url": "https://www.compileswift.com/"
+            "site_url": "https://www.compileswift.com/",
+            "slug": "podcasts"
         },
         {
             "id": "https://www.kodeco.com/?p=316441",
             "title": "Kodeco Podcast: Kave Bulambo and Her Views on Diversity, Equity, Inclusion, and Belonging \u2013 Podcast Vol2, S1 E5",
             "link": "https://www.kodeco.com/316441/kave-bulambo-v2-s1-e5",
             "updated": 1672920029,
-            "site_url": "https://www.kodeco.com/podcast/"
+            "site_url": "https://www.kodeco.com/podcast/",
+            "slug": "podcasts"
         },
         {
             "id": "https://permalink.castos.com/podcast/17340/episode/1370001",
             "title": "354 - New Year, Same Idea",
             "link": "https://ideveloper.co/episodes/354-new-year-same-idea",
             "updated": 1672911720,
-            "site_url": "https://ideveloper.co/"
+            "site_url": "https://ideveloper.co/",
+            "slug": "podcasts"
         },
         {
             "id": "http://www.racecondition.software/blog/stubbing",
             "title": "Dependency Injection of URLs and URLSessions",
             "link": "http://www.racecondition.software/blog/stubbing/",
             "updated": 1672851600,
-            "site_url": "https://racecondition.software"
+            "site_url": "https://racecondition.software",
+            "slug": "podcasts"
         },
         {
             "id": "240c7d02-954e-4d33-a340-4783ab08ae5e",
             "title": "115: I Can See Pixels",
             "link": "https://codecompletion.io/podcast//115",
             "updated": 1672783200,
-            "site_url": "https://codecompletion.io/episodes/"
+            "site_url": "https://codecompletion.io/episodes/",
+            "slug": "podcasts"
         },
         {
             "id": "5a42ecce-45f7-4932-ab94-0b3eb7751fa5",
             "title": "Why You Should Test Everything and How To Do It \u2014 Osman Mansur, Duolingo",
             "link": "https://subclub.com/episode/why-you-should-test-everything-and-how-to-do-it-duolingo",
             "updated": 1672779600,
-            "site_url": "https://subclub.com/"
+            "site_url": "https://subclub.com/",
+            "slug": "podcasts"
         }
     ]
 }

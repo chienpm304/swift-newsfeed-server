@@ -6,70 +6,80 @@
             "title": "RSS turns 20 \u2192",
             "link": "http://scripting.com/2022/09/18.html",
             "updated": 1663661577,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1393",
             "title": "Choose Boring Technology \u2192",
             "link": "https://mcfunley.com/choose-boring-technology",
             "updated": 1586264027,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1331",
             "title": "Leadership is a Privilege",
             "link": "https://www.jonathant.com/2020/01/07/leadership-is-a-privilege/",
             "updated": 1578426340,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1313",
             "title": "Deleting Cookies and Data",
             "link": "https://www.jonathant.com/2020/01/02/delete-cookies-and-data/",
             "updated": 1577965167,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1308",
             "title": "eBooks are being held back",
             "link": "https://www.jonathant.com/2019/12/29/ebooks-are-being-held-back/",
             "updated": 1577613758,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1298",
             "title": "Wi-Fi 6\u2019s Claims Are Real",
             "link": "https://www.jonathant.com/2019/12/22/wi-fi-6s-claims-are-real/",
             "updated": 1577004698,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1295",
             "title": "Fast \u2192",
             "link": "https://patrickcollison.com/fast",
             "updated": 1576933712,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1292",
             "title": "Only 15% of the Basecamp operations budget is spent on Ruby \u2192",
             "link": "https://m.signalvnoise.com/only-15-of-the-basecamp-operations-budget-is-spent-on-ruby/",
             "updated": 1576765716,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1192",
             "title": "Your Deadline Will Be Affected",
             "link": "https://www.jonathant.com/2019/10/31/your-deadline-will-be-affected/",
             "updated": 1572521036,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         },
         {
             "id": "https://www.jonathant.com/?p=1120",
             "title": "When did work-life balance become such a bad thing? \u2192",
             "link": "https://m.signalvnoise.com/when-did-work-life-balance-become-such-a-bad-thing/",
             "updated": 1561809618,
-            "site_url": "https://www.jonathant.com"
+            "site_url": "https://www.jonathant.com",
+            "slug": "development"
         }
     ]
 }

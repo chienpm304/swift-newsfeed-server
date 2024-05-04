@@ -6,35 +6,40 @@
             "title": "Soft skills missing in software engineers",
             "link": "https://daddycoding.com/2023/05/13/soft-skills-missing-in-software-engineers/",
             "updated": 1683960894,
-            "site_url": "https://daddycoding.com"
+            "site_url": "https://daddycoding.com",
+            "slug": "development"
         },
         {
             "id": "https://daddycoding.com/?p=4839",
             "title": "SwiftUI Data Flow Explained",
             "link": "https://daddycoding.com/2023/05/12/swiftui-data-flow-explained/",
             "updated": 1683878649,
-            "site_url": "https://daddycoding.com"
+            "site_url": "https://daddycoding.com",
+            "slug": "development"
         },
         {
             "id": "https://daddycoding.com/?p=4837",
             "title": "Environment",
             "link": "https://daddycoding.com/2023/05/11/environment/",
             "updated": 1683790464,
-            "site_url": "https://daddycoding.com"
+            "site_url": "https://daddycoding.com",
+            "slug": "development"
         },
         {
             "id": "https://daddycoding.com/?p=4834",
             "title": "StateObject",
             "link": "https://daddycoding.com/2023/05/10/stateobject/",
             "updated": 1683703746,
-            "site_url": "https://daddycoding.com"
+            "site_url": "https://daddycoding.com",
+            "slug": "development"
         },
         {
             "id": "https://daddycoding.com/?p=4831",
             "title": "Binding",
             "link": "https://daddycoding.com/2023/05/09/binding/",
             "updated": 1683616645,
-            "site_url": "https://daddycoding.com"
+            "site_url": "https://daddycoding.com",
+            "slug": "development"
         }
     ]
 }

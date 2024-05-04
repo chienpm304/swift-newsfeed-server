@@ -6,56 +6,64 @@
             "title": "Flutter MVVM and Clean Architecture - Part 3: Multi-packages structure",
             "link": "https://cassiuspacheco.com/flutter-mvvm-and-clean-architecture-part-3-multi-packages-structure",
             "updated": 1639594895,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/flutter-mvvm-and-clean-architecture-part-2-testable-routing",
             "title": "Flutter MVVM and Clean Architecture - Part 2: Testable Routing",
             "link": "https://cassiuspacheco.com/flutter-mvvm-and-clean-architecture-part-2-testable-routing",
             "updated": 1638157452,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/flutter-mvvm-and-clean-architecture-part-1-setup",
             "title": "Flutter MVVM and Clean Architecture - Part 1: Setup",
             "link": "https://cassiuspacheco.com/flutter-mvvm-and-clean-architecture-part-1-setup",
             "updated": 1636774141,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/result-dataerror-wrapper-in-dart-for-flutter",
             "title": "Result Data/Error wrapper in Dart for Flutter",
             "link": "https://cassiuspacheco.com/result-dataerror-wrapper-in-dart-for-flutter",
             "updated": 1616207246,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/synchronising-combines-publishers-for-easy-testing",
             "title": "Synchronising Combine's Publishers for easy testing",
             "link": "https://cassiuspacheco.com/synchronising-combines-publishers-for-easy-testing",
             "updated": 1586642935,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/unit-testing-composable-routing-in-swift-for-ios-apps-part-3",
             "title": "Unit Testing Composable Routing in Swift for iOS Apps - Part 3",
             "link": "https://cassiuspacheco.com/unit-testing-composable-routing-in-swift-for-ios-apps-part-3",
             "updated": 1585025066,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/applying-dependency-injection-to-composable-routing-in-swift-for-ios-apps-part-2",
             "title": "Applying Dependency Injection to Composable Routing in Swift for iOS\u00a0Apps - Part 2",
             "link": "https://cassiuspacheco.com/applying-dependency-injection-to-composable-routing-in-swift-for-ios-apps-part-2",
             "updated": 1584371732,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         },
         {
             "id": "https://cassiuspacheco.com/clean-simple-and-composable-routing-for-ios-apps",
             "title": "Clean, Simple and Composable Routing in Swift for iOS Apps - Part 1",
             "link": "https://cassiuspacheco.com/clean-simple-and-composable-routing-for-ios-apps",
             "updated": 1584120053,
-            "site_url": "https://cassiuspacheco.com"
+            "site_url": "https://cassiuspacheco.com",
+            "slug": "development"
         }
     ]
 }

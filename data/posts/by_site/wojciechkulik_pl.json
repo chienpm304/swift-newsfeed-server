@@ -6,70 +6,80 @@
             "title": "Why Switching From Xcode to Neovim Can Become The Best Decision You Ever Made",
             "link": "https://wojciechkulik.pl/ios/why-switching-from-xcode-to-neovim-can-become-the-best-decision-you-ever-made",
             "updated": 1711724937,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=8915",
             "title": "The complete guide to iOS & macOS development in Neovim",
             "link": "https://wojciechkulik.pl/ios/the-complete-guide-to-ios-macos-development-in-neovim",
             "updated": 1699779917,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=8695",
             "title": "How to develop iOS and macOS apps in IDEs like Neovim or VS Code?",
             "link": "https://wojciechkulik.pl/ios/how-to-develop-ios-and-macos-apps-in-other-ides-like-neovim-or-vs-code",
             "updated": 1697358628,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=8298",
             "title": "Where did we go wrong with testing?",
             "link": "https://wojciechkulik.pl/ios/where-did-we-go-wrong-with-testing",
             "updated": 1693152278,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=7922",
             "title": "SPM \u2013 Sharing Dependencies",
             "link": "https://wojciechkulik.pl/ios/spm-sharing-dependencies",
             "updated": 1690211936,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=7590",
             "title": "Swift Concurrency \u2013 Things They Don\u2019t Tell You",
             "link": "https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you",
             "updated": 1665912691,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=7508",
             "title": "Xcode Cloud review \u2013 is it ready for commercial projects?",
             "link": "https://wojciechkulik.pl/xcode/xcode-cloud-review-is-it-ready-for-commercial-projects",
             "updated": 1655822547,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=7378",
             "title": "Xcode Cloud \u2013 overview & setup",
             "link": "https://wojciechkulik.pl/xcode/xcode-cloud-overview-and-setup",
             "updated": 1655739227,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=6933",
             "title": "Redux architecture and mind-blowing features",
             "link": "https://wojciechkulik.pl/ios/redux-architecture-and-mind-blowing-features",
             "updated": 1638701958,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         },
         {
             "id": "https://wojciechkulik.pl/?p=5834",
             "title": "MVVM + Coordinators + RxSwift and sample iOS application with authentication",
             "link": "https://wojciechkulik.pl/ios/mvvm-coordinators-rxswift-and-sample-ios-application-with-authentication",
             "updated": 1563601802,
-            "site_url": "https://wojciechkulik.pl"
+            "site_url": "https://wojciechkulik.pl",
+            "slug": "development"
         }
     ]
 }

@@ -1,124 +1,141 @@
 {
-    "updated": 1714663524,
+    "updated": 1714834845,
     "posts": [
         {
             "id": "https://www.iwantanelephant.com/?p=10552",
             "title": "Automate app deployments for build and metadata easily",
             "link": "https://www.iwantanelephant.com/blog/2024/04/04/automate-app-deployments-for-build-and-metadata-easily/",
             "updated": 1712234603,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "65c79e1099f5b35c2c82e32c",
             "title": "Vision",
             "link": "http://joecieplinski.com/blog/2024/02/10/vision/",
             "updated": 1707558057,
-            "site_url": "https://joecieplinski.com/blog/"
+            "site_url": "https://joecieplinski.com/blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10542",
             "title": "Participate in the future of your App Management Experience!",
             "link": "https://www.iwantanelephant.com/blog/2024/02/01/participate-in-the-future-of-your-app-management-experience/",
             "updated": 1706785078,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10526",
             "title": "Latest news: Subscription updates & new offering",
             "link": "https://www.iwantanelephant.com/blog/2024/01/31/latest-news-subscription-updates-new-offering/",
             "updated": 1706683080,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10511",
             "title": "Out now! Uploading 6.7\u201d screenshots to App Store Connect",
             "link": "https://www.iwantanelephant.com/blog/2023/12/21/out-now-uploading-6-7-screenshots-to-app-store-connect/",
             "updated": 1703121054,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10497",
             "title": "The outstanding tools and applications we use (update 2023)",
             "link": "https://www.iwantanelephant.com/blog/2023/11/03/the-outstanding-tools-and-applications-we-use-update-2023/",
             "updated": 1698979833,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10466",
             "title": "Why thoughtful Android release notes are important",
             "link": "https://www.iwantanelephant.com/blog/2023/10/24/why-thoughtful-android-release-notes-are-important/",
             "updated": 1698136409,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "6509ee7a0251c94e7b190ed2",
             "title": "Slopes Diaries #44: A Decade",
             "link": "https://blog.curtisherbert.com/slopes-diaries-44-a-decade/",
             "updated": 1695555210,
-            "site_url": "https://blog.curtisherbert.com/"
+            "site_url": "https://blog.curtisherbert.com/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10474",
             "title": "Keeping Your Apps Secure and Up-to-Date: Google\u2019s Target API Requirements",
             "link": "https://www.iwantanelephant.com/blog/2023/09/18/keeping-your-apps-secure-and-up-to-date-googles-target-api-requirements/",
             "updated": 1695012809,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://yvz.fr/?p=565",
             "title": "Choosing a minimum iOS version to support",
             "link": "https://yvz.fr/choosing-a-minimum-ios-version-to-support/",
             "updated": 1694660173,
-            "site_url": "https://yvz.fr"
+            "site_url": "https://yvz.fr",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10429",
             "title": "Upload App Metadata from Phrase & Lokalise to the App Stores",
             "link": "https://www.iwantanelephant.com/blog/2023/07/04/upload-app-metadata-from-phrase-lokalise-to-the-app-stores/",
             "updated": 1688428240,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10421",
             "title": "Even better App Store updates and maintenance!",
             "link": "https://www.iwantanelephant.com/blog/2023/06/06/even-better-app-store-updates-and-maintenance/",
             "updated": 1686024945,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://www.iwantanelephant.com/?p=10316",
             "title": "How to take your app store presence to another level with A/B Testing",
             "link": "https://www.iwantanelephant.com/blog/2023/04/24/how-to-take-your-app-store-presence-to-another-level-with-a-b-testing/",
             "updated": 1682290195,
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/"
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
+            "slug": "marketing"
         },
         {
             "id": "https://indiespark.top/?p=3828",
             "title": "Native vs Web: Technologies Available to Native Apps but not Web Apps",
             "link": "https://indiespark.top/programming/native-technologies-vs-web-applications/",
             "updated": 1681840800,
-            "site_url": "https://indiespark.top/tag/app-store/"
+            "site_url": "https://indiespark.top/tag/app-store/",
+            "slug": "marketing"
         },
         {
             "id": "https://indiespark.top/?p=3823",
             "title": "How to Define Your Own Uniform Type Identifier (UTI)",
             "link": "https://indiespark.top/programming/define-own-uti/",
             "updated": 1680631242,
-            "site_url": "https://indiespark.top/tag/app-store/"
+            "site_url": "https://indiespark.top/tag/app-store/",
+            "slug": "marketing"
         },
         {
             "id": "https://yvz.fr/?p=547",
             "title": "TextingStory icon evolution",
             "link": "https://yvz.fr/textingstory-icon-evolution/",
             "updated": 1674189801,
-            "site_url": "https://yvz.fr"
+            "site_url": "https://yvz.fr",
+            "slug": "marketing"
         },
         {
             "id": "https://yvz.fr/?p=470",
             "title": "iOS screen sizes reference v5",
             "link": "https://yvz.fr/ios-screen-sizes-reference-v4/",
             "updated": 1673489520,
-            "site_url": "https://yvz.fr"
+            "site_url": "https://yvz.fr",
+            "slug": "marketing"
         }
     ]
 }

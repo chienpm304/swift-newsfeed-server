@@ -6,56 +6,64 @@
             "title": "Quitting Reels: Unveiling Instagram Deep Links",
             "link": "https://kunat.dev/notes/instagram-dms/",
             "updated": 1711896071,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/swift-local-packages/",
             "title": "Working with Local Swift Packages",
             "link": "https://kunat.dev/notes/swift-local-packages/",
             "updated": 1709045375,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/spm-plugin-update/",
             "title": "Automating Adding SPM Plugins",
             "link": "https://kunat.dev/notes/spm-plugin-update/",
             "updated": 1702899815,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/gitlab-code-coverage/",
             "title": "GitLab Code Coverage for Pure Swift Packages",
             "link": "https://kunat.dev/notes/gitlab-code-coverage/",
             "updated": 1690556026,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/development-assets-xcodegen/",
             "title": "Xcode Development Assets with XcodeGen",
             "link": "https://kunat.dev/notes/development-assets-xcodegen/",
             "updated": 1681121157,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/duplicate-testing-doubles/",
             "title": "How to Tackle Duplicate Test Doubles Problem in Modular Architecture",
             "link": "https://kunat.dev/notes/duplicate-testing-doubles/",
             "updated": 1680188994,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/spm-internal-dependencies/",
             "title": "How to Connect Internal Dependencies in Swift Package Manager",
             "link": "https://kunat.dev/notes/spm-internal-dependencies/",
             "updated": 1678951823,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         },
         {
             "id": "https://kunat.dev/notes/edit-menu-no-first-responder/",
             "title": "Handling Edit Menus Without the First Responder",
             "link": "https://kunat.dev/notes/edit-menu-no-first-responder/",
             "updated": 1675174376,
-            "site_url": "https://kunat.dev/notes/"
+            "site_url": "https://kunat.dev/notes/",
+            "slug": "development"
         }
     ]
 }

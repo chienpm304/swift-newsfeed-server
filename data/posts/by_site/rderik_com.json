@@ -6,42 +6,48 @@
             "title": "Directory Structure for Terraform Projects",
             "link": "https://rderik.com/blog/directory-structure-for-terraform-projects/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         },
         {
             "id": "https://rderik.com/blog/setting-up-access-to-a-private-repository-in-argocd-with-ssm-parameter-store-and-external-secrets-operator/",
             "title": "Setting up access to a private repository in ArgoCD with SSM Parameter Store and External Secrets Operator",
             "link": "https://rderik.com/blog/setting-up-access-to-a-private-repository-in-argocd-with-ssm-parameter-store-and-external-secrets-operator/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         },
         {
             "id": "https://rderik.com/blog/using-iam-roles-for-kubernetes-service-accounts-in-aws-eks-using-terraform/",
             "title": "Using IAM Roles for Kubernetes service accounts in AWS EKS using Terraform",
             "link": "https://rderik.com/blog/using-iam-roles-for-kubernetes-service-accounts-in-aws-eks-using-terraform/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         },
         {
             "id": "https://rderik.com/blog/setting-up-a-eks-kubernetes-cluster-for-learning/",
             "title": "Setting up an EKS Kubernetes cluster for learning",
             "link": "https://rderik.com/blog/setting-up-a-eks-kubernetes-cluster-for-learning/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         },
         {
             "id": "https://rderik.com/blog/setting-up-a-kubernetes-cluster-in-amazon-eks-using-terraform/",
             "title": "Setting up a Kubernetes Cluster in Amazon EKS using Terraform",
             "link": "https://rderik.com/blog/setting-up-a-kubernetes-cluster-in-amazon-eks-using-terraform/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         },
         {
             "id": "https://rderik.com/blog/a-better-way-of-setting-up-and-managing-user-ssh-keys-in-aws-ec2-instances/",
             "title": "A better way of setting up and managing user ssh keys in AWS EC2 instances",
             "link": "https://rderik.com/blog/a-better-way-of-setting-up-and-managing-user-ssh-keys-in-aws-ec2-instances/",
             "updated": 1701763066,
-            "site_url": "https://rderik.com"
+            "site_url": "https://rderik.com",
+            "slug": "development"
         }
     ]
 }

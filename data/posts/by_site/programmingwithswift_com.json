@@ -6,105 +6,120 @@
             "title": "How to validate a URL with Node JS",
             "link": "https://programmingwithswift.com/how-to-validate-http-links-with-node-js/",
             "updated": 1652756488,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "617d842688fef4003a7401a8",
             "title": "Grokking Algorithms review",
             "link": "https://programmingwithswift.com/grokking-algorithms-review/",
             "updated": 1652318465,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "61473c50f570e0003e718d30",
             "title": "Go: Read a file line by line",
             "link": "https://programmingwithswift.com/how-to-read-a-file-line-by-line-with-go/",
             "updated": 1632039153,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "5f65db48fad3c100395a47aa",
             "title": "Python list all files in directory and subdirectories",
             "link": "https://programmingwithswift.com/python-list-all-files-in-directory-and-subdirectories/",
             "updated": 1631678400,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "6134c3f798506c003b71b01b",
             "title": "How to compare dates with TypeScript or JavaScript",
             "link": "https://programmingwithswift.com/how-to-compare-dates-with-typescript/",
             "updated": 1631343066,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "612b96a498506c003b71afc9",
             "title": "How to pretty-print JSON with JavaScript",
             "link": "https://programmingwithswift.com/how-to-pretty-print-json-with-javascript/",
             "updated": 1630224331,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "612b4b9b98506c003b71ae3b",
             "title": "How to Read and Write JSON with NodeJS",
             "link": "https://programmingwithswift.com/how-to-read-and-write-json-with-nodejs/",
             "updated": 1630219383,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "6122826d7c4c0a003b9c6206",
             "title": "How to find duplicates in an Array with JavaScript",
             "link": "https://programmingwithswift.com/how-to-find-duplicates-in-an-array-with-javascript/",
             "updated": 1629715778,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "61227b4c7c4c0a003b9c61c3",
             "title": "How to get the index from for-of loop with JavaScript",
             "link": "https://programmingwithswift.com/how-to-get-the-index-from-for-of-loop-with-javascript/",
             "updated": 1629714109,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "6058580196381c003bb699da",
             "title": "How to run Async Await in Parallel or serial with JavaScript(Node)",
             "link": "https://programmingwithswift.com/run-async-await-in-parallel-with-javascript/",
             "updated": 1616381892,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "5f65db48fad3c100395a479f",
             "title": "Numbers only TextField with SwiftUI",
             "link": "https://programmingwithswift.com/numbers-only-textfield-with-swiftui/",
             "updated": 1612587600,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "601e4b6d2b023e0039b9f40e",
             "title": "How to ignore/skip or run only one test with Jest",
             "link": "https://programmingwithswift.com/how-to-ignore-skip-run-only-one-test-with-jest/",
             "updated": 1612583754,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "5fe9c11bd759a60039177a98",
             "title": "How to change remote origin url for Git repo",
             "link": "https://programmingwithswift.com/how-to-change-remote-origin-with-git/",
             "updated": 1609219153,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "5fe9c141d759a60039177aa1",
             "title": "Could not open a connection to your authentication agent",
             "link": "https://programmingwithswift.com/ssh-add-could-not-open-a-connection-to-your-authentication-agent/",
             "updated": 1609207653,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         },
         {
             "id": "5fe2e75a195ef00039f610a0",
             "title": "How to convert a byte array to String with JavaScript",
             "link": "https://programmingwithswift.com/how-to-convert-byte-array-to-string-with-javascript/",
             "updated": 1608686571,
-            "site_url": "https://programmingwithswift.com"
+            "site_url": "https://programmingwithswift.com",
+            "slug": "development"
         }
     ]
 }

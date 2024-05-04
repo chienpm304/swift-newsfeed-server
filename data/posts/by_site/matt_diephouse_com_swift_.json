@@ -6,63 +6,72 @@
             "title": "Entry 8: Incomplete Computed Properties",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1589434504,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 7: Member Operator Errors",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1535696984,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 6: Unexpected Arguments Diagnostic",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1532410226,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 5: Enum Element Diagnostics",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1531720972,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 4: Derive Equatable & Hashable for Uninhabited Types",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1531564325,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 3: Unmodified var warnings",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1530078994,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 2: SR-7177, Adding a diagnostic",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1529075660,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 1: A better \u201cno subscripts\u201d error",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1528959078,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         },
         {
             "id": "",
             "title": "Entry 0: SR-7380, Ambiguous KeyPath",
             "link": "https://matt.diephouse.com/swift/index.xml",
             "updated": 1528888654,
-            "site_url": "https://matt.diephouse.com/swift/"
+            "site_url": "https://matt.diephouse.com/swift/",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "The *Right* Unit Tests",
             "link": "https://kenthumphries.github.io/The-Right-Unit-Tests/",
             "updated": 1579107600,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/a-more-diverse-ios-community",
             "title": "A More Diverse iOS Community",
             "link": "https://kenthumphries.github.io/a-more-diverse-ios-community/",
             "updated": 1576170000,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Der-Berliner-Jager",
             "title": "Der Berliner J\u00e4ger \\ The Berlin Hunter",
             "link": "https://kenthumphries.github.io/Der-Berliner-Jager/",
             "updated": 1534611600,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Embed-Debug-Framework",
             "title": "Embedding a Debug Only Framework",
             "link": "https://kenthumphries.github.io/Embed-Debug-Framework/",
             "updated": 1525107600,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Big-Fat-Initializers",
             "title": "Big Fat Initializers",
             "link": "https://kenthumphries.github.io/Big-Fat-Initializers/",
             "updated": 1488301200,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Turn-me-on-Turn-me-off",
             "title": "Turn Me On Turn Me Off",
             "link": "https://kenthumphries.github.io/Turn-me-on-Turn-me-off/",
             "updated": 1486400400,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Protocol-Extensions",
             "title": "Protocol Extensions - The Bad, the Good and the Ugly",
             "link": "https://kenthumphries.github.io/Protocol-Extensions/",
             "updated": 1471194000,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/Swift-Baby-Steps",
             "title": "Swift Baby Steps",
             "link": "https://kenthumphries.github.io/Swift-Baby-Steps/",
             "updated": 1447002000,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/NSDates-NSTimeZones-NSCalendars-NSDateComponents",
             "title": "NSDates, NSTimeZones, NSCalendars and NSDateComponents. Oh my.",
             "link": "https://kenthumphries.github.io/NSDates-NSTimeZones-NSCalendars-NSDateComponents/",
             "updated": 1443373200,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         },
         {
             "id": "https://kenthumphries.github.io/WhenDo-Support",
             "title": "WhenDo Support",
             "link": "https://kenthumphries.github.io/WhenDo-Support/",
             "updated": 978282000,
-            "site_url": "https://kenthumphries.github.io"
+            "site_url": "https://kenthumphries.github.io",
+            "slug": "development"
         }
     ]
 }

@@ -6,140 +6,160 @@
             "title": "The Overcast Redesign: Part One",
             "link": "https://marco.org/2022/03/25/overcast-redesign-2022",
             "updated": 1648220271,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2021/10/05/steve-jobs-ten-years",
             "title": "Ten years after we lost Steve Jobs",
             "link": "https://marco.org/2021/10/05/steve-jobs-ten-years",
             "updated": 1633468247,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2021/09/13/future-of-the-app-store",
             "title": "The future of the App Store",
             "link": "https://marco.org/2021/09/13/future-of-the-app-store",
             "updated": 1631567891,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2021/06/03/developer-relations",
             "title": "Developer relations",
             "link": "https://marco.org/2021/06/03/developer-relations",
             "updated": 1622744099,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2020/09/11/app-review-changes",
             "title": "In-App Purchase Rules",
             "link": "https://marco.org/2020/09/11/app-review-changes",
             "updated": 1599854886,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2020/01/31/voiceboost2",
             "title": "Introducing Voice Boost 2: Remaster your podcasts",
             "link": "https://marco.org/2020/01/31/voiceboost2",
             "updated": 1580496392,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2020/01/13/macos-low-power-mode-redux",
             "title": "Low Power Mode for Mac laptops: making the case again",
             "link": "https://marco.org/2020/01/13/macos-low-power-mode-redux",
             "updated": 1578964866,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2019/11/13/mbp16",
             "title": "The 16-inch MacBook Pro",
             "link": "https://marco.org/2019/11/13/mbp16",
             "updated": 1573651808,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2019/07/21/overcast-summer-update",
             "title": "Overcast summer update",
             "link": "https://marco.org/2019/07/21/overcast-summer-update",
             "updated": 1563740084,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2019/06/09/apple-is-listening",
             "title": "Apple is Listening",
             "link": "https://marco.org/2019/06/09/apple-is-listening",
             "updated": 1560128878,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2019/04/27/overcast-clip-sharing",
             "title": "Clip sharing with Overcast",
             "link": "https://marco.org/2019/04/27/overcast-clip-sharing",
             "updated": 1556383293,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2019/01/28/overcast-instant-search",
             "title": "Overcast 5.1 with Instant Search",
             "link": "https://marco.org/2019/01/28/overcast-instant-search",
             "updated": 1548699278,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/11/09/ipad-pro-2018-review",
             "title": "The 2018 iPad Pro",
             "link": "https://marco.org/2018/11/09/ipad-pro-2018-review",
             "updated": 1541794684,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/11/06/mac-mini-2018-review",
             "title": "The 2018 Mac Mini",
             "link": "https://marco.org/2018/11/06/mac-mini-2018-review",
             "updated": 1541502099,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/10/09/infograph-legibility",
             "title": "Why it\u2019s hard to read the time on Infograph",
             "link": "https://marco.org/2018/10/09/infograph-legibility",
             "updated": 1539110082,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/09/17/overcast5",
             "title": "Overcast 5: Watch, Siri, search, and redesign!",
             "link": "https://marco.org/2018/09/17/overcast5",
             "updated": 1537212422,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/07/31/mac-low-power-mode",
             "title": "Low Power Mode on the Mac",
             "link": "https://marco.org/2018/07/31/mac-low-power-mode",
             "updated": 1533064337,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/04/27/overcast42",
             "title": "Overcast 4.2: The privacy update",
             "link": "https://marco.org/2018/04/27/overcast42",
             "updated": 1524855381,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/03/13/overcast41",
             "title": "Overcast 4.1 now available",
             "link": "https://marco.org/2018/03/13/overcast41",
             "updated": 1520988128,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         },
         {
             "id": "/2018/02/26/watchkit-baby-apps",
             "title": "WatchKit is a sweet solution that will only ever give us baby apps",
             "link": "https://marco.org/2018/02/26/watchkit-baby-apps",
             "updated": 1519675415,
-            "site_url": "https://marco.org/"
+            "site_url": "https://marco.org/",
+            "slug": "development"
         }
     ]
 }

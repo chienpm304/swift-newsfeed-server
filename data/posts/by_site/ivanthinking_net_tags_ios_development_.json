@@ -6,77 +6,88 @@
             "title": "Development login credentials in Xcode",
             "link": "https://ivanthinking.net/thoughts/xcode-login-credentials-streamline/",
             "updated": 1682312931,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/ios-developer-resources/",
             "title": "iOS Developer Resources",
             "link": "https://ivanthinking.net/thoughts/ios-developer-resources/",
             "updated": 1664902698,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/swiftui-link-phone-numbers-text-no-markdown/",
             "title": "SwiftUI: Link phone numbers, emails, URLs in Text without Markdown",
             "link": "https://ivanthinking.net/thoughts/swiftui-link-phone-numbers-text-no-markdown/",
             "updated": 1663671291,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/iphone-upgrade-program-vs-buying-trade-in/",
             "title": "iPhone Upgrade Program vs Buying, Trade In",
             "link": "https://ivanthinking.net/thoughts/iphone-upgrade-program-vs-buying-trade-in/",
             "updated": 1607163746,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/swift-immutable-struct-singleton-initialization/",
             "title": "Swift: Immutable Struct Singleton Initialization",
             "link": "https://ivanthinking.net/thoughts/swift-immutable-struct-singleton-initialization/",
             "updated": 1590725401,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/fastlane-download-appstore-metadata/",
             "title": "Fastlane: Downloading AppStore Metadata",
             "link": "https://ivanthinking.net/thoughts/fastlane-download-appstore-metadata/",
             "updated": 1590637081,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/swift-convert-string-to-date/",
             "title": "Swift: Converting String to Date",
             "link": "https://ivanthinking.net/thoughts/swift-convert-string-to-date/",
             "updated": 1589952001,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/horizontal-stack-content-hugging/",
             "title": "Horizontal Stack Content Hugging",
             "link": "https://ivanthinking.net/thoughts/horizontal-stack-content-hugging/",
             "updated": 1589861641,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/adding-instructional-overlay-first-time-users-ios/",
             "title": "Adding an Instructional Overlay for first time users to your app in iOS",
             "link": "https://ivanthinking.net/thoughts/adding-instructional-overlay-first-time-users-ios/",
             "updated": 1589609041,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/bitrise-mobile-ci-service/",
             "title": "Bitrise: Mobile CI Service",
             "link": "https://ivanthinking.net/thoughts/bitrise-mobile-ci-service/",
             "updated": 1559825581,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         },
         {
             "id": "https://ivanthinking.net/thoughts/automated-beta-internal-change-notes-fastlane/",
             "title": "Automated Beta/Internal Change Notes with Fastlane",
             "link": "https://ivanthinking.net/thoughts/automated-beta-internal-change-notes-fastlane/",
             "updated": 1559469061,
-            "site_url": "https://ivanthinking.net/tags/ios-development/"
+            "site_url": "https://ivanthinking.net/tags/ios-development/",
+            "slug": "development"
         }
     ]
 }

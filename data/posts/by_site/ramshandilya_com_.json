@@ -6,49 +6,56 @@
             "title": "Building a Design System for iOS - Part 4 - Animations",
             "link": "https://ramshandilya.com/blog/design-system-animations",
             "updated": 1589707920,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/design-system-colors",
             "title": "Building a Design System for iOS - Part 3 - Colors",
             "link": "https://ramshandilya.com/blog/design-system-colors",
             "updated": 1589707860,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/design-system-typography",
             "title": "Building a Design System for iOS - Part 2 - Typography",
             "link": "https://ramshandilya.com/blog/design-system-typography",
             "updated": 1589621460,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/design-system-intro",
             "title": "Building a Design System for iOS - Part 1 - Introduction",
             "link": "https://ramshandilya.com/blog/design-system-intro",
             "updated": 1589620800,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/goodbye-gatsby-hello-swift",
             "title": "Goodbye Gatsby, Hello Swift",
             "link": "https://ramshandilya.com/blog/goodbye-gatsby-hello-swift",
             "updated": 1587806400,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/the-great-gatsby-makeover",
             "title": "The Great Gatsby Makeover",
             "link": "https://ramshandilya.com/blog/the-great-gatsby-makeover",
             "updated": 1578388800,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         },
         {
             "id": "https://ramshandilya.com/blog/draw-smooth-curves",
             "title": "Draw smooth curves through a set of points",
             "link": "https://ramshandilya.com/blog/draw-smooth-curves",
             "updated": 1446715200,
-            "site_url": "https://www.ramshandilya.com/"
+            "site_url": "https://www.ramshandilya.com/",
+            "slug": "development"
         }
     ]
 }

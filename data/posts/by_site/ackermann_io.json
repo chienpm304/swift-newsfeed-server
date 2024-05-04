@@ -6,63 +6,72 @@
             "title": "The Adventure Begins",
             "link": "https://ackermann.io/posts/the-adventure-begins",
             "updated": 1581347620,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/the-end-of-this-chapter",
             "title": "The End Of This Chapter",
             "link": "https://ackermann.io/posts/the-end-of-this-chapter",
             "updated": 1557906791,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/previewing-the-system-share-sheet",
             "title": "Previewing The System Share Sheet",
             "link": "https://ackermann.io/posts/previewing-the-system-share-sheet",
             "updated": 1527064835,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/three-years",
             "title": "Three Years",
             "link": "https://ackermann.io/posts/three-years",
             "updated": 1521439031,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/the-little-things",
             "title": "The Little Things",
             "link": "https://ackermann.io/posts/the-little-things",
             "updated": 1518345036,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/rwdevcon-2017",
             "title": "RWDevCon 2017",
             "link": "https://ackermann.io/posts/rwdevcon-2017",
             "updated": 1491152400,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/doodler-2",
             "title": "Doodler 2",
             "link": "https://ackermann.io/posts/doodler-2",
             "updated": 1473613200,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/doodler-sticker-creator",
             "title": "Doodler Sticker Creator",
             "link": "https://ackermann.io/posts/doodler-sticker-creator",
             "updated": 1472922000,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         },
         {
             "id": "https://ackermann.io/posts/one-year-youversion",
             "title": "One Year at YouVersion",
             "link": "https://ackermann.io/posts/one-year-youversion",
             "updated": 1458234000,
-            "site_url": "https://ackermann.io"
+            "site_url": "https://ackermann.io",
+            "slug": "development"
         }
     ]
 }

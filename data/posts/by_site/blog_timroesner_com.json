@@ -6,70 +6,80 @@
             "title": "Explore GraphQL with Graphman",
             "link": "https://blog.timroesner.com/explore-graphql-with-graphman",
             "updated": 1614531600,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/swiftui-view-type",
             "title": "Understanding SwiftUI\u2019s View type",
             "link": "https://blog.timroesner.com/swiftui-some-view-type",
             "updated": 1612890000,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/diffable-data-source-cell-registration-sidebar",
             "title": "DiffableDataSource with CellRegistration for iPad Sidebar",
             "link": "https://blog.timroesner.com/diffable-data-source-cell-registration-sidebar",
             "updated": 1602954000,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/process-info",
             "title": "ProcessInfo for Test Data and more",
             "link": "https://blog.timroesner.com/process-info",
             "updated": 1601744400,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/measuring-xcode-build-times",
             "title": "Measure Xcode Build Times",
             "link": "https://blog.timroesner.com/measure-xcode-build-times",
             "updated": 1601139600,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/swiftui-network-data-loading",
             "title": "Loading Network Data in SwiftUI",
             "link": "https://blog.timroesner.com/swiftui-network-data-loading",
             "updated": 1595005200,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/ultimate-codable-reference",
             "title": "Swift: Decode JSON with Codable",
             "link": "https://blog.timroesner.com/swift-decode-json-codable",
             "updated": 1593795600,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/building-widgets-ios14",
             "title": "Building Widgets for iOS 14",
             "link": "https://blog.timroesner.com/building-widgets-ios14",
             "updated": 1592845200,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/accessibility-best-practices",
             "title": "Accessibility Best Practices",
             "link": "https://blog.timroesner.com/accessibility-best-practices",
             "updated": 1590253200,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.timroesner.com/supporting-dynamic-type",
             "title": "Supporting Dynamic Type with Custom Fonts on iOS",
             "link": "https://blog.timroesner.com/supporting-dynamic-type",
             "updated": 1589994000,
-            "site_url": "https://blog.timroesner.com"
+            "site_url": "https://blog.timroesner.com",
+            "slug": "development"
         }
     ]
 }

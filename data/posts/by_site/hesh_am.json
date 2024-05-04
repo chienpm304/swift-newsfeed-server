@@ -6,70 +6,80 @@
             "title": "Making the Best Out of a Reorg",
             "link": "http://hesh.am/2023-06-04/making-the-best-out-of-a-reorg",
             "updated": 1685864110,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2020-07-22/crash-reporting-using-metrickit",
             "title": "Exploring iOS 14: Crash Reporting using MetricKit",
             "link": "http://hesh.am/2020-07-22/crash-reporting-using-metrickit",
             "updated": 1595403310,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2020-06-01/free-mentorship-for-ios-developers",
             "title": "Free Mentorship for iOS Developers",
             "link": "http://hesh.am/2020-06-01/free-mentorship-for-ios-developers",
             "updated": 1590996910,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2019-09-22/ios-ci-infrastructure-with-buildkite-and-anka-at-instabug",
             "title": "iOS CI Infrastructure with Buildkite and Anka at Instabug",
             "link": "http://hesh.am/2019-09-22/ios-ci-infrastructure-with-buildkite-and-anka-at-instabug",
             "updated": 1569116110,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2019-02-12/swift-5-module-stability-binary-frameworks",
             "title": "Swift 5, Module Stability and Binary Frameworks",
             "link": "http://hesh.am/2019-02-12/swift-5-module-stability-binary-frameworks",
             "updated": 1549938610,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2018-09-13/how-we-automate-our-ios-workflow-at-instabug-using-circleci",
             "title": "How We Automate Our iOS Workflow at Instabug Using CircleCI",
             "link": "http://hesh.am/2018-09-13/how-we-automate-our-ios-workflow-at-instabug-using-circleci",
             "updated": 1536809410,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2018-05-15/why-we-don%E2%80%99t-use-interface-builder-and-storyboards-at-instabug",
             "title": "Why We Don\u2019t Use Interface Builder and Storyboards at Instabug",
             "link": "http://hesh.am/2018-05-15/why-we-don-t-use-interface-builder-and-storyboards-at-instabug",
             "updated": 1526391373,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2018/02/15/how-we-refactored-our-monolithic-ios-framework",
             "title": "How We Refactored Our Monolithic iOS Framework",
             "link": "http://hesh.am/2018/02/15/how-we-refactored-our-monolithic-ios-framework/",
             "updated": 1518662173,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2017/07/13/books",
             "title": "Books",
             "link": "http://hesh.am/2017/07/13/books/",
             "updated": 1499909477,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         },
         {
             "id": "http://hesh.am/2016/11/30/what-its-like-to-work-on-an-ios-sdk",
             "title": "What it\u2019s Like to Work on an iOS SDK",
             "link": "http://hesh.am/2016/11/30/what-its-like-to-work-on-an-ios-sdk/",
             "updated": 1480491818,
-            "site_url": "https://hesh.am"
+            "site_url": "https://hesh.am",
+            "slug": "development"
         }
     ]
 }

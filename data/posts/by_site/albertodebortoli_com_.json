@@ -6,105 +6,120 @@
             "title": "Scalable Continuous Integration for iOS",
             "link": "https://albertodebortoli.com/2024/01/03/scalable-continuous-integration-for-ios/",
             "updated": 1704295610,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "653eb12caf44dc0001a9713f",
             "title": "The idea of a Fastlane replacement",
             "link": "https://albertodebortoli.com/2023/10/29/the-idea-of-a-fastlane-replacement/",
             "updated": 1698595058,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "64cd3c0acc92820001686c50",
             "title": "CloudWatch dashboards and alarms on Mac instances",
             "link": "https://albertodebortoli.com/2023/08/06/cloudwatch-dashboards-and-alarms-on-mac-instances/",
             "updated": 1691306683,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "64a2dfc4da1a4700016de256",
             "title": "Easy connection to AWS Mac instances with EC2macConnector",
             "link": "https://albertodebortoli.com/2023/07/05/easy-connection-to-aws-mac-instances-with-ec2macconnector/",
             "updated": 1688540096,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "6420b7b26ba41e004d81b2f4",
             "title": "Toggles: the easiest feature flagging in Swift",
             "link": "https://albertodebortoli.com/2023/03/26/toggles/",
             "updated": 1679842944,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "60d0cd079faf3c003e832174",
             "title": "The Continuous Integration system used by the mobile\u00a0teams",
             "link": "https://albertodebortoli.com/2021/07/23/the-continuous-integration-system-used-by-the-mobile-teams/",
             "updated": 1627006944,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "60c9e5269faf3c003e83210c",
             "title": "iOS Monorepo & CI Pipelines",
             "link": "https://albertodebortoli.com/2021/06/16/ios-monorepo-ci-pipelines/",
             "updated": 1623819670,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5f99be7fcb7879003936699d",
             "title": "Swift Heroes Digital 2020",
             "link": "https://albertodebortoli.com/2020/10/28/swift-heroes-2020/",
             "updated": 1603886970,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5ec1ac8df9e0580045105ab1",
             "title": "The algorithm powering iHarmony",
             "link": "https://albertodebortoli.com/2020/05/24/the-algorithm-powering-iharmony/",
             "updated": 1590317061,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5e050eebb838e10038b7d61c",
             "title": "The iOS internationalization basics I keep forgetting",
             "link": "https://albertodebortoli.com/2020/01/06/the-ios-internationalization-basics-i-keep-forgetting/",
             "updated": 1578293941,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5de7ec4361a9ee0038280d99",
             "title": "Modular iOS Architecture @ Just Eat",
             "link": "https://albertodebortoli.com/2019/12/19/modular-ios-architecture-at-just-eat/",
             "updated": 1576690995,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5ddd190e146b6e0044ef9425",
             "title": "Lessons learned from handling JWT on mobile",
             "link": "https://albertodebortoli.com/2019/12/04/recommendations-on-handling-jwt-on-mobile/",
             "updated": 1575454918,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5ddd3af7146b6e0044ef9471",
             "title": "A Smart Feature Flagging System for iOS",
             "link": "https://albertodebortoli.com/2019/11/26/a-smart-feature-flagging-system-for-ios/",
             "updated": 1574774220,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5ca8b86be1079300ccf92f96",
             "title": "Deep Linking at Scale on iOS",
             "link": "https://albertodebortoli.com/2019/04/16/deep-linking-at-scale-on-ios/",
             "updated": 1555371780,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         },
         {
             "id": "5c9b8568f3cc1500cc61ca32",
             "title": "Principal Manifesto",
             "link": "https://albertodebortoli.com/2019/04/02/principal-manifesto/",
             "updated": 1554202676,
-            "site_url": "https://albertodebortoli.com/"
+            "site_url": "https://albertodebortoli.com/",
+            "slug": "development"
         }
     ]
 }

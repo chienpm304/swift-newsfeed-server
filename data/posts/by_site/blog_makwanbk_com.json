@@ -6,105 +6,120 @@
             "title": "Meet An Upcoming Swift Access Modifier: package",
             "link": "https://blog.makwanbk.com/meet-an-upcoming-swift-access-modifier-package",
             "updated": 1684292857,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/the-reason-why-you-should-keep-maintaining-jailbreak-detection-in-your-ios-apps",
             "title": "The reason why you should keep maintaining Jailbreak detection in your iOS apps",
             "link": "https://blog.makwanbk.com/the-reason-why-you-should-keep-maintaining-jailbreak-detection-in-your-ios-apps",
             "updated": 1683985559,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/things-im-glad-i-learned-during-my-ios-development-journey",
             "title": "Things I'm Glad I Learned During My iOS Development Journey",
             "link": "https://blog.makwanbk.com/things-im-glad-i-learned-during-my-ios-development-journey",
             "updated": 1682954809,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/tips-for-remote-working-from-an-ios-engineer",
             "title": "Tips For Remote Working From An iOS Engineer",
             "link": "https://blog.makwanbk.com/tips-for-remote-working-from-an-ios-engineer",
             "updated": 1668334854,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/my-experience-after-a-year-of-working-remotely-as-a-software-engineer",
             "title": "My Experience After A Year Of Working Remotely As A Software Engineer",
             "link": "https://blog.makwanbk.com/my-experience-after-a-year-of-working-remotely-as-a-software-engineer",
             "updated": 1668166469,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/swift-a-custom-property-wrapper-for-disabling-views-auto-resizing-mask-into-constraints",
             "title": "Swift: A Custom Property Wrapper For Disabling Views' Auto Resizing Mask Into Constraints",
             "link": "https://blog.makwanbk.com/swift-a-custom-property-wrapper-for-disabling-views-auto-resizing-mask-into-constraints",
             "updated": 1665068045,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/personal-journey-pdis-esl-enrollment-was-one-of-the-best-decisions-of-my-life",
             "title": "Personal Journey: PDI's ESL Enrollment Was One Of The Best Decisions Of My Life",
             "link": "https://blog.makwanbk.com/personal-journey-pdis-esl-enrollment-was-one-of-the-best-decisions-of-my-life",
             "updated": 1663433322,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/weatherkit-build-a-simple-ios-weather-app",
             "title": "WeatherKit: Build a Simple iOS Weather App",
             "link": "https://blog.makwanbk.com/weatherkit-build-a-simple-ios-weather-app",
             "updated": 1658507316,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/meet-developer-mode-a-new-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16",
             "title": "Meet Developer Mode; A New Required Option To Run Xcode Projects On Physical Devices In iOS 16",
             "link": "https://blog.makwanbk.com/meet-developer-mode-a-new-required-option-to-run-xcode-projects-on-physical-devices-in-ios-16",
             "updated": 1654675412,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/my-only-favourite-book-of-2021",
             "title": "My Only Favourite Book of 2021",
             "link": "https://blog.makwanbk.com/my-only-favourite-book-of-2021",
             "updated": 1640946082,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/a-year-in-review-2021-was-my-best-year",
             "title": "A Year in Review: 2021 Was My Best Year",
             "link": "https://blog.makwanbk.com/a-year-in-review-2021-was-my-best-year",
             "updated": 1640838651,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/you-can-now-compile-swift-code-on-vs-code",
             "title": "You can now compile Swift code on VS Code",
             "link": "https://blog.makwanbk.com/you-can-now-compile-swift-code-on-vs-code",
             "updated": 1640346103,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/heres-why-were-facing-a-terrible-lack-of-ios-developers-in-kurdistan",
             "title": "Here's why we're facing a terrible lack of iOS developers in Kurdistan",
             "link": "https://blog.makwanbk.com/heres-why-were-facing-a-terrible-lack-of-ios-developers-in-kurdistan",
             "updated": 1639925683,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/quality-over-quantity-principle-is-the-key-to-becoming-a-successful-software-developer",
             "title": "'Quality over Quantity' Principle is the Key to Becoming a Successful Software Developer",
             "link": "https://blog.makwanbk.com/quality-over-quantity-principle-is-the-key-to-becoming-a-successful-software-developer",
             "updated": 1636174181,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.makwanbk.com/opinion-the-second-annual-techfest-sulaimani-event-was-held-what-could-make-it-better",
             "title": "Opinion: the second annual TECHFEST Sulaimani event was held \u2014 what could make it better",
             "link": "https://blog.makwanbk.com/opinion-the-second-annual-techfest-sulaimani-event-was-held-what-could-make-it-better",
             "updated": 1632049292,
-            "site_url": "https://blog.makwanbk.com"
+            "site_url": "https://blog.makwanbk.com",
+            "slug": "development"
         }
     ]
 }

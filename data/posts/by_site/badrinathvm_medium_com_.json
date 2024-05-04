@@ -6,70 +6,80 @@
             "title": "iOS Share and Action Extensions",
             "link": "https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78?source=rss-ddcf3cc4a563------2",
             "updated": 1713349149,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/cdc4c18add",
             "title": "Arguments Lists too long",
             "link": "https://badrinathvm.medium.com/arguments-lists-too-long-cdc4c18add?source=rss-ddcf3cc4a563------2",
             "updated": 1605711114,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/583c6b9f3cb2",
             "title": "Sharing UITests via Cocoapods",
             "link": "https://badrinathvm.medium.com/sharing-uitests-via-cocoapods-583c6b9f3cb2?source=rss-ddcf3cc4a563------2",
             "updated": 1596201844,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/104e0486d133",
             "title": "Step Indicator in SwiftUI",
             "link": "https://badrinathvm.medium.com/step-indicator-in-swiftui-104e0486d133?source=rss-ddcf3cc4a563------2",
             "updated": 1588353779,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/15b067cc3993",
             "title": "Progress Animation in SwiftUI",
             "link": "https://badrinathvm.medium.com/progress-animation-in-swiftui-15b067cc3993?source=rss-ddcf3cc4a563------2",
             "updated": 1585781095,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/327e3180ad7f",
             "title": "Packing UIKit\u2019s ViewController in SwiftUI",
             "link": "https://badrinathvm.medium.com/packing-uikits-viewcontroller-in-swiftui-327e3180ad7f?source=rss-ddcf3cc4a563------2",
             "updated": 1585650394,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f9457bd67e5c",
             "title": "Integrating SwiftUI in UIKit and Build Settings to Xcode.",
             "link": "https://badrinathvm.medium.com/integrating-swiftui-in-uikit-and-build-settings-to-xcode-f9457bd67e5c?source=rss-ddcf3cc4a563------2",
             "updated": 1584400100,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/a4701e7dcc61",
             "title": "Expandable Button in Swift",
             "link": "https://badrinathvm.medium.com/expandable-button-in-swift-a4701e7dcc61?source=rss-ddcf3cc4a563------2",
             "updated": 1567429679,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/bde66293412",
             "title": "Bottom Sheet in Swift",
             "link": "https://badrinathvm.medium.com/bottom-sheet-in-swift-bde66293412?source=rss-ddcf3cc4a563------2",
             "updated": 1567422313,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/eb3c98556423",
             "title": "Swift Unit Testing ( Quick & Nimble )",
             "link": "https://badrinathvm.medium.com/unit-testing-swift-quick-nimble-eb3c98556423?source=rss-ddcf3cc4a563------2",
             "updated": 1508004124,
-            "site_url": "https://badrinathvm.medium.com/"
+            "site_url": "https://badrinathvm.medium.com/",
+            "slug": "development"
         }
     ]
 }

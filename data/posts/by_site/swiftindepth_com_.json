@@ -6,126 +6,144 @@
             "title": "SwiftUI loading states with a twist; Solving a mutation puzzle",
             "link": "https://www.swiftindepth.com/articles/swiftui-loading-states-with-mutation",
             "updated": 1707785926,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/what-if-your-feature-was-a-command-line-tool",
             "title": "What if your feature was a Command Line Tool?",
             "link": "https://www.swiftindepth.com/articles/what-if-your-feature-was-a-command-line-tool",
             "updated": 1707700902,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/self-sufficient-features",
             "title": "The power of self-sufficient features",
             "link": "https://www.swiftindepth.com/articles/self-sufficient-features",
             "updated": 1707368513,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/reusable-components",
             "title": "Deliver reusable components without making them reusable",
             "link": "https://www.swiftindepth.com/articles/reusable-components",
             "updated": 1698649200,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/ui-architectures",
             "title": "Uh oh, you picked the wrong UI architecture",
             "link": "https://www.swiftindepth.com/articles/ui-architectures",
             "updated": 1681783200,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/uitests-easier",
             "title": "UI Tests, but easier",
             "link": "https://www.swiftindepth.com/articles/uitests-easier",
             "updated": 1675821600,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/mobile_testing_challenges",
             "title": "Testing challenges in a mobile environment",
             "link": "https://www.swiftindepth.com/articles/mobile_testing_challenges",
             "updated": 1671685200,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/receiving-designs",
             "title": "Receiving designs as a developer",
             "link": "https://www.swiftindepth.com/articles/receiving-designs",
             "updated": 1670734800,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/async-await-modules",
             "title": "Supporting async/await as a module owner",
             "link": "https://www.swiftindepth.com/articles/async-await-modules",
             "updated": 1640062800,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-4",
             "title": "Let's make a music teacher, part 4: Project structure, local modules, and a chatbot",
             "link": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-4",
             "updated": 1639371600,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-3",
             "title": "Let's make a music teacher, part 3: Testing, Refactoring, and Flats",
             "link": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-3",
             "updated": 1638162000,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-2",
             "title": "Let's make a music teacher, part 2: Wishful thinking and Accidentals",
             "link": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-2",
             "updated": 1637902800,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-1",
             "title": "Let's make a music teacher, part I: Bootstrapping with ArgumentParser",
             "link": "https://www.swiftindepth.com/articles/lets-make-a-music-teacher-1",
             "updated": 1637298000,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/shift-left-testing-approaches",
             "title": "Shift-left testing approaches",
             "link": "https://www.swiftindepth.com/articles/shift-left-testing-approaches",
             "updated": 1636596000,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/avoiding-extension-hell",
             "title": "Avoiding extension-hell with opt-in extensions",
             "link": "https://www.swiftindepth.com/articles/avoiding-extension-hell",
             "updated": 1550377436,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/lets-stop-filtering-for-a-second",
             "title": "Let's stop filtering for a second",
             "link": "https://www.swiftindepth.com/articles/lets-stop-filtering-for-a-second",
             "updated": 1548549236,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/subtleties-of-protocol-extensions",
             "title": "The subtleties of protocol extensions",
             "link": "https://www.swiftindepth.com/articles/subtleties-of-protocol-extensions",
             "updated": 1547386436,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.swiftindepth.com/articles/reasoning-about-protocols",
             "title": "Reasoning about protocols",
             "link": "https://www.swiftindepth.com/articles/reasoning-about-protocols",
             "updated": 1546317836,
-            "site_url": "https://swiftindepth.com/"
+            "site_url": "https://swiftindepth.com/",
+            "slug": "development"
         }
     ]
 }

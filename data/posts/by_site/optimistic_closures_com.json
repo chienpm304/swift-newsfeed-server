@@ -6,35 +6,40 @@
             "title": "Keep Going",
             "link": "https://www.optimistic-closures.com/keep-going/",
             "updated": 1686730929,
-            "site_url": "https://www.optimistic-closures.com"
+            "site_url": "https://www.optimistic-closures.com",
+            "slug": "development"
         },
         {
             "id": "6481db052ce41f00011d32a8",
             "title": "The new ContentUnavailableView() in SwiftUI",
             "link": "https://www.optimistic-closures.com/the-new-contentunavailableview-swiftui/",
             "updated": 1686214231,
-            "site_url": "https://www.optimistic-closures.com"
+            "site_url": "https://www.optimistic-closures.com",
+            "slug": "development"
         },
         {
             "id": "647f662f2ce41f00011d310e",
             "title": "Adjusting Your App's Widgets to Use .containerBackground(for:)",
             "link": "https://www.optimistic-closures.com/adjusting-your-widgets-containerbackground/",
             "updated": 1686053484,
-            "site_url": "https://www.optimistic-closures.com"
+            "site_url": "https://www.optimistic-closures.com",
+            "slug": "development"
         },
         {
             "id": "647f48621d293a0001e8b37d",
             "title": "How to fix onChange(of:perform:) deprecation warnings in iOS 17",
             "link": "https://www.optimistic-closures.com/how-to-fix-onchange-of-perform-deprecated-in-ios-17-0-warnings/",
             "updated": 1686039243,
-            "site_url": "https://www.optimistic-closures.com"
+            "site_url": "https://www.optimistic-closures.com",
+            "slug": "development"
         },
         {
             "id": "647f4379e106c50009489146",
             "title": "Coming soon",
             "link": "https://www.optimistic-closures.com/coming-soon/",
             "updated": 1686036745,
-            "site_url": "https://www.optimistic-closures.com"
+            "site_url": "https://www.optimistic-closures.com",
+            "slug": "development"
         }
     ]
 }

@@ -6,21 +6,24 @@
             "title": "A Sidebar in SwiftUI without NavigationView",
             "link": "https://dev.to/imthath_m/a-sidebar-in-swiftui-without-navigationview-4h7j",
             "updated": 1604287449,
-            "site_url": "https://dev.to/imthath_m/"
+            "site_url": "https://dev.to/imthath_m/",
+            "slug": "development"
         },
         {
             "id": "https://dev.to/imthath_m/understanding-swiftui-modifiers-1jab",
             "title": "Understanding SwiftUI Modifiers",
             "link": "https://dev.to/imthath_m/understanding-swiftui-modifiers-1jab",
             "updated": 1603967279,
-            "site_url": "https://dev.to/imthath_m/"
+            "site_url": "https://dev.to/imthath_m/",
+            "slug": "development"
         },
         {
             "id": "https://dev.to/imthath_m/re-imagining-sf-symbols-into-xcode-2ol5",
             "title": "Re-Imagining SF Symbols Into\u00a0Xcode",
             "link": "https://dev.to/imthath_m/re-imagining-sf-symbols-into-xcode-2ol5",
             "updated": 1603967004,
-            "site_url": "https://dev.to/imthath_m/"
+            "site_url": "https://dev.to/imthath_m/",
+            "slug": "development"
         }
     ]
 }

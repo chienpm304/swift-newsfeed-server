@@ -6,21 +6,24 @@
             "title": "Introducing TwitterText Swift library",
             "link": "https://www.pawelmadej.com/post/introducing-twitter-text-swift-library/",
             "updated": 1600777800,
-            "site_url": "https://www.pawelmadej.com/"
+            "site_url": "https://www.pawelmadej.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.pawelmadej.com/post/code-conf-the-long-journey/",
             "title": "Code Conf - The long journey",
             "link": "https://www.pawelmadej.com/post/code-conf-the-long-journey/",
             "updated": 1594695600,
-            "site_url": "https://www.pawelmadej.com/"
+            "site_url": "https://www.pawelmadej.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.pawelmadej.com/post/mlrecommender-in-practice/",
             "title": "MLRecommender in practice",
             "link": "https://www.pawelmadej.com/post/mlrecommender-in-practice/",
             "updated": 1594198800,
-            "site_url": "https://www.pawelmadej.com/"
+            "site_url": "https://www.pawelmadej.com/",
+            "slug": "development"
         }
     ]
 }

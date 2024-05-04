@@ -6,735 +6,840 @@
             "title": "\"Modern Concurrency on Apple Platforms\" Book Now Available",
             "link": "https://www.andyibanez.com/posts/modern-concurrency-apple-platforms-now-available/",
             "updated": 1669293981,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/ten-years-and-over-100-articles-later/",
             "title": "Ten Years and Over a 100 Articles Later - And Break Notice",
             "link": "https://www.andyibanez.com/posts/ten-years-and-over-100-articles-later/",
             "updated": 1634083200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/the-mysterious-codablewithconfiguration-protocol/",
             "title": "The Mysterious CodableWithConfiguration Protocol",
             "link": "https://www.andyibanez.com/posts/the-mysterious-codablewithconfiguration-protocol/",
             "updated": 1632873600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/modern-swift-concurrency-summary-cheatsheet-thanks/",
             "title": "Modern Swift Concurrency Summary, Cheatsheet, and Thanks",
             "link": "https://www.andyibanez.com/posts/modern-swift-concurrency-summary-cheatsheet-thanks/",
             "updated": 1631059200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-asyncsequence-in-swift/",
             "title": "Using AsyncSequence in Swift",
             "link": "https://www.andyibanez.com/posts/using-asyncsequence-in-swift/",
             "updated": 1630454400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/sharing-data-across-tasks-tasklocal-new-swift-concurrency-model/",
             "title": "Sharing Data Across Tasks with the @TaskLocal property wrapper in the new Swift Concurrency Model",
             "link": "https://www.andyibanez.com/posts/sharing-data-across-tasks-tasklocal-new-swift-concurrency-model/",
             "updated": 1629244800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/mainactor-and-global-actors-in-swift/",
             "title": "@MainActor and Global Actors in Swift",
             "link": "https://www.andyibanez.com/posts/mainactor-and-global-actors-in-swift/",
             "updated": 1628640000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-actors-in-the-new-concurrency-model-in-swift/",
             "title": "Understanding Actors in the New Concurrency Model in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-actors-in-the-new-concurrency-model-in-swift/",
             "updated": 1628035200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/unstructured-concurrency-with-detached-tasks-in-swift/",
             "title": "Unstructured Concurrency With Detached Tasks in Swift",
             "link": "https://www.andyibanez.com/posts/unstructured-concurrency-with-detached-tasks-in-swift/",
             "updated": 1627430400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/introduction-to-unstructured-concurrency-in-swift/",
             "title": "Introduction to Unstructured Concurrency in Swift",
             "link": "https://www.andyibanez.com/posts/introduction-to-unstructured-concurrency-in-swift/",
             "updated": 1626220800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/structured-concurrency-with-group-tasks-in-swift/",
             "title": "Structured Concurrency With Task Groups in Swift",
             "link": "https://www.andyibanez.com/posts/structured-concurrency-with-group-tasks-in-swift/",
             "updated": 1625616000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/structured-concurrency-in-swift-using-async-let/",
             "title": "Structured Concurrency in Swift: Using async let",
             "link": "https://www.andyibanez.com/posts/structured-concurrency-in-swift-using-async-let/",
             "updated": 1625011200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/converting-closure-based-code-into-async-await-in-swift/",
             "title": "Converting closure-based code into async/await in Swift",
             "link": "https://www.andyibanez.com/posts/converting-closure-based-code-into-async-await-in-swift/",
             "updated": 1624406400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-async-await-in-swift/",
             "title": "Understanding async/await in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-async-await-in-swift/",
             "updated": 1623801660,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/",
             "title": "Modern Concurrency in Swift: Introduction",
             "link": "https://www.andyibanez.com/posts/modern-concurrency-in-swift-introduction/",
             "updated": 1623801600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/strategies-asking-users-rate-your-app/",
             "title": "Strategies For Asking Users to Rate Your App",
             "link": "https://www.andyibanez.com/posts/strategies-asking-users-rate-your-app/",
             "updated": 1622592000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/my-wwdc-2021-wishlist/",
             "title": "My WWDC 2021 Wishlist",
             "link": "https://www.andyibanez.com/posts/my-wwdc-2021-wishlist/",
             "updated": 1621987207,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/quick-tip-notifying-users-app-updates-for-free/",
             "title": "Quick Tip: Notifying Users of App Updates - For Free",
             "link": "https://www.andyibanez.com/posts/quick-tip-notifying-users-app-updates-for-free/",
             "updated": 1621382400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/integrating-face-id-touch-id-swiftui/",
             "title": "Integrating FaceID/TouchID with SwiftUI",
             "link": "https://www.andyibanez.com/posts/integrating-face-id-touch-id-swiftui/",
             "updated": 1620777600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/the-nsdateinterval-object/",
             "title": "The NSDateInterval Object",
             "link": "https://www.andyibanez.com/posts/the-nsdateinterval-object/",
             "updated": 1620172800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/swift-print-in-depth/",
             "title": "Swift's print in Depth",
             "link": "https://www.andyibanez.com/posts/swift-print-in-depth/",
             "updated": 1619568000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/raw-strings-swift/",
             "title": "Raw Strings in Swift",
             "link": "https://www.andyibanez.com/posts/raw-strings-swift/",
             "updated": 1618963200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/javascriptcore-and-swift/",
             "title": "JavaScriptCore and Swift",
             "link": "https://www.andyibanez.com/posts/javascriptcore-and-swift/",
             "updated": 1618358400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/xcode-new-file-templates/",
             "title": "Xcode New File Templates",
             "link": "https://www.andyibanez.com/posts/xcode-new-file-templates/",
             "updated": 1617753600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-nsmeasurement-for-working-with-dimensions-and-units/",
             "title": "Using NSMeasurement For Working with Dimensions and Units",
             "link": "https://www.andyibanez.com/posts/using-nsmeasurement-for-working-with-dimensions-and-units/",
             "updated": 1616544000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-corelocation-with-swiftui/",
             "title": "Using CoreLocation With SwiftUI",
             "link": "https://www.andyibanez.com/posts/using-corelocation-with-swiftui/",
             "updated": 1615939200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/",
             "title": "Getting to Know the Simulator Better",
             "link": "https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/",
             "updated": 1615334400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/what-i-learned-from-selling-an-app/",
             "title": "What I Learned From Selling an App",
             "link": "https://www.andyibanez.com/posts/what-i-learned-from-selling-an-app/",
             "updated": 1614729600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/multithreading-options-on-apple-platforms/",
             "title": "Multithreading Options on Apple Platforms",
             "link": "https://www.andyibanez.com/posts/multithreading-options-on-apple-platforms/",
             "updated": 1614124800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/optionset-in-swift/",
             "title": "OptionSet in Swift",
             "link": "https://www.andyibanez.com/posts/optionset-in-swift/",
             "updated": 1613521800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/intercepting-ios-network-request-calls-proxyman/",
             "title": "Intercepting iOS Network Request Calls with Proxyman",
             "link": "https://www.andyibanez.com/posts/intercepting-ios-network-request-calls-proxyman/",
             "updated": 1612915200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/nil-null-mess-objective-c-and-swift/",
             "title": "nil-null-mess in Objective-C and Swift",
             "link": "https://www.andyibanez.com/posts/nil-null-mess-objective-c-and-swift/",
             "updated": 1612310400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-basic-data-structures-dictionaries-in-depth/",
             "title": "Understanding Basic Data Structures in Swift: Dictionaries in Depth",
             "link": "https://www.andyibanez.com/posts/understanding-basic-data-structures-dictionaries-in-depth/",
             "updated": 1611705600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-basic-data-structures-swift-sets/",
             "title": "Understanding Basic Data Structures in Swift: Sets",
             "link": "https://www.andyibanez.com/posts/understanding-basic-data-structures-swift-sets/",
             "updated": 1611100800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/being-ios-developer-bolivia/",
             "title": "Being an iOS Developer in Bolivia (and South America)",
             "link": "https://www.andyibanez.com/posts/being-ios-developer-bolivia/",
             "updated": 1610496000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/happy-2021-short-break-notice/",
             "title": "Happy 2021! And Short Break Notice",
             "link": "https://www.andyibanez.com/posts/happy-2021-short-break-notice/",
             "updated": 1608454386,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/expressibleby-protocols-swift/",
             "title": "The \"ExpressibleBy-\" Protocols in Swift",
             "link": "https://www.andyibanez.com/posts/expressibleby-protocols-swift/",
             "updated": 1608076800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/getting-started-app-store-connect-api/",
             "title": "Getting Started with the App Store Connect API",
             "link": "https://www.andyibanez.com/posts/getting-started-app-store-connect-api/",
             "updated": 1607472000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-limited-photo-library-ios-14/",
             "title": "Understanding the Limited Photo Library in iOS 14",
             "link": "https://www.andyibanez.com/posts/understanding-limited-photo-library-ios-14/",
             "updated": 1606867200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/lazy-sequences-in-swift/",
             "title": "Lazy Sequences in Swift",
             "link": "https://www.andyibanez.com/posts/lazy-sequences-in-swift/",
             "updated": 1606262400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/quick-tip-custom-debug-printing-customdebugstringconvertible-swift/",
             "title": "Quick Tip: Custom Debug Printing with CustomDebugStringConvertible in Swift",
             "link": "https://www.andyibanez.com/posts/quick-tip-custom-debug-printing-customdebugstringconvertible-swift/",
             "updated": 1605430739,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-keypaths-swift/",
             "title": "Understanding KeyPaths in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-keypaths-swift/",
             "updated": 1605052800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/quick-tip-hosting-json-files-github-for-free/",
             "title": "Quick Tip: Hosting JSON Files on Github for Free",
             "link": "https://www.andyibanez.com/posts/quick-tip-hosting-json-files-github-for-free/",
             "updated": 1604448000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/parsing-tricky-json-codable-swift/",
             "title": "Parsing Tricky JSON With Codable in Swift",
             "link": "https://www.andyibanez.com/posts/parsing-tricky-json-codable-swift/",
             "updated": 1603843200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/a-more-practical-custom-formatter/",
             "title": "A More Practical Custom Formatter",
             "link": "https://www.andyibanez.com/posts/a-more-practical-custom-formatter/",
             "updated": 1603238400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-custom-nsformatters-swift/",
             "title": "Writing Custom NSFormatters in Swift",
             "link": "https://www.andyibanez.com/posts/writing-custom-nsformatters-swift/",
             "updated": 1602633600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/benchmarking-app-metrickit/",
             "title": "Benchmarking Your App with MetricKit",
             "link": "https://www.andyibanez.com/posts/benchmarking-app-metrickit/",
             "updated": 1602028800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/formatting-notes-and-gotchas/",
             "title": "Formatting Notes and Gotchas",
             "link": "https://www.andyibanez.com/posts/formatting-notes-and-gotchas/",
             "updated": 1601424000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/a-short-guide-localization-apple-platforms/",
             "title": "A Short Guide to Localization on Apple Platforms",
             "link": "https://www.andyibanez.com/posts/a-short-guide-localization-apple-platforms/",
             "updated": 1600819200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/wwdc2020-whats-new-cryptokit/",
             "title": "WWDC2020: What's new in CryptoKit",
             "link": "https://www.andyibanez.com/posts/wwdc2020-whats-new-cryptokit/",
             "updated": 1600041600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/logging-messages-unified-logging-system-apple-platforms/",
             "title": "Logging Messages With the Unified Logging System on Apple Platforms",
             "link": "https://www.andyibanez.com/posts/logging-messages-unified-logging-system-apple-platforms/",
             "updated": 1599609600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-aswebauthenticationaession-swiftui/",
             "title": "Using ASWebAuthenticationSession with SwiftUI",
             "link": "https://www.andyibanez.com/posts/using-aswebauthenticationaession-swiftui/",
             "updated": 1599004800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/introduction-apples-unified-logging-system-ios14-swift/",
             "title": "Introduction to Apple's Unified Logging System on iOS 14 in Swift",
             "link": "https://www.andyibanez.com/posts/introduction-apples-unified-logging-system-ios14-swift/",
             "updated": 1598400000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/simpler-file-encryption-ios/",
             "title": "Simpler File Encryption on iOS",
             "link": "https://www.andyibanez.com/posts/simpler-file-encryption-ios/",
             "updated": 1597795200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/file-download-queue-combine/",
             "title": "A File Download Queue in Combine for Swift",
             "link": "https://www.andyibanez.com/posts/file-download-queue-combine/",
             "updated": 1597190400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/common-reasons-background-tasks-fail-ios/",
             "title": "Common Reasons for Background Tasks to Fail in iOS",
             "link": "https://www.andyibanez.com/posts/common-reasons-background-tasks-fail-ios/",
             "updated": 1596585600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/custom-views-modifiers-xcode-library-swiftui/",
             "title": "Adding Custom SwiftUI Views and Modifiers to the Xcode Library",
             "link": "https://www.andyibanez.com/posts/custom-views-modifiers-xcode-library-swiftui/",
             "updated": 1595980800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/wrapping-asynchronous-apis-into-combine-futures/",
             "title": "Wrapping Asynchronous APIs into Combine Futures",
             "link": "https://www.andyibanez.com/posts/wrapping-asynchronous-apis-into-combine-futures/",
             "updated": 1595376000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/sharing-data-apple-devices-multipeerconnectivity-framework/",
             "title": "Sharing Data Across Apple Devices with the MultipeerConnectivity Framework",
             "link": "https://www.andyibanez.com/posts/sharing-data-apple-devices-multipeerconnectivity-framework/",
             "updated": 1594771200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/new-uidatepicker-ios14/",
             "title": "New UIDatePicker in iOS 14",
             "link": "https://www.andyibanez.com/posts/new-uidatepicker-ios14/",
             "updated": 1594166400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/uimenu-improvements-ios14/",
             "title": "UIMenu Improvements in iOS 14",
             "link": "https://www.andyibanez.com/posts/uimenu-improvements-ios14/",
             "updated": 1592986327,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/",
             "title": "The secret entitlements behind Default Apps on iOS",
             "link": "https://www.andyibanez.com/posts/default-apps-may-not-be-possible-all-devs/",
             "updated": 1592926951,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/error-protocol-specializations-swift/",
             "title": "Error Protocol Specializations in Swift",
             "link": "https://www.andyibanez.com/posts/error-protocol-specializations-swift/",
             "updated": 1592492400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/scanning-and-text-recognition-with-visionkit/",
             "title": "Document Scanning and Text Recognition With Vision and VisionKit on iOS",
             "link": "https://www.andyibanez.com/posts/scanning-and-text-recognition-with-visionkit/",
             "updated": 1591747200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/ios-keychain-touch-id-face-id/",
             "title": "Using the iOS Keychain with Biometrics",
             "link": "https://www.andyibanez.com/posts/ios-keychain-touch-id-face-id/",
             "updated": 1591142400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-ios-keychain-swift/",
             "title": "Using the iOS Keychain in Swift",
             "link": "https://www.andyibanez.com/posts/using-ios-keychain-swift/",
             "updated": 1590537600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/content-blockers-in-ios/",
             "title": "Writing Content Blockers for iOS",
             "link": "https://www.andyibanez.com/posts/content-blockers-in-ios/",
             "updated": 1589932800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/dependency-injection-storyboards/",
             "title": "Dependency Injection with Storyboards on Apple Platforms",
             "link": "https://www.andyibanez.com/posts/dependency-injection-storyboards/",
             "updated": 1589328000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/quick-introduction-reflection-swift/",
             "title": "Quick Introduction Reflection in Swift",
             "link": "https://www.andyibanez.com/posts/quick-introduction-reflection-swift/",
             "updated": 1588778686,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-dynamicmemberlookup-dynamiccallable-swift/",
             "title": "Understanding @dynamicMemberLookup and @dynamicCallable in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-dynamicmemberlookup-dynamiccallable-swift/",
             "updated": 1587923462,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part6/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 6: Releasing And Installing Our Command Line Tool",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part6/",
             "updated": 1587513600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part5/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 5: Tools with Asynchronous APIs",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part5/",
             "updated": 1586908800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part4/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 4: Customizing Help",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part4/",
             "updated": 1586304000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part3/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 3: Subcommands",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part3/",
             "updated": 1585699200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part2/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 2: Validation & Errors",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part2/",
             "updated": 1585094400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part1/",
             "title": "Writing Command Line Tools in Swift Using ArgumentParser, Part 1: Introduction & Basic Usage",
             "link": "https://www.andyibanez.com/posts/writing-commandline-tools-argumentparser-part1/",
             "updated": 1584489600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-function-builders/",
             "title": "Understanding Function Builders in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-function-builders/",
             "updated": 1583884800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/using-nlembeddings/",
             "title": "Finding Related Words with NLEmbedding",
             "link": "https://www.andyibanez.com/posts/using-nlembeddings/",
             "updated": 1583280000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/analyzing-text-nltagger/",
             "title": "Analyzing Natural Language Text with NLTagger",
             "link": "https://www.andyibanez.com/posts/analyzing-text-nltagger/",
             "updated": 1582675200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/recognizing-language-nllanguagerecognizer/",
             "title": "Recognizing the language in a Natural Language Text with NLanguageRecognizer",
             "link": "https://www.andyibanez.com/posts/recognizing-language-nllanguagerecognizer/",
             "updated": 1582070400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/tokenizing-nltokenizer/",
             "title": "Tokenizing Natural Language into Semantic Units in iOS",
             "link": "https://www.andyibanez.com/posts/tokenizing-nltokenizer/",
             "updated": 1581465600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/matching-nl-nsdatadetector/",
             "title": "Matching Natural Language Text for Predefined Data Patterns on Apple's Devices",
             "link": "https://www.andyibanez.com/posts/matching-nl-nsdatadetector/",
             "updated": 1580860800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/",
             "title": "Recognizing Speech Locally on an iOS Device Using the Speech Framework",
             "link": "https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/",
             "updated": 1580256000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/haptics-with-uinotificationfeedbackgenerator/",
             "title": "Generating Feedback Haptics with UINotificationFeedbackGenerator",
             "link": "https://www.andyibanez.com/posts/haptics-with-uinotificationfeedbackgenerator/",
             "updated": 1579651200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/cryptokit-secure-enclave/",
             "title": "CryptoKit and the Secure Enclave",
             "link": "https://www.andyibanez.com/posts/cryptokit-secure-enclave/",
             "updated": 1579046400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/parametrized-shortcuts/",
             "title": "Implementing Parametrizable Shortcut Actions for your iOS Apps",
             "link": "https://www.andyibanez.com/posts/parametrized-shortcuts/",
             "updated": 1578441600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/modern-background-tasks-ios13/",
             "title": "Modern Backgrounds Tasks in iOS 13",
             "link": "https://www.andyibanez.com/posts/modern-background-tasks-ios13/",
             "updated": 1577232000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/background-execution-in-ios/",
             "title": "Background Execution on iOS",
             "link": "https://www.andyibanez.com/posts/background-execution-in-ios/",
             "updated": 1576627200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/formatting-relative-dates-relativedatetimeformatter/",
             "title": "Formatting Relative Dates With RelativeDateTimeFormatter",
             "link": "https://www.andyibanez.com/posts/formatting-relative-dates-relativedatetimeformatter/",
             "updated": 1576022400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/nsuserdefaults-property-wrappers/",
             "title": "UserDefaults and Property Wrappers",
             "link": "https://www.andyibanez.com/posts/nsuserdefaults-property-wrappers/",
             "updated": 1575417600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/understanding-property-wrappers-swift/",
             "title": "Understanding Property Wrappers in Swift",
             "link": "https://www.andyibanez.com/posts/understanding-property-wrappers-swift/",
             "updated": 1574812800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/intercepting-network-mitmproxy/",
             "title": "Intercepting Network Traffic with mitmproxy",
             "link": "https://www.andyibanez.com/posts/intercepting-network-mitmproxy/",
             "updated": 1574208000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/ios13-new-search-apis/",
             "title": "New Search APIs in iOS 13",
             "link": "https://www.andyibanez.com/posts/ios13-new-search-apis/",
             "updated": 1573603200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/cryptokit-not-enough/",
             "title": "When CryptoKit is not Enough",
             "link": "https://www.andyibanez.com/posts/cryptokit-not-enough/",
             "updated": 1572998400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/pattern-matching/",
             "title": "Introduction to Patterns and Pattern Matching in Swift.",
             "link": "https://www.andyibanez.com/posts/pattern-matching/",
             "updated": 1572393600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/nsnotificationcenter/",
             "title": "Understanding and Implementing NSNotificationCenter on Apple's Platforms",
             "link": "https://www.andyibanez.com/posts/nsnotificationcenter/",
             "updated": 1571788800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/filtering-arrays-nspredicate/",
             "title": "Filtering Arrays with Predicates",
             "link": "https://www.andyibanez.com/posts/filtering-arrays-nspredicate/",
             "updated": 1571184000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/common-cryptographic-operations-with-cryptokit/",
             "title": "Common Cryptographic Operations With CryptoKit",
             "link": "https://www.andyibanez.com/posts/common-cryptographic-operations-with-cryptokit/",
             "updated": 1570579200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/playing-custom-haptics-on-ios/",
             "title": "Playing Custom Haptics on iOS",
             "link": "https://www.andyibanez.com/posts/playing-custom-haptics-on-ios/",
             "updated": 1569974400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/nsformatter/",
             "title": "Formatting Content with NSFormatter",
             "link": "https://www.andyibanez.com/posts/nsformatter/",
             "updated": 1569369600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/ipad-multiwindow-support/",
             "title": "Understanding the Essentials for Adopting Multiwindow Support on iPadOS",
             "link": "https://www.andyibanez.com/posts/ipad-multiwindow-support/",
             "updated": 1568764800,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/swift-result-type/",
             "title": "Understanding the Result Type in Swift",
             "link": "https://www.andyibanez.com/posts/swift-result-type/",
             "updated": 1568160000,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/building-urls-with-nsurlcomponents/",
             "title": "Building URLs With NSURLComponents",
             "link": "https://www.andyibanez.com/posts/building-urls-with-nsurlcomponents/",
             "updated": 1567555200,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/caching-content-with-nscache/",
             "title": "Caching Content With NSCache",
             "link": "https://www.andyibanez.com/posts/caching-content-with-nscache/",
             "updated": 1566950400,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         },
         {
             "id": "https://www.andyibanez.com/posts/exploring-the-nsoperation-apis/",
             "title": "Exploring the NSOperation APIs for Apple's Platforms",
             "link": "https://www.andyibanez.com/posts/exploring-the-nsoperation-apis/",
             "updated": 1566345600,
-            "site_url": "https://www.andyibanez.com/tags/apple/"
+            "site_url": "https://www.andyibanez.com/tags/apple/",
+            "slug": "development"
         }
     ]
 }

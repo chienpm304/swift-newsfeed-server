@@ -6,497 +6,568 @@
             "title": "Keep Two Thoughts Podcast 57 - Competing Errors",
             "link": "https://dimsumthinking.com/Podcast/2024/057CompetingErrors.html",
             "updated": 1714147200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/GRwvjmiebNg",
             "title": "Video 49 - Add, Delete, Modify - Swift Data Part 9",
             "link": "https://youtu.be/GRwvjmiebNg",
             "updated": 1714060800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/120279ae6ee1/213-joy",
             "title": "Newsletter 213 - Joy",
             "link": "https://mailchi.mp/120279ae6ee1/213-joy",
             "updated": 1713888000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/056Connect.html",
             "title": "Keep Two Thoughts Podcast 56 - Connect",
             "link": "https://dimsumthinking.com/Podcast/2024/056Connect.html",
             "updated": 1713542400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/cb636115cfba/212-rally",
             "title": "Newsletter 212 - Rally",
             "link": "https://mailchi.mp/cb636115cfba/212-rally",
             "updated": 1713283200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://editorscut.gumroad.com/l/macros",
             "title": "Macros Beta3",
             "link": "https://editorscut.gumroad.com/l/macros",
             "updated": 1712937600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/055Sound.html",
             "title": "Keep Two Thoughts Podcast 55 - Sound",
             "link": "https://dimsumthinking.com/Podcast/2024/055Sound.html",
             "updated": 1712934000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/d7af7a91aeea/211-total",
             "title": "Newsletter 211 - Total",
             "link": "https://mailchi.mp/d7af7a91aeea/211-total",
             "updated": 1712674800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://editorscut.com/Blog/2024/04/05-MacrosBeta.html",
             "title": "Macros Beta",
             "link": "https://editorscut.com/Blog/2024/04/05-MacrosBeta.html",
             "updated": 1712329200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/054OneDown.html",
             "title": "Keep Two Thoughts Podcast 54 - One Down",
             "link": "https://dimsumthinking.com/Podcast/2024/054OneDown.html",
             "updated": 1712325600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/3tKVguVu8a4",
             "title": "Video 48 - @Query - Swift Data Part 8",
             "link": "https://youtu.be/3tKVguVu8a4",
             "updated": 1712239200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/7e6bc1b11459/210-permanence",
             "title": "Newsletter 210 - Permanence",
             "link": "https://mailchi.mp/7e6bc1b11459/210-permanence",
             "updated": 1712066400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/053Moments.html",
             "title": "Keep Two Thoughts Podcast 53 - Moments",
             "link": "https://dimsumthinking.com/Podcast/2024/053Moments.html",
             "updated": 1711720800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/4dac9b0c699d/209-streaks",
             "title": "Newsletter 209 - Streaks",
             "link": "https://mailchi.mp/4dac9b0c699d/209-streaks",
             "updated": 1711461600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/05215.html",
             "title": "Newsletter 208 - Done",
             "link": "https://dimsumthinking.com/Podcast/2024/05215.html",
             "updated": 1711116000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/26df67ee4bef/208-done",
             "title": "Newsletter 208 - Done",
             "link": "https://mailchi.mp/26df67ee4bef/208-done",
             "updated": 1710856800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/051AndEver.html",
             "title": "Keep Two Thoughts Podcast 51 - And Ever<",
             "link": "https://dimsumthinking.com/Podcast/2024/051AndEver.html",
             "updated": 1710511200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://appdevcon.nl/session/closing-keynote-its-about-time/",
             "title": "Video 47 - It's about Time - AppDevCon Closing Keynote 2017<",
             "link": "https://appdevcon.nl/session/closing-keynote-its-about-time/",
             "updated": 1710424800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/7fab042e02b4/207-stretching",
             "title": "Newsletter 207 - Stretching",
             "link": "https://mailchi.mp/7fab042e02b4/207-stretching",
             "updated": 1710252000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/050History.html",
             "title": "Keep Two Thoughts Podcast 50 - History",
             "link": "https://dimsumthinking.com/Podcast/2024/050History.html",
             "updated": 1709906400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/064c11ab8d04/206-almost",
             "title": "Newsletter 206 - Almost",
             "link": "https://mailchi.mp/064c11ab8d04/206-almost",
             "updated": 1709647200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/049Drawing.html",
             "title": "Keep Two Thoughts Podcast 49 - Drawing",
             "link": "https://dimsumthinking.com/Podcast/2024/049Drawing.html",
             "updated": 1709301600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/FoYddeH_xyg",
             "title": "Video 46 - The Preview Container  - SwiftData Part 7",
             "link": "https://youtu.be/FoYddeH_xyg",
             "updated": 1709215200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/92569dbda08f/205-creatures",
             "title": "Newsletter 205 - Creatures",
             "link": "https://mailchi.mp/92569dbda08f/205-creatures",
             "updated": 1709042400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/048Science.html",
             "title": "Keep Two Thoughts Podcast 48 - Science",
             "link": "https://dimsumthinking.com/Podcast/2024/048Science.html",
             "updated": 1708696800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://editorscut.com/Blog/2024/02/22-SomethingOldSomethingNew.html",
             "title": "Something old, something new",
             "link": "https://editorscut.com/Blog/2024/02/22-SomethingOldSomethingNew.html",
             "updated": 1708610400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/28b0b5094b53/204-keep-on",
             "title": "Newsletter 204 - Keep on",
             "link": "https://mailchi.mp/28b0b5094b53/204-keep-on",
             "updated": 1708437600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/047After.html",
             "title": "Keep Two Thoughts Podcast 47 - After",
             "link": "https://dimsumthinking.com/Podcast/2024/047After.html",
             "updated": 1708092000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/5alTsowuSgw",
             "title": "Video 45 - The @Model Macro and More  - SwiftData Part 6",
             "link": "https://youtu.be/5alTsowuSgw",
             "updated": 1708005600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/7363ce9d11b3/203-vision",
             "title": "Newsletter 203 - Vision",
             "link": "https://mailchi.mp/7363ce9d11b3/203-vision",
             "updated": 1707832800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/046CanOpener.html",
             "title": "Keep Two Thoughts Podcast 46 - Can Opener",
             "link": "https://dimsumthinking.com/Podcast/2024/046CanOpener.html",
             "updated": 1707487200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://editorscut.com/Blog/2024/02/06-MysteryBeta.html",
             "title": "Mystery Beta",
             "link": "https://editorscut.com/Blog/2024/02/06-MysteryBeta.html",
             "updated": 1707228000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/43b9412d773a/202-natural-conversation",
             "title": "Newsletter 202 - Natural Conversation",
             "link": "https://mailchi.mp/43b9412d773a/202-natural-conversation",
             "updated": 1707224400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/045FlipFlop.html",
             "title": "Keep Two Thoughts Podcast 45 - Flip Flop",
             "link": "https://dimsumthinking.com/Podcast/2024/045FlipFlop.html",
             "updated": 1706878800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/Kmd8jyJdWJs",
             "title": "Video 44 - The Model Classes  - SwiftData Part 5",
             "link": "https://youtu.be/Kmd8jyJdWJs",
             "updated": 1706792400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/0048a1075921/201-ros",
             "title": "Newsletter 201 - ROS",
             "link": "https://mailchi.mp/0048a1075921/201-ros",
             "updated": 1706619600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/044TheEndOf2020.html",
             "title": "Keep Two Thoughts Podcast 44 - The End of 2020",
             "link": "https://dimsumthinking.com/Podcast/2024/044TheEndOf2020.html",
             "updated": 1706274000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/IPiSNgu8V5w",
             "title": "Video 43 - Custom Code  - SwiftData Part 4",
             "link": "https://youtu.be/IPiSNgu8V5w",
             "updated": 1706187600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/1e9e3b198e84/200-avails",
             "title": "Newsletter 200 - Avails",
             "link": "https://mailchi.mp/1e9e3b198e84/200-avails",
             "updated": 1706014800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/043Ours.html",
             "title": "Keep Two Thoughts Podcast 43 - Ours",
             "link": "https://dimsumthinking.com/Podcast/2024/043Ours.html",
             "updated": 1705669200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/MyeobrzKUfM",
             "title": "Video 42 - Core Data  - SwiftData Part 3",
             "link": "https://youtu.be/MyeobrzKUfM",
             "updated": 1705582800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/a48204b06a79/199-seasons-change",
             "title": "Newsletter 199 - Seasons change",
             "link": "https://mailchi.mp/a48204b06a79/199-seasons-change",
             "updated": 1705410000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/042Shipping.html",
             "title": "Keep Two Thoughts Podcast 42 - Shipping",
             "link": "https://dimsumthinking.com/Podcast/2024/042Shipping.html",
             "updated": 1705064400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/z_Wxr0sx_rY",
             "title": "Video 41 - The Seed  - SwiftData Part 2",
             "link": "https://youtu.be/z_Wxr0sx_rY",
             "updated": 1704978000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/bb6ac8476d45/198-words",
             "title": "Newsletter 198 - Words",
             "link": "https://mailchi.mp/bb6ac8476d45/198-words",
             "updated": 1704805200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2024/041FixAll.html",
             "title": "Keep Two Thoughts Podcast 41 - Fix All",
             "link": "https://dimsumthinking.com/Podcast/2024/041FixAll.html",
             "updated": 1704459600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/CGJfCDwmmVw",
             "title": "Video 40 - The Notion  - SwiftData Part 1",
             "link": "https://youtu.be/CGJfCDwmmVw",
             "updated": 1704373200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/7c378fa7ceb9/197-reconcile",
             "title": "Newsletter 197 - Reconcile",
             "link": "https://mailchi.mp/7c378fa7ceb9/197-reconcile",
             "updated": 1704200400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/040Intent.html",
             "title": "Keep Two Thoughts Podcast 40 - Intent",
             "link": "https://dimsumthinking.com/Podcast/2023/040Intent.html",
             "updated": 1703854800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/JjcOuO23Jp0",
             "title": "Video 39 - More Continuity  - Calculus Explorations Part 7",
             "link": "https://youtu.be/JjcOuO23Jp0",
             "updated": 1703768400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/c179b2dc5ef8/196-progress",
             "title": "Newsletter 196 - Progress",
             "link": "https://mailchi.mp/c179b2dc5ef8/196-progress",
             "updated": 1703595600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/039Thankful.html",
             "title": "Keep Two Thoughts Podcast 39 - Thankful",
             "link": "https://dimsumthinking.com/Podcast/2023/039Thankful.html",
             "updated": 1703250000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/--QedTVXC6Q",
             "title": "Video 38 - Continuity  - Calculus Explorations Part 6",
             "link": "https://youtu.be/--QedTVXC6Q",
             "updated": 1703163600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/c9f92c08ea60/195-night",
             "title": "Newsletter 195 - Night",
             "link": "https://mailchi.mp/c9f92c08ea60/195-night",
             "updated": 1702990800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/038Circles.html",
             "title": ">Keep Two Thoughts Podcast 38 - Circles",
             "link": "https://dimsumthinking.com/Podcast/2023/038Circles.html",
             "updated": 1702645200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/dO8f9iW4zVw",
             "title": "Video 37 - More Limits  - Calculus Explorations Part 5",
             "link": "https://youtu.be/dO8f9iW4zVw",
             "updated": 1702558800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/f0551a02b252/194-candles",
             "title": "Newsletter 194 - Candles",
             "link": "https://mailchi.mp/f0551a02b252/194-candles",
             "updated": 1702386000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/037OneMoreThing.html",
             "title": "Keep Two Thoughts Podcast 37 - One more thing",
             "link": "https://dimsumthinking.com/Podcast/2023/037OneMoreThing.html",
             "updated": 1702040400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/8p-zO4ClpLE",
             "title": "Video 36 - Limits - Calculus Explorations Part 4",
             "link": "https://youtu.be/8p-zO4ClpLE",
             "updated": 1701954000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/004a9d762383/193-starting-again",
             "title": "Newsletter 193 - Starting again",
             "link": "https://mailchi.mp/004a9d762383/193-starting-again",
             "updated": 1701781200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/036ElectionDay.html",
             "title": "Keep Two Thoughts Podcast 36 - Election Day",
             "link": "https://dimsumthinking.com/Podcast/2023/036ElectionDay.html",
             "updated": 1701435600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/OfhPa31SNPw",
             "title": "Video 35 - The Area of a Circle - Calculus Explorations Part 3",
             "link": "https://youtu.be/OfhPa31SNPw",
             "updated": 1701349200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/a5fedda8a489/192-sales",
             "title": "Newsletter 192 - Sales",
             "link": "https://mailchi.mp/a5fedda8a489/192-sales",
             "updated": 1701176400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/035ThatOne.html",
             "title": "Keep Two Thoughts Podcast 35 - That One",
             "link": "https://dimsumthinking.com/Podcast/2023/035ThatOne.html",
             "updated": 1700830800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://youtu.be/w4HzukOZa3g",
             "title": "Video 34 - Starting with Zeno - Calculus Explorations Part 2",
             "link": "https://youtu.be/w4HzukOZa3g",
             "updated": 1700744400,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/0625e26aa3dc/191-the-test",
             "title": "Newsletter 191 - The Test",
             "link": "https://mailchi.mp/0625e26aa3dc/191-the-test",
             "updated": 1700571600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/034Vote.html",
             "title": "Keep Two Thoughts Podcast 34 - Vote",
             "link": "https://dimsumthinking.com/Podcast/2023/034Vote.html",
             "updated": 1700226000,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://www.youtube.com/watch?v=t4VtBcbIFms&list;=PLlc_rDuPW0Y2EoXJOsa3FALHMbjzz-vsh&index;=6\"",
             "title": "Video 33 - Data Flow in SwiftUI - From PragmaMark 2023",
             "link": "https://www.youtube.com/watch?v=t4VtBcbIFms&list=PLlc_rDuPW0Y2EoXJOsa3FALHMbjzz-vsh&index=6",
             "updated": 1700139600,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://mailchi.mp/342c7c39b00e/190-fairness",
             "title": "Newsletter 190 - Fairness",
             "link": "https://mailchi.mp/342c7c39b00e/190-fairness",
             "updated": 1699966800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://dimsumthinking.com/Podcast/2023/033Patience.html",
             "title": "Keep Two Thoughts Podcast 33 - Patience",
             "link": "https://dimsumthinking.com/Podcast/2023/033Patience.html",
             "updated": 1699621200,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         },
         {
             "id": "https://www.youtube.com/watch?v=zYUt8O-u9Sg&list;=PLlc_rDuPW0Y2EoXJOsa3FALHMbjzz-vsh&index;=5&t;=81s",
             "title": "Video 32 - Floating down an AsyncStream - From Swift Connection 2023",
             "link": "https://www.youtube.com/watch?v=zYUt8O-u9Sg&list=PLlc_rDuPW0Y2EoXJOsa3FALHMbjzz-vsh&index=5&t=81s",
             "updated": 1699534800,
-            "site_url": "https://dimsumthinking.com"
+            "site_url": "https://dimsumthinking.com",
+            "slug": "development"
         }
     ]
 }

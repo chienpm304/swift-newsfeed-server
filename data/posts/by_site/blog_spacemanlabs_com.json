@@ -6,70 +6,80 @@
             "title": "Querl",
             "link": "https://blog.spacemanlabs.com/2023/02/querl/",
             "updated": 1677577969,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=861",
             "title": "Web Open Font Format (WOFF) and UIFont",
             "link": "https://blog.spacemanlabs.com/2022/07/web-open-font-format-woff-and-uifont/",
             "updated": 1657212230,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=854",
             "title": "Handling Empty Lists with Realm\u2019s Property Wrappers",
             "link": "https://blog.spacemanlabs.com/2021/12/handling-empty-lists-with-realms-property-wrappers/",
             "updated": 1640260381,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=851",
             "title": "User Language Preferences",
             "link": "https://blog.spacemanlabs.com/2021/11/user-language-preferences/",
             "updated": 1638194404,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=848",
             "title": "GraphQL",
             "link": "https://blog.spacemanlabs.com/2021/04/graphql/",
             "updated": 1619451041,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=843",
             "title": "Mistakes Were Made: A Brief Note on Keyboard Full Access",
             "link": "https://blog.spacemanlabs.com/2019/01/mistakes-were-made-a-brief-note-on-keyboard-full-access/",
             "updated": 1547809795,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "https://blog.spacemanlabs.com/?p=833",
             "title": "DYJ4U on iOS Autocomplete: a Response",
             "link": "https://blog.spacemanlabs.com/2018/11/dyj4u-on-ios-autocomplete-a-response/",
             "updated": 1541519818,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "http://blog.spacemanlabs.com/?p=821",
             "title": "Recursive Property Observation in Swift",
             "link": "https://blog.spacemanlabs.com/2018/04/recursive-property-observation-in-swift/",
             "updated": 1522922429,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "http://blog.spacemanlabs.com/?p=816",
             "title": "Jot",
             "link": "https://blog.spacemanlabs.com/2018/04/jot/",
             "updated": 1522663224,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         },
         {
             "id": "http://blog.spacemanlabs.com/?p=809",
             "title": "Repartee",
             "link": "https://blog.spacemanlabs.com/2014/06/repartee/",
             "updated": 1403744928,
-            "site_url": "https://blog.spacemanlabs.com"
+            "site_url": "https://blog.spacemanlabs.com",
+            "slug": "development"
         }
     ]
 }

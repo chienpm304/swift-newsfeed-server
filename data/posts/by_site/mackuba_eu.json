@@ -6,70 +6,80 @@
             "title": "March 2024 projects update",
             "link": "https://mackuba.eu/2024/03/27/march-projects-update/",
             "updated": 1711476875,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2024/02/21/bluesky-guide/",
             "title": "A complete guide to Bluesky \ud83e\udd8b",
             "link": "https://mackuba.eu/2024/02/21/bluesky-guide/",
             "updated": 1708513512,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2023/11/09/year-of-social-media-coding/",
             "title": "2023: Year of social media coding",
             "link": "https://mackuba.eu/2023/11/09/year-of-social-media-coding/",
             "updated": 1699515967,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2022/12/22/social-media-update/",
             "title": "Social media update - Elon's Twitter and Mastodon",
             "link": "https://mackuba.eu/2022/12/22/social-media-update/",
             "updated": 1671700861,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2021/12/30/new-nsbutton-post/",
             "title": "New edition of the \"Guide to NSButton styles\"",
             "link": "https://mackuba.eu/2021/12/30/new-nsbutton-post/",
             "updated": 1640849339,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2020/10/15/typescript-on-corona-charts/",
             "title": "TypeScript on Corona Charts",
             "link": "https://mackuba.eu/2020/10/15/typescript-on-corona-charts/",
             "updated": 1602751386,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2020/09/10/watchkit-adventure-4-tables-navigation/",
             "title": "WatchKit Adventure #4: Tables and Navigation",
             "link": "https://mackuba.eu/2020/09/10/watchkit-adventure-4-tables-navigation/",
             "updated": 1599712583,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2020/08/26/watchkit-adventure-3-app-ui/",
             "title": "WatchKit Adventure #3: Building the App UI",
             "link": "https://mackuba.eu/2020/08/26/watchkit-adventure-3-app-ui/",
             "updated": 1598423141,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2020/08/17/swiftui-beta/",
             "title": "SwiftUI betas - what changed before 1.0",
             "link": "https://mackuba.eu/2020/08/17/swiftui-beta/",
             "updated": 1597641974,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         },
         {
             "id": "https://mackuba.eu/2020/07/07/photo-library-changes-ios-14/",
             "title": "Photo library changes in iOS 14",
             "link": "https://mackuba.eu/2020/07/07/photo-library-changes-ios-14/",
             "updated": 1594107365,
-            "site_url": "https://mackuba.eu"
+            "site_url": "https://mackuba.eu",
+            "slug": "development"
         }
     ]
 }

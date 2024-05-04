@@ -6,399 +6,456 @@
             "title": "Solar Powered Birdhouse",
             "link": "https://atomicbird.com/blog/birdhouse-solar-power/",
             "updated": 1652893200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/birdhouse-software/",
             "title": "Raspberry Pi Birdhouse Software",
             "link": "https://atomicbird.com/blog/birdhouse-software/",
             "updated": 1652029200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/birdhouse-camera-hardware/",
             "title": "Raspberry Pi Birdhouse Camera",
             "link": "https://atomicbird.com/blog/birdhouse-camera-hardware/",
             "updated": 1651856400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/clash-of-the-optionals/",
             "title": "Clash of the Optionals",
             "link": "https://atomicbird.com/blog/clash-of-the-optionals/",
             "updated": 1642698000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/core-data-code-only/",
             "title": "Core Data Using Only Code",
             "link": "https://atomicbird.com/blog/core-data-code-only/",
             "updated": 1636304400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/stumping-1000-years/",
             "title": "Stumping People for 1000* Years",
             "link": "https://atomicbird.com/blog/stumping-1000-years/",
             "updated": 1630515600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/core-data-backups-redux/",
             "title": "Core Data Backups, Redux",
             "link": "https://atomicbird.com/blog/core-data-backups-redux/",
             "updated": 1616950800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/mostly-undocumented/",
             "title": "Mostly Undocumented",
             "link": "https://atomicbird.com/blog/mostly-undocumented/",
             "updated": 1616605200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/core-data-back-up-store/",
             "title": "Backing up Core Data Stores",
             "link": "https://atomicbird.com/blog/core-data-back-up-store/",
             "updated": 1590426000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/pdfkit-thumbnails/",
             "title": "Adding thumbnails with PDFKit",
             "link": "https://atomicbird.com/blog/pdfkit-thumbnails/",
             "updated": 1586883600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/json-vs-plists-2020/",
             "title": "JSON vs Property Lists, Revisited",
             "link": "https://atomicbird.com/blog/json-vs-plists-2020/",
             "updated": 1583168400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/pdfkit-basics/",
             "title": "Getting started with PDFKit",
             "link": "https://atomicbird.com/blog/pdfkit-basics/",
             "updated": 1582650000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/interactive-presentation-slides-at-360idev/",
             "title": "Interactive Presentation Slides at 360iDev",
             "link": "https://atomicbird.com/blog/interactive-presentation-slides-at-360idev/",
             "updated": 1580144400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/emoji-logging/",
             "title": "Better logging with Emoji",
             "link": "https://atomicbird.com/blog/emoji-logging/",
             "updated": 1579194000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/return-to-independence/",
             "title": "Return to Independence",
             "link": "https://atomicbird.com/blog/return-to-independence/",
             "updated": 1578934800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/bombbomb-gazette/",
             "title": "BombBomb in the Gazette",
             "link": "https://atomicbird.com/blog/bombbomb-gazette/",
             "updated": 1509728400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/data-detection-in-swift/",
             "title": "Data Detection in Swift",
             "link": "https://atomicbird.com/blog/data-detection-in-swift/",
             "updated": 1508864400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/migrating-from-dropbox/",
             "title": "Migrating from Dropbox",
             "link": "https://atomicbird.com/blog/migrating-from-dropbox/",
             "updated": 1478710800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow/",
             "title": "Date Math is Hard, Let's Do it Tomorrow",
             "link": "https://atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow/",
             "updated": 1478365200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/my-other-blog/",
             "title": "My other blog",
             "link": "https://atomicbird.com/blog/my-other-blog/",
             "updated": 1473354000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/stump-360-iii/",
             "title": "Stump 360 III: The Search for Stump",
             "link": "https://atomicbird.com/blog/stump-360-iii/",
             "updated": 1470934800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/stump-360-questions-2015/",
             "title": "Stump 360 Questions, 2015",
             "link": "https://atomicbird.com/blog/stump-360-questions-2015/",
             "updated": 1470934800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/uistackview-table-cells/",
             "title": "Using Stack Views in Table Cells",
             "link": "https://atomicbird.com/blog/uistackview-table-cells/",
             "updated": 1470243600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/uistackview-flexible-design/",
             "title": "Flexible UI Design with UIStackView",
             "link": "https://atomicbird.com/blog/uistackview-flexible-design/",
             "updated": 1469638800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/iosdevcampdc/",
             "title": "UIStackView talk at iOSDevCamp DC",
             "link": "https://atomicbird.com/blog/iosdevcampdc/",
             "updated": 1469466000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/handling-dates/",
             "title": "Dates and Data Models",
             "link": "https://atomicbird.com/blog/handling-dates/",
             "updated": 1456333200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/file-coordination-fix/",
             "title": "File Coordination Fixed!",
             "link": "https://atomicbird.com/blog/file-coordination-fix/",
             "updated": 1431882000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/swift-generators-sequences/",
             "title": "Swift Generators and Sequences",
             "link": "https://atomicbird.com/blog/swift-generators-sequences/",
             "updated": 1427043600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/swift-core-data/",
             "title": "Using Core Data with Swift",
             "link": "https://atomicbird.com/blog/swift-core-data/",
             "updated": 1426438800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/sharing-with-app-extensions/",
             "title": "Sharing data between iOS apps and app extensions",
             "link": "https://atomicbird.com/blog/sharing-with-app-extensions/",
             "updated": 1416416400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/ios-extension-demo/",
             "title": "iOS 8 App Extension Demo",
             "link": "https://atomicbird.com/blog/ios-extension-demo/",
             "updated": 1416330000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/ios-app-extension-tips/",
             "title": "iOS 8 App Extension Development Tips",
             "link": "https://atomicbird.com/blog/ios-app-extension-tips/",
             "updated": 1412269200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/cloudkit-moves-like-azure/",
             "title": "CloudKit: Moves like Azure",
             "link": "https://atomicbird.com/blog/cloudkit-moves-like-azure/",
             "updated": 1402938000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/objc-autorelease-tee/",
             "title": "[objC autorelease]; t-shirts",
             "link": "https://atomicbird.com/blog/objc-autorelease-tee/",
             "updated": 1402333200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/passbook-card-details/",
             "title": "Making your own Passbook Business Card",
             "link": "https://atomicbird.com/blog/passbook-card-details/",
             "updated": 1402246800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/passbook-ibeacon-business-card/",
             "title": "Passbook and iBeacon for a 21st Century Business Card",
             "link": "https://atomicbird.com/blog/passbook-ibeacon-business-card/",
             "updated": 1401382800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/storm-icloud/",
             "title": "Storm (i)Cloud",
             "link": "https://atomicbird.com/blog/storm-icloud/",
             "updated": 1397235600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/probably-approximately-correct-location/",
             "title": "Probably Approximately Correct Location for iOS",
             "link": "https://atomicbird.com/blog/probably-approximately-correct-location/",
             "updated": 1382893200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/mark-dalrymple-objc-runtime/",
             "title": "Mark Dalrymple on the Objective-C Run Time",
             "link": "https://atomicbird.com/blog/mark-dalrymple-objc-runtime/",
             "updated": 1374080400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/dropbox-datastore/",
             "title": "Dropbox Datastore, the iCloud Killer? (updated)",
             "link": "https://atomicbird.com/blog/dropbox-datastore/",
             "updated": 1373389200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/learning-ipad-programming-2/",
             "title": "Learning iPad Programming, 2nd Edition",
             "link": "https://atomicbird.com/blog/learning-ipad-programming-2/",
             "updated": 1369069200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/icloud-as-she-is-spoke-spring-2013/",
             "title": "iCloud as She is Spoke, Spring 2013",
             "link": "https://atomicbird.com/blog/icloud-as-she-is-spoke-spring-2013/",
             "updated": 1368464400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/icloud-complications-part-3/",
             "title": "iCloud Complications, Part 3: I'm Waiting...",
             "link": "https://atomicbird.com/blog/icloud-complications-part-3/",
             "updated": 1367859600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/introducing-momcom/",
             "title": "Introducing momcom",
             "link": "https://atomicbird.com/blog/introducing-momcom/",
             "updated": 1367514000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/introducing-momdec/",
             "title": "Introducing momdec",
             "link": "https://atomicbird.com/blog/introducing-momdec/",
             "updated": 1366131600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/icloud-complications-part-2/",
             "title": "iCloud Complications, Part 2: De-duplication",
             "link": "https://atomicbird.com/blog/icloud-complications-part-2/",
             "updated": 1365958800,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/iosdevcamp-colorado-2013/",
             "title": "iOSDevCamp Colorado 2013",
             "link": "https://atomicbird.com/blog/iosdevcamp-colorado-2013/",
             "updated": 1365699600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/icloud-complications/",
             "title": "iCloud Complications, Part 1",
             "link": "https://atomicbird.com/blog/icloud-complications/",
             "updated": 1365440400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/json-vs-plists/",
             "title": "JSON and Property Lists: Alternate Universe Siblings",
             "link": "https://atomicbird.com/blog/json-vs-plists/",
             "updated": 1364922000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/siegel-on-icloud/",
             "title": "Rich Siegel on iCloud",
             "link": "https://atomicbird.com/blog/siegel-on-icloud/",
             "updated": 1364403600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/icloud-sotu/",
             "title": "iCloud: State of the Union",
             "link": "https://atomicbird.com/blog/icloud-sotu/",
             "updated": 1364317200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/wwdc-notifiers/",
             "title": "Waiting for WWDC",
             "link": "https://atomicbird.com/blog/wwdc-notifiers/",
             "updated": 1363453200,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/rebooting-blog/",
             "title": "Rebooting my site with Kirby",
             "link": "https://atomicbird.com/blog/rebooting-blog/",
             "updated": 1363280400,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/blog/extending-nsdata/",
             "title": "Extending NSData and (not) overriding dealloc",
             "link": "https://atomicbird.com/blog/extending-nsdata/",
             "updated": 1363107600,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/about/",
             "title": "About Atomic Bird",
             "link": "https://atomicbird.com/about/",
             "updated": 978282000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/contact/",
             "title": "Contact",
             "link": "https://atomicbird.com/contact/",
             "updated": 978282000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         },
         {
             "id": "https://atomicbird.com/mac-apps/",
             "title": "Mac Apps",
             "link": "https://atomicbird.com/mac-apps/",
             "updated": 978282000,
-            "site_url": "https://atomicbird.com/"
+            "site_url": "https://atomicbird.com/",
+            "slug": "development"
         }
     ]
 }

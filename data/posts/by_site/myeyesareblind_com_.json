@@ -6,14 +6,16 @@
             "title": "How to build WebRTC for Mac-Catalyst or Ninja intro for Apple-developers | myeyesareblind",
             "link": "http://myeyesareblind.com/2020/06/28/webrtc-catalyst/",
             "updated": 1593277200,
-            "site_url": "http://myeyesareblind.com/"
+            "site_url": "http://myeyesareblind.com/",
+            "slug": "development"
         },
         {
             "id": "http://myeyesareblind.com/2017/02/06/Combine-hash-values/",
             "title": "Combining hash values | myeyesareblind",
             "link": "http://myeyesareblind.com/2017/02/06/Combine-hash-values/",
             "updated": 1486314000,
-            "site_url": "http://myeyesareblind.com/"
+            "site_url": "http://myeyesareblind.com/",
+            "slug": "development"
         }
     ]
 }

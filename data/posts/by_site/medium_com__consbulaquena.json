@@ -6,63 +6,72 @@
             "title": "Swift Navigation Bar Image Title",
             "link": "https://medium.com/@consbulaquena/swift-navigation-bar-image-title-53e1c7e6e9c3?source=rss-7ea46047efcb------2",
             "updated": 1533205850,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/5eb439fb430",
             "title": "Swift: How to place image in a circle",
             "link": "https://medium.com/@consbulaquena/swift-image-in-a-circle-5eb439fb430?source=rss-7ea46047efcb------2",
             "updated": 1524421952,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/33f52bea7e8f",
             "title": "Mastering Git",
             "link": "https://medium.com/@consbulaquena/mastering-git-33f52bea7e8f?source=rss-7ea46047efcb------2",
             "updated": 1524421815,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/46d9a461ccd7",
             "title": "Fixing Swift Sdtlib tool error: Task failed with exit code 1",
             "link": "https://medium.com/@consbulaquena/fixing-swift-sdtlib-tool-error-task-failed-with-exit-code-1-46d9a461ccd7?source=rss-7ea46047efcb------2",
             "updated": 1524246454,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/9a50a94368da",
             "title": "Fixing \u201cThread 1: signal SIGABRT\u201d error in iOS",
             "link": "https://medium.com/@consbulaquena/fixing-thread-1-signal-sigabrt-error-in-ios-9a50a94368da?source=rss-7ea46047efcb------2",
             "updated": 1523631811,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/e4ad0a4d3af6",
             "title": "iOS Failed to instantiate the default view controller",
             "link": "https://medium.com/@consbulaquena/ios-failed-to-instantiate-the-default-view-controller-e4ad0a4d3af6?source=rss-7ea46047efcb------2",
             "updated": 1523185776,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/1fc7b8f5788d",
             "title": "Couldn\u2019t generate Swift representation Error from source kit Could not load module: GoogleSignin",
             "link": "https://medium.com/@consbulaquena/couldnt-generate-swift-representation-error-from-source-kit-could-not-load-module-googlesignin-1fc7b8f5788d?source=rss-7ea46047efcb------2",
             "updated": 1523185377,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/6959a402b03d",
             "title": "GitHub commits aren\u2019t recorded in the \u2018Your Contributions` calendar",
             "link": "https://medium.com/@consbulaquena/github-commits-arent-recorded-in-the-your-contributions-calendar-6959a402b03d?source=rss-7ea46047efcb------2",
             "updated": 1523184690,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         },
         {
             "id": "https://medium.com/p/f39d2c8477c0",
             "title": "Hello, Objective-C.",
             "link": "https://medium.com/@consbulaquena/hello-objective-c-f39d2c8477c0?source=rss-7ea46047efcb------2",
             "updated": 1422518515,
-            "site_url": "https://medium.com/@consbulaquena"
+            "site_url": "https://medium.com/@consbulaquena",
+            "slug": "development"
         }
     ]
 }

@@ -6,70 +6,80 @@
             "title": "Dreaming",
             "link": "https://www.beckyhansmeyer.com/2023/02/03/dreaming/",
             "updated": 1675415108,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2684",
             "title": "Rediscovery",
             "link": "https://www.beckyhansmeyer.com/2023/01/11/rediscovery/",
             "updated": 1673429235,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2655",
             "title": "The Friends We Made Along the Way",
             "link": "https://www.beckyhansmeyer.com/2022/11/14/the-friends-we-made-along-the-way/",
             "updated": 1668419671,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2642",
             "title": "Reflections on WWDC 2022",
             "link": "https://www.beckyhansmeyer.com/2022/06/13/reflections-on-wwdc-2022/",
             "updated": 1655144316,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2633",
             "title": "What I\u2019m Excited About/Hoping for at WWDC 2022",
             "link": "https://www.beckyhansmeyer.com/2022/06/04/what-im-excited-hoping-for-at-wwdc-2022/",
             "updated": 1654369909,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2609",
             "title": "I\u2019m Making a Game",
             "link": "https://www.beckyhansmeyer.com/2022/01/27/im-making-a-game/",
             "updated": 1643282051,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2558",
             "title": "A Few Thoughts on the Eve of WWDC",
             "link": "https://www.beckyhansmeyer.com/2021/06/06/a-few-thoughts-on-the-eve-of-wwdc/",
             "updated": 1622930400,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2537",
             "title": "Adding a Gradient to Large Title Text in SwiftUI or UIKit",
             "link": "https://www.beckyhansmeyer.com/2021/05/22/adding-a-gradient-to-your-large-title-text-in-swiftui-or-uikit/",
             "updated": 1621711179,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2528",
             "title": "What\u2019s New in YarnBuddy",
             "link": "https://www.beckyhansmeyer.com/2021/05/18/whats-new-in-yarnbuddy/",
             "updated": 1621339974,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         },
         {
             "id": "https://www.beckyhansmeyer.com/?p=2519",
             "title": "Wishes for WWDC 2021",
             "link": "https://www.beckyhansmeyer.com/2021/05/12/wishes-for-wwdc-2021/",
             "updated": 1620849996,
-            "site_url": "https://www.beckyhansmeyer.com/"
+            "site_url": "https://www.beckyhansmeyer.com/",
+            "slug": "development"
         }
     ]
 }

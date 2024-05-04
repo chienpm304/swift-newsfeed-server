@@ -6,105 +6,120 @@
             "title": "Ice Cubes for Mastodon",
             "link": "https://www.youtube.com/watch?v=550j6DUrgG8",
             "updated": 1714119315,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:3MC0TqKbGS8",
             "title": "Offline Search Engine with SimilaritySearchKit",
             "link": "https://www.youtube.com/watch?v=3MC0TqKbGS8",
             "updated": 1714119074,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yvqgnwWOh0M",
             "title": "Creating a Flashcard App for Kids",
             "link": "https://www.youtube.com/watch?v=yvqgnwWOh0M",
             "updated": 1714112729,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:LYv5vr6HMC0",
             "title": "Laid Off, AI is Coming",
             "link": "https://www.youtube.com/watch?v=LYv5vr6HMC0",
             "updated": 1714101069,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:yD9rfPX2HPs",
             "title": "Refactoring Code into the Composable Architecture for Flashcards app",
             "link": "https://www.youtube.com/watch?v=yD9rfPX2HPs",
             "updated": 1714087080,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:sUnzsfbx1ZQ",
             "title": "Paywall UI - Devlog-000",
             "link": "https://www.youtube.com/watch?v=sUnzsfbx1ZQ",
             "updated": 1714059688,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:xkviXRdnjy8",
             "title": "In-App Purchases - Devlog-001",
             "link": "https://www.youtube.com/watch?v=xkviXRdnjy8",
             "updated": 1714045178,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:w6m3wXlmoCw",
             "title": "Adding Dynamic Content to Flashcards App",
             "link": "https://www.youtube.com/watch?v=w6m3wXlmoCw",
             "updated": 1713998589,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:HJBrCBJB71Y",
             "title": "Apple Vision Pro for Business",
             "link": "https://www.youtube.com/watch?v=HJBrCBJB71Y",
             "updated": 1713227503,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:bfWJeMkHgPw",
             "title": "Allow User to Add Dynamic Data in the Flashcards App",
             "link": "https://www.youtube.com/watch?v=bfWJeMkHgPw",
             "updated": 1712352553,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:rZKpDIL8YYA",
             "title": "SwiftUI Sucks | Devlog-002",
             "link": "https://www.youtube.com/watch?v=rZKpDIL8YYA",
             "updated": 1711342497,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:celNGJHgX-8",
             "title": "Working with Multiple Decks in the Flashcards App",
             "link": "https://www.youtube.com/watch?v=celNGJHgX-8",
             "updated": 1710490488,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:XRvYSXOGCLI",
             "title": "Routing Library for SwiftUI Navigation",
             "link": "https://www.youtube.com/watch?v=XRvYSXOGCLI",
             "updated": 1710474889,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:fzrYf55cgfA",
             "title": "Introducing Claude 2: The BEST ChatGPT Alternative",
             "link": "https://www.youtube.com/watch?v=fzrYf55cgfA",
             "updated": 1710418404,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         },
         {
             "id": "yt:video:DsuGvIcPyBI",
             "title": "\u201cThe Impacts of AI on the Human Race\u201d made with Midjourney and HuggingFace #ai",
             "link": "https://www.youtube.com/watch?v=DsuGvIcPyBI",
             "updated": 1710283311,
-            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA"
+            "site_url": "https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA",
+            "slug": "youtube"
         }
     ]
 }

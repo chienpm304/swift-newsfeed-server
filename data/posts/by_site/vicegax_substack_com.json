@@ -6,77 +6,88 @@
             "title": "NSViewRepresentable breaks",
             "link": "https://vicegax.substack.com/p/nsviewrepresentable-breaks",
             "updated": 1711976932,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/web-inspector-on-ios-164",
             "title": "Web Inspector on iOS 16.4",
             "link": "https://vicegax.substack.com/p/web-inspector-on-ios-164",
             "updated": 1681091572,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/removing-search-web-from-a-context",
             "title": "Removing Search Web from a context menu",
             "link": "https://vicegax.substack.com/p/removing-search-web-from-a-context",
             "updated": 1678862019,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/dismiss-a-swiftui-sheet-on-macos",
             "title": "Dismiss a SwiftUI sheet on macOS",
             "link": "https://vicegax.substack.com/p/dismiss-a-swiftui-sheet-on-macos",
             "updated": 1678351300,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/self-only-as-property-subscript-or",
             "title": "Self only as property, subscript or result",
             "link": "https://vicegax.substack.com/p/self-only-as-property-subscript-or",
             "updated": 1677151620,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/webkit-content-blockers-not-supporting",
             "title": "WebKit content blockers not supporting :has()",
             "link": "https://vicegax.substack.com/p/webkit-content-blockers-not-supporting",
             "updated": 1676611932,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/bezelstyle-in-nstextfield",
             "title": "BezelStyle in NSTextField.",
             "link": "https://vicegax.substack.com/p/bezelstyle-in-nstextfield",
             "updated": 1674476457,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/progress-not-publishing-all-properties",
             "title": "Progress not publishing all properties",
             "link": "https://vicegax.substack.com/p/progress-not-publishing-all-properties",
             "updated": 1674368796,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/xcode-crash-with-source-control",
             "title": "Xcode crash with Source Control",
             "link": "https://vicegax.substack.com/p/xcode-crash-with-source-control",
             "updated": 1674201264,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/full-screen-videos-in-a-browser",
             "title": "Full-screen videos in a browser",
             "link": "https://vicegax.substack.com/p/full-screen-videos-in-a-browser",
             "updated": 1673870476,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         },
         {
             "id": "https://vicegax.substack.com/p/swiftui-list-unpredicted-behaviour",
             "title": "SwiftUI List unpredictable behaviour",
             "link": "https://vicegax.substack.com/p/swiftui-list-unpredicted-behaviour",
             "updated": 1673678818,
-            "site_url": "https://vicegax.substack.com"
+            "site_url": "https://vicegax.substack.com",
+            "slug": "development"
         }
     ]
 }

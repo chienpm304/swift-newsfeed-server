@@ -6,70 +6,80 @@
             "title": "Implementing a TV Guide with SwiftUI",
             "link": "https://www.dcordero.me/posts/implementing-a-tvguide-with-swiftui.html",
             "updated": 1710111600,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/global_git_ignore",
             "title": "Global Git Ignore",
             "link": "https://www.dcordero.me/posts/global_git_ignore.html",
             "updated": 1680649200,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/some_thoughts_about_mastodon_and_social_networks",
             "title": "Some thoughts about Mastodon and Social Networks",
             "link": "https://www.dcordero.me/posts/some_thoughts_about_mastodon_and_social_networks.html",
             "updated": 1668380400,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/logarithmic_volume_control",
             "title": "Logarithmic Volume Control",
             "link": "https://www.dcordero.me/posts/logarithmic_volume_control.html",
             "updated": 1634511600,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/capture_circular_gestures_on_siri_remote_2nd_generation",
             "title": "Capture Circular Gestures from Siri Remote 2nd Generation",
             "link": "https://www.dcordero.me/posts/capture_circular_gestures_on_siri_remote_2nd_generation.html",
             "updated": 1630450800,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/implementing_a_video_player_with_realitykit",
             "title": "Implementing a Video Player with RealityKit",
             "link": "https://www.dcordero.me/posts/implementing_a_video_player_with_realitykit.html",
             "updated": 1629154800,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/prevent-fast-forward-in-tvos",
             "title": "Prevent fast-forward in\u00a0tvOS",
             "link": "https://www.dcordero.me/posts/prevent-fast-forward-in-tvos.html",
             "updated": 1628118000,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/cmtime-for-human-beings",
             "title": "CMTime for Human\u00a0Beings",
             "link": "https://www.dcordero.me/posts/cmtime-for-human-beings.html",
             "updated": 1625612400,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/binding-a-swift-dictionary-to-swiftui",
             "title": "Binding a Swift Dictionary to SwiftUI",
             "link": "https://www.dcordero.me/posts/binding-a-swift-dictionary-to-swiftui.html",
             "updated": 1623884400,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         },
         {
             "id": "https://www.dcordero.me/posts/timed_metadata_with_avplayer",
             "title": "HLS Timed Metadata with AVPlayer",
             "link": "https://www.dcordero.me/posts/timed_metadata_with_avplayer.html",
             "updated": 1612134000,
-            "site_url": "https://dcordero.me/"
+            "site_url": "https://dcordero.me/",
+            "slug": "development"
         }
     ]
 }

@@ -6,301 +6,344 @@
             "title": "All I Remember by Brian Eno",
             "link": "https://thermalcorner.net/post/all-i-remember/",
             "updated": 1713546000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridges-for-the-vision-pro/",
             "title": "Bridges launches on Vision Pro",
             "link": "https://thermalcorner.net/post/bridges-for-the-vision-pro/",
             "updated": 1708880400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridges-post-launch/",
             "title": "Bridges post launch",
             "link": "https://thermalcorner.net/post/bridges-post-launch/",
             "updated": 1700413200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridges-1.0/",
             "title": "Bridges 1.0",
             "link": "https://thermalcorner.net/post/bridges-1.0/",
             "updated": 1699894800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/relayfm-for-st.jude-2023/",
             "title": "RelayFM for St.Jude",
             "link": "https://thermalcorner.net/post/relayfm-for-st.jude-2023/",
             "updated": 1695315600,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridgesformacos/",
             "title": "Bridges for Mac",
             "link": "https://thermalcorner.net/post/bridgesformacos/",
             "updated": 1695056400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridgesforipad/",
             "title": "Bridges for iPad",
             "link": "https://thermalcorner.net/post/bridgesforipad/",
             "updated": 1692550800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/first-impressions-of-mac/",
             "title": "First impressions of Mac",
             "link": "https://thermalcorner.net/post/first-impressions-of-mac/",
             "updated": 1691946000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/building-the-system/",
             "title": "Building the system",
             "link": "https://thermalcorner.net/post/building-the-system/",
             "updated": 1691427600,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/contact/",
             "title": "Contact",
             "link": "https://thermalcorner.net/contact/",
             "updated": 1691427600,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/my-next-mac/",
             "title": "My next Mac",
             "link": "https://thermalcorner.net/post/my-next-mac/",
             "updated": 1690909200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/my-thermal-corner-of-the-net/",
             "title": "My thermal corner of the net",
             "link": "https://thermalcorner.net/post/my-thermal-corner-of-the-net/",
             "updated": 1690822800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/be-kind-to-yourself/",
             "title": "Be kind to yourself",
             "link": "https://thermalcorner.net/post/be-kind-to-yourself/",
             "updated": 1690736400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/wwdc-2023/",
             "title": "WWDC 2023 thoughts",
             "link": "https://thermalcorner.net/post/wwdc-2023/",
             "updated": 1686157200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/my-experience-at-deep-dish-swift/",
             "title": "My experience at Deep Dish Swift",
             "link": "https://thermalcorner.net/post/my-experience-at-deep-dish-swift/",
             "updated": 1683565200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/preparing-for-a-1.0/",
             "title": "Preparing for a 1.0",
             "link": "https://thermalcorner.net/post/preparing-for-a-1.0/",
             "updated": 1681664400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/an-update-on-the-year-of-realization/",
             "title": "An update on the Year of Realization",
             "link": "https://thermalcorner.net/post/an-update-on-the-year-of-realization/",
             "updated": 1676998800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/twitter-cuts-off-3rd-party-clients/",
             "title": "Twitter cuts off 3rd party clients",
             "link": "https://thermalcorner.net/post/twitter-cuts-off-3rd-party-clients/",
             "updated": 1673542800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/launching-the-bridges-beta/",
             "title": "Launching the Bridges Beta",
             "link": "https://thermalcorner.net/post/launching-the-bridges-beta/",
             "updated": 1673370000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridges-beta/",
             "title": "Bridges Beta",
             "link": "https://thermalcorner.net/post/bridges-beta/",
             "updated": 1673283600,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/algorithm-after-effects/",
             "title": "Algorithm after effects",
             "link": "https://thermalcorner.net/post/algorithm-after-effects/",
             "updated": 1672938000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/launched-a-patreon/",
             "title": "Launched A Patreon",
             "link": "https://thermalcorner.net/post/launched-a-patreon/",
             "updated": 1672678800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/the-year-of-realization/",
             "title": "The year of Realization",
             "link": "https://thermalcorner.net/post/the-year-of-realization/",
             "updated": 1672506000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/2023/",
             "title": "2023",
             "link": "https://thermalcorner.net/post/2023/",
             "updated": 1671469200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/bridgesannouncement/",
             "title": "Bridges",
             "link": "https://thermalcorner.net/post/bridgesannouncement/",
             "updated": 1671037200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/the-gate/",
             "title": "The Gate",
             "link": "https://thermalcorner.net/post/the-gate/",
             "updated": 1669741200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/finding-my-voice/",
             "title": "Finding my voice",
             "link": "https://thermalcorner.net/post/finding-my-voice/",
             "updated": 1668445200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/post-twitter/",
             "title": "Post Twitter",
             "link": "https://thermalcorner.net/post/post-twitter/",
             "updated": 1668445200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/twitter/",
             "title": "Twitter",
             "link": "https://thermalcorner.net/post/twitter/",
             "updated": 1668099600,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/twitter-mastodon/",
             "title": "Twitter & Mastodon",
             "link": "https://thermalcorner.net/post/twitter-mastodon/",
             "updated": 1667840400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/launched/",
             "title": "Launched",
             "link": "https://thermalcorner.net/post/launched/",
             "updated": 1664902800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/davidsmithsapplewatchultrareview/",
             "title": "_David Smith's Apple Watch Ultra Review",
             "link": "https://thermalcorner.net/post/davidsmithsapplewatchultrareview/",
             "updated": 1664384400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/myfavoritepodcasts/",
             "title": "My favorite podcasts",
             "link": "https://thermalcorner.net/post/myfavoritepodcasts/",
             "updated": 1664298000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/acooliphone/",
             "title": "A cool iPhone",
             "link": "https://thermalcorner.net/post/acooliphone/",
             "updated": 1663952400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/relayfmforstjude/",
             "title": "Relay FM for St.Jude",
             "link": "https://thermalcorner.net/post/relayfmforstjude/",
             "updated": 1663866000,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/fromminitopro/",
             "title": "From mini to Pro",
             "link": "https://thermalcorner.net/post/fromminitopro/",
             "updated": 1663693200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/the-iphone-mini/",
             "title": "The iPhone mini",
             "link": "https://thermalcorner.net/post/the-iphone-mini/",
             "updated": 1662397200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/betalife/",
             "title": "Beta life",
             "link": "https://thermalcorner.net/post/betalife/",
             "updated": 1657472400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/stephenhacketts2023applehistorycalendar/",
             "title": "Stephen Hackett's 2023 Apple History Calendar",
             "link": "https://thermalcorner.net/post/stephenhacketts2023applehistorycalendar/",
             "updated": 1657040400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/from30pintolightning/",
             "title": "From 30 pin to lightning",
             "link": "https://thermalcorner.net/post/from30pintolightning/",
             "updated": 1656262800,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/wwdc22/",
             "title": "WWDC22 first impressions",
             "link": "https://thermalcorner.net/post/wwdc22/",
             "updated": 1654448400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/post/balticaquascaphe/",
             "title": "Getting a mechanical watch",
             "link": "https://thermalcorner.net/post/balticaquascaphe/",
             "updated": 1654189200,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         },
         {
             "id": "https://thermalcorner.net/about/",
             "title": "About",
             "link": "https://thermalcorner.net/about/",
             "updated": 1650992400,
-            "site_url": "https://www.thermalcorner.net"
+            "site_url": "https://www.thermalcorner.net",
+            "slug": "development"
         }
     ]
 }
